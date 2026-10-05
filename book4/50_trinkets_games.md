@@ -1029,3 +1029,134 @@ That is what the Second Table says the game is for. Its Scullions say that in th
 [card: The Dish | Who Is Served | **Queen.** It cannot be paired. When the courses are cleared, whoever holds this card is served.]
 [card: (Blank) | Who Is Served | This card has no course. When the game ends, the Carver takes it back without looking. **Nobody remembers drawing it.**]
 
+## Who Finishes
+
+[sigil: sallowreach]
+
+The card game of the north is a game about getting rid of everything you hold, in a country where nothing is ever allowed to end. Every player is trying to go out. Nobody may go out without a licence. And the player left holding cards at the end, the one who could not finish, pays everyone, and is called **the Kept** until the next hand, and is laughed at, kindly, by the dead. It is played in every tavern on the Lower Pilings, in the reading-rooms of the Lofts, on the barges of the Sump, and in the Room of the Long Argument, where a hand begun in 344 A.G. between four Unvacated aldermen has not yet finished, because none of them has drawn an Ace in two hundred and ninety-seven years, and none of them will agree to a new deal.
+
+**Who and where.** The living and the Kept together, which is its charm: it is the one game on the Table at which the dead can play the living on equal terms, holding their cards in wooden racks when their fingers are no longer reliable, bidding by jaw-click through an interpreter. Loft-Wardens play it with the shelved, reading out the hand and placing the cards as the shelf whispers.
+
+**What you need.** A standard deck of fifty-two cards. Three to six players. Coins or tokens.
+
+#### The Rules
+
+1. **Ranks.** From low to high: 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, **Ace**. The **2s** are **Stitches** and stand outside the ranks (see below). Suits do not matter.
+2. **The deal.** Deal out the whole deck, one at a time; some players may have one more card than others. In the first hand, the player holding the 3 of clubs leads. In later hands, the Kept leads.
+3. **Plays.** A play is a single card, a pair, a triple, four of a kind, or a **run** of three or more single cards in consecutive rank (for example 6, 7, 8; Stitches cannot be in a run).
+4. **The trick.** The leader lays down any play. Going left, each player must either beat it with a play of the same form (a higher single on a single, a higher pair on a pair, a run of the same length with a higher top card on a run) or pass. A player who passes may not play again in that trick. When every other player has passed, the last player to play takes the trick (the cards are set aside face-down) and leads the next.
+5. **Stitches.** On your turn in any trick, instead of following, you may play a single **2**. The trick ends at once and you take it, and lead.
+6. **The License.** If you take a trick in which the last card you played was an **Ace**, keep that Ace face-up in front of you instead of setting it aside. That is your **License**. You may hold only one.
+7. **Finishing.** You may not play the last card or cards of your hand unless (a) that final play contains an Ace, or (b) you hold a License. A Stitch can never be your final card. If you hold a License, you may finish with any play except a Stitch. Nothing else lets you finish. Players without a License who are down to their last few cards must keep them, and pass, and wait.
+8. **Restitching.** If it is your turn to lead, and every play you could make would empty your hand without the right to finish, you are **restitched**: the player on your left must give you any two cards of their choosing from their own hand, and you then lead. (In Lastgate this is accompanied by a show of sympathy.)
+9. **Going out.** A player who plays their last cards has **finished**, and is out of the hand. Play continues without them. The first to finish is the **Closed**. Each later player to finish ranks below the one before.
+10. **The Kept.** When only one player still holds cards, that player is the **Kept**. The Kept pays one coin to every other player, and two to the Closed.
+11. **The Unvacated take their due.** Before the next hand begins, the Kept gives their two highest cards (Stitches count highest) to the Closed, and the Closed gives back any two cards they choose. The Kept leads.
+
+**Quick roll.** Eye + Reckoning, opposed; the lowest is the Kept. A player who is themselves Kept rolls with +2: they have had a great deal of practice.
+
+**Cheating.** Hiding a License up the sleeve (Kept players have a great deal of sleeve). An interpreter who misreports a Kept player's jaw-clicks, which is how most interpreters in Lastgate retire comfortably. Racks with a mirror at the back. And, among the Kept, the old trick of *dropping a finger*: a Kept player whose finger comes off at the right moment, onto the table, among the cards, has caused a disturbance in which anything can be swapped.
+
+**Stakes.** Breaths and minutes of Closing, above all, so that every hand is in a small way a wager on death. Below that, Seamers' tokens, Loft visits, the right to keep great-grandfather for a season instead of a cousin, and, among the Kept themselves, parts: the Kept who loses the hand pays in fingers, which are passed around the table and fixed back on by the winner's Seamer, because nobody in Sallowreach owns their hands for ever.
+
+**The horror around it.** In the Lack of 639, at a tavern called the Lid on the edge of Glovehall, a Kept tanner who had been losing at Who Finishes every night for a hundred and eighty years drew, for the first time, a hand of four Aces. The other players watched him lay them down, one trick after another, until he held one card, and a License, and laid the last card, and finished. Then he finished. He fell sideways off the bench and lay, for the first time in a hundred and eighty years, entirely still. There were no flies. There was no sound. The Lid is now the eastern edge of the Glovehall Hush, and the card table is inside it, with the hands still laid out, and the tanner's last card face-up in the middle, and the Finishers have begun to make pilgrimage there, in fours, to sit down at the table and deal.
+
+[pull] I never finish. Fifty years at this table, and I never finish. It's the only thing in Lastgate I'm good at. | — a Kept player of Who Finishes, Lower Pilings
+
+## Lack Keep Away, and Table's Laid
+
+[sigil: rim]
+
+Every child on the Table knows a counting-out rhyme, and most of them know the same one, in seven dialects and with seven endings. It is chanted with a pointing finger, round a ring of children, one word to each child, and the child it lands on at the end *goes away*: steps out of the ring, safe. The ring counts again, and again, until one child is left. That child is **it**. In most lands, it is then *it* for **Table's Laid**, the commonest ring-game on the Table, which every adult played as a child and which every adult, if asked, finds that they would rather not watch.
+
+**Who and where.** Children everywhere; in the Fast, in a version without chairs or tables, which is called Stand-Still and is played with the same rhyme. Rim inns keep a set of stools for it in the yard.
+
+**What you need.** For counting out, nothing. For Table's Laid, chairs, stools or chalk circles, one fewer than the number of players, set in a ring facing outward; plus **one more**, set a little apart from the ring, facing in, at its head.
+
+#### The Rhyme
+
+[fiction]
+Lack keep away, Lack keep away,
+who will eat with me today?
+One for the hand and two for the tongue,
+three for the eye, and four for the lung,
+five for the gut and six for the caul,
+seven for the one who ate nothing at all,
+and one for the chair, and the chair's pushed in,
+and out goes you, and in comes him.
+[/fiction]
+
+Each land changes the last two lines. Sallowreach: *and one for the chair, and the chair is shut, and you may finish, and you may not.* The Fatlands: *and one for the chair, and the chair is fed, and out goes you, and in goes bread.* Brinehollow: *and one for the chair, and the chair is wet, and you go out, and you're not back yet.* The Vigil: *and one for the chair, and the chair's a bed, and out goes you, and you're in it instead.* Cradlewrack: *and one for the chair, and the chair's not born, and out goes you on the ninth day morn.* Oathen children do not chant it; they count it in handtalk, and the last two lines are a gesture, a hand pushing an empty space away. In the Fast, it is *and one for the chair, and you won't sit down, and no, thank you, and out of town.*
+
+#### Counting Out: The Rules
+
+1. Children stand in a ring. The counter (the eldest, or whoever shouts first) stands in the ring too, and points to each child in turn, including themselves, going left, one word of the rhyme to each child.
+2. The child pointed to on the last word, *him* (or the land's last word), steps out. They are safe.
+3. The counter begins again with the next child in the ring, and counts again, until only one child remains. That child is **it**.
+
+#### Table's Laid: The Rules
+
+1. **Setting the table.** Set out one chair fewer than the number of players in a ring, facing outward. Set one more chair apart from the ring, facing in toward it. This is the **head chair**.
+2. **The walk.** The player who is *it* stands apart and sings or shouts. Everyone else walks around the ring of chairs, slowly, in the direction of the sun, singing the rhyme. *It* may shout **Table's laid!** at any moment.
+3. **Sitting down.** At *Table's laid!* every walker must sit on a chair of the ring at once. The walker left without a chair has **missed supper**: they become *it* for the next round, and the old *it* joins the walk. Each round, *it* also removes one chair from the ring, so that the table gets shorter.
+4. **The end.** When only one chair remains in the ring and two walkers, the walker who sits in it is **fed**, and wins.
+5. **The head chair.** Nobody, at any time, may sit in the head chair. A player who does, by accident or for a dare, ends the game at once: every player must stop, and go home, without speaking, and not play again that day. Children are very strict about this rule, much stricter than about any other, and do not know why.
+
+**Quick roll.** Lung + Athletics, Routine (10), for each round; the Carver may as well let the children win.
+
+**Cheating.** Sitting before the call, if *it* has a tell. Pushing.
+
+**Stakes.** None. It is a children's game.
+
+**The horror around it.** Adults who watch Table's Laid from a window find, often, that they have counted the chairs. The ring always has one fewer than the walkers, as it should. The head chair is always one, as it should be. But the rhyme counts seven, and then *one for the chair*, and children who are asked who the chair is for say *for the one who's late*, and children who are asked who that is say they do not know, and children who are asked more than once begin to cry. In the old carvings of every land, on the lintels of the oldest granaries and the walls of the oldest shrines, children are shown playing a ring-game around a table, and there is an eighth chair at its head, and the figure sitting in it has been chiselled away. Cutwrights who study the carvings say that, in every one, the children are looking at the chair, and none of them is singing.
+
+## Bite Back
+
+[sigil: rim]
+
+The drinking game of the Rim Road taverns, played with the Table's own dice and named for the god's habit of biting those who call on it. Every player on the Table knows the feeling the game imitates: the reach for something more, the extra die, the hunger it costs. Every land has its version. The Company forbids it on its premises, which is to say that the Company's premises are where it is played.
+
+**A note for the real table.** Play Bite Back with whatever is in your cup: water, juice, tea, small beer. A sip is a sip. Nobody should ever be made to drink, and nobody should play it with strong drink, or anyone too young to choose. The game is just as good with tea, and the forfeits are the fun.
+
+**Who and where.** Every waystation taproom on the Rim; Netwatch and Wakers on leave; Bonded Hands at the end of a forty-mile day; Renderers' Union men at the Chute; and Vigil travellers, who play it with rouse, which is how many of them die.
+
+**What you need.** Two ten-sided dice, two six-sided dice (the **Teeth**), a cup of something each. Paper for tallying **Hunger**. Three or more players.
+
+#### The Rules
+
+1. **The Bill.** The first player names a **Bill** for the player on their left: 10, 14, 18 or 22 (Routine, Hard, Grim, Dire).
+2. **The roll.** That player rolls 2d10. Before rolling, they may choose to **Partake**: roll one Tooth (a d6) as well and add it, or two Teeth if they have Partaken five times or more this game. Each Partaking marks 1 Hunger on their tally.
+3. **Paying the Bill.** If the total equals or beats the Bill, the roller has **paid**: they name the Bill for the next player. If not, they **owe**: they take a sip, and the next player faces the **same** Bill, and does not get to name one.
+4. **The god bit back.** Any Tooth showing a 1: the roller takes a sip and marks 1 more Hunger, whatever the total.
+5. **Grace.** If the two d10 show a pair and the roll paid, the roller hands out sips equal to the number on one die, among the other players as they like.
+6. **Lack.** If the two d10 show a pair and the roll owed, the roller takes sips equal to the number on one die, or swaps cups with the player of their choice and drinks from it.
+7. **Licked Clean.** Two 1s: the roller finishes their cup, and the next Bill is 22.
+8. **Second Helping.** Two 10s: everyone else sips, and the roller names any forfeit for any player (*speak only in conditionals, Oathen-fashion, until your next roll*; *no blinking until your next roll*; *say "may you finish" instead of "cheers"*).
+9. **Regrowth.** At **10 Hunger**, a player's tally is wiped and they have **regrown**: they must play the rest of the game under a **Want** chosen by the table (*you must eat whatever is offered*; *you must face west*; *you must close any door left open*; *you must open any door left shut*; *you must promise something every time you roll*; *you must say "no, thank you" three times before accepting anything*). A player who regrows a second time is **Seated**, and leaves the game smiling, and must say nice things about everyone's dice until the end.
+10. **The end.** The game ends when the cups are dry or the players are. Nobody wins Bite Back. The Rim says that this is the whole point.
+
+**Quick roll.** Gut + Feast, Hard (14), to remain upright; the Carver may decide that a Guest who Partakes for real during Bite Back has an audience.
+
+**Cheating.** A rigged Tooth that never shows a 1 is called a *milk tooth* and is sold at Gristmoot, and every Rim house knows to check, by dropping the Teeth in the water glass beside the fat dice.
+
+**Stakes.** Drinks, rounds, and the next day's head. Among the Bonded Hands, the player with the most Hunger at the end of the night stands the next night's watch.
+
+**The horror around it.** At the Weeping Post, they play Bite Back with a chair left empty and a cup poured for it, as they do at Grace-and-Lack, because the habit has spread from one game to the other, as habits on the Rim do. When the empty chair's turn comes, the player on its right names the Bill, and the dice are rolled for it by the warden's boy, and the result is called aloud. If the chair owes, the boy sips from its cup. In the spring of 641 the chair paid every Bill it was set for nine nights running, and on the tenth night, a Rim Road courier of the Vigil who had not slept in a week named a Bill of 22 for it, as a joke, and the boy rolled two tens, and the room went quiet, and the courier, as the rules require, named a forfeit for any player at the table. He named it in a voice nobody recognised. Nobody will say what it was. The cup in front of the empty chair was empty in the morning, and the boy, the warden's son, Corley, aged eleven, has not eaten since, and says he is not hungry, and says that he is being fed.
+
+[pull] Lack keep away, and keep the Tooth in its gum, and keep the chair pushed in. | — Rim toast, before the first roll
+
+## At the Next Table
+
+The Guests are in a taproom, a waking-house, a Loft gallery or a Pinchmarket stall, and there is a game going on at the next table. Roll d10, or choose.
+
+| d10 | At the next table |
+| 1 | Grace-and-Lack. A Kept man of Sallowreach, at his border on licence, is losing coin to a Fatlands drover on purpose, so that he can be the Kept at Who Finishes later, because he is lonely. |
+| 2 | The Last Plate, the dice version, between two Renderers' Union men, with a third man's dusk shift in the pot. The third man is not present. He does not know. |
+| 3 | Hook and Haul. A Netwatch hooker on leave plays Tally alone, for no stake, throwing the Hook again and again, and keeping the sixth bone in her other hand, tightly. |
+| 4 | Nod. A Vigil gentleman has blinked; the others are moving cards in his row, and grinning, and one of them is a Second Table Taster with a two-tined fork inside her collar. |
+| 5 | Clauses. Two Oatheners in complete silence, a pebble on an open end, a Surety watching, sweating, very pale; she is standing for both of them. |
+| 6 | The Fourth Asking. An Unfed Crumb-Runner and a child who is not from any land, in good clothes, with a warm hand. The Runner has declined three times and is looking at the fist. |
+| 7 | Who Is Served. Six travellers in good coats, a seventh chair, a deck of twenty-nine cards; one of them invites the Guests to make up the numbers. |
+| 8 | Who Finishes. A Loft-Warden reading out a hand to a parcel of linen on the bench beside her, and placing cards as the parcel whispers. The parcel is winning. |
+| 9 | Bite Back. A table of Bonded Hands, an empty chair with a full cup, and a boy rolling for the chair, who looks up at the Guests and asks, politely, whether they would like to name its Bill. |
+| 10 | Table's Laid, in the inn yard. Seven children walking round six stools, singing. At the head of the ring, set apart, facing in, the head chair. Somebody is sitting in it. The children have not noticed. They are still singing. |

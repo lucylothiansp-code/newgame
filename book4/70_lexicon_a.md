@@ -743,3 +743,175 @@ The College keeps a short list of words that betray a speaker's land at once, us
 [entry: Groan-boy | n., Rim | A potboy at a Company inn, who takes the crumbs left under plates for the next traveller's luck. *Fed the groan-boys* means one's charity went to the wrong people, as all charity on the Rim is said to do. See *Plate's share* in the second half of this dictionary.]
 
 [pull] Never look at your family while you eat. It is the one rule older than the grace. | — Fatlands table manners, taught to children who do not ask why
+
+## H
+
+[entry: Hallowboard | n., Fast | The stone table of the Refusal on a bare hill at the exact centre of the continent: eight-sided, always clean, where Orrum laid itself down and the heartland would not eat. *To swear at Hallowboard* is to swear barefoot in an ancestor's footprint in the chalk trench. The Unfed lower their eyes on saying the name; everyone else counts its sides and then wishes they had not. See *Barrows, the*.]
+
+[entry: Hand-line | n., Sallowreach | The nobility of the fen, who ate Ossel's hands; their touch, at the Course, is the only death available in Sallowreach, sold by licence for five hundred years. *Hand-line* as an adjective means aristocratic and deadly at once. *Hand-line hours* are the hours a Closer keeps: late, gloved, expensive. See *Closer*, *glove* and *domestic license*.]
+
+[entry: handtalk | n., Oathen | The sign language used in the canyons for everything that matters little: prices, directions, gossip, jokes, flirtation; held not to bind. That belief is being tested, and fingers have started breaking. Oatheners sign with the left hand where they can, because it is the hand they can spare. *Handtalk love* is a flirtation nobody means, and since Mirren Osk's three fingers snapped, a dangerous one.]
+
+[entry: Hanging Abbey | n., Brinehollow | The Anchorites' cliff, hung with a thousand living monks in chains. *Hanging on like the Abbey* means enduring something unbearable on principle. Fishwives use it of difficult marriages. See *Anchorite*.]
+
+[entry: head of the table | n. phr., Rim | The chair at the head of the long table in every Company common room, in which nobody sits, not the factor, not a Spoke; it is the Company's chair, and nobody has ever seen the Company sit. *Who's at the head of the table?* on the Rim means *who really owns this?* and is not answered. Compare the Second Table's fifth rank, who presides from an empty chair.]
+
+[entry: heavy | adj., Fatlands | Beautiful, prosperous, healthy, good. *You look heavy* is the kindest thing one Fatlander can say to another; *you look well* means nothing. *A heavy man* is a man of weight in the Board's sense too, since votes are weighed. Heavy is the southern word of praise, and *light* its worst insult short of *thin*.]
+
+[entry: He'll keep | phr., Sallowreach | A problem can wait forever, since nothing in the fen ends. Said of a debt, a feud, a grandfather on the stoop, a leak. The most comforting and most damning phrase in the north. *The roof'll keep. Your father'll keep. I'll keep.*]
+
+[entry: Helping | n., Common | A second portion; in the College's physicians' usage, an extra effect won by doing a thing very well. *A second helping* is a second chance, and an unwise one. The Second Helping is the joyous Fatlands cult of the Bait whose prophet Brother Glut volunteers parts of himself. *Help yourself* is, in their mouths, a theological proposition.]
+
+[entry: Hem, the | n., Rim | The knee-high wall on the inner side of the Rim Road, facing the Fast. It does nothing; anyone can step over it. Nobody does. *Over the Hem* means beyond help, beyond law, beyond sense. Rim children dare each other to sit on it, and are pulled off by passing wardens, who do not explain.]
+
+[entry: hill | n., Fatlands | A Seated Gut-line or Laden person, become a low warm mound where things grow very well; some keep a mouth. Hills are consulted on marriages and hold title in law. *A hill never says no* is the south's warning about appetite. *Hill-speaker* is the title of one who interprets a hill's mouth to the family. *She's gone to hill* means she has finished becoming a place. See *Dowager* and *field*.]
+
+[entry: hold your line | v. phr., Brinehollow | To keep faith; from the wedding vow *I will hold your line*, sworn as each partner knots the other's end of a shared anchoring rope. *Who's holding your line?* means *who loves you?* and also *who's making sure you don't walk into the sea?*, which on the coast is the same question. See *anchor*.]
+
+[entry: Hollow | adj. and n., Fast | The state of an Unfed at the end of Want, when hunger has emptied the self as well as the stomach; the Hollow are quiet, clear and unafraid, and are the ones who walk into the Host's houses calmly in the dark. The word is said with respect and dread. *She's hollowing* is said of a starving neighbour by those who will not share. See *Want* in the second half of this dictionary.]
+
+[entry: Holder, the | n., Cradlewrack | The small faceless clay figure in the lintel-niche over every highland door, arms spread to either side, touched on going out and coming in. Nobody calls it Vey aloud. Children are told it holds the door, and are not told which way. *The Holder holds* is said when something terrible has not happened yet.]
+
+[entry: home, going | phr., Brinehollow | See *going home*.]
+
+[entry: hook | n. and v., Brinehollow | The long boathook of the Netwatch, with which the Called are dragged back from the shore by night. *Hooked* means rescued against one's will. *A hooker*, on the coast, is a Netwatch patrolman, and the joke that follows from this in other lands has never once been found funny on the Mile.]
+
+[entry: horror | n., Common | Dread, revulsion, a sight not to be borne. The College's etymology, which the College publishes with a small mark meaning *disputed*, derives it from Old Table-speech *h'orr-*, the breath drawn in before eating, the pause at the board before the first bite; that is, the Long Grace itself. Linemen like to say that every horror on the Table is only the moment before dinner. Students are asked not to repeat this in the Fast.]
+
+[entry: Host, the | n., Common | Orrum, god of the hearth, of welcome and the shared table; the only Provider not eaten, still walking the Fast, very tall, stooping under doorways, warm, laying tables wherever it passes with a chair pulled out. *The Host is laying* means a table has been found. *Host-kind* means kind in a way you must refuse. In the Fast it is not named indoors. See *company*, *come in* and *Steward*.]
+
+[entry: Hostwatch | n., Fast | Trackers who follow the god at a mile's distance and map the warm ground where it has walked, and who carry a bell on a cord at the belt that rings when the Host is near. In the last two years the bells have begun to ring on the Rim Road, at inns. *Ring the Hostwatch* is the Fast's alarm cry. *A Hostwatch face* is lonely, alert and very tired.]
+
+[entry: hoarding | n., Fast | The crime of keeping back part of a ration, punished by a cut in measure. Among the Unfed, *a hoarder* is the equivalent of a miser elsewhere, and a child's crust under a mattress is a matter for the Elders. The College notes that Abstain Rooke, eleven, has been leaving her crust on the windowsill instead, which is not hoarding, and is worse.]
+
+[entry: Hunger | n., Common | The appetite of the god in the blood, distinct from any want of food: a Fatlander can eat until the belly splits and still feel it. In the College's physicians' usage, a measure from 0 to 10 that rises when one calls on the god and, when full, pushes the Regrowth one step further. *My Hunger's up* means the god is close today. *Hunger is honest* is an Unfed proverb, said to end arguments. See *Partake* and *Sop* in the second half of this dictionary.]
+
+[entry: Hush | n., Sallowreach | A patch of the fen where everything ends at once and stays ended: no rot, no flies, no echo, no sound. The first was Dunmere in 633; the largest is four miles across and growing, and the Hushes appear fastest near Hand-line estates. *Hushing* is used of a family whose elders are dying properly at last, and the neighbours are jealous. *Hushwalker* is the name for one who walked into a Hush and walked out, which happened once. The College records the Finishers' walking-in as a grief. See *Dunmere, to* and *Finisher*.]
+
+[entry: Hush Toll | n., Rim | One lack a post charged on corpses carried along the Rim, so named because the dead are silent in every land but one. The Kept are not corpses and pay as Foot, once. *Paying the hush* means taking someone home to be buried, and is a phrase of great tenderness on the road.]
+
+[entry: Hush-water | n., Rim | Water said to be drawn from the edge of a Hush, sold as a cure for undeath and for noise. It is almost always fen water and does nothing; the real thing finishes whoever drinks it, which is a cure of sorts. *Selling Hush-water* means selling false peace.]
+
+[entry: hanging-day | n., Rim | Any day at Gristmoot market, where pickpockets are hanged on the market cross in the morning and cut down by noon. *Every day's a hanging-day at Gristmoot* means *the law here is quick and not careful*.]
+
+[entry: hardtack-hymn | n., Rim | A dirge sung by Company caravaners on the long stretches of the Rim, to the rhythm of chewing ship's biscuit; most verses are about the Fast and what one sees over the Hem at dusk. Factors forbid the last verse.]
+
+[entry: hearth-lit | adj., Fast | Of a house: with a fire already burning, which the First Rule says never to enter. *Hearth-lit* is an Unfed word for any trap that looks like welcome, and for any person who smiles too readily. *Her eyes were hearth-lit* is how an Unfed widow describes the stranger who took her son.]
+
+[entry: Hearsay mood | n., Oathen grammar | The canyon verb-form marked *-sed*, rendered *I am told*, in which all gossip, most prices and much testimony is spoken so as not to bind the speaker to its truth. *FRESH THIS MORNING, I AM TOLD.* A Hearsay man is a gossip; a Hearsay king, in the old songs, is a ruler who claims to know nothing of what his ministers do.]
+
+[entry: Hearer | n., Oathen | A priest of Tolm before the Gorging, forbidden to speak in the god's presence except to repeat, word for word, a vow someone had made, so the god could hear it twice. Their descendants are said to be the Keeners. The last Hearer's knotted cord is kept in the Ledger's sealed rooms and nobody can read it. *A Hearer* now means a person who repeats your words back to you to make them stick: a nagging spouse, a good teacher, an informer.]
+
+[entry: Heirs, the | n., Sallowreach | The living young of the fen, permanently disinherited, since owners never die and a man of seventy is a minor while his father is upright. *An heir's chance* is no chance at all. Jory Welt, seventy-one, leads them, with a map of every Hush on his wall. *Heirloom*, in the fen, means a grudge.]
+
+[entry: High Cut | n., Common | A person of Cut 4 or 5; the nobility of every land, the furthest along, the most monstrous, and the Reckoners' quarry. *High-cut manners* means appalling behaviour by someone you cannot touch. *High-cut cooking* means meat that has been somewhere expensive. See *Cut*.]
+
+[entry: hiccup-fast | n., Fatlands | The Fatlands' annual attempt, on Tablenight, to fast for one day in penance. Nobody has ever recorded a village that made it to sundown; most break before the second meal, with the hiccups. *A hiccup-fast* is any resolution that will not last past breakfast.]
+
+[entry: Hogget's tally | n., Fatlands | The Long Count of the Reaped, begun by Pell Hogget of Low Tilth and copied now in two hundred villages, on barn doors, in strokes. *On Hogget's tally* means taken by the fields. The marks: a stroke for each Reaped, a cross-barred stroke for each dusk-shifted who did not return, a circle for the Seated, and since 638 a stroke with an open curve at the top, like a hand held out, for *taken by a hill*. See *Long Count* in the second half of this dictionary.]
+
+[entry: holding-house | n., Rim | A place on the Rim where poached people are kept between the Hem and the buyer: a cellar, a barn, a back room at an inn with a reputation. *Stopping at a holding-house* is poachers' cant for a profitable night. Dr. Mercy Thrane keeps a list of them.]
+
+[entry: honey-table | n., Fast, children's | One of Orrum's tables laid for children: the most beautiful, all honey and custard and little iced cakes, with a voice from the door that is always a mother's or a grandmother's. Unfed children who have seen one describe it to one another in whispers for years. *Honey-table voice* is how they describe any grown-up being too nice.]
+
+[entry: hush-money | n., Rim | A bribe; but on the northern Rim also money paid to a Finisher family to keep quiet about a pilgrimage, so that the Court will not hear that a licensed good was stolen. Both senses are common at Fogmouth.]
+
+[entry: Honorable Maggot | n., Sallowreach | Justice Ever Lathe, a judge rotted down to bone and a resident colony, whose rulings are delivered in the buzzing and translated by a clerk; nobody is sure any longer which of them is deciding. *A maggot ruling* is any judgment whose true author is unknown. *Ask the maggots* means take it to a higher court that will not be human.]
+
+[entry: hungerbound | adj., Common | Under the god's compulsion; driven by Hunger to the land's Want. *Hungerbound* is used by physicians, and by the poor of every land of their lords. *They're not cruel, they're hungerbound* is the most generous thing said of the Gut-lines in the Leanings.]
+
+[entry: hum | v., Vigil | To make a low, continuous, soothing sound; forbidden at rouse-stalls, in nudgers' contracts and in public places, since humming is the beginning of a lullaby. *Don't hum at me* means *don't patronize me*. *No humming* is chalked on every stall in the Pinchmarket. See *Lullaby, the* in the second half of this dictionary.]
+
+[entry: heel-pebble | n., Vigil | The small stone cobbled into the heel of every Vigil shoe so that each step hurts. *A heel-pebble friend* is a friend who keeps you sharp by making you uncomfortable, the best kind in the Vigil.]
+
+[entry: Hessop's dish | n., Fatlands | A meal served at a wake at which the dead was much loved, and the family eats slowly, weeping and praising. From the Hessop household's famous wake of 611. *A Hessop's dish* is any task carried out with love and horror both. See *Wake* in the second half of this dictionary.]
+
+[entry: Howl-week | n., Cradlewrack | The week of the Grey Winter that the Barren Order does not describe; among highland midwives, any week in which more is born than can be attended. *A howl-week at the Lying-In* means the aprons are not sleeping and the Tally is being written in two hands.]
+
+[entry: hush-penny | n., Sallowreach | A lead token laid on the tongue of a Kept elder on feast days to keep them quiet during the reading; children call them *shut-eye pennies*. *He needs a hush-penny* is said of a bore. See *Shut-Eye pennies* in the second half of this dictionary.]
+
+[entry: hollow-bell | n., Fast | The bell rung at the door of an Unfed house every dusk for a year after a child goes missing, calling its name, presumed Seated; then the ringing stops. *I heard the hollow-bell at the Danners'* is how a neighbour says a child is gone. The Unfed hold no funerals for the Seated. You cannot bury a guest who has not left.]
+
+[entry: High Admiral's barnacles | n. pl., Brinehollow | Problems that do not exist, attended to with great ceremony: from High Admiral Corvin Sund, who has the hulls of his landlocked fleet scraped of barnacles that are not there. *Scraping barnacles* means busy work in a crisis. Saying *stranded* in his hearing is a hanging matter.]
+
+[entry: hope-stew | n., Fatlands | A thin dish of the Leanings made in hard years, said to taste of whatever the eater hopes it is. Since the Reaping doubled, the price of hope-stew in Sated has risen; nobody asks what it is cut with. See *Leanings* in the second half of this dictionary.]
+
+[entry: Hourkeeper | n., Vigil | The mistress of the city's clocks, Maud Sexton, who has proved by pendulum that each hour is a little longer than the last. *Hourkeeper's arithmetic* is proof of something everyone can feel and nobody will admit. *The hours are long* is now a Vigil greeting, and not a complaint.]
+
+[pull] It smells like your mother's. | — the worst thing one Unfed can say to another, and the most common warning in the Fast
+
+## I
+
+[entry: I am here | phr., Oathen | The safest first words a canyon child can choose at the Unbitting, after twelve years in the leather, since they bind only to the present and are true as soon as said. Families who choose a motto instead are thought proud. *I am here* is also what the old say to the Keener at their own entombment, if they are still able to speak, and the Keener writes it on the niche.]
+
+[entry: I will go into the room | phr., Cradlewrack | The single vow of the Attendance, sworn by every apprentice midwife; the one vow in Cradlewrack nobody has ever been known to break, though many have died keeping it. Highlanders use it of any duty that must be done whatever is waiting on the far side of the door. *Someone has to go into the room.*]
+
+[entry: I will hold your line | phr., Brinehollow | The wedding vow of the coast. See *hold your line*.]
+
+[entry: If able | phr., Oathen | The first and plainest of the canyon exits, the Exit mood, marked *-ra*: a promise conditional on being able to keep it. *I will come home, if able.* Spouses parting in the morning say *If able* and the other answers *Go on*, and by contract this binds neither. *If able* is carved on half the gravestones at Quillhouse, where travellers leave their conditions on the wall. See *exit*.]
+
+[entry: Iss | n., Vigil | The Lidded, god of sleep, eaten with its eyes still shut; it did not wake while they did it, a detail that has never stopped bothering the Vigil. Its name is said quietly and never near a sleeper. *By Iss* is a Vigil oath of extreme seriousness, sworn with eyes held open by the fingers. Vigil children are told that if they say the name three times with their eyes shut, the lid will lift.]
+
+[entry: indoor tide | n., Brinehollow | The water that rises twice a day in every cellar of the coast, however far inland, and drains again, leaving kelp on the stairs. *The tide's in* is said when the house is full of relatives. *Below the tide line* means the cellar, and what is kept in it. See *ebb*.]
+
+[entry: in Lack | adj. phr., Oathen | In canyon marriage law, the condition of a spouse who has ceased to wish the other well, and is held not to have broken the article of cherishing for one season while attempting, in good faith, a recovery of the wish. *They're in Lack* is the canyon's whole vocabulary for a failing marriage. There is no word after it, because there is no divorce.]
+
+[entry: inkthumb | n., Rim, rude | A Copyist of the College, by the ink-black right thumb that never washes clean; by extension any clerk who knows more about your family than you would like. *Inkthumbs at the Inkhorn* is how the Quire innkeepers describe their trade.]
+
+[entry: Invitation | n., Fast | In the College's physicians' usage, the pull the Host exerts on those who have smelled its bread, heard its voice, or seen their own name on a place card; measured, like Hunger, and as dangerous. *She's had an Invitation* is said of an Unfed who has begun to walk past houses slowly. See *place card* in the second half of this dictionary.]
+
+[entry: Iron Belly | n., Fatlands | The Taste of the Regrowth in the south: a stomach that can take anything, soil, tallow, leather, and does. *Iron-bellied* is a compliment to a child and an accusation against a merchant. The children who have it chew their sleeves.]
+
+[entry: Impostor | n., Common | The delusion, contagious on the Table, that a loved one has been replaced by something wearing their face. On the coast it is often not a delusion. *I'm not who you think* is the reply in the highland lane game Who's in the Brick?, at which everyone screams and runs. *The Impostors* is what physicians call the madness, and what Wreckwives call their husbands.]
+
+[entry: idle-hand | n., Sallowreach | A hand-line child's mitten, by which the nursery keeps the small Appetite-struck from closing everything in reach. *Put your idle-hands on* is the fen's *mind your manners*. A Hand-line governess's whole skill is getting mittens on children who do not want them.]
+
+[entry: It worked once | phr., Common | The creed of the Second Table, engraved inside the band of a Trencherman's signet: when the gods finish regrowing, eat them again. In the mouths of the poor it has become a sneer at any scheme of the rich: *Another war? Well, it worked once.*]
+
+[entry: ice-plate | n., Fast | A plate of frost on a field in the morning, unbroken, proving the Host has not walked there in the night. *An ice-plate morning* is a good one. *Breaking the ice-plate* means bringing bad news.]
+
+[entry: Ilan's look | n., Oathen | The face of something that exists only because of a promise, and is beginning to fade now that the promiser is gone; from Ilan, the Oath-Child, nine, whose father died in the spring and who has become difficult to see. *He's got Ilan's look* is said of any orphan, kindly, and of any institution whose founder is dead, not kindly.]
+
+[entry: interval, the | n., Cradlewrack | The days between pangs, now nine. Everyone in the highlands knows it by heart, and children are named by it: Lark Thirtydays became Lark Ninedays. *What's the interval?* is a highland greeting. *Nine days* is said now as a farewell, in place of *good night*, with a shrug. See *pang*.]
+
+[entry: in Seeming | adj. phr., Vigil | Hallucinating, as every Vigilant does after enough waking. *I'm in Seeming* excuses a person who has just spoken to a lamp. If a whole street is in Seeming together, it is news. See *Seeming* in the second half of this dictionary.]
+
+[entry: incision-day | n., Cradlewrack | The day a Tongue-line or Caul-line infant born with a sealed mouth or a closed caul is cut open, so it can feed. In the highlands it is kept quietly, like a birthday nobody sings at. Compare the canyon custom, the same in all but name.]
+
+[pull] Ask me again. No, properly. No, thank you. Ask me again. | — the whole of an Unfed proposal of marriage, overheard in Bell Ward
+
+## J
+
+[entry: Jack, to | v., Sallowreach, Rim | To steal a part from a living or Kept body while it shelves or sleeps; from Marrow Jack, the part-thief of Lastgate, whose victims wake able to feel what their missing hands are being used for. *Jacked* means robbed of something you will feel the absence of forever. Fen mothers tell children who leave their arms outside the blanket that Marrow Jack will have them.]
+
+[entry: jar, to | v., Sallowreach | To sentence a criminal to be Kept forever, in pieces, in a jar, on the long shelf of the Jar Room; the Court's ultimate punishment. The heads float in amber pickle with their hair drifting upward; the hands are jarred separately, a pair to a jar, and are the busy ones, drumming. *Jarred* is the fen's word for any sentence without end. A Sallowreacher who says *I'd sooner be jarred* means *never*. Ned Scurl asked to be jarred near a window.]
+
+[entry: Jar Room | n., Sallowreach | The Court's prison: one shelf, very long. On quiet nights the low shelf ticks and taps like a roomful of people waiting. *Off to the Jar Room* is a fen parent's threat, not meant, and children who have been there on a school visit never need it said twice.]
+
+[entry: jaw-click | n., Sallowreach | The speech of the Kept far gone, whose throats no longer work, conducted by clicks of the jaw and translated by hired interpreters; an argument begun in 212 is still being conducted this way, in a room in Lastgate. *Jaw-click lawyer* is a fen insult for a pettifogger. *I could hear his jaw clicking* means a man was furious and could not say so.]
+
+[entry: joint | v., Fatlands | To cut a carcass into its parts, a skill every Fatland child learns: how to joint a pig, a sheep and a person, and that the order is the same. *Joint it* means *break it down into manageable pieces*, and is said of tasks, problems and arguments. *Out of joint*, in the south, means badly butchered.]
+
+[entry: Jointer | n., Fatlands | A slaughterman of the Renderers' Union who works the wake-tables of families who cannot afford to carve their own dead. Respected, sad and well-fed. *A Jointer's grace* is a few kind words over the body before the knife.]
+
+[entry: jelly | n., Fatlands | Aspic; in the mouths of Sated's gossips, the display of a rival. See *Aspic, in*. *Jellied* means trapped in a situation where everyone can see you and nobody will help.]
+
+[entry: jolt | n., Vigil | A dose of rouse taken in a hurry, dry, against the gum, when a blink has been felt coming. *Jolt-mouth* is the black, toothless smile of a Vigilant over forty. *I need a jolt* is the Vigil's *I need a drink*. See *rouse* in the second half of this dictionary.]
+
+[entry: Joining, the | n., Cradlewrack | The Assemblers' rite of fitting a new Part to the figure in the Barn. *A Joining* is also a highland wedding between families who had previously quarrelled over a Part, and the guests do not look too closely at the bride's sleeves.]
+
+[entry: Jonah, Dry | n., Brinehollow | Captain Jonah Skerry, smuggler of bottled bail-water. *A dry Jonah* is any man who profits from a trouble that does not touch him. *Jonah's tonic* is bottle-sea. The Vigil has begun to dream about him, and does not know why. See *bottle-sea*.]
+
+[entry: jangle | n., Fast | The ringing of a Hostwatch bell at the belt, which means the Host is near. *I heard a jangle at the Rim inn* is a new and frightening sentence. *Jangle-sick* means nervous of every bell, and is common among Hostwatch widows.]
+
+[entry: Judge's buzz | n., Sallowreach | See *Honorable Maggot*. The buzzing in which Justice Lathe's verdicts are delivered. *I got the Judge's buzz* means *I got an answer I couldn't understand and must obey*.]
+
+[entry: jug-gran | n., Sallowreach, children's | A Kept relative so far gone that she is kept in a stoneware jug on the shelf and taken down on feast days to be read to. Fen children love their jug-grans, who are always pleased to see them and cannot stop them from eating sweets. See *Setting Aside* in the second half of this dictionary.]
+
+[entry: Jude's hour | n., Oathen | The hour Jude Crake, the Breaker, spends talking pleasantly with the condemned until they promise him something small; it has never taken longer. *Jude's hour* is any conversation in which someone is being drawn to their ruin by charm. See *Crake, to*.]
+
+[entry: jaw-wire | n., Sallowreach | The wire with which the oldest Kept jaws in Lastgate are bound shut until a promise falls due, under the oath sworn with a hand in a Kept parent's mouth; when the debt is broken, the wire is cut, and the parent may close their jaw. *Cut the jaw-wire* means *call in the debt*. See *oath on the dead* in the second half of this dictionary.]
+
+[entry: Jessamy's word | n., Rim | The witness on which every Company contract rests: Jessamy Quill, Notary of the Rim Road. If she dies or breaks, half the trade of the Table comes unbound in an afternoon. *As good as Jessamy's word* is the Rim's highest guarantee. *When Jessamy goes* is how factors say *at the end of the world*.]
+
+[pull] I wish it would stop. | — the first words of the First Sayer, 598 A.G., during a storm; it stopped, and so did everything else in the valley

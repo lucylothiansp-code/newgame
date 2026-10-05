@@ -1171,3 +1171,252 @@ Heat the oven to 190°C / 375°F / gas 5. Lay the plums cut side up in a baking 
 Rub the butter into the flour with your fingertips until it looks like breadcrumbs, then stir in the oats and sugar. Scatter the crumble over and around the plums.
 Bake 25–30 minutes until the plums are soft and bubbling and the crumble is golden. Serve warm with yogurt or cream. Leave one plum, split and shining, on a saucer on the windowsill. If it is gone in the morning, do not ask.
 [/box]
+
+## The Rim: The Road's Table
+
+[sigil: rim]
+
+> Count the chairs before the grace. Count them again after.
+>> — The Company's Book of Usages, instruction to inn-keepers
+
+The Rim is not a road with markets on it. It is a market with a road through it, and its kitchens feed every land at once: Fatlands meat at the Groaning Board, kelp-bread for the west, clatter-cake for the Lid, grey loaves for the Crumb-Runners at the far end of the Bakers' Mile. Rim cooks sell "safe" food, which means food they will swear is not of any god, and nobody believes them. The Company inns have one rule above their kitchen doors, and it is not about food.
+
+### Table Manners on the Road
+
+- **Say the grace to the nearest stranger,** face to face, at the Grace Bell. It is the one moment of the Rim day when nobody is selling anything.
+- **Every land's manners, at once.** A Rim common room seats an Unfed facing the wall, a Vigilant standing at the bar, an Oathener in silence, a Fatlander on their third supper and a Kept northerner chewing for company. The Rim rule is to let each eat their way, and to say nothing about anybody's mouth.
+- **Pay before you eat.** Not after. On the Rim, a meal eaten before it is paid for is a guest's meal, and the Company does not want anyone at its tables to be a guest.
+- **Do not take the free loaf** at Gristmoot unless you mean to stay a week. The house takes wagers.
+- **Count the chairs.** Before the grace and after. If the number has changed, leave the money on the table and go.
+
+[pull] HOT LOAF FREE AT THE DOOR. WAGERS TAKEN. | — chalked by the door of the Full Measure, Gristmoot
+
+### The Stranger's Loaf
+
+[fiction]
+*The Gristmoot welcome, said at every inn door, with the loaf held out in a cloth.*
+Come for a week. Everyone does. *(And from the wager-slate inside the Full Measure, chalked fresh each morning:)* Vigil glass-wife, 8 st 4, came Moot-day: house says she stays. 3 to 1. Oathen paper-man, very thin, says nothing: house says he stays. Evens. Unfed boy with a cart: house says no. 20 to 1. (He refused the loaf thrice. We offered a fourth. He took it and put it in his pocket. Ask Bastable whether that counts.)
+[/fiction]
+
+**Lore.** Every inn door in Gristmoot gives every stranger a hot loaf of toothed-wheat bread, free, and the house takes wagers on whether the stranger will stay. The house nearly always wins. Fatlands bread carries Ummer's Hunger, and the first loaf, hot, at the door, after a long dry road out of Oathen, is the one that most travellers never get over. They stay a day, then a week, then for the Moot; they weigh in heavier at the gate each time; and some of them end up behind the stockyards after Last Bell, sold by the pound. A Stranger's Loaf refused and carried away unbroken is a relic that lets its bearer always leave. Gristmoot innkeepers pay well to have one back. The house does not like to lose.
+
+**Rules.** Routine 10. Taint 1 Hunger. A character who eats the Stranger's Loaf in Gristmoot must make a Caul + Resolve roll (Hard 14) to leave the town within a week; each further day they stay raises the difficulty by one step. An Unfed character takes it on the fourth offer without penalty, and may carry it unbroken as the relic. On a cook's **Lack**, the loaf has a tooth in it, and the tooth has a filling, and the filling is Oathen work.
+
+**Hook.** The house at the Full Measure has taken a wager on the party. The odds are chalked by the door. Someone has bet four platters that one of them, by name, will not leave Gristmoot alive; and the bettor, according to Toll-Reeve Bastable Crumb's ledger, is the party's own employer.
+
+[box: For Your Table — Cheese and Chive Scones (the Hot Loaf at the Door)]
+Makes 8. Time: 30 minutes. Contains gluten, dairy, egg. Quick, hot and buttery: hand one to each player at the door as they arrive.
+- 225 g / 1¾ cups self-raising flour, plus extra for dusting
+- 1 tsp baking powder, ½ tsp salt, ½ tsp mustard powder
+- 50 g / 3½ tbsp cold butter, diced
+- 100 g / 1 cup mature cheddar, grated, and 2 tbsp chopped chives
+- 1 egg and about 100 ml / ⅓ cup + 1 tbsp milk, plus extra milk to glaze
+Heat the oven to 220°C / 425°F / gas 7 and flour a baking tray. Mix the flour, baking powder, salt and mustard, then rub in the butter with your fingertips until it looks like breadcrumbs. Stir in most of the cheese and the chives.
+Beat the egg with the milk, pour most of it in, and mix lightly with a knife to a soft dough, adding the rest if dry. Pat out on a floured surface to 3 cm / 1¼ in thick and cut 8 rounds, re-patting the scraps. Do not twist the cutter.
+Set on the tray, brush with milk, top with the remaining cheese and bake 12–15 minutes until risen and golden. Serve hot at the door, wrapped in a cloth. Take wagers.
+[/box]
+
+### Sausage by the Yard
+
+[fiction]
+*The patter of Mardy Haunch, Sausage-Wife of Gristmoot, whose stall is the widest on the Rim.*
+Sausage by the yard! By the yard, by the fathom, by the mile if you've the purse for it! Pork, honestly pork, I swear it on my mother's meat which is in me! Beef! Orchard-pig! The Long Acre special, don't ask, you'll want three! You, love, from the Lid, you're thin as a pin, come here, come here, have a yard, have it in batter, have it in the hole, my treat, no, no, my treat, you look heavy already, you'll be back.
+[/fiction]
+
+**Lore.** Mardy Haunch sells sausage by the yard from the widest stall on the Rim, a single unbroken coil pulled off a drum and cut at the customer's word. Her most famous dish is the yard baked whole in a great tray of batter, which Gristmoot calls *sausage in the hole* and serves at every Moot-day supper. Her sausage is very good, and its origin is stamped over twice, and the Renderers' Union knows exactly what is in each coil, and Mistress Brisket Annalow has never once stopped a barrel of Mardy's. A coil tattooed in blue with crossed anchors and a name was sold off her drum in Plenty, and a Brinehollow rope-wife on the next stall recognised the name.
+
+**Rules.** Routine 10. Taint 1 Hunger. A full yard eaten in one sitting counts as two meals for the Feasting Laws. On a cook's **Lack**, roll on What's in the Barrel? (Rim Market chapter) for what is in the coil.
+
+**Hook.** The rope-wife on the next stall has bought the tattooed sausage and will not let it be eaten. She wants it buried at sea, properly, with a rope funeral. The sea is nineteen miles from the end of the Mile, and she wants the party to carry it there, and to say, at the edge of the Trench, *the line held, the sea was stronger*, because it did not, and it was not, and she needs someone to lie for her.
+
+[box: For Your Table — Toad in the Hole with Onion Gravy]
+Serves 4–6. Time: 1 hour. Contains gluten, egg, dairy. Use your favourite sausages, vegetarian or meat; the batter puffs up dramatically around them.
+- 8–12 good sausages
+- 2 tbsp vegetable oil or beef dripping
+- for the batter: 140 g / 1 cup + 2 tbsp plain flour, 4 eggs, 200 ml / ¾ cup milk, ½ tsp salt
+- for the gravy: 2 onions, thinly sliced, 1 tbsp butter, 1 tbsp flour, 400 ml / 1⅔ cups beef or vegetable stock, 1 tsp Worcestershire sauce
+Whisk the flour, eggs, milk and salt to a smooth batter the thickness of cream. Rest it 30 minutes. Heat the oven to 220°C / 425°F / gas 7.
+Put the oil and sausages in a roasting tin (about 30 × 20 cm / 12 × 8 in) and roast 15 minutes until browning and the fat is very hot. Working quickly and carefully, take the tin out, pour the batter around the sausages, and return it to the oven at once. Bake 25–30 minutes until risen and deep golden. Do not open the oven door for the first 20 minutes.
+Meanwhile, cook the onions slowly in the butter for 20 minutes until soft and brown, stir in the flour, then the stock and Worcestershire, and simmer until thick. Serve the toad in big squares with the gravy. You look heavy already.
+[/box]
+
+### Sworn Soup
+
+[fiction]
+*A notarised menu-card of the Company inn at Toll Nine, sworn before Jessamy Quill, Notary of the Rim Road, and framed above the kitchen hatch.*
+I, the undersigned cook of this house, as I now intend, if able, barring weather, do swear that the soup of this house is made of: hen, Rim-reared; leeks, onion, carrot, celery, parsley, Rim-grown; barley; salt; water from the Company cistern; and nothing else whatever, of any land, of any god, of any person. Sworn at Tacit, Plenty 637. *(Beneath, a smaller card:)* The cook's hands are both still on. Judge for yourselves.
+[/fiction]
+
+**Lore.** The Rim Road Company swears all its contracts in Oathen, where they cannot be broken; and a few of its inns, for a price, have had their cooks swear their soup. A Sworn Soup is a plain chicken broth with vegetables and barley, and it is the only dish on the Table that is certainly, provably, of no god at all, because the cook's body is the guarantee. It costs four times what it should. Envoy Prudence Lowell of the Fast eats nothing else on the Rim. Fatlanders find it tasteless. Travellers with failing Regrowth order it by the gallon, and nothing happens, which is exactly what they paid for.
+
+**Rules.** Routine 10 to make; to swear it, a Clausewright and a trip to Tacit. Sworn Soup carries no Taint, guaranteed: an Unfed may eat it without the Decline's full form (twice is enough), and it is the one safe meal for a character avoiding Seasoning. A character who eats Sworn Soup after a Taint meal does not purge the Taint; they only feel better. On a cook's **Lack**, the cook's thumb is in it. Nobody can be sure what else the god counted.
+
+**Hook.** The cook at Toll Nine has lost both thumbs this morning. The soup is the same as ever; the hens, leeks and barley are clean. But the Company cistern under the counting-house, where the factor goes alone each week with a measuring rod, has something in it that the Company would very much like nobody to know about, and the god, it seems, has counted it as an ingredient.
+
+[box: For Your Table — Chicken, Leek and Barley Soup]
+Serves 6. Time: 1½ hours. Contains gluten (barley), celery. Honest and plain, as sworn.
+- 1 tbsp butter and 1 tbsp oil
+- 2 leeks, sliced, 1 onion, 2 carrots and 2 celery sticks, diced
+- 2 garlic cloves, crushed
+- 4 bone-in chicken thighs (about 600 g / 1⅓ lb), skin removed
+- 1.75 litres / 7 cups chicken stock
+- 75 g / ⅓ cup pearl barley, rinsed
+- 2 bay leaves, a few sprigs of thyme, a handful of chopped parsley; salt and pepper
+Melt the butter with the oil in a large pot and soften the leeks, onion, carrots and celery for 10 minutes. Add the garlic for a minute. Lay in the chicken, pour over the stock, add the barley, bay and thyme, and bring to a gentle simmer.
+Cover and simmer 1 hour, until the chicken falls from the bone and the barley is tender. Lift out the chicken, shred the meat with two forks (discard the bones), and return it to the pot. Remove the bay and thyme stalks, season, and stir in the parsley. Swear to it.
+[/box]
+
+### Rim Punch
+
+[fiction]
+*The drinks-board of the Long Farewell at Fogmouth, where Tam Ruddock's clients wait to cross north into Sallowreach so that they will not die.*
+FEN-GIN, 3 c. (The bottle never quite empties.) SALTWICK GIN, 3 c. (There is sweet water in it.) MARROW-BRANDY, 3 L. (Do not ask.) FIG-SPIRIT, 2 c. (You will say something you mean.) RIM PUNCH, HOT, 1 c. (Apples. Honey. Spice. Safe. Have two. It's a long wait.)
+[/fiction]
+
+**Lore.** Every land has a spirit that does something to the drinker: fen-gin that never empties, marrow-brandy that steadies the will and wakes the Hunger, fig-spirit that loosens Oathen tongues into true sentences, Saltwick gin with sweet water in it. The Rim has punch: hot apple, honey and spice, sometimes with a slug of whatever the traveller brought, ladled from a copper on every common-room hob along the road. It is drunk by the dying in the back room of the Long Farewell, while they wait for Tam Ruddock's boat across the border, where they will not die. He has never told one of them what happens next. He makes the punch himself, and makes it very good, and sleeps badly.
+
+**Rules.** Routine 10. No Taint (unless the traveller adds their own land's spirit, which carries its own). A cup of hot punch in a Rim common room, with company, gives +1 to the shared-meal Fray roll. On a cook's **Lack**, someone has added marrow-brandy, and everyone at the table gains 1 Hunger and feels braver than they should.
+
+**Hook.** Idony Pask, the Tourist, came north with a wasting sickness so she would not die of it. She did not die. She can never leave. She has paid Tam Ruddock to carry a letter south to the Long Farewell, to be read aloud to the next room of waiting clients over their punch. It is very short, and it is the truth, and Tam would like the party to stop him delivering it, or to help him, and has not decided which.
+
+[box: For Your Table — Hot Spiced Apple Punch]
+Serves 8. Time: 20 minutes. Vegan; alcohol-free. Adults may add a splash of dark rum or brandy to their own cup, as Rim travellers add their own land's spirit.
+- 1.5 litres / 6 cups cloudy apple juice
+- 500 ml / 2 cups cranberry juice (or more apple juice)
+- 2 tbsp honey or brown sugar, to taste
+- 2 cinnamon sticks, 6 cloves, 3 star anise, 4 slices of fresh ginger
+- 1 orange, sliced into rounds, and 1 apple, thinly sliced
+Put everything in a large pan and warm gently for 15 minutes, without boiling, until fragrant. Taste and add more honey if needed.
+Ladle into mugs, leaving the spices behind, with a slice of orange in each. Keep it on the lowest heat for refills through the evening. It's a long wait.
+[/box]
+
+### The Crossroads Pasty
+
+[fiction]
+*A note left under a burnt table-leg in the yard of the Company inn at Saltlick Cross, in an inn-keeper's hand, Carving 641.*
+We burned the table as instructed. We did not read the card. We did not. But there was a pasty on the plate, wrapped in a cloth, and it was still warm after the table was ash, and my girl, who is seven, picked it up before I could stop her, because she thought it was ours. She did not eat it. She held it. She held it all night. In the morning it was cold and she would not give it up. It is cold now. It is just a pasty. Isn't it? She has put it on the windowsill, and laid a place beside it. She says it is for the man who comes in at night and counts the chairs, so he will not be hungry, so he will go somewhere else.
+[/fiction]
+
+**Lore.** The pasty is the Rim's own food: meat or cheese and potato and onion in a crimped crust, carried in the hand, eaten walking, food that needs no table. Travellers on the Rim prefer it above all other meals in the last three years, since Company inn-keepers began to find tables laid in their common rooms at dawn, because a pasty can be eaten anywhere, standing, in the yard, on the road, and nobody need pull out a chair. In some inns, nobody sits to eat at all any more. At Saltlick Cross the chair rents for a platter a night, and the renters, mostly Fatlands pilgrims, eat pasties on the way to it, as the last food they will carry themselves.
+
+**Rules.** Routine 10. No Taint (Rim-grown), unless made with Fatlands meat (Taint 1 Hunger). A character eating a pasty on foot, without sitting, cannot be the subject of an Invitation check that turn: they have their own food in their own hand. On a cook's **Lack**, the pasty is still warm in the morning.
+
+**Hook.** The inn-keeper's girl at Saltlick Cross has laid a place on the windowsill every night for a week, with a cold pasty and a card in her own hand. Every morning the pasty is gone. Every morning the chair in the common room, the rented one, has been pushed in a little further, as if someone polite has been told, by a child, that there is no room, and is waiting to be asked properly.
+
+[box: For Your Table — Cheese, Potato and Onion Pasties]
+Makes 6. Time: 1 hour 15 minutes. Contains gluten, dairy, egg. Vegetarian. Made with ready-made pastry to keep things simple.
+- 2 × 320 g / 11 oz packs ready-rolled shortcrust pastry
+- 2 medium potatoes (about 350 g / 12 oz), peeled and cut in 1 cm / ½ in dice
+- 1 onion, finely chopped, and 1 tbsp butter
+- 150 g / 1½ cups mature cheddar, grated
+- 1 tsp wholegrain mustard, 1 tbsp chopped parsley, salt and plenty of black pepper
+- 1 egg, beaten
+Boil the potatoes in salted water for 6–8 minutes until just tender; drain and cool. Soften the onion in the butter for 8 minutes. Mix the potato, onion, cheese, mustard, parsley and seasoning.
+Heat the oven to 200°C / 400°F / gas 6 and line a tray. Cut six 15 cm / 6 in circles from the pastry (use a small plate as a guide). Spoon filling onto one half of each, brush the edge with egg, fold over and press to seal; crimp by twisting the edge over itself with your fingers.
+Brush with egg, cut a small slit in each, and bake 25–30 minutes until golden. Cool a little before eating; the filling is hot. Eat it standing, in your hand, anywhere at all.
+[/box]
+
+## What's for Supper at the Inn
+
+> Pay before you eat. Not after.
+>> — the Company's Book of Usages
+
+When the party sits (or stands) down to supper at any Company inn or roadside cookshop on the Rim, roll a d20, or choose. The price is per head, in a good season. The catch is what the cook did not say.
+
+| d20 | Supper | Price | The catch |
+| 1 | Honest pottage of Rim lentils and barley | 2 c | None. It is exactly what it says. The party will not believe it. |
+| 2 | Sworn Soup, under a framed oath | 4 c | The cook has nine fingers. Ask about the tenth. |
+| 3 | Sausage by the yard, in batter | 5 c | One link is tattooed. Roll on What's in the Barrel? |
+| 4 | Cold gull with kelp relish, for the west-bound | 3 c | The cook says a dead name over each plate and will not say whose. |
+| 5 | Lively eel in sour, a north-road special | 4 c | One piece climbs out of the bowl and goes under the table. |
+| 6 | Toothed loaf and dripping, free with ale | 1 c | Taint 1 Hunger. A tooth in the second slice (d10: 1). |
+| 7 | Lamb stew with pink salt, from the highland road | 3 c | The cook knocks on the pot before every ladle and looks at the door. |
+| 8 | Chickpeas and flatbread, eaten in silence | 3 c | An Oathen notary at the next table is writing down everything the party says. |
+| 9 | Lawful Soup, lukewarm, sharp-rimmed bowls | 2 c | A Vigil pilgrim has stood at the bar for three days, eyes wide, and has just begun to smile. |
+| 10 | Roast of something, "Fatlands, declared" | 6 c | The stamp has been stamped over twice. The meat cooks faster on the side away from the fire. |
+| 11 | Wake-bill leftovers, sold cheap | 2 c | A printed bill is folded under the plate. The deceased's name is the cook's. |
+| 12 | Cheese and potato pasty, in the yard | 3 c | Nobody in the inn is sitting down. Nobody will say why. |
+| 13 | Salt-baked fish with the head on | 1 L | The head faces west on every plate, though the cook turned it inland. |
+| 14 | Mussels in cider, for the dry | 5 c | The bailers at the bar are betting on which of the party orders them raw next week. |
+| 15 | Undying cheese and black bread | 4 c | The cheese is laid down in 412. It hums. A Kept guest asks for the rind. |
+| 16 | Pantry-door pudding, out of season | 3 c | It is not Tablenight. Somebody in the kitchen is practising. |
+| 17 | Red-wine jelly with grapes, "from Sated" | 2 L | One grape turns to follow the spoon. Taint 2 Hunger, 1 Dread, if it is real. |
+| 18 | Grey ration-bread, cold, standing | 1 c | An Unfed boy declines it three times on the party's behalf, and is offended when they eat it on the second. |
+| 19 | A feast the party did not order, already on the table | free | The bill has been settled. The cloth is white. There is one more chair than the party. Count them. |
+| 20 | Nothing. The kitchen is shut and the cook is gone | — | The fire is still warm. The table in the common room is laid. There is a card at each place. |
+
+[box: Running the Inn Supper]
+Use the table to make every stop on the road a scene. Most rolls are harmless and strange; the party should eat a dozen suppers on the Rim before one of them goes properly wrong, so that the 19 and the 20 land hard when they come. On a 19 or 20, every Unfed character makes an Invitation check (Hard 14, plus Pangs), and every other character makes a Dread 1 check on noticing the chairs. The Company's instruction is to burn the table and not read the card. Not all inn-keepers obey, and the party may not want to either.
+[/box]
+
+## Tablenight at Your Table
+
+[sigil: eighth]
+
+> On that night, in every house, the table is laid.
+>> — of the Fast, on Tablenight
+
+Tablenight is the longest night of Lack, the anniversary of the Gorging. Sallowreach holds a banquet for its dead. The Fatlands fast and fail. Brinehollow leaves a bowl of seawater at the table's head and the west door unbarred. The Vigil puts out its lamps for one minute. Cradlewrack props every door open and lays the plate nearest it. Oathen says nothing for a day. The Fast stands outdoors with its back to every door while every table in the land is laid behind it.
+
+This section is a menu and a running order for a **Tablenight game night**: a long session (or a one-shot) with real food, cooked from this chapter, served course by course in step with the game. It works for any adventure, and best for one set on or near Tablenight itself. It is planned for five players and a Carver. Halve or double as needed.
+
+### The Menu
+
+[fiction]
+*A bill of fare for Tablenight, to be chalked on a slate and propped by the door where the players come in.*
+AT THE DOOR — Cheese and chive scones, hot, wrapped in a cloth. The Stranger's Loaf. *Come for a week. Everyone does.*
+TO BEGIN — The grace, in seven forms. Black rye bread, ash-crusted cheese, and Mother Gall's pickles, for the Kept Table.
+FIRST REMOVE — Salt-baked fish, cracked at the table. Seaweed soda bread. A bowl of water at the head, for whoever might come home.
+SECOND REMOVE — The Silent Supper: chickpeas and dates from one pot, with skillet flatbreads. Eaten in silence, for one course.
+THE GREAT REMOVE — Lamb and mushroom pie with the closed eye, or beef and ale wake stew, with Pinchmarket peppers to keep the table awake.
+SWEETS — Red-wine jelly with grapes that watch. Burnt honey cakes. Knocker's thumbs on a plate by the door.
+AT MIDNIGHT — Hot spiced punch. *May we all finish.*
+AT THE END — Warm honey milk, the lamps turned down. Oatcakes for anyone who would rather not.
+AT THE EMPTY CHAIR — One of everything. Nobody sits there. Nobody asks.
+[/fiction]
+
+### The Day Before
+
+- **Make the jelly** (it needs 6 hours to set) and the **pickles** (better after a day).
+- **Strain the labneh** for the ash-crusted cheese (24 hours).
+- **Make the wake stew** if serving it; stews are better the next day. Or make the **pie filling** and refrigerate it.
+- **Bake the burnt honey cakes, the biscotti and the oatcakes.** All keep in tins.
+- **Start the beetroot pot bread** if you are ambitious (it rises overnight).
+
+### The Morning
+
+- **Bake the black rye bread** (it needs an afternoon to rise and an hour to cool).
+- **Make the chickpea stew** (it reheats perfectly).
+- **Roll the labneh** in its black seeds.
+- **Make the jam thumbprints** with whoever is around to press a thumb.
+
+### The Running Order
+
+| Time | At the table | In the game | What to do |
+| Arrival | Hot scones at the door; the slate by the door | Character creation or recap | Hand every player a scone wrapped in a cloth. Say *Come for a week.* Take wagers on who leaves last. |
+| First hour | The grace; rye, cheese, pickles | The opening scene | Have each player say the grace of their character's land. Set the empty chair now, with a plate. |
+| Second hour | Salt-baked fish, cracked at the table; soda bread | The first trouble | Crack the crust as the first horror lands. Put a bowl of water at the head of the table. |
+| The quiet course | Chickpea stew and flatbreads | A silent scene: a search, a vigil, a wait | For one course, nobody at the real table speaks: the scene is played in gestures, notes and dice. It is harder and better than it sounds. |
+| The Great Remove | Pie or stew, and the peppers | The crisis | Pass the peppers whenever someone flags. Whoever gets the hot one gets a bonus die on their next roll. |
+| Sweets | Jelly, honey cakes, thumbprints | The turn | Put the thumbprints on a plate by the door. If any are gone at the end, do not ask. |
+| Midnight | Hot punch | The climax, or a cliffhanger | At midnight, stop the game. Turn off the lights for one minute, as the Vigil does. Everyone counts aloud, together, to sixty. Then *May we all finish*, and drink. |
+| The end | Warm milk, lamps down; oatcakes | Epilogues | Each player says what their character ate on Tablenight, and what they did not eat, and why. |
+
+[box: The Empty Chair]
+Every Tablenight on the Table has an empty place in it: the chair at the end of the old northern tables that nobody may sit in; the bowl of seawater at Brinehollow's head; the plate nearest the door in the highlands; the table laid behind the backs of the Unfed. At your Tablenight, set one more chair than you need, with a plate, a glass, and a little of every course. Nobody sits there. Do not explain it. If a player asks who it is for, the Carver says, *it was always so*, and *it would be rude to sit there*, and changes the subject. At the end of the night, count the chairs. Then count them again.
+[/box]
+
+[box: Keeping Game Night Safe and Kind]
+Ask about allergies and dietary needs when you invite people, and label the dishes that contain nuts, gluten, dairy, egg, fish or shellfish. Keep a non-alcoholic punch for everyone and let adults add their own. Have one thing on the table (the oatcakes, the scones, the soda bread) that almost everyone can eat. Agree before you start how dark the evening's fiction will go, and remember that the horror is in the book and the food is just food: a player who wants to skip the wake-bill and just eat the stew is doing Tablenight exactly right.
+[/box]
+
+[fiction]
+*The last page of* The Receipts of the Seven Tables and the Road Between, *in Odo Pellance's hand, which is unsteady here, and written, the College's clerk notes, in a different ink from the rest, very fresh, though the book had been on the rag-stall for a season.*
+I have eaten everything in this book and I am still hungry. Everyone is. That is the one true receipt on the Table, and I have saved it for the end.
+Last night at Saltlick a man came in at the common-room door very late, very tall, stooping under the lintel, and stood a long time at the end of the long table with his hat in his hands, counting the chairs. He was polite. He was warm; you could feel it across the room, like a banked oven. He did not sit. When he had counted, he looked at me, and he looked so tired, and so kind, and so sorry, and he said that there would be one more for supper soon, and that he hoped I would not mind laying for them, since he could not, since it was not his place to; and he asked me, very courteously, whether I knew what they liked.
+I said I did not know who he meant.
+He said, *no*, and that was the trouble, nobody did, nobody had asked in such a long time.
+Then he was gone and the chair at the end was pulled out, and it is still pulled out, and I have not pushed it in, and I have been sitting in the kitchen all night writing this by the banked fire with my back to the door, trying to think of a dish for someone whose name has been chiselled off every grace-stone on the Table, and every receipt I know is a receipt for a god we ate, and I cannot think of a single thing to serve that it has not already had.
+Lack keep away. Lack keep away. Lack keep away.
+It didn't.
+[/fiction]
