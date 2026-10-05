@@ -549,3 +549,221 @@ In the Forsworn Riots of 506 they were stolen, and they are in the Breakdowns no
 **EFFECT:** Set on a counter or a pair of scales, the hands make false weight and false measure impossible within sight of them: loaded scales read true, clipped and counterfeit lacks are pointed out by a twitch of a finger, and a merchant who has made any promise of fair dealing and breaks it in their presence suffers the Breaking at +1 Weight. Haggling in their presence uses Eye + Haggle for both parties, never Deceive.
 
 **WORTH:** Never sold. The Bench wants them back; the Company wants them on the road; the Breakdowns would burn Tacit's lower bridges first.
+
+### A Knuckle from the Unmade Road
+
+In 627 A.G. the four hundred soldiers of the Fourth Regiment swore to hold Wending Pass to the death, obeyed their captain's order to fall back, and broke on the road behind him, each opening at every joint by which he had bound himself to the place. Their remains were never cleared. The bone along the switchbacks below the pass is still sorted, roughly, into the shapes of men lying where they fell, and the drovers walk their animals single file down the centre of the road and do not look to either side. Renn Hold is still at the top. He has to be.
+
+A knucklebone from the Unmade Road is small, brown, polished by fourteen years of wind, and carries in it the soldier's oath to hold. Canyon Watch soldiers carry them, illegally, sewn into the lining of a sleeve, and swear by them before a fight. A man with a Wending knuckle in his fist does not get knocked down and does not run. Sergeant Mags Carrow, who keeps the eleven unstrung survivors in the Breakdowns, has beaten three knuckle-sellers half to death with her spear-butt and thrown their stock into the river. She says the boys gave enough. She says it plainly. She has the eye to spare.
+
+**WHISPERED:** Eye + Lore vs Hard (14); any soldier of the Canyon Watch knows.
+
+**SPOILAGE:** None. But each Tablenight a knuckle moves, a little, wherever it is kept: it is found nearer the eastern side of the room, toward Wending.
+
+**CARVING:** Reaching the road means passing below Renn Hold, who will let nobody through who has not sworn to hold the pass (see the Oathen chapter). Finding a whole knuckle in the sorted bone is Eye + Search vs Hard (14) and a Dread 2 check. A Lack means the nearest shape of bone has shifted, in the time the carver was bent over it, to face them: Dread 3.
+
+**TAINT:** 1 Regrowth (Tolm), Dread 2.
+
+**EFFECT:** The bearer says aloud "I hold here" (a Weight 2 oath, which the knuckle makes binding in any land). Until the danger in that place has passed, they gain +4 to resist being moved, knocked down, Grappled away, Pulled or routed, and +2 to Dread checks. If they leave of their own will before the danger has passed, they break as the four hundred broke: the knees, at Weight 2.
+
+**WORTH:** 120 lacks. Scarce. Sold in Canyon Watch barracks and on the Rim to caravan guards. Desecration of the war-dead; the Watch does not prosecute, but Mags Carrow does.
+
+### A Vow-Eater's Receipt
+
+Grandam Cess, the back-canyon fixer, can release a client from an oath by having them swear a greater one over it. Her clients go away free of what they came with, and owe her something worse. Each is given a receipt: a strip of goat-vellum on which the old oath is written out in full and struck through in red, and beneath it the new oath, in a shorthand of Cess's own that no Clausewright has managed to read, signed in the client's blood. The receipt is the debt. Whoever holds it when Cess comes to collect is the one who pays.
+
+Her clients learn this late, and try to get rid of their receipts. A whole Oathener cannot sell one honestly without saying what it is, and so they sell them through the Breakdowns, where the liars-for-hire describe them, with a straight face and an opened mouth, as *a free release from Grandam Cess*. That part is even true. Present a receipt to Cess, and she will release the holder from any one oath of theirs, of any Weight, for nothing more. She will simply note, in her soft dry voice, that the holder now owes her what the last holder owed. She knows what it is. She is the only one who does.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Hard (14) in the Breakdowns, where everyone has been offered one.
+
+**SPOILAGE:** Valid until Cess collects, or dies. If she dies, the Breakdowns believe, every receipt she ever issued comes due in the same afternoon.
+
+**CARVING:** Bought from a desperate client or a liar-for-hire with Tongue + Haggle vs Routine (10); the sellers are very eager. Reading the shorthand is Eye + Clause vs Dire (22), and most never try.
+
+**TAINT:** Dread 2.
+
+**EFFECT:** Presented to Grandam Cess, it releases the holder from one oath of their choice, of any Weight, without Breaking. The holder then owes the receipt's debt, which binds as a Weight 4 oath. Roll a d6, or let the GM choose, for what is owed.
+
+| d6 | What you owe Grandam Cess |
+| 1 | A year of silence, to begin when she says so. |
+| 2 | The name of the next child born under your roof, before its parents choose it. |
+| 3 | Your left hand's work for a season. It will do her business at night, and you will not remember. |
+| 4 | To carry one oath of hers, unread, as her Surety. |
+| 5 | A Sayer's word, sealed in wax, brought to her door. |
+| 6 | To promise nothing ever again. Your next oath of any Weight breaks you as it is spoken. |
+
+**WORTH:** 20 to 500 lacks, depending on how desperate the seller is. Scarce in the Breakdowns. Perfectly legal, because nobody can prove what it says.
+
+### The Breaker's Glass
+
+The state executioner of Oathen owns no weapon. Jude Crake visits the condemned in the Ninth Room beneath the Ledger, turns an hour-glass at the first word, and talks pleasantly until they promise him something small. It has never taken longer than an hour. The glass he turns is not his. It belonged to the Breaker before him, who was condemned in his turn, and whom Crake, then a young man awaiting his own Breaker, talked to death in forty minutes across the same table. Crake kept the glass. It is plain canyon glass in a frame of olive-wood, and its sand is fine and red, and it has run, by the clerks' count, for eleven hundred dissolutions.
+
+The room is warm when it runs. People who have sat across from it describe a pressure like the pressure in the throat before a sneeze, a wanting to agree, to reassure, to say *yes, I'll try*. The sand has heard every small promise made in that room for sixty years, and it remembers how they are got. Crake has said, pleasantly, to more than one Bencher, that he will give the glass to anyone who can talk with him for a full hour while it runs without promising him anything at all. Nobody has taken him up on it.
+
+**WHISPERED:** Eye + Lore vs Grim (18). Every Oathener knows the Breaker; few know the glass matters.
+
+**SPOILAGE:** Each turning, one grain of sand fails to fall and stays in the upper bulb. When the upper bulb is stopped, the glass will run no more. The clerks estimate forty turnings remain.
+
+**CARVING:** Unique. It is kept in the Ninth Room beneath the Ledger, and stealing it is Lung + Stealth vs Dire (22). Winning it from Crake means an hour's talk with him while it runs: four Tongue + Clause rolls vs Grim (18), each failure a small promise he will hold you to.
+
+**TAINT:** Dread 2.
+
+**EFFECT:** While it runs (one hour), everyone who speaks within its hearing must pass Tongue + Clause vs Hard (14) at each quarter of the glass, Grim (18) in the last quarter, or make a small promise (Weight 1) of the turner's choosing in the course of conversation. In Oathen these bind. Elsewhere they do not, but the turner gains +4 to Persuade and Haggle to extract commitments for the hour.
+
+**WORTH:** Never sold. The Bench regards it as Crake's personal property, which frightens the Bench more than anything else about him.
+
+## From the Canyons and the Vaults
+
+[sigil: oathen]
+
+The country itself keeps the god's word better than any of its people. The canyon walls repeat everything, the Gullet's sand swallows it, the Ledger holds four miles of it in stone, and the dead stand upright in the Witnessing Vaults to hear it. Rain falls once a year because a god promised. The leavings of the canyons are the stuff of that keeping: sand, stone, water, bone and horn that have spent centuries hearing oaths and holding them. The Echo-Wardens regard most of them as hazards to be packed in felt. The Bench regards all of them as public record. The Rim Road Company regards them as the most interesting commodities in the east, and has begun to ask the Register of Seized Goods for an inventory.
+
+### Gullet Sand
+
+The Gullet is the gorge where Tolm was eaten, at the head of the river system west of Tacit, and its floor is deep red sand over the god's bones. Sound does not carry there. It sinks, as into a pillow, and a man shouting at the top of his lungs in the Gullet can be heard by nobody five paces off. The sand is hot all year, hot enough now on the deep floor to blister bare feet, and pilgrims who walk it barefoot on Tablenight eve come out with soles that weep for a week. Those who lay an ear to it hear a slow sound like breathing. The Bench rules it is the river. Blasphemers who curse Tolm aloud are found next morning with their tongues gone and their mouths full of fine red sand, and the sand, those who have cleaned the mouths say, is warm.
+
+A pouch of it carried out of the Gullet keeps the Gullet's quiet for a while. Scattered in a ring, it makes a place where nothing echoes and nothing said carries beyond the ring. Smugglers use it to talk in canyons. Lovers use it to make vows that cannot be renewed by the walls. The Echo-Wardens use it by the sack, and the Quiet sleep on it.
+
+**WHISPERED:** Eye + Lore vs Routine (10) in Oathen; it is sold at the Gullet's mouth by the ladle.
+
+**SPOILAGE:** It cools over a season away from the Gullet and stops working. Kept in a felt pouch against the body, it stays warm for a year.
+
+**CARVING:** Hand + Labor vs Routine (10) to scoop, but it must be done in silence on the Gullet floor, as custom and caution require: Lung + Stealth vs Hard (14). Hearing the breathing under the sand is Dread 2. A Lack means the sand took a sound from the carver, a word or a cry, and will give it back, later, from inside the pouch.
+
+**TAINT:** 1 Regrowth (Tolm).
+
+**EFFECT:** A handful scattered in a ring three paces across makes, for a scene, a place where nothing echoes and no sound leaves the ring (+4 Stealth against hearing; oaths sworn inside are not renewed by echo, and cannot be overheard by any mortal ear). Anyone who curses Tolm aloud inside the ring loses their tongue, as the blasphemers do. A pouch holds five handfuls.
+
+**WORTH:** 25 lacks the pouch in Oathen, 80 on the Rim. Uncommon in Oathen. The Bench forbids its export; it leaves by the cartload anyway.
+
+### A Flask of Kept Rain
+
+Before it died, Tolm promised the canyons rain on the first day of Grace, and a god's word outlives the god. The Kept Rain has fallen on that day for six hundred and forty years: warm, heavy, a single day's downpour that fills the cisterns and floods the canyon floors and drowns the careless. The Rainwardens keep a cellar under the Rain Shrine where a sealed flask of canyon-glass has been filled on every one of those days, six hundred and forty flasks in rows, each tagged with its year. It is the god's word, bottled. Lovers make the year's vows in the downpour. Merchants anoint contracts with old vintages.
+
+This year the rain came three days late. Yusra Thole, the Rainwarden, has filled the six hundred and forty-first flask and set it at the end of the row, and has not spoken since. Its water is clear and tastes of nothing at all. Three other flasks of Late Rain are known to exist, and the Second Table, the Rim Road Company and the Cutwrights' College each want to know the same thing: what happens to a promise that is anointed with a promise that slipped.
+
+**WHISPERED:** Kept Rain: Eye + Lore vs Routine (10). Late Rain: Eye + Lore vs Grim (18), and whispered only.
+
+**SPOILAGE:** Sealed in canyon-glass, forever. Once opened, it must be used before sunset.
+
+**CARVING:** Anyone can catch Kept Rain on the first day of Grace, though stealing from another's cistern-share is the one theft the Bench treats as a crime against the god. Old vintages from the Rain Shrine cellar are Hand + Filch vs Dire (22). Late Rain is somewhere in Yusra Thole's keeping, and three other places.
+
+**TAINT:** Kept Rain: 1 Regrowth (Tolm). Late Rain: 2 Regrowth (Tolm), Dread 2.
+
+**EFFECT:** *Kept Rain*, touched to the tongue or the page while an oath is sworn, gives that oath one free Exit, "barring what none could help," which the god will always honour. *Late Rain*, so used, lets the swearer break that oath once without Breaking at the moment of breach. Three days later, the Breaking arrives, at +1 Weight, wherever they are.
+
+**WORTH:** Kept Rain 40 lacks a flask for a recent year, 400 for one of the first century. Uncommon. Late Rain: never sold lawfully, and the bidding on the Rim began at 1,000 lacks.
+
+### The Miscut Stone
+
+Ottoline Vant, Scribe of the Ledger, carves the public vows into the cliff from a scaffold. Last year she miscut one by a single word, and the man it named broke that night. Writing is not supposed to count. The Bench had the slab cut out of the cliff face and a true copy carved in its place, and the miscut slab, a block of red stone the size of a hearthstone, was sealed in felt and lead and carried into the Ledger's record-rooms, and entered in the Register of Seized Goods under a number and no description.
+
+The man was a carter named Tacet Varrow, and he had sworn, at his marriage, to cherish his wife *in her house*. The miscut made it *in his house*. She had left him a month before. He broke at the chest, Weight 4, in a house that was not his, with the door open. The slab has not forgotten. It accepts carving. The rumour on the Sunward Wall, which the Register's keepers do not deny, is that a vow chiselled into the miscut stone binds the person it names as though they had sworn it at the Ledger, whether they swore it or not, and that the wrong word on its face is cutting itself deeper every month.
+
+**WHISPERED:** Eye + Lore vs Dire (22); Ottoline Vant and the Register's keepers know.
+
+**SPOILAGE:** None. The miscut word deepens a hair's breadth each new Plate.
+
+**CARVING:** Unique. Reaching it in the Ledger's record-rooms is Lung + Stealth vs Dire (22). Moving it takes two strong backs. Uncovering it is Dread 2: the miscut word is wet.
+
+**TAINT:** Dread 3, and 3 Regrowth (Tolm) for each vow carved into it.
+
+**EFFECT:** A vow carved into the slab (Hand + Craft vs Hard 14, an hour's work) naming a person binds that person as a Weight 4 oath sworn at the Ledger, from the moment they read it or have it read aloud to them, in any land. They may plead their reading as for any oath. The carver takes a Dread 3 check for each vow, and the slab will hold it there forever.
+
+**WORTH:** Never sold. Lord Varro Esk has asked the Register's keepers, generously, what it would cost to view it. They have not yet named a sum.
+
+### A Warden's Horn
+
+An Echo-Warden of the rank of Tracker carries a horn of signal-silence: a canyon-goat's horn with its bell packed tight with felt from the Gullet's pilgrim-mats. Blown, it does not sound. It un-sounds. For the length of a breath, everything within a bowshot goes silent, the wind and the river and the voices and the echoes still riding the stone, and Wardens across the gorge feel the silence in their one good ear and know where their comrade is. Against a living echo, a horn is a club: the silence breaks the echo's footing in the rock, and it bleeds noise.
+
+Old horns are dangerous. A horn blown against echoes for forty years has eaten forty years of oaths and kept them in its felt, and the felt has to be repacked with fresh every season or the horn begins, faintly, to sound. What it sounds is everything it ever silenced. Warden Hollis Grane's horn went unpacked for one winter in 619 while he lay sick, and in Grace his wife woke in a room full of four hundred overlapping oaths, every one sworn in the eastern gorges in the last forty years, all said at once, all binding. Her hearing did not come back. Neither did some other things.
+
+**WHISPERED:** Eye + Lore vs Hard (14).
+
+**SPOILAGE:** The felt must be repacked each season with Gullet felt. Unpacked, roll a d6 each week; on a 1 the horn sounds (see Effect).
+
+**CARVING:** Horns are given at the rank of Tracker, and a Warden is buried with hers. Taking one from a Warden's grave in the eastern gorges is Hand + Labor vs Hard (14) and the Wardens hunt the thieves by ear. Dread 1.
+
+**TAINT:** 1 Regrowth (Tolm), Dread 1.
+
+**EFFECT:** Blown (Lung + Endure vs Hard 14), all sound within a bowshot stops for one round. A living echo in range takes 2d6 damage. Words spoken in that round are heard by no mortal ear and carried by no echo; the god hears them at half Weight. The blower is deaf for an hour. If the horn sounds instead, everyone within a bowshot hears every oath it has ever silenced: Dread 3, and Tongue + Clause vs Grim (18) or be bound by one of them (the GM's choice).
+
+**WORTH:** 300 lacks. Rare. Smugglers pay most, to blind pursuers' ears; the Wardens pay nothing, and take them back.
+
+### A Testifying Jaw
+
+The dead of Oathen stand upright in the Witnessing Vaults beneath Tacit, faces outward, to witness the oaths of the living. When an oath sworn on one of them breaks, the dead answer for Tolm, and the commonest answer is the jaw: it opens in its niche and speaks the oath aloud in the dead one's own voice, loud enough to be heard for a mile through the rock. Old Sabra Wends, the Keener, has heard it forty-two times. Nine of them were this year. The jaws that have spoken hang loose afterward on their hinges, and the Keeners tie them shut with ribbon.
+
+A jaw that has Testified, taken from its niche, is still a witness. An oath sworn with a hand on it is an oath sworn on the dead, wherever it is sworn, and the dead will answer for it as they answer in the Vaults. The Rim Road Company would like several. A jaw in a strongbox at a Fatlands waystation would make every bond sworn there as good as one sworn under the Ledger. Sabra Wends has noticed that her niches are being counted by men in good grey coats.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Keeners and the Company's factors know.
+
+**SPOILAGE:** Bone, and lasting. But a jaw that is not sworn on for a year stops witnessing; the Keeners say the dead grow bored.
+
+**CARVING:** Entering the Vaults unattended is Lung + Stealth vs Grim (18) past the Keeners' lanterns. Removing a jaw is Hand + Stitching vs Hard (14) and a Dread 3 check. A Lack means the jaw speaks the carver's name, once, in the dead one's voice.
+
+**TAINT:** 1 Regrowth (Tolm), Dread 3.
+
+**EFFECT:** An oath sworn with a hand on the jaw, anywhere on the Table, is an Oath on the Dead in the Oathen manner: +1 Weight, no Surety may carry it, and if it breaks, the swearer suffers a Breaking even outside Oathen and the jaw Testifies (roll on the Oathen chapter's Testify table). Once, on first being taken, the jaw speaks the oath it Testified, which is always someone's secret.
+
+**WORTH:** 700 lacks. Rare. Robbing the Vaults is desecration of the witnesses, and the Bench sends Jude Crake.
+
+## From the Bitted and the Sworn-Into-Being
+
+[sigil: oathen]
+
+Oathen's children are bitted from the first tooth until twelve, its swearers are bitted for their safety, and its kings are bitted for life. Its widows keep promises they made at deathbeds, and some of its sons exist only because somebody swore they would. These are the smallest leavings in the canyons and the most intimate: things that have lived in mouths, things kept alive by a word, things that remain when a word is no longer kept. Oatheners do not sell them lightly. Most come onto the market when a family line ends, and the dealers on the Sunward Wall who handle them do so in white gloves, without speaking, as if attending a funeral.
+
+### An Heirloom Bit
+
+Every Oathen child wears a soft leather muzzle from the first tooth until twelve, decorated by its parents with beads, ribbons and the family mark. In the old families the same bit is passed down, mended and re-lined, through generation after generation, so that a child of the Sele line or the Fell line wears in its mouth the leather that has held back the words of its grandmother's grandmother. Heirloom bits taste of everyone who wore them. Oathen adults who see one in a dealer's case go quiet, and touch the corners of their own mouths, where the groove is.
+
+An old bit has held back a very great many promises. It has learned how. An adult who wears one cannot be made to swear by the god in their blood, and the bit will take the god's anger for the wearer's hands when they sign: a vow made in handtalk while wearing it breaks a bead off the leather instead of a finger. When the beads are gone, it is only leather, and the family it belonged to is properly over.
+
+**WHISPERED:** Eye + Lore vs Routine (10); every Oathener knows the custom, and Hard (14) to know what an old one can do.
+
+**SPOILAGE:** Leather; it lasts as long as it is oiled with cedar. A bit worn by fewer than four generations has no virtue.
+
+**CARVING:** Families never sell a bit while the line lives. Heirloom bits come to market when a family dies out, and the dealers find them first. Tasting one the first time is Dread 2: a child's fear, a great many times over.
+
+**TAINT:** Dread 1.
+
+**EFFECT:** While worn, the wearer cannot speak, ignores the Oathen Wants **To Swear** and **To Be Heard**, and gains +2 to Caul + Resolve against any compulsion to speak. Each time the wearer would suffer a Breaking from a handtalk vow, a bead falls from the bit instead and the fingers are spared. A bit has 1d6 + 3 beads.
+
+**WORTH:** 60 to 200 lacks, by age. Uncommon in Tacit. Selling a living family's bit is not a crime in law; in the canyons it is the next thing to one.
+
+### An Ember of the Widow's Fire
+
+Asha Kindle promised her dying husband she would never let the fire go out. That was thirty-one years ago. She has not slept more than an hour at a stretch since, and the fire on her hearth has grown particular about what it is fed. It sulks on wood. It flares on letters. It burned for three days, blue and roaring, on a lock of hair her husband gave her when they were courting, and the house was warm as Plenty in the depth of Lack. It cannot go out. Asha has tested this, once, with a bucket, at four in the morning after a bad night, and the coals lay under the water glowing like eyes.
+
+An ember from that fire, carried in a horn box packed with ash, does not go out either. Rain, wind, a river, a smothering blanket: none of it matters, because a promise is keeping it lit. The Vigil has heard. Garron Ashlock, Lamplighter-General, with ninety days of oil and a supplier who has doubled the price, has sent an agent east with a letter of credit and a horn box. Asha gave one ember away, years ago, to a carter on the Rim, so that some of the fire would be somewhere else if hers failed. The carter has not slept more than an hour at a stretch since.
+
+**WHISPERED:** Eye + Lore vs Hard (14) in Tacit; the whole Shadeward Wall knows the widow's fire.
+
+**SPOILAGE:** None. It cannot go out. Each new Plate, it wants something more precious.
+
+**CARVING:** Asha will not give one. She does not sleep, so stealing a coal from her hearth is Hand + Filch vs Grim (18). The fire leans toward a thief, curious about what they have promised: Dread 2.
+
+**TAINT:** 1 Regrowth (Tolm), Dread 1.
+
+**EFFECT:** It gives light and warmth that no wind or water can put out, enough to banish darkness penalties within a few paces. Fed a token of a promise (a ring, a letter, a lock of hair given in love), it blazes for a scene as a torch (3 damage, fire) and warms a house through a night of Lack. Fed only wood, it sulks to a coal, and never dies. Whoever carries it cannot sleep more than an hour at a time (−1 to all rolls each night, to −4, as for sleeplessness).
+
+**WORTH:** 500 lacks. Rare. The Vigil would pay ten times that for enough embers to light a district, and does not yet understand what they eat.
+
+### The Coat of a Faded Oath-Made
+
+The Oath-Made are people created by promises: sons sworn into being, soldiers promised to a cause, a lover sworn to come back who came back. They are warm and real, and they exist only for as long as the promise is kept. When the one who swore it dies, or wavers, or forgets, they begin to fade, first from memory, then from sight, and at the end there is nothing left but the clothes they were wearing, lying in a heap on the floor where they stood, still warm. Ilan, who was promised to his mother as a son, is nine, and his father died in the spring, and he has started to become difficult to see.
+
+The coat of one who has already faded is hard to look at. Eyes slide off it. It hangs in a wardrobe and is overlooked by everyone searching the wardrobe. Worn, it makes its wearer as hard to see as its first owner was at the end, for as long as someone is keeping a promise to the wearer. The crown's spies have three. A Clausewright named Merit Dath, who owns another, has noticed that she can no longer remember the face of the boy who wore it first, though she knew him from birth, and she was the one who drafted the promise.
+
+**WHISPERED:** Eye + Lore vs Grim (18).
+
+**SPOILAGE:** The coat itself fades. Each year it is harder to find again once put down: Eye + Search vs Hard (14) to find it in one's own room, Grim (18) after a decade.
+
+**CARVING:** It is simply picked up where its owner faded, from a family who usually wants it gone and cannot bear to let it go: Tongue + Persuade vs Hard (14). Dread 2, when the carver realises they cannot picture the one who wore it.
+
+**TAINT:** 2 Regrowth (Tolm), Dread 2.
+
+**EFFECT:** While worn, and while someone is keeping a promise of Weight 2 or more made to the wearer, the wearer gains +4 Stealth and +2 Guard. If that promise is broken, or its maker dies, the wearer begins to fade as an Oath-Made fades: each day thereafter until a new promise is made to them, a companion of the GM's choice forgets their face (Dread 2 when the companion notices), and the wearer gains 1 Fray.
+
+**WORTH:** 450 lacks. Rare. Spies, thieves and the crown. The Bench has no law against it, because it has never been able to find one to seize.

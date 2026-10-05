@@ -46,15 +46,15 @@ She fed it wood, then cedar when it began to sulk. In 619 it refused cedar, and 
 
 #### Their Place in the Land
 
-The Cutwrights visit yearly to note, with professional interest, that a common-blooded woman of Cut 2 has reached Regrowth 5 by keeping one promise very hard for a very long time, and young Clausewrights study her as the classic Weight 3 oath with no Exit and no term. She lives on a lamp-oilers' widow's dole and on minding other people's coals, since a woman who cannot leave her fire has become, by the canyon's logic, the best fire-keeper in Tacit. Her steadiest suppliers are the Forsworn hair-sellers, who need her custom more than they admit.
+The Cutwrights note with professional interest that a common-blooded woman of Cut 2 has reached Regrowth 5 by keeping one promise very hard for a very long time; young Clausewrights study her as the classic oath with no Exit and no term. She lives on a widow's dole and on minding other people's coals, and the Forsworn hair-sellers need her custom more than they admit.
 
 
 #### What They Carry
 
-- **The tin of hair** — a lamp-oiler's dented tin with a hinged lid, stuffed with the day's ration: plaits, combings, a child's curl tied with red thread. She buys at 1 lack a hand's-weight. The fire now refuses the hair of the bitted and burns sullen on the hair of the Forsworn; it likes best the hair of people who have recently told the truth at some cost. She has not yet asked herself how it knows.
+- **The tin of hair** — plaits, combings, a child's curl tied with red thread, bought at 1 lack a hand's-weight. The fire refuses the hair of the bitted and likes best the hair of people who have recently told a costly truth. She has not asked herself how it knows.
 - **Hearth-tongs** — Edrec's, iron, the grips wrapped in rag so old it has gone the texture of felt. She will use them as a weapon if anyone reaches for the fire (as a brand, 3 damage).
 - **The one-hour sandglass** — she turns it whenever she sits down, and she wakes when it runs out, every time, for thirty-one years. The glass is chipped and the sand inside is greyed with ash that got in through the crack.
-- **Edrec's last letter** — the only one she has not read aloud or burned. It is folded small and kept in the front of her dress against her breastbone, and the paper is soft as cloth. She does not know what it says. She believes, on no evidence at all, that if she reads it the fire will let her go, and she is more afraid of that than of anything else.
+- **Edrec's last letter** — the only one she has not burned, folded small against her breastbone, soft as cloth. She does not know what it says. She believes, on no evidence, that if she reads it the fire will let her go, and that frightens her more than anything.
 - **A thumb ring** — plain bone, worn to the knuckle. One oath outstanding, as the custom goes. There has only ever been one.
 
 #### Wants, Fears and Secrets
@@ -125,7 +125,7 @@ He married Lisbet Orne, a quiet copyist, in 627. She died bearing their daughter
 
 #### Their Place in the Land
 
-Most of Oathen's children wear bits from the six workshops of the Bitmakers' Stair under Garl's mark; every swearer in the Murmuring House wears his iron. The Tongue-line houses call him up at night to fit silver to a son or mother who has begun to swear in their sleep, so he knows which houses are nearest the Brink, and says nothing. He fits the king's gold-chased silver twice a year. Once a quarter he goes beneath the Ledger to resize the Sayers' tongue-plates, because their tongues keep growing.
+Most of Oathen's children wear bits from the Bitmakers' Stair under Garl's mark, and every swearer in the Murmuring House wears his iron. The Tongue-line houses call him up at night to fit silver to a son or mother who has begun to swear in their sleep, so he knows which houses are nearest the Brink, and says nothing. Once a quarter he goes beneath the Ledger to resize the Sayers' tongue-plates, because their tongues keep growing.
 
 He holds the key to the Bench's gold-press, the only place in Tacit where pure gold may lawfully be worked, and the Bench pays him well and watches him closely. He owes them his trade. They owe him their safety. Both know it.
 
@@ -203,7 +203,7 @@ She has said nothing aloud in a month. She signs only to the shrine's acolytes, 
 
 #### Their Story
 
-Yusra was born in 596 A.G. to the Thole family, one of the eleven Rain-keeper lines whose ancestors ate the god's great slow heart. Heart-line children are born with a pulse too slow for a physician's comfort and hear, on the stillest nights, a second heartbeat under their own, enormous and far down. The Rain-keepers swear every household's cistern-share once a year, keep the Tally of every Kept Rain since 1 A.G., and wait on the high basin for the first cloud of Grace.
+Yusra was born in 596 A.G. to the Tholes, one of eleven Rain-keeper lines whose ancestors ate the god's great slow heart. Heart-line children are born with a pulse too slow for comfort and hear, on still nights, a second heartbeat under their own, enormous and far down. The Rain-keepers swear the cistern-shares, keep the Tally of every Kept Rain, and wait on the high basin for the first cloud of Grace.
 
 She became Rainwarden in 627, when her aunt Imma's heart stopped during the Rain and did not, that time, start again. Cross-checking the Tally in 634, she noticed what six centuries of keepers had missed: by her pulse, which keeps the god's time, the interval between rains had been lengthening by a few hours a year for a century. This year canyon and god came apart by three days. The rain was not late. Tolm's year has grown three days longer, and the god kept its word to the hour, by its own reckoning.
 
@@ -217,7 +217,7 @@ The Bench depends on her for the Tally and resents her for her silence. The Fors
 
 #### What They Carry
 
-- **The Tally** — a cedar box of knotted cords and close-written ledgers, the record of every Kept Rain for six hundred and forty years, with Yusra's own new column, in her small square hand, of the god's drift, year by year. Read by anyone with Eye + Reckoning (Grim 18), it shows the drift plainly, and anyone who works out what it means takes a Dread 3 check.
+- **The Tally** — a cedar box of knotted cords and ledgers recording every Kept Rain, with Yusra's own new column of the god's drift. Anyone who reads it (Eye + Reckoning, Grim 18) and works out what it means takes a Dread 3 check.
 - **The rain-staff** — a long pole of black wood shod in bronze, notched with the heights of the floods. She uses it to sound cisterns and, once, to break a thief's wrist.
 - **The cistern-key ring** — forty bronze keys on a hoop of rope, to the sealed cisterns of the high basin. The Bench's cistern-shares depend on them.
 - **A beaker of last year's rain** — stoppered with wax, kept in a felt sleeve. It is the water of a kept promise, and the shrine holds that it does not go stale. This year's was three days late. She has a second beaker of that, and she has noticed that it is very slightly warm.
@@ -290,13 +290,13 @@ The old woman was Grandam Oake, the Vow-Eater of that age, and Cessaly swore ove
 
 #### Their Place in the Land
 
-Knot Canyon is a dead-end gorge west of Tacit, honeycombed with Honest Age cisterns that ring, posted as silent and avoided even by the Echo-Wardens. Her clients come by night: brides sworn to the wrong man, soldiers sworn to impossible service, children who said something before twelve. They swear on the dead, she writes them in the Book and ties a thread for them in her shawl, and they go home free, owing her a vow she words for them: "to come when called," "to give what is asked," "to carry what I hand you." She has never called one.
+Knot Canyon is a dead-end gorge west of Tacit, its Honest Age cisterns posted as silent. Her clients come by night: brides sworn to the wrong man, soldiers sworn to impossible service, children who spoke before twelve. They swear on the dead, she ties a thread for each in her shawl, and they go home free, owing her a vow of her wording: "to come when called," "to give what is asked," "to carry what I hand you." She has never called one.
 
 The Bench calls the Greater Word heresy, but nine hundred clients include two Benchers' daughters, a captain of the Watch and the Master of the Surety House, so Knot Canyon is left alone. Ona Fell hates her: every client Cess frees is a principal who no longer needs a Surety.
 
 #### What They Carry
 
-- **The Knot Book** — a ledger bound in goat leather so old it has gone hard as wood, with nine hundred and some names in it and the greater oath each one swore, and at the front, in a different, ancient hand, the line of every Grandam back to the Supper. Whoever holds it can feel her clients as she does. It is worth more than Quillhouse to the wrong buyer.
+- **The Knot Book** — goat leather gone hard as wood, nine hundred names and their greater oaths, and at the front the line of every Grandam back to the Supper. Whoever holds it feels her clients as she does.
 - **The client-cords** — a knot for each client, tied in the shawl-fringes. When a client strays far, the knot tightens. When a client dies, it loosens and falls off. Sometimes, in the dead of night, all nine hundred knots twitch at once.
 - **A clay ear-trumpet** — the kind used by the deaf. She does not use it to hear people. She sets the wide end flat on the floor.
 - **A bag of knucklebones** — the bones of her son's hand, taken from his niche in 590 with the Keeners' consent, which she rolls when she is thinking. They always come up the same way.
@@ -363,7 +363,7 @@ He sits on the same flat stone at the head of the switchbacks, drawn sword acros
 
 #### Their Story
 
-Renn Hold was born in 593 A.G. in Dun Varrow, a drover's son, joined the Canyon Watch at sixteen, and in 625 was given the Fourth Regiment: four hundred soldiers, most of them nineteen. In the Carving of 627 Reckoners came out of the Fast hunting a Tongue-line family, and the Fourth was sent to Wending Pass, where the regiment swore together in the old form: "We will hold Wending Pass against all who come, until death relieves us." Renn spoke it first. The canyon gave it back nine times.
+Renn Hold, a drover's son of Dun Varrow, was given the Fourth Regiment in 625: four hundred soldiers, most of them nineteen. In the Carving of 627 Reckoners came out of the Fast, and at Wending Pass the regiment swore together in the old form: "We will hold Wending Pass against all who come, until death relieves us." Renn spoke it first. The canyon gave it back nine times.
 
 On the third morning he watched a hundred Reckoners come up the switchbacks in silence, and looked at his soldiers, children three years past twelve, and gave the order to fall back. He stayed. They obeyed. The sound of four hundred Breakings came up from the road like a rockfall, every soldier opening at each joint by which they had bound themselves to that ground. Some of them did not die at all. The Reckoners saw one man with a sword and four hundred behind him, and went home. Their captain, Scant Hollis, is said to have been sick by the roadside.
 
@@ -832,7 +832,7 @@ He likes people. That is the dreadful thing about him, and it is not an act. He 
 
 #### Their Story
 
-Jude was born in 597 A.G. to the wife of a cooper on the canyon floor, and he was the child of a Tongue-line lord whose name his mother never said. The cooper, Hobb Crake, raised him and taught him to bend staves, and beat his mother when he drank. In 617, at twenty, Jude killed him with a stave-hammer in the steaming shed. Asked "Did you do it?" before the Bench, he said "Yes," and was given to the Breaker.
+Jude was born in 597 A.G. to a cooper's wife, the child of a Tongue-line lord she never named. The cooper, Hobb Crake, taught him to bend staves and beat his mother when he drank. In 617 Jude killed him with a stave-hammer in the steaming shed, answered "Yes" to the Bench's one question, and was given to the Breaker.
 
 The Breaker of that day was Amon Sallet, a stern, decent man. Jude talked to him for the hour, about staves and his mother and Amon's daughter Pell, whom Amon mentioned once. At the fifty-first minute Amon promised to spare him. His oath of office, "I will finish every one given me," broke at once, opening his hands and his breastbone, and a second oath Jude had led him into without his noticing ("I'll see you out of here") broke on the first. He bled out on the floor of the Ninth Room before morning. Jude held his hand.
 
@@ -1050,7 +1050,7 @@ A rich, charming Tongue-line heir with friends on the Bench, a cousin in the Env
 
 - **The silver night-bit** — Garl Tome's work, wearing thin.
 - **A Second Table veil** — silk, with a silver fork.
-- **A draft sentence** — on vellum, the nine words, revised forty times.
+- **A draft sentence** — on vellum, the six words, revised forty times.
 
 #### Wants, Fears and Secrets
 
@@ -1332,7 +1332,7 @@ Oathen's relationships are not feelings; they are entries. Every tie below is a 
 | Jude Crake | to be kind | the hour running long | Pell Sallet a visit |
 | Mags Carrow | Renn Hold brought down | having to ask | Tobb Inly an answer |
 | Dacey Furl | the last word | the night ward sitting up | the three hundred broth |
-| Varro Esk | a Sayer's nine words | his own sleep | the Second Table a god |
+| Varro Esk | a Sayer's six words | his own sleep | the Second Table a god |
 | Ansgar Mote | to understand the tongues | the last word | Verity the truth |
 | Sabra Wends | the number to stop rising | the dead saying "Go on" | every niche its oil |
 | Pell Sallet | Jude Crake at the niche | forgiving him | her father an answer |
@@ -1340,22 +1340,22 @@ Oathen's relationships are not feelings; they are entries. Every tie below is a 
 
 ### The Breaker and the Daughter
 
-Jude Crake killed Amon Sallet with an hour of conversation in 617, and knelt in front of his six-year-old daughter that morning and promised to visit "when I'm able." Twenty-four years later Pell Sallet keeps her father's niche in the Witnessing Vaults, and she has worked out what her childhood never could: that the Exit is the only thing keeping Jude whole, and that she holds the key to it. If she writes "You are able" and means it, he must come down the Vaults' stair or break. Sabra Wends knows. Ottoline Vant's list knows something worse: that Amon Sallet's name appears on it, in a miscut of 612, and that the Breaker who died sparing Jude was already broken by the Office of the Fair Copy five years before. Put Jude, Pell and the list in the same niche-corridor on the same night and something will be said that cannot be unsaid, by the most dangerous talker in Oathen, at the Course, in a room full of the dead who have started answering.
+Jude Crake killed Amon Sallet with an hour of conversation in 617 and promised his six-year-old daughter he would visit "when I'm able." Pell Sallet, now a Keener, has worked out that the Exit is the only thing keeping Jude whole, and that she holds its key: if she writes "You are able" and means it, he must come down the Vaults' stair or break. Ottoline Vant's list knows something worse: Amon Sallet's name is on it, miscut in 612. Put Jude, Pell and the list in one niche-corridor on one night, among dead who have started answering, and something will be said that cannot be unsaid.
 
 ### The Captain, the Sergeant and the Road
 
-Renn Hold and Mags Carrow both know the other reading of "until death relieves us," and neither knows the other knows. He keeps the regiment alive on the road with nightly water, one step past the line, coming open a little more each time; she keeps eleven alive in the Strap-House with straps and buckles, and one of the eleven, Tobb Inly, is asking her to let go. Every soldier she lets die brings her captain one step closer to relief. Every bucket of water he carries down keeps him on the pass forever. Halvar Stane, who killed the regiment's echoes in 628, suspects one got away and is still running up and down the Unmade Road at night. Any PC who carries a letter between the Strap-House and the top of the pass is carrying a death sentence, and has to decide whose.
+Renn Hold and Mags Carrow both know the other reading of "until death relieves us," and neither knows the other knows. He keeps the regiment alive on the road with nightly water, coming open a little more each time; she keeps eleven alive in the Strap-House, and one of them is asking her to let go. Every soldier she lets die brings her captain closer to relief; every bucket he carries down keeps him on the pass. Any PC who carries a letter between the Strap-House and the top of the pass carries a death sentence, and has to decide whose.
 
 ### The Gold, the Girl and the Lord
 
-Garl Tome makes the bits that hold the Sayers. Lord Varro Esk wants one with a flaw, and a visit to the Gilded Cells, and nine words in Lady Imre Dath's mouth. House Hushwell wants Garl's daughter Merit bitted in silver forever so that she can be crowned. Hessa Lisk has measured Merit and knows she is at the Course without ever having made a sound. And Merit has spent three years learning a secret handtalk from the king at his fittings, and has promised him, in his own language, to say her first words for him. Her Unbitting is at Plenty, in the Hall of Conditions, before the whole canyon. Garl has a lump of pure gold in his apron and a copper filing in a locket, and has never heard his daughter's voice. Everyone in this knot wants Merit to say something, or not. Nobody has asked her what.
+Garl Tome makes the bits that hold the Sayers. Lord Varro Esk wants one with a flaw. House Hushwell wants Garl's daughter Merit bitted in silver forever so that she can be crowned. Hessa Lisk knows Merit is at the Course without ever having made a sound. And Merit has learned a secret handtalk from the king at his fittings and promised him, in it, to say her first words for him, at Plenty, in the Hall of Conditions, before the whole canyon. Everyone in this knot wants Merit to say something, or not. Nobody has asked her what.
 
 ## Using Oathen's People
 
 > Knock softly. Answer slower.
 >> — Tacit proverb
 
-These eleven, and the seven who join them, are best used as pressure: each carries a promise that is about to come due, and each will try to put part of the weight onto the PCs. Let them arrive when the party is tired, in the middle of something else, with a reason that is good and a request that is small. In Oathen nothing that is said is small.
+Use these people as pressure: each carries a promise about to come due, and each will try to put part of its weight on the PCs, arriving with a good reason and a small request. In Oathen nothing said is small.
 
 **Who's at the Door?** Roll a d20 when the PCs are in Tacit, on the Rim near Quillhouse, or anywhere the canyon's people can reach them.
 

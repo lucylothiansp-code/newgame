@@ -623,7 +623,7 @@ Sorrin Vael is tall, narrow and bald, with long yellow fingers stained grey at t
 
 Born in 581 to the Vael house, a middling Tongue-line of drafters, Sorrin was unbitted in 593 with the first words *I am here, I believe*, which became a family joke and then a family motto. He entered the Bench as a Slate-Clerk at fourteen under Chief Clausewright Annick Morrow, who taught him that a sentence is a building and that the god lives in the cracks. He drafted his first marriage at nineteen. At twenty, in 601, he drafted the Notary's Oath that Jessamy Quill swore before the Company, including the clause, at the Company's request, that no other notary of the Rim would be sworn while she lived. He was proud of it then. He has drafted, by his own count, eleven thousand four hundred sworn documents, among them the Canyon Watch oath after Wending, the anonymous Surety bond Ona Fell carries for Quill (615), and the sentences Lady Imre Dath has spoken in each year of her Seating. He became Chief Clausewright in 628.
 
-He married Merit Ashmore, a Galleries-born archivist, in 606, under a contract of thirty-one pages that he drafted himself and is still, he says, the work he is proudest of. He has never said *yes* to her without an Exit. Their marriage is tender and conducted largely by touch. In 639 he began to swear in his sleep. Merit, who sleeps light, began to write it down.
+He married Anwen Ashmore, a Galleries-born archivist, in 606, under a contract of thirty-one pages that he drafted himself and is still, he says, the work he is proudest of. He has never said *yes* to her without an Exit. Their marriage is tender and conducted largely by touch. In 639 he began to swear in his sleep. Anwen, who sleeps light, began to write it down.
 
 #### Their Place in the Land
 
@@ -633,7 +633,7 @@ Sorrin interprets the king to the Bench and the Bench to the king, which makes h
 
 - **The Clausewright's box** — cedar and brass, from his teacher Annick Morrow: quills, sand, wax, thumb-inkpad. (+1 Clause on drafting.)
 - **The quill-knife** — he trims a quill every hour, whether it needs it or not. It is how he stops himself speaking.
-- **An iron bit** — hidden beneath the high collar at night, strapped on by Merit at bedtime.
+- **An iron bit** — hidden beneath the high collar at night, strapped on by Anwen at bedtime.
 - **The Book of Conditions** — his own copy, four hundred pages of standard Exits, interleaved with nine hundred more of his own.
 - **Two thumb-rings** — brass for the marriage, silver for the Bench oath. Two rings in forty years of public life. Lesser men wear twenty.
 - **The sealed page** — the page cut from the Bench's minutes of 419 A.G., inherited from Annick Morrow on her deathbed, with a note: *Do not read this aloud. Do not read it at all, if able.* He has not.
@@ -641,13 +641,13 @@ Sorrin interprets the king to the Bench and the Bench to the king, which makes h
 
 #### Wants, Fears and Secrets
 
-He wants the perfect sentence: one that binds exactly what is intended and nothing more. He fears it does not exist, and that the god has been reading his drafts more generously than they deserve, for forty years, for reasons of its own. **Secret (GM may reveal):** Merit's record of his sleep-swearing. Two years of it, in her neat archivist's hand, is a treaty, clause by clause, between "the party who listens" and "the party who comes late to table," with Sorrin as notary and witness. The treaty grants the second party "a chair, and the first portion." Sorrin has read it. He has made no sense of it, and he cannot stop. **Secret (GM may reveal):** he drafted the Silence Clause for the king (see Ket the Ninth), and updates it monthly. **Secret he does not know:** the knot at the centre of Oathen. He drafted Quill's oath, Ona's bond, and the Company's instruction to find a successor, as three separate commissions over forty years, and has never laid them side by side.
+He wants the perfect sentence: one that binds exactly what is intended and nothing more. He fears it does not exist, and that the god has been reading his drafts more generously than they deserve, for forty years, for reasons of its own. **Secret (GM may reveal):** Anwen's record of his sleep-swearing. Two years of it, in her neat archivist's hand, is a treaty, clause by clause, between "the party who listens" and "the party who comes late to table," with Sorrin as notary and witness. The treaty grants the second party "a chair, and the first portion." Sorrin has read it. He has made no sense of it, and he cannot stop. **Secret (GM may reveal):** he drafted the Silence Clause for the king (see Ket the Ninth), and updates it monthly. **Secret he does not know:** the knot at the centre of Oathen. He drafted Quill's oath, Ona's bond, and the Company's instruction to find a successor, as three separate commissions over forty years, and has never laid them side by side.
 
 #### Ties
 
 - **Ket the Ninth** — Sorrin has read the king's every gesture for twelve years and does not know what he thinks. It is the only text that has ever defeated him.
 - **Lady Imre Dath** — he visits the Gilded Cells weekly. She turns her ears to him and he reads her his drafts. She has never responded. He suspects she is laughing.
-- **Merit Vael** — his wife, his record-keeper, the only person who has heard him say anything unqualified, and only in his sleep.
+- **Anwen Vael** — his wife, his record-keeper, the only person who has heard him say anything unqualified, and only in his sleep.
 - **Jessamy Quill** — they have known each other since 601. He drafted her oath. She has never thanked him, which he understands.
 - **Judge Thane Urrow** — old allies. Sorrin drafts the sentences Urrow's court imposes. Each thinks the other has the cleaner hands.
 - **Brakk** — Brakk calls him "the man who's never said anything" across the canyon, through a speaking-trumpet. Sorrin keeps a file.
@@ -655,11 +655,11 @@ He wants the perfect sentence: one that binds exactly what is intended and nothi
 
 #### In Play
 
-PCs come to Sorrin when they need an oath drafted that will get them into a place or out of one, a Reading on what the god counts, or the Bench's permission for anything. He charges two hundred lacks for an hour of his time, and is worth it: an oath of his drafting is **Clean** (as the Rule) without a roll. **Seeds:** Sorrin hires the PCs to read his wife's record and tell him what it means, without telling him anything he would be obliged to act on; the PCs are asked by an envoy to alter one clause of the Sayer's sentence and must get it past him; Merit Vael comes to the PCs secretly, because last night he swore a clause aloud with his eyes open, awake, and did not remember it. Under threat, Sorrin drafts: he will offer a contract to anyone who threatens him, and it will be very good, and they will regret signing it. To kindness he is wary, since kindness creates obligation. Toward the god he is a scholar toward a text he loves and fears. **If nobody intervenes:** Sorrin finishes draft one hundred of the Sayer's sentence on the eve of Tablenight, and reads it aloud to Merit, in his sleep, in full.
+PCs come to Sorrin when they need an oath drafted that will get them into a place or out of one, a Reading on what the god counts, or the Bench's permission for anything. He charges two hundred lacks for an hour of his time, and is worth it: an oath of his drafting is **Clean** (as the Rule) without a roll. **Seeds:** Sorrin hires the PCs to read his wife's record and tell him what it means, without telling him anything he would be obliged to act on; the PCs are asked by an envoy to alter one clause of the Sayer's sentence and must get it past him; Anwen Vael comes to the PCs secretly, because last night he swore a clause aloud with his eyes open, awake, and did not remember it. Under threat, Sorrin drafts: he will offer a contract to anyone who threatens him, and it will be very good, and they will regret signing it. To kindness he is wary, since kindness creates obligation. Toward the god he is a scholar toward a text he loves and fears. **If nobody intervenes:** Sorrin finishes draft one hundred of the Sayer's sentence on the eve of Tablenight, and reads it aloud to Anwen, in his sleep, in full.
 
 [box: Said of Them]
 "He drafted my marriage. Forty-two pages. Every page was beautiful. My husband broke on page nine." — a widow of the Heights
-"He never says yes. But when he holds my hand at night, and I ask him if he's happy, he squeezes twice. I've decided that counts." — Merit Vael
+"He never says yes. But when he holds my hand at night, and I ask him if he's happy, he squeezes twice. I've decided that counts." — Anwen Vael
 "Chief Clausewright? Paid him eight lacks once to look at my stall-lease. He looked at it a long time and said, 'I would not, were I you, and if able, sign this.' Best eight lacks I ever spent." — a fig-seller of the Felt Market
 [/box]
 
@@ -711,7 +711,7 @@ Imre is the most powerful person in Oathen and has no power at all. She is the B
 
 #### Wants, Fears and Secrets
 
-She wants to be understood: to say one sentence of her own and have it be what she meant. She fears that she does not know what she means any more, because the voice under hers is so reasonable. **Secret (GM may reveal):** she has heard everything said in the Ledger for three years, including every Bench session in the record-rooms, the Silence Clause, Merit Vael's readings of her husband's sleep-treaty, and the knot at the centre of Oathen. She knows more about the Bench than the Bench does. **Secret (GM may reveal):** the Kept Rain did not slip because of her. But she heard it come, three days late, and every ear on her body turned toward the sky, and she felt something in her want to say *now*. **Secret she does not know:** the sentence on her wall is already binding at Course strength. Each night she fails to finish it, it renews at Weight 1. It is waiting for a word.
+She wants to be understood: to say one sentence of her own and have it be what she meant. She fears that she does not know what she means any more, because the voice under hers is so reasonable. **Secret (GM may reveal):** she has heard everything said in the Ledger for three years, including every Bench session in the record-rooms, the Silence Clause, Anwen Vael's readings of her husband's sleep-treaty, and the knot at the centre of Oathen. She knows more about the Bench than the Bench does. **Secret (GM may reveal):** the Kept Rain did not slip because of her. But she heard it come, three days late, and every ear on her body turned toward the sky, and she felt something in her want to say *now*. **Secret she does not know:** the sentence on her wall is already binding at Course strength. Each night she fails to finish it, it renews at Weight 1. It is waiting for a word.
 
 | d6 | If Lady Imre finishes the sentence: "When the rain comes, I will be..." |
 | 1 | "...free." The bit falls away when it next rains, and she walks out of the Cells. Nothing can stop her. |
