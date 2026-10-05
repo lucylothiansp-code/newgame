@@ -787,7 +787,7 @@ The faction that wants the number reduced. They are Eye-line Watchers, Dormitory
 
 [fiction]
 A leaf from the Lessening's working schedule, in Sabine Larch's hand, found folded inside a Dormitory register by a copy-clerk who should not have opened it.
-*Schedule of Relief, first tranche. Hall Two, Rows 1 to 9, unvisited since 560 or earlier; no Bed-Due paid in eighty years; no family living. Beds 3,315 (see note); 3,316; 3,318; 3,322; 3,340 to 3,361. Method: as agreed, by the orderly of the night row, at the 23rd bell, the salts in the drip. Expected relief per night: four. Expected relief per tranche: one hundred and twelve. Expected effect on the Count: as calculated, a margin of nine months. Note on 3,315: the first of the list on grounds of age of row only. No other ground. S. L.*
+*Schedule of Relief, first tranche. Hall Two, Rows 1 to 9, the oldest rows; unvisited, or visited less than once a year; Bed-Due in arrears or paid by the Watch. Beds 3,315 (see note); 3,316; 3,318; 3,322; 3,340 to 3,361. Method: as agreed, by the orderly of the night row, at the 23rd bell, the salts in the drip. Expected relief per night: four. Expected relief per tranche: one hundred and twelve. Expected effect on the Count: as calculated, a margin of nine months. Note on 3,315: visited once, in 612. The first of the list on grounds of age of row only. No other ground. S. L.*
 In the margin, in a different and much neater hand: *The Matron says the count keeps itself. Proceed regardless. E. Q.*
 [/fiction]
 

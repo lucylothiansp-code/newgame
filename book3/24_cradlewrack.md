@@ -700,6 +700,8 @@ The Attendance is split between midwives who still trust the knife and midwives 
 
 Everyone can do the arithmetic on the interval. Something is going to be born out of the ground, and the whole country is the mother.
 
+[pull] Lark's bell went at noon and again at dusk, and nobody in the Tally-house would look at anyone else, because we'd all counted, and it was nine, and it had been nine the time before. | — Ede and Ada Crewe, writing in tandem, a letter to a cousin in Oathen
+
 ### The Unknotters
 
 Not every believer in the Long Labor is content to wait for it. Since the interval reached eleven days, a sect the pilgrims call the Unknotters, and which calls itself the Daughters of the Lip, has gathered at Rimwatch: mostly women of the western ravines who have heard a ruled line read against their household more than once, led by a former Rudge Attendant named Grisel Ashe. They believe the land's labor has stalled and must be helped, and that the kindest thing to do for a person deep in the Course is to *give back what they are carrying*: to open every opening they have ever had, at the rim, at the height of a pang, so that it all goes down into the mother at once.
@@ -782,6 +784,8 @@ Wants: Look Away (when a newborn thing looks back at her, Caul + Resolve vs Hard
 Dread: 2
 Secret: The thing in the loft has begun to open doors by looking at them.
 [/stat]
+
+[pull] She held the knife-case on her knees the whole cart-ride to Tarnbrow and back. Eleven times. Never opened it. I drive her for nothing now. | — a Kest carter, of Sabeth Thorne
 
 ### Ambrose, the Eldest Infant
 
@@ -1035,6 +1039,8 @@ An Assembler Seamster of thirty from Cleave, freckled, eager and painfully thin,
 
 You were born under the Two Questions. Somebody looked at you for the count of three and let you stay. You knock before you open anything, you carry needle and thread against the night, and you know the interval as well as your own name. Wherever you go on the Table, the doors drift open behind you.
 
+[pull] You can always tell a Cradlewracker at an inn. They knock on the privy door. Then they wait. Then they count. | — a Rim Road Company driver
+
 **Attribute bonus:** +1 CAUL.
 
 **The Sop: Let It Out.** Open something that was meant to stay shut: break into a bricked room, cut a stitch from a closed wound (yours or another's), unbar a door against its keeper's will, open a grave, or attend a birth to its end. Removes 1d6 Hunger. Each time, the god learns the way: the next closed thing you pass will ache at you until you open that too.
@@ -1086,6 +1092,8 @@ At Regrowth 12 a Cradlewracker does not become a place, as Fatlanders do, or a H
 - **Part-Hunter.** You worked the western ravines with a crate and a kind voice, for the Barn or for the Odd Fold, and you are very good at getting mothers to open the crock. You have a list in your head of every hearthstone in three parishes. Somebody's hand once closed on your finger and would not let go, and you have not been the same. (Search, Persuade, Stealth.)
 - **Struck Through.** The Tally says you were not born. You have seen your own ruled line on Tally Hill. Somebody took you out of the Low Wall, or the Opinion counted too long, or the knot came undone, and you grew up somewhere quiet. You do not know what you are. Neither does anyone else, and the Attendance would like to ask. (Stealth, Endure, Instinct.)
 - **Walk Family.** Your grandmother went down the Apron Stair in 619. Her apron came back up last Lack, laundered, and you have been dreaming of her since, arms spread in a long warm room. You left the highlands to stop dreaming. It did not work. (Rites, Resolve, Lore.)
+
+[pull] Forty-one stitches, and every one of them knows my name. | — the Seam Street greeting, answered
 
 ### Highland Knacks
 

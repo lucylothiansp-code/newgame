@@ -517,3 +517,197 @@ From the daybook of Ysolde Brane, lens-grinder of Lampwrights' Row in the Vigil,
 [/fiction]
 
 [pull] You look heavy. You look heavy. You look heavy, dear. Have a bun. | — a Gristmoot greeting, overheard eleven times in one walk down Gravy Row
+
+## Taint
+
+> Never eat the god twice. Once is history. Twice is a habit.
+>> — Purgation catechism
+
+Some goods are made from the gods. Bread from toothed wheat is grown in Ummer's flesh. Bottled brine is the Fathom coughed up by its eaters. A Kept-candle is Ossel's long refusal to finish, rendered into tallow. These goods carry **Taint**: the residue of the god, which goes on working in whoever uses them.
+
+Taint is written as a rating from 1 to 5 and a kind: **Hunger**, **Regrowth**, or **Dread**. An item may carry more than one kind (for example, "Taint 2 Hunger, 1 Dread"). Taint takes hold **on use**: once each time the item is eaten or drunk; once per scene it is wielded in anger, or burned, or opened; once per day it is worn against the skin; and once each time a relic's power is called on.
+
+- **Hunger Taint.** The user gains Hunger equal to the rating, exactly as though they had Partaked. No roll. If this takes Hunger to 10, Regrowth rises as normal.
+- **Regrowth Taint.** The user makes a Caul + Resolve roll against the matching difficulty: Taint 1 Routine 10, 2 Hard 14, 3 Grim 18, 4 Dire 22, 5 Impossible 26. On success, they gain 1 Hunger. On failure, they gain 1 Regrowth directly. On a Lack, they also gain the item's land's Want for a day, even if it is not their land.
+- **Dread Taint.** The user makes a Dread check at the rating's Dread level, because the thing is horrible to use (a candle that whimpers; a loaf that bites back). Repeated use of the same item lowers Dread Taint by 1 after the first five uses, to a minimum of 1. One gets used to things.
+
+**Foreign gods.** Godflesh from a land not your own carries a god you did not eat. Taint from a foreign god is not reduced by any Gift of your own Regrowth, and on a failed Regrowth Taint roll the gained point of Regrowth is marked as foreign: the Carver may spend a foreign point at any time to give the character that land's Taste-stage tell for a scene. Characters who mix gods in their blood are the reason the trade in cures never ends and never works.
+
+**The Unfed and the Blank.** A character with Cut 0 ignores Hunger Taint; there is nothing in them to be hungry. Regrowth Taint is worse. Each failed Regrowth Taint roll gives a Cut 0 character one mark of **Seasoning**; at three marks, the meat has found what it was looking for, and the character gains Cut 1 in that god's line, permanently. Tobias Wether and the Reckoner called Scour each have three marks.
+
+**Declaring Taint.** In the Fatlands the law requires godflesh to be declared and stamped. Nowhere else does. A seller who knows the Taint will rarely say so; a Hard (14) Eye + Lore roll identifies the kind and rating of an item's Taint, and a Grim (18) roll identifies which god. Rim folk have cruder tests, all of which work about as often as chance: a Tainted loaf is said to be warmer on the side facing the eater, a Tainted coin to turn in the palm toward the land it came from, Tainted meat to cook a little faster on the side away from the fire.
+
+**Purging.** A Purgation emetic (see Drugs) taken within an hour of eating Tainted food removes the Hunger it caused. Nothing removes Regrowth that Taint has given.
+
+[pull] STAMPED AND DECLARED. TAINT ONE. GOOD FOR GROWING CHILDREN. | — Board of Plenty placard, nailed over every bread-bin in Sated
+
+## Cost of Living
+
+> The rich smell of cedar. The poor smell of themselves.
+>> — Lastgate saying
+
+A character's lifestyle covers food, lodging, clothes and small expenses. Pay it by the day, the week (seven days) or the season (ninety days, at a tenth off).
+
+| Lifestyle | Per day | Per season | What it buys | Effect |
+| Destitute | 1 L | 80 L | a ditch, a crust, the clothes you stand in | no Fray recovery; +1 Hunger each week |
+| Modest | 3 L | 250 L | a shared room, two meals, a clean shirt | normal recovery |
+| Comfortable | 8 L | 650 L | a room of one's own, wine, a servant's help | −1 Fray each week of rest |
+| Lavish | 25+ L | 2,000+ L | a house, a cook, the best perfume, a nudger | −2 Fray each week; +2 to Persuade high society |
+
+Characters who live below modest for a season lose 1 Flesh maximum until they recover a full season at modest or better. Characters who live lavishly in any land are noticed: by the Cutwrights, who will want to know their Cut, and by the Reckoners, who already do.
+
+What "modest" means changes at every border. A modest life in Lastgate is a rented corner of a house owned by somebody's great-great-grandfather, who sits in the best chair and must be asked before the shutters are opened. In Sated it is five meals a day and a tent-coat let out every season. In Lowmark it is a room on the Middle Mile with a ring in the floor and ten cups of sweet water a day for a household that needs twenty. In the Vigil it is a standing strap in a waking-house and two-fifths of your wage gone on rouse. In Kest it is a bricked room at night and a neck-kit of needle and gut for the morning. In Tacit it is a cistern-share and the silence of the galleries. In Wanting it is a name on the list, which is everything, until it is not.
+
+### Regional Costs
+
+Every land adds costs that nowhere else would understand. These are in addition to lifestyle.
+
+| Expense | Land | Cost | Notes |
+| Keeping a Kept relative | Sallowreach | 2 L a week | perfume, vinegar, thread, a chair by the fire |
+| Spring restitching (one Kept) | Sallowreach | 15 L a year | Seamer's fee; more if limbs are missing |
+| Setting Aside | Sallowreach | 40 L once, 1 L a season | wrapping, labelling, a shelf in the Lofts |
+| The Tenancy | Sallowreach | a tenth of earnings | rent to the Unvacated owner of your house, as your grandparents paid |
+| The fly-tax | Sallowreach | 1 c a fly, assessed | counted on the outside of the glass each Plenty |
+| The Feasting Laws (five meals) | Fatlands | +2 L a day | travellers must comply; Bailiffs inspect inns |
+| Funeral wake (serving the dead) | Fatlands | 10 L | cook's fee; the family brings the dead |
+| The Lean Levy | Fatlands | 1 to 5 L a year | falls a crumb for every pound you weigh |
+| Bail-bucket and rope | Brinehollow | 5 c a day | wear and tear; anchoring at night |
+| Parish bailer (if too weak) | Brinehollow | 2 bail-tokens a day | a child, usually |
+| The Pier Tithe | Brinehollow | 1 L in 10 a season | toward the Chase; work it off on the Raw Mile |
+| Rouse at current dose | Vigil | 3 L a day | rising every season |
+| A hired nudger (child) | Vigil | 2 L a day | hourly rates on the Slope |
+| A wake-valet (skilled) | Vigil | 10 L a day | Jack Tenterhook charges 40 |
+| The Bed-Due | Vigil | 1 L a season per Counted | for ever; three seasons behind and the visiting stops |
+| Bricking-in (nightly mason) | Cradlewrack | 4 c a night | mortar, a mason at dusk and dawn |
+| Attendance birth-fee | Cradlewrack | 12 L | compulsory; the knife is included |
+| Clausewright's daily review | Oathen | 1 L a day | someone to check what you will say |
+| Niche-rent for the dead | Oathen | 2 L a year | 20 L in the upper galleries |
+| Pantry dues | the Fast | one chit a day | if you are on the list |
+| Rim Road tolls | the Rim | 1 c a post on foot, 2 c a wheel, 1 c a head | a lack a post per hundredweight; Breath Toll 5 L at the Course |
+
+[pull] Your father is upright. Your father owns the chair. Your father would like the window shut. | — Heirs' pamphlet, posted on the Landing, Lastgate
+
+## Arms and Armour
+
+> There is no gunpowder on the Table. There are a great many hooks.
+>> — Netwatch drill-sergeant's opening remark
+
+Damage is listed in brackets. Attack with melee weapons is Hand + Blades (or Brawl for fists, clubs and grapples). Ranged weapons use Hand + Shooting. Weapons marked with a land are Common there and one step rarer everywhere else.
+
+Every land's weapons are tools first. The Table has fought few wars since the Gorging, because the lands that could fight cannot cross borders and the lands that could cross borders have nothing worth taking; its killing is done with the instruments of its trades. A Seamer's awl goes through a skull as neatly as through a Kept cheek. A boathook brings a Called man home or pulls a living one off a pier. A Waker's needle keeps you awake, and keeps you awake, and keeps you awake. Arms-men on the Rim sell by land and by trade, and a buyer who asks for "a weapon" is shown a cleaver.
+
+[pull] NEEDLES. HOLLOW. DIPPED. ONE LACK OFF IF YOU SAY WHO IT'S FOR. | — slate in the Pinchmarket, the Vigil
+
+### Weapon and Armour Qualities
+
+- **Brutal.** Each Helping on a hit adds +3 damage instead of +2.
+- **Concealable.** Finding it on a body takes a Hard (14) Eye + Search roll.
+- **Entangling.** On a hit with at least one Helping, the target is held instead of taking the Helping's damage: they cannot move away and are at −2 Guard until they spend an action and succeed at a Hard (14) Gut + Athletics roll.
+- **Fragile.** On a Lack, the weapon breaks.
+- **Heavy.** Needs Gut 3 or more to use without penalty; otherwise −2 Attack. The wielder is at −1 Guard.
+- **Hooking.** On a hit with at least one Helping, the attacker may give up the Helping's damage to drag the target one pace, pull them off a ledge or mount, tear away a held item, or knock them prone (the target may resist with a Hard 14 Lung + Athletics roll).
+- **Light.** Can be used in the off hand; +1 Attack against a held or prone target.
+- **Noisy.** Everyone within a long stone's throw hears it used. In the Vigil, this is considered good manners. In Oathen, where an echo can bind, it is a provocation.
+- **Parrying.** +1 Guard against melee attacks while held ready.
+- **Piercing.** Ignores 1 point of Armor.
+- **Reach.** Strikes from two paces away. A foe closing to arm's length is attacked first.
+- **Ripping.** If the hit deals 3 or more damage after Armor, the wound bleeds: the target loses 1 Flesh at the end of each round until someone succeeds at a Routine (10) Hand + Stitching roll. In Sallowreach a Ripping wound never closes without stitching, ever. In Cradlewrack it closes and reopens at the next pang.
+- **Silent.** Makes no sound in use; attacks from hiding gain +2.
+- **Slow.** Reloading takes a full action.
+- **Stunning.** On a hit with a Helping, the target loses their next action unless they succeed at a Hard (14) Gut + Endure roll.
+- **Thrown.** Can be thrown up to ten paces with Hand + Shooting.
+- **Two-Handed.** Needs both hands.
+- **Waking.** A Vigil quality. A creature struck cannot blink, sleep or fall unconscious for the rest of the scene, even at 0 Flesh, and feels everything.
+- **Tainted.** The item is made from godflesh and carries Taint as listed (see Taint).
+
+### Melee Weapons
+
+| Item | Cost | Avail. | Stats | Notes |
+| Fist, boot, teeth | — | — | (1) | Brawl; teeth are Ripping in the Fatlands |
+| Knife | 3 L | Common | (2) Light, Concealable, Thrown | everyone carries one |
+| Club, cudgel | 1 L | Common | (3) Stunning | a table leg, mostly |
+| Cleaver | 6 L | Common | (3) Ripping | butcher's; the Fatlands sidearm |
+| Hatchet | 5 L | Common | (3) Thrown | |
+| Spear | 12 L | Common | (4) Reach, Two-Handed | |
+| Axe | 20 L | Common | (4) Brutal | |
+| Sword | 60 L | Uncommon | (4) Parrying | an officer's or a noble's |
+| Maul | 35 L | Uncommon | (5) Heavy, Stunning, Two-Handed | |
+| Poleaxe | 70 L | Uncommon | (5) Reach, Hooking, Two-Handed | |
+| Renderer's greatcleaver | 55 L | Uncommon | (6) Heavy, Brutal, Ripping, Two-Handed | Fatlands; jointing whole oxen |
+| Jointer's knife | 6 L | Common | (2) Ripping, Light | Fatlands; for carving the dead at their wake |
+| Seamer's awl | 4 L | Common | (2) Piercing, Silent, Light | Sallowreach; a stitching tool that goes through a skull |
+| Loft-Warden's shelving hook | 8 L | Uncommon | (3) Hooking, Reach | Sallowreach; for lifting the Set-Aside down |
+| Sump-pole | 6 L | Common | (3) Reach, Stunning, Two-Handed | Sallowreach; for pushing sacks under, and keeping them there |
+| Lead mitten | 25 L | Scarce | (3) Stunning | Sallowreach; made for Hand-lines; blocks a Closing touch |
+| Netwatch boathook | 15 L | Common | (4) Hooking, Reach, Two-Handed | Brinehollow; for bringing people home |
+| Dry Fleet cutlass | 45 L | Uncommon | (4) Parrying | Brinehollow; drilled with daily, never once wet |
+| Tide-bell clapper | 10 L | Uncommon | (4) Noisy, Stunning, Heavy | Brinehollow; stolen from a bell |
+| Waker's needle | 6 L | Common | (2) Piercing, Waking, Concealable | Vigil; a foot of steel, hollow, rouse-dipped |
+| Rattle-staff | 8 L | Common | (2) Noisy, Stunning | Vigil; a Waker's rattle on an ash haft |
+| Wake-valet's pincers | 12 L | Uncommon | (1) Waking, Light; on a hit, a Dread 1 check | Vigil; for the precisely tolerable pain |
+| Lamplighter's pole | 9 L | Common | (3) Reach; lit, +1 fire damage | Vigil; brass hook and wick |
+| Midwife's hooked knife | 20 L | Uncommon | (3) Ripping, Hooking | Cradlewrack; called the second opinion |
+| Assembler's bone-saw | 14 L | Scarce | (3) Ripping, Brutal | Cradlewrack; teeth fine as an eyelash |
+| Night-mason's lump hammer | 4 L | Common | (3) Stunning | Cradlewrack; breaks a bricked door, or a head |
+| Foundling hanger | 40 L | Uncommon | (4) Parrying | Cradlewrack; issued to soldiers six years old |
+| Cullmaster's sickle | 30 L | Scarce | (4) Hooking, Ripping, Silent | Fatlands; black iron, dusk shift only |
+| Pruning hook | 7 L | Common | (3) Hooking, Reach | Fatlands orchards; the trees remember it |
+| Clausewright's quill-knife | 18 L | Uncommon | (2) Concealable, Piercing, Silent | Oathen; for trimming quills and correcting drafts |
+| Bitmaker's tongs | 15 L | Scarce | (2) Entangling; may seize the jaw | Oathen; to fit a bit by force |
+| Echo-Warden's stave | 10 L | Uncommon | (3) Parrying, Silent | Oathen; felt-wrapped so it never rings |
+| Canyon Watch felt maul | 45 L | Scarce | (5) Heavy, Silent, Two-Handed | Oathen; the quietest way to break a man |
+| Tablebreaker's axe | 40 L | Scarce | (5) Brutal, Two-Handed; +4 vs furniture | the Fast; the haft notched for every table |
+| Reckoner's long knife | 25 L | Scarce | (3) Silent, Piercing, Concealable | the Fast; grey steel, never oiled with fat |
+| Grain-sock cosh | 2 L | Common | (2) Stunning, Concealable | the Fast; Crumb-Runners' weapon; the grain is still good after |
+| Warden's flanged mace | 30 L | Uncommon | (4) Stunning | the Rim; seven flanges, one for each spoke |
+| Drover's goad | 4 L | Common | (2) Reach, Stunning | Fatlands; Sal Trotter's herds know it |
+| Kept-arm cudgel | 30 L | Rare | (3) Stunning; Tainted (Dread 2) | Sallowreach; a Kept forearm, wired; it grips |
+
+### Ranged Weapons
+
+| Item | Cost | Avail. | Stats | Notes |
+| Sling | 2 L | Common | (2) Silent, Concealable | |
+| Shortbow | 15 L | Common | (3) Two-Handed | |
+| Longbow | 40 L | Uncommon | (4) Two-Handed, Heavy | Cradlewrack hill archers |
+| Crossbow | 50 L | Uncommon | (4) Piercing, Slow, Two-Handed | |
+| Arbalest | 120 L | Scarce | (5) Piercing, Slow, Heavy, Two-Handed | Admiralty marines |
+| Hand crossbow | 70 L | Scarce | (3) Concealable, Slow | Reckoner assassins |
+| Gull-bow | 30 L | Uncommon | (3) Slow | Brinehollow; a light crossbow for the Lashings' meat |
+| Clockwork spring-bow | 300 L | Rare | (3) Piercing; three shots before rewinding | Vigil; ticks loudly |
+| Netwatch throwing net | 8 L | Common | (0) Entangling, Thrown | Brinehollow; weighted with lead tokens |
+| Sump-net | 6 L | Common | (0) Entangling, Thrown; Kept are at −2 to escape | Sallowreach; tarred, hooked, for things that will not stop |
+| Harpoon | 18 L | Uncommon | (4) Hooking, Thrown; with line, Entangling | Brinehollow; fished nothing for a century |
+| Throwing knives (set of 4) | 14 L | Common | (2) Thrown, Light, Concealable | |
+| Rope-dart | 9 L | Uncommon | (2) Silent, Thrown; with line, Entangling | Oathen; Echo-Wardens take speakers quietly |
+| Waker's blowpipe | 6 L | Uncommon | (1) Silent, Waking | Vigil; darts tipped with strong rouse |
+| Dazzle-mirror | 12 L | Common | (0); target at −2 Attack next round | Vigil; Lampwrights' Row; useless in the dark, of which there is none |
+| Drover's bola | 3 L | Common | (1) Entangling, Thrown | Fatlands; for herds that run on two legs |
+| Lamp-flask | 2 L | Common | (2) Thrown, Fragile; burns 1 a round | Vigil oil in a thin glass bulb |
+| Pang-stones (bag of 20) | 1 L | Common | +1 to sling damage | Cradlewrack; red clay; warm |
+| Pebble-bow | 12 L | Uncommon | (2) Silent; shoots pang-stones | Cradlewrack; shepherds' weapon against what the ewes drop |
+
+### Armour
+
+Armor subtracts from damage taken. Armor of 3 or more gives −1 to Lung rolls for stealth and swimming; Armor 4 gives −2.
+
+| Item | Cost | Avail. | Armor | Notes |
+| Padded jack | 10 L | Common | 1 | quilted wool or rag |
+| Hide coat | 8 L | Common | 1 | Fatlands hide is warm for days after skinning |
+| Felt jack | 15 L | Common | 1 | Oathen; Silent; nothing on it rings |
+| Boiled leather | 30 L | Common | 2 | |
+| Kept-leather jerkin | 35 L | Uncommon | 2 | Sallowreach; never perishes, never cracks; somebody's |
+| Laden-hide coat | 40 L | Uncommon | 2 | Fatlands; from a Laden's back after the wake; Tainted (Dread 1); always warm |
+| Bone lamellar | 90 L | Uncommon | 3 | Fatlands; plates cut from coin-grade bone, which is unlucky |
+| Mail shirt | 150 L | Uncommon | 3 | rusts in Brinehollow salt and Sallowreach weep |
+| Warden's coat | 160 L | Uncommon | 3 | the Rim; mail under grey wool and the wheel badge; wearing one unsworn is theft of the road |
+| Admiralty cork cuirass | 120 L | Scarce | 3 | Brinehollow; plate over cork; floats; never once tested |
+| Plate | 900 L | Rare | 4 | Heavy; Oathen and Admiralty officers |
+| Netwatch oilskin | 25 L | Common | 1 | Brinehollow; corked; floats the wearer face-up |
+| Seamer's wire-coat | 60 L | Uncommon | 2 | Sallowreach; meant to hold a Kept body together |
+| Suet-quilt | 12 L | Common | 1 | Fatlands; lard-packed; burns like a candle |
+| Studded Vigil coat | 40 L | Common | 2 | studs inward; the wearer cannot nod off; Waking to self |
+| Anchorite harness | 35 L | Uncommon | 2 | Brinehollow; chain; the Calling cannot walk you far |
+| Foundling brigandine | 80 L | Uncommon | 2 | Cradlewrack; cut for bodies that are newly grown |
+| Reckoner's greys | 45 L | Scarce | 2 | the Fast; no fat in the leather; Silent |
+| Buckler | 6 L | Common | +1 Guard | Parrying |
+| Bucket-shield | 4 L | Common | +1 Guard | Brinehollow; a bail-bucket on a strap; still bails |
