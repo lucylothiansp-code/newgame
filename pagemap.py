@@ -6,14 +6,14 @@ the footer PAGE field continues across sections, so printed page == pdf page).""
 import json, re, subprocess, sys
 
 pdf, heads, out = sys.argv[1:4]
-txt = subprocess.run(["pdftotext", "-layout", pdf, "-"], capture_output=True, text=True).stdout
+txt = subprocess.run(["pdftotext", pdf, "-"], capture_output=True, text=True).stdout
 pages = txt.split("\f")
 norm = lambda s: re.sub(r"[^a-z0-9]+", "", s.lower())
 npages = [norm(p) for p in pages]
 H = json.load(open(heads))
 res, cur, miss = {}, 0, 0
 for h in H:
-    key = norm(h["text"])[:40]
+    key = norm(h["text"])[:22]
     if not key:
         continue
     found = None
@@ -25,6 +25,6 @@ for h in H:
         miss += 1
         continue
     cur = found
-    res[h["bm"]] = found + 1
+    res[h.get("bm") or h["id"]] = found + 1
 json.dump(res, open(out, "w"))
 print(f"mapped {len(res)} / {len(H)} headings, missed {miss}, pages {len(pages)}")
