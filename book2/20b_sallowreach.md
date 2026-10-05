@@ -294,17 +294,17 @@ Dread: 0
 
 #### Who They Are
 
-Tam Ruddock is a big, heavy, slope-shouldered man with a broken nose (twice: once by an eel-gaff, once by a passenger's husband) and a voice so soft that strangers lean in to hear him and find themselves agreeing. His hands are tarred black in the creases. He smells of pitch, rum and the cedar he burns in the punt to keep the passengers from smelling one another. He wears an oilskin coat, a flat cap pulled low, and fen-boots to the thigh. He blinks slowly, like a man who has not slept, which he has not, much, since 624.
+Tam Ruddock is big, heavy and slope-shouldered, with a nose broken twice and a voice so soft that strangers lean in to hear him and find themselves agreeing. His hands are tarred black in the creases. He smells of pitch, rum and the cedar he burns in the punt. He blinks slowly, like a man who has not slept, which he has not, much, since 624.
 
 #### Their Story
 
 Tam was born on the Landing to a ferrying family and poled his first punt at nine. His younger brother Hob went south at eighteen to work as a Company carter and was killed in 619 when a meat-wagon went over on the Gristmoot road in the Fatlands. He died. He died properly, south of the Drop, and Tam, who was eighteen and had never seen a death, got the letter and a box of ashes. He could not understand it. He still cannot.
 
-In 624 a Fatlands woman named Idony Pask, thin as a reed and dying of a wasting sickness, asked him at the Long Farewell inn in Fogmouth whether it was true that in the north nobody died. He said it was. She asked him to take her across. He did. Since then he has taken two hundred and twelve: Fatlanders with the wasting, Brinehollowers too far Called, Vigil sleepers carried on stretchers by relatives who would do anything rather than watch them not wake, a Cradlewrack mother whose belly had not stopped. He charges three hundred lacks. They wait in the back room of the Long Farewell, cross the red line of the Drop at night on a handcart, lie in the bottom of his punt under oilcloth, and come up the canals to rooms he rents for them in the Sinks. None of them die. That is his promise. He has never broken it, and he has never told a single one of them what happens next.
+In 624 a Fatlands woman named Idony Pask, thin as a reed with a wasting sickness, asked him at the Long Farewell inn in Fogmouth whether it was true that in the north nobody died. He said it was, and took her across. Since then he has taken two hundred and twelve: Fatlanders with the wasting, Brinehollowers too far Called, Vigil sleepers on stretchers, a Cradlewrack mother whose belly had not stopped. For three hundred lacks they cross the Drop at night on a handcart, lie under oilcloth in his punt, and come up the canals to rooms he rents in the Sinks. None of them die. That is his promise, and he has never told one of them what happens next.
 
 #### Their Place in the Land
 
-By day Tam holds a Court license to ferry living travelers across the Landing from the causeway's end to Lastgate's water-stairs, at a crumb a head. By night he is a Crumb-Runner in reverse: he smuggles people *in*. The Court knows, broadly. It does not care; foreigners who come north and die become Kept, and the Kept pay the fly-tax forever. The Rim Road Company knows exactly and takes a cut at Fogmouth. Captain Morrow's guards wave him through because there is no law against bringing the living into Sallowreach, only against the Kept leaving it. Tam is the only man in the north whose crime is legal.
+By day Tam ferries the living across the Landing at a crumb a head, under Court license. By night he smuggles people *in*. The Court does not care (the foreign dead pay the fly-tax forever), the Company takes a cut at Fogmouth, and Morrow's guards wave him through, since no law forbids bringing the living into Sallowreach. He is the only man in the north whose crime is legal.
 
 On his days off he visits. He keeps the List, and he goes down it, one name a day, with a bottle of fen-gin and a bag of cedar chips, to whatever room or Loft-shelf his passenger now lies in. He sits with them. Most are glad to see him. Some are not.
 
@@ -313,7 +313,6 @@ On his days off he visits. He keeps the List, and he goes down it, one name a da
 - **The black punt** — thirty feet, tarred, with a hidden hold under the boards that will not be found except on a Grace (his Crumb-Runner's Hidden Hold). It has carried two hundred and twelve people who were dying, and is now the most-wanted boat in Lastgate: Castellan Dray of the Vigil has offered to buy it.
 - **The List** — a tarred notebook with every passenger's name, land, date of crossing, date of death, and where they are now. Eighty-one are still breathing. A hundred and thirty-one have died and are Kept. Nine are shelved. Two have walked into Hushes. The Vigil would pay a fortune for it, as a census of what happens to foreigners kept in the north.
 - **Forged Company passes** — six, drawn by a clerk at Fogmouth, good for "a living traveler and attendant, for treatment." The ink is not quite the right brown.
-- **A rum flask** — Brinehollow rum, smuggled north in the other direction. He does not drink it. He gives it to passengers on the last night, before the Drop.
 - **A sack of Fogmouth cedar** — for the punt's brazier. For the smell. For the passengers, so they will not lie under the oilcloth and smell Sallowreach for the first time and know.
 - **Hob's box** — the box of ashes his brother came home in, kept on a shelf in his lodging over the Landing. It is the only finished thing he owns.
 
@@ -374,24 +373,23 @@ Dread: 2 (his stock room)
 
 #### Who They Are
 
-Marrow Jack is thin as drawn wire, with a pleasant, open, freckled face, sandy hair cut short, and the quick, cheerful manner of a man who is good at his job and likes people. His hands never stop: rolling a coin, tying a knot in a bit of gut, picking at a seam in his own sleeve. He wears a long padded coat with deep inner pockets, each fitted with a saw, a blade or an awl in a waxed sheath, and he clinks very faintly. He smells overwhelmingly of clove oil, which he dabs on his collar and wrists to cover what his trade leaves on him. Under the clove, if you are close, is the smell every Seamer knows: the sweet. He laughs easily. He remembers your name.
+Marrow Jack is thin as drawn wire, with a pleasant freckled face, sandy cropped hair and the cheerful manner of a man who likes his work and likes people. His hands never stop. His long padded coat clinks faintly with saws and awls in waxed sheaths. He smells overwhelmingly of clove oil, and under it, if you are close, of the sweet. He remembers your name.
 
 #### Their Story
 
-Jack Pell was born in a Scrapling stilt-hut on the edge of the Sump, the son of a dredger. He was dredging himself by eight, raking the bottom for rings and wire, and by twelve he was cutting rings off fingers the rake brought up, and the fingers with them, for the back-alley seamers who would buy anything. Thessaly Mort saw him at fourteen selling a thumb on Needle Street and took him as a Threader, because, she said, a boy who could get a thumb off that clean would make a Seamer. He did. He was a Journeyman at nineteen, with thirty families on his list and the best seams on the street.
+Jack Pell was born in a stilt-hut on the edge of the Sump, a dredger's son, and by twelve was cutting rings off the fingers the rake brought up, and the fingers with them. Thessaly Mort saw him at fourteen selling a thumb on Needle Street and took him as a Threader: a boy who could get a thumb off that clean, she said, would make a Seamer. He was a Journeyman at nineteen.
 
-In 629 he was caught taking a hand from a shelved man in the Lofts and expelled from the Guild in front of the whole of Needle Street. That was the story. The truth is that Thessaly arranged it. The Guild needs parts, more each year as the Kept rot faster, and no family will sell; the Lofts hold forty thousand bodies that cannot complain; and somebody has to go up the ladders at night. Since 629 Marrow Jack has supplied a third of the Guild's stock. Thessaly pays him through Nan Pickering, the limb-broker, so that her ledger never shows his name.
+In 629 he was expelled from the Guild before all of Needle Street for taking a hand from the Lofts. Thessaly arranged it. The Guild needs parts, more each year; no family will sell; the Lofts hold forty thousand bodies that cannot complain. Since 629 Jack has supplied a third of the Guild's stock, paid through Nan Pickering so that Thessaly's ledger never shows his name.
 
 #### Their Place in the Land
 
-Jack works three grounds: the Lofts (with ladders, a dark lantern and a shelving hook, at night, taking from the shelved who cannot move), the Sump (buying dredged sacks from his father's old crews), and the potter's corners of the Sinks, where the unclaimed are left. He sells to Nan Pickering, to back-alley seamers, and to buyers who will not say what they want: whole pairs of hands, mostly, and lately Hand-line fingers, which are a capital crime and worth twelve hundred lacks apiece. He takes the parts cleanly, with a Seamer's care, and seals each stump with lacquer, because he is not cruel and a sealed stump rots slower. He labels every piece with its owner's name.
+Jack works the Lofts by night with a dark lantern and a shelving hook, buys dredged sacks from the Sump crews, and picks over the potter's corners where the unclaimed are left. He sells to Nan Pickering, to back-alley seamers, and to buyers who want whole pairs of hands, or lately Hand-line fingers, worth twelve hundred lacks and a capital crime. He seals every stump with lacquer, because he is not cruel, and labels every piece with its owner's name.
 
 That is his trade's curse. His victims feel what their parts are doing. A woman in the Lofts whose arm was sold to a Kept singer feels the arm lift a glass at every performance. A man whose hands went to a back-alley strangler felt them close. Some of them have followed the feeling across the city, crawling.
 
 #### What They Carry
 
 - **The coat of saws** — padded, many-pocketed: two bone-saws (one fine, one coarse), three knives, a Seamer's awl, a shelving hook that folds, a pot of lacquer, gut, wire, labels.
-- **Clove oil** — a stoppered vial, a lack's worth a week. He has stopped being able to smell anything else.
 - **The labels** — linen tags, each with a name in his small clean hand. He has never sold an unlabeled part. He says it is a matter of respect.
 - **A ledger in cipher** — every part he has taken since 629, with owner, buyer and price. It proves that the Guild's stores are his stock. Thessaly would pay anything for it. So would the Court.
 - **The stock room key** — iron, on a cord round his neck. The stock room is a cold cellar under a tannery on Gutter Lane: racks, jars, hooks, a hundred labeled hands, and Wenna Hale (see below).
@@ -458,26 +456,25 @@ Dread: 1 (to be looked at by her, properly, for the first time)
 
 #### Who They Are
 
-Nell is small, the height of a seven-year-old, and grey-green all over from two centuries in the damp of the Drowned Storeys, the color of a pond-stone. She has been stitched more times than she can count, by Smalls who taught themselves from stolen Seamers' manuals, and the stitching is uneven but devoted: cross-stitch at the wrists, blanket-stitch along the jaw, little embroidered flowers where the seams meet, because a Small called Pip thought she should have flowers. Her hair is a dark wet rope plaited down her back. Her eyes are milky at the edges and very sharp in the middle. She wears a schoolgirl's pinafore, mended into lace, and a crown made of tarnished spoons bent round a ring of wire. She smells of canal water and of the violet sweets she cannot eat and likes to hold in her mouth anyway, until they dissolve.
+Nell is the height of a seven-year-old and grey-green all over from two centuries of damp, the color of a pond-stone. Smalls who taught themselves from stolen manuals have stitched her countless times, unevenly and devotedly, with little embroidered flowers where the seams meet. Her hair is a wet dark plait; her eyes are milky at the edges and very sharp in the middle. She wears a schoolgirl's pinafore mended into lace and a crown of bent spoons, and smells of canal water and the violet sweets she holds in her mouth until they dissolve.
 
 Her voice is a child's, high and clear, but she uses it like a judge. She does not fidget. She listens with her whole face. She laughs at things that are actually funny, and she does not laugh at anything else.
 
 #### Their Story
 
-Nell Ash was born in 434 above a cooper's on the old Weir Steps and died of a fever in 441, in Lack. She was carried down the stairs of the Lower Board School, where her mother was the mistress, because there was nowhere else to keep a child out of the flies. Her mother kept her for a year in the schoolroom, teaching her letters. Then, in 443, the Lower Boards sank another storey, as Lastgate does, and the school went under the green water, and her mother, who was living and could not breathe it, did not come down again.
+Nell Ash was born in 434 above a cooper's on the Weir Steps and died of a fever in 441. Her mother, the mistress of the Lower Board School, kept her in the schoolroom for a year, teaching her letters. In 443 the Lower Boards sank another storey, the school went under the green water, and her mother, who was living, did not come down again.
 
-Nell waited. Other children came: the drowned, the fevered, the dropped, the ones whose families could not keep them, carried down the stairs by older Smalls and left in the flooded rooms where the light is green. By 470 there were sixty of them and nobody in charge, and things happened in the dark among the Smalls that Nell has never spoken of, and she decided that someone had to say what was fair. She has said it ever since. There are now some four hundred Smalls in the Drowned Storeys, and she knows every one of their names.
+Nell waited. Other child-dead came down the stairs, the drowned and the fevered and the unkept. By 470 there were sixty and nobody in charge, and things happened in the dark that Nell has never spoken of, and she decided that someone had to say what was fair. There are now some four hundred Smalls, and she knows every name.
 
 #### Their Place in the Land
 
-The Smalls are the child-dead of Lastgate, who cannot grow up and whom the living do not discuss at dinner. They live in the half-flooded lower streets, in the old school, in drowned chapels and cellars, and they go up into the city at night to run errands, carry messages, fetch thread, and be paid in sweets and lamp oil. Everyone in the Sinks uses them and nobody admits it. Nell runs this. She sets the rates. She sends her Smalls up the stairs and makes sure they come back down. She judges disputes in the flooded schoolroom, from a waterlogged armchair, with the Register on her knee.
+The Smalls live in the half-flooded lower streets and go up into the city at night to run errands and carry messages for sweets and lamp oil. Everyone in the Sinks uses them; nobody admits it. Nell sets the rates, makes sure every Small comes back down, and judges disputes from a waterlogged armchair with the Register on her knee.
 
 She has held the Court off for two centuries by being too small to arrest and too many to jar. In 612 the Court tried to take the Smalls into the Lofts as Set-Aside wards; Nell sent four hundred children up the stairs onto the Upper Boards at noon, silent, holding hands, and the Court withdrew the order by dusk. She is careful with the Seamers (who stitch her Smalls for nothing at Restitching Week because she asked them politely, once, in 520) and implacable with Marrow Jack.
 
 #### What They Carry
 
 - **The crown of spoons** — eleven tarnished teaspoons from the school's kitchen, bent around wire. She made it herself in 471. It is her only regalia and nobody else may touch it.
-- **Violet sweets** — sugared violets from a confectioner on the Upper Boards, paid for by Smalls who run errands. She holds one in her cheek during judgments.
 - **The Register** — the Lower Board School's attendance register, long since full, extended with sewn-in pages. Every Small's name, date of death, and the date they came down. She calls it every morning, all four hundred names, and each Small answers.
 - **The slate of laws** — a school slate with nine laws chalked on it, rewritten when the damp wears them away. The first is *Nobody takes a turn twice.* The ninth, added in 640, is *Nobody goes without asking the Queen.*
 - **A key to the first stair** — the iron key to the flooded door at the bottom of the Weir Steps. Nobody grown comes past it without her leave.
@@ -510,7 +507,7 @@ PCs meet Nell if they go down into the Drowned Storeys, if they need a message c
 - **Forty-One.** Nell asks a Hand-line PC at the Course to come down and sit with the Smalls who have asked, one at a time, and tell her honestly whether it would hurt.
 - **The Fourth Floor.** A PC reading in the Lofts hears a shelved woman whisper *Tell Nell.* Carrying that message down the stairs will change the Queen; whether she will forgive the messenger is another matter.
 
-Faced with threat, Nell blows a tin whistle, and the water in the flooded rooms moves as four hundred children come up out of it; nobody in Sallowreach can kill them, and they can hold on for a very long time. Faced with kindness she is precise in her gratitude. Faced with the god she is a child: frightened, angry, and pretending not to be. If nobody intervenes, Nell says yes in 642, to all forty-one at once, and asks Pim to do it in the schoolroom, in order, by the Register; and when it is done she calls the morning names and forty-one do not answer, and she does not stop calling them for a year.
+Faced with threat, Nell blows a tin whistle, and four hundred children come up out of the flooded rooms; nobody can kill them, and they can hold on for a very long time. Faced with the god she is a child, frightened and pretending not to be. If nobody intervenes, Nell says yes in 642, to all forty-one, and asks Pim to do it in the schoolroom, in order, by the Register; and afterward she calls the morning names, and forty-one do not answer, and she does not stop calling them for a year.
 
 [box: Said of Them]
 "You don't argue with the Queen. You can, but she's always right, and she tells you why, and then you feel like you're six." — a Small called Pip, aged six since 502
@@ -542,17 +539,17 @@ Dread: 1
 
 #### Who They Are
 
-Carrion Sedge is gaunt to the point of architecture: a tall frame of bone hung with a scholar's black gown, his face drawn tight over the skull and lacquered in a dull, matte brown, the color and texture of an old book's spine. He smells of paper, dust and the hide glue of bindings. His fingers are stained black to the second joint, the ink long since soaked into the dead skin and never coming out. He speaks precisely, in long, perfectly constructed sentences, with a faint dry rasp as air moves over a throat that has not needed it for forty-three years. He never hurries. He corrects people's genealogy in conversation, gently, as other men correct pronunciation.
+Carrion Sedge is gaunt to the point of architecture, a tall frame of bone in a scholar's black gown, his face lacquered a matte brown like an old book's spine. He smells of paper, dust and bindery glue. His fingers are black with ink to the second joint. He speaks in long, perfect sentences with a dry rasp, never hurries, and corrects people's genealogy in conversation as other men correct pronunciation.
 
 #### Their Story
 
 Carrion was born to a cadet branch of the Sedges, one of the four houses that divided Ossel's right hand, and was sent at twelve to the College at Quire, where he discovered that he loved ledgers more than people because ledgers did not lie about their parents. He came home in 560 and was Provost of the northern ledgers by 571. He died in 598, at his desk, of a stroke, and finished the page he was writing before anyone noticed.
 
-In 634, a year after Dunmere, he was asked by the Court for a routine survey: the land-holdings around the first Hush. He did it with his usual care and found that every holding within a day's punt belonged to a Hand-line. When the second, third and fourth Hushes appeared, he plotted them against his ledgers. By 638 he had a map. Each Hush lies where Hand-line blood is thickest; the size of each is proportional to the Cut of the nearest line; the order in which they appeared follows the descent of the Grues, the Vanes, the Sedges and the Hethes, generation by generation, as cleanly as a pedigree. Plotted on vellum, the Hushes *are* a family tree. And a family tree has a trunk.
+In 634 the Court asked him for a routine survey of the land-holdings around Dunmere. Every holding within a day's punt was Hand-line. As more Hushes appeared he plotted them against his ledgers, and by 638 he had a map: each Hush lies where Hand-line blood is thickest, sized by the Cut of the nearest line, appearing in the order of the Grue, Vane, Sedge and Hethe descents, generation by generation. Plotted on vellum, the Hushes *are* a family tree. And a family tree has a trunk.
 
 #### Their Place in the Land
 
-The College's Lastgate house stands on the Upper Boards near the Hall of Hands, a narrow, tall, windowless building of tarred brick called the Ledger House. Sedge's offices fill the top two storeys. His certificates of Cut are law: a College genealogy can make a bastard an heir or a lord a Scrapling, and every Hand-line marriage and every Closing license cites his ledgers. He sits on no council and needs none. Every house on the Court owes him a pedigree. Grandfather Peat lives in a slate tank in his outer office, under a green-shaded lamp, and Sedge spends an hour each evening with him, with a dialect grammar, trying to understand what he says.
+The College's Ledger House is a tall, windowless building of tarred brick on the Upper Boards near the Hall of Hands. Sedge's certificates of Cut are law, every Hand-line marriage and Closing license cites his ledgers, and every house on the Court owes him a pedigree. Grandfather Peat lives in a slate tank in his outer office, and Sedge spends an hour each evening with him and a dialect grammar.
 
 The Court, the Second Table and the Vigil's envoy have all asked for the Hush Map. The Heirs would kill for it. He has not decided whom to sell it to, or whether to burn it, and his inability to decide is the only thing keeping a dozen factions from his door: each believes it is about to win him.
 
@@ -560,7 +557,6 @@ The Court, the Second Table and the Vigil's envoy have all asked for the Hush Ma
 
 - **The Hush Map** — a vellum sheet, four feet square, the Hand-line pedigrees inked in brown and the Hushes laid over them in grey wash. At the point where the trunk of the tree meets the root, in the middle of Lastgate, there is a pinhole. He has not marked anything there.
 - **The closed ledgers** — eleven volumes he has closed, since 639, too firmly. Opened, their pages are blank. The ink is not faded; it is gone, as though it had never been laid. Among them is the volume containing the Sorrel line, and with it any proof of who Pim Sorrel's great-grandfather was.
-- **Calipers and loupe** — brass, for measuring the hands of Hand-line infants, which he does at every christening.
 - **The tank key** — to Grandfather Peat's tank lid. He locks it. Peat would like to go back in the water.
 - **A sample case** — two hundred phials of dried blood, from every Hand-line living and Kept.
 - **His Lectures** — his own *Introductory Lectures in Cutwrighting*, much annotated in the margins, in a hand that is getting slower.
@@ -627,7 +623,7 @@ Mother Gall is enormous in every direction, broad as a door and nearly as tall, 
 
 #### Their Story
 
-The first Mother Gall, Agnes, was a pickler of eels and cabbages at Brinemoss, a Scrapling hamlet of stilt-huts in the south fen. In 547 she noticed that a dead dog fallen into the brine-pit behind her hut had not rotted in a year. She tried it on a neighbor's grandfather, who asked. It worked. By 551 she had fifteen customers in barrels, and her first is still there: Old Corder, barrel one, ninety years under. Agnes went into barrel two herself in 590. Her daughter Hesketh took the cellar and the name, and went into barrel three in 623. The present Mother Gall, Hesketh's daughter Maud, has run it since. She will not say who will follow her. She has no daughter.
+The first Mother Gall, Agnes, pickled eels at Brinemoss, a Scrapling hamlet of the south fen. In 547 she noticed that a dog fallen into her brine-pit had not rotted in a year, and tried it on a neighbor's grandfather, who asked. By 551 she had fifteen customers; the first, Old Corder, is still in barrel one. Agnes went into barrel two in 590, her daughter Hesketh into barrel three in 623. The present Mother Gall, Hesketh's daughter Maud, has no daughter.
 
 #### Their Place in the Land
 
@@ -639,10 +635,8 @@ A barrel costs fifteen hundred lacks, paid in advance, for a century; most custo
 
 - **The barrel-hook** — iron, long-handled, for lifting lids and steadying customers as they go down.
 - **The brine-book** — every customer, their barrel number, their date of entry, who paid, and who visits. Fewer each decade.
-- **A dill-crock** — at her belt, always; she eats pickled cucumbers all day, like a horse eating oats.
 - **The pit key** — the key to a locked shed behind the largest hut, over the brine-pit itself. Nobody else goes in.
 - **The visitors' bell** — a handbell she rings to warn the cellar that a family is coming down, so the customers can compose themselves. They knock less when the bell rings.
-- **A cleaver** — for cabbages. Mostly.
 
 #### Wants, Fears and Secrets
 
@@ -701,26 +695,24 @@ Dread: 2 (her silence; the gap she leaves in the smell of the world)
 
 #### Who They Are
 
-Edda is wiry and weathered, with a cropped head of brown hair, grey-streaked eyebrows that move constantly, and a surveyor's squint. She dresses in a stained oilskin and fen-boots and carries a slate on a cord round her neck, because it is easier than reading lips. Up close she smells of nothing at all: not sweat, not breath, not rot, not soap. In Lastgate, where everyone smells of something, she is a person-shaped hole in the air, and dogs whine at it. Flies that land on her drop off dead. She speaks too loudly, then too softly, and sometimes stops mid-sentence and tilts her head, as if someone just behind her has cleared their throat.
+Edda is wiry and weathered, cropped of hair, with grey-streaked eyebrows that never stop moving, a surveyor's squint and a slate on a cord round her neck. She smells of nothing at all. In Lastgate she is a person-shaped hole in the air; dogs whine at it, and flies that land on her drop off dead. She speaks too loudly, then too softly, and sometimes stops mid-sentence and tilts her head, as if someone behind her has cleared their throat.
 
 #### Their Story
 
-Edda Thrush was the Court's best surveyor of the fen: she had chained and levelled half the north for the fly-tax rolls. In Carving 638 the Court ordered Dunmere Hush measured from the inside, because the Quiet Market party wanted to know how much land it held. Edda was given a Kept chainman named Fenn Albery, a tether-line and a theodolite, and a bonus of two hundred lacks. Albery finished at the edge, mid-step, and lay down in the grey reeds with the chain in his hand. Edda, who was living, should have finished too. She walked on. She walked in for three hours. She came out at dusk, a mile north of where she went in, with the tether cut (she does not remember cutting it) and the theodolite's lenses crazed white, and a drawing in her head of everything she had seen.
+Edda was the Court's best surveyor of the fen. In Carving 638 the Quiet Market party wanted Dunmere measured from the inside, and she was sent with a Kept chainman, Fenn Albery, a tether and a theodolite. Albery finished at the edge mid-step. Edda, living, should have finished too. She walked in for three hours and came out at dusk a mile north, the tether cut (she does not remember cutting it), the lenses crazed white, and the whole of the inside in her head.
 
 The Court's surgeons examined her for a month. She was sound in every part. She could not hear. They called it deafness. She told them, at a volume that made the clerk drop his pen, that it was not.
 
 #### Their Place in the Land
 
-The Court keeps her on salary and on a leash. She measures the Hushes, all eighteen, monthly; her figures are the only reliable ones, because she can walk the edge without fear and stand a pace inside it for a minute before the pull grows too strong. Lady Corrow Vane hires her privately for the Glovehall garden. Captain Morrow's cordons use her measurements. The Finishers believe she is a saint who came back. The Heirs want her to guide them in. She lives alone in a hired room on Needle Street above a wire-drawer's, chosen because the wire-drawer's hammering is the only sound she can feel through the floor.
+The Court keeps her on salary and on a leash. She measures all eighteen Hushes monthly, the only reliable figures there are. Lady Corrow hires her privately for the Glovehall garden. The Finishers think her a saint; the Heirs want her as a guide. She lives above a wire-drawer's on Needle Street, because the hammering is the only sound she can feel through the floor.
 
 #### What They Carry
 
 - **The drawing** — a sheet of surveyor's paper, folded in eight, showing the inside of Dunmere from memory: every street, every washing line, every body where it lay, drawn to scale with a draughtsman's precision. In the center is a large shape left blank, outlined in nothing, simply not drawn, very carefully.
 - **The chain** — Albery's surveyor's chain, which she took from his hand at the edge. She uses it still.
 - **The theodolite** — brass, its lenses white as cataracts. Looking through it shows nothing; she looks through it anyway.
-- **Slates and chalk** — for conversation. The slate is covered in other people's questions, rubbed out.
 - **A frayed tether-line** — the end is not cut but finished: the fibres stop, clean, like a thing that was never longer.
-- **Fly-paper** — she lays it round her bed so she will not wake under a drift of dead flies.
 
 #### Wants, Fears and Secrets
 
@@ -783,9 +775,9 @@ Bram Hollin is small, neat and soft-spoken, with a round bald head fringed in wh
 
 #### Their Story
 
-The Hollins were mourners before the Gorging, hired to wash the dead, place the coin on the tongue, keen at the door and sing the six last songs. After the Meal nobody died, and the trade ended in a week. The Hollins kept it anyway. For six hundred and forty years, father has taught son the full rite (the keening, the washing, the coin, the six songs), word-perfect, in an attic, over a straw dummy, for a job none of them could ever do. Bram learned it from his father, Ambrose, who learned it from his. His father made him swear it on his grandfather's Kept jaw, the old way, and then, in 619, asked Bram to close the oath by singing all six songs over the jaw. Bram did, to the fifth. His father stopped him there.
+The Hollins were mourners before the Gorging. After the Meal the trade ended in a week, and the Hollins kept it anyway: for six hundred and forty years father taught son the full rite, word-perfect, over a straw dummy in an attic, for a job none of them could do. In 619 Bram's father made him swear it on his grandfather's Kept jaw, and then asked him to close the oath by singing the six songs over it. Bram sang to the fifth. His father stopped him there.
 
-Bram worked as a scrivener for forty years and sang to nobody. In 633 the Hushes began. In 641 the Court called him to the Hall of Closings to stand mourner at Josiah Rook's Closing, the first time a Hollin had mourned a proper death since the Gorging. He said the old words, *Hand that closes, close this.* He watched the long rot go out of Mr. Rook in a single breath. He went home and was sick and then sat up all night with his father's book, reading the songs as if for the first time. He had not known until that night what they were for.
+Bram was a scrivener for forty years. In 641 the Court called him to stand mourner at Josiah Rook's Closing, the first proper death a Hollin had mourned since the Gorging. He watched the long rot go out of Mr. Rook in a breath, went home, was sick, and sat up all night reading the songs as if for the first time. He had not known until then what they were for.
 
 #### Their Place in the Land
 
@@ -795,7 +787,6 @@ Since Grace 641 everyone wants him. The Court pays him twenty lacks to stand mou
 
 - **The black coat** — his grandfather's, green at the seams. The inner pockets hold rosemary, cloths, coin and a pencil.
 - **Rosemary** — bundles of it, fresh from the sill. For the dead, for the smell, for Henna Farrow, who buys a sprig a week.
-- **The washing-cloths** — six, of undyed linen, folded in the old order. He has used them three times.
 - **The coin-purse** — old pre-Gorging coins of copper, worn faceless, one for each tongue. There are eleven left. Nobody has minted any in six centuries.
 - **His father's book** — the rite, written out in 402 by a Hollin who feared the family would forget. The sixth song is on the last page, and the last page has a seventh line that has been inked over.
 - **A pitch-pipe** — bone, sounding a low G. The keening begins on it.
@@ -861,20 +852,19 @@ Idony was a big woman once, by Fatlands measure a slender one at two hundred pou
 
 #### Their Story
 
-Idony Pask was a clerk in a Low Tilth granary, married to nobody, beloved aunt of six. At thirty she began to thin. In the Fatlands a thin woman is sick, criminal, or Thin, and the law treats them alike. The Board's physicians fed her nine meals a day; she wasted anyway. In 624, hearing that in the north nobody died, she sold her share of the family's hogs, took the Rim Road to Fogmouth, and asked Tam Ruddock to take her across. She was his first. She did not die of the wasting, not in the way she had feared. She died in 627, in a boarding house on Ratline Boards, and sat up the next morning, and the wasting did not stop. It has been taking her for fourteen years.
+Idony Pask was a granary clerk in Low Tilth, beloved aunt of six. At thirty she began to thin, and in the Fatlands a thin woman is sick, criminal or Thin, and the law treats them alike. In 624 she sold her share of the family hogs and asked Tam Ruddock to take her north. She was his first. She did not die of the wasting, not in the way she had feared. She died in 627 in a boarding house on Ratline Boards, sat up, and the wasting went on.
 
 She is hungry. She was hungry in the Fatlands and is hungrier now, with Ummer's endless hunger in a body that cannot keep food. She chews and spits. She cannot leave: the Drop would finish her in a heartbeat. She has written home to her sister Tansy every week since 624. The replies stopped in 631.
 
 #### Their Place in the Land
 
-Idony is a foreigner and one of the Kept, which is rarer than it should be and becoming less rare. She lives on what she earns writing letters for the illiterate Kept of the Sinks (two crumbs a page) and on a small sum Tam leaves every week, which she spends on food to chew. She knows every Fatlands carter on the causeway and pays them to carry her letters south. She is a fixture of the Sinks' cookshops, where she sits, chews, and spits, and the cooks let her because she tells them what is wrong with their gravy.
+She earns two crumbs a page writing letters for illiterate Kept, spends Tam's weekly coins on food to chew, and pays Fatlands carters to carry her letters south. The Sinks cookshops let her sit, chew and spit, because she tells them what is wrong with their gravy.
 
 #### What They Carry
 
 - **The letters** — a box of copies, seven hundred and twenty, one a week. And eleven replies from Tansy, the last dated Lack 631, which says only, *Darling, the Board has been asking.*
 - **The shawl** — embroidered by Tansy, red hens on yellow. It is the last thing that smells of home, and it no longer does.
 - **A spit-dish** — pewter, from the Fatlands, for the chewed food. She carries it everywhere and is never without something to put in it.
-- **A lead bit** — given her by a Court-licensed Seamer to wear at night, to stop her chewing her own lip away. She does not always wear it.
 - **A ledger of meals** — every meal she has chewed since 627, rated out of ten. None is above three.
 - **A Fatlands fork** — silver, broad-tined, her grandmother's.
 

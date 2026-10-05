@@ -149,7 +149,7 @@ The word is *company*. Every shelf in the Lofts has been whispering it for a yea
 
 Justice Ever Lathe of the Court of Wrongs has been Kept since 389 and has rotted down to bone, a few black tendons and a resident colony. His rulings are delivered in the buzzing, and a clerk translates. Nobody is sure any longer which of them is deciding. The colony is the court. And the colony breeds, and when it breeds it sheds: a living, seething clot of grubs and flies that drops from the hem of his robe in the robing room, and is swept up by an usher, and is sold.
 
-A cell is a jar of a few hundred white grubs and a dozen fat blue flies, nested in a lump of black matter the usher would rather you did not ask about. Unlike every other fly in Sallowreach, these move in order. The grubs coil and uncoil together. The flies rise and settle as one, like a choir standing. If you hold the jar up and say something untrue, the buzzing in it rises in pitch, thin and angry.
+A cell is a jar of a few hundred white grubs and a dozen fat blue flies, nested in black matter best not asked about. Unlike every other fly in Sallowreach, these move in order. The grubs coil and uncoil together. The flies rise and settle as one, like a choir standing. If you hold the jar up and say something untrue, the buzzing in it rises in pitch, thin and angry.
 
 A widow in the Sinks keeps one on her husband's chair at dinner and asks it whether he still loves her. She says it never lies.
 
@@ -159,7 +159,7 @@ A widow in the Sinks keeps one on her husband's chair at dinner and asks it whet
 
 **CARVING:** An usher sells them at the robing-room door for a crown of bribes; or the colony can be taken from Justice Lathe himself, by a bold hand under his robe in court (Lung + Filch vs Grim 18; a Lack and the colony notices, and the Justice rules, through his clerk, that the thief is in contempt, which in the Court of Wrongs is a sentence of a year in a jar). Handling the clot bare-handed is a Dread 1 check.
 
-**TAINT:** Dread 1. A user who sleeps beside the jar dreams in buzzing; this has no rules effect, but they will start translating it.
+**TAINT:** Dread 1. Those who sleep beside the jar dream in buzzing, and start translating it.
 
 **EFFECT:** In the jar's presence, any deliberate lie spoken aloud makes the colony shrill. Characters gain +2 to Instinct rolls to detect lies, and anyone who knows what the jar is suffers −2 to Deceive. Placed on a festering wound, a cell eats the rot clean in an hour (the wound stops festering; a Kept body loses 1 Rot), but the user must make a Dread 1 check, and the cell grows by a third.
 
@@ -191,7 +191,7 @@ Grandfather Peat was hauled out of the Sump in 611. He had drowned the week of t
 
 His skin flakes. Drying in the Cutwrights' warm rooms, it comes away in brown scales the size of a fingernail, tough as boot-sole, smelling of peat and tannin. The College keeps the flakes in a numbered box. Some have left the box.
 
-A flake chewed, slowly, like tobacco, softens in the mouth and tastes of iron and bog. Those who have chewed it say the taste becomes a memory, and the memory is not theirs: black water closing overhead, the weight on the chest, cold, and before that, a firelit shore and a long table, and a vast grey shape laid out on the mud with its hands folded on its chest, waiting. And its face. The chewer always wakes from it with their own face aching, from smiling.
+A flake chewed slowly softens and tastes of iron and bog, and the taste becomes a memory that is not the chewer's: black water closing overhead, the weight on the chest, cold, and before that, a firelit shore and a long table, and a vast grey shape laid out on the mud with its hands folded on its chest, waiting. And its face. The chewer always wakes from it with their own face aching, from smiling.
 
 **WHISPERED:** Eye + Lore vs Grim (18). A Cutwright knows of it at Hard (14).
 
@@ -209,7 +209,7 @@ A flake chewed, slowly, like tobacco, softens in the mouth and tastes of iron an
 
 Wick Tallow renders the unclaimed dead into candles that feel themselves burn, and half of Lastgate reads by people it used to know. When too many candles made from one family are burned in one room, the tallow sometimes remembers itself, runs, and gathers into a Tallow-Saint: a faceless figure of soft yellow wax, wicked through its crown and burning, that walks. The only way to stop one is to pinch out its wick, in its embrace, while it burns you.
 
-A wick so pinched does not go out. It closes, in the way of things in Sallowreach that cannot finish: the flame shrinks to a bead of blue no bigger than a lentil, and stays there, on a braided cord of tallow-black thread a hand long, giving no heat at all and a very steady light. Hold it near a face and the light shows the face as the family that made the Saint would have seen it, beloved and familiar, for a moment, whatever face it is.
+A wick so pinched does not go out. The flame shrinks to a bead of blue no bigger than a lentil, and stays, on a hand-long braid of tallow-black thread, giving no heat and a very steady light. Hold it near a face and the light shows the face as the family that made the Saint would have seen it, beloved and familiar, for a moment, whatever face it is.
 
 A chandler's widow on Wick Lane keeps one under a glass bell, and says it is her husband and his mother and his mother's sister, and on Tablenight she sets three places beside it.
 
@@ -229,7 +229,7 @@ A chandler's widow on Wick Lane keeps one under a glass bell, and says it is her
 
 Mother Gall can keep a body sound for a century in the right brine, and her cellar under Brinemoss holds four hundred customers in barrels, paid up in advance, all wide awake. The recipe she will not share. Her brine is sold, at twenty lacks a pot, and it works for a year. But the real thing, the thing that keeps four hundred people perfect, is not a recipe. It is a culture. It is a mother.
 
-Every vinegar has a mother: a slick of living matter that floats in the barrel and turns wine to sour. Mother Gall's has been passed down, she says, from her own mother, in a crock that has not been empty since 402. It is a grey-white, rubbery, glistening disc the size of a dinner plate, layered like the leaves of a book, and it smells of dill and garlic and brine and, under them, very faintly, of lavender water, which was the scent her mother wore. It moves in the crock. It turns, slowly, toward whoever opens the lid.
+Every vinegar has a mother, a slick of living matter that turns wine to sour. Mother Gall's has come down, she says, from her own mother, in a crock not empty since 402. It is a grey-white, rubbery, glistening disc the size of a dinner plate, layered like the leaves of a book, and it smells of dill and garlic and brine and, under them, very faintly, of lavender water, which was the scent her mother wore. It moves in the crock. It turns, slowly, toward whoever opens the lid.
 
 Brinemoss says the old woman's mother is not in the crock so much as of it. Mother Gall laughs when asked. She cuts a slip for one customer in a generation; the only slip ever sold came from a barrel whose occupant passed it to a thief through a knot-hole.
 
@@ -241,7 +241,7 @@ Brinemoss says the old woman's mother is not in the crock so much as of it. Moth
 
 **TAINT:** 2 Regrowth (Ossel).
 
-**EFFECT:** A slip of the mother, set in a barrel of salted vinegar, makes a brine that keeps anything submerged in it exactly as it went in, with no rot, no age, no healing, for as long as it stays under. A living person kept under breathes through it, unaging and wide awake (Dread 3 to be immersed, Dread 2 to witness). A severed part kept in it can be sewn back on a century later with no penalty. A Kept body kept in it gains no Rot. The slip grows; in a year, it can be cut again.
+**EFFECT:** A slip of the mother, set in a barrel of salted vinegar, makes a brine that keeps anything submerged in it exactly as it went in, with no rot, no age, no healing, for as long as it stays under. A living person kept under breathes through it, unaging and wide awake (Dread 3 to be immersed, Dread 2 to witness). A severed part kept in it can be sewn back on a century later with no penalty. A Kept body in it gains no Rot. In a year the slip can be cut again.
 
 **WORTH:** Never sold by Mother Gall. The stolen slip changed hands for 5,000 L. Unique, or nearly. Not illegal; the Seamers' Guild would very much like it to be.
 
@@ -294,9 +294,9 @@ Hand-line servants whisper that the pears are Osric. The Hush grew where his win
 
 Six centuries of weighted sacks have gone down into the Sump, and over decades, under forty feet of black peat-water, the bodies find each other and press together into a Sump-thing: a slick dark mound twenty feet across, hair and sackcloth and tanned leather over a lattice of knitted bone, and everywhere in it, faces. Pressed flat. Mouths working. The Seamers' Guild pays a standing bounty of six hundred lacks for every face recovered, and gives it back to the family.
 
-Not every face goes home. A face cut free of a Sump-thing is a mask of soft, peat-tanned skin, still faintly warm, still moving: the lips work, the eyelids flutter, the brow knots in the old grief that a weighted sack gives everyone eventually. Dredgers who keep them say a face worn over one's own fits as if it were made to, and that while it is worn, the fen recognizes you. The drowned in the black water let go of your ankle. The Sump-things let you pass. The water lets you breathe.
+Not every face goes home. Cut free, a face is a mask of soft, peat-tanned skin, faintly warm, still moving: the lips work, the brow knots in the old grief a weighted sack gives everyone. Dredgers who keep them say a face worn over one's own fits as if it were made to, and that while it is worn, the fen recognizes you. The drowned in the black water let go of your ankle. The Sump-things let you pass. The water lets you breathe.
 
-The face goes on speaking, of course. Only the wearer can hear it, from very close, and what it says is always the same few things over and over: a name, a street, a debt, a recipe, and the words *I can still feel the rope*.
+The face goes on speaking, for the wearer alone: a name, a street, a debt, and the words *I can still feel the rope*.
 
 **WHISPERED:** Eye + Lore vs Hard (14) among dredgers and Sackmen; Grim (18) elsewhere.
 
@@ -400,7 +400,7 @@ A forged Last Verse is common, and does nothing. The real ones carry Bram's thum
 
 The Finishers walk into the Hushes singing. Before they go, Sister Lorn of the Shut Eye lays a pair of black wax pennies on each pilgrim's eyes, stamped with a closed eye like the Court's breath-tokens, and prays, and lifts them off again, and the pilgrim walks into the grey with their eyes open. She has done this nine hundred times. She keeps every pair. They are in a long cedar box in her rooms, nine hundred pairs, labeled, and she cannot bring herself to melt them down.
 
-A pair of Shut-Eye pennies is warm to the touch, as warm as an eyelid, and soft enough to take a thumbprint. Each still holds, faintly, the shape of the eye it lay on: a curve, a lash-mark, a ridge where a tear ran. Laid on a sleeper's eyes, they bring a sleep with no dreams in it, deep and black and complete. Laid on the eyes of the Kept, they bring something the Kept have not had since they died: a few hours of nothing at all.
+A pair of Shut-Eye pennies is as warm as an eyelid and soft enough to take a thumbprint, and each still holds the shape of the eye it lay on, down to a lash-mark. Laid on a sleeper's eyes, they bring a sleep with no dreams in it, deep and black and complete. Laid on the eyes of the Kept, they bring something the Kept have not had since they died: a few hours of nothing at all.
 
 The pilgrims who wore them did not come back. That is the point. The pennies remember the last thing those eyes saw before the grey, and on very still nights, those who sleep under them sometimes see it: a line of grey reeds, a door standing open, and Sister Lorn outside, waving.
 
@@ -569,7 +569,7 @@ Mixed into a floor, a road or a doorstep, corner-soil teaches that ground to Rea
 
 What the Reaping takes, the field gives back as Rootkin: swollen root vegetables the size of a sleeping child, pale and veined and warm, with features. Most are lumpen. Some are exact. Pulled up, they flinch and leak a pinkish sap that smells of the person they resemble. Tansy Lard found one with her mother's birthmark and replanted it behind the house, and waters it every day. Others are less sentimental.
 
-The sap is collected in phials by the Renderers' Union, which sells it to perfumers in Lastgate and to grieving families everywhere. It is pink, thin, faintly warm, and its smell is the smell of a specific person: their skin, their sweat, their hair, the soap they used. A drop on a pillow brings them back into the room for a night. A drop on the tongue brings back more: a memory, out of order, out of context, as vivid as a blow. The Union labels phials by village and does not label them by name, because the families would find them.
+The Renderers' Union sells the sap in phials to Lastgate perfumers and grieving families. It is pink, thin and faintly warm, and it smells of one specific person: their skin, their hair, their soap. A drop on a pillow brings them back into the room for a night. A drop on the tongue brings back more: a memory, out of order, out of context, as vivid as a blow. The Union labels phials by village and does not label them by name, because the families would find them.
 
 **WHISPERED:** Eye + Lore vs Routine (10) in the Fatlands; Hard (14) elsewhere.
 
