@@ -144,7 +144,7 @@ He wants to hear his daughter speak and dreads it more than anything. Cutwright 
 
 **A secret the GM can reveal:** the offer comes from House Hushwell, the king's own line, and not out of fear. Lisbet Orne was a Hushwell by-blow, which the Cutwrights know and Garl does not. A child of Hushwell blood who has never spoken is eligible for the Mute Succession, and Ket the Ninth is thirty-one, childless and at the Course. Hushwell want Merit kept silent so that she can be crowned.
 
-**A secret only Garl knows:** the copper in the bit of 611 was his. He was twenty. The Bench's gold had not come, the Sayer's tongue had grown, and Haskell was ill, so Garl cut the gold with copper to make the plate go round, and told no one, and the old man hanged himself for it. Garl has carried the filing for thirty years so that he would never forget the word that was said in the dark, which he never heard.
+**A secret only Garl knows:** the copper in the bit of 611 was his. He was twenty; the Bench's gold was late, the Sayer's tongue had grown and Haskell was ill, so Garl cut the gold to make the plate go round, and told no one, and the old man died by his own hand for it. Garl has carried the filing for thirty years so that he will never forget the word said in the dark, which he never heard.
 
 **A secret he does not know:** at the king's fittings, while Garl works with his back turned at the brazier, Ket the Ninth has been talking to Merit in a handtalk of his own invention, quick small signs under the table. She has learned it entirely. She has decided what her first words will be, and whom they are for, and she has promised him, in his language, to say them.
 
@@ -229,7 +229,7 @@ She wants the Bench to understand without her having to say it; she has given th
 
 **A secret the GM can reveal:** the pulse in her throat keeps time with the god, and so do the other Heart-line throats of the basin. If the GM wishes to know how close Tolm is to waking, they need only ask the Rainwarden's heart. At one beat a minute, the god is dreaming. At one beat an hour, it is still. If her pulse ever quickens, it is waking.
 
-**A secret she does not know:** the second, enormous heartbeat that Heart-line children hear in the night is not the old heart. Tolm's great slow heart was eaten by Yusra's ancestors and is in her chest, and in the chests of the eleven lines. What is beating under the sand of the Gullet, a little slower every year, is a new one, grown in the bones over six centuries, and much larger than the first, and the Heart-line pulses have quietly gone over to it, the way a choir follows the loudest voice. And between its beats, if a listener lies with an ear to the sand for long enough, there is a second, softer sound, regular and patient, like a chair being drawn up to a table.
+**A secret she does not know:** the enormous second heartbeat that Heart-line children hear at night is not the old heart, which her ancestors ate and which beats in her own chest. It is a new one, under the sand of the Gullet, grown in the bones over six centuries and much larger than the first, and the Heart-line pulses have quietly gone over to it, the way a choir follows the loudest voice. Between its beats, if a listener lies with an ear to the sand long enough, there is a second, softer sound, like a chair being drawn up to a table.
 
 #### Ties
 
@@ -272,7 +272,7 @@ Gifts: **Hold to It** (the Appetite) and **Say So** (the Course). **The Greater 
 Wants: **To Hold Others to Their Words**; **To Be Heard** (which she satisfies by lying with her ear to the floor)
 Knacks: Elder's Ear, Dowager's Patience
 Derangements: **The Voice at Table** (roused when she Partakes: a voice in the tone of the god, reasonable, which tells her to wait)
-Carries: the Knot Book, a stick of cistern-cedar, a bag of knucklebones, a clay ear-trumpet, a cup of cistern water, a child's bit
+Carries: the Knot Book and client-cords, a bag of knucklebones, a clay ear-trumpet, a cup of cistern water
 Dread: 2 (to see her client-cords move on their own)
 [/stat]
 
@@ -298,11 +298,9 @@ The Bench calls the Greater Word heresy, but nine hundred clients include two Be
 
 - **The Knot Book** — a ledger bound in goat leather so old it has gone hard as wood, with nine hundred and some names in it and the greater oath each one swore, and at the front, in a different, ancient hand, the line of every Grandam back to the Supper. Whoever holds it can feel her clients as she does. It is worth more than Quillhouse to the wrong buyer.
 - **The client-cords** — a knot for each client, tied in the shawl-fringes. When a client strays far, the knot tightens. When a client dies, it loosens and falls off. Sometimes, in the dead of night, all nine hundred knots twitch at once.
-- **A stick of cistern-cedar** — her walking stick, carved with ears.
 - **A clay ear-trumpet** — the kind used by the deaf. She does not use it to hear people. She sets the wide end flat on the floor.
 - **A bag of knucklebones** — the bones of her son's hand, taken from his niche in 590 with the Keeners' consent, which she rolls when she is thinking. They always come up the same way.
 - **A cup of cistern water** — offered to every client; drinking it is accepting her hospitality, which she holds to be a small oath in itself.
-- **A child's bit** — soft leather, beaded, very old. Her son died too young to wear it. She bought it anyway.
 
 #### Wants, Fears and Secrets
 
@@ -353,7 +351,7 @@ Gifts: **Hold to It** (the Appetite). **Held:** while within Wending Pass, he ca
 Wants: **To Hold Others to Their Words** (he demands an oath of anyone who would pass)
 Knacks: Unflinching, Old Grief
 Derangements: **The Guilt That Bends the Room** (roused by success: the four hundred are in every face)
-Carries: the regimental roll, his sword, a captain's sash gone grey, the cairn-stone, a water-skin, a tin of goat-fat and rags, strap-buckles
+Carries: the regimental roll, his sword, the cairn-stone, a water-skin, strap-buckles
 Dread: 3 (the road behind him)
 [/stat]
 
@@ -381,17 +379,15 @@ The Watch cannot relieve him, since his oath was sworn to the pass. Drovers leav
 
 - **The regimental roll** — four hundred names, on a strip of goat-leather folded twenty times, worn black at the creases. He does not need to read it. He carries it in case he forgets one, and he never has.
 - **His sword** — a Watch sword, old-pattern, notched, the edge kept bright with a whetstone and the hilt bound with strips from a dead soldier's sash.
-- **A captain's sash** — rotted grey, held together with knots. He has been offered a new one by the Watch every year. He refuses.
 - **The cairn-stone** — a pebble from the cairn at the head of the switchbacks: the line, in his reading, of the pass. Below it is the road. He crosses it every night. See below.
 - **Strap-buckles** — a pouch of iron buckles and leather straps, the kind the Breakdowns' surgeons use to hold the unstrung together. He has no business owning them.
-- **A tin of goat-fat and rags** — for the rust, and for wounds that are not his.
 - **A water-skin** — always full. He drinks little. The rest goes down the road at night.
 
 #### Wants, Fears and Secrets
 
 He wants to be relieved. He does not want to die; he wants someone with the authority to say "relieved," and mean it, and be believed by the god. He fears that there is no such person.
 
-**A secret the GM can reveal:** some of the four hundred are still alive below, on the Unmade Road, among the bones. They lie in the lee of rocks and in the hollows of the switchbacks, unstrung at every joint, their limbs held together by the straps he brings them, kept alive by the water and the bread he carries down. Every night he steps over the cairn-line to feed them, one step past the place he swore never to leave, and each night the god notes the step, and a little more of him comes open: a seam along his right side that does not close, a finger that bends backward, a knee that has begun to fold.
+**A secret the GM can reveal:** some of the four hundred are still alive below, among the bones, unstrung at every joint, held together by the straps he brings and kept alive by the water he carries down. Every night he steps over the cairn-line to feed them, one step past the place he swore never to leave, and each night a little more of him comes open: a seam along his right side that does not close, a finger bent backward, a knee beginning to fold.
 
 **A secret he knows and will never say:** "until death relieves us." The Bench has always read the death as his. Renn has read the clause every night for fourteen years, and he knows the other reading. The regiment swore together. If the last soldier of the Fourth dies, the regiment is relieved by death, and so is he. He could walk down the road any night and stop bringing water. He goes down with the water every night instead.
 
@@ -402,7 +398,6 @@ He wants to be relieved. He does not want to die; he wants someone with the auth
 - **Scant Hollis** — the Reckoner-Captain from the Fast who led the raid. She sends no word. Every year, at the first of Carving, a single bolt with an Unfed knot on it is found driven into the cairn.
 - **Judge Thane Urrow** — the Judge has petitioned the Bench, three times, to try Renn Hold, so that he might be made to repeat his oath before the court and be found to have kept it. The Bench has refused.
 - **Halvar Stane** — the Echo-Warden walked the Unmade Road in 628 and killed the nine echoes of the regiment's oath with felt and sand. He thinks one got away.
-- **Envoy Dorian Sayce** — crosses Wending each year on his way to the Vigil and swears the oath with absolute sincerity. Renn likes him for it.
 
 #### In Play
 
@@ -412,7 +407,7 @@ PCs meet Renn when they need to cross Wending: escorting a caravan, chasing a fu
 - **The Water-Carrier.** The PCs follow him down the road at night and find the living among the bones. Now they know. If they bring water, they keep the regiment alive; if they do not, they might relieve him. Mags Carrow will want to know what they saw.
 - **Relieved.** Someone has found an authority that might release him: a Sayer's sentence, a royal gesture, a dead soldier's niche. The PCs carry it up the pass. He does not believe them. He wants to.
 
-Under threat he is immovable and very dangerous, a swordsman who does not fear injury and cannot be pushed off his ground. Kindness he receives without a word and remembers forever. The god he treats as a commanding officer he does not like. If nobody intervenes, the seam along his side opens a little further each night, until one night he goes down the road and does not come back up, and the pass has nobody at the top of it for the first time in fourteen years, and something in the Unmade Road begins to crawl uphill.
+Under threat he is immovable and very dangerous. Kindness he receives without a word and remembers forever; the god he treats as a commanding officer he does not like. If nobody intervenes, the seam along his side opens a little further each night, until one night he goes down the road and does not come back up, and something in the Unmade Road begins to crawl uphill.
 
 [box: Said of Them]
 "I swore to hold the pass with him. He looked at me like I'd given him a horse. Then he said he didn't ask it, and I went on down, and I cried the whole road to the Rim, and I couldn't tell you why." — a Company drover
@@ -437,7 +432,7 @@ Gifts: **Echo-Ear** (the Taste). **Only Asking:** he may make a Persuade, Deceiv
 Wants: none of the god's yet; his own is to be asked a question he cannot answer with another
 Knacks: Conditional, Little Lies
 Derangements: none (yet)
-Carries: a swordcane, a purse of sworn notes, a silver question-mark, a ledger of marks, fine clothes, a fig-sweet tin, the bit he wore as a boy
+Carries: a swordcane, a purse of sworn notes, a silver question-mark, a ledger of marks, the bit he wore as a boy
 Dread: 0
 [/stat]
 
@@ -465,9 +460,7 @@ He fences for the Breakdowns, runs a book on whose fingers will snap next among 
 - **A purse of sworn notes** — bought at a discount from issuers near default, sold on to foreigners at face. He knows exactly whose bodies back them, and how close they are to breaking.
 - **The silver question-mark** — a pendant in the shape of the hooked mark the Ledger's carvers use for a question, worn at his throat. A joke, he says. A promise, the Breakdowns say. He has never said which.
 - **A ledger of marks** — everyone he has ever cheated, with the date and the sum. He reads it at night. It is not remorse. It is the habit of a man who cannot be certain what he did unless it is written down.
-- **A tin of fig-sweets** — offered to everyone. Jude Crake and he share a confectioner.
 - **The bit he wore as a boy** — a soft leather bit with a single blue bead. He keeps it in a drawer and looks at it when he is frightened, which is more often lately.
-- **Fine clothes** — worth 150 lacks as worn, and +2 to Persuade with anyone who thinks rich men cannot be cheats.
 
 #### Wants, Fears and Secrets
 
@@ -482,7 +475,6 @@ He wants more: money, marks, proof that the god cannot catch him. He fears the d
 - **Cassian Wry** — the two most famous liars in Oathen, one who cannot be bound and one who will not be. They dine together once a month under guard, and it is the only honest meal either of them eats.
 - **Jude Crake** — they share a confectioner and an admiration. Jude has said that if he were ever asked to break Tavish, he would not know where to start. Tavish asked whether that was a compliment. Jude laughed.
 - **Judge Thane Urrow** — has tried him four times. Wants a fifth.
-- **Silas Amend** — the paper-broker of Tacit, his rival and occasional partner in bad notes; they despise each other with great affection.
 - **Lord Varro Esk** — has hired Tavish to ask a Sayer a question. Tavish has not yet decided whether he will.
 - **Ottoline Vant** — he is hiding her. He has not said so. If asked, he would ask why anyone would think such a thing.
 
@@ -562,7 +554,6 @@ She wants silence: her own first, then Oathen's. She fears her own mind more tha
 - **Brother Ansgar Mote** — the surgeon who opened her lips twice. Her closest friend in the order. He reads her thoughts in a jar and has not told her.
 - **Laine Amn** — her sister, blind for thirty-three years, now a Bencher of the Hall of Conditions. They have not met since 608.
 - **Lady Imre Dath** — Verity believes the Sayers and she are two ends of the same road: what a Sayer says, is; what Verity thinks, binds. She has asked to visit the Gilded Cells, in writing, eleven times.
-- **Mirren Osk** — the handtalk poet came to the Quiet after her fingers broke. Verity wrote her one slate: "Now you know your poems were true. Stop writing them."
 - **Ket the Ninth** — the king reads her slates. He has sent her, through the Bench, a single blank slate with nothing on it. She has kept it on her wall for three years and does not know whether it is a question.
 - **Hessa Lisk** — the Cutwright has asked to measure her tongue. Verity wrote: "Ask Brother Ansgar."
 
@@ -634,7 +625,7 @@ He wants to come home and stay. He fears that he cannot: that the discipline he 
 
 **A secret the GM can reveal:** the little green book is a record of lies. Since last spring he has told nineteen, all abroad, all small, all kind ("You look well." "It is not your fault." "I am sure he loved you."), and he has written each one down, with the date and the place, because he is an Oathener, and something said must be recorded.
 
-**A secret he does not know:** his lies have come true. The Kept woman in Lastgate looked well the next morning: the rot had drawn back from her cheekbones and the gauze was no longer needed. The widow in Gristmoot whose husband he swore had loved her found his letters that week. Dorian is not lying abroad. He is Saying. His Regrowth has outrun the Cutwrights' reckoning, the god goes with him across the border, and every kind untruth he tells makes the world fit itself to him, a little. He has begun to enjoy lying at exactly the moment that lying has become the most powerful thing he can do.
+**A secret he does not know:** his lies have come true. The Kept woman in Lastgate looked well the next morning, the rot drawn back from her cheekbones. The widow in Gristmoot found her husband's lost letters that week. Dorian is not lying abroad; he is Saying. His Regrowth has outrun the Cutwrights' reckoning, the god goes with him across the border, and he has begun to enjoy lying at exactly the moment lying has become the most powerful thing he can do.
 
 #### Ties
 
@@ -795,7 +786,6 @@ She wants the truth carved. She fears that she is the twelfth: that her own misc
 - **Jude Crake** — the Bench may yet give her to the Breaker. Jude has read her list; Tavish showed him. Jude asked for a fig, and was very quiet.
 - **Judge Thane Urrow** — the Judge would give a great deal for her list, and for a trial of the Office of the Fair Copy.
 - **Brakk** — the Forsworn want her as a witness at the Gathering of the Broken; the list proves the Bench breaks people on purpose.
-- **Halvar Stane** — knew her father. Would take her out through the posted gorges if she asked.
 
 #### In Play
 
@@ -865,11 +855,11 @@ The gravest crimes end in the Ninth Room beneath the Ledger, with Jude, an hour-
 
 #### Wants, Fears and Secrets
 
-He wants to be kind, and he is, in the only way the canyon permits him. He believes he is merciful: no blade, no fear of the blade, only conversation. He fears the hour running long. Last Carving it did, and he found he had enjoyed the extra forty-one grains of sand.
+He wants to be kind, and he is, in the only way the canyon permits him. He fears the hour running long. Last Carving it did, and he found he had enjoyed the extra forty-one grains of sand.
 
 **A secret the GM can reveal:** he was condemned, and talked his own Breaker to death. The rumour is true, and the Bench has buried it, because a Breaker who was once a murderer is a scandal, and a murderer who was made a Breaker because he was good at it is something worse.
 
-**A secret he does not know:** at the Course, plain statements begin to come true for him, and he has been making a great many of them for years, softly, to the condemned: "You'll be all right." "It doesn't hurt very much." "She'll be well." He believes those are the small lies that cost him a nail now and then. Some of them were Sayings. Wenna Sele is well, and her father, broken to pieces in the Ninth Room, did not feel nearly as much as he should have. Jude has been, in a small and terrible way, sparing them all along, and does not know that his kindness has been working.
+**A secret he does not know:** at the Course his plain statements come true, and for years he has been making them softly to the condemned: "It doesn't hurt very much." "She'll be well." He thinks they are the small lies that cost him a nail now and then. Some were Sayings. Wenna Sele is well, and her father did not feel nearly as much as he should have. Jude has been sparing them all along, a little, and does not know his kindness has been working.
 
 #### Ties
 
@@ -877,7 +867,6 @@ He wants to be kind, and he is, in the only way the canyon permits him. He belie
 - **Tavish Crook** — friend, confectioner's companion, the one man in Oathen Jude could not break.
 - **Ottoline Vant** — he has read her list. He knows the Office of the Fair Copy. He has helped them draft.
 - **Sorrin Vael** — consults him on the Sayer's sentence. Jude has pointed out eleven ways that ninety-one versions could kill everyone in the room.
-- **Judge Thane Urrow** — every condemned man the Judge sends him, the Judge visits first, and leaves a fig. They have never spoken about it.
 - **Brakk** — the Forsworn leader has sworn, on his own open heart, to see Jude in the Ninth Room one day as the condemned. Jude has said he would like that very much.
 
 #### In Play
