@@ -916,3 +916,116 @@ three, two, one, and OPEN THE DOOR!
 
 [pull] Hold still, hold still, the door's not shut; hold still, hold still, and mind the cut. | — Kest skipping-chant, the slow verse
 
+## Clauses, and Promise-Chess
+
+[sigil: oathen]
+
+Oatheners do not chat, and they do not play games of chance, because a wager is a promise and a lost wager is a Breaking. What they play instead are games of silence and intention. The commonest is **Clauses**, a game of dominoes played without a sound, on felt, in the galleries of Tacit, in which each player may vow where their next tile will go and is held to it, not by the god, but by the rules. The Clausewrights' own game is **promise-chess**, which is ordinary chess with one Oathen rule added, and is said to be the hardest game on the Table. Both are taught to children while they are still bitted, and are played by the Bench of Clauses in its long recesses. Mute Kings play Clauses well. It is thought proper that they should.
+
+**Who and where.** Everyone in Oathen who can afford a set of dominoes, which are carved from canyon goat-bone and are, in a good house, very old. The Forsworn of the Breakdowns play with tally-sticks marked in pips. Promise-chess is played at the Bench, in Quillhouse, and wherever Clausewrights meet.
+
+**What you need.** For Clauses: a double-six set of dominoes, laid face-down and shuffled (the **boneyard**); a handful of pebbles (**witnesses**); two to four players. For promise-chess: a chess set, paper and pencil, two players.
+
+#### Clauses: The Rules
+
+1. **Silence.** No player may make any sound from the first tile to the last. A player who speaks, laughs, hums or coughs aloud forfeits the hand and scores nothing for it. (Bitted children are therefore the best players.) Handtalk is forbidden too. Pointing is allowed.
+2. **The draw.** Each player draws seven tiles (with two players) or five (with three or four). The rest stay face-down as the boneyard.
+3. **The opening.** The player holding the highest double sets it down. Play passes to the left.
+4. **Laying.** On your turn, lay one tile at either open end of the line, matching pips to pips. If you cannot, draw from the boneyard until you can; if the boneyard is empty and you still cannot, pass.
+5. **The vow.** After laying a tile, you may **vow** by placing one of your pebbles on either open end of the line. This says, silently: *my next tile will be laid here.* You may vow only once per turn and only one vow may be yours on the table at a time.
+6. **Keeping the vow.** At your next turn, if you have a vow on the table, you must lay at that end if you can. If you can, do so, take your pebble back, and also take one **witness** from the common pile and set it in front of you: you kept your word. If another player has laid on that end in the meantime, the vow still holds on whatever end now stands there.
+7. **Breaking the vow.** If you cannot lay at your vowed end, you must draw from the boneyard until you can. If the boneyard runs out and you still cannot, you are **broken**: return all your witnesses to the common pile, turn one tile in your hand face-up on the table in front of you (it stays in your hand, exposed, for the rest of the hand), and you may not vow again this hand.
+8. **Going out.** The first player to lay their last tile wins the hand and scores the total pips left in all other players' hands, plus **5 for each witness** they hold. Every other player scores 5 for each witness they hold, and broken players score nothing at all. If the game blocks (nobody can lay and the boneyard is empty), the player with the fewest pips in hand goes out.
+9. **The match.** Play to 100, or to whatever the Bench has agreed in advance, with Exits.
+
+#### Promise-Chess: The Rules
+
+Ordinary chess, with one addition. At the end of each of your turns, write down, secretly, on a folded slip, the move you **promise** to make on your next turn (for example, *knight to f3*). On your next turn, unfold the slip. If the promised move is legal, you must make it. If it is not legal (the square is now occupied by your own piece, the piece was taken, the move would leave your king in check), you are **broken**: your opponent removes one of your pieces of their choice other than the king, and you may then make any legal move. You may write *I make no promise* instead of a move; if you do, your opponent may make two moves on their next turn. (Oatheners consider this rule generous.)
+
+**Quick roll.** Clauses: Eye + Reckoning, opposed. Promise-chess: Tongue + Clause, opposed, because the game is about drafting.
+
+**Cheating.** Clauses: marking the backs of the tiles with a fingernail, or a cough at the right moment to make an opponent forfeit (a Grim cheat; nobody may say whose cough it was, because to say so would be speech). Promise-chess: an ambiguous slip, *the knight to the bright square*, which an Oathener will dispute in silence for an hour.
+
+**Stakes.** None, officially. Oatheners will not wager, because a wager is a promise. In fact they play for **favours unspoken**: the loser does something the winner indicates by pointing, and the thing is never said aloud, and so, the players hope, never binds. Since the widening began, and pointing has come to count a little, Clauses-players in Tacit have started to lose fingers.
+
+**The horror around it.** In 640, a match of Clauses was played in the Stilled Gallery between two Clausewrights of the Bench to settle, without speech, a question of drafting for the Sayer's sentence. Both players were Tongue-line, and both were near the Course. The match went on for nine days in absolute silence. The Bench's clerks noted that neither player broke a vow in all that time. On the ninth day one of them placed a pebble on an open end, and the other, unable to lay there, drew the boneyard dry, and was broken; and in the gallery outside, the clerks heard a long, wet sound, like a book being opened by force. The broken player's ribs had opened outward. The clerk who records it notes that the rules of Clauses are only rules. He notes it twice.
+
+## The Fourth Asking
+
+[sigil: fast]
+
+The Unfed are not allowed games with plates, but they are allowed this one, because it is a game about saying no. Two players face each other: one offers, and one declines, three times, as is proper, and on the fourth asking chooses. The offer is held in a closed fist. It may be something good, or nothing, or the **crumb**, which is the one thing in the game that must never be taken. Children play it with pebbles and a bean. Elders of the Abstinent play it with ration chits. The Reckoners play it with knives in the fist, for training; the Tablebreakers play it, they say, with real bread.
+
+**Who and where.** Everyone in Wanting, in every household, after the Decline and before the cold meal; Crumb-Runners on the Hungry Lane to pass the night; Unfed exiles on the Rim, who teach it to Godeaters and watch, with satisfaction, how badly they play.
+
+**What you need.** Twenty pebbles per player, one bean or black stone per player (the **crumb**), and twenty more pebbles in a common bowl (the **Pantry**). Two players; for more, play in turn around a circle, each player asking the player to their left.
+
+#### The Rules
+
+1. **The asking.** The Asker turns away, hides 0, 1, 2 or 3 of their own pebbles **or** their crumb (not both) in a closed fist, and turns back, holding out the fist. *Will you have it?*
+2. **The Decline.** The Refuser must say *No, thank you.* The Asker may then put their hand behind their back and change what is in it (or pretend to), and ask again. This happens three times: three askings, three declines. The Refuser may watch the Asker's face, arms and shoulders, and the Asker may say anything at all about what is in the fist, truthfully or not, between askings.
+3. **Accepting early.** The Refuser may break custom and accept on the first, second or third asking instead of declining. This is a **scandal**. If they accept on the first asking, they receive three times what is in the fist (from the Asker's pebbles; if the Asker runs short, from the Pantry); on the second asking, twice. On the third, once. But if the fist holds the crumb, the scandal is total; see *Seated*, below, with the penalty multiplied the same way.
+4. **The fourth asking.** On the fourth asking, the Refuser chooses: **accept** or **decline**.
+- **Accept:** the Asker opens the fist. If it holds pebbles, the Refuser takes them. If it holds the crumb, the Refuser is **Seated**: they pay 5 pebbles to the Asker (10 or 15 for a scandal), and must sit out the next round, saying nothing, smiling.
+- **Decline:** the Refuser takes one pebble from the Pantry (their **Want**) and the Asker reveals the fist. If it held the crumb, the Refuser also takes one pebble from the Asker: they refused rightly.
+5. **Changing places.** Asker and Refuser swap, and play again.
+6. **The lean season.** When the Pantry is empty, declining earns nothing more. The lists have been cut.
+7. **The end.** Play ends when every player has asked ten times, or when one player has no pebbles left. The player with the most pebbles wins. The player with no pebbles left is **off the list**, and must stand with their back to the game until it is over.
+
+**Quick roll.** Eye + Instinct against the Asker's Tongue + Deceive.
+
+**Cheating.** Asking with an empty fist and a bean palmed in the other hand, to swap in at the last moment; for an Unfed, this is cheating twice, since it is a false offer. Godeaters who play it Partake to see through the fist, and an Unfed opponent who sees their tell will not play with them again.
+
+**Stakes.** Pebbles, chits, and among the Reckoners, the order of the raid: the winner chooses who goes in first. Among the young, it is played for the right to be the one who says *No, thank you* to a stranger at the gate, which Unfed children consider an honour.
+
+**The horror around it.** Unfed children are warned never to play the Fourth Asking with anyone they did not see arrive. Every family has the story of the child who played it in the dusk at the edge of the village, with a tall, kind, stooping stranger, and declined three times, beautifully, and on the fourth asking, accepted, because the stranger's fist was warm and smelled of honey, and because the stranger had said, between askings, *you have refused so well, and for so long, and you are so hungry*. Abstain Rooke, called Abby, has played the game this year more than any child in Wanting. She says she is getting good at it. She says she has been asked, lately, by someone who never puts the crumb in their hand at all, and who always seems sad when she declines.
+
+[pull] He asked me four times, and I said no three times, and then I thought, what's the fourth for, then, if not for yes? | — a child of Wanting, before the bell
+
+## Who Is Served
+
+[sigil: eighth]
+
+The Second Table does not gamble. It draws lots. At every practice dinner, before the courses come, the Carver of the table shuffles a deck of course-cards and deals them round, and the dozen at the table pass the cards among themselves, drawing blind from one another's hands, pairing courses and laying them down, until one member is left holding the **Dish**. The holder of the Dish does not carve at the next dinner and does not choose their course. The holder of the Dish, in the great meal to come, will be served last, and will take what is left. It is the most dreaded card in the Second Table's world, and the Trenchermen draw it with grace, and smile, and dab their mouths with their napkins, and are seen afterward, by their servants, sitting very still in their carriages.
+
+That is what the Second Table says the game is for. Its Scullions say that in the old days, and perhaps now, the Dish went not to a member but to the candidate brought to dinner that evening, who sat in the game and drew with the others and did not know what the cards meant.
+
+**Who and where.** The Second Table, in every land, at every practice dinner; its servants, below stairs, who play it with an ordinary deck because they have heard of it; and the children of great houses, who play it under the name *Old Mutton* and do not know what they are playing.
+
+**What you need.** From a standard deck, take the Aces through Sevens of all four suits (twenty-eight cards), and add one Queen (the **Dish**; traditionally the Queen of Spades). Three to eight players.
+
+#### The Courses
+
+| Card | Course | Card | Course |
+| Ace | the Hand | Five | the Sweet |
+| Two | the Fish | Six | the Word |
+| Three | the Bread | Seven | the Host |
+| Four | the Lid | Queen | the Dish |
+
+#### The Rules
+
+1. **The deal.** The Carver (dealer) shuffles and deals all twenty-nine cards face-down around the table. Some players will hold more than others.
+2. **The first serving.** Every player looks at their hand and lays down, face-up, every pair of the same rank they hold, naming the course aloud: *the Fish, served.* (A player holding three of a rank lays down two and keeps one.)
+3. **Drawing.** Beginning on the Carver's left, each player in turn holds out their hand fanned and face-down to the player on their left, who draws one card blind from it. If it makes a pair, the drawer lays the pair down and names it. Then the drawer holds out their own hand to the next player, and so on around the table.
+4. **Rising from table.** A player with no cards left has **risen**, and is out of the game, safe. Drawing skips them.
+5. **The Dish.** Play continues until every course is served and nothing pairable is left in anyone's hand. Whoever holds the Queen is **served**.
+6. **The Host.** The Sevens are paired and laid down like any course, but the Carver does not name them. The pair is set at the empty place, and is removed, unspoken, at the end of the game.
+
+**The blank line.** At some tables, the Carver shuffles in a thirtieth card before the deal: a blank card, or a card from another deck, or the Eight of any suit. It cannot be paired. When the game ends, the Carver collects it without looking at who held it. Members who ask what it is for are told that it is customary. Members who look at it, after the game, generally find that it was in their hand, and do not remember drawing it.
+
+**Quick roll.** Pure chance: everyone rolls 2d10 and the lowest is served; or Eye + Instinct, opposed, for a member who watches faces as the cards are drawn.
+
+**Cheating.** Marking the Queen's back with a fingernail, or holding it high in the fan where an incautious hand will draw it. A Carver who wants a particular member to draw the Dish deals it to them and watches who they offer it to; the Second Table's games are rigged as often as not, and everyone knows it, and pretends not to, because to accuse a Carver of cheating at Who Is Served is to accuse them of choosing a guest to be eaten, which is the whole point of the Carver.
+
+**Stakes.** Precedence at the meal to come. Below that, a wager nobody speaks: the holder of the Dish, if the table is short of practice, may be asked to volunteer a part of themselves for the next dinner. It is an honour. The Trencherman of the Bread at the Lastgate table, Sir Ambrose Tull, has drawn the Dish nine times in thirty years and has given, by now, the last three fingers of each hand, a kidney, and his left ear, all of which were served, and all of which were praised.
+
+[card: The Hand | Who Is Served | **Ace.** Grey, nine-jointed, roasted in its glove. Pair it and lay it down: *the Hand, served.*]
+[card: The Fish | Who Is Served | **Two.** A consommé of the Fathom, clarified through linen, served cold with salt from the morning bailing.]
+[card: The Bread | Who Is Served | **Three.** A small loaf of the toothed wheat, the teeth left in. Do not bite down.]
+[card: The Lid | Who Is Served | **Four.** Two eyes of the Lidded, pickled; one each; do not chew.]
+[card: The Sweet | Who Is Served | **Five.** A custard of caul, set in a highland mould, with a crust of burnt sugar.]
+[card: The Word | Who Is Served | **Six.** A sliver of tongue, laid on your own and let dissolve. You will not speak while you hold this card.]
+[card: The Host | Who Is Served | **Seven.** This course is not served. When the pair is made, lay it at the empty place. Do not name it.]
+[card: The Dish | Who Is Served | **Queen.** It cannot be paired. When the courses are cleared, whoever holds this card is served.]
+[card: (Blank) | Who Is Served | This card has no course. When the game ends, the Carver takes it back without looking. **Nobody remembers drawing it.**]
+
