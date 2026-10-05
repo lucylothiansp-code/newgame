@@ -117,18 +117,6 @@ It smells of oiled steel and carbolic, and of the blood that is always on a Wake
 
 [quick] Needle-Sergeant Liesl Corran, Felt House station, Bedside (thirty-four, lidless by her mother's line though not by her father's, which makes her an oddity; perfect recall of every face that has come through the Receiving Gate; she has noticed that four of the sleepers delivered this year were Wakers from her own station, and all four were in the Lessening) — Threat 3 · Flesh 12 · Guard 15 · Attack +6 (long needle 2, Waking) · Armor 1 · Dread 0
 
-#### Warmstone
-
-The ring of streets around the Pillow, at the exact centre of the Lid, behind the iron-spiked fence and the lamps on poles. It is the cheapest ground in the city and the most dangerous, because the bedrock under it is warm. Not hot: warm, like a sleeper's back under a blanket. Houses in Warmstone have floors of loose iron plates laid over the stone so that the warmth will not come through, and walls hung with tin, and still on Yawn days the whole district smells, faintly and unbearably, of clean linen. Those who live here are those who cannot afford anywhere else: the newly widowed, the very poor, the drifting, and a few of the Bedded, who come because they like it.
-
-Warmstone smells of linen and of the hot iron of the floor-plates. Its sound is the clank of those plates underfoot, which residents stamp on as they walk, deliberately, to keep each other awake; a Warmstone street sounds like a foundry full of people who are angry at the ground. It trades in almost nothing. It is where the Pillow-watch Wakers lodge, where the Bedded keep their quietest cellars, and where the Lessening's rented rooms look over the fence at the hollow.
-
-**Custom: the Stamp.** On entering a house in Warmstone, a guest stamps three times on the floor-plates and the host stamps three times back. It is a greeting and a test. A guest who forgets to stamp is watched closely all evening.
-
-**Danger: the Pillow's pull.** Within a few streets of the fence, Wants to lie down (see Playing a Vigilant in the core book) are triggered by the ground itself, once per scene. Children in Warmstone are tethered to their mothers with a cord on the wrist.
-
-[quick] Brother Quill Settle, Bedded Shepherd of Warmstone (sixty, soft-voiced, rested-looking, a former bell-sheet printer; he sits, illegally, with those who wish to lie down, and holds their hands, and hums; he has never yet helped anyone into the Pillow and says he never will; he keeps a list of every Warmstone household he has visited, and the Lessening would very much like it) — Threat 2 · Flesh 10 · Guard 11 · Attack +2 (none to speak of 1) · Armor 0 · Dread 1
-
 #### The Glass Spur
 
 A bare finger of rock projecting from the windward edge of the Lid, where the cold Grace winds hit hardest and nobody wants to live. The Glass House stands here: the long greenhouse of green glass divided into lamplit cells, where the contagious yawners are kept. Around it a small, odd district has grown up of the people who serve it: speaking-tube fitters, muzzle-makers, the keepers' families, and the Lamplighters' Glass Crew, who keep the Spur lit more brightly than any street but the Row, on a standing order that nobody can find the origin of. The houses on the Spur are built with their backs to the Glass House and no windows on that side.
@@ -230,7 +218,7 @@ The hamlet smells of sheep, peat-smoke and wet wool, and of the heather, which i
 [quick] Old Hob Withy, shepherd of Crookheather (eighty, the oldest Vigilant outside the city, blind in one eye and brown as a nut; he has sheared the Mile for seventy years and knows four thousand sleepers by face; he says one of them, a woman near the old milestone, has been inching east, toward home, a hand's width a year, for as long as he can remember) — Threat 2 · Flesh 11 · Guard 11 · Attack +3 (crook 2, Hooking) · Armor 0 · Dread 0
 
 [box: GM Advice — Using the Districts]
-Every district of the Vigil is built around a single way of staying awake: the Height by staring, Ludmere by shouting, the Row by light, Bedside by visiting, the Slope by the Ring, Blackmouth by rouse, Needlegate by pain, Warmstone by the stamp of iron on stone. When the party moves between districts, let them feel the change in technique as much as the change in scenery. Then let them find the place in each district where the technique fails: a Height house where the shutters are closed, a Ludmere rouse-house where the slate says nothing, a Slope ring with a gap in it. That gap is where the scene is. The settlements beyond the city do the same work on a larger scale, and each one is a place where something has started to change: the Stoop's ten is getting longer, the Steps' sleepers smile wider, the Mile's eyes are opening, the Deep Cut is breathing. Nobody up top has been told.
+Every district of the Vigil is built around a single way of staying awake: the Height by staring, Ludmere by shouting, the Row by light, Bedside by visiting, the Slope by the Ring, Blackmouth by rouse, Needlegate by pain, the Glass Spur by turning its back. When the party moves between districts, let them feel the change in technique as much as the change in scenery. Then let them find the place in each district where the technique fails: a Height house where the shutters are closed, a Ludmere rouse-house where the slate says nothing, a Slope ring with a gap in it. That gap is where the scene is. The settlements beyond the city do the same work on a larger scale, and each one is a place where something has started to change: the Stoop's ten is getting longer, the Steps' sleepers smile wider, the Mile's eyes are opening, the Deep Cut is breathing. Nobody up top has been told.
 [/box]
 
 ## Roads and Ways
@@ -349,19 +337,15 @@ The last line is a counting-rhyme, and the congregation goes on after the hymn e
 
 - "You want to know if I'm tired? Mister, I've been tired since I was four. Ask me something I can answer." — a Slope laundress, at her trough
 - "My job's to carry them in and lay them down gentle. I lay them like they were mine. Some of them are." — an orderly at the Receiving Gate
-- "I don't mind the needle. I mind the ones that don't flinch at it." — a Waker of eleven years
 - "Ma says when I'm big I'll get heavy. I'm going to be the first one who doesn't." — a starer of three, in a basket on Starers' Day
 - "Pinch me, love. No. Harder. There. Now tell me you'll still be here at first bell." — a bride at the Ludmere Bonfire
-- "The rich ones want you to pinch them like you're sorry. The poor ones want you to pinch them like you mean it. I charge the same." — a Pinchmarket nudger, nine
 - "Of course I visit. I go every day. I tell him about the roof. He never answers, but he never interrupts either, which is more than when he was awake." — a widow of Bedside
-- "Don't trust a sermon that makes you feel better. That's how you know it's the room talking." — a Smotherer preacher in Ludmere
 - "We render what comes in. I don't ask whose. If I asked whose I'd never stop asking." — a Burner of the Yards, in drink
 - "When you fall, you hear the whole cliff calling your name, all the way down. My da said it was the best thing he ever heard." — a Hangwell girl of twelve
 - "I've had the minute three times. Old Nod's lads pulled me up every time. Worth every tab. Worth my teeth. I'd do it again tonight if I had the money, and I'd stay if they let me." — a rope-twister of Thimble Lane
 - "A gentleman doesn't look away. A gentleman can't. That's what makes him a gentleman." — an eye-wetter on the Height, explaining the Regard
 - "I blew for the Yawn and nobody came up the street to thank me. You only get thanked here for hurting someone." — a horn-blower of Eastlip
 - "They say you can't sleep anywhere. I slept at the Last Beds. Laid down on the straw with my eyes shut, and the room came for me like a dog that knows your step, and the porter got me by the hair. I've never been so happy in my life as those four seconds." — a Vigilant mule-driver, at the Stoop
-- "The lamps are singing. Can't you hear them? On the fourth bell. High and thin, like a kettle. Like a kettle with a voice." — a Row shopkeeper, to a Seemer
 - "We don't use the word murder. We say *the general rows*." — a Dormitory clerk, unwisely
 - "I'd go to the room tomorrow if I knew my boy would be in the next bed. That's what they don't understand on the Height. It's not that we want to sleep. It's that everyone we love is already asleep." — a Slope mother, at a dark-meeting of the Bedded
 - "Don't sit on the kerb, child. The dead get to sit. You'll get your turn." — a grandmother at a Boarding

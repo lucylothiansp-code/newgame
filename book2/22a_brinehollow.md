@@ -1098,3 +1098,236 @@ Guests meet her at a Wreckwives' table, asking for advice she does not want.
 "New Davey brings her a shell every Low Water. Old Davey brought her a black eye every payday. You tell me." — a cannery woman
 "She's afraid of being happy. That's the most Brinehollow thing I've ever heard." — Reeve Calder Stokes
 [/box]
+
+### Dr. Isolde Reave — Surgeon of the Drowned Chest
+
+> "Hold the lamp lower. No, lower. Do you see it moving? Clockwise. Westward. It's a current, and it is not his."
+>> — Dr. Isolde Reave, to her apprentice, at the high-tide opening of a drowned fisherman, 637
+
+[stat: Isolde Reave — Surgeon of the Drowned Chest]
+Land & Cut: Brinehollow · Cut 2 · Regrowth 3 (the Taste) · Hunger 2
+Age & Station: 45 · lung surgeon of the Headland; lecturer to the Seamers
+Calling & Standing: Seamer · Standing 4 (Master Seamer)
+Attributes: Hand 4 · Gut 2 · Lung 1 · Eye 4 · Tongue 2 · Caul 3
+Skills: Stitching 5, Reckoning 4, Lore 3, Search 3, Resolve 2, Blades 1, Endure 0
+Flesh 10 · Guard 12 · Armor 0 · Fray 5
+Attacks: scalpel +5 (2)
+Gifts: Salt-Sense
+Wants: none active; To Keep Under is close (she hides her findings in a second hand)
+Knacks: Steady Hands; Butcher's Calm
+Derangements: none yet
+Carries: surgeon's case; the jar; a lead box of fourteen shells; the Current Book; spectacles; carbolic
+Dread: 1 (her rooms, at high tide, when the jars move)
+[/stat]
+
+#### Who They Are
+
+Thin and upright, with steel spectacles, iron-grey hair pinned flat and a leather apron stiff with brine and old blood. Her rooms on the Headland smell of carbolic and low tide. She speaks precisely and quietly and is impatient with anyone slower than she is, which is everyone. She hums when she works, not tunes, but long rising notes, and has not noticed that they are the same notes the Tenanted sing at Low Water.
+
+#### Their Story
+
+Born on Mile Two in 596, apprenticed at fifteen to Master Quillon Barr, later Surgeon to the Table, she opened her first Course chest at twenty-two. In 634 she opened a drowned man's chest at high tide and found the water in his lungs moving in a slow circle, westward, though he had been dead six hours. In the next she found a shell, alive, pink and whorled, of no known species. It is in a jar on her desk. It has grown to the size of a fist. In 638 she began opening chests that were not yet drowned.
+
+#### Their Place in the Land
+
+She is the coast's foremost lung surgeon: physician to the prince, certifier of deaths for the Admiralty (she signed the four hanged officers), teacher of the Seamers and the woman families bring their Course-stricken to. She buys the drowned from the Netwatch and the Underpier at 5 lacks a body. Her power is knowledge, and she trades it carefully.
+
+#### What They Carry
+
+- **Surgeon's case** — (+1 Stitching; can amputate) Barr's own, given her on his leaving.
+- **The jar** — the first shell, the size of a fist now, which turns slowly to face west and hums at the tide.
+- **A lead box of fourteen shells** — one from every chest she has opened since 638, living and dead. She keeps them apart. She has never laid them side by side.
+- **The Current Book** — her notes: rate, direction and volume of the water in every chest. The figures from the living are in cipher.
+- **Spectacles** — steel; she sees nothing without them, and the lenses fog with salt at the tide.
+- **Carbolic** — two pints, which she uses for everything, including her hands, until they crack.
+
+#### Wants, Fears and Secrets
+
+She wants to understand. She fears that she does: that the lungs of the coast are not diseased but *occupied*, and that what lives in them is the same everywhere.
+
+**Secret (the GM may reveal):** she has opened eleven living chests since 638, nine with consent, two without: a Lashings drunk she was certain would die anyway, and her own apprentice, Dorran Swell, under poppy, who still does not know. The shells are in the living too.
+
+**Secret she does not know:** the fourteen shells are not fourteen creatures. They are pieces of one. Laid side by side, edge to edge, they fit, and they make the first curve of a plate of black-lined slate, like the plates on Dromm's back in the oldest accounts. They are growing toward each other in the box.
+
+#### Ties
+
+- **Prince Aurel Vasht** — her patient. She told him the truth about his lungs. He has asked her to open his chest and show him.
+- **Master Quillon Barr** — her old master, now Surgeon to the Table on the Rim. She writes to him; he has begun asking for samples.
+- **Dr. Halloran Quease** — the Sallowreach physician; a correspondent. He catalogues pain. She has sent him a new kind.
+- **Brenna Kelp** — Reave's volume figures match Kelp's. They have met once, at night, and compared.
+- **Ilse Marl** — the choir-mistress heard Reave humming and asked where she learned the Low Water song.
+- **Dry Jonah Skerry** — sells her bail-water from the Vigil's brine-drinkers. Their lungs have shells in them too.
+
+#### In Play
+
+Guests meet her when they need a Course chest explained, a body procured, or a companion examined.
+
+- **The Procurement.** Reave needs a fresh drowned chest, opened within the hour, at high tide. The Netwatch has none tonight.
+- **The Apprentice.** Dorran Swell has begun to hum. He asks the Guests why there is a scar under his ribs.
+- **The Box.** A thief breaks into Reave's rooms; the shells are spilled and roll together on the floor, and fit.
+
+**If nobody intervenes:** Reave lays the shells together herself, in Lack, and sees. She opens her own chest that night, under a mirror, with steady hands. Her apprentice finds the Current Book's last entry in plain writing: *Direction westward. It is in me also. It is one thing.*
+
+[box: Said of Them]
+"She took my husband's body for five lacks and sent back a letter explaining exactly what killed him. Nobody ever explained anything to me before." — a Lashings widow
+"Isolde was my best pupil and the only one who frightened me." — Master Quillon Barr
+"She hums. Down there at Low Water they hum like that. I'd know it anywhere." — Ilse Marl
+[/box]
+
+### Hask Tarn — the Pilot
+
+> "Six fathom, sand bottom. Mind, it shelves. Now step where I step and don't look at the white patch. That's eleven fathom and no bottom at all, and it's listening."
+>> — Hask Tarn, leading a salvage crew past the Wreck Orchard
+
+[stat: Hask Tarn — the Pilot]
+Land & Cut: Brinehollow · Cut 2 · Regrowth 6 (the Appetite) · Hunger 3
+Age & Station: gives his age as sixty; the Admiralty rolls say seventy-four · Uncovered pilot
+Calling & Standing: Delver (the salvage crews) · Standing 4
+Attributes: Hand 3 · Gut 3 · Lung 3 · Eye 4 · Tongue 2 · Caul 3
+Skills: Wayfaring 5, Search 4, Lore 3, Instinct 3, Endure 1, Blades 1, Haggle 1
+Flesh 12 · Guard 14 · Armor 1 · Fray 4
+Attacks: gutting knife +4 (2)
+Gifts: Deep Breath; Tide-Sight
+Wants: The West (roused by the white patches, the places he lost the bottom); The Silence (roused by questions about 581)
+Knacks: Corpse-Road Walker; Light Sleeper
+Derangements: none
+Carries: sounding-lead; tarred oilskin; gutting knife; marker-stakes; the pilot's book of 581; a flask of rum
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Lean, weathered, stooped, with skin like an old sail and eyes narrowed to slits against the salt glare. Around his neck on a tarred cord hangs a sounding-lead, a seven-pound bell of lead with a hollow at the base for tallow, and he swings it as he walks, and calls depths no one else can see: "Six fathom here, sand bottom; mind, it shelves." He smells of tar, rum and the Uncovered. He is never lost.
+
+#### Their Story
+
+Hask Tarn was born in 567 on Mile Four, a pilot's son, and was holding the lead-line on his father's boat by ten. In 581, aged fourteen, he had the tiller one night far out off the Keelrow shelf while his father slept off a bottle, and steered them over a place where the lead struck something flat at forty fathom, and came up warm. He has never told that to anyone. He became a pilot himself, and in 588 piloted the *Steadfast* on the fleet's last voyage, a boy called Corvin Sund at his elbow on the lead. When the sea left he followed it on foot. In about 627 he decided he would be sixty, and has stayed sixty since.
+
+#### Their Place in the Land
+
+He is the best of the dozen pilots who guide salvage crews across the Uncovered, at 6 lacks a party a day. Kessa Drowle hires him to survey the slope. Salvage-brokers on the Gilt Mile pay him to read new ground before they bid. He navigates by remembered depth, and his memory of the sea floor is the map of the Uncovered. He will not go near the white patches, the places where he once lost the bottom, where the lead ran out of line. They are still there on the mud: pale, soft circles, bottomless, and on still nights they breathe.
+
+#### What They Carry
+
+- **The sounding-lead** — his father's. He arms the hollow with tallow, swings it, and reads what sticks: sand, mud, shell. On the Uncovered nothing sticks. He reads it anyway.
+- **Tarred oilskin** — (Armor 1) stiff as board.
+- **Gutting knife** — (knife, 2).
+- **Marker-stakes** — a bundle of twenty, painted with his mark, for the tracks he leaves for crews he trusts.
+- **The pilot's book of 581** — his father's, with one page in a boy's hand: a bearing, a depth, and the word *warm*.
+- **A flask of rum** — Saltwick, refilled at every tavern.
+
+#### Wants, Fears and Secrets
+
+He wants one more season's pay, and then one more. He fears the day his memory of the depths fails him, and he fears the white patches.
+
+**Secret (the GM may reveal):** he knows the way to the Stone Table; he steered over it in 581, and the lead came up warm. Cray Lobbett has been trying to make him say so for two years.
+
+**Secret he does not know:** he has begun to remember depths in places no ship of his ever sailed: west of the Trench edge, under the black water, down the long slope. The soundings come to him at night, exact, in fathoms, and they go down much further than any sea on the Table. They are not his memories.
+
+#### Ties
+
+- **High Admiral Corvin Sund** — the boy on the lead. Hask has refused his commission three times.
+- **Kessa Drowle** — his employer and drinking companion. He tells her where the ground will fall.
+- **Cray Lobbett** — begs him to confirm the table. Hask buys him drinks and changes the subject.
+- **Ilse Marl** — her chart matches his depths, except in eleven places, where it is deeper.
+- **Dagna Hull** — she wants him to pilot the *Follow*'s trial at the Trench edge. He has said maybe, which he has never said to anything.
+- **Gannet Shale** — he took her out once and brought her back. He believes her story.
+
+#### In Play
+
+Guests hire him. He is honest, sour, and worth every lack.
+
+- **The White Patch.** A crew member steps in one. Hask swings the lead out over the circle, and the line goes and goes, and something below gives it a slow, polite tug.
+- **Forty Fathom, Warm.** Cray Lobbett offers the Guests a fortune to get Hask drunk enough to give the bearing.
+- **New Soundings.** Hask begins calling depths that cannot be right. He is never wrong.
+
+**If nobody intervenes:** Hask pilots the *Follow*'s trial, and at the Trench edge calls a depth nobody has ever heard: a number, then another, steadily, out loud, all night, down into the thousands. In the morning his lead and line are gone, and he is sitting on the edge, smiling, counting.
+
+[box: Said of Them]
+"Hask says it shelves, it shelves. He's never been wrong. I'd follow him into the Trench. That's what scares me." — a Wreck Orchard salvager
+"He's been sixty for fourteen years. I'm not about to argue." — Purser-Clerk Aldo Penwarden
+"He swings that lead like he's asking the ground a question. Some days I swear it answers." — Kessa Drowle
+[/box]
+
+### Nerys Colm — the Half-Called
+
+> "Don't put your ear to the tube. I mean it. I'll talk, you listen from over there by the door. If I start to sing, leave. If I start to say your name, run."
+>> — Nerys Colm, through the wax-sealed door on Mile Seven
+
+[stat: Nerys Colm — the Half-Called]
+Land & Cut: Brinehollow · Cut 2 (the Cutwrights say 3; her mother was Tenanted) · Regrowth 10 (the Brink) · Hunger 5
+Age & Station: 28 · self-confined in the Netwatch barracks, Mile Seven
+Calling & Standing: none (once a net-mender)
+Attributes: Hand 2 · Gut 2 · Lung 3 · Eye 3 · Tongue 4 · Caul 4
+Skills: Resolve 4, Godsign 4, Instinct 3, Persuade 3, Athletics 2, Endure 2, Craft 1
+Flesh 12 · Guard 15 · Armor 0 · Fray 8
+Attacks: none she will use
+Gifts: Fathom-Body (one eye only sees in the dark); Voice of the Deep; The Invitation (Tongue + Godsign: she repeats what she heard in the surf; everyone who hears it, awake or asleep, makes a Calling roll at Dire (22), and a Guest who fails takes a Dread 4 check as well; she has never failed to make it work)
+Wants: The West; The Silence (she keeps it, mostly)
+Knacks: No Thank You; Silent Supper
+Derangements: The Pull (roused by Fray 8+ or the sound of surf)
+Carries: wax; slate; her mother's net-needle; a stone from Harbor End; Reef's bucket; the missing letter, once
+Dread: 3 (to hear her begin to say it)
+[/stat]
+
+#### Who They Are
+
+Wild salt-stiff hair, sun-burned skin flaking at the cheekbones, a net-mender's hard fingers. Her left eye is still blue. Her right eye has gone wholly black, wide and wet, and she sees out of it in the dark. Her voice is low and husky from disuse, and when she is tired a second voice moves under it, not a man's or a woman's, like a crowd far off. She jokes darkly and often, then goes silent for days.
+
+#### Their Story
+
+Nerys was born in 613 on Mile Five to Daw Colm, a ropemaker, and Coralie Fenn, who had been Called in 589 and come back. Her mother was kind, slow, heavy, and stood at the foot of the Hanging Abbey every Low Water without saying why. In 633 Coralie walked into the sea again and did not return. In 636 Nerys was Called. She walked from Mile Five to Harbor End, down the steps, and out into the surf, up to her chin. And then, uniquely in six centuries of record, she turned around. She walked back up the steps, wet to the hair, and asked the Netwatch to lock her up. She has heard the invitation in full. She can repeat it. Nobody who has listened to her has stayed ashore.
+
+#### Their Place in the Land
+
+She is a secret the Netwatch keeps and the whole Mile knows. She lives in a room above the net-loft with wax in the keyhole and a speaking-tube she will not use, by her own request. Lieutenant Sable Reef brings her food and books. The Deepening would give anything for her. The Admiralty wants her silent. The Wreckwives want to know what she heard.
+
+#### What They Carry
+
+- **Beeswax** — a pound of it, for the keyhole, the tube and her own ears at Low Water.
+- **A slate** — she writes on it when she must talk and does not trust her voice.
+- **Her mother's net-needle** — bone; she mends the Netwatch nets with it.
+- **A stone from Harbor End** — taken from the bottom step on the night she turned. It is still wet.
+- **Sable Reef's bucket** — Reef swapped buckets with her in 637. Neither has explained it.
+- **The letter** — she wrote the invitation down once, in a letter she meant to burn. It is missing.
+
+| d6 | Who Has the Letter |
+| 1 | Lieutenant Sable Reef took it to keep it safe, and has read it every night since. |
+| 2 | Mother Limpet; a Wader in the Netwatch stole it. She has not read it aloud yet. She cannot hear it. |
+| 3 | Commodore Lysander Vell, who plans to have it read at the Trench edge. |
+| 4 | Prince Aurel; it came to him in a weighted basket from the cellars. |
+| 5 | Nobody. Nerys did not write it. She dreamed she did, and the paper she found was blank and wet. |
+| 6 | It is in the indoor tide. It surfaces in cellars, a page at a time, in her handwriting. |
+
+#### Wants, Fears and Secrets
+
+She wants to know what made her turn. She fears she knows: under the chorus of the invitation there was an eighth voice, lower than the others, and it was hungry.
+
+**Secret (the GM may reveal):** the letter, and what it could do read aloud on a procession night.
+
+**Secret she does not know:** what turned her was her mother's voice in the chorus, saying *don't you follow*: the same words Coralie made Father Ebb swear in 589. And her mother walked in again in 633 not because she was called, but because something else was answering, and she went to stand in front of it.
+
+#### Ties
+
+- **Lieutenant Sable Reef** — keeper, friend, the only person she speaks to through the door.
+- **Father Ebb** — her mother's sweetheart. She has never heard his name.
+- **Mother Limpet** — wants her at the head of a procession.
+- **Prince Aurel Vasht** — has summoned her three times. She has refused, because she likes the sound of him.
+- **Coralie Fenn** — her mother. Twice Called. Gone.
+- **Ilse Marl** — has asked her to hum the invitation, just the tune, for the chart. Nerys is tempted.
+
+#### In Play
+
+Guests meet her through Lieutenant Reef, behind a door.
+
+- **The Missing Letter.** Roll on the table; follow it.
+- **The Eighth Voice.** Nerys asks the Guests whether anyone else has ever heard a hungry voice under the sea. Gannet Shale and Cray Lobbett both have.
+- **The Cliff.** Bring her to the foot of the Hanging Abbey at Low Water. Ebb will know her face; it is Coralie's.
+
+**If nobody intervenes:** on the night her letter is read aloud, Nerys takes the wax from her ears, opens the door, and walks down the Mile in silence with hundreds behind her. At Harbor End she turns again, and they do not.
+
+[box: Said of Them]
+"She makes me stand by the door. Two years. She's the bravest person I know and I've pulled three hundred out of the sea." — Lieutenant Sable Reef
+"The Colm girl's window: don't stand under it at Low Water. You'll hear her humming and you'll want to go for a walk." — a Mile Seven mother to her son
+"She turned around. Six hundred years, and she turned around. I would kneel to her if she'd open the door." — Mother Limpet
+[/box]
