@@ -226,3 +226,396 @@ Every attribute starts at 1. Distribute **9 points** among them. No attribute ma
 
 Each land's people favour the attribute their god favours, and the Table has jokes about all of them. A Sallowreacher can stitch anything but a conversation. A Fatlander can carry an ox and will want to eat it after. A Brinehollower can outrun you and out-hold-their-breath you and will not tell you where they are going. A Vigilant sees everything and remembers it, which is the problem. A Cradlewracker knows what is behind the door before they knock. An Oathener can talk you into anything, which is why they never do.
 
+## Step Five: Calling
+
+Your Calling is how you earn your bread. Each Calling gives:
+
+- **Calling Skills:** +1 to each of three listed skills (this may raise a skill to 4 at creation).
+- **A Calling Talent:** a unique ability.
+- **Standing 1** in the Calling's institution, guild or loose fellowship. Standing measures how much the Calling's people trust you and what they will give you. It rises from 1 to 5; each Calling has its own ladder of titles.
+- **Starting gear**, in addition to what you buy.
+
+The seventeen Callings below are found in every land, though they take local shapes. A Sallowreach Seamer sews the dead together; a Brinehollow Seamer opens drowned chests at high tide. The Carver may allow a Calling to take a faction's form described in the land chapters (a Waker as a Nightwarden, a Netwatch lieutenant as a Nightwarden, a Thin faster as a Purger, a Dream-Diver as a Delver).
+
+Each Calling closes with a testimony from someone who practises it and three **Calling Hooks**: situations the Carver can drop on a Guest of that trade, any one of which is a session. Players may pick one hook as the reason their Guest is on the road at all.
+
+### Seamer
+
+Surgeons, embalmers, bone-setters, suture-witches and stitchers of the dead. In Sallowreach they are the Guild that holds the country together; elsewhere they are the only people who will open a body and look at what is growing in it.
+- **Calling Skills:** Stitching, Endure, Reckoning.
+- **Talent — Tight Seams:** when you treat a wound, the patient recovers +2 Flesh. Once per session you may perform a **Reseat** on a character at 0 Flesh: roll Hand + Stitching vs Grim (18); on a success they do not suffer a new Injury from this Ruin.
+- **Gear:** a roll of needles and awls, gut and wire thread, a bone saw, a jar of vinegar, a flask of something for the pain.
+
+| Standing | Title | Grants |
+| 1 | Threader | Guild lodging, cheap thread, permission to practise |
+| 2 | Stitcher | Access to the guild's corpse-stock for practice; 10% off services |
+| 3 | Seamer | Your own clients; a Seamer's mark that opens hospital doors |
+| 4 | Master Seamer | Apprentices (2); a seat at guild councils; surgeries in any city |
+| 5 | Guild Elder | The guild acts on your word; Thessaly Mort knows your name |
+
+[pull] You learn to sew with the patient talking. Great-grandmother tells me which stitch she prefers. She has been dead since before the Licensing, and she is usually right. | — a Threader of the Lower Pilings, Lastgate
+
+**Calling Hooks:**
+- A Kept woman brought in for her spring restitching is wearing a left hand that is not hers. The stitches at the wrist are your own work, done last year, on someone else.
+- A Rim waystation pays a Seamer to open a traveller who died three days ago, well outside Sallowreach, and is still warm.
+- Dr. Halloran Quease needs an assistant to help him catalogue his four hundred and first kind of pain, and he pays in Closing-minutes.
+
+### Factor
+
+Clerks, buyers, caravan-masters and agents of the Rim Road Company and the merchant houses. They price everything, including you.
+- **Calling Skills:** Haggle, Reckoning, Clause.
+- **Talent — The Company Rate:** you buy at 20% less and sell at 20% more than listed prices on the Rim Road. Once per session you may produce a document (a letter of credit, a toll waiver, a manifest) that gets you or a cargo past a single checkpoint without a roll.
+- **Gear:** a ledger, ink, a Company seal, a set of bone-coin scales, a lockbox, 20 extra lacks.
+
+| Standing | Title | Grants |
+| 1 | Tally-Clerk | Lodging at Company waystations at half rate |
+| 2 | Factor | A line of credit of 100 lacks; a mule |
+| 3 | Senior Factor | Your own caravan contract; credit 500 lacks; 4 Wardens on hire |
+| 4 | Road-Master | Authority over a stretch of the Rim and its tolls |
+| 5 | Director | A voice in the Company's Oathen-sworn councils |
+
+[pull] Everything on the Table has a price. The trick is to be the one holding the ledger on the day somebody finds out what theirs was. | — a Senior Factor at Gristmoot market
+
+**Calling Hooks:**
+- A sealed Chute barrel you signed for last season has come back to your door, unopened. Inside is a letter in your own handwriting that you do not remember writing.
+- Notary Jessamy Quill has a fever. Company contracts on your stretch of road have begun, very slightly, to loosen, and your caravan is carrying one that must not.
+- A waystation's toll ledger records one more traveller every night than it has beds, and the extra one always pays in old coin.
+
+### Warden
+
+Road guards, sellswords, caravan muscle, bounty-collectors. The Rim Road Company employs ten thousand of them; the Admiralty and the Mortuary Court and the Board of Plenty employ more.
+- **Calling Skills:** Blades, Endure, Intimidate.
+- **Talent — Shield the Cargo:** when an adjacent ally is hit, you may take the blow instead (before damage is rolled). You gain +2 Armor against it.
+- **Gear:** a sword or axe, a crossbow and 12 bolts, boiled leather armor, a Company tabard or local equivalent.
+
+| Standing | Title | Grants |
+| 1 | Hired Blade | Steady pay (2 lacks a day on contract) |
+| 2 | Sworn Warden | Oathen-sworn contract; a mount |
+| 3 | Sergeant | Command of 6 Wardens |
+| 4 | Captain | Command of a waystation's garrison |
+| 5 | Marshal of the Rim | Command of a stretch of road and everything on it |
+
+[pull] Two lacks a day to stand between a cart and whatever wants it. Nobody's ever asked me which side I'd rather be on. I'd tell them, for three. | — a Sworn Warden at Saltmile waystation
+
+**Calling Hooks:**
+- Your caravan carries a sealed cage-cart. The manifest says *livestock*. The livestock says *please*, politely, every hour on the hour.
+- Your captain orders you to escort a Kept deserter back to Lastgate for trial. He must not cross the border, or he drops; he very much wants to.
+- A Company post-coach rolls in on time. Every passenger is still in their seat, smiling, eating air with good manners.
+
+### Cutwright
+
+Genealogists of the Cutwrights' College. They trace every bloodline back to the portion its ancestors ate. Their ledgers decide marriages, inheritances and executions.
+- **Calling Skills:** Lore, Reckoning, Search.
+- **Talent — Read the Line:** by examining a person for a few minutes (eyes, hands, teeth, the smell of their sweat), you can roll Eye + Lore vs Hard (14) to learn their land, their Cut, and their approximate Regrowth stage. With a Helping you also learn one Gift or Want they have.
+- **Gear:** a portable ledger of the major lines, calipers, a magnifying glass, a sample case of dried blood.
+
+| Standing | Title | Grants |
+| 1 | Copyist | Access to the College's public ledgers |
+| 2 | Surveyor | Travel papers; the right to demand an examination |
+| 3 | Lecturer | Access to restricted ledgers; College lodging anywhere |
+| 4 | Reader of Lines | Your rulings are accepted in courts of four lands |
+| 5 | Provost | You know where every god is regrowing fastest |
+
+[pull] I read a man's blood the way a priest reads scripture: slowly, and looking for the passage that damns him. | — a Surveyor of the Cutwrights' College, under examination by her superiors
+
+**Calling Hooks:**
+- The College sends you to examine a Scrapling family in the fen whose last three children were born with Hand-line hands. Somebody in the family has explaining to do, and nobody wants to.
+- Two noble houses await your ruling on a marriage. Both have offered bribes. One has offered a threat, and it was the more generous offer.
+- A page has been cut from the College's oldest ledger. You copied it as a novice. You are now the only record of what it said.
+
+### Clausewright
+
+Lawyers, contract-drafters and oath-makers, trained in Oathen and hired everywhere. Abroad they draft treaties; at home they draft the sentences by which the condemned are made to break themselves.
+- **Calling Skills:** Clause, Persuade, Lore.
+- **Talent — Exits:** you speak in careful conditionals. Once per scene, when you would be bound by your own words (an oath in Oathen, a contract, a promise sworn on the dead), you may declare the clause you buried in it: roll Tongue + Clause vs Hard (14) to escape the binding without penalty.
+- **Gear:** a quill-knife, a writing case, sealing wax, a copy of the Book of Conditions, a soft leather bit (in case).
+
+| Standing | Title | Grants |
+| 1 | Scrivener | Bench lodging in Tacit |
+| 2 | Drafter | You may witness contracts for fees |
+| 3 | Clausewright | The Bench recognises your drafting; foreign courts fear it |
+| 4 | Senior of the Bench | Treaty work; diplomatic immunity in three lands |
+| 5 | Chief Clausewright | You draft the sentence a Sayer speaks |
+
+[pull] As I now intend, and barring weather, illness, death, the will of the Bench and the god's own reading of the matter: good morning. | — a Drafter of Tacit, greeting her neighbour
+
+**Calling Hooks:**
+- A delegation from the Vigil wants a treaty clause that binds a whole city to stay awake. They want it drafted by Tablenight, and they want it to hold.
+- A merchant has finally found the Exit you buried in his contract twelve years ago. He has hired a Breaker, and he is not interested in conditionals.
+- You are asked to draft the Exit for this year's Sayer's sentence. If you get one word wrong, something in the world will be so forever.
+
+### Surety
+
+People who carry other people's oaths for a fee, taking the risk of the Breaking in their own bodies. In Oathen they are a profession; elsewhere, they are guarantors, hostages, co-signers, and the ones sent when somebody's word has to be backed by flesh.
+- **Calling Skills:** Endure, Clause, Resolve.
+- **Talent — Borne Weight:** you may take on another character's oath, debt or curse (with their consent and a ritual of a few minutes); the consequences of breaking it fall on you instead. You gain +3 Flesh permanently from the toughening that comes with the trade, and you ignore the first Injury each session.
+- **Gear:** a ledger of the oaths you carry (start with 1d6 small ones from paying clients, and 30 extra lacks), bandages, splints.
+
+| Standing | Title | Grants |
+| 1 | Bondsman | Small contracts |
+| 2 | Surety | Contracts worth hundreds |
+| 3 | Senior Surety | Noble clients; your scars are your credit |
+| 4 | Pledgemaster | The Rim Road Company's oaths |
+| 5 | Ledger-Bearer | Treaties between nations ride on your body |
+
+[pull] My left hand belongs to a spice merchant in Gristmoot. My knees are mortgaged to a marriage in Tacit. The rest of me is my own until Carving. | — a Bondswoman of the Breakdowns
+
+**Calling Hooks:**
+- A client whose Weight 3 oath you carry has vanished on the Rim Road with the goods he swore to deliver. If he breaks, you break. Find him before the deadline does.
+- A widow begs you to stand for her son's marriage vow. You have met the son. You know he cannot keep it. She is offering triple.
+- Your oldest bond has begun to ache, though its principal has done nothing wrong. Somewhere, the words themselves are changing.
+
+### Nightwarden
+
+The uncanny police of the Table: the Netwatch on the Brinehollow shore, the Wakers with their needles, the Echo-Wardens of the silent gorges, the Hostwatch trackers of the Fast, the Loft-Wardens of the Set-Aside. Their work is to watch for the god and drag people back from it.
+- **Calling Skills:** Instinct, Search, Intimidate.
+- **Talent — Seen It Before:** you gain +2 on Dread checks against horrors of your home land, and once per session, when someone near you fails a Dread check, you may grab, slap, needle or shout them back: they reduce the Fray gained by your Caul rating.
+- **Gear:** the local tools of the trade (boathook and net, needle and rattle, lantern and horn), a lantern, a whistle, a warrant.
+
+| Standing | Title | Grants |
+| 1 | Watcher | Pay, a beat, a warrant to detain |
+| 2 | Warden of the Night | Authority to enter homes |
+| 3 | Lieutenant | Command of a patrol of 8 |
+| 4 | Captain | A district |
+| 5 | Commander | The land's whole watch answers to you |
+
+[pull] We don't save them. We bring them back. People think that's the same thing for about a week. | — a Netwatch hooker of the Mile, Lowmark
+
+**Calling Hooks:**
+- A woman you hauled out of the surf last spring has thanked you every morning since, at your door, in a voice a little lower than it was.
+- The Wakers request a foreign Nightwarden for a blink-murder no local can be trusted to investigate, because every local was awake at the time and none of them remembers.
+- The ground on your patrol has been warm three nights running, in a line, and the line is heading toward your own house.
+
+### Renderer
+
+Butchers, slaughterers, salters, cooks and shippers of meat. In the Fatlands the Renderers' Union decides what leaves the country; on the Rim Road every inn needs a cook who does not ask questions.
+- **Calling Skills:** Blades, Feast, Labor.
+- **Talent — Know the Cut:** by taste, smell or a single cut, you can tell what a piece of meat used to be: species, age, and roughly how it died. On a Hard (14) Eye + Feast roll you can tell whether it was a person, and on a Helping, which one. You also gain +1 damage with cleavers and knives.
+- **Gear:** a set of cleavers and knives, a rendering hook, salt, a leather apron that will never be clean again.
+
+| Standing | Title | Grants |
+| 1 | Spit-Hand | Kitchen work anywhere |
+| 2 | Cutter | Union card; access to slaughterhouses |
+| 3 | Master Renderer | Your own shop or kitchen |
+| 4 | Barrel-Warden | You stamp the export barrels |
+| 5 | Union Boss | Every barrel on the Rim Road stops at your word |
+
+[pull] A good renderer doesn't ask what it was. A great one knows without asking, and keeps her mouth shut, and gets her Union card. | — a Cutter at the Chute
+
+**Calling Hooks:**
+- A barrel you stamped turned up in the Vigil with a sealed letter at the bottom: *tell my sister Merrin I was Reaped at Low Tilth.* Merrin has found out who stamped it.
+- The Union needs a renderer to taste a shipment before an inspector and swear on it that it is beef. It is not beef. Swearing is not a small thing anymore.
+- A Rim inn hires you as cook. The last cook left his knives, his apron and a notebook listing the guests by weight.
+
+### Midwife
+
+Trained by the Attendance of Cradlewrack or by the village wise-women of the other lands. They bring things into the world and decide whether they stay. Abroad, they are also the best surgeons of the belly on the Table.
+- **Calling Skills:** Stitching, Instinct, Rites.
+- **Talent — The Two Questions:** you can tell at a glance whether a living thing is what it appears to be (Caul + Instinct vs Routine 10 for the obvious, Hard 14 for a Tenanted, Grim 18 for a Seated). You also gain +2 on rolls to treat or deliver anything, of any kind, from any body.
+- **Gear:** an apron, birthing tools, a knife called the Second Opinion, cord-ties, a ledger of names.
+
+| Standing | Title | Grants |
+| 1 | Handmaid | Lodging with any midwife's house |
+| 2 | Midwife | You attend births alone |
+| 3 | Senior Midwife | Your Second Opinion is law in your district |
+| 4 | Matron of the Attendance | Command of a lying-in house |
+| 5 | Midwife-Paramount | You are the government |
+
+[pull] Three heartbeats. I give everything three heartbeats to show me what it is. Then I ask the second question, and I answer it, and I wash the knife either way. | — a Handmaid of the Attendance, Kest
+
+**Calling Hooks:**
+- A guest at a Rim inn has been in labor for three weeks. Nothing has come. The cellar door of the inn will not stay shut.
+- A shepherd arrives at your door, carrying, and begs you to let whatever he bears stay. He has already named it.
+- The Assemblers have offered you a fortune for the location of a delivery you attended last winter. They know it was a hand.
+
+### Crumb-Runner
+
+Smugglers, carters and night-haulers, who move food and contraband across borders the law says are closed. Despised by the people they feed.
+- **Calling Skills:** Stealth, Wayfaring, Deceive.
+- **Talent — Hidden Hold:** any cart, pack or boat you load has a hidden compartment that will not be found except on a Grace. You know one safe route between any two adjacent lands, and on the Rim Road you travel a third faster than others.
+- **Gear:** a handcart or mule, oilcloth, rope, a dark lantern, a forged travel pass.
+
+| Standing | Title | Grants |
+| 1 | Runner | Contacts in two lands |
+| 2 | Hauler | A safehouse; regular cargo |
+| 3 | Route-Holder | A route of your own and three runners |
+| 4 | Night-Factor | A network across three lands |
+| 5 | Boss of the Dark Road | The Company pays you to leave its cargo alone |
+
+[pull] They spit on me in the street at noon and wait at the gap in the wall at midnight. I don't mind the spit. It's wet. Nothing else in the Fast is. | — a night-hauler of Wanting
+
+**Calling Hooks:**
+- Your grain arrives warm, and smelling of new bread. Somewhere on the road, while you were not looking, something laid a table in your cart.
+- Three hundred starving Fatlands pilgrims want passage into the Fast, to find the table where they will finally feel full. They can pay. They know what happens. They want to go.
+- Your safehouse on the eastern route is a Seated house now. The family is at table. They have laid your place, and they are waiting, and they have your cargo.
+
+### Taker
+
+Bounty hunters, poachers and kidnappers: the people who catch Blanks for the surgeons, Called for the Netwatch, runaways for the Board, and Unfed for the trade. A loathsome calling, and a profitable one. Guests who take it are usually trying to stop.
+- **Calling Skills:** Wayfaring, Brawl, Search.
+- **Talent — Taken Alive:** you gain +2 on rolls to grapple, bind, track or subdue. Damage you deal can be declared non-lethal at no penalty. You can tell a Blank or an Unfed on sight.
+- **Gear:** manacles, a weighted net, a cosh, a cage-cart (or rights to one), sedative syrup.
+
+| Standing | Title | Grants |
+| 1 | Hand-for-Hire | Small bounties |
+| 2 | Taker | Notice of bounties in two lands |
+| 3 | Licensed Taker | A legal warrant in one land |
+| 4 | Huntmaster | A crew of 5; noble clients |
+| 5 | Purveyor | The Second Table buys from you directly |
+
+[pull] Every Blank's somebody's child, and every bounty's somebody's rent. I just carry the difference from one to the other. | — a licensed Taker on the Fast border
+
+**Calling Hooks:**
+- A new bounty for a Blank girl of fifteen matches, in every particular, your younger sister. Your sister is not a Blank. You were sure of that until today.
+- The Board of Plenty wants a runaway Gut-line heir returned before the Weighing. He has been fattened for a seat since birth, and he is begging you, between mouthfuls, not to.
+- A buyer in a silk mask wants an Unfed adult, unspoiled, untouched by any god, delivered alive by Tablenight. The fee is a house.
+
+### Celebrant
+
+Priests, rite-keepers, mourners and cult preachers: the Finishers of Sallowreach, the Bedded of the Vigil, the Deepening of Brinehollow, the Barren Order, the Quiet, the Starved Saints, and the hedge-priests of the Three Doctrines. Whatever they preach, they are the ones people come to when someone they love starts to change.
+- **Calling Skills:** Rites, Persuade, Resolve.
+- **Talent — The Words Over the Body:** once per scene you may lead a rite: everyone present who joins you removes 2 Fray. Once per session, you may preach to a crowd (Tongue + Rites vs Hard 14) to move it to an act of faith or fury.
+- **Gear:** vestments, a holy book of your doctrine, candles, incense or vinegar, a relic of doubtful origin.
+
+| Standing | Title | Grants |
+| 1 | Acolyte | Shelter in your faith's houses |
+| 2 | Celebrant | You may lead rites |
+| 3 | Elder | A congregation of 30 |
+| 4 | High Celebrant | A temple, a district, a flock of hundreds |
+| 5 | Prophet | They will walk into the sea if you ask |
+
+[pull] They come to me when someone they love starts to change. I tell them the god is merciful. Then I go home and wash my hands until the skin comes away, because I preach the Theft, and I know what we did. | — a hedge-priest on the Rim Road
+
+**Calling Hooks:**
+- A family asks you to bless the Closing of their Kept grandmother. Nobody licensed it. The grandmother has asked you, privately, not to.
+- A Bait-doctrine tract is found sewn into the lining of your vestments, in your stitching. You do not remember sewing it.
+- The dead of a Rim village, buried properly in ordinary earth, have stopped staying where they were put. They are asking for a priest by name. It is yours.
+
+### Gleaner
+
+Scavengers, salvagers, rag-pickers, grave-robbers and part-thieves: the salvage crews of the Uncovered, the gleaners behind the Fatlands harvesters, the diggers of the Sump. They know the worth of what others have left behind.
+- **Calling Skills:** Search, Filch, Craft.
+- **Talent — Something Worth Having:** once per session, in any place where people have lived or died, you find something useful: a tool, a coin purse, a key, a relic, a body part of value. Roll Eye + Search vs Hard (14); each Helping adds 10 lacks of value. You also halve the time it takes to search.
+- **Gear:** a pry-bar, a sack, a shovel, a lantern, gloves, a fence's name.
+
+| Standing | Title | Grants |
+| 1 | Picker | You know where the pickings are |
+| 2 | Gleaner | A fence who pays fair |
+| 3 | Salvage-Boss | A crew of 4; a claim |
+| 4 | Wreck-Lord | Claims across a district |
+| 5 | Master of Leavings | Every fence on the Rim knows your mark |
+
+[pull] Everybody leaves something. A ring, a tooth, a key, a name on a scrap of paper. The dead are generous. They've no use for any of it, and they never ask for it back. Mostly. | — a picker on the Uncovered
+
+**Calling Hooks:**
+- A wreck far out on the Uncovered still has its crew at their posts, dry as paper, and the captain's log is dated next year.
+- A Kept noble pays you to steal back his own right hand from the back-alley seamer who bought it. He can feel what it is being used for.
+- Mags Weir, Salvage Queen of the Uncovered, offers you her best claim for half shares. Her last three crews went out to it and went quiet.
+
+### Delver
+
+Explorers of god-places: the Dream-Divers of the Vigil, the Hushwalkers and surveyors of Sallowreach, the pilots of the Uncovered, the watchers at the Dilation, the trackers who follow the Host. They go where the god is closest and come back changed, if they come back.
+- **Calling Skills:** Athletics, Instinct, Godsign.
+- **Talent — Gone Under:** you may spend an hour preparing to enter a god-place (a Hush, the long room, the Trench, a crowning). While inside, you gain +2 to all rolls and reduce Fray gained by 1 (minimum 1). When you come out, gain 1 Hunger (or 1 Want, if Unfed).
+- **Gear:** a tether-line and harness, chalk, a compass that may not work, smelling salts, a death-mask or veil.
+
+| Standing | Title | Grants |
+| 1 | Novice | A patron who pays per descent |
+| 2 | Delver | Maps of the near reaches |
+| 3 | Veteran | Your own expeditions |
+| 4 | Pathfinder | State commissions |
+| 5 | The One Who Came Back | Your maps are the only maps |
+
+[pull] Everyone asks what it's like down there. It's like a room you've always known, and someone has only just left it, and the chair is still warm. | — a Dream-Diver after her second descent
+
+**Calling Hooks:**
+- A collector wants something carried out of a Hush: a sound, any sound, that was made inside before it fell silent. He has a jar ready.
+- The watchers at the Dilation need someone lowered into the crowning on a rope before the next pang. The last one sent down is still on the rope. The rope is moving.
+- A Dream-Diver's tether came back up cut cleanly, as if with scissors. You are being sent down to find the other end.
+
+### Purger
+
+Members of the Purgation: the cross-border movement that believes the gods can be thrown back up. Purgers range from gentle fasters and bleeders to the cells that burn high-Cut houses with the families locked inside.
+- **Calling Skills:** Feast, Rites, Stealth.
+- **Talent — Bring It Up:** you know the emetics, bleedings and fasts. Once per day, you may spend an hour purging yourself or a willing (or held) subject: roll Gut + Feast vs Hard (14); success removes 1d6 Hunger, a Helping removes 1 more, a Grace lowers Regrowth by 1 (only once per stage). The subject suffers 3 damage and is Weakened (−2 to all rolls) for the rest of the day.
+- **Gear:** a Purgation kit (emetics, lancets, leeches, a basin), a hair shirt, a hidden pamphlet, a list of names.
+
+| Standing | Title | Grants |
+| 1 | Penitent | Shelter in Purgation safehouses |
+| 2 | Purger | Access to the cell's resources |
+| 3 | Cell-Elder | Command of a cell of 6 |
+| 4 | Voice of the Purge | A district's cells |
+| 5 | The Clean Hand | You decide which bloodlines burn |
+
+[pull] Bring it up. Bring it all up. What comes out of you isn't you. That is the whole of the faith, and on bad nights, kneeling by the basin, it is the whole of the doubt. | — a Purgation penitent in Sated
+
+**Calling Hooks:**
+- Your cell has been ordered to burn a High Cut household on Tablenight. A Scrapling scullery girl who once hid you sleeps in its kitchen.
+- One of your purges ended in a Grace and the Regrowth went back. Now the Purgation calls it a miracle, the Board calls it treason, and a silk-masked noble calls it an investment.
+- A defector from the Thin brings you a Board list naming every Purgation safehouse in the south. One of the names is your mother's.
+
+### Reckoner
+
+Zealots out of the Fast who carry the Refusal across the border on a blade, killing the highest Cuts of the Godeaters in their beds. Nearly all are Unfed; a few are converts from Scrapling families who hate their lords. Taking this Calling makes you a wanted murderer in six lands.
+- **Calling Skills:** Blades, Stealth, Resolve.
+- **Talent — In Their Beds:** you deal +4 damage against an unaware target, and +2 damage against any target of Cut 3 or higher. You can sense godsign on a person (Caul + Instinct vs Routine 10) and estimate its Cut.
+- **Gear:** a long knife, a garrotte, dark clothes, a ration bag, a list of names with some crossed out.
+
+| Standing | Title | Grants |
+| 1 | Brother/Sister of the Knife | A cell's protection |
+| 2 | Reckoner | Your own targets |
+| 3 | Raid-Leader | Command of a raid of 6 |
+| 4 | Reckoner-Captain | Authority to declare a bloodline ended |
+| 5 | The Hand of Hallowboard | The Abstinent listen to you |
+
+[pull] I don't kill people. I end lines. Stand once in a High Cut bedchamber and smell what is breathing under the covers, and you will understand the difference. | — a Reckoner, under questioning in Lastgate
+
+**Calling Hooks:**
+- The next name on your list belongs to the family that hid your mother from the Takers when she was a girl.
+- A target is waiting up for you with the door unbarred and the lamp lit. He is at the Brink. He would like it done before he Seats and takes the house with him.
+- A brother of the knife has come home from a year undercover with godsign under his sleeves. The cell wants you to decide what he is now.
+
+### Scion
+
+The children of the Cuts who rule: the disinherited Heirs of Sallowreach, the Gut-line heirs being fattened for the Board, the lidless children of the Watch, the heirs of the Caul-lines in their membranes. A Scion has money, a name, a bloodline the god prefers, and a family that will not let them go. Requires Cut 3 or higher.
+- **Calling Skills:** Persuade, Lore, Godsign.
+- **Talent — The Name:** your family name opens doors. Once per session you may invoke it to gain an audience, a loan of up to 100 lacks, a bed, or the cooperation of a minor official, with no roll. The family will ask for something in return. Your Teeth add +1 each to the total when you Partake.
+- **Gear:** fine clothes, a signet, a horse or litter, a servant (Threat 1), a letter of introduction, 100 extra lacks.
+
+| Standing | Title | Grants |
+| 1 | Cadet | An allowance of 5 lacks a day |
+| 2 | Heir | A household of your own |
+| 3 | Lord or Lady | A seat in your land's councils |
+| 4 | Head of a House | The house's wealth and its feuds |
+| 5 | Great House | A crown, a bench, a court, or a hill |
+
+[pull] Mother says the god prefers our blood. Mother has not left her bed in nine years, and the bed has put down roots. | — a Gut-line Cadet, at a Sated dinner
+
+**Calling Hooks:**
+- Your family has summoned you home for a wedding. Yours. The match was settled when you were born, and the other party is a cousin of the closest kind the College still permits.
+- A silver fork arrives in a velvet box, with an invitation to a dinner on Tablenight and no name signed.
+- You find a Reckoner list with your name on it. Your name has been crossed out, neatly, in a hand you know.
+
+## Step Six: Skills
+
+Distribute **18 points** among the twenty-four skills. No skill may be raised above 3 with these points (Calling Skills may then go to 4). A skill at 0 can still be rolled; you simply add nothing for it.
+
+| Rating | Meaning |
+| 0 | Untrained. You have seen it done. |
+| 1 | Novice. You can manage when it is easy. |
+| 2 | Trained. A journeyman's competence. |
+| 3 | Expert. The best in a village. |
+| 4 | Master. The best in a city. |
+| 5 | Legendary. People travel to watch. |
+
+[box: The Twenty-Four Skills]
+- **Hand — Blades** (knives, swords, axes, cleavers, sickles), **Brawl** (fists, teeth, grappling, clubs), **Shooting** (bows, crossbows, slings, harpoons, thrown), **Stitching** (surgery, first aid, medicine, embalming, seaming the dead).
+- **Gut — Endure** (pain, poison, cold, exhaustion, disease), **Labor** (lifting, digging, hauling, breaking), **Feast** (eating the inedible, drink, drugs, tasting, cooking), **Intimidate** (threat by presence and size).
+- **Lung — Athletics** (running, climbing, swimming, dodging), **Stealth** (hiding, sneaking, shadowing), **Wayfaring** (travel, riding, driving, foraging, the Rim Road), **Filch** (pockets, locks, sleight of hand).
+- **Eye — Search** (finding, noticing, investigating), **Lore** (history, theology, the Cuts, the lands), **Craft** (making and mending things), **Reckoning** (numbers, ledgers, clocks, mechanisms, natural philosophy).
+- **Tongue — Persuade** (honest argument, charm, seduction, comfort), **Deceive** (lies, disguise, forgery), **Haggle** (prices, bribes, trade), **Clause** (law, contracts, the drafting of oaths).
+- **Caul — Resolve** (enduring horror, resisting compulsion), **Rites** (prayer, ritual, the doctrines, burial), **Instinct** (danger sense, reading people, the uncanny), **Godsign** (understanding and controlling the god in the blood).
+[/box]
+
+Every Guest should think about **Resolve**. It is the skill the Table tests most often and forgives least. A Guest with Resolve 0 is a Guest who will Break in the second session and keep breaking; that can be a fine thing to play, but it should be chosen and not stumbled into.
+
