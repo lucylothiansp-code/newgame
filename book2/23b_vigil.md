@@ -183,7 +183,7 @@ Age & Station: sixty-four (born 577); Chief Ringer of the Ludmere tower, under t
 Calling & Standing: none (an officer of the Hourkeeper; treated as Standing 3 in any guild matter)
 Attributes: Hand 3 · Gut 4 · Lung 2 · Eye 2 · Tongue 2 · Caul 4
 Skills: Labor 5, Endure 4, Resolve 4, Intimidate 3, Brawl 3, Reckoning 2, Instinct 3
-Flesh 16 · Guard 15 · Armor 1 (leather ringing-apron) · Fray 4
+Flesh 19 · Guard 15 · Armor 1 (leather ringing-apron) · Fray 4
 Attacks: bell-rope cosh +6 (3); fists +6 (1)
 Gifts: Deaf to the Hush (immune to The Lull, lullabies, the Catching Yawn and any power that works through sound). The Teeth (he feels the quarter in his jaw; on a Hard Caul + Instinct roll he knows when the city's time is wrong, by how much, and in which direction). Heavy-Eyed (as the Taste Gift).
 Wants: To count (Routine; he counts strokes aloud, and once he starts a peal, he will finish it, whatever is happening).

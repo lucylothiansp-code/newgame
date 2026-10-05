@@ -278,21 +278,21 @@ Dread: 2 (to see her client-cords move on their own)
 
 #### Who They Are
 
-Grandam Cess is very small, very old, and entirely toothless, her gums hard and pink and her jaw folded up under her nose so that her chin nearly meets it. Her skin hangs from the bones of her face in soft, fine, brown pleats, like a curtain drawn back, and her eyes inside the folds are black and wet and very quick. She wears layer on layer of shawls in canyon ochre and dust-red, and every one of them is knotted, at the fringe, with tiny tight knots of coloured thread, hundreds of them, so that she clicks faintly when she moves, like beads. She smells of cistern water, wet stone and old wool, and very faintly of the lavender she chews in place of teeth.
+Grandam Cess is tiny and toothless, her jaw folded up under her nose and the skin of her face hanging in soft brown pleats around black, wet, very quick eyes. She wears shawl on shawl in ochre and dust-red, every fringe knotted with hundreds of tiny knots of coloured thread, so that she clicks faintly when she moves. She smells of cistern water and old wool, and of the lavender she chews in place of teeth.
 
-Her laugh is the thing people remember: a wet, rattling, delighted sound like gravel being shaken in a bucket, which echoes off the cistern walls of Knot Canyon and comes back three and four times, and does not, apparently, bind her to anything. She talks a great deal for an Oathener, in a low, coaxing, grandmotherly voice full of endearments ("my duck", "my lamb", "my little debtor"), and she has the Course: what she says plainly has a way of becoming so. She is careful never to say anything plain.
+Her laugh is a wet, delighted rattle like gravel shaken in a bucket, and it comes back off the cistern walls three and four times. She talks a great deal for an Oathener, in a coaxing grandmotherly voice full of endearments ("my duck", "my lamb", "my little debtor"), and she is at the Course: what she says plainly tends to become so. She is careful never to say anything plain.
 
 #### Their Story
 
-She was born Cessaly Hune in 547 A.G., to a decayed Tongue-line household so minor that it had been married out of the Cutwrights' ledgers by her grandmother's day. At twenty-four, in 571, she swore to her dying infant son, "I will never leave you," and he died that week, and was set in the Witnessing Vaults; and his death did not release her, because the promise was hers, not his. She could not leave the Vaults. Her heels split when she tried to climb the stair. She lived for a month in the niche-corridors, fed by the Keeners, until an old woman came down with a lantern and sat beside her and offered her a greater oath.
+She was born Cessaly Hune in 547 A.G., to a Tongue-line household so decayed the Cutwrights had stopped recording it. In 571 she swore to her dying infant son, "I will never leave you," and he died that week and was set in the Witnessing Vaults, and his death did not release her, because the promise was hers. Her heels split when she tried to climb the stair. She lived a month in the niche-corridors until an old woman came down with a lantern and offered her a greater oath.
 
-The old woman was Grandam Oake, the Vow-Eater of that age, and the oath Cessaly swore over her son's bones was this: "To keep the book, and lie with my ear to the floor, and when the floor speaks, to call them all and bring them to the Gullet." The lesser oath went slack. She walked up the stair and into the sun. Oake died in 590 and left her the Knot Book and the warren and the four hundred clients in it, and Cess has added five hundred more. She has learned from the Book that Oake was given it by a Grandam Pell, who was given it by a Grandam before her, and that the first name in it, at the very front, written in a hand older than the Ledger, belongs to one of the forty who drew Tolm's tongue out on the third night of the Supper.
+The old woman was Grandam Oake, the Vow-Eater of that age, and Cessaly swore over her son's bones: "To keep the book, and lie with my ear to the floor, and when the floor speaks, to call them all and bring them to the Gullet." The lesser oath went slack, and she walked up into the sun. Oake died in 590 and left her the Knot Book and four hundred clients; Cess has added five hundred more. The Book records a line of Grandams before Oake, and the first name in it, in a hand older than the Ledger, belongs to one of the forty who drew Tolm's tongue out on the third night of the Supper.
 
 #### Their Place in the Land
 
-Knot Canyon is a dead-end gorge a mile west of Tacit, honeycombed with abandoned cisterns cut in the Honest Age, posted as silent and avoided by the Echo-Wardens because the cisterns ring. Cess lives in the deepest of them. Her clients come by night: brides sworn to the wrong man, soldiers sworn to impossible service, merchants who swore a delivery the road will not permit, children who said something before twelve. They swear on the dead, she writes them in the Knot Book and ties a thread for them in her shawl, and they go home free. In return they owe her a vow of their own choosing, worded for them by her: "to come when called," "to give what is asked," "to carry what I hand you." She has never called one of them.
+Knot Canyon is a dead-end gorge west of Tacit, honeycombed with Honest Age cisterns that ring, posted as silent and avoided even by the Echo-Wardens. Her clients come by night: brides sworn to the wrong man, soldiers sworn to impossible service, children who said something before twelve. They swear on the dead, she writes them in the Book and ties a thread for them in her shawl, and they go home free, owing her a vow she words for them: "to come when called," "to give what is asked," "to carry what I hand you." She has never called one.
 
-The Bench considers the Greater Word heresy, since an oath subordinated is an oath the god has agreed to overlook, and the Bench prefers to believe the god overlooks nothing. But nine hundred people is a great many families, and among them are two Benchers' daughters, a captain of the Canyon Watch and the Master of the Surety House, and so Knot Canyon is left alone. Ona Fell hates her, because each client Cess frees is a principal who no longer needs a Surety.
+The Bench calls the Greater Word heresy, but nine hundred clients include two Benchers' daughters, a captain of the Watch and the Master of the Surety House, so Knot Canyon is left alone. Ona Fell hates her: every client Cess frees is a principal who no longer needs a Surety.
 
 #### What They Carry
 
@@ -318,8 +318,7 @@ She is waiting for the floor to speak. She has slept with her ear to the stone f
 - **Yusra Thole** — Cess lay beside her on the shrine floor and heard the new heart under the Gullet. She laughed because she was frightened.
 - **Brakk** — owes her: his wife was freed by Cess from her own marriage vow after his betrayal, and the greater oath she swore was "to give what is asked." Brakk does not know.
 - **Captain Renn Hold** — she went up Wending Pass once, in 630, and offered him a greater word. He would not swear. She respects him more than anyone alive.
-- **Little Rue** — Cess has told Rue she cannot help her, because a promise to never grow up is not an oath you can put something heavier on top of. That was a lie, of the careful kind. She could. She will not.
-- **Ilan's mother, Tamsa Reeve** — came to Knot Canyon and was turned away. Cess does not take oaths from the bereaved within a year.
+- **Little Rue** — Cess has told Rue that a promise never to grow up is not one she can lay anything heavier on. That is true only in the careful sense: she will not, which in Cess's mouth comes to the same thing.
 
 #### In Play
 
@@ -360,23 +359,23 @@ Dread: 3 (the road behind him)
 
 #### Who They Are
 
-Up close Renn Hold is a coat of rusted mail with a man inside it who has not had enough to eat for fourteen years. He is burned nearly black by the white sky of the eastern heights, his face a dry hide stretched over strong bones, the lips cracked and scabbed, the eyes pale and red-rimmed and steady. His beard is long, matted and grey; he hacks it short with his sword when it gets in his mouth. The mail has rusted to his padding and the padding to his shirt, and the stink of him (rust, old sweat, goat-fat, the sour sweetness of a man living outdoors on scraps) carries thirty paces downwind. His captain's sash, once Watch red, is the colour of the rock.
+Up close Renn Hold is a coat of rusted mail with a starved man inside it, burned nearly black by the eastern sky, his face a dry hide over strong bones, his beard matted and grey and hacked short with his sword. The mail has rusted to his padding and the padding to his shirt, and the stink of rust, sweat and goat-fat carries thirty paces downwind. His captain's sash, once Watch red, is the colour of the rock.
 
-He stands very straight. He does not pace. He sits, when he sits, on the same flat stone at the head of the switchbacks, with the drawn sword across his knees, and his eyes go back and forth between the eastern approach and the road below him. His voice is a dry croak from disuse, and he uses it for three things: the roll, every evening; the demand, to every traveller; and thanks, once, when someone leaves him food. He is not mad. Travellers expect a madman and are thrown by how reasonable he is.
+He sits on the same flat stone at the head of the switchbacks, drawn sword across his knees, eyes moving between the eastern approach and the road below. His voice is a dry croak he uses for three things: the roll, every evening; the demand, to every traveller; and thanks, when someone leaves him food. Travellers expect a madman and are thrown by how reasonable he is.
 
 #### Their Story
 
-Renn Hold was born in 593 A.G. in the eastern canyon town of Dun Varrow, a drover's son, and joined the Canyon Watch at sixteen. He was a good, plain officer, more feared for his patience than his temper, and in 625 he was given the Fourth Regiment, four hundred young men and women, most of them nineteen. In the Carving of 627, Reckoners came out of the Fast through the eastern canyons, hunting a Tongue-line family that had fled to the eastern estates. The Fourth was sent to Wending Pass. Under the old form, the regiment swore together at the head of the pass: "We will hold Wending Pass against all who come, until death relieves us." Renn spoke it first. The canyon gave it back nine times.
+Renn Hold was born in 593 A.G. in Dun Varrow, a drover's son, joined the Canyon Watch at sixteen, and in 625 was given the Fourth Regiment: four hundred soldiers, most of them nineteen. In the Carving of 627 Reckoners came out of the Fast hunting a Tongue-line family, and the Fourth was sent to Wending Pass, where the regiment swore together in the old form: "We will hold Wending Pass against all who come, until death relieves us." Renn spoke it first. The canyon gave it back nine times.
 
-He looked down at the Reckoners on the morning of the third day: a hundred of them, the best killers on the Table, coming up the switchbacks in silence. He looked at his soldiers, at their thin necks and their bitted-groove mouths, children three years past twelve. He gave the order to fall back. He stayed. They obeyed. The sound of four hundred Breakings came up from the road like a rockfall, every soldier opening at every joint by which they had bound themselves to that ground: knees, hips, shoulders, the long joints of the spine. They did not die at once. Some of them did not die at all. The Reckoners came to the top, saw one man with a sword and four hundred behind him, and went home. Their captain, Scant Hollis, is said to have been sick by the roadside.
+On the third morning he watched a hundred Reckoners come up the switchbacks in silence, and looked at his soldiers, children three years past twelve, and gave the order to fall back. He stayed. They obeyed. The sound of four hundred Breakings came up from the road like a rockfall, every soldier opening at each joint by which they had bound themselves to that ground. Some of them did not die at all. The Reckoners saw one man with a sword and four hundred behind him, and went home. Their captain, Scant Hollis, is said to have been sick by the roadside.
 
 Sergeant Mags Carrow misheard the order and stayed beside him. In 629 he drafted, by himself, over a month, the only clause he has ever drafted, a release by which she could leave without breaking, and it cost her an eye. He has been alone since.
 
 #### Their Place in the Land
 
-Wending Pass is the main way through the high eastern canyons to the Rim, and the Unmade Road below it is the shortest route for Company caravans to the Vigil. Every drover, pilgrim and Company factor who uses the road must pass Renn Hold, and every one of them must swear to him: "I will hold this pass with you, for as long as you ask it of me." He looks at them a long time when they say it. Then he says, "I don't ask it," and lets them go. The oath binds for the space of one breath. He wanted them to have said it.
+Every drover, pilgrim and Factor who uses the Unmade Road must pass him, and every one must swear: "I will hold this pass with you, for as long as you ask it of me." He looks at them a long time. Then he says, "I don't ask it," and lets them go. The oath binds for the space of one breath. He wanted them to have said it.
 
-The Canyon Watch has not relieved him because it cannot: his oath was sworn to the pass, and nothing the Bench can say will move him. The Reckoners have not come back through the eastern canyons since 627. Drovers leave him flatbread, figs, goat's cheese and water on the cairn at the bend. In the Bench's minutes he is listed as an active garrison of one.
+The Watch cannot relieve him, since his oath was sworn to the pass. Drovers leave flatbread, figs and water on the cairn at the bend. In the Bench's minutes he is an active garrison of one.
 
 #### What They Carry
 
@@ -444,21 +443,21 @@ Dread: 0
 
 #### Who They Are
 
-Tavish Crook is plump in the way of a man who enjoys his dinners, with a round, rosy, clean-shaven face, merry brown eyes and a little pursed mouth that always looks about to ask something. He dresses beautifully: a coat of dyed Fatlands wool in plum and gold, a collar of white lace, rings on every finger but the thumbs, because he has no oaths outstanding, which is a joke Tacit has stopped laughing at. He smells of rosewater and fig-sweets. His voice is warm and light and constantly lifting at the end, so that everything he says hangs in the air like a hand held out.
+Tavish Crook is plump and rosy, with merry brown eyes and a little pursed mouth that always looks about to ask something. He dresses beautifully, in plum-and-gold Fatlands wool and white lace, with rings on every finger but the thumbs: he has no oaths outstanding. He smells of rosewater and fig-sweets, and his voice lifts at the end of everything, so that each sentence hangs in the air like a hand held out.
 
-He is a delightful companion. He is interested in everybody, and he asks about their children, their trade, their troubles, and listens to the answers, and remembers them. People leave a conversation with Tavish feeling warmly understood and slightly poorer.
+He is interested in everybody, and remembers what they tell him. People leave a conversation with Tavish feeling warmly understood and slightly poorer.
 
 #### Their Story
 
 Tavish was born in 591 A.G. to a pair of Slate-Clerks of the Bench, and he was meant for the Bench. At his Unbitting, in 603, before a Clausewright, in the Hall of Conditions, he was supposed to say "I am here," the safe words. He said, "Am I here?" The Clausewright laughed. Tavish did not. He was never sure, after that, that he had been answered.
 
-He failed the Examination of Exits in 611, on the eleventh hour of the day, when the examining Clausewright asked him whether he wished to continue and Tavish, exhausted, answered with another question, "Would you?", which the Clausewright judged evasive. He went into the markets that winter with nothing but a voice, and found that the voice, if it never once came to rest, could not be bound. He has spent forty years building a fortune out of questions, and he has never once in his life asserted a fact or made a promise: not to a customer, not to a lover, not to his mother on her deathbed, who asked him whether he would remember her and was answered, "How could I not?"
+He failed the Examination of Exits in 611 by answering the examiner's last question with another ("Would you?"), and went into the markets with nothing but a voice that, if it never once came to rest, could not be bound. In forty years he has never asserted a fact or made a promise: not to a customer, not to a lover, not to his dying mother, who asked whether he would remember her and was answered, "How could I not?"
 
 #### Their Place in the Land
 
-Tavish lives in the gap in Oathen law. A whole Oathener cannot lie, and so a whole Oathener who hears a confident question assumes a confident answer. Tavish sells casks that are not sound, mines that do not exist, shares in caravans that never left, and every bill of sale is a page of perfectly honest questions. The Bench has prosecuted him four times. In each Breaking trial he was asked to repeat the promise he had broken, and he did, word for word, in its original interrogative form, and nothing happened. Judge Thane Urrow is said to have smiled.
+Tavish lives in the gap in Oathen law. A whole Oathener cannot lie, so a whole Oathener who hears a confident question assumes a confident answer. Tavish sells casks that are not sound and mines that do not exist, and every bill of sale is a page of perfectly honest questions. In four Breaking trials he repeated his alleged promises word for word, in their original interrogative form, and nothing happened. Judge Thane Urrow is said to have smiled.
 
-He is an important man in the shadow trade of the canyon. He buys Forsworn paper as a joke and sells it on as a curiosity; he fences for the Breakdowns; he runs a book on whose fingers will snap next among the handtalkers. The Second Table has used him to move money. The Bench has used him, quietly, to say things to foreign envoys that no Oathener could say. He is welcome everywhere and trusted nowhere, and he likes it that way.
+He fences for the Breakdowns, runs a book on whose fingers will snap next among the handtalkers, and has moved money for the Second Table and carried messages for the Bench that no Oathener could say. He is welcome everywhere and trusted nowhere.
 
 #### What They Carry
 
@@ -472,7 +471,7 @@ He is an important man in the shadow trade of the canyon. He buys Forsworn paper
 
 #### Wants, Fears and Secrets
 
-He wants more: more money, more marks, more proof that the god cannot catch him. He fears the day the god learns to hear what he means. The rule has always been that meaning outweighs grammar: a question meant as a promise binds as a promise. Tavish's genius is that he truly does not mean anything. Forty years of discipline have hollowed out the part of him that could. He asks, and does not intend, and so he is free.
+He wants more: money, marks, proof that the god cannot catch him. He fears the day it learns to hear what he means, because meaning outweighs grammar, and a question meant as a promise binds. Forty years of discipline have hollowed out the part of him that could mean anything.
 
 **A secret the GM can reveal:** he lost a tooth this spring. A back molar, loose one morning and gone by evening, lying in his pillow like a seed. He had said, to a widow, the night before, "Would I lie to you?" and the widow had believed him, and he had felt, for an instant, that he wanted her to, and the god heard the wanting.
 
