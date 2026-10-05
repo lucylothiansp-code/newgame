@@ -70,6 +70,7 @@ function parse(file, opts) {
   const out = [];
   const push = (html, full = false) => out.push({ html, full });
   let land = landOf(path.basename(file));
+  let inPeople = /b_/.test(path.basename(file));
   let i = 0;
   while (i < lines.length) {
     const t = lines[i].trim();
@@ -93,12 +94,13 @@ function parse(file, opts) {
         const parts = text.split(/:\s+/);
         push(`<section class="opener" id="${id}">${l2 ? sigil(l2, "opener-sigil") : ""}<div class="opener-lines"></div><div class="opener-text"><div class="ch-num">Chapter ${chapterNo}</div><h1>${esc(parts[0])}</h1>${parts[1] ? `<div class="ch-sub">${esc(parts.slice(1).join(": "))}</div>` : ""}</div></section>`, true);
       } else if (lvl === 2) {
+        inPeople = /^The People of|^New Faces/.test(text);
         heads.push({ id, text, level: 2 });
         const big = /^The People of|^New Faces|^Webs of|^Using /.test(text);
         push(`<h2 id="${id}" class="${big ? "h2-break" : ""}">${esc(text)}</h2>`, true);
       } else if (lvl === 3) {
         heads.push({ id, text, level: 3 });
-        if (opts.kind === "people") {
+        if (opts.kind === "people" && inPeople) {
           persons.push({ id, name: text, land });
           const [nm, ep] = text.split(/\s+[—–]\s+/);
           push(`<div class="dossier-head full" id="${id}"><div class="dh-rule"></div><h3>${esc(nm)}</h3>${ep ? `<div class="dh-epithet">${esc(ep)}</div>` : ""}</div>`, true);

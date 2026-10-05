@@ -28,7 +28,9 @@ strong { color: #efe6d4; font-weight: 600; }
 em { font-style: italic; }
 a { color: inherit; text-decoration: none; }
 
-.cols { column-count: 2; column-gap: 0.32in; margin: 0.15in 0 0.2in; }
+.cols { column-count: 2; column-gap: 0.32in; margin: 0.12in 0 0; }
+.cols > :last-child { margin-bottom: 0 !important; }
+.cols + .dossier-head, .cols + h2 { margin-top: 0.2in; }
 .cols > * { break-inside: auto; }
 
 /* ------- headings ------- */
