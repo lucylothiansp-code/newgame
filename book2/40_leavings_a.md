@@ -149,7 +149,7 @@ The word is *company*. Every shelf in the Lofts has been whispering it for a yea
 
 Justice Ever Lathe of the Court of Wrongs has been Kept since 389 and has rotted down to bone, a few black tendons and a resident colony. His rulings are delivered in the buzzing, and a clerk translates. Nobody is sure any longer which of them is deciding. The colony is the court. And the colony breeds, and when it breeds it sheds: a living, seething clot of grubs and flies that drops from the hem of his robe in the robing room, and is swept up by an usher, and is sold.
 
-A cell is a jar of a few hundred white grubs and a dozen fat blue flies, nested in black matter best not asked about. Unlike every other fly in Sallowreach, these move in order. The grubs coil and uncoil together. The flies rise and settle as one, like a choir standing. If you hold the jar up and say something untrue, the buzzing in it rises in pitch, thin and angry.
+A cell is a jar of a few hundred white grubs and a dozen fat blue flies, nested in black matter best not asked about. Unlike every other fly in Sallowreach, these move in order. The grubs coil and uncoil together. The flies rise and settle as one, like a choir standing. Say something untrue near it, and the buzzing rises, thin and angry.
 
 A widow in the Sinks keeps one on her husband's chair at dinner and asks it whether he still loves her. She says it never lies.
 
@@ -229,7 +229,7 @@ A chandler's widow on Wick Lane keeps one under a glass bell, and says it is her
 
 Mother Gall can keep a body sound for a century in the right brine, and her cellar under Brinemoss holds four hundred customers in barrels, paid up in advance, all wide awake. The recipe she will not share. Her brine is sold, at twenty lacks a pot, and it works for a year. But the real thing, the thing that keeps four hundred people perfect, is not a recipe. It is a culture. It is a mother.
 
-Every vinegar has a mother, a slick of living matter that turns wine to sour. Mother Gall's has come down, she says, from her own mother, in a crock not empty since 402. It is a grey-white, rubbery, glistening disc the size of a dinner plate, layered like the leaves of a book, and it smells of dill and garlic and brine and, under them, very faintly, of lavender water, which was the scent her mother wore. It moves in the crock. It turns, slowly, toward whoever opens the lid.
+Every vinegar has a mother, a slick of living matter that turns wine to sour. Mother Gall's has come down, she says, from her own mother, in a crock not empty since 402. It is a grey-white, rubbery disc the size of a dinner plate, layered like the leaves of a book, smelling of dill and brine and, faintly, of the lavender water her mother wore. It turns, slowly, toward whoever opens the lid.
 
 Brinemoss says the old woman's mother is not in the crock so much as of it. Mother Gall laughs when asked. She cuts a slip for one customer in a generation; the only slip ever sold came from a barrel whose occupant passed it to a thief through a knot-hole.
 
@@ -402,7 +402,7 @@ The Finishers walk into the Hushes singing. Before they go, Sister Lorn of the S
 
 A pair of Shut-Eye pennies is as warm as an eyelid and soft enough to take a thumbprint, and each still holds the shape of the eye it lay on, down to a lash-mark. Laid on a sleeper's eyes, they bring a sleep with no dreams in it, deep and black and complete. Laid on the eyes of the Kept, they bring something the Kept have not had since they died: a few hours of nothing at all.
 
-The pilgrims who wore them did not come back. That is the point. The pennies remember the last thing those eyes saw before the grey, and on very still nights, those who sleep under them sometimes see it: a line of grey reeds, a door standing open, and Sister Lorn outside, waving.
+The pilgrims who wore them did not come back. The pennies remember the last thing those eyes saw, and on still nights their sleepers see it too: a line of grey reeds, a door standing open, and Sister Lorn outside, waving.
 
 **WHISPERED:** Eye + Lore vs Grim (18); Routine (10) among the Finishers.
 
