@@ -1193,9 +1193,9 @@ He wants to publish, and to finish the measurement. He fears the Board, and what
 
 He will pay adventurers very well to hold the rope: one hundred lacks each, and a share of the credit.
 
-- **Hold the Rope.** Dame Gammon is at the Seating; the opening is still there.
-- **The Filling.** The PCs match the silver to a molar found in a split ear of wheat.
-- **The Notes.** The Board wants them burned.
+- **Hold the Rope.** Dame Ottoline Gammon is at the Seating now, a warm mound filling her bedroom in the Fold, and the surgical opening has never closed. Paunch has the silk. The PCs hold the reel while he lets it down, and listen, and something at the bottom takes hold of the line and pulls.
+- **The Filling.** The silver smear on the chewed weight matches a molar found in a split ear of Low Tilth wheat in 638. Granny Cracknel can name the tooth's owner. The owner is still alive, and is a member of the Board.
+- **The Notes.** The Board's inner committee has learned of the four hundred pages and wants them burned; the Cutwrights want them copied; Dr. Mercy Thrane wants them carried to the Fast. Paunch wants the PCs to choose for him.
 
 **Threatened,** he gives up his notes. **Shown kindness,** he explains. **Faced with the god,** he measures. If nobody intervenes, he lowers the silk alone in 642, and it comes up chewed.
 

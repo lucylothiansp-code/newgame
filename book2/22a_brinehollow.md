@@ -818,7 +818,7 @@ She wants the boy. She wants him to come down out of the thin air and be warm, a
 - **Chamberlain Odo Bracewell** — the man who feeds her. She calls him "dear" and has asked him, very gently, when he will come down himself.
 - **Prince Cassian Vasht** — her son, Tenanted, whom she ate in 631. She remembers it as a visit.
 - **High Admiral Corvin Sund** — she signs his orders. She thinks of him as "the nice captain."
-- **Father Ebb** — they were young together on the Headland. She knows the name of his girl, and has sent the name up to him in the basket, once, unsigned, to see whether he would come down.
+- **Father Ebb** — she knew him as a Basketfoot fisher-lad who brought the palace its fish in the 580s. She knows the name of his girl, and has sent the name up to him in the basket, once, unsigned, to see whether he would come down.
 - **Justice Maren Oake** — the Passenger in the Justice visits the fourth stair once a year, alone, and the two of them speak below hearing.
 
 #### In Play
@@ -984,7 +984,7 @@ Guests meet him at dawn, at the door of anyone they are visiting. For a crumb, h
 **If nobody intervenes:** at the next Knotting Ottiline Hawse brings his name to the Bench, and the Bench, finding the cuts were kindness, finds them his. A boy cannot be loosed for life. The Bench looses him for one night. He walks.
 
 [box: Said of Them]
-"He's got hands like a little hammer and the voice of an angel and I'd trust him with my last breath. I have, twice a day." — Old Mags Netherby
+"He's got hands like a little hammer and the voice of an angel and I'd trust him with my last breath. I have, twice a day." — Mags Netherby, Bailers' Warden of Mile Fourteen
 "He looked in my bucket and went quiet. Nobody's ever gone quiet for me before." — a Lashings drunk
 "He's a good boy, and he's carrying something I'd not want my own to carry." — Ottiline Hawse
 [/box]
