@@ -298,3 +298,136 @@ This table is the Table's answer to sacrifice. The Long Grace contains no rite t
 In the last bad year in Low Tilth, the village drew lots among its children for the field, because the Cullmasters had taken all the debtors and the Reaping was still hungry, and a preacher of the Second Helping had come through on his way to Sated and said, smiling, that a gift freely given is sweeter. The lot fell on a cooper's daughter. Her father walked her to the field himself, because nobody else would, and he said the grace over her, and came home alone.
 The Reaping took eleven that Carving, the same as the year before. Pell Hogget wrote it in the Long Count, in the same column as all the others, with no mark to distinguish it. The cooper asked him to add a note. Pell said he did not know what the note would say. Neither did the cooper. He still asks, every Carving, and Pell still does not know.
 [/box]
+
+## Three Fights, Played Through
+
+The three fights below are told the way they happen at the table, with every roll shown. They use the company from *The Grace Roll*. For quick reference:
+
+[quick] Ressa Weir (Brinehollow, Nightwarden) — Flesh 12 · Guard 17 · Attack +5 (Netwatch boathook 4, Hooking, Reach) · Armor 1 (oilskin) · Initiative 1d10 + 6 · Cut 2, one Tooth
+[quick] Halloway Brisk (Fatlands, Renderer) — Flesh 15 · Guard 16 · Attack +8 (cleaver 4 with *Know the Cut*, Ripping) · Armor 1 (hide coat) · Initiative 1d10 + 4 · Cut 2, one Tooth
+[quick] Tolly Fane (the Vigil, Crumb-Runner) — Flesh 10 · Guard 15 · Attack +3 (knife 2) · Armor 0 · Initiative 1d10 + 7 · Stealth 4, Filch 2 · Cut 2, one Tooth
+[quick] Abate Kell (the Fast, Tablebreaker) — Flesh 14 · Guard 17 · Attack +7 (Tablebreaker's axe 5, Brutal, Two-Handed) · Armor 1 (padded) · Initiative 1d10 + 5 · Unfed, Want 3
+
+### Fight One: The Hooks at Gannet Reach
+
+*Ambush, Hooking, a Called Shot, a Grace, and morale.*
+
+Gannet Reach has gone Uneasy (see *Madness in the Community*). An old man has denounced his daughter-in-law as Tenanted, and the company has hidden her. At midnight, walking back along the village's short pier, they are waited for: four Netwatch hookmen under the pier-lamps, sent by a lieutenant who wants the woman, and the strangers who hid her.
+
+[quick] Netwatch Hookman (4) — Threat 2 · Flesh 12 · Guard 13 · Attack +5 (boathook 4, Hooking 14) · Armor 1 · Dread 0
+
+**The ambush.** The hookmen are crouched among the bait-barrels. The Carver rolls Lung + Stealth for them as Threat 2, and takes the *lowest*: 13 + 2 = 15. The company rolls Eye + Search and takes the *highest*: Tolly, Eye 4 + Search 3, rolls 3 and 2 for 12. The hookmen win by 3: a surprise round, but with no Helping, the Guests are not unaware and keep their Guards. Ade asks whether Abate can feel it coming. The Carver allows Caul + Instinct at Hard (14): Abate has Caul 4, Instinct 2, and rolls 9, for 15. He acts in the surprise round, last.
+
+**Surprise round.** Hookman A swings for Ressa: 8 + 7 + 5 = 20 against Guard 17. A hit, by 3: no Helping. The boathook's iron beak takes her across the ribs: 4 damage, minus her oilskin's 1. Ressa is at 9.
+
+Hookman B goes for Halloway: 6 + 6 + 5 = 17 against Guard 16. A hit, and a pair: a **Grace** for the hookman. The Grace grants a Helping and a Mangling. He spends the Helping on **Hooking**, giving up its damage to drag her a pace toward the pier's unrailed edge (Halloway may resist with Lung + Athletics at Hard 14; Dev rolls 9, and fails). The hook does 4, minus 1: Halloway is at 12. The Mangling: a d20 shows 7, **The Ear**. "The hook goes in behind your ear and comes out the front of it," says the Carver, "and the ear goes with it, mostly. It's hanging on a flap. You can feel it slapping your jaw when you move." Ressa and Tolly, who care about her, make Dread 2 checks; both hold, and take 1 Fray.
+
+Hookmen C and D both miss. Then Abate, last: his axe into Hookman D, 7 + 5 + 7 = 19 against Guard 13. One Helping, and the axe is Brutal, so the Helping adds +3: 5 + 3 − 1 = 7. Hookman D is at 5.
+
+**Round one.** Initiative: Tolly 15, Ressa 12, Abate 10, the hookmen 9 (rolled once, for all), Halloway 7.
+
+Tolly kicks the nearest pier-lamp off its post. It goes over the side and smashes forty feet down on the dry seabed. One lamp remains: **dim light**, −2 to attacks for everyone outside its circle. The hookmen are under it. The Carver rules that attacks *against* them ignore the dim light; theirs, out into the dark, suffer it.
+
+Ressa knows how hookmen fight, because she taught half of them. She makes a **Called Shot** at Hookman A's hands, −2: 9 + 6 + 5 − 2 = 18 against Guard 13. One Helping. She spends it on the Called Shot's effect: the weapon drops. Her own boathook raps his knuckles and his hook goes clattering down between the boards and off the pier. The rest is damage: 4 − 1 = 3. A is at 9 and has no weapon. "Sergeant Weir," he says. She does not answer.
+
+Abate swings at Hookman D again: 6 + 3 + 7 = 16. A hit with no Helping: 5 − 1 = 4. D is at 1.
+
+The hookmen. B tries to finish dragging Halloway off the edge: 4 + 2 + 5 − 2 (dim) = 9. A miss. C swings for Tolly: 9 + 8 + 5 − 2 = 20 against Guard 15. A hit with one Helping, which C spends on Hooking: Tolly is knocked flat. 4 damage: she is at 6.
+
+Halloway, hooked and dragged and bleeding from the side of her head, does what the opening of this chapter describes. She lets go of the idea of stepping back, steps *in* along the pole, inside its reach, where a boathook is no use to anyone, and puts the cleaver into Hookman B where his neck meets his collarbone. 8 + 7 + 8 = 23 against Guard 13: two Helpings. 4 + 4 = 8, Ripping, minus 1: 7. B is at 5, and bleeding 1 a round. He sits down. He keeps looking at her.
+
+**Round two.** Abate cuts Hookman D down: 10 + 7 = 17, one Helping, 5 + 3 − 1 = 7. D is at 0: **Ruin**. He collapses, Dying; the Carver rolls his Injury on the Mangling table (d20 with +2 for the Brutal axe): 11 + 2 = 13, **Severed Fingers**. Three of them, on the boards.
+
+Now the hookmen have lost half their number (D down, B sitting in his own blood) and they have seen a Mangling. **Morale**: 2d10 + 2 against Hard (14). The Carver rolls 4 and 3: 9. They break. Hookman C runs, back up the pier toward the village, shouting. Hookman A, who has no hook, **Yields**: he kneels and puts his hands on his head. He is nineteen. He used to call Ressa *Sarge* and bring her herring.
+
+**After.** Halloway kneels by Hookman B. She could finish him. Dev decides she ties off the wound instead (Hand + Stitching, Routine 10: 13, success): the bleeding stops. Tolly stabilizes D (first aid, 11, success: 1 Flesh). Nobody has died. Ressa's Fray is 6; she is Rattled. The village has seen its own Netwatch break against the strangers, and the Carver adds +1 to the Pall of Gannet Reach for a public fight, and then −1 again, because nobody was killed, and the old man who denounced his daughter-in-law has come down to the pier in his nightshirt and is helping Halloway carry Hookman B to the chapel.
+
+[pull] I've been hooked by better, Sarge. That's all I'm saying. I've been hooked by better, and none of them ever let me up. | — Netwatch hookman, nineteen, after
+
+### Fight Two: The Stock-Room Under Clench Row
+
+*Fighting the Kept, fighting in the dark, dismemberment, and a Grievous blow.*
+
+Following the cedar and the brine from the investigation in *The Grace Roll*, the company has found Marrow Jack's stock-room in a drowned storey under Clench Row in the Sinks of Lastgate: a low cellar half full of black water, shelves along the walls, and on the shelves, hands, labelled. Jack is not at home. His door-wardens are: three Unstitched Kept, sewn together from what was left after Jack took what he could sell.
+
+[quick] Unstitched Kept (3) — Threat 1 · Flesh 12 · Guard 10 · Attack +4 (teeth and loose hands 2, Grapple 12) · Armor 0 · Dread 2 · Unending; any Helping against it severs a limb, which keeps fighting on its own (Threat 0, Flesh 3, Attack +2, 1)
+
+**Dread.** The Kept come up out of the water toward the lantern. Dread 2, Hard (14). Halloway rolls 17 (holds, 1 Fray). Ressa rolls 16 (holds, 1 Fray). Abate rolls 16 (holds, 1 Fray). Tolly rolls 8, plus Caul 3 and Resolve 2: 13. She fails, and takes 2 Fray.
+
+**Initiative.** Tolly 14, Ressa 11, Abate 9, the Kept 8, Halloway 6. Tolly holds the only lantern, which makes her the **lamp-bearer**: she sees ten paces and everything beyond sees her.
+
+**Round one.** Tolly backs toward the stair, keeping the light up. Ressa sets her boathook into Kept 1: 7 + 6 + 5 = 18 against Guard 10, two Helpings. Against the Unstitched, any Helping severs a limb: the hook takes its left arm off at the old seam, and the damage is 4 + 4 = 8. Kept 1 is at 4. The severed arm drops into the water. The Carver rolls a d6 for it: 3. It crawls toward the nearest warm body.
+
+Abate brings the axe down on Kept 2: 5 + 5 + 7 = 17. A hit and a pair: a **Grace**. The margin of 7 gives one Helping, and the Grace adds another: two Helpings, each worth +3 on a Brutal weapon. 5 + 6 = 11 damage, no Armor. Kept 2 is at 1. The Grace inflicts a Mangling: d20 + 2 for the Brutal axe, 13 + 2 = 15, **Severed Hand**. It goes into the water with the arm.
+
+The Kept act. Kept 3 goes for the light, which is to say for Tolly: 6 + 6 + 4 = 16 against Guard 15. A hit, and a Grace. The Grace's Helping becomes a **Grapple (12)**: it has her. Its Mangling: d20 shows 1, **Laid Open**: a long shallow tear down her forearm where its broken fingernails went in, bleeding 1 a round. Damage 2: Tolly is at 8. She drops the lantern. It hits the black water and goes out.
+
+**Darkness.** Everyone now fights at −4, and every Guard counts as 10 + Lung only. The Kept do not need to see: they grasp, and they smell the living. Kept 1 swings at Ressa in the dark (3 + 4 + 4 = 11, against her darkened Guard of 14): a miss. Kept 2, with one hand left, gropes for Abate and misses.
+
+Halloway has to find something to hit. The Carver rules that the Kept holding Tolly needs no finding roll, because Tolly is screaming. Halloway makes a **Called Shot** at its arm's joint (−2) in darkness (−4): 9 + 8 + 8 − 6 = 19 against Guard 10. Two Helpings. The cleaver goes through the Kept's elbow, and the arm comes away with Tolly still in its grip; she tears the fingers off her own coat. Damage 4 + 4 = 8: Kept 3 is at 4. The severed arm's d6 shows 6: it goes somewhere else, slithering away along the shelves in the dark, and the Carver writes down where.
+
+**Round two.** Tolly loses 1 Flesh to bleeding (7). She spends her action striking a light: flint and the stub of a Tallow candle from her pocket. The candle whimpers as it catches. **Dim light**: −2 now, not −4.
+
+Ressa hooks Kept 1 again: a hit, 4 damage, and it is at 0. It is **Undone**: it stops for 1d6 rounds (the Carver rolls 2), then it will get up with 1d6 Flesh. Abate hits Kept 2 for 5: Undone, for 4 rounds.
+
+Kept 3, with one arm and 4 Flesh, does not attack. It **begs**. "Please. Please, I'm paid in thread. He gives us thread for the holding of the door. I've only the one arm now, please, I need the thread." A Kept that begs is Dread 2 to keep fighting. Halloway rolls and holds. She lowers the cleaver anyway.
+
+**Taking them apart.** Kept 1 and Kept 2 will rise in a few rounds. Abate does what the Fast taught him to do to a table. He stands over Kept 1, which is lying in the water, Undone and **prone**, and brings the axe down: 4 + 4 + 7 = 15 against Guard 10. A pair, a success: a **Grace**, with a Brutal weapon, against a prone target. That is a **Grievous** blow. The Carver rolls on the Grievous table: 20, **Taken Apart**. "It comes to pieces," she says. "Not like meat. Like a cupboard of things that were put away badly. The pieces go on. In the candlelight you can see them in the water, separately, and some of them are trying to find each other."
+
+Dread 4, Dire (22), for everyone who sees it. Abate rolls 20 and takes 4 Fray. Ressa rolls 14 and takes 4 Fray. Tolly, who was nearest, rolls 17 and takes 4 Fray: she is at 11, and she **Breaks**. Sunniva and the Carver decide together. Tolly sits down in the black water among the pieces and begins, very calmly, to count them aloud, and will not stop until she has the number, and the number is always one short. (They roll on Table One anyway, for form's sake, and it comes up 6, **The Count**. The Carver says that will do.) Everyone else who witnesses the Break makes a Dread 2 check for contagion. Ressa, at Fray 9, fails. She hears the count, and she starts counting too, under her breath.
+
+**After.** Kept 3 tells them, for a promise of thread, where Jack sold the Clench Row hands: to a buyer from the Vigil, a quiet man who smells of cedar and asked specifically for left hands. Nothing in the room can be killed. The company leaves it as they found it, plus pieces. Tolly bleeds until Halloway binds her on the stairs. They do not take any of the hands. Then, at the top of the stairs, Halloway goes back down and takes one, the one labelled *Hessa Coombe*, wrapped in its own paper, to give back to its owner. Ressa is still counting.
+
+[pull] You can't kill anything in Lastgate. You can only make it smaller, and spend the rest of your life knowing where all the bits went. | — Seamers' Guild apprentice saying
+
+### Fight Three: The Dusk Shift at Sallet Bottom
+
+*A mob, holding the line, a ritual killing, a Yield, and a fight that changes nothing.*
+
+This fight happens a season before the hill at Hessop's Furrow. At Sallet Bottom, a Fatlands village two days south of Sated, the Cullmaster's dusk shift is going out: two debtors, bound at the wrists, walked to the edge of the far field by Cullmaster Ambry Loin and three Cull-bailiffs, while the village watches from the lane behind a hedge. The village has been told that if the field is not fed, it will feed itself on their children. Most of them believe it. Some of them are holding pitchforks.
+
+[quick] Cullmaster Ambry Loin — Threat 3 · Flesh 13 · Guard 14 · Attack +6 (Cullmaster's sickle 4, Hooking, Ripping, Silent) · Armor 1 · Dread 0 · Rites 4
+[quick] Cull-Bailiff (3) — Threat 2 · Flesh 14 · Guard 12 · Attack +5 (cudgel 3, Grapple 14) · Armor 1 · Dread 0
+[quick] Villagers of Sallet Bottom (12, a mob) — Threat 3 · Flesh 60 · Guard 13 · Attack +6 (pitchforks, flails, a cleaver 5) · Armor 0 · Dread 0 · breaks at half number unless a preacher holds it
+
+**Too late.** The company comes over the rise as the light goes red. The first debtor, a widow named Petty Furrow, is already at the field's edge with the Cullmaster's hand on her shoulder. The Carver does not let them reach her. Nobody could have. The Cullmaster performs the rite: a **ritual killing**, Tongue + Rites against Grim (18) because she is begging, and he rolls 16 + 3 = 19. It succeeds. The Carver does not describe it. She describes the sound the wheat makes, though there is no wind, and the shape of Petty Furrow's shoes lying neatly side by side at the edge of the first furrow, and the bailiffs looking at their boots. Dread 3, Grim (18), for the company. Halloway, who is from a village like this one, fails, and takes 3 Fray. Then the Cullmaster rolls a d10 to see what the rite has bought. It shows 2. **Nothing.** He will write in his book that it went well.
+
+The second debtor is a young man named Crust Leggat. He is sixteen, and his debt is his father's. The company goes down the hill.
+
+**Initiative.** Tolly 16, Ressa 13, the Cullmaster 12, Abate 11, the bailiffs 9, Halloway 8, the mob 7.
+
+**Round one.** Tolly does not fight. She goes for Crust's bonds: Hand 2 + Filch 2 against Hard (14), and rolls 11, for 15. The cord parts. Crust runs.
+
+Ressa and Abate take the gap in the hedge, where the lane meets the field: a yard wide, between two thorn-banks. They **Hold the Line**, shoulder to shoulder: +2 Guard each while the other stands (Ressa 19, Abate 19). The mob can only reach them two at a time. Under the *Fighting Many* rules, it attacks the line at Threat 1 (one, plus none, because only two can reach), at +4.
+
+The Cullmaster goes for Tolly, who has stolen his second offering: 7 + 4 + 6 = 17 against Guard 15. A hit with no Helping. 4 damage, and the sickle is Ripping: Tolly is at 6, and bleeding 1 a round.
+
+Abate swings past Ressa's shoulder at Bailiff 1, who is coming at the line: 6 + 5 + 7 = 18 against Guard 12, one Helping. 5 + 3 − 1 = 7. Bailiff 1 is at 7.
+
+The bailiffs. Bailiff 1 tries to grapple Abate out of the line: 9 + 5 = 14 against Guard 19. A miss. Bailiff 2 clubs Halloway: 13 + 5 = 18 against Guard 16, a hit, 3 − 1 = 2. She is at 13. Bailiff 3 runs Crust down in the stubble and grapples him: the boy is held.
+
+Halloway puts her cleaver into Bailiff 2: 5 + 3 + 8 = 16 against Guard 12, one Helping. 4 + 2 − 1 = 5, Ripping. He is at 9, and bleeding.
+
+The mob comes at the hedge-gap: 6 + 5 + 4 = 15 against Ressa's 19. Nothing gets through.
+
+**Round two.** Tolly bleeds (5): Bloodied. She spends her action binding her own arm with her teeth and her good hand, Routine (10), and rolls 12. It stops.
+
+Ressa wants the sickle out of the Cullmaster's hand. She leaves the line (Abate loses his +2) and makes a **Called Shot** at his weapon hand, −2. She **Partakes**: 9 + 6 + 3 − 2, and the Tooth shows 4, for 20 against Guard 14. Two Helpings. One buys the Called Shot's effect: the sickle drops into the stubble. The other buys +2 damage: 4 + 2 − 1 = 5. The Cullmaster is at 8. Ressa gains 1 Hunger; her ears pop, and for a moment everyone in the field hears the sea.
+
+The Cullmaster, unarmed, does what Cullmasters do. He turns to the village and shouts: *the field has had one and it wants two, and if it does not have two, it will come up the lane tonight for yours.* He is preaching. Tongue + Rites against Hard (14): 13 + 3 = 16. It works. The mob stops trying the gap and goes through the hedge itself, tearing the thorn aside with their hands. Now all twelve can reach: the mob attacks at its full Threat 3, at +6, for 5 damage.
+
+Abate, alone in the gap, swings at Bailiff 1: 10 + 7 = 17, one Helping, 5 + 3 − 1 = 7. Bailiff 1 is at 0: **Ruin**. He falls, Dying, and his Injury from the Mangling table is a d20 with +2 for the Brutal axe: 11 + 2 = 13, **Severed Fingers**. In the mob, a woman screams a name. It is his. She is his mother. The Carver tells Ade: if Abate strikes again, the man dies, and that is a man the whole village knew.
+
+Bailiff 2 misses Halloway. Bailiff 3 holds Crust down in the stubble.
+
+Halloway looks at the twelve people coming through the hedge with pitchforks, and they are her people: big, warm, hungry, frightened, polite people who have been told their children will be eaten. Dev says, "She **Yields**. She drops the cleaver. She talks to them." Tongue + Persuade, against Grim (18), because one of theirs is down. Halloway has Tongue 2, Persuade 0. Dev Partakes. 8 + 6 + 2 + the Tooth's 3 = 19.
+
+"Her mouth floods," says the Carver, "and her belly growls so loud that the front of the mob hears it over the shouting, a long, rolling, ridiculous noise, and somebody laughs." Halloway says: *You look heavy. All of you. You look well. You've walked eleven out to this field every Carving for ten years and it's still hungry. It isn't hungry for him. It's hungry. That's all it is.* The roll succeeds. The mob must make a **morale check**, now, though it has not lost a soul: 2d10 + 3 against Hard (14). The Carver rolls 5 and 3: 11. It fails. The mob stops in the stubble. Some of them go to the fallen bailiff. His mother is already there.
+
+**Round three, and the end.** The Cullmaster, alone, unarmed, at 8 Flesh, **flees**: into the wheat. Ressa is engaged with him and would get a free attack unless he wins an opposed Lung + Athletics. He rolls 15; she rolls 13. He is gone, into the field, at dusk, and the wheat closes behind him without a sound. Nobody follows. The bailiffs Yield. Crust Leggat sits in the stubble, shaking.
+
+**After.** Halloway stabilizes Bailiff 1: first aid, Routine (10), 14. He will live with seven fingers and a Fatlands mother who will never forgive the Tablebreaker or thank the renderer. Abate makes no Dread check for the killing, because there was no killing, and he finds he is shaking anyway. The Carver adds the cost to the Pall of Sallet Bottom: +2 for a ritual killing the village watched, +1 for a mob formed, −1 for a mob dispersed with no death. It ends the night Uneasy.
+
+In the morning, the Cullmaster's sickle is found at the field's edge, beside a pair of shoes that are not Petty Furrow's. Pell Hogget's tally for Sallet Bottom that year, copied in two hundred villages, shows the Reaping took nine. It took nine the year before. Crust Leggat's name is not among them. That is the whole of what the company won, and the Carver should make sure the players understand that it was everything.
+
+[bigquote] They ask me what we got for it. A boy. One boy, sixteen, with his father's debt. You can't put that in a ledger, so they don't count it. I count it. | — Halloway Brisk, at a waystation in Carving, 641 A.G.
