@@ -898,3 +898,430 @@ Threatened, she laughs, and the wires rattle, and the mill-race speeds up. Kindn
 "Her figures and mine agree to within three a year. Hers come first." — Pell Hogget
 "She chuckles at the dead. She's the only one in the south who's earned it." — Corder Lank
 [/box]
+
+## New Faces of the Fatlands
+
+The core chapter introduced four new figures of the south: a wake-cook, a gaoler-nurse, an interpreter of hills and a young lord of the cellar table. They are given full dossiers here, more briefly than the great of the Board, followed by two more: the man who invents the wolves, and the woman who washes the Chairman.
+
+### Wakemother Pudding Hesk — the Weeping Cook
+
+> "Oh, he's lovely. Oh, look at the fat on him. Oh, Mrs Barrow, I'm so sorry. Pass me the honey, love, I can't see for crying."
+>> — Pudding Hesk, at a wake in the Pudding Ring
+
+[stat: Pudding Hesk — Wakemother of Sated]
+Land & Cut: Fatlands · Cut 2 (common Fatlands blood) · Regrowth 5 (the Appetite) · Hunger 5
+Age & Station: 47; the most sought-after wake-cook in Sated
+Calling & Standing: Renderer, Standing 3 (Master Renderer; Jointer of the Union)
+Attributes: Hand 4 · Gut 4 · Lung 1 · Eye 3 · Tongue 3 · Caul 3
+Skills: Craft 5, Feast 5, Blades 3, Persuade 3, Endure 2, Rites 2, Stitching 2
+Flesh 14 · Guard 14 · Armor 0 · Fray 6
+Attacks: carving knife +7 (3, with Know the Cut)
+Gifts: Iron Belly. Taste the Name, which she cannot help: every wake she cooks tells her the dead one's secrets. Gorge.
+Wants: The Long Pig (Hard 14; Grim 18 if she loved them); The Second Plate
+Knacks: Butcher's Calm; Old Grief
+Derangements: none; she weeps at every wake, which is not a derangement but feels like one
+Carries: applewood; a honey-pot; a basting-brush of her mother's hair; a blue apron; a little book of what the dead told her
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+Round, brisk and broad-faced, with forearms freckled by forty years of spatter, Pudding Hesk has a laugh that rattles crockery and a sob that empties a room of dry eyes. She smells of applewood smoke and honey. She bastes the dead in their own dripping with a little honey, roasts them slow and sends them to the table glazed and crackling, and she weeps every time, openly, while she carves. Families wait months for her and delay the wake with oaths on the dead while they wait.
+
+#### Their Story
+
+She was jointing at her mother's side from the age of twelve, and at nineteen, in 613, she cooked her mother. Everyone said it was the finest wake in the Pudding Ring for a generation. She has cooked some two thousand of Sated's dead since, from Carriers to members of the Board.
+
+#### Their Place in the Land
+
+She is the respectable face of what Jem Crackle does disreputably, and the city's unofficial confessor: the dead taste of their secrets, and she knows whose child is whose, who stole, who loved whom. She tells no one. That is why she is trusted.
+
+#### What She Carries
+
+- **Applewood** — a bundle, always, for the slow fire.
+- **A honey-pot** — Orchard honey, from bees that work the bleeding trees.
+- **A basting-brush** — bristled with her mother's hair.
+- **A little book** — of what the dead told her, written in a cipher only she can read; it is the most dangerous book in Sated after Jem's.
+
+#### Wants, Fears and Secrets
+
+She wants to cook the Chairman, the great final dish of her life. She has been asked to, twice: by a Board steward for Tullow, who wants to be eaten before the hill takes him, and by the cellar steward of Marrable Hall, for the Second Table. She fears she will be too greedy to share him. **Secret she does not know:** the Chairman's meat, cooked, will make every diner feel the Reaping through the soil for a year.
+
+#### Ties
+
+- **Jem Crackle** — friend and rival; she can taste his work and has never said so.
+- **Chairman Obb Tullow** — her intended masterpiece.
+- **Lady Aspic Dellamore** — thinks Hesk vulgar and is afraid of her.
+- **Hob Gristle** — they joint together at great wakes; he apologises, she weeps, and families love them both.
+
+#### In Play
+
+PCs meet her at any wake. Hooks: a family asks the PCs to keep a secret Hesk tasted; Hesk asks the PCs to find out which of her two commissions comes first; a wake she cooks tastes of a living PC's ally. If nobody intervenes she cooks Tullow in 642, eats too much, and is never full again.
+
+[box: Said of Them]
+"She cried so much on Da that the crackling came out salted perfect." — a mourner in the Pudding Ring
+"The only cook in Sated I am frightened of." — Lady Aspic Dellamore
+"Nobody keeps a secret like a cook who's eaten it." — Jem Crackle
+[/box]
+
+### Feeder Callow Pudge — Mother of the Gavage
+
+> "There's my brave girl. There's my good belly. Two more, love, and then a song, and then two more."
+>> — Callow Pudge, at the chair
+
+[stat: Callow Pudge — Head Feeder of the Gavage]
+Land & Cut: Fatlands · Cut 2 (common Fatlands blood) · Regrowth 4 (the Appetite) · Hunger 4
+Age & Station: 56; head feeder at the Gavage for thirty years
+Calling & Standing: Nightwarden (gaoler), Standing 2
+Attributes: Hand 4 · Gut 3 · Lung 1 · Eye 2 · Tongue 3 · Caul 3
+Skills: Stitching 4, Feast 3, Persuade 3, Resolve 3, Reckoning 2, Endure 1
+Flesh 12 · Guard 11 · Armor 0 · Fray 5
+Attacks: grapple, then funnel +4 (Gut + Endure, Hard 14, or helpless and fed)
+Gifts: Iron Belly; Taste the Name; Gorge
+Wants: The Hollow (Hard 14)
+Knacks: Mother's Hands; Hostage's Smile
+Derangements: none
+Carries: a polished horn funnel; a buttered thumb; the book of weights; a ring of cell keys; letters
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+A soft-voiced, motherly woman in a starched white apron, plump and dimpled, smelling of lard-porridge and carbolic, who hums lullabies as she pours. She sincerely believes she saves lives.
+
+#### Their Story
+
+She came to the Gavage at twenty-six as a scullion, and was promoted to the chair because the prisoners stopped fighting when she sang. She has fed some three thousand Thin. Most went home heavy. Some died in the chair. She cried at those, and kept going.
+
+#### Their Place in the Land
+
+The Gavage's kitchens never close, and Callow runs them: a hundred cells, five sessions a day, thirty feeders in white. Dunmow Fatt delivers; she feeds; the Board pays. She answers only to the Gavage warden, who is afraid of her.
+
+#### What She Carries
+
+- **A horn funnel** — polished for thirty years.
+- **The book of weights** — every prisoner, weight in and weight out, and letters from grateful families pasted in.
+- **A ring of cell keys** — one of which is filed, each Lack, so that it does not quite lock.
+
+#### Wants, Fears and Secrets
+
+She fears the ones who come back to the Thin. **Secret she keeps:** each Lack she leaves one cell door unbarred, and asks no questions. **Secret she does not know:** Ruddle Hollowell, Wren's father, is in her cell forty-one, and the Thin have marked him for this year's door.
+
+#### Ties
+
+- **Dunmow Fatt** — her partner in kindness, supper on Gavage nights.
+- **Granny Cracknel** — fed by her predecessor; the old woman spits when Callow passes the mill.
+- **Corder Lank** — she has never fed him and dreams she will.
+- **Sorrel Fatt** — will one day be in her chair.
+
+#### In Play
+
+The PCs meet her in a Gavage rescue, or as captives. Hooks: she is the unbarred door, if the PCs can earn her trust; a fed-out prisoner asks the PCs to bring Callow a thank-you letter, sincerely; she asks the PCs to find a prisoner she released, to see if he is happy. If nobody intervenes, the Board learns of the door in 642 and puts Callow in the chair.
+
+[box: Said of Them]
+"She sang me 'Little Gravy' while I choked. I still can't hear it." — a former Thin
+"Mother Pudge? Saint. Fed my boy back to sense." — a Low Tilth farmer
+"She is the gentlest torturer on the Table, and I mean that as the worst thing I know how to say." — Corder Lank
+[/box]
+
+### Mercy Sowerby — the Hill-Speaker
+
+> "She says the heir is not her son's. She says the field at Brakeley will take three this year. She says lie down. I'm not going to lie down. She says lie down, Mercy. She knows my name now."
+>> — Mercy Sowerby, on her knees on the turf, translating
+
+[stat: Mercy Sowerby — Hill-Speaker of the Dowager Hills]
+Land & Cut: Fatlands · Cut 2 (common Fatlands blood) · Regrowth 3 (the Taste) · Hunger 3
+Age & Station: 29; widow; Hill-Speaker in the employ of the Gut-lines
+Calling & Standing: Celebrant, Standing 2 (Celebrant)
+Attributes: Hand 2 · Gut 2 · Lung 2 · Eye 4 · Tongue 3 · Caul 4
+Skills: Lore 4, Instinct 4, Rites 3, Resolve 3, Search 3, Godsign 2, Athletics 1, Endure 1
+Flesh 11 · Guard 13 · Armor 0 · Fray 6
+Attacks: knife +2 (2)
+Gifts: Iron Belly. Hill-Ear (trade, sharpened by godsign): lying face-down on a Seated hill, she understands its speech, and on a Hard (14) Caul + Godsign, the older tongue under it.
+Wants: The Second Plate (Hard 14)
+Knacks: Elder's Ear; Silent Supper
+Derangements: none yet
+Carries: knee-pads of field-brown leather; a measuring chain; her husband's ring; a slate of the old words
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+Thin-lipped, careful, plain, dressed in field-brown with soil always on her knees, Mercy is light for the south and works hard to look heavier. She speaks slowly, as though translating even her own thoughts.
+
+#### Their Story
+
+Her husband Abner was culled on a dusk-shift in 638 for a debt on their cottage. A Gut-line steward who had seen her at the wake offered her the post of Hill-Speaker, because she had a good ear and nobody to go home to.
+
+#### Their Place in the Land
+
+She lies on the Dowager Hills, lays the offerings in the speaking-places, and translates: parentage, debts, which fields will Reap. Her translations carry the force of law in Gut-line disputes. She is paid well and trusted by no one.
+
+#### What She Carries
+
+- **Leather knee-pads**, field-brown.
+- **A surveyor's chain** — she has measured the gap between two Dowagers, Ysolde Tullow and Grisel Marrable, every week since Grace 641. It has closed by nine feet.
+- **Abner's ring**, on a cord.
+- **A slate** — the words in the older language the two hills now speak to each other, spelled as best she can.
+
+#### Wants, Fears and Secrets
+
+She wants someone to tell. She fears the Dowagers have noticed her noticing; last week one of them used her name. **Secret she does not know:** the older language is the language the Providers spoke to each other, and the two hills are not talking. They are saying grace.
+
+#### Ties
+
+- **Dame Suet Marrable** — her employer for the Marrable hills, impatient for a translation she will like.
+- **Marigold Chine** — lied to her about the trees.
+- **Lord Chastain Loin** — pays her to translate his mother, and pays more to mistranslate.
+- **Pell Hogget** — she sends him the hills' Reaping forecasts.
+
+#### In Play
+
+The core hook *The Hill That Walked* is hers. Other hooks: a Gut-line hires the PCs to make sure her next translation favours them; she asks the PCs to sleep a night on a Dowager to confirm what she heard; she vanishes, and the turf between the two hills is warm, and has a knee-print in it. If nobody intervenes, the two hills touch in Carving 642, and Mercy is lying between them.
+
+[box: Said of Them]
+"She's got the ear. Poor lass. Better she'd got the needles." — a gatekeeper of the Dowager Hills
+"Mrs Sowerby told us Gran said marry the miller's boy. Gran was right. She's always right." — a bride of a lesser Gut-line
+"The girl is listening too hard. Tell her to eat more." — Dame Suet Marrable
+[/box]
+
+### Lord Chastain Loin — Heir of the Cellar Table
+
+> "Do sit. Do eat. I insist; I always insist. You'll find I'm very hard to refuse, and I never, ever forget who did."
+>> — Lord Chastain Loin, to a Thin courier he was entertaining
+
+[stat: Chastain Loin — Lord of Loin House]
+Land & Cut: Fatlands · Cut 5 (Gut-line) · Regrowth 7 (the Course) · Hunger 6
+Age & Station: 26; head of House Loin; Second Table, southern chapter
+Calling & Standing: Scion, Standing 4 (Head of a House)
+Attributes: Hand 3 · Gut 5 · Lung 1 · Eye 3 · Tongue 5 · Caul 3
+Skills: Persuade 5, Feast 4, Deceive 3, Endure 3, Clause 2, Blades 2, Intimidate 2
+Flesh 16 · Guard 13 · Armor 1 (Laden flesh) · Fray 2
+Attacks: sword +5 (4, Parrying); silver carving-fork +5 (2)
+Gifts: Iron Belly; Taste the Name; Gorge; Laden; Rooting (he never stands on bare soil if he can help it)
+Wants: The Second Plate; The Long Pig; Stillness (Hard 14 each)
+Knacks: Smell of Cedar; Table Manners
+Derangements: none admitted
+Carries: a silk veil with a silver fork; a purse of platters; letters to poachers; a place-list; an iron-floored dray
+Dread: 2
+[/stat]
+
+#### Who They Are
+
+A young, enormous, beautiful man of eight hundred pounds, with oiled ringlets, perfect teeth and a voice like warm cream, who eats elegantly and constantly and whose manners never slip. Green shoots come up in the creases of his elbows; his Washers pluck them twice a day.
+
+#### Their Story
+
+His mother, Dame Ambry Loin, rooted in 630 and Seated in 636, a hill behind Loin House. His father died at table that Carving. Custom gives the best cut of the latest wake to the family's Dowager; Chastain took his father's heart instead to Marrable Hall's cellar table, and was admitted to the Second Table that night. His mother has never forgiven him.
+
+#### Their Place in the Land
+
+He is Dame Marrable's protégé and her chapter's buyer of Blanks, through Kale Dragoman and Master Quillon Barr. His house sits on the Board; he wants a committee seat, and has ordered a hundred and ten pounds of Garrick Tripe's lead.
+
+#### What He Carries
+
+- **A Second Table veil** — silk, with a silver fork.
+- **Letters** — pleasant, signed, left in Thin barns for Wren Hollowell.
+- **A place-list** — the cellar's guests for Tablenight 641. One line is blank.
+
+#### Wants, Fears and Secrets
+
+He wants to be at the table when Ummer stands up, with a knife in his hand. He fears his mother will stand up first. **Secret:** he has begun to hear her at night through the floor of his bedroom, asking for her husband's heart. **Secret he does not know:** Marrable intends him for the blank line.
+
+#### Ties
+
+- **Dame Suet Marrable** — patron and intended host.
+- **Wren Hollowell** — his quarry.
+- **Mercy Sowerby** — paid to mistranslate his mother.
+- **Garrick Tripe** — his weigher.
+
+#### In Play
+
+He hires the PCs to deliver letters, to find Wren, or to fetch something from the Rim "for the cellar." Hooks: his mother summons the PCs through Mercy; a Blank PC receives his invitation; his dray is found rooted outside Loin House, and the hill is closer. If nobody intervenes, he is served at the Second Table on Tablenight 642, beautifully.
+
+[box: Said of Them]
+"He brought me his father's heart, and he wasn't even sorry. I knew then he'd go far." — Dame Suet Marrable
+"He leaves a letter and a cake. I burn the letter. I'm told the cake is excellent." — Wren Hollowell
+"His Lordship tips in platters and never looks at you. Like tipping a field." — a Carrier of Loin House
+[/box]
+
+### Wolf-Warden Crust Leggat — the Inventor of Wolves
+
+> "Tracks here, see. Big dog-wolf. Pack of six, I'd say. Took the Fitch girl from the headland. Write that down, son. Write it down neat."
+>> — Crust Leggat, standing in an empty furrow, to his clerk
+
+[stat: Crust Leggat — Wolf-Warden of Low Tilth]
+Land & Cut: Fatlands · Cut 2 (common Fatlands blood) · Regrowth 4 (the Appetite) · Hunger 4
+Age & Station: 63; Wolf-Warden of Low Tilth for thirty-eight years
+Calling & Standing: Nightwarden (Board warden), Standing 2
+Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 3 · Tongue 3 · Caul 2
+Skills: Deceive 4, Wayfaring 4, Search 3, Shooting 3, Craft 2, Endure 2, Instinct 2
+Flesh 13 · Guard 12 · Armor 1 (hide coat) · Fray 8
+Attacks: crossbow +6 (4, Piercing, Slow)
+Gifts: Iron Belly; Taste the Name
+Wants: The Second Plate (Hard 14)
+Knacks: Little Lies; Corpse-Road Walker
+Derangements: The Seeing (triggered by dusk: he sees wolves in the wheat)
+Carries: the Warden's Foot; a crossbow; a ledger of reports; a wolf's skull bought on the Rim
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+A grizzled, red-faced, gravel-voiced man in a hide coat, with a crossbow he has never fired at a wolf and the cheerful certainty of a professional liar. He smells of pipe-smoke and gun-oil, though there are no guns, which is to say crossbow-grease. Lately his hands shake at dusk.
+
+#### Their Story
+
+He took the office from his uncle in 603, and with it the Warden's Foot: a wolf's paw carved in bone, made in 300 A.G., passed Warden to Warden, for pressing tracks into soft earth. Every Carving for thirty-eight years he has pressed tracks at the edge of each empty furrow and filed his report. In Carving 640 he found tracks he had not made. Big ones. Two-legged.
+
+#### Their Place in the Land
+
+His reports are the Board's official account of the Reaping: wolves, so many taken, so many sighted. Everyone in Low Tilth knows they are lies, and the lies are a courtesy. He depends on that courtesy; it depends on him.
+
+#### What He Carries
+
+- **The Warden's Foot** — yellowed bone, worn smooth.
+- **A ledger** — thirty-eight years of wolves.
+- **A wolf's skull** — bought on the Rim in 610 to show children; he talks to it.
+
+#### Wants, Fears and Secrets
+
+He wants to retire before he is sure. **Secret:** the new tracks lead out of the far fields toward Sated, and the creature that makes them walks on its hind legs, like Sal Trotter's herds; he has filed them as wolves. **Secret he does not know:** he is on Varn Sweetbread's list, because his reports have started to read as if he believes them.
+
+#### Ties
+
+- **Pell Hogget** — the honest count beside his false one; they never speak.
+- **The Scarecrow** — filed annually as a wolf-den.
+- **Varn Sweetbread** — his superior in all but name.
+- **Sal Trotter** — he has followed her herd's tracks and found them matching.
+
+#### In Play
+
+He hires the PCs to "hunt wolves." Hooks: the tracks; a Board inspector wants proof of a wolf, and Crust needs a skin by Firstbite; Crust, drunk, confesses the Foot to a PC and begs them to throw it in the Gravy. If nobody intervenes, he follows the tracks at dusk in Carving 642 with his crossbow, and is listed as taken by wolves.
+
+[box: Said of Them]
+"Wolves, says Crust. Lovely wolves. My husband was a wolf's dinner, officially." — a widow of Kettle Furrow
+"The wolf figures are wrong, and consistently so, and the Board prefers them." — Pell Hogget
+"Grandad says there's no wolves. Then why's he always so scared of them?" — Crust's granddaughter
+[/box]
+
+### Washer Nell Haslet — the Chairman's Hands
+
+> "Lift there, sir. That's it. There's a shoot here wants pulling. Breathe out. Now, you were saying, sir? Kettle Furrow, three. Brakeley, five. I'm listening, sir. I'm always listening."
+>> — Nell Haslet, at the dray, at dawn
+
+[stat: Nell Haslet — Washer to the Chairman]
+Land & Cut: Fatlands · Cut 2 (common Fatlands blood) · Regrowth 4 (the Appetite) · Hunger 5
+Age & Station: 38; first Washer to Chairman Obb Tullow
+Calling & Standing: Seamer (Washer and dresser of folds), Standing 2 (Stitcher)
+Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 4 · Tongue 2 · Caul 3
+Skills: Labor 3, Search 3, Stitching 3, Endure 2, Feast 2, Reckoning 2, Stealth 2
+Flesh 13 · Guard 12 · Armor 0 · Fray 4
+Attacks: shoot-shears +3 (2)
+Gifts: Iron Belly; Taste the Name (she cannot help tasting the Chairman's sweat)
+Wants: The Second Plate (Hard 14)
+Knacks: Counting Habit; Silent Supper
+Derangements: none
+Carries: shoot-shears; sponges and a bucket; a basket of the Chairman's greens; a stub of chalk
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+A strong, quiet, square woman with red scrubbed forearms, a scarf over her hair, and the patient blankness of servants who see everything. She smells of lye and green sap.
+
+#### Their Story
+
+A Low Tilth farmer's daughter from Kettle Furrow, she came to Sated at sixteen as a Washer and has cleaned the Chairman's folds since 628. Pell Hogget is her mother's cousin.
+
+#### Their Place in the Land
+
+Twice a day she climbs onto the dray with sponges and shears, washes the Chairman's folds and plucks his shoots. Tullow talks to her, because she is furniture. Lately, half-asleep, he murmurs the Reaping as he feels it through his roots, district by district, mouthful by mouthful.
+
+#### What She Carries
+
+- **Shoot-shears** — for the green.
+- **A basket of greens** — the Chairman's shoots, a Washer's perquisite, sold in the Scale Rings as "Chairman's cress." She eats some herself.
+- **A stub of chalk** — like her cousin's.
+
+#### Wants, Fears and Secrets
+
+**Secret she keeps:** she memorises Tullow's murmured figures and sends them to Pell Hogget, which is why the Long Count matches the Board's own. **Secret she does not know:** the cress is rooting her; there are threads in her soles, and they point toward the dray.
+
+#### Ties
+
+- **Chairman Obb Tullow** — her charge; he trusts her as he trusts a chair.
+- **Pell Hogget** — her cousin and her cause.
+- **Garrick Tripe** — pays her for gossip; she gives him little.
+- **Pudding Hesk** — has asked her, kindly, how much the Chairman weighs today.
+
+#### In Play
+
+The PCs need someone close to the Chairman. Hooks: Nell needs a courier to Kettle Furrow; Tullow murmurs a PC's name with the figures; Nell does not come down from the dray one evening, and is found asleep on it with her feet in the folds. If nobody intervenes, she roots beside the Chairman by 643, and the Board agrees not to notice.
+
+[box: Said of Them]
+"Our Nell's got a good post. She says the Chairman's ever so polite." — her mother, in Kettle Furrow
+"She hears everything and says nothing. A paragon. Find out who she says nothing to." — Varn Sweetbread
+"Her figures, my figures. Same figures." — Pell Hogget
+[/box]
+
+## Webs of the Fatlands
+
+[bigquote] In the south, love is wanting to feed someone, and hate is wanting to eat them, and you'd be surprised how often it's both. | — a Fatland proverb, as Wakemother Hesk tells it
+
+| Character | Wants from | Fears | Owes |
+| Sal Trotter | Sweetbread: never to be told | the lead steer's question | Sweetbread a second wage's silence |
+| Wren Hollowell | Marigold: a loft; anyone: the sea | the Gavage; her own hunger | Ottilie Crane nothing; Hennet everything |
+| Garrick Tripe | Tullow: to be let retire | the second brass key | Tullow his whole career |
+| Lady Aspic | Marrable: her body, set | blandness | her teacher his ladle |
+| Jem Crackle | anyone: a worthy dish | boredom | nobody, by design |
+| Dunmow Fatt | Lank: that he eat | the quiet in Lank's eyes | Clemency's memory a full plate |
+| Marigold Chine | Wren: to hear the silence | the last verse | the Thin a dry loft |
+| Tobias Wether | Sal: approval; Wren: emptiness | the long dim room | Sal his name |
+| The Scarecrow | the village: one blink | nothing known | Nan Hogget a smock |
+| Ivo Stockpot | an outsider: to know | that they keep buying | the garrisons an apology |
+| Granny Cracknel | the Scarecrow: its hat | the unborn teeth | Pell a warning |
+| Pudding Hesk | Tullow: his body | her own greed | the dead their silence |
+| Callow Pudge | the Thin: gratitude | the ones who return | Lank a door |
+| Mercy Sowerby | anyone: belief | her name in the turf | Abner a reckoning |
+| Chastain Loin | Wren: her heart | his mother | his father a heart |
+| Crust Leggat | the Board: retirement | the real tracks | Pell the truth |
+| Nell Haslet | Pell: justice | the dray's pull | Tullow a betrayal |
+
+### The Three Most Explosive
+
+**Garrick Tripe, Chairman Tullow and Jem Crackle.** The Chairman's seat was bought with sixty pounds of lead in 608, and the two men who know have kept each other's secret for thirty-three years. Tullow no longer needs Garrick; he needs a scandal that will void a third of the Board and leave him the only honest weight in the house, and a knife to tidy up after. Jem has been asked to be that knife and, separately, to kill Tullow himself, kindly, before the hill takes him. Pudding Hesk has been asked to cook the result of both. If the PCs warn any one of these four, the whole arrangement comes apart at once, in public, at the Weighing.
+
+**Sal Trotter, Tobias Wether and the lead steer.** Sal culled her son for a debt by never looking back, and named a stranger after him, and walks to market a beast with his plot-number on its flank. Tobias wants Sal's approval more than food. The lead steer hums her song a beat ahead of her. When the steer asks its question, Sal will turn around; when Tobias learns whose name he wears, he will go looking for the herd; and a man with an empty room inside him and a beast made of a culled boy will meet on the Drove Road at dusk.
+
+**Dunmow Fatt, Sorrel Fatt and Callow Pudge.** The gentlest Bailiff in Sated does not know his daughter is Thin. The gentlest feeder in the Gavage leaves one door unbarred each Lack. Corder Lank's cells have marked Ruddle Hollowell for this year's door, and Sorrel is the messenger. If Sorrel is caught, her father takes her to the chair, and Callow feeds her, and the door Callow leaves open will be the one Dunmow is standing in.
+
+## Using the Fatlands' People
+
+The people of the south come to the party; they knock, they bring a dish, they ask after your health and your weight. When the party is lodged anywhere in the Fatlands and someone knocks, roll a d20.
+
+| d20 | Who's at the Door? | Why |
+| 1 | Sal Trotter | needs two hands for a drive; won't say why the last two quit |
+| 2 | Wren Hollowell | hiding from Bailiffs; asks for nothing but the cellar |
+| 3 | Garrick Tripe | wants a parcel carried out of Sated; it is a book |
+| 4 | a footman of Lady Aspic | a dinner invitation; one guest will not leave |
+| 5 | Jem Crackle | "Kitchen's free, if you want to use it, sir" |
+| 6 | Dunmow Fatt | a plate inspection; someone left a crust |
+| 7 | Marigold Chine | pruning starts tomorrow; she needs ears |
+| 8 | Tobias Wether | fleeing Gladbelly; lays an extra place at your table |
+| 9 | nobody | a field-smock on the step, folded, with a plot-number |
+| 10 | Ivo Stockpot's courier | a sealed list addressed to nobody |
+| 11 | Granny Cracknel | a biting loaf for your sill; she stares at one PC's smile |
+| 12 | Pudding Hesk | a wake tomorrow; the family asked for the strangers |
+| 13 | Callow Pudge | wants a released prisoner found, to ask if he's happy |
+| 14 | Mercy Sowerby | a Dowager asked for one PC by name |
+| 15 | Lord Chastain Loin's Carrier | a letter, a cake, and a question about Blanks |
+| 16 | Crust Leggat | hiring wolf-hunters; shows tracks with no claws |
+| 17 | Nell Haslet | a message for Kettle Furrow, memorised, not written |
+| 18 | a Cullmaster's clerk | reading a dusk-list; one name is a PC's ally |
+| 19 | the lead steer of Sal's herd | standing on two legs, humming; it knocks politely |
+| 20 | a place card on the mat | a PC's name, a fine hand; the table is already laid |
+
+[box: Running the South's People]
+Every Fatlander in this chapter will offer the party food within a minute of meeting them, and every one of them means it kindly. Let the offer land before the horror does. Use Dread sparingly at first and more steeply as the party learns what is on the plate. Three rules keep the south frightening: nobody is ever full, so no deal ever satisfies; everyone is somebody's dinner, so every death becomes a meal and every meal a clue; and the land is listening, so whatever a character says in a field at dusk, the field heard. When in doubt, have someone say *you look heavy*, and mean it as love.
+[/box]

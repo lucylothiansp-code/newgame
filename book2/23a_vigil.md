@@ -1077,3 +1077,148 @@ To threat he laughs and then he burns. To kindness he weeps. If nobody intervene
 "He pays the Burners triple. He doesn't come in the Yards any more." — Burner Absolom Grease
 "Good man. Laughs at my jokes. I don't trust a man who laughs at my jokes." — Captain Brannoch Pyre
 [/box]
+
+### Pip Eleven-Bell — the Pinchmarket Nudger
+
+> "Pinch true, pinch quick, a crumb a bell, two for a nasty one! You there, mister, you're going, I can see it in your mouth!"
+>> — Pip Eleven-Bell, at the east end of the Pinchmarket
+
+[stat: Pip Eleven-Bell — the Pinchmarket Nudger]
+Land & Cut: the Vigil · Cut 1 (Scrapling) · Regrowth 4 (the Appetite) · Hunger 3
+Age & Station: 9; street nudger of the Pinchmarket, born on the Slope at the eleventh bell
+Calling & Standing: none (a nudger's board and a reputation)
+Attributes: Hand 4 · Gut 1 · Lung 4 · Eye 3 · Tongue 3 · Caul 2
+Skills: Filch 4, Athletics 3, Stealth 3, Search 3, Instinct 3, Brawl 2, Persuade 2, Haggle 2
+Flesh 9 · Guard 17 · Armor 0 · Fray 5
+Attacks: pinch-fingers +6 (1; a pinched blinker loses 1 Weariness)
+Gifts: Heavy-Eyed (+2 against blinkers; Pip can see a stranger going grey from across a square). The Long Look (blink under guard and learn one thing about a Counted sleeper; 2 Weariness and 1 Fray).
+Wants: To lie down (Routine; triggered by warmth, and by the kind lady).
+Knacks: Fast Hands; Scrap-Born Luck
+Derangements: none yet
+Carries: pin-glove; the board; an unpaid chit; a brass bed-tag; twists of cheap rouse; a crust
+Dread: 1 (to watch Pip blink and smile)
+[/stat]
+
+#### Who They Are
+
+Thin as a pin, all elbows and grubby knuckles, in a burr-cloth smock three sizes too large and boots stuffed with rag, Pip has a voice like a gull and a laugh like a rattle and the best pinch-fingers in the Pinchmarket: quick, precise, merciless, always on the soft inside of the upper arm where it stings and does not bruise. Pip's teeth are already greying. Pip smells of the market, of rouse and dust and onions. Pip's eyes are huge and dark-ringed and never still, except, lately, for a breath or two at a time.
+
+#### Their Story
+
+Pip was born on Cinder Row at the eleventh bell, to a laundress who is now in the Dormitory, and survived the Coming-Heavy at four because an older brother pinched Pip awake for a whole Plate without rest. The brother is in the Small Rows. Pip has been a nudger since six, working the east end of the Pinchmarket under a board painted by Mag Startle: *PIP ELEVEN-BELL PINCHES TRUE*. A month ago Pip had a regular client, a glass-grinder of the Row who paid by the bell. He went to the room a fortnight ago, owing two weeks. Since then Pip has been buying the cheapest rouse on the Slope to keep working, brine-cut, from Rook Quarter-Bell's runners.
+
+#### Their Place in the Land
+
+Pip is one of perhaps three thousand child nudgers in the city, the cheapest wakefulness money can buy. They work the markets, the waking-houses, the caravan stands, keeping strangers up for a crumb a bell. The Wakers tolerate them. The Watch counts on them. Nobody watches them. Pip knows every face in the east end, and which are going grey, and which are lying.
+
+#### What They Carry
+
+- **A pin-glove** — a leather glove with a pin in the palm, for staying awake (3 L). Pip's own palm is scabbed through.
+- **The board** — *PINCHES TRUE*. Mag Startle painted it free.
+- **An unpaid chit** — the glass-grinder's IOU, for twenty-eight bells. Pip will not throw it away.
+- **A brass bed-tag** — Pip's mother's number. Pip visits at the bell stamped on it.
+- **Twists of cheap rouse** — brine-cut, two crumbs each. They taste of salt.
+- **A crust** — always, in the smock, for later.
+
+#### Wants, Fears and Secrets
+
+Pip wants a proper client, a hot meal and a nudger of their own. Pip fears nothing out loud.
+
+**Pip's secret:** in the blinks there is a kind lady in the room, in a baker's apron, with flour in the creases of her knuckles, who holds out her hand and says it is all right to stay. Pip has started to hold on a little longer each time.
+
+**What Pip does not know:** the kind lady is Aveline Morne, Bed One. The Matron has written, in Bed One's Words, among the names, a line that is not a name: *the little one at the eleventh bell*.
+
+#### Ties
+
+- **Old Nod** — gives Pip a tab when Pip looks grey; has been thinking about the lash.
+- **Rook Quarter-Bell** — sells Pip the brine-cut. Pip stands at the west window of the market latrine now, some mornings, without knowing why.
+- **Lady Oriel Stroud** — Pip has seen someone in white on the roof of the Stair and thinks it is a Seeming.
+- **Mag Startle** — ring-mother of Cinder Row, who has tried twice to take Pip into her ring.
+
+#### In Play
+
+PCs meet Pip in the Pinchmarket, as a nudger for hire. Pip wants to be hired, fed, and kept.
+
+- **Hire Pip.** Hiring Pip for a watch means watching Pip too. In the second hour, Pip blinks, and comes back smiling.
+- **The Grinder's Debt.** Pip asks the party to collect from the glass-grinder's family. They have nothing; they have a bed-number.
+- **Holding On.** Pip, mid-blink, says aloud in a stranger's voice: *set another place*.
+
+To threat Pip runs, fast. To kindness Pip is suspicious, then fierce, then loyal for ever. To the god Pip goes, gently, a little further each time. If nobody intervenes, Pip goes to the room before Lack, and is carried to the Small Rows, and smiles.
+
+[box: Said of Them]
+"Best pinch in the east end. Mean as a wasp. I'd take the kid in if the kid would stay put." — Mag Startle
+"Pip did me a whole watch for a crumb a bell and wouldn't take the tip. Said it'd only go on rouse." — a Rim Road teamster
+"Children don't last on rouse. Six years, maybe seven. I've seen a thousand of them." — Dr. Aldous Crane
+[/box]
+
+### Lukas Marre — the Yawning Man
+
+> "I'm so sorry. Please step back from the glass. No, further. I'm so sorry. Do you know the Ottley family, from the square? Are they well?"
+>> — Lukas Marre, through the speaking-tube, to every visitor
+
+[stat: Lukas Marre — the Yawning Man]
+Land & Cut: the Vigil · Cut 3 · Regrowth 7 (the Course; lids thinning) · Hunger 5
+Age & Station: 31; inmate of the Glass House since 629
+Calling & Standing: none
+Attributes: Hand 2 · Gut 2 · Lung 2 · Eye 4 · Tongue 3 · Caul 4
+Skills: Lore 4, Resolve 4, Godsign 3, Persuade 2, Craft 2, Endure 1
+Flesh 11 · Guard 12 · Armor 0 · Fray 7
+Attacks: none (+2, 1)
+Gifts: The Market Yawn (a hereditary godsign: when Lukas yawns unmuzzled, everyone who can see or hear him rolls Caul + Resolve at Grim or falls asleep; muzzled, the Difficulty is Hard and the effect is 2 Weariness; he no longer needs to open his jaw). Lidless, coming (his lids are translucent; within a year he will be unable to close his eyes).
+Wants: To lie down (Hard). To tuck in (he cannot see someone weeping without wanting them to rest; he must resist at Grim, and this is the most dangerous thing about him).
+Knacks: Silent Supper; Old Grief
+Derangements: The Debt (he believes he owes every sleeper of 629 a letter every Plate, for ever)
+Carries: the muzzle; the list of the square; the Matron's letters; books; a pinch-glove
+Dread: 2 (to see him feel a yawn rising); 4 if the muzzle is off
+[/stat]
+
+#### Who They Are
+
+A slight, gentle, bookish man, pale from twelve years under lamps, with brown hair cut short by the keepers and a stiff leather muzzle strapped over his lower face that holds his jaw half shut. Above it, his eyes are kind, red-rimmed and very tired, and his lids are thin enough now that his irises show through them as dark smudges when he lowers them. He speaks through the tube in a soft, careful, apologetic voice and asks after everyone. He smells of saddle-leather and ink.
+
+#### Their Story
+
+His grandmother, Ida Marre, put down four hundred people in the Pinchmarket in 533 with one yawn, the Market Yawn, and the Glass House was built for her. Lukas was born in 598 with the same jaw and did not know it. At nineteen, in 629, standing in the Lower Square of the Pinchmarket on a grey afternoon, he yawned, and two hundred and six people lay down around him. He has been in the Glass House since.
+
+#### Their Place in the Land
+
+He is the most dangerous man in the Vigil who has never chosen to hurt anyone. The Glass House keeps him; the Lamplighters keep his cell brighter than any street, on Ashlock's standing order. He writes letters, reads, and receives visitors who come to see the man from the square.
+
+#### What They Carry
+
+- **The muzzle** — stiff leather and brass, his third. It no longer works.
+- **The list of the square** — two hundred and six names, copied from the register, with bed-numbers.
+- **The Matron's letters** — one for every one he has sent her, a hundred and forty-four, telling him the sleepers from the square are well.
+- **Books** — Ludmere histories, Rim Road travels, a children's primer of the stars.
+- **A pinch-glove** — he wears it always, so that if he ever cries he will feel it.
+
+#### Wants, Fears and Secrets
+
+He wants to be forgiven by someone from the square.
+
+**His secret:** the muzzle does not stop it any more. He only has to feel the yawn rising, and the people on the far side of the glass sway.
+
+**What he does not know:** the Watch has a standing order, Article Marre, signed by the Warden-Prime: if the Slope ever rises, he is to be walked through it unmuzzled. Ashlock keeps his cell bright so that he will be awake when they need him.
+
+#### Ties
+
+- **Matron Cecily Dorm** — the only person who answers his letters.
+- **Garron Ashlock** — keeps him lit; Lukas thinks it is kindness.
+- **Keeper Ottilie Grain** — his gaoler, who has never yawned at him, and whom he loves for it.
+- **Sister Vesper Null** — has visited twice, sat by the glass, and smiled; both times he could not stop yawning.
+
+#### In Play
+
+PCs visit Lukas to ask about yawns, or are sent to move him. He wants forgiveness, and news of the square.
+
+- **The Letter.** He asks the party to carry a letter to bed 30,417, and read it aloud there.
+- **Article Marre.** The Slope rises over the Bed-Due. Wakers come for Lukas with a key to the muzzle.
+- **The Glass Bell.** A cell is breached on a Yawn day; Lukas is the only one who can tell where it went.
+
+To threat he begs you to leave. To kindness he cries, and the people behind you sway. If nobody intervenes, his lids go, and the yawn goes with them into his eyes, and anyone who meets his gaze is in the room.
+
+[box: Said of Them]
+"My da was in the square. Lukas writes to me every Plate. I've never answered. I can't decide which would be crueller." — a Slope woman of thirty
+"Nicest prisoner I ever kept. Never once yawned at me. I'd like to see him try." — Keeper Ottilie Grain
+"We keep him bright. Don't ask me why. Orders." — a Glass Crew climber
+[/box]

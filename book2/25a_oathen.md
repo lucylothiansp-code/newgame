@@ -1128,3 +1128,129 @@ PCs meet her seeking a translator or a witness. **Seeds:** she hires the PCs to 
 "Her poems were the one thing in Tacit that didn't cost. Now they do." — a felt-maker
 "She signed me one, once. I couldn't feel it. I wanted to." — Cassian Wry
 [/box]
+
+### Cassian Wry — the Liar
+
+> "The sky is green. I'm happy here. I love you. There, that's three. Shall I do the one about the king being kind? People like that one best."
+>> — Cassian Wry, to a visiting envoy, at the envoy's request
+
+[stat: Cassian Wry — the Liar]
+Land & Cut: Oathen · Cut 0 (Blank) · Regrowth — · Hunger —
+Age & Station: 34; the crown's spy; kept on the Sunward Wall
+Calling & Standing: none (property of the crown)
+Attributes: Hand 3 · Gut 2 · Lung 3 · Eye 4 · Tongue 5 · Caul 2
+Skills: Deceive 6, Persuade 4, Instinct 3, Stealth 3, Filch 3, Lore 2, Athletics 1, Blades 2
+Flesh 10 · Guard 14 · Armor 0 · Fray 6
+Attacks: knife +5 (2)
+Gifts: Blank: cannot be bound or broken by any oath; his lies cost nothing. The Blind Spot (since 640): he tastes wet slate when others swear near him, and on a Hard 14 Eye + Instinct knows the Weight.
+Wants: none of the god's. His own: to be believed once, about something true.
+Knacks: Little Lies, Hostage's Smile, Smell of Cedar
+Derangements: The Watchers (they are; that is not the delusion. The delusion is that they always will be.)
+Carries: a knife; a ring; Mirren's glove; a bitted guard's key; a Cutwright's report; a fig.
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Handsome in a hungry way, Cassian is lean and quick, with black curls, a crooked smile, and a laugh that makes Oatheners flinch, because it is loud and he does not care where it echoes. He dresses in the crown's silks. He smells of cedar, because he is kept in it. He talks constantly, as if starved of it, which he is.
+
+#### Their Story
+
+Born 607 in Low Dray to Scrapling parents as Tam Hollis, he was found Blank at six by a Cutwright survey, after he said "I'll eat the moon" at supper and nothing happened. The crown paid his parents four thousand lacks. He has not seen them since. He was raised in the Muted House, trained in spycraft, and has been sent abroad and among the Tongue-lines for twenty years, to say what Oatheners cannot. Since 640 the Bench has entertained an offer to lease his kidney to a foreign buyer.
+
+#### Their Place in the Land
+
+He is the crown's most valuable tool: the only Oathener who can lie, bluff, threaten and promise without cost. He lives in a gilded, felt-walled apartment with two bitted guards and a Clausewright minder, Annet Gorse. He goes nowhere unwatched. Everyone he meets asks him to say something false.
+
+#### What They Carry
+
+- **A knife** — permitted, because he is not trusted not to need it.
+- **A signet ring** — the crown's; it opens doors and marks him as owned.
+- **Mirren's glove** — kid, one finger stained with almond-oil.
+- **A guard's key** — stolen, for a door he has never used.
+- **A Cutwright's report** — stolen from Annet Gorse: *Subject may be not a Blank but the god's blind spot. Blind spots close.*
+- **A fig** — from the king, who sends one when he wants a lie.
+
+#### Wants, Fears and Secrets
+
+He wants to be believed once, about something true: that he loves Mirren Osk, and that his name is Tam. **Secret (GM may reveal):** he tastes wet slate when others swear. **Secret he does not know:** Annet Gorse is a Second Table agent; the kidney lease is a pretext, and the surgery at Treaty Stair is meant to take him whole.
+
+#### Ties
+
+- **Mirren Osk** — his lover. He signs her lies about the weather and she laughs.
+- **Ket the Ninth** — he tells the king comforting lies. He thinks it is the kindest thing he does.
+- **Jessamy Quill** — he once reached her bedroom door as a test, and told her she was safe.
+- **Brakk** — wants to meet him. Cassian wants to meet a man who doesn't need to lie.
+
+#### In Play
+
+PCs meet him on a mission, or escaping one. **Seeds:** the crown lends him to the PCs for a job; Mirren hires them to get him out; he asks them to swear, for him, that his name is Tam, and to mean it. **If nobody intervenes:** he goes under the knife at Treaty Stair.
+
+[box: Said of Them]
+"Ask him if he's happy. Go on. That's the joke." — a guard, by slate
+"When he says he loves me it means nothing. I keep it anyway." — Mirren Osk
+"He looks like any lad. Then he tells you the river's dry, and you check." — a lift-hauler
+[/box]
+
+### Judge Thane Urrow — the Court of the Sound
+
+> "The accused will repeat the oath, in its words, from the beginning. The court will listen. The court will not interrupt. The god does not need the court's help."
+>> — Judge Thane Urrow, opening his eleven thousandth trial, Lack 640
+
+[stat: Judge Thane Urrow — the Court of the Sound]
+Land & Cut: Oathen · Cut 3 (Tongue-line, Urrow) · Regrowth 6 (the Appetite) · Hunger 5
+Age & Station: 70; presiding judge of the Breaking courts since 601
+Calling & Standing: Clausewright · Standing 4 (Senior of the Bench)
+Attributes: Hand 2 · Gut 2 · Lung 1 · Eye 5 · Tongue 4 · Caul 4
+Skills: Clause 6, Lore 4, Instinct 4, Resolve 4, Reckoning 2, Persuade 2
+Flesh 10 · Guard 11 · Armor 0 · Fray 3
+Attacks: none.
+Gifts: Echo-Ear. Hold to It. The Judge's Ear (he hears a Breaking coming a breath before it lands, as a creak in the accused's bones; no roll).
+Wants: To Hold Others to Their Words. To Correct.
+Knacks: Butcher's Calm, Unflinching
+Derangements: none admitted. He has begun to count the sounds.
+Carries: red robes; the Book of Breakings; a closed-hand stone; a cloth; a thumb-ring; an ear-trumpet.
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+Small and neat, Thane Urrow wears red, because his robes are spattered so often that the court gave up on black in 604. His voice is like a knife drawn slowly. He smells of vinegar, which his clerk sponges on the bench after each session. His hands are perfectly still. His face, during a trial, is the face of a man listening to music.
+
+#### Their Story
+
+Born 571, he swore his judicial oath in 601: *I will judge by the god's hand and not my own, and I will take neither pleasure nor pity from it.* He has presided over eleven thousand trials. In 618 his only son Davin repeated an oath of service in his court and broke at the legs, and Urrow wrote it in his book like any other. Davin went down to the Breakdowns.
+
+#### Their Place in the Land
+
+His court is the only perfectly just court on the Table, and he hates it. Every Breaking trial in Tacit comes before him; the Bench sends him the hard cases.
+
+#### What They Carry
+
+- **Red robes** — three sets, vinegar-washed.
+- **The Book of Breakings** — every trial, every part.
+- **A closed-hand stone** — the court's symbol, worn smooth by his palm.
+- **A linen cloth** — for the blood.
+- **One thumb-ring** — the judicial oath.
+- **An ear-trumpet** — brass, for his failing hearing; he will not miss a sound.
+
+#### Wants, Fears and Secrets
+
+He wants to know whether the god still means it. **Secret (GM may reveal):** he has come to take pleasure in the sound, and if asked to repeat his oath before his own court, he would break. **Secret he does not know:** Davin is now one of Brakk's Splints.
+
+#### Ties
+
+- **Sorrin Vael** — drafts his sentences.
+- **Ket the Ninth** — watches from behind a screen, and closes his hand.
+- **Jessamy Quill** — has declined, twice, to repeat her oath in his court.
+- **Brakk** — the Forsworn voice that shouts his name each trial-day.
+
+#### In Play
+
+PCs meet him as their judge. **Seeds:** someone petitions for him to repeat his own oath; Davin needs a ruling; the god's verdicts have begun to come a breath late. **If nobody intervenes:** at the trial of a Forsworn, he smiles.
+
+[box: Said of Them]
+"He doesn't look at you. He looks at your hands." — a man acquitted
+"I've sponged that bench forty years." — his clerk
+"Ask the judge about his boy." — a Splint
+[/box]

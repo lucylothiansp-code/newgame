@@ -150,7 +150,6 @@ The **Rim Road** runs through the highlands for about a hundred and sixty miles,
 
 The **clay roads** are the rest: red tracks pounded hard by sheep and carts, winding along the ridges to avoid the ravines, where the waters gather. They are soft after every pang and set like brick in a dry week, and their ruts are a foot deep in Carving. Every crossroads has a **knocking-stone**, a waist-high red pillar on which travelers knock three times before choosing a way; the stones are hollow, and the hollows ring, and in the fog the sound of knocking carries for miles. Milestones in the highlands do not give miles but pang-houses: "Kest, nine houses." The **drove-roads** are wider and older, grassy ways along which the flocks are walked down to the Shambles, and they are safe in all seasons except lambing, when the ewes drop on the road itself and the drovers will not move until each birth has been looked at.
 
-Highlanders ride the sure-footed hill-goats, some of which are born talking and are sold at a premium as company on long roads, or go on foot. Horses are uncommon and nervous; they shy at crownings and will not cross ground that is warm. Carts are common on the Rim Road and rare elsewhere. On the Tull, flat-bottomed **cord-barges** pole their way between Kest and Tullford, so called because the bargemen are mostly Uncut, joined to their families ashore by cords that pay out from great reels on the bank; a barge can go only as far as its bargeman's cord will reach, which is about four miles, and passengers change boats at every reel-house.
 
 Travel during a pang is forbidden by every parish and practiced by everyone. The rule is simple: at the first cry of the Course-touched, which runs ahead of the quake like a wind, get off the road, lie down flat away from any slope, and count. After the sixty counts, wait for the waters, which come within the hour, and keep to the ridges. Ravines flood warm to the depth of a man in minutes, and drain as fast, and leave the ground rimed with pink salt and littered with what came up. Drovers who have been caught in a ravine flood say the water is the temperature of a body and that it holds you, gently, the way a hand holds an egg.
 
@@ -320,7 +319,6 @@ Fifty, sixty, still, still, still, and if it stays, it stays, it will.
 ## Voices of the Land
 
 - "Forty years I've laid brick across this town of a night. You learn what a breath sounds like through four courses. You learn what two breaths sound like when there should be one." — a night-mason of Mortar Rise
-- "I knock on the bread-crock. My mother did. Her mother did. I don't know what we think is in there. I'd rather know it knew I was coming." — a baker's wife in Cleave
 - "Mam says I'm called Keep till I'm named. I'm named next week. I want to be called Keep anyway." — a child, aged one year less a week, who already talks
 - "The first thing I remember is a woman with a basin saying 'what is it.' I thought she meant the weather. I said, 'raining.' She laughed. I loved her right away." — a Foundling soldier, born-grown four years
 - "They pay for the brick, the lads who come to me. Not the bed. The brick. A man wants one night where nothing gets in." — a woman of the Wall Road
@@ -571,7 +569,6 @@ Ambrose teaches letters, history and manners to the children of the Caul-line ho
 - **A child's letter-book** — the one he teaches from, its pages soft with handling. In the margin, in his own hand, he has begun copying out simple words as if learning them.
 - **Spectacles** — he needed them at birth. He no longer does. He wears them from habit.
 - **The Ledger of the Pot** — a calfskin book in which he writes down everything he remembers of the Meal, each night, because he has noticed that he is forgetting it, the way old men forget their youth, from the far end first.
-- **A sugar-stick** in his waistcoat pocket for whichever child asks.
 
 #### Wants, Fears and Secrets
 

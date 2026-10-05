@@ -811,7 +811,7 @@ Tablebreakers let her follow them. The Hostwatch consult her box. Everyone else 
 - **Prudence's card** — her brother's successor's name. She will not give it to her.
 - **The drawn card** — no name, only a careful drawing of an empty chair, pushed in, square to the table. She found it at a table with eight chairs. She will not let anyone hold it.
 #### Wants, Fears and Secrets
-**Secret:** the drawn card is getting warmer, though Orrum's cards are always warm and this one never was until Tablenight 640. **Unknown to her:** one of the Fain cards in her box is Fain's mother's.
+**Secret:** the drawn card is getting warmer, though Orrum's cards are always warm and this one never was until Tablenight 640. **Unknown to her:** one of the cards in her box bears the name of Lean Bellamy, Fain's mother, and Fain is looking for whoever holds it.
 #### Ties
 - **Welcome Ardent** — would like the drawn card back. **Meek Garrity** — wants to see it. **Envoy Lowell** — her card is in the box. **Decline Marsh** — she follows his band.
 #### In Play
@@ -822,3 +822,167 @@ She gives a PC their own card and asks them to keep it. Hooks: the eight-chair t
 "Mad as a hen. Lovely woman." — Tarry Moss
 [/box]
 
+### Reft Hume — the Chit-Forger
+> "One chit. One day. One mouth. I don't make bread, I make Tuesdays. Somebody's Tuesday comes out of somebody else's, that's arithmetic, ask Mother Avery."
+>> — Reft Hume, to a Crumb-Runner haggling for a stack of forged chits
+[stat: Reft Hume — the Chit-Forger]
+Land & Cut: The Fast (so she believes) · Cut 0 (Unfed, so she believes; in truth Cut 3, Fatlands Gut-line, never tested) · Want 5 · Pangs 3 (Hollow)
+Age & Station: 29 · Pantry Clerk, copyist of the daily list, forger of ration chits
+Calling & Standing: Factor (of the black market in Tuesdays) · Standing 2 (Pantry Clerk)
+Attributes: Hand 4 · Gut 2 · Lung 3 · Eye 4 · Tongue 3 · Caul 2
+Skills: Deceive 4 (forgery), Craft 3, Reckoning 3, Filch 3, Stealth 3, Clause 2, Endure 2, Athletics 2
+Flesh 12 · Guard 15 · Armor 0 · Fray 4
+Attacks: a clerk's penknife +4 (2)
+Gifts: The Empty Bowl (she can forge a Pantry chit that passes the window at Hand + Deceive Hard 14; on a Grace the forgery enters the ledger as genuine, and someone else's name, chosen by the GM, comes up a day short). Back on the List (once a season, by copying the daily list with a name restored, she can return one omitted person to the Ration Line for a week before Mother Avery's count catches it).
+Wants: To feed the omitted. Not to know whose day she is taking.
+Knacks: Steady Hands, Conditional
+Derangements: none
+Carries: a cut-down Pantry stamp; unbleached cloth squares; a copy of the daily list; a foundling's tag
+Dread: 0
+[/stat]
+#### Who They Are
+Reft is quick, narrow and sharp-elbowed, with a clever pointed face, thick dark hair she hacks short, and a habit of drumming her ink-stained fingers on any surface. She is a little broad in the hip for an Unfed and has been teased for it all her life. She talks fast and laughs at her own jokes, which in Wanting is a kind of indecency. She smells of ink and the starch the Pantry uses to stiffen chit-cloth.
+#### Their Story
+She was left at the Brindle Cross toll-house in a basket in the Lack of 612, with a wooden tag round her neck reading only *Reft*, and taken in by a family of Humes, descendants of Scarcity Hume of the Great Short. She grew up knowing she was the great-great-granddaughter, by adoption, of the woman who invented the list, and at nineteen took the clerk's oath in the Pantry to atone for it. In 636, copying the daily list, she wrote back in, by accident, a name that had been struck. The woman ate for a week before anyone noticed. Reft decided it had not been an accident.
+#### Their Place in the Land
+She copies the daily list that the Keeper reads at dusk, and has access to the chit-stamp for the hour it takes to stamp the next day's issue. In that hour she forges. She gives most of the forgeries to Withy Gaunt for the Lean House, where Withy refuses them, and then to the omitted directly, at night, at the Lean House door. She sells the rest to Crumb-Runners for three lacks each, to pay for cloth. Every forged chit that is honoured at the window is a day of grain taken from the Pantry's four months, and Mother Avery's arithmetic is exact. Reft knows this. Every Tuesday she gives the Lean House comes out of some village's Tuesday at the end of Lack.
+#### What They Carry
+- **A cut-down Pantry stamp** — the empty bowl, carved in pear-wood from a stolen impression. +2 to forgery.
+- **Unbleached cloth squares** — stolen, a few at a time, from the Pantry's own bolts.
+- **A copy of the daily list** — with her own small marks beside the names she has restored.
+- **The foundling's tag** — the wooden tag from her basket, *Reft*, and on its back, very faint, a brand she has never been able to read: a Fatlands Gut-line's notch.
+#### Wants, Fears and Secrets
+Reft wants the Lean House empty. She fears Mother Stint Avery, who she is sure has noticed. **Secret (hers):** she has restored, among others, her own adoptive mother's name, struck last Carving, and the extra measure has kept the old woman alive. **Secret (unknown to her):** she is a Gut-line bastard of the Strake family of Sated, placed as a foundling by a ladies' maid who wanted the child to live without the god's weight. She carries Cut 3 that has never been fed a mouthful of Fatlands meat: a full Godeater inheritance, asleep. Scarce Odell has found her in the College quires and put her name on the Strake tree. The Reckoners' rule is that the line is not ended until every member is.
+#### Ties
+- **Scarce Odell** — has her on his list; they nod at the Ration Line.
+- **Withy Gaunt** — refuses her chits three times, then lets her hand them out at the door.
+- **Mother Stint Avery** — has seen the count come out short by forty days. Has said nothing yet.
+- **Tarry Moss** — buys her chits, and spits after.
+- **Kale Dragoman** — a Taste the Name lick of her blood would tell him exactly what she is, and what she is worth.
+#### In Play
+PCs meet Reft when they need someone put back on the list, or when they are paid in chits that turn out to be hers.
+- **The Strake Precedent.** Scant Hollis's band is preparing to end the Strake line in Sated. The tree has a cousin in Wanting. The PCs are the Carriers.
+- **The Audit.** Mother Avery asks the PCs to find out who is stealing forty days from the Pantry. The answer is feeding the Lean House.
+- **One Mouthful.** Reft, at a Rim inn, is given Fatlands meat by an unwitting PC. The god in her, asleep for twenty-nine years, wakes in an hour.
+Threatened, she jokes and runs. Kindness she suspects, and then trades. If nobody intervenes, the Reckoners come for her quietly on the night before Tablenight, and the forty days come out right at last.
+[box: Said of Them]
+"She gave me a chit at the Lean House door. I said no three times. She said, I'm not offering, I'm returning it, it was always yours." — a woman of the Lean House, who lived
+"Forty days. Somebody is stealing forty days. I can find it to the day; I cannot yet bear to." — Mother Stint Avery
+"Bit broad in the beam for one of ours, isn't she." — a woman in the Ration Line
+[/box]
+
+### Fallow Brindle — Warden of the Barrows
+> "The oldest are at the bottom. Nine deep, ten. I go down with the spade when the rain opens a mound. You'd think they'd be thin. They're not thin. They're clean."
+>> — Fallow Brindle, to Meek Garrity, in a letter he has not answered
+[stat: Fallow Brindle — Warden of the Barrows]
+Land & Cut: The Fast · Cut 0 (Unfed) · Want 6 · Pangs 4 (Hollow)
+Age & Station: 54 · Warden of the Barrows below Hallowboard; gatherer of teeth after rain
+Calling & Standing: Celebrant (of the hill's dead) · Standing 3 (Abstinent-appointed; nobody else wants it)
+Attributes: Hand 3 · Gut 4 · Lung 2 · Eye 3 · Tongue 1 · Caul 4
+Skills: Labor 4, Endure 4, Resolve 4, Rites 3, Search 3, Lore 2, Blades 2
+Flesh 16 · Guard 14 · Armor 1 (hide coat) · Fray 7
+Attacks: spade +5 (3)
+Gifts: By the Ones Who Stood (any oath sworn in the trench before her as witness binds with the Strength of the Dead at +3 instead of +2). Bone-Reader (she can tell an Unfed bone from a Godeater's by touch, and the oldest bones of the hill from the rest; Eye + Search Routine 10).
+Wants: To keep the Barrows closed. To know why the oldest bones are clean.
+Knacks: Butcher's Calm, Silent Supper
+Derangements: The Seeing (triggered by dusk on the hill; she sees the second row standing on the first)
+Carries: a spade; a sack of teeth; a carving knife from the bottom layer; a lantern; chalk
+Dread: 2 (to go down into an opened mound with her)
+[/stat]
+#### Who They Are
+Fallow is broad, heavy-handed and silent, with chalk ground into every line of her face and hands so that she looks carved, grey eyes, and cropped hair gone white at the temples. She speaks perhaps twenty words a day. She smells of wet chalk, turned turf and the pale long grass of the Barrows, which she does not cut, because it is the only grass in the Fast that is not trimmed.
+#### Their Story
+Born 587 to a family of the Brindle hamlet whose name the Cross took. Appointed Warden in 619. Each spring after rain she walks the trench and the Barrows, gathering the teeth the chalk gives up and reburying them, and when a mound slumps she goes down with a spade to lay the dead straight. In 639 the great Lammas Barrow opened after a storm, and she went down further than any Warden had, to the bottom layer.
+#### Their Place in the Land
+She lives in a turf hut at the foot of the hill, draws a measure brought by a Measure-Bearer once a fortnight, and witnesses the oaths sworn in the trench. Unfed who travel two days to swear in their ancestors' footprints find her standing a little way off with a lantern. She is the only Unfed who goes onto the hill alone at night, and she never walks on the eighth side.
+#### What They Carry
+- **A sack of teeth** — the gatherings of a spring; she counts them into the Barrows on Tablenight.
+- **A carving knife** — bronze, pre-Gorging, clean as the day it was ground. She found eleven hundred in the bottom layer, laid beside the dead, unused.
+- **A lantern and chalk** — for marking which mound has slumped.
+#### Wants, Fears and Secrets
+**Secret (hers):** the bottom layer of the Lammas Barrow does not hold starved bodies. It holds bones that are clean, every one, the way a plate is clean after a good guest has finished with it: no flesh, no marrow, no mark of tooth or blade, polished, as if by a cloth. They were buried first, before the trenches of the Refusal were dug over them. She has written this to Meek Garrity. **Unknown to her:** on the eighth side, where she never walks, there are fresh footprints in the untrodden chalk every Lack morning, and they come from the Barrows, and they go away down the hill.
+#### Ties
+- **Meek Garrity** — her unanswered letter. **Abide Kettering** — his fields' graves never settle, and she has walked them. **Scant Hollis** — swore her captain's oath in the trench before Fallow. **Forbear Wend** — appointed her, and told her never to dig below the ninth row.
+#### In Play
+PCs come to swear an oath in the trench, or to escort Meek to the hill. Hooks: the opened Barrow; the clean bones; the eleven hundred knives. Threatened, she leans on the spade and waits. If nobody intervenes, she goes down into the Lammas Barrow one more time in Lack, and does not come up, and in the morning the mound is closed and smooth, and the grass on it has been cut.
+[box: Said of Them]
+"I swore on my grandmother's footprint. The Warden held the lamp. She didn't blink once." — a young Reckoner
+"Twenty words a day, and nineteen of them are 'stand back'." — a Measure-Bearer
+"She sent me a letter about clean bones. I have read it every night. I have not answered. I do not want to know what I already know." — Meek Garrity
+[/box]
+
+[pagebreak]
+
+## Webs of the Fast
+
+> The table is always laid for the one who stays too long.
+>> — Wanting proverb
+
+The Fast is a small place, nine thousand souls on a cold edge, and everyone in it is tied to everyone else by the list, the chalk and the god. The table below covers the people of this half of the chapter; the first half's people appear in their ties.
+
+| Character | Wants from | Fears | Owes |
+| Mercy Thrane | Aldane: men to raid Barr's house | the ledger being useless | the College, her honesty |
+| Kale Dragoman | any captive: thanks | the fork-badge man | Barr, a reason; Withy, his life |
+| Prudence Lowell | Wend: Garrity's omission | Garrity being right | Oriel Vance, an answer |
+| Scour | Scant Hollis: a clean death | the nursery; his own voice | the Paunch child, a spoon |
+| Sober Osmond | a PC: to take the duty | dying with no successor | the god, a plate a night |
+| Yield Hartsell | whoever waters: a name | the burning party | Tarry Moss, fifty springs |
+| Little Fain | the right person: a hand | nothing | the kitchen, one guest |
+| Keep Aldane | Osanna: to go home | that she is right | Cease Pollard, a measure |
+| Osanna Blythe | Aldane: the gate | dying a day short | the column, a table |
+| Meek Garrity | one Elder: belief | the brazier | Fallow Brindle, an answer |
+| Welcome Ardent | anyone: relief | the extra chair | Bounty, a card |
+| Scarce Odell | Reft Hume: her gums | a loose end | the Reckoners, everything |
+| Withy Gaunt | the dying: the recipe | the Host coming in | Decline, an answer |
+| Abide Kettering | Kale: payment | Mercy's scale | Withy, the truth |
+| Joss Mardle | Avery: silence | the sealed order | the Fast, four villages |
+| Hollow Ann Pruett | Ardent: nothing | anyone holding the drawn card | Prudence, her card |
+| Reft Hume | Avery: blindness | the audit | the omitted, forty days |
+| Fallow Brindle | Garrity: a reply | the bottom layer | the hill, the teeth |
+
+### Three Fuses
+
+**The Mother, the Son and the Sexton.** Withy Gaunt sold her baby at Brindle Cross so that he would live. He lived, and grew up to be Kale Dragoman, who buys the bodies of the omitted from Withy's own sexton, Abide Kettering, at the crossroads three miles west. Withy has the red neckcloth. Kale has the empty grave his father showed him. Kettering has the purse of chits. Any PC who follows one thread finds the other two. The explosion comes when Kale, kind and plump and smelling of woodsmoke, walks into the Lean House to collect a body himself, and Withy smells him, and Kale, licking a drop of her blood from a cut on her hand to price an old woman in the straw, tastes his own name. Kettering is in the doorway. Kettering has the pickaxe.
+
+**The Physician and the Farmer Called Abide.** Mercy Thrane carries a plank from a hidden room in Sated with *A.T.* scratched on it, and believes it is a patient's. It is her brother's. Abide Thrane has been alive in Master Quillon Barr's brine-tanks for nine years and has started to put on weight, and Barr has read Mercy's book with admiration and sent her spectacles. Marshal Aldane has sixty men and a boy in the weighing-shed he is already breaking the law for. Kale has the address. Mardle has the dockets. The moment Mercy learns the truth she will go over the Rim with or without help, and the Fast will have to decide, very publicly, whether an Unfed taken is dead.
+
+**The Slate, the Envoy and the Captain.** Meek Garrity has the seating plan; Fallow Brindle has the clean bones and eleven hundred unused knives; Sober Osmond has a rite with a line about *the one who comes late*; Hollow Ann Pruett has a card with an empty chair drawn on it. Together they say that the Refusal never happened, and they say something else as well, which no one has yet put into words. Prudence Lowell has asked for Garrity's death to protect the Refusal. Scant Hollis stood in Garrity's doorway for a minute and left: if the Unfed only arrived late, her nine ended lines were not justice but envy. When the papers reach the Reckoners' west gate, the Fast's two poles, the Keepers and the Reckoners, will discover they have the same enemy, and that he is a gentle old man with ink on his lip, and the PCs will be the only people in Wanting standing between him and the brazier.
+
+[pagebreak]
+
+## Using the Fast's People
+
+The people of the Fast are best used slowly. Nobody here attacks; everyone here offers, or refuses, or counts. Let each of them want something small from the PCs first: a hand with a cart, an hour sitting up with a blade of wheat, a name verified, a slate moved. Then let the small thing turn out to be connected to the list, the god or the chalk. Track Pangs openly. Let the PCs be offered food by everyone who should not offer it, and refused it by everyone who should.
+
+[box: Running the Fast's People]
+- **Everyone refuses three times.** When a PC offers an Unfed NPC anything, play the Decline aloud. The fourth offer is where character lives.
+- **Kindness is the threat.** Kale, Osanna, Fain and Ardent are the most dangerous people in the chapter, and none of them will raise a hand.
+- **The list is always being written.** At any point the GM may announce that a name has been left off. Make it a name the players know.
+- **Never say whose chair it is.** Ardent does not know; Garrity has misread it; Hollow Ann will not let anyone hold the card. Let the players count the sides of Hallowboard themselves.
+[/box]
+
+### Who's at the Door?
+
+Roll a d20 when the PCs are lodging in Wanting, sheltering in a bricked house, or camped near the border, and someone knocks. In the Fast, the door opens outward. Nobody says *come in*.
+
+| d20 | At the door | Why |
+| 1 | Dr. Mercy Thrane | To measure every PC, now, before the Pantry list is read; she will not say why the hurry |
+| 2 | Kale Dragoman | With a pot of stew, as a peace offering, three times, and then a fourth |
+| 3 | Envoy Prudence Lowell | To ask a PC to stand back to back with her while she eats, and talk about numbers |
+| 4 | Scour | Sleeves buttoned, asking for a bag of sand, and whether anyone saw a cold table on the road |
+| 5 | Verger Sober Osmond | Lost, six miles from his hall, asking which way, and whether anyone would like to learn a rite |
+| 6 | Yield Hartsell | Breathless, with her fork: the wheat has grown an inch, and there is frost on it in Plenty |
+| 7 | Little Fain | Holding out a warm hand. "You can come too." |
+| 8 | Marshal Keep Aldane | Needing ten more spears by dusk; the column is singing at the gate |
+| 9 | Osanna Blythe | Asking for directions, very politely, for the third time today |
+| 10 | Meek Garrity | With a sack of pease that is not pease, begging the PCs to keep it till morning |
+| 11 | Welcome Ardent | Bowing; he has laid a table in the yard, and is so sorry, and would they mind not breaking it till he has gone |
+| 12 | Scarce Odell | With a tape-measure, to verify a name that turns out to be a PC's |
+| 13 | Withy Gaunt | A friend of the PCs is in the Lean House and has asked for them by name, with a recipe |
+| 14 | Abide Kettering | With his cart and lamp, at the wrong hour, asking if anyone here has died yet |
+| 15 | Factor Joss Mardle | Offering, in principle, a contract, with an exit only he can find |
+| 16 | Hollow Ann Pruett | With a card in a loved hand, bearing a PC's name; it is rude to leave it |
+| 17 | Reft Hume | With a fistful of chits, needing them hidden before the Keeper's audit |
+| 18 | Fallow Brindle | Twenty words: a Barrow has opened, and she needs strong backs and steady stomachs before dark |
+| 19 | Nobody | Only the smell of bread, and a card slid under the door, in a dead mother's hand |
+| 20 | A tall shape | Stooping under the lintel, warm, holding the door open for someone it is not looking at (Dread 4) |

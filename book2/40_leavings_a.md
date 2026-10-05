@@ -995,3 +995,163 @@ The Wreckwives believe it is a Tenant's tool, sent ahead. The Netwatch believes 
 **EFFECT:** The knife cuts any rope, chain or binding with a single stroke, including Dowager hair and the Anchorites' iron; no roll. It also cuts promises: used to sever a cord tied between two people as a token, it ends one oath between them, unkept and unbroken. But each night it is in the bearer's house, the GM rolls a d6; on a 1, a sleeper in the house (the bearer included) wakes with their anchoring cut, and must make a Calling roll.
 
 **WORTH:** Never sold; nobody keeps it long enough. Unique. The Netwatch pays a tally for every sighting.
+
+## From the Uncovered and the Deep
+
+[sigil: brinehollow]
+
+A new mile of seabed is exposed every year, and with it six centuries of wrecks, bones, reefs gone to rot and things that came up as the water fell and did not die properly. By old salvage law, what the sea gives up belongs to the finder. By newer custom, salvagers do not go out alone, do not go past the Wreck Orchard after dark, and do not bring home anything that is still warm. Saltwick's salvage halls buy everything else.
+
+### Ribwalker Bellows
+
+On the Uncovered there are things with too many ribs: cages of long curved bones, thirty or forty pairs, opening and closing like slow bellows, mounted on legs that might once have been the ribs of something else. Inside each cage is a grey sack that pulses. Ribwalkers move toward water, any water, and they press it out of whatever they catch: a salvager held in the closing cage loses the water of their body a cup at a time, and is found afterward flat and dry as a pressed flower.
+
+The grey sack is the bellows. Cut out and cured in salt, it is a fist-sized bladder of rubbery grey hide with a tube of soft bone at each end, and it still pulses, slowly, when warm. Pressed to a mouth, it draws out water. The Netwatch learned this first: a Called man dragged from the surf with his lungs full can be saved with a Ribwalker bellows, pumped by hand, faster than by any bailing. Every Netwatch boat carries one now. Every Netwatch hooker has stories of the times it drew out more than water.
+
+**WHISPERED:** Eye + Lore vs Routine (10) in the Netwatch; Hard (14) elsewhere.
+
+**SPOILAGE:** A year salted. Unsalted, it rots in a week and smells of a beach in Plenty.
+
+**CARVING:** From a Ribwalker, killed or disabled (Hand + Blades vs Hard 14 to cut the sack free intact, inside the cage). A Lack means the cage closes on the carver's arm: 2 Flesh a round until freed (Gut + Labor vs Hard 14). Seeing the dry thing still in the cage's last catch is Dread 2.
+
+**TAINT:** Dread 1.
+
+**EFFECT:** Used on a drowning or un-bailed person (Hand + Stitching vs Routine 10), the bellows clears their lungs in a round, saving them; it counts as bailing. Used as a weapon on a grappled or helpless foe (Hand + Brawl vs their Guard), it draws out 1d6 Flesh of water; each Helping adds 1. Used on a Tenanted person, it draws out a gallon a round, more than the body can hold, and the Tenant asks, politely, that you stop.
+
+**WORTH:** 45 L. Uncommon in Lowmark. Legal; Netwatch issue.
+
+### Lobbett's Silt
+
+Cray Lobbett, a scavenger on the far Uncovered, found a stone table on the seabed, older than the Gorging, with eight chairs. Seven were pushed in. The eighth was pulled out a little, as if someone had just stood up, or was about to sit down. He has not been able to sell the location, or to stop going back. Salvage crews have searched for it for two years. Three did not come back.
+
+Lobbett brings back silt. He fills his pockets with it every trip, from under the eighth chair, without meaning to, and empties them in Saltwick taverns, and sometimes sells a twist of it for drink. Lobbett's silt is fine, grey and soft as flour, and dry, although everything else on the far Uncovered is wet. It smells faintly of bread. Held in a closed hand, it is warm, the way a chair is warm after someone has risen from it. A pinch of it scattered on any table makes the room uneasy: diners look up, all at once, toward the empty end of the table, as though someone were expected.
+
+Lobbett says the silt is how he finds his way back. He says he wishes it weren't.
+
+**WHISPERED:** Eye + Lore vs Grim (18) in Saltwick; Dire (22) elsewhere.
+
+**SPOILAGE:** It never changes. It is never quite all used up: a pocket emptied of it has a little in the seams the next morning.
+
+**CARVING:** Bought from Lobbett (Tongue + Haggle vs Routine 10; he wants to be rid of it), or gathered at the table itself, which requires finding it (see Ilse Marl's Chart in the Rim Market). Sitting in one of the seven chairs is a Dread 3 check. Touching the eighth is a Dread 5.
+
+**TAINT:** Dread 2, each time it is scattered.
+
+**EFFECT:** The holder always knows the direction and distance to the stone table, anywhere on the Table, and can never be lost on the Uncovered (no Wayfaring rolls needed there). Scattered on a table at a meal, it makes everyone present glance at the same empty place: the scatterer gains +2 to Filch and Stealth for the scene while all eyes are elsewhere. Scattered on one of Orrum's tables, it does something the GM should decide in advance, and should not explain.
+
+**WORTH:** 10 L a twist from Lobbett, who undercharges. Scarce. The Reckoners of the Fast pay a great deal more, and ask where it came from, and do not leave.
+
+### A Bladder of Trench-Breath
+
+Thirty miles west of Lowmark's last pier the Uncovered ends at a cliff edge, and beyond it lies black water that has not dropped at all, an abyss with a current that runs downward. From the edge you can hear it draining: a low, endless sound like a throat swallowing. Salvagers who go to the brink report a warm updraft that smells of breath.
+
+They are not imagining it. The air that rises from the Trench is warm, damp, and has been somewhere. A pig's bladder held open at the edge and tied off quickly traps a lungful of it; the bladder stays warm, swells and slackens slowly, in and out, as though it were breathing on its own. Opened under the nose, it smells of a sleeping mouth, and of the deep, and of something sweet underneath. Brinehollowers who inhale it feel the tide in their chest go still and listen, as a dog listens to a whistle; the Hunger in them drops to nothing. Then they find they are facing west.
+
+**WHISPERED:** Eye + Lore vs Hard (14) among far salvagers; Grim (18) elsewhere.
+
+**SPOILAGE:** A month; the bladder goes cold and limp when the breath has gone out of it.
+
+**CARVING:** At the Trench edge (two days across the Uncovered; Lung + Wayfaring vs Hard 14 each day). Catching the breath is Hand + Craft vs Routine 10, but standing at the edge is a Dread 3 check, and a Lung-line character must make a Calling roll at Hard (14) or begin to walk down the cliff.
+
+**TAINT:** 2 Regrowth (Dromm), Dread 1.
+
+**EFFECT:** Inhaled, it removes all Hunger from a Brinehollower (or anyone with Dromm in them) and gives +2 to the next Godsign roll. Then the inhaler makes a Calling roll that night at +2 difficulty. Released in a closed room, the breath makes every Brinehollower there turn to face west for a minute, motionless, listening, and lose their next action; those who fail a Caul + Resolve roll vs Hard (14) hear the draining sound in their own chest for a week.
+
+**WORTH:** 120 L. Rare. Legal. The Deepening buys every one and opens them on Gullcry Strand at procession time.
+
+### A Figurehead's Eye
+
+Eight miles out on the Uncovered, in a shallow basin, nearly two hundred wrecks of every age stand upright on the mud in loose rows, as if parked by a harbormaster. Nobody can explain why they are upright, or why their hatches are all open, or why their figureheads all face west. Lantern-light can be seen in the oldest ones at night, which are empty.
+
+Salvagers prize the figureheads' eyes. Each is a disc of painted wood or set glass, the size of a palm, prised from a carved face: a mermaid, a queen, a dog, a saint, a weeping woman with her hands to her breast. Taken from the Wreck Orchard, the eye goes on looking west. It turns in its setting, or in the hand, or in a drawer, until it faces the sea. Captains of the propped fleet at Keelrow keep them on their sea-chests as a compass. And sometimes, at night, the painted pupil of a figurehead's eye shows a tiny lit window, as though the wreck it came from had a lantern burning in it, and someone were standing at the glass.
+
+**WHISPERED:** Eye + Lore vs Routine (10) on the Mile; Hard (14) elsewhere.
+
+**SPOILAGE:** Indefinite. The painted ones flake within a decade.
+
+**CARVING:** Prised from a figurehead in the Wreck Orchard (Lung + Athletics vs Hard 14 to climb the bow; Hand + Craft vs Routine 10 to prise it free). At night, a Lack means the lantern in that wreck goes out, and something walks down the inside of the hull toward the bow. Dread 3.
+
+**TAINT:** 1 Regrowth (Dromm), on each night it is looked into.
+
+**EFFECT:** The eye always shows the direction of the retreating sea (and, increasingly, of the Trench), unaffected by fog or magic. The bearer gains +2 to Wayfaring on the Uncovered. Looked into at night (Eye + Search vs Grim 18), its lit window shows the inside of its own wreck as it is now, and whoever is in it; a Grace shows their face.
+
+**WORTH:** 25 L. Uncommon on the Mile. Legal under salvage law.
+
+### A Longslab Stone
+
+Longslab, the beach of the Beaching, where Dromm was hauled ashore on ten thousand hooks and took four days to stop moving, is permanently wet, though no sea has touched it in a century. Water seeps up through the shingle as if the beach were a sponge someone is always pressing. At the tide-turns the wet ground breathes: a slow sigh across two miles of stones.
+
+A Longslab stone is a flat grey pebble of the beach, smooth and sweating. It never dries. Wrapped in a cloth, it soaks the cloth in an hour; set on a table, it leaves a ring that spreads. The water it sweats is the god's, coming up from wherever the god's blood went into the shingle six centuries ago: cold, very salt, faintly pink in good light. Pressed to a drowning person's chest, it pulls the water out of them, the way the beach pulls; pressed to a wound, it draws out the blood, cleanly, and closes it. Gulls will not land near one. Children on the Mile dare each other to lick them.
+
+**WHISPERED:** Eye + Lore vs Routine (10) in Brinehollow.
+
+**SPOILAGE:** A stone sweats for a year after it leaves the beach, then dries, cracks and is only a pebble. Outside Brinehollow, a season.
+
+**CARVING:** Picked up from Longslab (no roll), but standing on the beach at a tide-turn is a Dread 1 check for anyone, and a Lung-line character must resist the Want *The West* at Hard (14). Pilgrims of the Deepening lying face-down on the shingle resent collectors.
+
+**TAINT:** 1 Regrowth (Dromm), on each use.
+
+**EFFECT:** Pressed to a chest, it bails a helpless person in a minute (counts as bailing, no roll). Pressed to a wound (Hand + Stitching vs Routine 10), it stops bleeding and heals 2 Flesh. Carried on a pressure day, it gives the bearer an hour's warning and +2 to Endure against the pressure. Used too long, it pulls water from whoever holds it: a bearer who keeps one in a pocket for a month loses 1 Flesh and gains a terrible thirst.
+
+**WORTH:** 2 L. Common in Lowmark. Legal; considered unlucky.
+
+## Preparations of the Coast
+
+[sigil: brinehollow]
+
+Brinehollow's crafted leavings are the work of smugglers, monks and priests, the three trades that have most to do with what goes in and out of people. They are the coast's most exported goods after salt, and two of them are the reason the Vigil's Slope has begun walking west.
+
+### Dry Jonah's Blue Label
+
+Captain Jonah Skerry, called Dry Jonah, bottles what Brinehollowers cough up and sells it inland as tonic. It sells well in the Vigil. He has never asked what his customers start to dream about. His ordinary brine tonic heals and is sold on every Rim market (see the Rim Market). His Blue Label is not ordinary.
+
+Blue Label is bail-water collected from people in the last week before their Calling, when the water Tolly Brack reads goes from green to a deep sea-blue with a weight to it, like water pulled from a hundred fathoms. Jonah's collectors follow Tolly on his rounds, and buy the blue water from the families, who do not want it in the house. Bottled in cobalt glass with a hand-drawn blue label, it is cold, viscous and faintly luminous, and it tastes of tears. In the Vigil, Rook Quarter-Bell cuts it into his rouse on the Slope, and his customers stay awake for twice as long. They have also started walking west.
+
+**WHISPERED:** Eye + Lore vs Hard (14) on the Slope and the Mile; Grim (18) elsewhere.
+
+**SPOILAGE:** A year in cobalt glass; it goes cloudy and inert in sunlight.
+
+**CARVING:** Bought from the family of someone about to be Called (Tongue + Haggle vs Hard 14; Dread 2, because they are in the next room, standing at the west window). Or bought from Jonah (Tongue + Haggle vs Grim 18).
+
+**TAINT:** 3 Regrowth (Dromm). Addiction: Grim (18).
+
+**EFFECT:** A dose drunk removes 4 Weariness (see the Vigil) and holds Weariness gains at bay for a full day; it also removes 1d6 Fray, as a vice, with the usual risk of habit. The drinker dreams of the sea while awake, all day, at the edge of sight. On a failed Regrowth Taint roll, they must also make a Calling roll that night, as a Brinehollower of their Regrowth would, even if they have never seen the coast.
+
+**WORTH:** 25 L a bottle in Lowmark; 80 L in the Vigil. Scarce. Not illegal anywhere, because no law imagines it. The Wreckwives would drown Jonah in a barrel of it.
+
+### A Link of Father Ebb's Chain
+
+Father Ebb, Abbot of the Anchorites, has been chained to the same rock on the Hanging Abbey's cliff for fifty-one years. He has felt the Calling every night of them. He says the chain is not what holds him, and will not say what does. Every decade or so the salt eats through a link, and the brothers replace it, and the old link is given to a pilgrim who has climbed the cliff to ask for it.
+
+A link of Ebb's chain is a ring of black iron as broad as a palm, crusted white with salt, rusted to lace at one side where it parted. It is cold and wet. Worn on a cord, it is heavy. The pilgrims who wear one say they sleep unanchored and are not Called, and the Anchorites do not deny it. But the brothers who climb down to the pilgrims say, gently, that the link only works for those who wear it as Father Ebb wears his chain: as a reminder, not a rope. They will not explain what that means. Pilgrims who misunderstand it are found on the Uncovered, still wearing it.
+
+**WHISPERED:** Eye + Lore vs Hard (14) along the coast.
+
+**SPOILAGE:** It rusts away over a decade; in the Abbey's salt rain, a year.
+
+**CARVING:** Given at the Hanging Abbey to a pilgrim who climbs the cliff (Lung + Athletics vs Grim 18; a fall is a long one), and asks (Tongue + Rites vs Hard 14). Climbing past a thousand chained monks coughing in unison at dusk is a Dread 2 check.
+
+**TAINT:** none.
+
+**EFFECT:** The wearer gains +4 to Calling rolls and to resisting *The West* and *The Water*, but only while they hold to a reason to stay ashore: a living person they would not leave, a vow, a task. The player names it when they first wear the link. If that reason is lost (the person dies or is Called, the vow is broken, the task done), the link gives −4 instead, until a new reason is named at the Abbey. Ebb, asked about this, says that is what holds him.
+
+**WORTH:** Never sold by the Anchorites; 100 L from pilgrims who have given up. Scarce. Legal.
+
+### A Deepening Lantern
+
+Mother Limpet, prophet of the Deepening, has baptized two thousand by walking them into the sea at night. She says she will follow when the last one is safely under. She is eighty-four. On procession nights the road of crushed white shell from Gullcry Strand toward the far water is lit at every post, and the faithful walk it in lines, singing, with lanterns, and the lanterns go under with them, still lit.
+
+They do not go out. The Deepening's lanterns are made of horn and brass, their wicks soaked in a lamp-oil rendered from the fat of beached fish and blessed on Longslab, and they burn under water. Salvagers find them on the Uncovered, among the leather-weed, still burning, years after their bearers walked in. The flame is blue-green, small and steady. In its light, Brinehollowers feel no fear of the sea at all; they feel welcome. The Netwatch smashes every one it finds. Lieutenant Sable Reef, who has pulled three hundred Called off the shore with hook and rope, keeps one, unlit, in her quarters. She has begun to wonder what she is saving them from.
+
+**WHISPERED:** Eye + Lore vs Routine (10) on the coast.
+
+**SPOILAGE:** A filling of the oil burns for a year, in air or water. Refilled with ordinary oil, it is an ordinary lantern.
+
+**CARVING:** Found lit on the Uncovered (Eye + Search vs Hard 14 at night). Taken from a procession walker (Hand + Filch vs Hard 14; they will not resist, and will smile at you, Dread 2). Given by Mother Limpet to a willing pilgrim (no roll).
+
+**TAINT:** 1 Regrowth (Dromm), each night it is lit.
+
+**EFFECT:** The lantern burns under water and in any wind, lighting ten paces. Anyone in its light gains +2 to Dread checks caused by the sea, water or the Tenanted, and the Called in a procession are calm and will not resist being roped out of line if the lantern is carried with them (no roll needed to rope one free). But Brinehollowers in its light for a scene must resist *The West* at Hard (14).
+
+**WORTH:** 35 L. Uncommon. Netwatch confiscates on sight; possession is "aiding a Calling," a fine of ten tallies.
+
+[pagebreak]
