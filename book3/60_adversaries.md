@@ -861,3 +861,241 @@ And each night they sleep a little deeper, and wake a little later, and want to 
 [quick] The Crumb-Bringer — Threat 7 · no Flesh (it is not there to strike) · Guard none · Attack none; Hosting 18 nightly against a sleeping Unfed or anyone who has refused a table that week (failure: the character wakes fed, removes all Starving levels, and gains 1 *Fed* mark; at 3 marks they gain the *Pull* Derangement toward sleep, at 5 they do not wake) · Dread 1 on waking with crumbs / 3 on finding the warm chair · an Unfed who stays awake all night, or sleeps with a lit fire and a Tablebreaker's axe across the threshold, is passed by; refusing aloud in one's sleep, three times, is said to work, and nobody knows how to teach it.
 
 [pagebreak]
+
+## Human Adversaries
+
+Most blood spilled on the Table is spilled by people. The templates below each give a quick line for the rank and file and a full stat block for a veteran or leader. Adjust Cut to the land: a Netwatch sergeant is a Lung-line commoner, a Second Table diner is whatever the highest Cut of their country is. Remember that every human with a Cut can Partake, and that a desperate soldier will. Remember too that every one of them has a home, a debt and someone waiting, and that the Table's worst atrocities are committed by people who are, by their own lights, being responsible.
+
+[pull] The monsters only eat you. It takes a person to make you thank them for it. | — Brakk, Voice of the Forsworn
+
+### Netwatch Patrol
+
+The Admiralty's night patrol hunts the Called along the shore with nets, hooks and rope. They are not cruel. They are tired, salt-stained, and drag people home who are fighting to go. A patrol is six hookmen and a sergeant with a lantern on a pole.
+
+[quick] Netwatch Hookman — Threat 2 · Flesh 12 · Guard 13 · Attack +5 (boathook 4, Hooking 14) · Armor 1 · Dread 0
+
+[stat: Netwatch Sergeant — Hook and Lantern]
+Attributes: Hand 3 · Gut 3 · Lung 3 · Eye 3 · Tongue 2 · Caul 3
+Cut & Regrowth: Cut 2 (Lung-line commoner) · Regrowth 3 (the Taste) · Hunger 3
+Skills: Blades 3, Athletics 3, Wayfaring 3, Search 3, Resolve 2, Endure 2
+Flesh 13 · Guard 16 · Armor 1 · Threat 3
+Attacks: boathook +6 (4, Hooking 16); weighted net +6 (0, Grapple 16, two targets)
+Tactics: one hook in the collar, one rope on the ankle, nets over all. They know the Pull and rope each other at the waist before the Uncovered sings.
+[/stat]
+
+### Wakers
+
+The Vigil's police carry rattles and long needles, and they have been hurting people for their own good for three hundred years. A Waker patrol is four, sharp-eyed and twitching on rouse.
+
+[quick] Waker — Threat 3 · Flesh 11 · Guard 14 · Attack +5 (needle 1 plus 1 Fray; rattle-club 3) · Armor 2 · Dread 0
+
+[stat: Waker Captain — the Needle of the Watch]
+Attributes: Hand 4 · Gut 2 · Lung 3 · Eye 4 · Tongue 3 · Caul 3
+Cut & Regrowth: Cut 3 (Eye-line by-blood) · Regrowth 5 (the Appetite) · Hunger 5
+Skills: Blades 4, Stitching 2, Intimidate 4, Search 4, Instinct 3
+Flesh 12 · Guard 17 · Armor 2 · Threat 4
+Attacks: waking needle +8 (2, plus 1 Fray and target cannot blink for an hour); sword +8 (4)
+Tactics: Never Surprised; immune to sleep. Blinks under stress: on a Lack she loses a round and wakes having moved.
+[/stat]
+
+### Cullmasters
+
+The quiet office of the Board chooses who works the far fields at dusk. Its agents are clerks with ledgers, accompanied by Bailiffs who carry the red wrist-cloth and tie it on.
+
+[quick] Cull-Bailiff — Threat 2 · Flesh 14 · Guard 12 · Attack +5 (cudgel 3, Grapple 14) · Armor 1 · Dread 0
+
+[stat: Cullmaster — Agriculture by Ledger]
+Attributes: Hand 2 · Gut 5 · Lung 1 · Eye 4 · Tongue 4 · Caul 3
+Cut & Regrowth: Cut 4 (Gut-line) · Regrowth 6 (the Appetite) · Hunger 6
+Skills: Reckoning 4, Clause 3, Persuade 4, Deceive 3, Feast 4, Lore 3
+Flesh 15 · Guard 11 · Armor 1 · Threat 4
+Attacks: knife +3 (2)
+Tactics: never fights; signs a warrant. A character he names in his ledger has the red cloth tied on them that dusk and the Reaping treats them as assigned. His Want: he must eat during any conversation.
+[/stat]
+
+### Reckoner Raiders
+
+Zealots out of the Fast who cross the Rim to end high-Cut bloodlines in their beds. They are thin, quick and very calm, and have no god in them to Partake of. They kill the children of the bloodline too, and they do it first, so that the parents will know, and they do not look away while they do it, because looking away would be a kind of eating.
+
+[quick] Reckoner — Threat 3 · Flesh 12 · Guard 15 · Attack +6 (long knife 3) · Armor 1 · Dread 0 · Godless: Gifts that read, Pull or Bind the blood fail against them.
+
+[stat: Reckoner-Captain — the Refusal on a Blade]
+Attributes: Hand 4 · Gut 3 · Lung 4 · Eye 3 · Tongue 2 · Caul 4
+Cut & Regrowth: Cut 0 (Unfed) · no Hunger
+Skills: Blades 4, Stealth 5, Athletics 3, Wayfaring 4, Resolve 4, Lore 2 (genealogies)
+Flesh 13 · Guard 18 · Armor 1 · Threat 4
+Attacks: long knife +8 (3); crossbow +7 (4)
+Tactics: Godless. Strikes the highest Cut in the room first. Carries the Cutwrights' ledgers, stolen. Will not eat anything in an enemy house, ever.
+[/stat]
+
+### Purgation Cell
+
+The cross-border movement that believes the gods can be thrown back up. A cell is five or six: fasters and bleeders, hollow-eyed and scarred from the lancet, with a list of high-Cut families and a cart of lamp-oil. Where they have been, the house smells of vomit, smoke and the sharp green reek of their emetics, and the family is laid out on the floor in a row, emptied.
+
+[quick] Purger — Threat 2 · Flesh 10 · Guard 13 · Attack +5 (cleaver 3) · Armor 0 · Dread 0 · carries emetics and fire.
+
+[stat: Purgation Bleeder — Cell-Leader]
+Attributes: Hand 4 · Gut 2 · Lung 3 · Eye 3 · Tongue 4 · Caul 4
+Cut & Regrowth: Cut 2 (bled down for years, it is said, from 4) · Regrowth 2 · Hunger 1
+Skills: Stitching 4, Blades 3, Persuade 4, Rites 3, Resolve 4
+Flesh 11 · Guard 16 · Armor 1 · Threat 4
+Attacks: lancet +7 (2, Bleed 2 per round until bound); torch +6 (3, fire)
+Tactics: forced purging of captives (Gut + Endure 18 or Ruin); burning the beds of nobles; preaching to the crowd as they do it.
+[/stat]
+
+### Second Table Hunt-Club
+
+Nobles of the highest Cuts, in every capital, sharpening knives for a second meal. They practice, on people. A hunt is three or four diners in fine dark clothing, masked, with huntsmen and a cart that carries silver, salt and a portable grill. The quarry is dressed, after, on a linen cloth by the roadside, and the diners take notes on the flavour in little calf-bound books, comparing the Cut by taste.
+
+[quick] Second Table Huntsman — Threat 3 · Flesh 13 · Guard 15 · Attack +6 (spear 4) · Armor 2 · Dread 0
+
+[stat: Second Table Diner — It Worked Once]
+Attributes: Hand 4 · Gut 4 · Lung 3 · Eye 3 · Tongue 4 · Caul 4
+Cut & Regrowth: Cut 5 (of their land) · Regrowth 8 (the Course) · Hunger 6
+Skills: Blades 4, Feast 5, Persuade 3, Lore 4, Godsign 4
+Flesh 15 · Guard 17 · Armor 2 · Threat 5
+Attacks: carving sword +8 plus two Teeth (4); their land's Course Gift
+Tactics: Partakes freely and smiles at the bitten-back. Prefers Blanks and god-fat prey. Cannibal in principle: eating a fallen foe's heart restores 1d6 Flesh and, they believe, a sliver of Cut.
+Dread: 2 (to watch them eat)
+[/stat]
+
+[fiction]
+From a calf-bound tasting-book found on the Rim Road near Brindle Cross, hand unknown. "No. 31. Scrapling, Fatlands, male, thirty or so. Coarse; the god very faint, a whisper of fat at the back of the tongue. No. 32. Unfed, female. Nothing. Nothing at all. Like eating snow. Extraordinary. Must have more."
+[/fiction]
+
+### Blank-Poachers
+
+They hunt the Unfed and the Blanks for the trade in godless blood and organs. Kale Dragoman takes his catches alive and feeds them well on the road. Poachers use nets, cudgels, sleeping draughts and patience.
+
+[quick] Poacher — Threat 3 · Flesh 12 · Guard 14 · Attack +5 (cudgel 3, nonlethal) · Armor 1 · Dread 0
+
+[stat: Poacher-Master — Fed Well on the Road]
+Attributes: Hand 4 · Gut 3 · Lung 4 · Eye 4 · Tongue 3 · Caul 2
+Cut & Regrowth: Cut 2 (Gut-line commoner) · Regrowth 4 · Hunger 5
+Skills: Wayfaring 5, Stealth 4, Shooting 4, Filch 3, Haggle 4, Search 4
+Flesh 13 · Guard 17 · Armor 1 · Threat 4
+Attacks: crossbow with drugged bolt +8 (2, Gut + Endure 14 or fall unconscious); cudgel +6 (3)
+Tactics: tracks by smell of the godless; offers food to captives, and an Unfed who accepts loses 2 from Resolve rolls for the rest of the journey from shame.
+[/stat]
+
+### Rim Road Company Wardens
+
+The Company's toll-guards and caravan escort. Neutral, rich, armored better than anyone, and sworn to their contracts in Oathen, which means they literally cannot break them.
+
+[quick] Company Warden — Threat 3 · Flesh 14 · Guard 15 · Attack +6 (spear 4; crossbow 4) · Armor 3 · Dread 0
+
+[stat: Warden-Captain — Sworn in Oathen]
+Attributes: Hand 4 · Gut 3 · Lung 3 · Eye 3 · Tongue 3 · Caul 3
+Cut & Regrowth: varies by birth · Hunger 3
+Skills: Blades 4, Shooting 3, Haggle 3, Clause 3, Wayfaring 4, Endure 3
+Flesh 14 · Guard 17 · Armor 3 · Threat 4
+Attacks: sword +8 (4); crossbow +7 (4)
+Tactics: Sworn: cannot retreat, take a bribe, or harm a toll-paying traveler, or their body breaks. Can be talked into anything their contract permits, and nothing else.
+[/stat]
+
+### Clausewright
+
+Lawyer-priest of the Bench of Clauses. A Clausewright fights with conditions, and wins.
+
+[quick] Bench Clerk — Threat 3 · Flesh 10 · Guard 11 · Attack +2 (stylus 1) · Armor 0 · Dread 0 · Clause 4.
+
+[stat: Clausewright — Barring Death, Illness or Weather]
+Attributes: Hand 2 · Gut 2 · Lung 2 · Eye 4 · Tongue 5 · Caul 3
+Cut & Regrowth: Cut 4 (Tongue-line) · Regrowth 6 (the Appetite) · Hunger 5
+Skills: Clause 6, Persuade 4, Reckoning 3, Lore 4, Deceive 2
+Flesh 11 · Guard 12 · Armor 0 · Threat 6
+Attacks: none worth the name
+Tactics: Drafting: in a scene with time to talk, may extract a promise from a character through Tongue + Clause against their Tongue + Clause; a character who agrees is bound in Oathen. Escape Clause: once a scene, they may void a Binding against themselves on a technicality. Want: compelled to qualify every statement.
+[/stat]
+
+### Forsworn Gang
+
+The Breakdowns' organized crews, broken and plainspoken. They specialize in the one crime Oathen fears most: making people promise things.
+
+[quick] Forsworn Tough — Threat 2 · Flesh 13 · Guard 12 · Attack +5 (club 3) · Armor 0 · Dread 1 (to see the break)
+
+[stat: Breakdown Boss — Nothing Left to Break]
+Attributes: Hand 4 · Gut 4 · Lung 2 · Eye 3 · Tongue 4 · Caul 3
+Cut & Regrowth: Cut 2 · Regrowth 3 · Hunger 2
+Skills: Brawl 4, Intimidate 5, Persuade 3, Clause 3, Endure 3
+Flesh 15 · Guard 16 · Armor 1 · Threat 4
+Attacks: brass-shod crutch +8 (3); knife +6 (2)
+Tactics: immune to Binding, already broken. Threatens a target until they promise; then makes sure they break.
+Dread: 1
+[/stat]
+
+### Assembler Brethren
+
+They collect Parts and join them, believing them to be one body, born piecemeal. They travel in pairs with sacks that move, and their gloves are always wet. Their coats smell of milk and catgut, and the sacks, when set down, roll over by themselves.
+
+[quick] Assembler Brother — Threat 2 · Flesh 12 · Guard 12 · Attack +4 (hook-knife 2) · Armor 1 · Dread 1 (the sack)
+
+[stat: Assembler Elder — Making Good Progress]
+Attributes: Hand 5 · Gut 3 · Lung 2 · Eye 4 · Tongue 3 · Caul 4
+Cut & Regrowth: Cut 3 (Caul-line) · Regrowth 7 (the Course) · Hunger 5
+Skills: Stitching 6, Lore 4, Rites 4, Search 3, Blades 3
+Flesh 13 · Guard 15 · Armor 1 · Threat 5
+Attacks: bone saw +8 (3; on two Helpings the target loses a part, Mangling Injury)
+Tactics: Fitter: can attach a severed Part to any living body in a minute; it takes. Accompanied by a Gathered, Threat 3.
+Dread: 2 when you see what is sewn to their back
+[/stat]
+
+### Finisher Pilgrims
+
+Sallowreach's death cult. They walk into the Hushes singing, and they will take others with them out of love. Their hymn has no last verse, as no song in the north does; they simply walk into the silence partway through a line, and those left on the edge hear the line stop.
+
+[quick] Finisher Pilgrim — Threat 1 · Flesh 12 (Unending in Sallowreach) · Guard 10 · Attack +3 (grasp 1, Grapple 12) · Armor 0 · Dread 1
+
+[stat: Finisher Shepherd — Someone Must Stay Outside]
+Attributes: Hand 2 · Gut 3 · Lung 2 · Eye 3 · Tongue 5 · Caul 5
+Cut & Regrowth: Cut 2 · Regrowth 4 · Hunger 3
+Skills: Persuade 5, Rites 4, Resolve 4, Instinct 3
+Flesh 13 · Guard 12 · Armor 0 · Threat 4
+Attacks: walking staff +4 (3)
+Tactics: the Hymn of Ending: once a scene, all listening Kept must roll Caul + Resolve 18 or walk toward the nearest Hush, and living characters take 1 Fray. Never enters the Hush herself.
+[/stat]
+
+### Tuckers
+
+The Vigil's criminal mercy: sixty guarded seconds of sleep for a month's wage. Their failures are delivered to the Dormitory steps. Their enforcers make sure payment does too.
+
+[quick] Tucker Bruiser — Threat 2 · Flesh 13 · Guard 13 · Attack +5 (sap 3, nonlethal) · Armor 1 · Dread 0
+
+[stat: Tucker Boss — One Minute, Guarded]
+Attributes: Hand 3 · Gut 3 · Lung 3 · Eye 4 · Tongue 4 · Caul 3
+Cut & Regrowth: Cut 2 · Regrowth 4 · Hunger 4
+Skills: Haggle 5, Deceive 4, Blades 3, Stitching 3, Search 3
+Flesh 13 · Guard 16 · Armor 1 · Threat 4
+Attacks: needle-dagger +6 (2); thrown sleeping-draught +6 (a target must roll Caul + Resolve 18 or blink for a round, and a blink can be a long time)
+Tactics: knows every lidded noble in the city. Sells clients to the Dormitory if they cannot pay.
+[/stat]
+
+### Renderers' Thugs
+
+The Union controls what leaves the Fatlands and knows what is in it. Its slaughtermen are huge, aproned and bloody to the elbow, and they settle disputes with the tools of the trade. The vats behind the Chute are kept at a rolling simmer day and night, skimmed by boys with long ladles, and the steam off them smells of pork, lye and something sweeter that the boys learn not to name.
+
+[quick] Slaughterman — Threat 2 · Flesh 16 · Guard 12 · Attack +6 (cleaver 3, hook 4 Hooking 14) · Armor 2 (fat; blunt −1) · Dread 0
+
+[stat: Renderer Foreman — Origin Stamped Over Twice]
+Attributes: Hand 4 · Gut 5 · Lung 2 · Eye 3 · Tongue 3 · Caul 2
+Cut & Regrowth: Cut 3 (Gut-line) · Regrowth 6 (the Appetite) · Hunger 7
+Skills: Blades 4, Labor 4, Intimidate 4, Feast 4, Endure 3
+Flesh 16 · Guard 16 · Armor 2 · Threat 4
+Attacks: greatcleaver +8 (6); meat-hook +7 (4, Hooking 16)
+Tactics: disposes of the defeated in the vats; any witness who sees the vats makes a Dread 2 check. Eats during fights.
+[/stat]
+
+### Echo-Wardens
+
+Rangers who police Oathen's silent gorges and hunt sworn words still bouncing in the rock. They speak in handtalk, move without sound, and carry felt, mallets and sacks of quicklime that crack the rock when they are wetted.
+
+[quick] Echo-Ranger — Threat 4 · Flesh 12 · Guard 16 · Attack +6 (short spear 4; sling 2) · Armor 1 · Dread 0 · ears waxed, immune to Binding by sound.
+
+[stat: Senior Echo-Warden — Who Will Not Repeat It]
+Attributes: Hand 3 · Gut 3 · Lung 4 · Eye 4 · Tongue 4 · Caul 4
+Cut & Regrowth: Cut 3 (Tongue-line) · Regrowth 6 · Hunger 4
+Skills: Stealth 5, Wayfaring 5, Clause 4, Instinct 4, Shooting 3, Blades 3
+Flesh 13 · Guard 19 · Armor 1 · Threat 5
+Attacks: short spear +6 (4); sling +6 (2)
+Tactics: never speaks in a gorge. Contradiction: may shout a counter-oath to destroy an echo, taking the break in his own body. Silences intruders by collapsing rock on them.
+[/stat]
