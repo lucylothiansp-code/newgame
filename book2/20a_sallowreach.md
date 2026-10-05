@@ -883,3 +883,250 @@ PCs meet Pim through her mother, who hires them to get the girl across the borde
 "A Scrapling child with a closing touch is not a miracle. It is an error in my ledgers. I intend to find it." — Provost Carrion Sedge
 "She doesn't go cold. That's the thing. Every one of them goes cold. She stays warm." — Lady Corrow Vane, to no one, in the Hall of Closings
 [/box]
+
+### Justice Ever Lathe — the Honorable Maggot
+
+> "Bzzzz-zz. Zz. Bzzzzzzz."
+>> — Justice Ever Lathe, delivering judgment; rendered by his clerk as "The claim is upheld, with costs, and the court notes the defendant's smell."
+
+[stat: Justice Ever Lathe — the Honorable Maggot]
+Land & Cut: Sallowreach · Cut 2 · Regrowth 1 · Hunger 0
+Age & Station: Kept since 389 (born 331); senior Justice of the Court of Wrongs since 402
+Calling & Standing: Clausewright · Standing 4 (Senior of the Bench)
+Attributes: Hand 1 · Gut 1 · Lung 1 · Eye 4 · Tongue 1 · Caul 4
+Skills: Clause 5, Lore 4, Instinct 3, Resolve 3, Intimidate 2
+Flesh 6 (9, less what the colony has eaten) · Guard 9 (he cannot leave the bench) · Armor 0 · Fray 2
+Attacks: swarm +3 (1; blinds for a round on a Helping)
+Gifts: Kept; The Hum (his rulings are delivered in the buzzing; any listener at Fray 5+ who hears a full sentence of it must make a Dread 1 check); Threat 4
+Wants: none that anyone can measure; the colony wants sugar and warmth
+Knacks: Counting Habit, Unflinching
+Derangements: unknown; possibly The Splitting
+Carries: the seething robe, a silver skull-cap, the sugar-dish, the gavel, Pike's ear-trumpet
+Dread: 2
+[/stat]
+
+#### Who They Are
+
+Justice Lathe is a skeleton in a robe that moves. He has rotted, over two and a half centuries, down to brown bone, a few black tendons at the joints and the colony: a great slow mass of flies and their children that has worked through every soft part of him and taken up residence in the skull. The robe of office, black wool gone green, seethes. The bench smells of old meat, sugar and the honeyed sourness of a hive. When he rules, the colony rises in a drone that swells and falls in cadences exactly like speech, and the whole courtroom leans forward to hear it, and then leans back to listen to his clerk.
+
+#### Their Story
+
+Ever Lathe was a drafter of contracts, born 331, who died of a fall down the courthouse stair in 389 and went on drafting. Ansel Grue appointed him to the Court of Wrongs in 402 for the clarity of his opinions. His tongue went in the 450s, his jaw in 480, his face in the 520s. The flies came in about 560 and never left. By 590 nobody could tell any longer whether the hum was Lathe or not, and the Court decided it would be indelicate to inquire.
+
+#### Their Place in the Land
+
+Lathe hears the bulk of the north's ordinary justice: debts, nuisances, grievous unmaking, falling-apart fines, the endless suits of the Kept against one another. His rulings are famously fair and his conviction rate has never been higher. Everything passes through his clerk, **Absalom Pike**, a living man of sixty-four with a gentle face and an ear-trumpet, who has translated the Justice for forty-one years.
+
+#### What They Carry
+
+- **The seething robe** — the black robe of office, which nobody may remove, because the colony lives in it.
+- **A silver skull-cap** — a mesh of silver wire fitted by the Guild to keep the colony from leaving in a Black Noon.
+- **The sugar-dish** — a saucer of sugar-water on the bench, refreshed hourly. When it runs dry, the rulings grow harsher.
+- **The gavel** — a black oak mallet he cannot lift. Pike strikes it.
+- **Pike's ear-trumpet** — brass, shaped like a lily, by which Pike claims to hear words in the hum.
+
+#### Wants, Fears and Secrets
+
+Nobody knows what Lathe wants, which is the point. **Secret the GM can reveal (choose one):** Pike has been inventing the rulings since 590, and he is a very good judge; or Lathe is still in there, deciding, and Pike translates faithfully; or the colony decides, and what it wants, rulings that keep things going and never close a case, is what Ossel's eaters have made of every living thing in the north. **Secret he does not know:** Pike is going deaf, really deaf, and has not told anyone.
+
+#### Ties
+
+- **Absalom Pike** — his clerk and voice; the most important man in the Court of Wrongs, whom nobody fears.
+- **Ansel Grue** — his appointer, who reads every ruling and agrees with all of them.
+- **Fenwick Lisp** — the jaw-click interpreter; the two clerks of the inarticulate dead are bitter professional rivals.
+- **Thessaly Mort** — who fitted the skull-cap and wants to know what is inside it.
+
+#### In Play
+
+PCs meet Lathe as plaintiffs, defendants or witnesses in the Court of Wrongs, which is to say, sooner or later, everyone in Sallowreach does. **Seeds:** a PC is sued by a Kept man they unmade in a fight, and the hum seems to favour the plaintiff until a PC puts honey in the dish; Pike, going deaf, secretly hires a PC to listen to the hum and tell him what they hear; a Black Noon strikes the courthouse, and the colony leaves the Justice in the middle of a ruling, and everyone waits to see if the bones go on judging. **Threat:** the swarm rises; costs are awarded. **Kindness:** the hum softens. **The god:** none visible. **If nobody intervenes:** Pike dies within five years, and the Court appoints a new clerk, who hears something entirely different.
+
+[box: Said of Them]
+"Best judge I ever lost in front of." — a Sinks fence, three times convicted
+"I hear him, in the trumpet. Not words. A kind of leaning. Like a scale tipping. I just say which way." — Absalom Pike
+"Don't stand near the bench in Plenty, love. They breed." — an usher of the Court of Wrongs
+[/box]
+
+### Dr. Halloran Quease — the Physician of Pain
+
+> "Number two hundred and twelve, the long bell: the pain of a seam pulling through, felt as a single note sustained. Thank you, Mother Nettle. Two drops. You were very brave. Now, would you describe it again, more slowly?"
+>> — Dr. Halloran Quease, at his surgery
+
+[stat: Dr. Halloran Quease — the Physician of Pain]
+Land & Cut: Sallowreach · Cut 2 · Regrowth 1 (the Taste) · Hunger 1
+Age & Station: 50, living; physician, of the Eighth Storey under Hand Street
+Calling & Standing: Seamer (unguilded physician) · Standing 3 (Seamer, by courtesy)
+Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 5 · Tongue 3 · Caul 2
+Skills: Stitching 4, Reckoning 4, Lore 3, Search 3, Persuade 2, Endure 2, Blades 1
+Flesh 13 · Guard 13 · Armor 0 · Fray 5
+Attacks: scalpel +4 (2, Ripping)
+Gifts: none; method only (+2 to any roll to diagnose, describe or relieve pain)
+Wants: none of the god's; he must record any new pain he witnesses, at once
+Knacks: Steady Hands, Counting Habit, Pin-Cushion
+Derangements: none acknowledged
+Carries: the Quease Index, the dolorimeter, poppy drops, carbolic and lemon, his volunteer roll
+Dread: 1 (his surgery)
+[/stat]
+
+#### Who They Are
+
+Quease is plump, pink, scrupulously clean, and smells of carbolic and lemon, in a land where everybody smells of something worse. He wears white linen, boiled daily, and a physician's black cap. His voice is soft and interested. He asks good questions and listens to the answers with his whole face, and his patients love him, and then, sometimes, watching him write, they feel cold.
+
+#### Their Story
+
+Born in 591 to a Landing apothecary, Quease trained in Oathen, came home in 618, and found there was no illness in Sallowreach worth a physician's time, because none was fatal. Only pain remained. He began cataloguing it in 620. The **Quease Index** now lists four hundred kinds, from *the long bell* to *the attic*, the ache of being shelved and forgotten, which he considers the worst and the most common.
+
+#### Their Place in the Land
+
+He runs a surgery under Hand Street where Kept volunteers let him test them in return for poppy drops. He sells relief to the Unvacated at Upper Boards prices, consults for the Guild on difficult restitchings, and advises the Court on how much pain a sentence ought to involve. That last he does not discuss.
+
+#### What They Carry
+
+- **The Quease Index** — four leather volumes, four hundred entries, each with a name, a description, a scale, and a treatment, if any.
+- **The dolorimeter** — a brass screw-press with a graduated dial, which measures pain by the pressure a patient bears before speaking. He invented it. He is proud of it, and ashamed.
+- **Poppy drops** — laudanum (1 lack a dose), the currency of his surgery.
+- **Carbolic and lemon** — for his hands, constantly.
+- **His volunteer roll** — thirty-one Kept names, with what each has endured. He visits them on feast days.
+
+#### Wants, Fears and Secrets
+
+He wants to end pain. He fears that he enjoys measuring it, and that the dial is the part he loves. **Secret the GM can reveal:** the Court has paid him, since 630, to design the procedure of the jarring so that it hurts exactly as much as the Regent specifies. **Secret he does not know:** Mother Nettle, his oldest volunteer, has been inventing pains for him for six years, out of affection, because he looks so happy when he finds a new one. Thirty-one of the four hundred are hers.
+
+#### Ties
+
+- **Thessaly Mort** — who let him measure her once and will not again.
+- **Ansel Grue** — his most discreet client. He cannot tell whether the Regent feels anything.
+- **Mother Nettle** — his volunteer, Kept since 498, his liar and his friend.
+- **Edda Thrush** — whom he desperately wants to examine. Pain, in a Hush, might simply stop.
+
+#### In Play
+
+He pays well for new kinds of pain (10 to 100 lacks a kind, if documented). **Seeds:** he hires the PCs to escort him to the edge of Dunmere Hush to measure whether pain ends there; a volunteer has vanished from his roll, and is found in the Jar Room under a false name; a PC Partakes in front of him, and he asks, very politely, if he may measure what the god's bite feels like. **Threat:** he summons the Hookmen and retreats behind his door. **Kindness:** he records it. **The god:** he dismisses it as an untreated pain. **If nobody intervenes:** the four-hundred-and-first entry is his own: *the ledger*, the pain of knowing exactly what you are.
+
+[box: Said of Them]
+"He's the only one who ever asked me where it hurt. Two hundred years, and he's the first." — Mother Nettle, volunteer
+"A good man with a terrible hobby, or a terrible man with a good bedside manner. I've known him twenty years and can't say which." — Mistress Winifred Harl
+"He gives you drops. That's all you need to know about him, sir." — a put-out Kept man in the Sinks
+[/box]
+
+### Wick Tallow — the Chandler
+
+> "Steady light, sixth bell light, light that will not leave you! Three nights a candle, madam, and it'll never gutter on you. No, I couldn't say who. Unclaimed, the lot. Does it matter? It's light."
+>> — Wick Tallow, at his shop door on Wick Lane
+
+[stat: Wick Tallow — the Chandler]
+Land & Cut: Sallowreach · Cut 2 · Regrowth 0 · Hunger 0
+Age & Station: 110 (born 531, Kept since 594); chandler of Wick Lane since 551
+Calling & Standing: Renderer · Standing 3 (Master Renderer)
+Attributes: Hand 4 · Gut 3 · Lung 1 · Eye 3 · Tongue 3 · Caul 2
+Skills: Craft 5, Labor 4, Haggle 4, Feast 2, Endure 1, Reckoning 2
+Flesh 12 · Guard 11 · Armor 1 (waxed hide) · Fray 1
+Attacks: rendering hook +4 (3, Hooking)
+Gifts: Kept (but slow to rot: he went into his own vat in 594 and came out half turned to grave-wax); Know the Cut (by smell he can tell whose tallow a candle is, once he has rendered them)
+Wants: none
+Knacks: Butcher's Calm, Iron Stomach, Strong Back
+Derangements: none; he would think it impolite
+Carries: the rendering hook, the batch ledger, a smoulder-coal, Bess's candles, his wick-knife
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+Wick is cheerful, broad and practical, and he shines. His forearms, and much of his chest and face, are smooth, pale, yellowish and slightly translucent, like soap, from the day in 594 when he fell into his own rendering-vat and the fat took him. He rots very slowly: grave-wax keeps. He smells of hot fat, smoke and singed hair, and when he stands near his own stove too long he softens, and has to step outside. He whistles while he works.
+
+#### Their Story
+
+Wick opened his chandlery in 551, at twenty, rendering mutton fat. The Court, short of sacking-space in the Sump, offered him the unclaimed dead in 560 at a price. He discovered that the tallow gave a light that would not gutter, and that the candles were warm, and that if you held one close you could hear it. He thought this was interesting, and a selling point. His wife Bess asked, before she was Set Aside in 618, to be made into candles instead of shelved. He did it himself.
+
+#### Their Place in the Land
+
+Half of Lastgate reads by his candles. The Court supplies him with the unclaimed and the rendered remains of the jarred; families commission named candles of their own dead (50 lacks); and, lately, some families sell him their grandmothers quietly for the price of a restitching. His candles light the Hall of Hands, the Lofts and most of the Sinks.
+
+#### What They Carry
+
+- **The rendering hook** — iron, long-handled, for lifting from the vat.
+- **The batch ledger** — every candle batch since 560, with whose tallow went into it, as far as he knows.
+- **A smoulder-coal** — lit in 551, from which every candle in his shop has been lit.
+- **Bess's candles** — the last nine, in a cedar box. He burns one each Tablenight, and says her name, and does not speak for an hour.
+- **His wick-knife** — small, very sharp, for trimming.
+
+#### Wants, Fears and Secrets
+
+Wick wants trade and a quiet life. He fears very little, which is his horror. **Secret the GM can reveal:** he keeps a Tallow-Saint in his cellar, in a barrel of cold water to keep it hard; it was a family batch, burned together, that ran, and he could not bring himself to sink it. **Secret he does not know:** since Lack 640, at midnight, every Tallow candle in Lastgate has leaned, for one minute, toward the Ferrying Post, toward the place where the eighth figure keeps being gouged open. He has noticed only in his own shop, and puts it down to a draught.
+
+#### Ties
+
+- **Thessaly Mort** — the Guild sells him what cannot be stitched.
+- **Old Bettany Shroud** — his best customer; the Lofts burn a box a week.
+- **Ansel Grue** — whose desk is lit by Wick's candles, unnamed, from the Court's own supply.
+- **Gideon Tarr** — who tars the Post, and who has noticed which way the candles lean.
+
+#### In Play
+
+**Seeds:** a family wants back a named candle of their mother that a thief has stolen, before it burns down; a Tallow-Saint walks out of a dinner on the Upper Boards, and the Court wants to know whose it was; a PC's Kept companion is sold to Wick by a desperate relative, and the vat is already hot. **Threat:** he swings the hook and calls the Hookmen, who are customers. **Kindness:** he gives a free candle. **The god:** he does not think about it. **If nobody intervenes:** the cellar barrel cracks one hot Plenty night.
+
+[box: Said of Them]
+"I read by my uncle every night. He's a lovely steady light. He never was, alive." — a clerk of the Upper Boards
+"Wick's a good man. Everything he makes is screaming. Both things are true." — Mistress Winifred Harl
+"You'd think the candles'd hate him. They lean toward him when he comes in." — Wick's journeyman
+[/box]
+
+### Grandfather Peat — the Last Witness
+
+> "Ha grinnet. Ha grinnet, the Hond. Ond the oother ... the oother ..." (He counts to eight on his fingers, and folds one down.)
+>> — Grandfather Peat, in the old fen-tongue, to Provost Sedge
+
+[stat: Grandfather Peat — the Last Witness]
+Land & Cut: Sallowreach · Cut 0 (he never ate) · Regrowth 0 · Hunger 0
+Age & Station: about 655 (drowned in the week of the Gorging, perhaps fourteen years old); hauled from the Sump in 611; kept in a tank at the College
+Calling & Standing: none
+Attributes: Hand 1 · Gut 1 · Lung 1 · Eye 4 · Tongue 1 · Caul 5
+Skills: Instinct 4, Resolve 5, Lore 3 (the world before), Wayfaring 2 (the old fen)
+Flesh 8 (the bog took one) · Guard 8 (he cannot rise from the tank) · Armor 1 (peat-tanned hide) · Fray 4
+Attacks: none (+0)
+Gifts: Kept; Bog-Sealed (no Rot ever; the peat has kept him as it kept him); The Old Tongue (speaks only the pre-Gorging fen dialect; understanding him is a Grim 18 Eye + Lore roll for a Cutwright, Impossible for anyone else); Threat 1
+Wants: to go back in the water
+Knacks: Silent Supper, Elder's Ear
+Derangements: The Count (he counts to eight and folds one down, and cannot stop)
+Carries: the rope at his throat, a peat-knife blade, his tank
+Dread: 2
+[/stat]
+
+#### Who They Are
+
+Grandfather Peat is a boy who has been in the bog for six centuries, and looks like a saddle. He is leather-brown, flattened by the weight of the peat, shining wet, every wrinkle tanned and preserved, with a fringe of red hair stained to rust and a braided rope still knotted at his throat. He smells of peat, tannin and old rainwater. He lies in a long zinc tank of fen-water in Provost Sedge's offices at the College, with only his face above the surface, and he speaks slowly, in a dialect nobody has spoken since before the Meal.
+
+#### Their Story
+
+He was a peat-cutter's son. On the night the fen-folk ate Ossel he stood at the back of the crowd and did not eat, and stared past the god at the empty bank on the far side of the fire, and before dawn he ran into the fen, and the water took him. Nobody went after him. In 212 a reed-cutter found him floating at the Sump's edge and, frightened, tied a stone to his neck and sank him again: that is the rope. A dredger brought him up for good in 611. Sedge bought him for forty lacks.
+
+#### Their Place in the Land
+
+Peat is the College's most precious witness and its most useless: only three Cutwrights in the north can follow his dialect, and only one, Lecturer Odo Fask, well. He repeats one thing, *the god was smiling*, and when asked more, he counts slowly to eight on his fingers and folds one down, very carefully, as if it might bite. He is kept for study. He has asked, every day since 611, to be put back.
+
+#### What They Carry
+
+- **The rope at his throat** — braided reed, with the stone's knot still in it. He will not let anyone untie it.
+- **A peat-knife blade** — the bronze blade of his father's cutting-spade, found in his fist. He holds it still.
+- **His tank** — zinc, eight feet long, which the College refills with Sump water weekly, because he will not settle in clean.
+
+#### Wants, Fears and Secrets
+
+He wants to go back in the water, where it is dark and nothing can see him. He fears being looked at. **Secret the GM can reveal:** Peat did not run from Ossel. He ran from what he saw on the empty bank, and from the moment it looked back at him. He will describe it fully to anyone who learns his dialect and asks the right question (see the Secrets chapter). **Secret he does not know:** when Bettany Shroud's word *company* was said aloud in his hearing for the first time, he folded down not one finger but all eight, and pulled himself under the water, and the College has not been able to make him come up since.
+
+#### Ties
+
+- **Provost Carrion Sedge** — his owner and keeper, who wants the ledger of the Meal and gets one sentence.
+- **Lecturer Odo Fask** — his only true listener, who has started dreaming in the old tongue.
+- **Old Bettany Shroud** — whose word sent him under.
+- **Pim Sorrel** — a child of the families who ate the face. He has asked, in his way, to see her.
+- **Meek Garrity and Cray Lobbett** — strangers on the far Rim, whose tables and seating plans would make sense to him.
+
+#### In Play
+
+**Seeds:** a PC who learns his dialect (a season of study with Fask) can ask him the right question; the Heirs or the Finishers want to steal him and put him back in the Sump, as he asks; the College is sending him south, by sealed tank, to the Cutwrights' great house, and he will drop to bone and dust at the Finishing Post unless someone stops it. **Threat:** he sinks. **Kindness:** he lets you see him smile, slowly, which is worse. **The god:** he never ate; there is nothing in him but the fen. **If nobody intervenes:** he stays under, and one night the tank is found empty, and the Sump's bubbles that week rise in rings of eight, with one ring missing.
+
+[box: Said of Them]
+"Six hundred years in the bog and the first thing he did when they cut the sack was ask for the light to be turned away." — the dredger who found him
+"He is the only person on the Table who saw the Meal and did not eat. That makes him the only honest witness to it." — Lecturer Odo Fask
+"Grandfather? He's younger than my boy. Just been dead longer." — a College porter
+[/box]

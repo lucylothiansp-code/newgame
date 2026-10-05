@@ -26,43 +26,40 @@ Gifts: **Echo-Ear** (the Taste). **Hold to It** (the Appetite), which she has tu
 Wants: **To Hold Others to Their Words** (when anyone near her breaks a promise, she must confront them); **To Swear** (when she is doubted; she has sworn aloud, more than once, that she will never sleep, and the canyon heard)
 Knacks: Light Sleeper, Old Grief
 Derangements: **Lost Time** (roused at Fray 5 or more: she comes back to herself kneeling at the hearth with her hands in the ash and no memory of the last hour)
-Carries: a tin of bought hair, hearth-tongs, a one-hour sandglass, a cracked bellows, Edrec's last letter (unburned), a thumb ring, a jar of goose fat for her hands
+Carries: a tin of bought hair, hearth-tongs, a one-hour sandglass, Edrec's last letter (unburned), a thumb ring
 Dread: 2 (to watch her feed it)
 [/stat]
 
 #### Who They Are
 
-The first thing anyone notices is the smell. Asha Kindle smells of singed hair, the sharp, sour, sulphurous stink of it, so thick in her wool that it follows her down the stair-ladders and hangs in the rope-lifts after she has gone. The second thing is her scalp. She is entirely bald, not shaven but bare, the skin of her head tight and shining and grey as a cooled flatbread, mottled at the crown where she has leaned too close to the coals. Her eyebrows are gone. Her lashes are gone. Her hands are worse: the fingertips glossy with old burns, the nails thick and yellow and ridged, the palms dark with soot that has worked into the creases and will not wash out. She has the grey, thin-lipped face of someone who has not slept more than an hour at a stretch for thirty-one years, and the eyes that go with it, wet and red-rimmed and very bright, as if something behind them were also burning.
+The first thing anyone notices is the smell: singed hair, sour and sulphurous, so thick in her wool that it hangs in the rope-lifts after she has gone. The second is her scalp, entirely bare, tight and shining and grey as a cooled flatbread. Her brows and lashes are gone. Her fingertips are glossy with old burns, her palms dark with soot that will not wash out, and her red-rimmed eyes are very bright, as if something behind them were also burning.
 
-She moves slowly and keeps her body angled, always, toward the north wall of the canyon, where her cell is. She will stop mid-sentence to turn her head, like a mother who thinks she has heard a child cough. She signs more than she speaks, in a plain market handtalk with old-fashioned grammar, and when she does speak her voice is a dry rasp from the smoke, careful and conditional, with the faint flat echo of the Taste half a breath behind it. People who know her are kind to her and keep their visits short. People who do not know her assume she is Forsworn, from the burns, and are surprised to learn that she has never broken a word in her life. That is the trouble.
+She keeps her body angled, always, toward the wall where her cell is, and stops mid-sentence to turn her head like a mother who has heard a child cough. She signs more than she speaks; her voice is a smoke-dry rasp with the flat echo of the Taste half a breath behind it. Strangers assume from the burns that she is Forsworn. She has never broken a word in her life. That is the trouble.
 
 #### Their Story
 
-Asha was born in 578 A.G. to a family of lamp-oilers on the Shadeward Wall and married Edrec Kindle at twenty-two, after a contract of thirty-one pages that both of them read aloud without a stumble. Edrec was a cheerful man with a stammer, which in Oathen is a kind of armour: people waited for him to finish, and he rarely did. He trimmed the wicks of the Hall of Conditions and the long lamps of the Ledger's record-rooms, and he loved fire the way some men love horses, for its moods.
+Asha was born in 578 A.G. to lamp-oilers of the Shadeward and married Edrec Kindle at twenty-two. Edrec was a cheerful man with a stammer, which in Oathen is a kind of armour; he trimmed the long lamps of the Ledger's record-rooms and loved fire the way some men love horses, for its moods.
 
-In the Lack of 610 A.G., the year Ket the Ninth was born, Edrec took a cough from the record-rooms' dust and died of it over nine days. On the last night the fire in their hearth was guttering, and he could not breathe for the smoke of the damp wood, and he asked her, signing because he could no longer talk, to keep it in. She said aloud, because she was tired and frightened and he was dying, "I will never let the fire go out." The echo came back from their own back wall. Edrec smiled and died before morning. She sat by the hearth until the next morning, and the one after, and then she understood.
+In the Lack of 610 A.G., the year Ket the Ninth was born, Edrec took a cough from the record-rooms' dust and died of it over nine days. On the last night the fire was guttering, and he signed to her to keep it in. She said aloud, because she was tired and frightened and he was dying, "I will never let the fire go out." The echo came back from their own back wall. Edrec smiled and died before morning.
 
-The first years were only hard. She fed it wood, then cedar when it began to sulk and smoke on anything else. In 619 it would not take cedar, and she fed it Edrec's shirts, one each Lack, and when the shirts ran out in 626, his letters. She burned his letters one a week for twelve years, reading each aloud before it went in, so that she would have heard them one last time. In 638, three winters ago, the fire refused the last of the paper, and burned, cleanly and with a little sigh like a contented sleeper, on a lock of her own hair that fell into it as she leaned close. She fed it the rest of her hair that winter. Since then she has bought hair: from barbers in the Breakdowns, from mothers selling their daughters' plaits, from the night-nurses of the Murmuring House who shave their patients against lice. The fire has begun to be particular even about that.
+She fed it wood, then cedar when it began to sulk. In 619 it refused cedar, and she fed it Edrec's shirts, one each Lack; from 626, his letters, one a week, each read aloud before it went in. In 638 the fire refused the last of the paper and burned, with a little sigh like a contented sleeper, on a lock of her own hair. She fed it the rest that winter. Since then she has bought hair: from Breakdowns barbers, from mothers selling their daughters' plaits, from the night-nurses of the Murmuring House. The fire has begun to be particular even about that.
 
 #### Their Place in the Land
 
-Asha is a small, sad fixture of the upper Shadeward, known to the rope-lift men and the hair-sellers and the Cutwrights, who visit her yearly to measure the slow advance of her Appetite and to note, with professional interest, that a common-blooded woman of Cut 2 has reached Regrowth 5 by keeping one promise very hard for a very long time. The Bench has a file on her: a case of a Weight 3 oath that cannot be kept forever and cannot be released while the swearer lives, which young Clausewrights are made to study. She lives on a widow's dole from the lamp-oilers' fellowship and on what she earns minding other people's coals, since a woman who cannot leave her fire for more than an hour has become, by the logic of the canyon, the best fire-keeper in Tacit. Households going down to the Kept Rain leave their kindling-pots with her. Her hearth is never cold, and the cliff-cell around it is the warmest room on the Wall.
+The Cutwrights visit yearly to note, with professional interest, that a common-blooded woman of Cut 2 has reached Regrowth 5 by keeping one promise very hard for a very long time, and young Clausewrights study her as the classic Weight 3 oath with no Exit and no term. She lives on a lamp-oilers' widow's dole and on minding other people's coals, since a woman who cannot leave her fire has become, by the canyon's logic, the best fire-keeper in Tacit. Her steadiest suppliers are the Forsworn hair-sellers, who need her custom more than they admit.
 
-She depends on the hair-trade, which is small, grubby and Forsworn, and on the rope-lift men who carry her purchases up. The hair-sellers depend on her more than they let on; she is their steadiest buyer, and she pays in good lacks, and she never haggles over a plait.
 
 #### What They Carry
 
 - **The tin of hair** — a lamp-oiler's dented tin with a hinged lid, stuffed with the day's ration: plaits, combings, a child's curl tied with red thread. She buys at 1 lack a hand's-weight. The fire now refuses the hair of the bitted and burns sullen on the hair of the Forsworn; it likes best the hair of people who have recently told the truth at some cost. She has not yet asked herself how it knows.
 - **Hearth-tongs** — Edrec's, iron, the grips wrapped in rag so old it has gone the texture of felt. She will use them as a weapon if anyone reaches for the fire (as a brand, 3 damage).
 - **The one-hour sandglass** — she turns it whenever she sits down, and she wakes when it runs out, every time, for thirty-one years. The glass is chipped and the sand inside is greyed with ash that got in through the crack.
-- **A cracked bellows** — wheezes like Edrec in his last week. She knows. She uses it anyway.
 - **Edrec's last letter** — the only one she has not read aloud or burned. It is folded small and kept in the front of her dress against her breastbone, and the paper is soft as cloth. She does not know what it says. She believes, on no evidence at all, that if she reads it the fire will let her go, and she is more afraid of that than of anything else.
 - **A thumb ring** — plain bone, worn to the knuckle. One oath outstanding, as the custom goes. There has only ever been one.
-- **Goose fat in a crock** — for her hands, which crack and weep in the heat. The cell smells of it under the hair.
 
 #### Wants, Fears and Secrets
 
-She wants to sleep. Not to die; she has been careful, in thirty-one years, never once to want that aloud, because of what the canyon would do with it. She wants a night's sleep, a full one, with the fire lit by someone else. She has convinced herself that if the fire is put out by another hand while she is not watching, her oath will have been kept, since she did not let it go out, and she has approached three people over the years to do it. All three came to the cell, looked at her, looked at the fire, and could not. One of them said afterward that the fire looked at him.
+She wants to sleep: not to die, which she has been careful never to want aloud, but to sleep a whole night with the fire kept by someone else. She has convinced herself that if another hand puts it out while she is not watching, her oath is kept. Three people have come to her cell to do it. None could. One said afterward that the fire looked at him.
 
 She fears that the fire is asking for something she has not yet given. She is right. **The GM's secret** is that the fire wants Edrec himself. His body stands upright in a niche of the Witnessing Vaults, two levels below Old Sabra Wends's lantern, and what is left of him is hair and nail and a dry brown skin over bone. The fire wants the hair of his head, then the rest. Asha has dreamed of the Vaults for a month and woken each time with her hands sooty to the wrist and grit on her knees, and she has told herself it was the hearth.
 
@@ -74,12 +71,10 @@ She fears that the fire is asking for something she has not yet given. She is ri
 - **Ona Fell** — Asha once asked the Surety to stand behind her oath. Ona looked at her for a long while and said that she does not carry promises with no end.
 - **Little Rue** — the two of them sit together at the fire some evenings, two people kept by a promise past the point where it made sense, and say almost nothing. Rue brings hair from the Breakdowns, and does not take payment.
 - **Grandam Cess** — Asha has been to Knot Canyon. She came away without swearing, because the greater oath Cess offered was "to keep what I give you," and she knew exactly what she would be given.
-- **Dacey Furl** — the night-nurse of the Murmuring House sells her patients' shorn hair to Asha and cannot bring herself to take more than half the price.
-- **Brakk** — the Forsworn sell her hair through his lanes; Brakk once climbed the whole Shadeward to see what she did with it, sat by the fire for an hour, and went down without a word.
 
 #### In Play
 
-PCs meet Asha because someone has sent them to her: a client who wants a fire watched, a Cutwright who wants a report, a hair-seller who wants a parcel carried up the Wall. Or they meet her because she has chosen them. She looks for foreigners, who do not know the story, and for people who seem to her to have nothing to lose by putting out a fire. She will ask them, carefully and in handtalk, to come to her cell after dark and do a small thing for her while she sleeps.
+PCs meet Asha because someone sends them (a client wanting a fire watched, a hair-seller with a parcel) or because she chooses them: foreigners, who do not know the story, and anyone who looks as if they have nothing to lose by putting out a fire.
 
 - **The Small Thing.** Asha hires the PCs to put out her fire. If they do it while she sleeps, she wakes screaming and her chest cracks along the breastbone with a sound like a dropped plate, because the god does not accept the reading. If they refuse, she asks them to fetch something from the Vaults instead, and will not say what.
 - **The Hair of the Truthful.** The fire will not take her latest purchase. It wants hair from someone who has just told a costly truth, and the only such person the PCs know is one of them. Asha asks politely, with the shears already in her hand.
@@ -116,28 +111,27 @@ Dread: 1 (his workshop wall of moulded mouths)
 
 #### Who They Are
 
-Garl Tome is a broad, slope-shouldered man with a beard the colour of wet rust going grey at the corners of the mouth, which he keeps covered, always, with a square of undyed linen knotted behind his head. The kerchief is a smith's habit, against sparks and the fumes of the gold-pot, but he wears it to market and to bed, and the skin beneath it is paler than the rest of his face, a pale bandit's mask over the mouth. He smells of hot metal, beeswax and the cedar oil he rubs into every finished bit. His hands are enormous and astonishingly gentle: thick-fingered, scarred white across the knuckles, steady enough to shave a tongue-plate to the width of a hair.
+Garl Tome is broad and slope-shouldered, with a beard the colour of wet rust and his mouth always covered by a square of undyed linen knotted behind his head, a smith's habit he keeps to market and to bed, so that the skin beneath is a pale mask. He smells of hot metal, beeswax and cedar oil. His enormous scarred hands are steady enough to shave a tongue-plate to the width of a hair.
 
-He speaks seldom and in short, safe, verbless sentences. He signs fluently and slowly, like someone carrying a full bowl. When he fits a bit he talks the whole time in a low murmur under the kerchief, nonsense mostly, the way a farrier talks to a horse, and his customers, adults and children, find themselves calm in his hands without knowing why. His workshop wall is hung with plaster moulds of every mouth he has fitted in thirty years: children's mouths, swearers' mouths with the tongue pressed flat, the long smooth faces of the three Sayers. Visitors find the wall unbearable. Garl does not see it any more.
+He speaks seldom and signs slowly, like someone carrying a full bowl, but when he fits a bit he murmurs the whole time under the kerchief, the way a farrier talks to a horse, and his customers grow calm without knowing why. His workshop wall is hung with plaster moulds of every mouth he has fitted in thirty years, the long smooth faces of the Sayers among them. Visitors find the wall unbearable. Garl no longer sees it.
 
 #### Their Story
 
-Garl was born in 591 A.G. to a farrier on the canyon floor and was apprenticed at twelve, the day of his Unbitting, to Old Haskell Tome, Bitmaker, whose name he took when the old man adopted him in 610. He learned leather first, children's bits, the soft muzzles that every Oathen child wears from first tooth to twelve; then iron, for the Appetite-struck, heavy hinged things with breath-grilles and tongue-plates; then silver, for the high Tongue-lines who must be bitted at night. In 598, when the First Sayer stopped Low Shale and the Gilded Cells were dug, Haskell was summoned to make the first gold bit, and seven-year-old Garl pumped the bellows. He made his own first gold bit in 617 and has made every one since.
+Garl was born in 591 A.G. to a farrier of the canyon floor. In 598, when the Gilded Cells were dug, the boy was sent up with charcoal to Old Haskell Tome's forge and pumped the bellows for the first gold bit; at twelve he was apprenticed to Haskell, and later took his name. He learned leather, then iron, then silver, then gold.
 
-In 611 a Sayer's gold bit was found bitten through overnight, cut with copper. She had said one word into the dark. Haskell Tome hanged himself in his workshop a month later, and the Bench recorded him as the maker. Garl took the Stair at twenty, and the name, and a great deal else.
+In 611 a Sayer's gold bit was found bitten through overnight, cut with copper. She had said one word into the dark. A month later Haskell Tome took his own life, and the Bench recorded him as the maker. Garl took the Stair at twenty, and the name, and a great deal else.
 
 He married Lisbet Orne, a quiet copyist, in 627. She died bearing their daughter Merit in the Plenty of 629. Garl fitted the child's bit with his own hands on the day she was born, before her first cry, a thing no law required: a scrap of soft kid lined with lamb's wool, shaped on the wet clay of her tiny face. He has refitted it forty-one times as she has grown. He has never heard her voice. She is twelve this year, and her Unbitting is in the coming Plenty, in the Hall of Conditions, before the whole canyon.
 
 #### Their Place in the Land
 
-Every child in Oathen wears a bit, and a great many of them wear Tome bits, or bits made by the six workshops of the Bitmakers' Stair under Garl's mark. Every swearer in the Murmuring House wears iron he forged or approved. Every Tongue-line house on the Sunward Wall calls him up at night, discreetly, to fit silver to a son or a mother who has begun to swear in their sleep, and so he knows exactly which noble houses are nearest the Brink, and he says nothing, because silence is his trade. He fits the king's bit, gold-chased silver, twice a year, and the king watches his hands the whole time. Once a quarter he goes down beneath the Ledger to resize the tongue-plates of the three Sayers, because their tongues keep growing, and he is the only person besides the bitted, deafened guards and one Clausewright who has seen Lady Imre Dath's face this year.
+Most of Oathen's children wear bits from the six workshops of the Bitmakers' Stair under Garl's mark; every swearer in the Murmuring House wears his iron. The Tongue-line houses call him up at night to fit silver to a son or mother who has begun to swear in their sleep, so he knows which houses are nearest the Brink, and says nothing. He fits the king's gold-chased silver twice a year. Once a quarter he goes beneath the Ledger to resize the Sayers' tongue-plates, because their tongues keep growing.
 
 He holds the key to the Bench's gold-press, the only place in Tacit where pure gold may lawfully be worked, and the Bench pays him well and watches him closely. He owes them his trade. They owe him their safety. Both know it.
 
 #### What They Carry
 
 - **The gauges** — a roll of brass calipers, jaw-spreaders and tongue-measures in a felt case, and a set of soft wax blanks for taking a mould. With these he gains +2 to Craft and to any Stitching inside a mouth.
-- **The kerchief** — plain linen, changed daily, stained at the inside with his breath. Under it his lips are chapped and cracked from thirty years of not being seen.
 - **Merit's first bit** — the size of a walnut shell, soft kid gone dark and stiff, the lamb's wool inside worn to the hide. He carries it in the breast of his apron. It still smells, he swears to himself, of milk.
 - **The key to the gold-press** — iron, heavy as a hammer-head, on a chain round his neck. Losing it would be the end of his licence; giving it to the wrong person could be the end of a great deal more.
 - **A lump of pure gold** — the size of a quail's egg, assayed by the Bench and stamped. Enough for one tongue-plate. He is supposed to keep it at the press. He has carried it since the spring, for reasons he will not examine.
@@ -146,7 +140,7 @@ He holds the key to the Bench's gold-press, the only place in Tacit where pure g
 
 #### Wants, Fears and Secrets
 
-He wants to hear his daughter speak, and he dreads it more than anything else in the world. The Cutwrights' office (in the person of Cutwright Hessa Lisk, who measured Merit in the spring) has told him, in a sealed letter he has read forty times, that Merit has reached the Course of the Regrowth without ever having made a sound, exactly as the king did, and that what she says when her bit comes off may come true. A Tongue-line house has offered him a fortune to make her bit permanent: four thousand lacks and a house on the high Sunward, if he will fit her in silver before the Unbitting and swear never to remove it. He says, to anyone who asks, that silence is what love sounds like here. He has not decided.
+He wants to hear his daughter speak and dreads it more than anything. Cutwright Hessa Lisk has told him, in a sealed letter he has read forty times, that Merit has reached the Course without ever making a sound, as the king did, and that what she says when the bit comes off may come true. A Tongue-line house has offered four thousand lacks and a house on the high Sunward if he will fit her in silver before the Unbitting and swear never to remove it. He says silence is what love sounds like here. He has not decided.
 
 **A secret the GM can reveal:** the offer comes from House Hushwell, the king's own line, and not out of fear. Lisbet Orne was a Hushwell by-blow, which the Cutwrights know and Garl does not. A child of Hushwell blood who has never spoken is eligible for the Mute Succession, and Ket the Ninth is thirty-one, childless and at the Course. Hushwell want Merit kept silent so that she can be crowned.
 
@@ -160,13 +154,11 @@ He wants to hear his daughter speak, and he dreads it more than anything else in
 - **Ket the Ninth** — Garl fits the king's bit and pities him. He has no idea what the king and his daughter say to each other.
 - **Lady Imre Dath** — he resizes her tongue-plate every quarter. She has pressed her smooth face into his palm, twice, the way a cat does. He does not know what it means and has not told the Bench.
 - **Lord Varro Esk** — has asked him, twice, very charmingly, for a gold bit with a flaw in it. Garl refused, and has begun to bolt his workshop door.
-- **Hessa Lisk** — the Cutwright who measured Merit and wrote the letter. He hates her with a steady, workmanlike hatred, and she knows it, and still sends him a fig cake every Tablenight.
 - **Sorrin Vael** — the Chief Clausewright is his paymaster. Vael has asked Garl privately whether a gold bit can be made that releases on a word. Garl said, "Possibly." Both men lay awake that night.
-- **Dacey Furl** — he sends the Murmuring House its iron, and has begun sending it free, because Dacey told him in handtalk what the patients mouth in their sleep.
 
 #### In Play
 
-PCs meet Garl because they need a bit: for a companion whose Appetite has begun, for a captured Sayer's word, for a Brink-stage noble on the road, or for a child. Or they meet him because someone wants into the Gilded Cells, and the only man who goes there regularly, carrying tools, is the Bitmaker.
+PCs meet Garl when they need a bit (for a companion whose Appetite has begun, a Brink-stage noble, a child) or when someone wants into the Gilded Cells, since the Bitmaker goes there regularly, carrying tools.
 
 - **The Unbitting.** It is three weeks to Plenty. Hushwell, Varro Esk and Hessa Lisk all want something from Merit's first words, and Garl hires the PCs to find out what his daughter is planning to say, without asking her.
 - **The Flawed Plate.** Someone has broken into the gold-press and taken a tongue-plate blank. Garl must find it before the quarterly fitting, or confess to the Bench, and if he confesses, the old secret of 611 will come up with it.
@@ -197,29 +189,29 @@ Gifts: **Echo-Ear** (the Taste). **Hold to It** (the Appetite), which she uses o
 Wants: **To Correct** (when she hears a falsehood about the rain, she must state the truth; she is resisting it now every hour of every day, which is why she will not hear anyone speak of the rain); **To Swear**
 Knacks: Counting Habit, Silent Supper
 Derangements: **The Count** (roused by stress: she counts her own heartbeats and cannot stop until she reaches a number, and the number is always one short of what it should be)
-Carries: the Tally, a rain-staff, a slate and chalk, a cistern-key ring, a beaker of last year's rain, a goatskin of Gullet sand
+Carries: the Tally, a rain-staff, a cistern-key ring, a beaker of last year's rain, a goatskin of Gullet sand
 Dread: 2 (to watch the pulse in her throat stop for a full minute, and start again)
 [/stat]
 
 #### Who They Are
 
-Yusra Thole is tall and long-boned and burned dark by the white sky of the high basin, her skin cracked at the corners of the eyes into a fan of fine pale lines from a lifetime of squinting at clouds that never came. She wears the Rainwarden's undyed grey, belted with rope, and goes barefoot on the shrine's stone because the Rain-keepers hold that the feet should feel the water underground. Her hair is cropped short and is the colour of dust. She smells of wet stone and goat, and very faintly of something mineral, like the inside of a cistern in Plenty.
+Yusra Thole is tall, long-boned and burned dark by the high basin's white sky, barefoot on the shrine stone in the Rainwarden's undyed grey, her cropped hair the colour of dust. She smells of wet stone and goat, and faintly of the inside of a cistern.
 
-The thing everyone remembers is her pulse. It shows in the side of her throat, in the hollow under the jaw, a slow, heavy, rolling beat that lifts the skin like something turning over beneath a blanket. It is never faster than twenty to the minute. Since the Kept Rain came late, it has slowed. Visitors cannot stop watching it, and when it pauses, as it now does for the better part of a minute, they find they have stopped breathing too, waiting for it. When it comes, it comes with a faint, audible thud, like a fist on a felted door.
+The thing everyone remembers is her pulse: a slow, heavy, rolling beat in the hollow under her jaw that lifts the skin like something turning beneath a blanket. Since the Rain came late it has slowed, and now pauses for most of a minute, and visitors find they have stopped breathing too, waiting for the faint thud of it, like a fist on a felted door.
 
 She has said nothing aloud in a month. She signs only to the shrine's acolytes, and only about the cisterns. She writes nothing. She looks at people for a very long time with pale grey eyes, and they leave feeling that they have been told something, and cannot say what.
 
 #### Their Story
 
-Yusra was born in 596 A.G. to the Thole family of the high basin, one of the eleven old Rain-keeper lines whose ancestors ate the god's great slow heart at the Silent Supper. Heart-line children are born with a pulse too slow for a physician's comfort and grow up hearing, in the stillest nights, a second heartbeat under their own, enormous and far down. The Rain-keepers have always kept the Kept Rain: they swear the cistern-shares of every household in Oathen, once a year, at the Rain Shrine; they keep the Tally, a record of every Kept Rain since 1 A.G., in knotted cords and later in ink; and they wait on the high basin, at the shrine at Hollow Cistern, for the first cloud of Grace.
+Yusra was born in 596 A.G. to the Thole family, one of the eleven Rain-keeper lines whose ancestors ate the god's great slow heart. Heart-line children are born with a pulse too slow for a physician's comfort and hear, on the stillest nights, a second heartbeat under their own, enormous and far down. The Rain-keepers swear every household's cistern-share once a year, keep the Tally of every Kept Rain since 1 A.G., and wait on the high basin for the first cloud of Grace.
 
-She became Rainwarden at thirty-one, in 627 A.G., the year of Wending Pass, when her aunt Imma Thole's heart stopped for an hour during the Rain and did not, on that occasion, start again. Yusra was a good Rainwarden: precise, unshowy, tireless. She improved the Tally, cross-checking it against the Ledger's carvings and the Bench's water-minutes, and in 634 she noticed something that had escaped six centuries of keepers. The Kept Rain had always fallen on the first day of Grace by the canyon's count. But by her own pulse, which keeps the god's time, the interval between rains had been lengthening by a few hours every year for at least a century. The canyon's calendar and the god's had been drifting apart. This year they came apart by three whole days. The rain was not late. Tolm's year has grown three days longer, and the god kept its word, to the hour, by its own reckoning.
+She became Rainwarden in 627, when her aunt Imma's heart stopped during the Rain and did not, that time, start again. Cross-checking the Tally in 634, she noticed what six centuries of keepers had missed: by her pulse, which keeps the god's time, the interval between rains had been lengthening by a few hours a year for a century. This year canyon and god came apart by three days. The rain was not late. Tolm's year has grown three days longer, and the god kept its word to the hour, by its own reckoning.
 
 She has told nobody, because she cannot lie and will not tell the truth. A god whose year grows longer is a god whose heart is beating slower. A heart beats slower when the body it drives grows larger.
 
 #### Their Place in the Land
 
-The Rainwarden is not a great office in the politics of Tacit, but it is an indispensable one. Every household in Oathen swears its cistern-share at her shrine, and a cistern-oath is held to be an oath before the god's own heart, so that stealing water is the only theft the Bench treats as a crime against Tolm. When the Rain comes she stands in the open on the high basin, her face to the sky and her throat bare, and the whole country waits for her signal, the great bronze drum of Hollow Cistern, to know that the year is renewed. This year the drum was silent for three days, and Tacit stood in the street with its faces up, and the sky stayed white.
+Every household swears its cistern-share at her shrine, before the god's own heart, which is why stealing water is the one theft the Bench treats as a crime against Tolm. When the Rain comes, the great bronze drum of Hollow Cistern tells the country the year is renewed. This year it was silent for three days, and Tacit stood in the street with its faces up under a white sky.
 
 The Bench depends on her for the Tally and resents her for her silence. The Forsworn, who drink last and least, watch her with suspicion, since a Rainwarden who will not speak might be a Rainwarden hiding a drought. The Second Table watches her for another reason: if the god's heart is slowing, it is growing, and they want to know how big it has got.
 
@@ -227,14 +219,13 @@ The Bench depends on her for the Tally and resents her for her silence. The Fors
 
 - **The Tally** — a cedar box of knotted cords and close-written ledgers, the record of every Kept Rain for six hundred and forty years, with Yusra's own new column, in her small square hand, of the god's drift, year by year. Read by anyone with Eye + Reckoning (Grim 18), it shows the drift plainly, and anyone who works out what it means takes a Dread 3 check.
 - **The rain-staff** — a long pole of black wood shod in bronze, notched with the heights of the floods. She uses it to sound cisterns and, once, to break a thief's wrist.
-- **A slate and chalk** — she carries them and does not use them, because she does not trust what writing will do now.
 - **The cistern-key ring** — forty bronze keys on a hoop of rope, to the sealed cisterns of the high basin. The Bench's cistern-shares depend on them.
 - **A beaker of last year's rain** — stoppered with wax, kept in a felt sleeve. It is the water of a kept promise, and the shrine holds that it does not go stale. This year's was three days late. She has a second beaker of that, and she has noticed that it is very slightly warm.
 - **A goatskin of Gullet sand** — taken from the floor of the Gullet in the month she stopped speaking. It is warm to the hand all the time. Pressed to the ear, it gives a slow sound: a beat, very far off, once every minute, in time with her own.
 
 #### Wants, Fears and Secrets
 
-She wants the Bench to understand without her having to say it. She has given them the Tally, unspoken, three times; they have filed it three times. She fears what the Bench will do when it does understand, because the drafts of a Sayer's sentence already exist, and Sorrin Vael's ninety-one versions all assume the rain is a fault to be mended, not a fact to be feared. She fears, above all, that the Bench will put the question to her directly, in the Hall of Conditions, under the god's ear, and that she will answer.
+She wants the Bench to understand without her having to say it; she has given them the Tally three times, and they have filed it three times. Sorrin Vael's ninety-one drafts all treat the rain as a fault to be mended, not a fact to be feared. Above all she fears being asked directly, in the Hall of Conditions, and answering.
 
 **A secret the GM can reveal:** the pulse in her throat keeps time with the god, and so do the other Heart-line throats of the basin. If the GM wishes to know how close Tolm is to waking, they need only ask the Rainwarden's heart. At one beat a minute, the god is dreaming. At one beat an hour, it is still. If her pulse ever quickens, it is waking.
 
@@ -247,11 +238,10 @@ She wants the Bench to understand without her having to say it. She has given th
 - **Halvar Stane** — the Echo-Warden is the only person she has signed to about the drift; she asked him, in handtalk, whether the canyons echo slower than they used to. He said yes.
 - **Lady Imre Dath** — the Sayer's last sentence, "The canyon wells shall not run dry this Lack," held. Yusra thinks it held only because the god allowed it. She is afraid of what a second sentence about water would do.
 - **Jessamy Quill** — the Company's notary sent a clerk to ask whether the god's promises could slip. Yusra gave the clerk a beaker of the late rain and sent him away.
-- **Lord Varro Esk** — has made a generous offer to fund a new shrine. She has not answered. She has had her cistern-keys changed.
 
 #### In Play
 
-The PCs meet Yusra as the woman they are sent to watch. The Bench, the Company, or the Second Table hires them to discover what the Rainwarden knows, by any means short of asking her a question, because nobody wants to be in the room when she answers one. They will spend days on the high basin, in the wind, watching her pulse.
+PCs meet Yusra as the woman they are sent to watch: the Bench, the Company or the Second Table wants to know what she knows, by any means short of asking her, because nobody wants to be in the room when she answers.
 
 - **The Long Year.** The PCs find the Tally and work out the drift. Now they know what she knows, and someone in Tacit is going to ask them about it, and Oatheners, at least, cannot lie.
 - **The Drum.** The great bronze drum of Hollow Cistern sounds at midnight, in Plenty, with no one near it. Yusra rises from her pallet, barefoot, and walks toward the Gullet. She will not stop. She has not said where she is going. The PCs can follow.

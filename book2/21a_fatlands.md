@@ -126,14 +126,6 @@ The chief village of the Orchards, in the middle of its ten thousand acres, a vi
 
 [quick] Aldo Pippin, Orchard-Keeper — Threat 2 · Flesh 12 · Guard 12 · Attack +4 (pruning hook 3, Hooking, Reach) · Armor 0 · Dread 0 · cannot hear; immune to sound-based Dread
 
-#### Gladbelly
-
-The commune of the Second Helping, in a meadow beside the Little Gravy, already described in the core book: long open tables, continuous eating, singing, a slaughter-pavilion hung with garlands. What visitors notice first at ground level is the noise, which never stops: three hundred people at table, laughing and singing hymns about gravy, a fiddle somewhere, the clatter of plates. What they notice second is the children, of whom there are many, all plump and loved and well looked-after, and many of whom have no parents left. What they notice last, if they stay past dark, is the meadow, which is the lushest grass in the Fatlands, thick and warm and starred with little white flowers that open at night and smell of roasting. Brother Glut lives here, in a pavilion of his own.
-
-**Trade.** Gladbelly sells nothing. It is fed by donations from a hundred households of the Second Helping across the plain, and by the Offered. **Custom.** Every newcomer is offered a second helping of everything, and the cult counts how many take it. **Danger.** Joy. The Second Helping does not need to compel anyone. **Notable.** **Plateholder Juniper Mallow**, who tends the Offered in their last week, bathes them in dripping and garlands them, and who keeps the shoes of every Offered in a long row along the back wall of the pavilion, because the children always ask for them.
-
-[quick] Juniper Mallow, Plateholder — Threat 2 · Flesh 14 · Guard 10 · Attack +2 (carving knife 2) · Armor 1 · Dread 0 · Persuade 4; Rites 3
-
 ## Roads and Ways
 
 The Fatlands are flat and soft, and travel across them is slow, warm, and never quite comfortable. The ground gives. Cartwheels sink. A loaded wagon on an unmade track in late Plenty can sink to the axles in an afternoon and have to be dug out, and the ruts it leaves behind are found next morning healed over and slightly raised, like a scar. For this reason the Fatlands are threaded with **causeways**: raised roads of packed brick and crushed bone, laid over beds of salt and iron filings, which the ground does not like and will not take in. The causeways are the arteries of the country. They are maintained by the Board's road-gangs, who are paid in scrip and fed at the roadside, and by the dusk-shifted, who work the causeway repairs in Lack when the fields are quiet.
@@ -156,15 +148,13 @@ Fatlanders reckon distance not in miles but in **meals**: a village is "two meal
 Each day on the causeways, a Fatland journey is safe and fed and slow. Each day off them, roll Lung + Wayfaring (Hard 14). On a failure, the party loses half a day to the soft ground; on a Lack, a cart, an ox or a person sinks to the waist and must be dug out (Gut + Labor, Hard 14, an hour's work, and Dread 1 for what the spade turns up). Travellers who skip the mandatory meals on a Board road are likely to meet a Bailiff (one in three chance each day) and will be fined, fed, or both. In Carving, the GM should ask every evening where everyone is at dusk, and make the players answer.
 [/box]
 
-**The Drovers' Ways.** There is another network, older than the causeways, which is not on any Board map: the wide green droving-roads by which the herds come across the plain to the Chute. They are unmarked and unmade, a hundred yards wide in places, cropped short by ten thousand hooves, and they run from nowhere in particular to Barrelside by routes known only to drovers. Sal Trotter walks them. At night, travellers camped by a Drovers' Way sometimes hear a herd going past in the dark, and the sound is wrong: not the thud and shuffle of cattle, but a soft, upright, two-footed tread, hundreds of feet together, and very low, a humming.
-
 ## Bread and Coin
 
 The Fatlands are the richest country on the Table by every measure but one, and the one is the reason for all the others. The land grows three harvests a year in Low Tilth and two everywhere else; the herds double every spring; the orchards bend. Half the Table eats from the Chute. And the plains are run, from top to bottom, on the understanding that none of this is free, and nobody says what the price is.
 
 ### What People Do
 
-Most Fatlanders work the land: as **field-hands** on the great Gut-line estates, as **tenant-farmers** on their own strips, as **gleaners** behind the harvesters, as **drovers**, **orchard-keepers** and **millers**. The next great trade is **rendering** in all its branches: slaughter, jointing, salting, coopering, tanning, the boiling of tallow and the barrelling of meat, all under the Renderers' Union. The third is **feeding**: the cookshops, inns and pie-houses, the wake-cooks and jointers, and the city trades that exist only because the great cannot move, the **Carriers** who lift and turn them and the **Washers** who clean their folds and pluck their shoots. Then there is the Board, which employs a small army of clerks, Bailiffs, Weighers, Wolf-Wardens, scrip-printers and Listing Clerks, and pays them well, because they are the people who must look at the figures.
+Most Fatlanders work the land: as **field-hands** on the great Gut-line estates, as **tenant-farmers** on their own strips, as **gleaners** behind the harvesters, as **drovers**, **orchard-keepers** and **millers**. The next great trade is **rendering**, under the Renderers' Union. The third is **feeding**: cookshops, inns, wake-cooks, and the city trades that exist only because the great cannot move, the **Carriers** and the **Washers**. Then there is the Board, which pays its clerks, Bailiffs and Listing Clerks well, because they are the people who must look at the figures.
 
 Wages are paid in meat scrip, by the week, and most of it goes straight back to the Board stores as food. A Fatlander who saves is regarded with suspicion: *a thin purse and a thin belly keep the same company*. Lacks are used for trade with foreigners and for anything the Board does not sell.
 
@@ -258,7 +248,7 @@ Every Fatlander thanks the field before eating. That is the whole of religion fo
 
 **The Gift** is the Fatlands' established faith, and the Board's. Ummer, it says, laid itself down in the Trencher out of love for its starving people, as a mother gives her body to her child, and we ate it in gratitude, and its return in our fields is its continued gift. The **Field Church**, which has no single head but a priest in every parish called a **Grace-Keeper**, teaches that the Reaping is the god taking back a little of what it gave, as is fair, and that the Laden are blessed. The Field Church presides at Weighings, wakes and Harvest Home. Its priests are fat, cheerful and comfortable, and most of them know the figures.
 
-**The Theft** is the faith of the Thin and of Tablenight. It says we murdered Ummer, that the hunger is the god's own famine come to sit in us as justice, and that the only decent response is penance. In the Fatlands, where fasting is treason, the Theft survives as the shame that comes on everyone once a year on Tablenight, and as the quiet creed of the Thin, who believe they can starve the god back down into the soil by refusing to feed it. Its holy figure is Hester Gaunt, the starved preacher of the Thin Rising, and its sacred place is the stretch of the Brawn below the Gavage where the lean bodies of executed Thin are thrown in, unburied and uneaten.
+**The Theft** is the faith of the Thin and of Tablenight. It says we murdered Ummer, that the hunger is the god's own famine come to sit in us as justice, and that the only decent response is penance. In the Fatlands, where fasting is treason, the Theft survives as the shame that comes on everyone once a year on Tablenight, and as the quiet creed of the Thin, who believe they can starve the god back down into the soil by refusing to feed it. Its holy figure is Hester Gaunt, and its sacred place is the Brawn below the Gavage, where the lean bodies of executed Thin are thrown in, uneaten.
 
 **The Bait** is the faith of the Second Helping and, more quietly, of a great many Gut-line households. Ummer wanted to be eaten, it says; the Long Lack was its doing; it starved us so that we would take it into ten thousand bodies, and now it grows back through us, and it is our joy to be its field. The Board has made the Bait illegal and has never once enforced the ban on a Gut-line. Gladbelly preaches it openly, and the Board finds Gladbelly embarrassing and very convenient.
 
@@ -1124,11 +1114,13 @@ She wants to be fed. She fears nothing anymore except being forgotten.
 
 PCs come to her for counsel; she answers truly. She wants them to bring her someone.
 
-- **The Marriage.** A couple asks her blessing; she gives it, and asks for the bride's mother.
-- **Barnaby.** Pell asks the PCs what to do.
-- **The Move.** The PCs measure her distance to the Scarecrow.
+PCs come to her because Kettle Furrow sends everyone to her: for a true answer about a missing person, a parentage, a debt, or which field will Reap this Carving. She answers truly, for meat. More and more, she wants them to bring her someone in particular.
 
-If nobody intervenes, she reaches the far field in a decade.
+- **The Marriage.** A young couple asks the PCs to stand witness while they ask her blessing. She gives it gladly, and then asks, in the same warm voice, for the bride's mother, by name, before Carving.
+- **Barnaby.** Pell Hogget asks the PCs, quietly, what they would do if their grandmother asked for their son. Barnaby has overheard, and has started walking out to the orchard alone at dusk to sit with her.
+- **The Move.** Mercy Sowerby, the Hill-Speaker, asks the PCs to measure the distance between Old Mother Rind and the Scarecrow at Marbling and again at Tablenight. Both numbers are smaller than they should be.
+
+**Threatened,** she laughs, and the roots tighten. **Shown kindness,** she tells a secret for free, which she has not done in twenty years. **Faced with the god,** she is the god, a little, and knows it. If nobody intervenes, she and the Scarecrow meet in the far field within a decade, and the village wakes one morning to find a hill where the far field was, with a scarecrow standing on its crown, and a mouth.
 
 [box: Said of Them]
 "She told me who my real father was. She was right." — a farmer of Kettle Furrow
