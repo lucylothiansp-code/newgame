@@ -781,3 +781,83 @@ End: Keep the oath. Or find a Surety willing to take it, and watch what follows 
 [/stat]
 
 [pagebreak]
+
+## The Fast: The Host and Its Table
+
+[sigil: fast]
+
+The Fast has no Regrowth. It has a whole god, unhoused, laying tables. Its horrors do not attack, mostly. They offer. Every entry in this section has **Hosting**, and every one is best survived by saying "No, thank you" three times. What they leave behind is the cruellest thing on the Table: people who were made perfectly happy, and cannot be brought back from it.
+
+[pull] Never enter a house where the hearth is already lit. Never answer "Come in." Never eat what you did not carry yourself. If you smell bread, walk into the wind. If a chair is pulled out for you, do not thank it. | — the five rules, recited by Unfed children at the gate of Wanting
+
+### Orrum's Tables
+
+They appear in empty houses, at crossroads, in the middle of a field at dusk: a table of old dark wood, cloth laid white, candles lit, places set, the food steaming. The smell arrives first, a mile off: baking bread, roast fat, apples in butter, everything one's mother ever cooked on a feast day, and the starving Unfed weep at it in the road. It is warm around a table, gently warm, the warmth of a kitchen after a long walk. The cutlery is heavy silver, and each knife is laid exactly as the guest's family laid knives. There is a chair pulled out. Lately there is a card at the place with a name on it, spelled correctly. Treat a table as a hazard with Hosting 18. Any character who smells a table rolls Caul + Resolve 14 or moves toward it. Any who sees their own place card rolls Dread 3. Any who sits rolls Caul + Resolve 22 to rise again; Lent Ashby is the only one known to have managed it. Tablebreakers smash tables with axes before anyone can sit: a table has Flesh 20, Guard 0 and Armor 2, and as it breaks it bleeds gravy and its candles cry out like children. A table smashed by a character with any godsign in them adds 2 Hunger, because the god inside wanted that food.
+
+[pull] Four hundred tables I've put the axe through. You learn the sound. It's not wood. It's a sigh, like a mother setting down a heavy dish she carried all that way for you. | — Decline Marsh, Tablebreaker
+
+### The Seated
+
+The Seated remain at table for decades, eating from empty plates, smiling, alive long past any natural span. They are skeletal and radiant. Their clothes have rotted to rags around them; their skin is paper over bone, so thin the lamplight shows the shadow of their teeth through their cheeks; their forks move, scrape, lift, and the jaw works on nothing, and the throat swallows, a dry click a dozen times a minute. They smell of dust, candle-wax and, very faintly, of the meal they are describing. They are perfectly sane, and they want company. Brother Hallow Crust describes each course in detail, the soups, the roasts, the jellies trembling in their moulds, and people who listen too long pull out a chair. The Seated never attack. They invite. They are very good at it.
+
+[quick] The Seated — Threat 5 (Persuade) · Flesh 4 · Guard 6 · Attack none · Armor 0 · Dread 2 / 3 when one of them is someone known · Hosting 18: describing a course is a Persuade +11 roll against the listener's Caul + Resolve; failure costs 1 Fray and three failures pull out a chair. Lifting one from its seat kills it, gently, still smiling.
+
+### Welcome Ardent, the Steward
+
+He walks a mile ahead of Orrum, laying the tables. He was the first of the Unfed to accept, six hundred years ago, and the only guest who was offered a position. He looks like a tall, thin, tired man of fifty in a waiter's long apron, gravy-stained, with a cloth over his arm and very clean white gloves. His smile is genuine and exhausted. He smells of bread and old candles. His shoes are worn through at the toes from six centuries of the road, and his feet, inside them, are worn to the bone and do not bleed. He does not fight. He sets places, folds napkins, writes place cards in a beautiful hand, and asks politely whether you will be joining the Host this evening. He would like, very much, to be relieved. He has begun to look for a replacement.
+
+[pull] I am so sorry to trouble you. Will you be dining with us? No? Of course. I'll keep it warm. | — Welcome Ardent, on the Rim Road, to a Company warden who has not slept since
+
+[stat: Welcome Ardent — the Steward]
+Attributes: Hand 4 · Gut 3 · Lung 5 · Eye 5 · Tongue 6 · Caul 7
+Cut & Regrowth: Cut none (he was never fed a god; he was hired by one) · no Hunger · no Regrowth
+Skills: Persuade 6, Craft 5 (setting a table), Lore 6, Instinct 6, Wayfaring 6
+Flesh 30 · Guard 21 · Armor 0 · Threat 7
+Attacks: none. He does not fight. A character who attacks him finds their blow lands on a table that was not there a moment before.
+Abilities: Hosting 22. The Card: he can write any character's name on a place card; that character feels the Pull 18 toward the nearest table every night until the card is burned. Ahead of the Host: Orrum is always a mile behind him. Cannot Die While Employed. Wants: a successor. He will offer the position to the character who refuses him most gracefully.
+Dread: 2 / 4 when he speaks a character's mother's name
+End: None. His contract can be negotiated. Jessamy Quill has been asked to witness it. She has not yet said yes.
+[/stat]
+
+### The Host
+
+Orrum has no stats. Nobody living has seen it clearly and returned whole. The descriptions agree only that it is very tall, that it stoops under doorways, and that it is warm. It does not attack. It hosts. Run the Host's approach as a sequence of signs, each a scene or more apart. Each sign is a Dread check of rising difficulty, and at each sign the characters may still leave.
+
+| Sign | What the characters perceive | Dread |
+| 1 | Company: frost melting in a line across a field; the smell of bread with no source | 1 |
+| 2 | Chimneys smoking in empty houses; a hearth already lit where they mean to shelter | 2 |
+| 3 | A table, laid, with their names; Welcome Ardent bowing in the road | 3 |
+| 4 | A tall shape stooping under the lintel of a house a field away, looking in | 4 |
+| 5 | It is in the room. It is warm. It pulls out a chair. | 5 |
+
+At the fifth sign, any character who has accepted anything in the Fast must sit. Others must refuse three times aloud, each a Caul + Resolve roll at Dire 22. A character who refuses all three times and does not thank it is left alone, and the Host, very gently, sets their place anyway, for next time. Do not let the players kill it. There is nothing to kill. Spare Tolland has seen it stop and wait for him to catch up, and has come to think it is lonely, and that is the most dangerous thing anyone has ever said about it.
+
+[bigquote] It was not hungry. That was the terrible thing. It was the only thing on the Table that was not hungry, and it wanted so badly for us to eat. | — Spare Tolland of the Hostwatch, thirty years at a mile's distance
+
+### The Lit House
+
+Never enter a house where the hearth is already lit. A Lit House is the Host's ambush: a ruin that, at dusk, has its windows glowing, its door ajar, its fire crackling and a kettle on. Inside, everything is warm, clean and laid out, and the door does not open from within once a guest has crossed the threshold until they have eaten. The walls sweat butter. The floors creak with a sound like a stomach. The rooms rearrange themselves so every corridor leads back to the kitchen. Hosting 18 to resist eating each hour; Dread 2 on entering, 3 when a character finds the bones of earlier guests tidily stacked in the larder, clean and polished, every one with a napkin. The skulls are arranged on the top shelf in the order the guests arrived, and the most recent still has a little flesh at the jaw, and is smiling.
+
+### New Horror: The Tidiers
+
+The best farmland on the Table lies six centuries empty and perfectly kept. The hedges are trimmed. The windows are clean. Nobody does it. That is the Unfed saying, and it is wrong in one particular: something does it. The Hostwatch call them the Tidiers, and nobody has seen one whole. They are glimpsed at the edge of the eye in the gold Carving light, at the end of a lane, behind a hedge: a flicker of white sleeve, a pair of long pale hands shaking out a cloth, a stooping figure sweeping a doorstep that is already swept. They work only where no one is looking, like the Scarecrow of Low Tilth, and the sound of them is the soft domestic sound of a house being kept: a broom's whisper, a dish set down, a sheet snapped smooth.
+
+They keep everything as a good host would, for the guest who is surely coming. That includes travellers. A traveller who falls asleep in an empty Fast farmhouse without a watch posted wakes, if they wake, washed, their hair combed and braided, their nails pared to the quick, their clothes laundered and folded at the foot of the bed, and something taken off them that was untidy: a beard, a scab, a wart, a crooked finger straightened with a crack they slept through, a missing tooth's neighbours drawn so the smile is even. Those the Tidiers find untidy beyond mending are put away. The Hostwatch have found them in linen-presses, folded very small.
+
+[fiction]
+Spare Tolland's map, margin note, Lammas Bottom. "Slept at the Pellow farm, two of us. Posted no watch, God forgive me. Woke clean. Woke with my nails cut. Abide had a limp from a Reckoner raid. He walks straight now. He will not tell me what it felt like. He keeps touching his knee and looking at the dresser where the plates are."
+[/fiction]
+
+[quick] The Tidiers — Threat 6 (Stealth) · Flesh 12 · Guard 20 · Attack +7 (putting right: 2, ignoring Armor; on two Helpings, a Mangling of the GM's choice that leaves the character neater: a scar smoothed over, a finger set crooked-straight, an ear trimmed) · Armor 0 · Dread 1 on finding the house kept / 3 on waking tidied · Unwatched (as the Scarecrow: they act only while no character is watching them); Hosting 14 (a character who thanks them, even in sleep-talk, must roll or stay to be looked after); posting a waking watch through the night keeps them out of the room.
+
+### New Horror: The Crumb-Bringer
+
+Sister Nay Corliss has not eaten in three years, and each morning she wakes with crumbs on her lips. Abby Rooke leaves a crust on the windowsill and finds it replaced with something better. The Crumb-Bringer is the thing that does it: the Host's kindness at its most patient and most intimate, a feeding that happens while the Unfed sleep. It is never seen. It is felt: a warmth at the bedside, a weight settling on the edge of the mattress, the brush of a finger at the lips, a smell of honey-cake and warm milk, and in the morning a sweetness in the mouth and a fullness in the belly that the Unfed have never in their lives felt, and that they do not have a word for. They wake rested. They wake well. They put on flesh. Their cheeks fill, and their friends at the Fourth-Day Market notice, and say nothing, and watch them.
+
+And each night they sleep a little deeper, and wake a little later, and want to go back. They begin to lay a crust out. Then a cup. Then a chair, beside the bed, pulled out. When they stop waking at all they are found plump and smiling, the covers tidied, a napkin tucked at the throat, the mouth open a little as if for the next spoon, and the chair beside the bed is warm.
+
+[pull] She's fat. Sister Nay's fat, and her eyes are bright, and she's never been so holy. That's what they say in the Lean House. They say it like a curse. | — a novice of the Starved Saints
+
+[quick] The Crumb-Bringer — Threat 7 · no Flesh (it is not there to strike) · Guard none · Attack none; Hosting 18 nightly against a sleeping Unfed or anyone who has refused a table that week (failure: the character wakes fed, removes all Starving levels, and gains 1 *Fed* mark; at 3 marks they gain the *Pull* Derangement toward sleep, at 5 they do not wake) · Dread 1 on waking with crumbs / 3 on finding the warm chair · an Unfed who stays awake all night, or sleeps with a lit fire and a Tablebreaker's axe across the threshold, is passed by; refusing aloud in one's sleep, three times, is said to work, and nobody knows how to teach it.
+
+[pagebreak]

@@ -56,7 +56,7 @@ The old canyon folk did not pray to it so much as report to it. Every household 
 Boundaries were made at Tolm's knee by two neighbours walking the line together, saying aloud at every cairn *this far, and no farther, for me and mine*, and the lines held better than walls. Debts were made there and paid there. A man who could not pay walked up the Gullet and said so, and the god heard, and what happened next depended on how he said it. A people who live in the hearing of a god that hears everything learn three things early: to say little, to mean it, and never to mistake silence for privacy.
 
 [box: The Hearers]
-Before the Gorging, Tolm had no priests. It had **Hearers**: men and women of the upper gorges who sat at the god's feet in shifts, night and day, for life, and kept the record of what was said to it on knotted cords and later on clay. They were chosen from children who could sit still the longest, and they were not permitted to speak in the god's presence except to repeat, word for word, a vow someone had made, so that the god could hear it twice. Their descendants are the Keeners of the Witnessing Vaults and, some say, the Echo-Wardens. The last Hearer's cord, a rope of knots as thick as a man's thigh and longer than the Gullet is deep, is kept in the sealed rooms of the Ledger. No one now can read it. The Bench keeps it anyway, because it is the record, and the record is never thrown away.
+Before the Gorging, Tolm had no priests. It had **Hearers**: men and women of the upper gorges who sat at the god's feet in shifts, night and day, for life, and kept the record of what was said to it on knotted cords and later on clay. They were chosen from children who could sit still the longest, and they were not permitted to speak in the god's presence except to repeat, word for word, a vow someone had made, so that the god could hear it twice. Their descendants are the Keeners of the Witnessing Vaults and, some say, the Echo-Wardens. The last Hearer's cord, a rope of knots as thick as a man's thigh and longer than the Gullet is deep, is kept in the sealed rooms of the Ledger. No one now can read it.
 [/box]
 
 ### The Long Lack in the Canyons
@@ -130,7 +130,7 @@ It does not have to be solemn. "I'll be back before dark" is an oath. "I'd die f
 
 The Bench's physicians have been cataloguing Breakings since 3 A.G., and their Book of Ruptures runs to nine volumes, each organised by the word broken rather than the part. What the catalogue teaches, and what every canyon child knows without being taught, is that the body does not merely break. It *says*. A Breaking is a sentence written in flesh, in the god's own grammar, and its grammar is the plainest reading of what was sworn.
 
-A man who swore to his partner *I'll give you my right arm if this deal goes bad* did not lose an arm: he was found the morning after the deal went bad with the arm intact and entirely useless, hanging from the shoulder like a sleeve with nothing in it, the muscle gone soft and the skin cold, because he had promised to give it, and it was given, and it was no longer his. A woman who swore to a lover *I will never let you go* broke two years later, when the lover went, and her fingers clenched shut and did not open again; the Bench's surgeons tried, in 588, to open them with screws, and found the tendons had grown into the palms. A drover who promised his wife he would *keep his eyes on the road* came home by a different road and lost the use of his neck: it locked forward, and he spent the rest of his life staring at the ground in front of his feet, and walked into walls.
+A man who swore to his partner *I'll give you my right arm if this deal goes bad* did not lose an arm: he was found the morning after the deal went bad with the arm intact and entirely useless, hanging from the shoulder like a sleeve with nothing in it, the muscle gone soft and the skin cold, because he had promised to give it, and it was given, and it was no longer his. A woman who swore to a lover *I will never let you go* broke two years later, when the lover went, and her fingers clenched shut and did not open again; the Bench's surgeons tried, in 588, to open them with screws, and found the tendons had grown into the palms.
 
 The sound is always the first thing. Oatheners who have heard a Breaking describe it by its kind: the green-branch crack of a long bone going; the wet rip, like a sleeve torn off a shirt, of skin parting along a line it was never meant to part on; the hollow pop of a joint leaving its socket; the soft, almost polite sound of a heart's cupboard opening, which the Bench's physicians liken to a ripe fig pulled in half. A Breaking in the Felt Market stops all trade, because the sound carries through felt, and everyone in earshot knows at once that someone nearby has said something they did not mean, and every one of them, without exception, runs back through what they themselves have said that morning.
 
@@ -201,7 +201,7 @@ A part lost to a grievous Breaking cannot break again. This is the Forsworn's si
 
 The great danger of the canyon country is echo. An oath repeated is an oath renewed, and a canyon will repeat anything. A man who swore in the narrows of the Sheath to pay a debt by the new Plate heard it come back nine times, and when he failed, he broke nine times, each Breaking landing on the last. He is buried at Sheathmouth in nine pieces. The Bench's ruling of 77 A.G., which has never been amended, holds that an echo is the speaker speaking again, because the god hears the voice and not the wall: every repetition the speaker hears is a fresh oath, of the same Weight, made by the same mouth, and broken at the same moment.
 
-Whole gorges are posted as silent, with stone hands carved at their mouths, palm out. Wind is feared for the same reason: a vow overheard is still a vow, and when the dry Carving wind called the Tattler comes up from the south, families sit in their inner rooms in silence until it drops. The Tattler carries words. Herders on the plateau have heard, on its gusts, a sentence spoken in Tacit ten miles off, and the person who spoke it, by the Bench's ruling of 412, has made that oath again at the moment it was heard, and broken, if they broke it, twice.
+Whole gorges are posted as silent, with stone hands carved at their mouths, palm out. Wind is feared for the same reason: a vow overheard is still a vow, and when the dry Carving wind called the Tattler comes up from the south, families sit in their inner rooms in silence until it drops.
 
 Echoes do not always die. The Echo-Wardens divide them into four kinds, in their own clipped handtalk: *the short* (a word that dies in a bend or two, harmless except to the speaker); *the long* (a word that runs the length of a narrows, binding anyone who walks through it in its life, usually an hour or a day); *the kept* (a word caught in a hollow of the rock, a cave or fault, that comes out again whenever the wind or the river pushes air through it, for years); and *the living* (a word that has learned to move, and follows people). Every Warden knows the stories of the kept: the cave above Low Dray that says *I'll wait for you* in a young man's voice every evening when the river breeze turns, and has said it for a hundred and forty years, and the women of Low Dray who go up to listen to it because whoever it was meant it. The living are hunted.
 
@@ -386,10 +386,6 @@ The valley the First Sayer stopped in 598 A.G. Everything in it stopped: water s
 
 At Highwell, above the Gullet, where the Rain-keepers ate the god's heart, the Rain Shrine stands at the centre of a bowl of red rock ringed with cisterns: six hundred and forty standing stones, each carved with a year and its rainfall. Every household's cistern-share is sworn here or at a share-stone on the first day of Grace. This year a new stone stands outside the ring, uncarved, the height of a young woman. The basin has not yet agreed what to write on it (see Oathen Now).
 
-#### Knot Canyon, Sheathmouth and the Small Places
-
-South of Tacit lies **Knot Canyon**, a labyrinth of slot-canyons where sound gets lost, home to smugglers, unlicensed Sureties and Grandam Cess. Downstream of the **Sheath**, the fourteen-mile narrows where an echo runs nine times, the guides of **Sheathmouth** rope travellers together and lead them through gagged. **Low Dray**, two days down the Hushwater, is the gentlest town in the country, all fig orchards and fostering-houses. **Treaty Stair** is where the Rim Road comes down off the plateau and every foreigner is taught, by slate, to shut up. **Hollin's Stair**, on the upper Gullet, is the vertical monastery of the Quiet. (*Seven Tables* describes them all.)
-
 #### The Stilled Gallery
 
 A short gallery on the eleventh tier of the Shadeward Wall, forty doors long, sealed at both ends with felt curtains since the Lack of 640. It was called Corder's Gallery once, after the rope-makers who lived there. Nobody lives there now. What happened in it is told under Oathen Now.
@@ -437,7 +433,7 @@ It was not a kind age. Children broke constantly on promises they did not unders
 
 ### The Mute Succession
 
-The old kings spoke, and every word bound them. By 330 A.G. King Orrel the Fourth had sworn so many coronation oaths and treaty-clauses that he ruled his last years from a litter, his body folded into what his physicians called an exact map of his reign's contradictions: one arm bent to the shape of the Brinehollow treaty, one to the Vigil's, his spine twisted between them, his jaw locked half-open on a promise of mercy he had broken in 322. Thereafter the crown passed only to children who had never spoken. Nine such kings have reigned, and all died with their silence intact.
+The old kings spoke, and every word bound them. By 330 A.G. King Orrel the Fourth had sworn so many coronation oaths and treaty-clauses that he ruled his last years from a litter, his body folded into what his physicians called an exact map of his reign's contradictions. Thereafter the crown passed only to children who had never spoken. Nine such kings have reigned, and all died with their silence intact.
 
 ### The Vanthe Oath
 
@@ -455,7 +451,7 @@ In the drought summer of 419 A.G., something was shouted in a narrow ravine east
 
 ### The Forsworn Riots
 
-By 506 the Breakdowns held forty thousand broken people, and the Bench had passed, in that year, the Ruling of Visible Marks, which required every Forsworn to bare their broken part in any public place above the third tier, so that no whole Oathener could be deceived by them. The broken came up the stairs. They came on crutches and wheeled boards and backward-bending legs, singing their oaths, and they swore on broken ground that they would burn the Galleries, which they could swear without cost, and the Watch, who could not swear anything that was not in their oath, could not answer in kind. Then they cut the bridges. Nine of the lowest spans went down into the river in a night, with people on them. The Bench rescinded the Ruling of Visible Marks by noon, in a sentence drafted in under an hour, which no one living had seen done. No Bench collector has gone down into the Breakdowns to ask for a tax since.
+By 506 the Breakdowns held forty thousand broken people, and the Bench passed the Ruling of Visible Marks, requiring every Forsworn to bare their broken part above the third tier. The broken came up the stairs on crutches and wheeled boards, swearing on broken ground that they would burn the Galleries, and the Watch could swear nothing back. Then they cut nine of the lowest bridges, with people on them. The Bench rescinded the Ruling by noon, and no Bench collector has gone down into the Breakdowns since.
 
 ### Wending Pass
 
@@ -596,7 +592,7 @@ Oaths sworn on the dead are the heaviest in the land: a hand on the bones, the d
 
 Where there is an oath on the dead, there is someone who wants the dead gone. The trade is old and the Keeners hate it above all others: **bone-lifting**, the theft of a witness from its niche, by an oathbreaker who hopes that a dead one who is no longer in the Vaults can no longer Testify. It does not work. Bones lifted from the Vaults Testify from wherever they are taken: from the bottom of the Hushwater, from a lime-pit in Knot Canyon, from under a hearthstone in the Galleries, where in 602 a family sat at supper above the grandmother they had sworn on and heard her say their oath up through the floor. The Keeners know this. The desperate do not, or will not believe it.
 
-The worst of the desperate go further. There is a belief, old in the upper gorges and spreading in the Breakdowns, that a witness swallowed cannot speak: that an oathbreaker who grinds the bones of the dead they swore on into flour and bakes it into bread and eats it, alone, at night, in silence, has taken the witness inside, where the god cannot hear it. The Keeners call the practice *eating the witness*. They know of nineteen cases since 500. In every one, the dead Testified anyway, from inside: their voice coming up out of the oathbreaker's own belly, muffled and wet, speaking the oath aloud in a crowded place, while the oathbreaker clutched at their stomach and the people around them backed away. One of the nineteen, a cloth-merchant of the Sunward Wall, tried to stop the voice with a knife, from the outside, and the Keeners were sent for, and Old Sabra Wends will not describe what she was asked to put in the niche afterward.
+The worst of the desperate go further. There is a belief, old in the upper gorges and spreading in the Breakdowns, that a witness swallowed cannot speak: that an oathbreaker who grinds the bones of the dead they swore on into flour and bakes it into bread and eats it, alone, at night, in silence, has taken the witness inside, where the god cannot hear it. The Keeners call the practice *eating the witness*. They know of nineteen cases since 500. In every one, the dead Testified anyway, from inside: their voice coming up out of the oathbreaker's own belly, muffled and wet, speaking the oath aloud in a crowded place, while the oathbreaker clutched at their stomach and the people around them backed away.
 
 [pull] We tell the families, the dead will speak from wherever you put them. If you put them in your mouth, that is where they will speak from. | — a Keener of the Witnessing Vaults
 
@@ -770,8 +766,6 @@ Dread: 3 (to see his throat working under the gold-chased bit)
 Secret: He has made a sound once, a single hum, alone, to know what it was like. A clerk heard it. The clerk is bitted now, and the king visits him.
 [/stat]
 
-[pull] He closed his hand on the draft. Nobody breathed. Then he opened it again, very slowly, one finger at a time, and we understood that we were being given a second chance, and that there would not be a third. | — a Bencher, describing an audience of 640
-
 Ket the Ninth is thirty-one, slight, grey-eyed, and has never made a sound. He was chosen at eleven days old from the Hushwell line and bitted in silver before his first cry; his nurses held their hands over his mouth when he laughed. He rules by nod and gesture, and the Bench spends weeks arguing what each one meant. He has a great deal to say. He reads everything; he writes nothing, because writing may now count. His eyes are very expressive and very tired. He knows, because the Cutwrights have told him in a sealed report, that his Regrowth has run to the Course without a word ever leaving his mouth, and that what is pressing behind his teeth is not a man's sentence. He fears that he wants to say it. PCs meet him at audience, where he will hold their gaze a long time and then, perhaps, make a gesture no one on the Bench has seen before, meant only for them.
 
 [stat: Sorrin Vael — Chief Clausewright]
@@ -837,8 +831,6 @@ Ona Fell carries two hundred and eleven oaths that belong to other people. She i
 Jessamy Quill, Notary of the Rim Road, is the hinge of the Table's trade. Every contract the Company holds is sworn before her and rests on her word as witness: forty years of shipping, tolls and debts. If she dies or breaks, half the trade of the Table comes unbound in an afternoon. She is sixty-eight, sharp-faced, Oathen-born, and has a voice so practiced that every sentence she utters is witnessed and exact. She eats only food tasted by two Company servants. She keeps a Surety for herself and does not say who. She is no one's friend. She wants to die of old age, with an apprentice ready. She has no apprentice; three have died, unluckily. She meets PCs as a client, or as the person they are hired to protect.
 
 [quick] Jessamy Quill — Threat 4 · Flesh 10 · Guard 11 · Attack +2 (stiletto 2) · Armor 0 · Dread 0 · Clause 6
-
-[pull] I have been four for fifty-nine years. I know what four knows. It is mostly about waiting. | — Little Rue, to a client
 
 Little Rue was four, before her muzzling, when she promised her mother she would never grow up. She has not. She is sixty-three, in a child's body, with milk teeth and soft hair and old, old eyes, and she has outlived everyone the promise was for. Her mother died in 611. Her friends married, bore, and died. She wears no bit, since she is past twelve; she speaks seldom, in a child's high voice with an old woman's syntax. She lives in the Breakdowns, among the broken, who are kind to her. She wants to grow old. She fears that the oath has a second reading: that because she cannot grow up, she cannot die, and will be a child in the dark of the Vaults forever. She meets PCs as a fixer and a guide, and she drives a hard bargain, because she cannot afford to be lied to.
 
@@ -948,3 +940,202 @@ Orla Corr, the Mother at the Stone, is fifty, a shepherd of the Highwell basin a
 
 [quick] Orla Corr — Threat 2 · Flesh 12 · Guard 11 · Attack +3 (shepherd's crook 3) · Armor 0 · Dread 0 · Endure 4, Wayfaring 3
 
+
+[pagebreak]
+
+## Playing an Oathener
+
+An Oathener is a person raised to weigh every word, in a country where the god in their blood is a witness that never stops writing things down. They make careful allies, terrible liars and devastating negotiators. They are also, the moment they open their mouths, at risk.
+
+**Attribute bonus:** +1 TONGUE.
+
+[pull] An Oathener at your table will be the slowest to speak and the last to agree, and when they finally say "yes", you will be able to build a house on it. | — a Rim Road caravan-master's advice to new hires
+
+### What It Is to Be an Oathener
+
+You were raised in a nursery where every child wore a muzzle and nobody thought it strange. You learned handtalk before you learned to walk, and your first spoken words, at twelve, were chosen for you by a lawyer. You have seen someone break. Everyone in Oathen has: a neighbour's fingers going back on themselves at the market, an uncle's knees folding at a wedding, a stranger's jaw coming loose on a bridge. You know the sound. You hear it in your sleep.
+
+So you are careful. Not cold: Oatheners love as hard as anyone on the Table, and grieve harder, because they cannot say most of what they feel. You show love by what you do and do not promise. You show respect by waiting a breath before you answer. You show trust by saying, to one person in your life, something without an Exit, and you will remember every time you have done it.
+
+Play an Oathener slowly. Let the other players fill the silence. When your character speaks, say exactly what they say, and let the table hear the Exits. When your character finally makes a promise without one, make it matter.
+
+[box: Talking Like an Oathener at the Table]
+- **Write it first.** Keep a scrap of paper. Before your character says anything important, write the sentence, read it, cross out what binds. The other players will start doing it too.
+- **Answer questions with facts about yourself.** Not "the bridge is safe" but "I crossed it this morning." Not "I'll help" but "I would like to help."
+- **Use the Exits as character.** A Clausewright buries them in subordinate clauses; a Forsworn does not bother; a child of the Galleries says "for today". Your Exits tell the table who you are.
+- **Never say "I promise" lightly, and never let another player say it to you lightly either.** Hold them to it. That is your Want.
+- **Let silence be an answer.** A closed hand laid on the table means *I will not answer*, and in Oathen that is a perfectly polite thing to do.
+[/box]
+
+
+### Oaths in Oathen
+
+These rules apply to anyone within Oathen's borders, native or not, and to Oatheners abroad when their Regrowth reaches the Course.
+
+#### Oath Weight
+
+Every binding statement has a **Weight** from 1 to 5, set by the GM from what was meant and how it was said.
+
+| Weight | Kind | Examples |
+| 1 | Idle | "I'll be back by dark." A small lie. A boast. |
+| 2 | Plain | A deliberate promise to a person. "You can count on me." |
+| 3 | Sworn | "I swear." Any witnessed vow, or a lie that matters. |
+| 4 | Solemn | Marriage, Company contract, sworn sentence, vow at the Ledger. |
+| 5 | Grave | An oath sworn on the dead, or on Tolm by name. |
+
+An oath sworn in an echoing place renews once per echo the speaker hears (usually 1–3; a canyon narrows can manage 9). Each renewal is a separate oath of the same Weight, broken at the same moment. Handtalk and writing currently count at half Weight, rounded down; at Weight 0, the GM rolls a d10 anyway, and on a 1–2 the god counts it at Weight 1. The widening is happening.
+
+#### Conditional Speech
+
+A character can speak carefully. When they deliberately draft an oath or a sensitive answer, roll **Tongue + Clause**. The difficulty is Routine 10 at leisure, Hard 14 in a pressed negotiation, Grim 18 in combat, interrogation or under a Dread check. Every Helping adds an **Exit**: a condition the player names ("barring illness", "if the river allows", "as I now intend") under which breach is not breaking. A Grace makes the oath **Clean**: the GM must honor any reasonable reading of it. A failure means the sentence carries no Exits; a Lack means the speaker said more than they meant, and the GM names one extra Weight 1–2 promise in the words.
+
+When a character speaks without care (in anger, grief, fear or play), the GM may call for the same roll to see whether anything binding slipped out.
+
+#### When an Oath Is Breached
+
+1. **Check the Exits.** If an Exit genuinely fits the circumstance, nothing happens.
+2. **Argue the reading.** If the case is ambiguous, the character may plead to the god in the moment: roll **Eye + Clause** vs 10 + (2 × Weight). Success: Tolm accepts the reading. Failure: the oath breaks.
+3. **The Breaking.** The body breaks at once, with a sound. The GM chooses the most apt rupture from the Breaking table (or rolls a d20 when the subject is unclear). The victim loses **2 × Weight** Flesh, which cannot reduce them below 1: the Breaking is never fatal by itself, though bleeding, exposure and further harm may be. At Weight 3 or more the rupture is permanent: a **Forsworn mark**, with a lasting penalty of −1 per Weight above 2 to rolls using the broken part. At Weight 5 the part is lost entirely.
+4. **Dread.** The broken make a Dread check of the oath's Weight (maximum 4). Witnesses make one at Weight − 1 (minimum 1).
+
+**Broken Ground.** A part already lost to a Weight 5 Breaking cannot break again. Oaths whose apt Breaking would land there may be sworn freely; if broken, the GM shifts the Breaking to the next nearest apt part, at −1 Weight. This is how the Forsworn of the Breakdowns can swear.
+
+**Lies.** A spoken lie is an oath broken the instant it is finished. Small lies are Weight 1, lies that matter Weight 3, lies under the god's name Weight 5. Their Breaking is the mouth: lips, teeth, tongue, jaw.
+
+#### The Breaking Table
+
+| d20 | Oath concerned | Minor (Weight 1–2) | Grievous (Weight 3–5) |
+| 1 | Lies, true speech | Lips split to the gum | Jaw unhinges, tongue splits |
+| 2 | Dealing, fair weight | Fingers snap backward | Hands come off at the wrist |
+| 3 | Standing by, staying | Knees buckle | Legs fold backward like a heron's |
+| 4 | Going, arriving | Ankles crack | Feet turn fully about |
+| 5 | Returning home | Heels split | Tendons draw up; cannot walk away from a door |
+| 6 | Love, the heart | Breastbone cracks | Chest opens like a cupboard |
+| 7 | Marriage, fidelity | Ribs crack | Ribs open outward like a book |
+| 8 | Carrying, bearing | Shoulder slips | Spine hooks double |
+| 9 | Watching, witness | Eyes bleed | Eyes burst in their sockets |
+| 10 | Secrets, silence | Ears ring and bleed | Throat splits lengthwise |
+| 11 | Feeding, providing | Teeth loosen | Belly opens at the navel |
+| 12 | Never forgetting | Nose bleeds, lost hours | Skull cracks along the suture; memories leak |
+| 13 | Obedience | Neck wrenches | Knees and neck lock bowed for life |
+| 14 | Effort, trying | Long muscles tear | Arms and back split like staves |
+| 15 | Courage, boasts | Bladder and bowel give way | Skin of the face splits and peels |
+| 16 | Protecting another | Palms split | Arms snap at the elbows |
+| 17 | Following, loyalty | Hamstrings strain | Spine twists to face behind |
+| 18 | Abstaining, refusal | Stomach cramps, vomiting blood | Gut ruptures; cannot keep food down |
+| 19 | Handtalk vows | One finger snaps | Every finger breaks at every joint |
+| 20 | Life itself ("I'd die for you") | Breath stops for a minute | Heart stutters; −2 Flesh maximum forever |
+
+#### Sureties
+
+A **Surety** swears, before the principal's oath is made, "I stand for this word." From then on, if the principal breaks, the Surety breaks in their place, taking the full Breaking (the principal suffers only the Dread check, as a witness). A Surety may roll **Gut + Endure** vs 10 + (2 × Weight) to halve the Flesh lost; the mark is taken regardless. A principal who knowingly defaults on a Surety is called **sold** and no Surety in the land will stand for them again.
+
+| Weight | Standard fee (lacks) | Notes |
+| 1 | 2 | Bondlings will take it |
+| 2 | 10 | Often bundled for merchants |
+| 3 | 50 | Underwriter required |
+| 4 | 200 | Marriages, Company contracts |
+| 5 | 1,000 | Few will take it; oaths on the dead never |
+
+A PC may be a Surety; each bond carried is tattooed on the body in script. Carrying more bonds than Gut + Endure means one more Fray each new Lack season, as the weight of other people's word wears the mind.
+
+#### Oaths on the Dead
+
+To swear on the dead, the swearer lays a hand on the bones or the tomb, speaks the dead one's name, and says the vow into the niche. The oath gains +1 Weight (to a maximum of 5), cannot be carried by a Surety, and adds a second Witness to Tolm. When it breaks, the dead **Testify**: roll a d6.
+
+| d6 | The dead Testify |
+| 1 | The corpse's jaw opens in its niche and speaks the oath aloud, in its own voice, loud enough to be heard for a mile through rock. Everyone who hears it knows who broke it. |
+| 2 | The oathbreaker's Breaking takes the shape of the dead one's own death-wound, in addition to its apt shape. |
+| 3 | The dead one's bones are found in the oathbreaker's bed at dawn, arranged lying beside them. |
+| 4 | The oathbreaker speaks only in the dead one's voice for a month. Dread 2 for all who knew the dead. |
+| 5 | Every promise the oathbreaker ever made to the dead in life is re-weighed. Each one not kept breaks now, at Weight 1. |
+| 6 | The dead one's name begins to replace the oathbreaker's own. Friends forget which they are speaking to. Each Lack season, 1 Fray, until the oath is kept or the name is lost. |
+
+### The Regrowth of Tolm
+
+**The Sop: Swearing.** Make an unconditional oath, aloud, of Weight 2 or more, before a witness, with no Exits. Remove 1d6 Hunger. The oath binds as normal.
+
+**The Tooth.** When an Oathener Partakes, they hear their own last words come back to them, half a second late, in a voice that is not quite theirs, and taste wet slate. If any Tooth shows a 1, the god bit back and took the character at their word: their last spoken sentence becomes a Weight 1 oath, read in its most literal sense.
+
+**The Wants** (resisted with Caul + Resolve):
+- **To Swear.** Triggered by silence held too long, by being doubted, or by a direct question. Failure: the character vows something aloud (GM's choice, Weight 1–3).
+- **To Hold Others to Their Words.** Triggered when someone nearby breaks a promise. Failure: the character must confront them and demand they repeat it.
+- **To Correct.** Triggered by hearing a falsehood. Failure: the character states the truth aloud, whatever it costs.
+- **To Be Heard.** Triggered in echoing places. Failure: the character speaks, to hear it come back.
+
+#### Gifts
+
+- **The Taste: Echo-Ear.** You hear your own words repeated a half-second late. You may roll **Eye + Instinct** (Hard 14) to know whether a statement spoken in your hearing was a lie or bound its speaker, and at what Weight. Cost: in echoing places, Dread 1 checks whenever you speak.
+- **The Appetite: Hold to It.** When someone makes you a promise, you may Partake to make it heavier: +1 Weight. You feel, as a pressure in your teeth, whenever they come near to breaking it. Cost: you cannot release them; you must hold them to it, and the Want To Hold Others to Their Words triggers automatically.
+- **The Course: Say So.** Once per scene, state a plain fact about something you can see. Roll **Tongue + Godsign**: Hard 14 for a small thing ("That rope holds"), Grim 18 for a significant one ("The door is locked"), Dire 22 for a great one ("He cannot see us"). Success: it is so for the scene. Cost: +2 Hunger, and for the rest of the day the GM may make any figure of speech you utter come true. Flesh change: the tongue darkens and lengthens; small ears open on the neck and inner arms; a second voice speaks under yours.
+- **The Brink: Make It So.** Once per session, say one sentence that becomes true, at any scale the GM judges a single sentence can carry. No roll. Cost: Regrowth +1, and until the session ends, every sentence you speak binds as Say So with no roll and no limit. Brink characters must be bitted, by law and by sense.
+
+**The Seating.** A Seated Oathener becomes a Sayer: the face smoothing, the eyes skinned over, the mouth a door the god speaks through. The character is no longer playable. The player writes the character's last sentence, the one they would have said, and the GM decides whether it was spoken before the gold went in.
+
+### Backgrounds
+
+- **Junior Clausewright.** A Slate-Clerk with ink on the fingers and a head full of Exits. Clause 2, Lore 1, Reckoning 1. Starts with a slate, a bit for emergencies, and a debt to a Bencher.
+- **Forsworn of the Breakdowns.** Broken at Weight 5 once, young, and proud of it. Choose one Broken Ground. Intimidate 2, Brawl 1, Deceive 1. Starts with a cleaver, an oiled cloth, and friends who lie for a living.
+- **Bondling Surety.** Carrying three small bonds and the fees for them. Endure 2, Clause 1, Resolve 1. Starts with 60 lacks and three tattoos.
+
+- **Echo-Warden Baffler.** Half-deaf by initiation, quick on rope, used to silence. Wayfaring 2, Instinct 1, Stealth 1. Starts with felt, wool, a coil of rope, wax and lead plugs, and a Gorge-Warden who will vouch for you once.
+- **Novice of the Quiet.** You came to Hollin's Stair to stop saying things. You have not yet taken the knife. Resolve 2, Rites 1, Lore 1. Starts with a slate, chalk, a grey robe and the Silent Supper Knack, and a question tied to the Lowered Rope that has not yet been answered.
+- **Heart-line of Highwell.** Rain-keeper blood, a pulse slow enough to frighten physicians, and a family that swore at the lot. Endure 2, Wayfaring 1, Rites 1. Starts with a flask of Kept Rain, a shepherd's crook, and the knowledge of what happened at the stone.
+- **Tongue-line Scion.** A younger child of a minor house, Cut 3 or 4, bitted in iron at night and veiled by day. Clause 2, Persuade 1, Lore 1. Starts with a silver-chased iron bit, a veil, the Smell of Cedar Knack, and a Cutwright's sealed report on your own tongue that you have not opened.
+
+### Forsworn Characters
+
+A character may begin play already broken. Choose one grievous Breaking from the table (Weight 3 or more) and decide what was said, to whom, and when. The character carries its Forsworn mark (−1 to −3 to rolls using the broken part, as the Weight) and begins with Fray 2, as the Making a Guest chapter allows. In return they gain **Broken Ground** for that part from the first session, and +2 to Intimidate and Deceive in the Breakdowns, where their mark is their credit. Whole Oatheners will not take a Forsworn's word on anything touching the broken part; foreigners, who cannot read the mark, usually will.
+
+### The Four Questions in Oathen
+
+Every Guest answers the Four Questions. For an Oathener, one of them is not a question of character but of law. **The Oath on the Dead** is sworn at Weight 5, by the rules below, from the first session, on real bones in a real niche, and the dead one will Testify if it breaks. Write it as a Clausewright would, or as a grieving person would, and know which you have done. Examples: *On my mother, Annet Orle, in the ninth niche of the Shadeward felt-makers' gallery: I will find out who sold my brother's tongue to the Second Table.* *On Hallie Corr, at the stone: I will not let them draw another lot.* *On Aubin Sele, cooper, whose figs I took home: I will keep his daughter whole, if able.* The Exit in the last one is lawful, and the dead man heard it.
+
+
+### Names
+
+| Men | Women | Neutral | Surnames |
+| Ket, Tav, Brakk | Imre, Ona, Rue | Wenn, Sele, Osk | Vael, Dath, Fell |
+| Halvar, Thane, Garl | Mirren, Asha, Yusra | Aubin, Merit | Quill, Stane, Urrow |
+| Renn, Jude, Sorrin | Cess, Verity, Ottoline | Hush, Amn | Kindle, Tome, Thole |
+| Dorian, Ilan, Varro | Mags, Dacey, Sabra | Tacet, Esk | Hold, Crook, Crake |
+
+Oathen names are short, because every syllable is said aloud. Tongue-line families favour names that are hard to mishear.
+
+| Men | Women | Neutral | Surnames |
+| Corram, Isk, Joss | Hallie, Orla, Tamsa | Lise, Merit, Pell | Corr, Corder, Hask |
+| Tobin, Corvel, Odo | Ammet, Senna, Doria | Wilm, Ennis, Ash | Vanthe, Esk, Sarrow |
+| Coll, Tamsk, Brannock | Merrin, Tamsin, Huld | Tacet, Lisle | Orle, Dell, Amberd |
+
+Name-signs are given at the Bitting and used until twelve: a gesture, not a word, usually drawn from the child's first habit (*the one who hums*, *the one who reaches*, *the one who watches the door*). Many Oatheners keep their name-sign for life among family, and it is a mark of great intimacy to be told one. Thumb-rings are the other name: an Oathener's ring-count is known in their gallery the way a foreign merchant's wealth is known in his.
+
+#### Knacks for Oatheners
+
+**Silent Supper** is the canyon Knack above all others, and most Oatheners who can take it do. **Conditional** suits Clausewrights and anyone raised in the Heights. **Old Grief** suits the Forsworn, the Keeners and anyone from Corder's Gallery. **Elder's Ear** is the Keeners' Knack: the dead of the Vaults and the old of the Galleries tell you things. **Unflinching** suits Sureties, who have watched their own bodies break for other people's words, and **Hostage's Smile** suits anyone who has ever had to talk their way out of the Ninth Room.
+
+
+[box: Horrors of Oathen]
+Roll a d20 or choose. Each scene carries the Dread listed in brackets.
+[/box]
+
+| d20 | Horror |
+| 1 | A child, unbitted for cleaning, says "I'll be good forever." The mother clamps her hand over his mouth too late. (Dread 2) |
+| 2 | A man in the market whispers a lie and his lips peel back to the molars, still whispering. (Dread 2) |
+| 3 | An echo comes back from a canyon wall in a voice no one in the party used, and binds all of them. (Dread 3) |
+| 4 | A bride at her wedding reads clause thirty-eight aloud; her ribs crack once, softly, like knuckles. (Dread 2) |
+| 5 | The Unmade Road at dusk: a strapped-together soldier crawling uphill toward the pass. (Dread 3) |
+| 6 | A Murmuring House patient chews through her iron bit and says a single, unfinished word. (Dread 3) |
+| 7 | A handtalker's fingers snap one by one as he signs his farewell to his dying mother. (Dread 2) |
+| 8 | A tomb in the Witnessing Vaults speaks a vow aloud in a dead woman's voice; somewhere above, someone screams. (Dread 3) |
+| 9 | Jude Crake on a bridge, turning an hour-glass, smiling at one of the PCs. (Dread 2) |
+| 10 | A blasphemer at dawn, mouth full of red sand, tongue simply absent. (Dread 2) |
+| 11 | A Tongue-line noble at the Course says "I could eat a horse." The stable goes quiet. (Dread 3) |
+| 12 | A carved vow on the Ledger with a fresh chisel-mark changing one word, and a PC's name below it. (Dread 2) |
+| 13 | The sand of the Gullet breathing under bare feet, warm as skin. (Dread 4) |
+| 14 | A Surety in the street, bonds breaking across her body in sequence as a whole family defaults. (Dread 3) |
+| 15 | A man shouts "I'd die for you" in a canyon, and nine echoes come back. (Dread 3) |
+| 16 | In Low Shale, the frozen herdsman's eyes turn to follow the party. (Dread 4) |
+| 17 | Little Rue sitting alone in a cemetery, telling the dead she is sorry she outgrew nothing. (Dread 1) |
+| 18 | A dream in which the PC promised something in their sleep, and wakes with a thumb ring that was not there. (Dread 2) |
+| 19 | The murmur from Sworn Gorge, faint through a hundred feet of wall, saying two words. (Dread 4) |
+| 20 | A Sayer's gold bit, lying open and empty on the floor of a cell. (Dread 5) |

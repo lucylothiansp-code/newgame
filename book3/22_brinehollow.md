@@ -1006,3 +1006,102 @@ A salvager girl of nineteen, quick and sunburned, who walked the far Uncovered a
 [quick] Hollis Brine, Dagna Hull's apprentice, first name on the *Follow*'s volunteer wall, who once put his ear to Nerys Colm's door — Threat 3 (Craft, Athletics) · Flesh 13 · Guard 13 · Attack +4 (riveting hammer 3) · Armor 1 · Dread 0
 [quick] Fen Lowry, the last count-caller of Cask Lane, seventy-four, who will not stop calling the names — Threat 1 · Flesh 8 · Guard 9 · Attack — · Armor 0 · Dread 1
 [quick] Chaplain Absalom Dree of Fathomhouse, who has sung the Dusk Hymn at forty-one Lowerings and now sings it in his sleep, slower each night — Threat 3 (Rites, Resolve) · Flesh 10 · Guard 10 · Attack +1 (fist 1) · Armor 0 · Dread 0
+
+## Playing a Brinehollower
+
+> Tie your own knot. Then check it. Then let someone you love check it. Then lie down facing east and pray they tied it right.
+>> — advice given to every child on the Mile on the night they are first allowed to sleep untethered from a parent
+
+You were born gasping. Your mother held you over her knee and beat the sea out of you, and you have bailed twice a day ever since. You sleep roped. You call names through the wall. Somewhere west of you, the water knows your name.
+
+**Attribute bonus:** +1 LUNG. Brinehollowers hold their breath longer, swim better, and move more quietly than any people on the Table.
+
+**Bailing.** A Brinehollower who misses a bailing suffers −2 to all rolls until they bail, and after a further hour begins to drown (1 Flesh per ten minutes). Another character can bail a helpless one with a Routine HAND + Stitching roll.
+
+**The Sop: Wading.** Stand in salt water, the sea or any basin of brine, past the knees, through one full turn of the body's tide, facing west, listening. Remove 1d6 Hunger. The god is pleased, and the next Calling roll you make is at +2 difficulty.
+
+**The Tooth.** When a Brinehollower Partakes, the ears pop, the chest fills, and the voice drops into its second register. Witnesses hear the sea in the room. On a Tooth showing 1, the character coughs up a gout of cold water, sand, and something small and living, and loses their next action to bailing.
+
+### Gifts
+
+**The Taste (Regrowth 1–3).** Choose one. *Deep Breath:* hold your breath for ten minutes per point of Caul; you cannot drown in that time and ignore smoke, gas and choking. *Salt-Sense:* by tasting the air you know of a pressure day an hour before it comes, and by tasting someone's bail-water, their Regrowth stage. Cost: either Gift used in front of dry folk marks you as deep-blooded.
+
+**The Appetite (Regrowth 4–6).** Choose one. *Tide-Sight:* Partake to know the direction and distance of the nearest body of salt water, and of every Called and Tenanted person within a mile; −2 to resist The West for the rest of the night. *Pressure:* Partake when grappling or striking to add 2 damage and make the target's ears bleed; on a Helping, the target is stunned for a round. Cost: each use leaves you with salt rime on the skin, and dogs will not come near you for a day.
+
+**The Course (Regrowth 7–9).** Gain *Fathom-Body:* Armor +1 from thickened skin; see in total darkness; breathe water as easily as air; ignore cold. Cost: in open air for more than a day without immersion, −1 to all rolls; you must sleep submerged or gain 1 Hunger each night. Choose also one: *The Weight* (Partake: become crushingly heavy for a scene; cannot be moved, knocked down or carried, and doors and floors may give) or *Quiet Chest* (no breath, no heartbeat audible; +3 to Stealth; dry folk who notice must make a Dread 1 check).
+
+**The Brink (Regrowth 10–11).** Gain *Voice of the Deep:* speak in the god's register; Partake to give one command that anyone at the Appetite or beyond must resist with Caul + Resolve vs Grim, or obey as if Called. Cost: each use, roll a Tooth; on a 1 or 2, the Passenger answers the next question asked of you, in its own voice.
+
+### Wants
+
+- **The West.** Trigger: dusk, a west-facing window, the sound of surf. Resist with Caul + Resolve or go and stand and watch until full dark.
+- **The Water.** Trigger: sleep near any basin, well or barrel. Resist or wake with your face in it.
+- **To Keep Under.** Trigger: learning a secret, finding something lost. Resist or hide, sink or bury it, and tell no one.
+- **The Silence.** Trigger: being asked where someone went. Resist or say nothing at all for the rest of the scene.
+
+### Playing the Tenanted
+
+A PC who returns Tenanted and continues in play stands at the Brink (Regrowth 11) permanently and does not gain Hunger from Partaking, because something else is doing the eating. They cannot lie: any attempt fails and the lower voice says the truth instead. They gain *Fathom-Body* and *Voice of the Deep* if they did not have them. They keep every memory. The player and GM should agree, privately, on one thing the Passenger wants, and the GM may, once per session, have the Passenger act on it through the character's hands for a moment the player does not control. Every companion who knew the character before must make a Dread 3 check at the first meeting, and anyone who Breaks from it takes the Second Face. The Tenanted PC should never be told, by the GM, whether they are still themselves. That is the whole of the role.
+
+### Your Rope
+
+Every Brinehollow PC should answer these at creation. The answers are the first things the coast will use against them.
+
+- Who ties your knot at night, and whose knot do you tie?
+- Who in your family was Called, and did they come back?
+- What is in your rope-box: whose piece of rope, and did you ever cut one?
+- What color was your bucket this morning, and did you look?
+- Which direction does your bed face, and why?
+
+### Background Concepts
+
+- **Netwatch Hooker.** You have dragged the Called home by the hair. You know the Mile at night, and the look they give you.
+- **Wreckwife's Child.** One of your parents came back. You were the one who first noticed. Nobody believed you.
+- **Uncovered Salvager.** You make your living on the dead seabed among upright wrecks and things with too many ribs, and you have seen lights out there you have never reported.
+- **Parish Bailer.** You grew up pounding old backs over your knee for a crumb a time. You read the water. You know who is going, and you have never once told them.
+- **Lung-line Cadet.** Your blood is deep and your fingers are webbed to the first knuckle. Your family wants you married to someone you have never met, and you have seen the sewn pages in the marriage-book.
+- **Layer of the Dead.** You walk the Face-Down Fields at dawn setting stones on backs, and you have started to find them turned over, and you have stopped reporting it.
+
+The common Callings take local shapes on the coast: a Brinehollow **Seamer** opens drowned chests at high tide; a **Nightwarden** walks for the Netwatch; a **Celebrant** sings rope funerals on the Chapel Reach; a **Gleaner** works the Uncovered; a **Midwife** gives the First Bail; a **Surety** stands guarantor for a loosed convict's family; a **Reckoner** may be an unlicensed Salt Assay clerk with a second ledger.
+
+### The Seating
+
+At Regrowth 12 the Tenant takes the whole house. The character is Called on the next night that comes, without a roll, and nothing can hold them. If they come back, it is with their face and their memories, as a piece of Dromm. The character is lost. The player narrates the last walk west, and may write down one courtesy the Tenant will extend to the companions forever, which the GM must honor.
+
+### Names
+
+| Male | Female | Neutral | Surnames |
+| Corvin, Orrin, Finn, Hask, Davey | Kessa, Maren, Nerys, Sable, Ilse | Tolly, Cray, Ebb, Gannet, Wren | Sund, Drowle, Oake, Reef, Undertow |
+| Jonah, Esk, Cobb, Bren, Lysander | Sennet, Brenna, Dagna, Ondine, Haddie | Marl, Sculpin, Tern, Fathom, Shoal | Kelp, Hull, Lobbett, Hawse, Penhallow |
+| Tam, Gaff, Ondric, Hollis, Merrow | Wenna, Isolde, Ottiline, Coralie, Brine | Skerry, Weir, Lugg, Swell, Dulse | Gull, Brack, Wake, Tarn, Colm |
+| Abner, Pell, Wat, Ezra, Abiah | Lissa, Marta, Prue, Lowdy, Annick | Fen, Dennet, Esmé, Absalom, Kettle | Corran, Stave, Teague, Steep, Lowry |
+
+[pagebreak]
+
+## Horrors of Brinehollow
+
+[box: Using the Horrors Table]
+Roll when the party is on the Mile at night, on the Uncovered, or in any Brinehollow house after dark, or pick the scene that cuts deepest. Dread ratings are given in brackets.
+[/box]
+
+| d20 | Horror |
+| 1 | A child sits on a doorstep holding a cut rope, waiting for someone to come out and tie it again. The house is empty. [Dread 2] |
+| 2 | The cellar's indoor tide brings up a wedding ring, a tooth, and a pair of reading spectacles, all belonging to the same Called woman, laid neatly on the step. [Dread 2] |
+| 3 | On the Uncovered, a ribbed thing the size of an ox drags itself toward the far water on fins of rotting leather, trailing its own guts across the salt. It is sobbing like a man. [Dread 2] |
+| 4 | A lantern procession of the Deepening passes, two hundred strong, singing. One of the faces is a PC's sister, or friend, or mother. She smiles and does not stop. [Dread 3] |
+| 5 | A surgeon's apprentice opens a chest on the table and seawater bursts out, live, full of tiny pale crabs that pour off the table and under the door. [Dread 2] |
+| 6 | A Tenanted husband greets the party at the door with perfect manners and calls each PC by name, though they have never met. [Dread 3] |
+| 7 | A pressure day: windows bow, ears bleed, a gull drops dead at someone's feet, and from every cellar on the street comes the sound of something very large turning over. [Dread 2] |
+| 8 | An upright wreck in the Wreck Orchard has its whole drowned crew still at their stations, preserved in salt, faces turned west, mouths open mid-song. One mouth closes. [Dread 3] |
+| 9 | At the morning count, a voice answers through the wall for a neighbor who was Called last month, coughing exactly as he did. [Dread 3] |
+| 10 | At the Trench's edge, the draining sound stops. In the silence, very far down, eight voices are counting, and one is coming closer. [Dread 4] |
+| 11 | An old man in the next bed has not been bailed. His daughter lies awake beside him, eyes open, listening to the gargle rise, and does not move. She looks at the PCs and puts a finger to her lips. [Dread 3] |
+| 12 | A land-drowned body laid face-down on the flats is still frothing at the mouth after two days, a rose-pink foam that has built up beneath the face into a soft heap the size of a pillow. [Dread 1] |
+| 13 | In the Lashings, a whole row walks on a Calling night, still lashed to its common chain, dragging beds, cradles and a struggling dry lodger along the planks behind them. [Dread 3] |
+| 14 | A Tenanted mother sings her child to sleep. The upper voice stops for breath. The lower voice does not. [Dread 2] |
+| 15 | A Fathomhouse grating breathes out a cold green gust, and on the cold, faint as a draught, the sound of the Dusk Hymn being sung very slowly, and under it a long low creak, and then a crack. [Dread 3] |
+| 16 | A woman on Mile Ten sits by her sleeping husband with a lantern and a mirror, holding the glass to his lips, and asks the PCs, very calmly, whether the mist looks like salt to them. [Dread 2] |
+| 17 | The Leather Forest drips. In the jellied drifts of rotting fish at the roots, a shape the size of a man lies curled, translucent, with a wrist-knot of linen still tied at the arm. [Dread 2] |
+| 18 | A PC's own dawn bucket is blue. Nobody else sees it. Tolly Brack, at the door, sees it, and goes quiet, and will not take the crumb. [Dread 3] |
+| 19 | On the Anchorites' cliff, a dead monk long since picked clean still hangs in his collar, and at dusk, with the rest of the cliff, he coughs. [Dread 3] |
+| 20 | On the shell road at Gullcry, every lantern-hook for nine miles is lit, and there is no procession, and at the far end, at the last lantern, a table is laid. [Dread 4] |

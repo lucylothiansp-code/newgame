@@ -796,3 +796,158 @@ Round one: Tolly 15, clerk 9. Tolly wins by 6, one Helping: the Lead falls by 2,
 Round two: the clerk lost, so the Carver rolls a complication: 6, something in the way. A procession of the Deepening is walking down the pier toward the end of the Mile with lanterns, two hundred strong, singing, and the clerk is running straight into it. Dread 2. Tolly holds. The clerk does not stop at the procession. He joins it. He takes a lantern from the nearest hand and walks with them, and he is weeping, and he looks back at Tolly once over his shoulder with an expression of enormous relief.
 Tolly can follow him into the procession, and the Carver tells her plainly that this is now a different scene: the procession has the Pull. Sunniva has the ledger. She lets him go, and the Carver lets that cost her 2 Fray, and the table is quiet for a while.
 [/box]
+
+## Health, Hunger, and the Body
+
+### Ordinary Hunger and Starvation
+
+Every person needs about one day's bread a day: one lack's worth. Each day a character goes without food, they gain one level of **Starving**: −1 to all rolls per level, cumulative. At Starving 3, they cannot recover Flesh. At Starving 5, they lose 1 Flesh per day. A day of decent food removes one level. In the Fatlands, ordinary food never satisfies (see that chapter); in the Fast, nothing grows, and the Starving rules are the weather. Inside the Fast, use the **Pangs** track from that chapter in place of Starving levels; a character who leaves the Fast converts Pangs to Starving levels at half, rounding up.
+
+Half rations (a Fast "Pantry measure," a sailor's biscuit and water) neither add nor remove a level. A character may go a number of days equal to **Gut** on half rations before they begin to gain a level every second day.
+
+| Starving | What the body does |
+| 1 | The stomach talks. Thoughts go to food every few minutes. Short temper. |
+| 2 | Cold hands and feet, though the day is warm. Dizziness on standing. Dreams of meals. |
+| 3 | The body begins to eat itself. Wounds will not close. The breath smells sweet and wrong. |
+| 4 | Hair comes away in the comb. Gums bleed. The mind goes sharp and strange; you recite recipes you were never taught. |
+| 5 | The ankles swell. Sores open where you lie. The heart thuds slow and heavy. You lose 1 Flesh a day. |
+| 6+ | You stop feeling hungry. That is the worst sign. Each dawn, Gut + Endure (Grim 18) or suffer Ruin. |
+
+**Refeeding.** A character at Starving 4 or more who eats a full meal must roll **Gut + Endure** (Hard 14) or lose 1d6 Flesh to cramps, sweats and the heart's stutter. The Unfed know this as refeeding sickness, and so does every Crumb-Runner who has watched a rescued child die of the first good supper.
+
+**What will be eaten.** Starving people eat leather, glue, bark, tallow candles, the wallpaper paste, the dog. At Starving 4, a character who has a person's body within reach and nothing else must roll **Caul + Resolve** (Hard 14) to leave it uneaten; a Fatlander with *The Long Pig* rolls at Grim (18). Eating a person knowingly is Dread 3, as the Dread table says, and if it crosses What You Will Not Do, the Guest takes 5 Fray as well. On the Table this is not a rare horror. It is how half the lands remember the Lack.
+
+[box: The Arithmetic of the Lifeboat]
+The Uncovered is full of salvage crews who were stranded between tides, and the Admiralty records are full of what they did. If a company of Guests is starving together and there is not enough, the Carver should make them decide who eats, out loud, each day. Track rations openly. Every day that someone takes less so that another takes more, give the giver a Portion at the session's end. The Table remembers who fed whom. So do the players.
+[/box]
+
+### Cold, Exhaustion and Sleeplessness
+
+Each night without shelter in Lack, or without sleep, imposes **−1 to all rolls** (cumulative, up to −4) until the character rests. The Vigil has its own rules for sleeplessness, which are worse.
+
+### Poison
+
+A poison has a **Potency** (the Difficulty to resist), an **Onset**, an **Effect**, and a **Course** (how many times the victim must resist before it is done). When poisoned, the victim rolls **Gut + Endure** against Potency at Onset and again at each step of the Course; each failure applies the Effect. A Seamer may give +2 by care (Hand + Stitching, Routine 10, the right purge or poultice). An *Iron Stomach* gives +2; a Fatlander's *Iron Belly* lets them eat mild poisons as food. Detecting a poison by taste or smell is **Eye + Feast**, at the poison's Potency. The Table's poisons are as particular as its gods:
+
+| Poison | Potency | Onset / Course | Effect per failure |
+| Widow's Supper (Fatlands, in gravy) | Hard 14 | an hour / 3 | 2 damage; the victim keeps eating |
+| Grey Kiss (Sallowreach, from a Closer's glove) | Grim 18 | at once / 1 | the limb touched goes cold and dead for a day |
+| Drowned Milk (Brinehollow, bottled bail-water gone bad) | Hard 14 | a night / 3 | lungs fill: −2 Lung, then drowning |
+| Long Sleep (Vigil, poppy and linen-water) | Grim 18 | minutes / 2 | +3 Weariness; in the Vigil, often murder |
+| Second Water (Cradlewrack, red spring-water) | Hard 14 | a day / 4 | false labor, −2 to all, then 1d6 damage |
+| Hushwort (Oathen, chewed) | Routine 10 | minutes / 1 | the tongue goes numb; no speech, no oaths |
+| Hearthsmoke (anywhere, rumoured from the Fast) | Dire 22 | an evening / 1 | the victim smells bread and walks toward it |
+
+[pull] Mind the gravy. It is always the gravy. | — Jem Crackle's only published advice
+
+### Disease
+
+Disease moves slower than poison and further. A disease has a **Virulence** (the Difficulty to resist catching it, and to throw it off), an **Interval** (how often the sick roll), and **Stages**. On exposure, roll **Gut + Endure** against Virulence; failure means infection. Then, once per Interval, the sick roll again: two successes in a row throw it off; each failure advances a Stage; the last Stage is death, outside Sallowreach. A Seamer's care each Interval gives +2.
+
+| Disease | Virulence | Interval | Stages |
+| The Sweats (Rim Road inns) | Hard 14 | day | fever (−1) / delirium (−2, Seeing) / Ruin |
+| Weep-Fever (Sallowreach) | Hard 14 | week | rash / weeping sores / never ends, never kills |
+| Gut-Worm (Fatlands, field-meat) | Routine 10 | week | hunger / wasting despite eating / the worm is longer than the gut |
+| Brine-Lung (Brinehollow, foreigners) | Hard 14 | day | cough / bailing like a native / the Calling, at a stranger's tide |
+| Rouse-Heart (Vigil, years of dose) | Grim 18 | season | flutter / stutter / Ruin at the next second dose |
+| Childbed Fever (Cradlewrack, any bearer) | Grim 18 | day | heat / sepsis of the wound / Ruin; the wound will not close |
+| Mouthrot (Oathen, under the bit) | Routine 10 | week | sores / teeth lost / jaw (as the Mangling) |
+| The Bloody Flux (anywhere starving) | Hard 14 | day | cramps (−1) / blood (−2, lose 1 Flesh) / Ruin |
+
+When a disease spreads through a community, add +1 Pall for each week of it.
+
+### Rot and Festering
+
+Wounds left unstitched for a day may fester: roll Gut + Endure (Hard 14) or lose 1 Flesh per day and suffer −2 to all rolls until treated. In Sallowreach, festering never kills, and never stops.
+
+A festering wound smells first: sweetish, then like cheese, then like the Sump. It goes red, then hot, then purple-black at the edges, and the red climbs the limb in streaks toward the heart. A festering wound treated within three days can be cleaned (Hand + Stitching, Hard 14; on a Lack, the Seamer opens something they should not have). After three days, the limb must come off: a Grim (18) Hand + Stitching roll, a Dread 2 check for everyone in the room, and the patient suffers Ruin as though they had taken a *Severed Limb* Mangling, but lives. A Seamer who takes the limb off cleanly may offer it to a buyer. Many do. In Lastgate, Nan Pickering pays by the pound.
+
+### Healing
+
+- **First aid** (Hand + Stitching, Routine 10, a few minutes, once per wound) restores 2 Flesh, +1 per Helping.
+- **Rest**: a full day of rest restores Gut in Flesh; a full day under a Seamer's care restores double.
+- **Injuries** from the Mangling table heal according to their own entries, and some never heal.
+
+## Torture
+
+Torture is in this book because it is on the Table: in the Jar Room's interrogations, in the Cullmasters' back offices, in Jack Tenterhook's former career, in the cells of every Purgation raid that took a high-Cut prisoner and wanted the names. These rules describe what it costs and what it gets. They never describe how. The Carver should keep it off-page, or to a single sentence of aftermath, unless the whole table has agreed otherwise.
+
+### What It Gets
+
+Each session of torture (an hour, a night) the torturer rolls **Tongue + Intimidate** opposed by the victim's **Caul + Resolve**. The victim suffers 1d6 damage, ignoring Armor, whatever the result, and on a Lack by either side suffers an Injury from the Mangling table. If the torturer wins, the victim answers one question per Helping, plus one.
+
+The answers are not necessarily true. The victim says what will make it stop. The Carver decides, privately, whether each answer is the truth, a lie, or the victim's honest belief about what the torturer wants to hear. A torturer may roll **Caul + Instinct** against the victim's Caul + Resolve to tell which, and even then, a person who has been broken may not know themselves. This is why the Bench of Clauses, which has a god for a lie-detector, does not torture, and why every other land does it anyway.
+
+A Blank, a Kept, and a Sayer each suffer differently. The Kept feel everything and cannot be killed by it, which makes them the Table's favourite victims and its least reliable witnesses. A Sayer's answer becomes true. Do not torture a Sayer.
+
+### What It Costs
+
+The torturer makes a **Dread 2** check each session they continue. And every session, whatever the roll, the torturer marks one **Stain**. Stain never goes away.
+
+| Stain | What it does to the torturer |
+| 1 | Dreams. The victim's voice in the dark, saying ordinary things. |
+| 2 | The Dread checks for torture stop being needed. This is not relief. Those who know you sense something: −2 to Persuade with friends. |
+| 3 | Who Waits at Home knows, without being told. They can no longer remove your Fray. |
+| 4 | You gain **The Cold Plate** (Table Two, number 7) if you did not have it. |
+| 5 | You are good at it. The Carver may make you an NPC: a person others hire. |
+
+*Example: Halloway Brisk has the Cullmaster Varn Sweetbread's assistant tied to a chair in a slaughterhouse in Sated, and the dusk shift goes out in two hours, and there is a child on the list. Dev says she is going to make him talk. The Carver says, out of character, "Okay. One sentence of it, then we cut. What does Halloway do with her hands?" Dev thinks, and says: "She takes off her apron, folds it, puts it on the block. She rolls up her sleeves. That's all you see." Tongue 2 + Intimidate 2 + 2d10 (14) = 18, against the assistant's Threat 2 + 2d10 (9) = 11. One Helping: two answers. The assistant takes 4 damage, which happens off-page. He tells her which field, and he tells her the child's name, which she already knew. Both true. Halloway makes her Dread 2 check (14 on the nose: 1 Fray) and marks Stain 1. That night she dreams of the assistant telling her, very calmly, about his mother's garden. She will dream it for the rest of her life.*
+
+[pull] The difference between my old work and my new work is the tipping. | — Jack Tenterhook, wake-valet. He is lying. It shows on him.
+
+## Downtime and Ruin
+
+Between stories, time passes: a week, a season, the long dead months of Lack. Downtime is where wounds close, debts come due, and lives quietly come apart.
+
+### Downtime Actions
+
+Each **downtime period** (usually a week to a month) each Guest chooses one action, two if the period is a season or more:
+
+- **Mend.** Rest under care. Heal all Flesh, and advance every healing Injury one step. Remove 1 Fray.
+- **Work.** Ply your Calling. Earn (Standing × 5) lacks for a week, or (Standing × 20) for a season, on a Routine (10) roll of the Calling's best pair; each Helping adds 10%.
+- **Tend.** Go home to Who Waits at Home. Remove all Fray once per story, as the Fray rules say, if they are still themselves; the Carver tells you how they are.
+- **Treat.** Undergo treatment for a Derangement: one period of the months of care the rules require. Three periods and 10 Portions treat one Derangement.
+- **Restitch.** For the Kept, or for those keeping them: Seamer upkeep, as the Sallowreach chapter gives.
+- **Pursue.** Advance a long task: research, a ledger, a forty-page vow. One roll per week.
+- **Petition.** Seek Standing: a deed the Calling recognises, and the Portions to pay for it.
+- **Carouse.** A vice, as the Fray rules give: 1d6 Fray gone, a Gut + Endure roll against a habit, and lacks spent at the comfortable or lavish rate.
+- **Keep Faith.** Tend an Oath on the Dead: visit the grave, the niche, the shelf, the place they were taken. +2 to the next roll made in the oath's name.
+
+### The Cost of Living
+
+Every downtime period costs the cost of living for its length, at the Guest's chosen rate: destitute 1, modest 3, comfortable 8, lavish 25+ lacks a day. A Guest who cannot pay drops a rate. A Guest who cannot pay the destitute rate begins to slide into **Ruin**.
+
+### Ruin of a Life
+
+**Ruin** in combat is the collapse of a body. Ruin in downtime is the collapse of a life, and it is measured the same way, in steps that do not come back easily:
+
+| Ruin | What has happened |
+| 1 | Debt. You owe someone (the Company, a Surety, a fence) and they know where you sleep. |
+| 2 | Disgrace. Your Calling's people have heard. −1 Standing. |
+| 3 | Destitution. You sleep in doorways or the Lofts' porch; Starving rules apply on any bad week. |
+| 4 | Outlawry. A warrant, a bounty, a Forsworn mark, a Board debt sold to the Cullmasters. |
+| 5 | The list. Your name is on someone's list: the dusk shift, the Dormitory overflow, the Blank trade, a Reckoner's knife, the Second Table's menu. |
+
+A Guest gains a step of Ruin for a downtime period they cannot pay for, for a public crime, for a broken contract or oath, or for the deeds of their enemies. They lose a step by paying down debts (Ruin × 50 lacks), by a great service to a power that can lift them, or by fleeing to another land and starting again at Ruin 1, which is what the Rim Road is for.
+
+### While You Were Away
+
+At the end of each downtime period, the Carver rolls a d20 for one Guest's Who Waits at Home.
+
+| d20 | While you were away |
+| 1–6 | They are well. They wrote. The letter is short and kind and asks when you are coming home. |
+| 7–8 | They are ill. Not badly, yet. They did not want to worry you. |
+| 9 | They have a new friend, very attentive, who belongs to one of the Table's congregations. |
+| 10 | They are in debt, because of you: someone came asking, and they paid. |
+| 11 | They have been questioned by a Cutwright, a Waker, a Netwatch officer, a Bench clerk. |
+| 12 | Their Regrowth has risen. They describe the first tell in a letter, lightly, as a joke. |
+| 13 | A table was laid in their kitchen one morning. It had your name on a card. They burned it. |
+| 14 | Their village's Pall has risen: roll it as Uneasy. |
+| 15 | They have taken in a stranger who is very like you. |
+| 16 | They have stopped writing. |
+| 17 | They have been taken: Reaped, Called, Counted, Set Aside, bricked, bound, poached. Not dead. Findable. |
+| 18 | They have done something terrible for your sake, and they are waiting to tell you. |
+| 19 | They have started to change toward the god. They are happy. |
+| 20 | They are well, and they have news, and it is good, and it is real. Let it be real. |
+
+[pull] Nobody on the Table goes home. They go back, which is different, and they find out how different when they knock. | — Cradlewrack saying, from a country where you must

@@ -706,3 +706,291 @@ Underneath all of it is the arithmetic the Board will not publish. The Reaping d
 - "The Coldharbour Thin went into the snow because the Purgation stopped paying." *(False; the Thin will not say why.)*
 - "If you give a hill what it asks for, it'll keep the field off you." *(False. Ask Hask's End.)*
 [/box]
+
+## The People of the Fatlands
+
+**Chairman Obb Tullow, the Heaviest Vote.** Head of the Board at nineteen hundred pounds, he is moved by dray and eight oxen through streets cleared by Bailiffs. Up close he is a landscape: rolls of cool, brown, loam-soft flesh draped over the dray's iron bed like a slumped haystack, crusted with the green shoots his Washers never quite get off, and at the summit a small, pink, clever face that looks out of the folds like a man peering from a cellar. His voice is reedy and precise. He is still the shrewdest mind on the Board. His feet rooted through the cart's iron floor last spring, through a seam the smiths had missed, and the Board has agreed not to notice; the dray has not moved since, and the Board now meets around it. He wants to die Chairman. He fears the moment his mouth closes and the hill keeps voting. His secret is that the roots go all the way down to the Weighhouse cellars, and he can feel the Reaping through them, every one, as a warm full mouthful. Close to, he smells of a cellar full of apples, of warm hay and of the inside of a cow, and the air around the dray is close and humid as a glasshouse. His Washer, Nell Haslet, feeds him by hand from a silver spoon, and when the Reaping figures are read he closes his small eyes and his lips move with the numbers, and the floor of the Weighhouse rises and falls.
+
+[stat: Obb Tullow — Chairman of the Board of Plenty]
+Attributes: Hand 1 · Gut 6 · Lung 1 · Eye 3 · Tongue 4 · Caul 3
+Cut & Regrowth: Cut 5 (Gut-line) · Regrowth 10 (the Brink) · Hunger 8
+Skills: Feast 5, Endure 4, Clause 3, Persuade 3, Intimidate 3, Reckoning 3
+Flesh 18 · Guard 12 · Armor 1 (loam-flesh) · Fray 5
+Attacks: rolling crush +2 (4); cannot pursue
+Gifts: Field-Body (feels every footstep in the Weighhouse and on the Weighing Road); the Board's grain bends toward him when he speaks; regains 1d6 Flesh per meal
+Wants: to eat whatever is placed within reach; never to be moved; to be told the Reaping figures, aloud, slowly
+Dread: 3 (to watch him eat, or to see what grows under the dray)
+Secret: Tullow has arranged for the Cullmasters to list the families of every Deacon who votes against him.
+[/stat]
+
+[pull] Read them again, slowly. Low Tilth first. Ah. Ah, yes. That one was a big lad. | — Chairman Obb Tullow, in committee, 640
+
+**Dame Suet Marrable.** Gut-lines matriarch, mistress of Marrable Hall, and hostess of the Unending Dinner, in continuous service for eighty-one years. She sits at the head of the three-hundred-foot table on a reinforced throne that is slowly sinking into the floorboards, swathed in gold silk, her face powdered white and her many chins hung with pearls like dew on a hedge. She smells of rosewater over roast pork. Her voice is warm and husky and she calls everyone *duck*. Guests have been born at her table and several have been served at it, when they died there; the custom is that no one leaves, and some have not. She wants the Dinner to outlast her and fears that it will not, because her feet have begun to grow down through the floor. She is the Second Table's southern chair, and the cellar beneath her dining hall holds a smaller table where the guests are older and the meat is something rarer. Her guests' plates are nicked at the rim, so that with the first cut of meat their own blood is on her knife, and she licks it, smiling, and calls them by their grandmothers' names. The Dinner has its own smell, which visitors carry home in their clothes for a week: eighty-one years of gravy soaked into the floorboards, rose-water, beeswax, and under it, faintly, the sweet heavy reek of the cellar.
+
+[stat: Dame Suet Marrable — Hostess of the Unending Dinner]
+Attributes: Hand 2 · Gut 5 · Lung 1 · Eye 4 · Tongue 5 · Caul 3
+Cut & Regrowth: Cut 4 (Gut-line) · Regrowth 8 (the Course) · Hunger 7
+Skills: Persuade 4, Feast 5, Clause 3, Endure 3, Search 2, Blades 1
+Flesh 16 · Guard 12 · Armor 1 · Fray 3
+Attacks: carving knife +3 (2)
+Gifts: Taste the Name (one bite of a guest's blood tells her their family, Cut and one secret); her hall's food compels (Caul + Resolve, Hard 14, to rise from her table)
+Wants: that no guest leave hungry; that no guest leave
+Dread: 2 (to see a guest served)
+Secret: She has Tobias Wether's name on a place card, and a seat waiting for him in the cellar.
+[/stat]
+
+**Pell Hogget, the Counter.** A farmer from Kettle Furrow in Low Tilth: short, broad, sunburnt, with a wheat-coloured beard and a stub of chalk always behind one ear. He speaks slowly and carefully and gives numbers instead of opinions. He noticed his village was one smaller each autumn and wrote it down, and now two hundred villages send him their tallies and his barn wall is a ledger of the dead. He eats less than he should and the Bailiff has begun to look at him. He wishes he had never learned to count. He fears that the numbers have a shape: his projection crosses his own village's population in nineteen years, and the whole country's soon after. His secret is that his wife was culled four years ago, and he has never put her mark on the wall. He keeps a tally-stick of his own in his boot with no notch on it, and touches it before every meal, and his neighbours have learned not to ask whose it is.
+
+[pull] Don't ask me if it's the god. Ask me how many. I know how many. | — Pell Hogget, to a Cutwright surveyor
+
+**Corder Lank, the Thin Man.** Leader of the Thin. He has eaten nothing but water and ash for six years and can be counted bone by bone: a long, brown, tendon-strung figure in a rope belt, his skin tight as a drumhead over ribs and hips and knuckles, his eyes huge and calm and very clear. He smells of woodsmoke and nothing else. He speaks quietly and always first asks whether you are hungry. He is the only man in the south who does not feel the hunger, and he will not say how. The truth is that the hunger did not leave him: it went out of him, piece by piece, into those who fast beside him. Every Thin cell carries a share of Corder Lank's gnawing on top of its own. He worked this out three years ago. He has not told them. He cannot stop leading, because it is the only thing that keeps him clear. Since the Coldharbour Lack he wears seven belly-cords knotted together under his own, and when the Thin ask him why he is heavier in the cord than he was, he says it is penance, which is true.
+
+[stat: Corder Lank — the Thin Man]
+Attributes: Hand 2 · Gut 1 · Lung 3 · Eye 3 · Tongue 4 · Caul 5
+Cut & Regrowth: Cut 2 · Regrowth 3 (the Taste, dormant) · Hunger 0
+Skills: Resolve 5, Endure 4, Persuade 3, Stealth 3, Athletics 2, Rites 2, Blades 1
+Flesh 13 · Guard 15 · Armor 0 · Fray 6
+Attacks: knife +3 (2)
+Gifts: Passing the Plate: anyone who fasts a day in his company loses 1 Hunger and he loses none; they gain it back, doubled, the day they leave him
+Wants: to be needed; never to be fed
+Dread: 1
+Secret: His hunger lives in his followers. If he dies, it goes back to the god all at once, and the Thin will feel it go.
+[/stat]
+
+**Mistress Brisket Annalow.** Boss of the Renderers' Union: a vast, red-armed woman in a leather apron stiff with salt, her grey hair cropped short, a cleaver on a chain at her hip and a pencil behind her ear. She talks like a drover and laughs like a kettle. She can stop every barrel on the Rim Road with one word, and she knows precisely which of them should never have been filled, because she has kept a second ledger for twenty-two years. She wants the Union paid and her people safe. She fears the day the Table stops buying. She would sell the Board out in an afternoon to keep the Chute open. She knows the grounds at the bottom of the coppers are what the Vigil buyer ate. She knows where Sal Trotter's calves come from. Her hands are cracked from the brine to the elbow and she rubs them with tallow at night, and does not ask herself whose.
+
+[quick] Brisket Annalow — Threat 5 · Flesh 15 · Guard 12 · Attack +6 (cleaver 3) · Armor 1 · Dread 0
+
+**Hob Gristle, the Honest Butcher.** A big, mild, sorrowful man with forearms like hams and a bald head beaded with sweat. He can tell by taste what a cut used to be, down to the name: a mouthful of sausage tells him the pig, the field it ate from, and the name of anyone Reaped into that field. It has ruined him for the trade. He still works, because jointing at wakes is the only honest money left, and he apologizes to every joint, quietly, by name. He wants one barrel from the Chute that tastes of nothing but beef. He fears the day he tastes someone he loves. He has already tasted his brother, in a pie in Sated, and has told no one. He knows from the taste that his brother was not taken by any field: the meat in the pie tasted of a kitchen knife and of fear, and no field has ever made meat taste of fear.
+
+[pull] Sorry, old lad. Sorry. Sorry. | — Hob Gristle, at every joint, under his breath
+
+**Cullmaster Varn Sweetbread.** The Board's quiet hand: a neat, plump, pink man in grey broadcloth, with soft white fingers, rimless spectacles and a ledger chained to his belt. He smells faintly of lavender, which he uses to cover the field. His voice is gentle and his manners perfect. He decides which vagrants, debtors and troublemakers are assigned the dusk shift, and he thinks of it as agriculture, in the most literal sense: he weighs the next year's yields and has proved, to his own satisfaction, that a culled vagrant makes better bread than a Reaped farmer. He walks every line himself and bows at every stone. He is not cruel. That is the worst thing about him. It was his ink that struck out the Hask's End Wolf-Warden's last two lines, out of kindness, because he thought the man would be listed for them. He was right; the man was listed anyway.
+
+[stat: Varn Sweetbread — Cullmaster-General]
+Attributes: Hand 2 · Gut 3 · Lung 2 · Eye 4 · Tongue 3 · Caul 3
+Cut & Regrowth: Cut 3 · Regrowth 5 (the Appetite) · Hunger 4
+Skills: Reckoning 4, Clause 3, Intimidate 3, Resolve 3, Rites 2, Endure 2, Blades 1
+Flesh 13 · Guard 13 · Armor 0 · Fray 2
+Attacks: ribboned sickle +3 (3)
+Gifts: Field-Reading: he knows, on any Carving evening, which plot will Reap first
+Wants: to see the line through to the end; to taste the bread of each plot he culled
+Dread: 2 (to watch his dusk-shift)
+Secret: His own name is on next year's list, in the Chairman's hand.
+[/stat]
+
+**Tansy Lard, the Gleaner.** A girl of ten who gleans behind the harvesters in Low Tilth: skinny for a Fatlander, with tangled straw hair and a smock too short in the arms, and dirt permanently under her nails. She dug up a root with her mother's birthmark on it, a brown splash shaped like a running hare, and has replanted it behind the house and waters it every day. It has grown. It has leaves like hands. Last week, at dusk, it said her name. Her father has noticed she has stopped eating at table and goes out after dark with the bowl. She wants her mother back. She is the reason the PCs may first learn what a Fatland root can become. The root is warm when she touches it and turns its hand-leaves toward her when she comes out of the back door, the way a sunflower turns, and the soil around it has begun, very slightly, to breathe.
+
+**Brother Glut.** Prophet of the Second Helping: enormous, radiant, and happy, a mountain of pink flesh in a garland of wheat, his face shining with sweat and tears of joy, his voice a deep golden bell that fills a meadow without trying. He preaches that being eaten is the highest form of being loved, and he has volunteered parts of himself to prove it: his left hand, both ears, three toes, a long strip from the flank. The wounds are bound with clean linen and he shows them off like medals. He embraces every stranger. He believes every word. What he does not see is the widows at the back of each meeting, holding their plates. He smells of hot dripping and lavender and a faint sweet sourness from under the linen where the wounds are. When he embraces a stranger the stranger is held a long time, against the soft enormous warmth of him, and many weep without knowing why.
+
+[stat: Brother Glut — Prophet of the Second Helping]
+Attributes: Hand 2 · Gut 5 · Lung 1 · Eye 2 · Tongue 5 · Caul 4
+Cut & Regrowth: Cut 3 · Regrowth 8 (the Course) · Hunger 5
+Skills: Persuade 5, Rites 4, Feast 4, Endure 4, Godsign 3
+Flesh 17 · Guard 11 · Armor 1 · Fray 0
+Attacks: crushing embrace +2 (1, held)
+Gifts: The Shared Plate: anyone who eats his flesh loses 1d6 Hunger and must pass Caul + Resolve (Hard 14) or come back for more
+Wants: to give; to see others give
+Dread: 2 (to see him carve himself, smiling)
+Secret: He has not felt the hunger since his hand was eaten. He thinks this is grace. It is the god, moving out.
+[/stat]
+
+[pull] I gave them my hand, and do you know, I have never felt so held. | — Brother Glut, at Gladbelly
+
+**Old Mother Rind.** A Laden woman who rooted forty years ago and is now a small orchard hill outside the village of Kettle Furrow, with nine pear trees growing from her back and a working mouth half-hidden in the clover at her foot. Her lips are brown and cracked like bark and her teeth are wheat-teeth, many rows. Her voice is a dry old woman's, amused and sharp. Her village asks her advice on marriages; she is always right, and always hungry, and her fee is meat. Lately she has asked for particular people. The names she asks for are always ones the far field wants this Carving. She says that if they are fed to her, they will be hers and not the Scarecrow's, and that she is quick and the field is slow, and that this is mercy. Hask's End said the same of Mother Furlong.
+
+**Dr. Emmerich Paunch.** The Board's physician: a stooped, heavy, myopic man with ink-stained cuffs and a voice like a dry quill. He opened a Gut-lines stomach, under licence, to measure its capacity, and lowered a plumb line into it. He ran out of line at two hundred feet. He has since obtained longer line. He has not been able to bring himself to use it, because when he drew the first one up, the lead weight had been chewed. He wants to publish. He fears the Board, and what he heard echoing up the line. He will pay adventurers very well to hold the rope.
+
+[pull] The stomach of a Gut-line lady is not an organ. It is a door. I should like very much to know what it opens on, and I should like very much not to. | — Dr. Emmerich Paunch, private notebook
+
+**Sal Trotter, the Drover.** A lean, weathered woman in a dung-crusted oilskin, with a crook, a whip she never uses, and a pipe she never lights. She walks herds to market at the Chute that the buyers call cattle. They walk on two legs when no one is watching the road. She has stopped naming them, because they started answering. She speaks little, mostly to the herd, in a low, even croon. She wants to finish one drive without looking back. She fears the day one of them asks her where they are going. It will be soon; the lead steer has begun to hum her songs. The lead steer's flank bears a scar where a brand would be, and she has never looked at it closely.
+
+[quick] Sal Trotter's Herd (each) — Threat 2 · Flesh 16 · Guard 10 · Attack +4 (trample 3) · Armor 1 · Dread 2 (to see them stand)
+
+**Wren Hollowell, the Fasting Girl.** A Blank of fifteen from Bramble Furrow who has never once felt hungry. She is small and narrow and pale, with a long plain face and grey eyes that rest on things without wanting them, and in a land of the vast she looks like a drawing of a girl rather than a girl. She eats when reminded, without interest. The Thin kneel to her, which she hates. The Board has offered her weight in bone coin to whoever brings her in, and has not specified alive; the Second Table has a surgeon waiting. She wants to see the sea, and to be left alone. She is beginning to notice that fields go quiet when she walks through them, as though they cannot smell her at all. She does not yet know that her mother's name was read on the Bramble Furrow list in Carving 640, or which strip it was given.
+
+[quick] Wren Hollowell — Threat 2 · Flesh 10 · Guard 14 · Attack +2 (knife 2) · Armor 0 · Dread 0 · cannot be Reaped; no Cut, no Hunger
+
+**Garrick Tripe, the Weigher.** Keeper of the official scales at the annual Weighing: a jovial, oily man in a brass-buttoned coat, with a waxed moustache and a dozen rings. For the right fee your pockets fill with lead, and for a better one your rival's empty. He has personally elected three governments. He wants to retire rich. He fears that the Chairman knows exactly how much of his vote is lead; Tullow does, and is waiting for the right moment.
+
+**Lady Aspic Dellamore.** A noble chef whose speciality is preservation: tall for a Gut-line, sleek and plump, in a white silk apron, with lacquered nails and a cold, musical laugh. Her rivals are displayed in her gallery, set in clear golden jelly, garnished with herbs and quail's eggs, and blinking. The jelly keeps them; the Gut-line blood keeps them hungry. They watch visitors eat at her table. She wants to be the greatest cook on the Table. She fears blandness. She is working on a new piece for the gallery, and has been measuring Dame Marrable. The Gallery smells of cold gelatine and tarragon, and of something under it like a larder in which a mouse has died; the jelly sweats a little in Plenty, and her servants wipe it down each morning with linen cloths while the faces inside follow the cloths with their eyes.
+
+**Jem Crackle, the Cook's Knife.** A former spit-boy and now the most reliable assassin in Sated: wiry, quick, red-knuckled, with burn scars to the elbow and the cheerful, sweaty face of a kitchen lad. He smells of onions and hot iron. He kills only in kitchens, and what he kills is on the table by evening, jointed, dressed and served so beautifully that the families often do not complain. He is proud of his work and owes nothing to anyone. He fears only being bored. He takes contracts from the Board, the Union and the Second Table impartially.
+
+[stat: Jem Crackle — the Cook's Knife]
+Attributes: Hand 5 · Gut 2 · Lung 4 · Eye 3 · Tongue 2 · Caul 2
+Cut & Regrowth: Cut 2 · Regrowth 3 (the Taste) · Hunger 3
+Skills: Blades 5, Stealth 4, Athletics 3, Feast 3, Craft 3, Filch 2, Endure 2
+Flesh 12 · Guard 19 · Armor 0 · Fray 1
+Attacks: boning knife +10 (2); cleaver +10 (3)
+Gifts: In any kitchen he gains a free Helping on his first attack; he can joint a body in the time it takes to boil a kettle
+Wants: to cook what he kills
+Dread: 2 (to find a missing friend on his table)
+Secret: He has a list of every person he has served, and who ate them. He sells it.
+[/stat]
+
+**Bailiff Dunmow Fatt.** Enforcer of the Feasting Laws in Sated: a huge, slow, pink-cheeked man with a gentle lisp, a blue sash, and a funnel and ladle of office worn like a sword and sceptre. He is, by every account, gentle about it. He kneels to feed the stubborn, strokes their throats, sings to them. He has wept over every Thin prisoner he has ever taken. He wants everyone to be well. He does not understand why anyone would refuse. He fears, a little, the quiet in Corder Lank's eyes.
+
+[quick] Dunmow Fatt — Threat 3 · Flesh 16 · Guard 11 · Attack +4 (ladle 3, Grappling) · Armor 1 · Dread 1
+
+**Marigold Chine.** Keeper of the oldest grove in the Bleeding Orchards: a slender, freckled woman of fifty with a strong alto and a straw hat. She refused the deafening and sings to her trees through the pruning. They have begun to sing back, in tune, in her voice, a thousand trees at once, and the other keepers, who cannot hear it, feel it in their teeth. She wants to learn what the trees are trying to say. She fears she already knows: the last verse is the wake-song, and it is about her. Her mother's mother was a Strake.
+
+**Tobias Wether, the First to Eat.** A runaway from the Fast, twenty-four, raised on six centuries of refusal, who crossed the Rim Road and ate. He was thin as a rake when he came; he is filling out now, and his skin has taken on a warm brown loam-tint. He carries no god in his blood. The meat seems to be looking for one. He feels the hunger now, a borrowed hunger with no lineage, and it is worse than any Fatlander's, because it has nowhere to settle. He is ashamed, delighted, and terrified. The Second Table wants him; the Reckoners want him dead; Dame Marrable wants him at dinner. He has taken, without knowing why, to setting one more place at every table than there are diners, and he is upset if anybody sits in it.
+
+**The Scarecrow of Low Tilth.** Nobody put it up. It stands in the far field of Kettle Furrow with its back to the village: a tall, thin shape of sacking and straw on a pole, in a farmer's smock and a wide hat, its arms spread. The straw is toothed wheat. The sacking is warm. Each Carving it is a few furrows closer. Last year someone saw it turn around. Its face, they say, is a mouth, and the mouth is full of the names on Pell Hogget's wall.
+
+[stat: The Scarecrow — the Far Field]
+Attributes: Hand 3 · Gut 6 · Lung 2 · Eye 4 · Tongue 0 · Caul 7
+Cut & Regrowth: none; it is a piece of Ummer standing up
+Skills: Stealth 5, Instinct 5, Brawl 3, Endure 4
+Flesh 30 · Guard 15 · Armor 2 · Fray —
+Attacks: straw fingers +6 (3, and the target's feet begin to root: Gut + Endure, Hard 14, or held)
+Gifts: moves only when unobserved; any field it stands in Reaps at dusk; fire will not take on it
+Wants: to reach the village
+Dread: 4 (to see it face you)
+Secret: It is walking toward the Weighhouse, by way of every village that has stopped counting.
+[/stat]
+
+**Quartermaster Ivo Stockpot.** He feeds the army and stamps the export barrels at the Chute: a portly, fussy, honest man with a bald freckled head, a stamp on a cord and a tremor in his left hand. He has started marking a small notch on the ones he would not eat from himself. There are a great many notches. He wants someone outside the Fatlands to know. He fears that if they knew, they would keep buying.
+
+**Granny Cracknel, the Tooth-Miller.** She mills the toothed wheat at the old water-mill on the Little Gravy and keeps the teeth. Her mill is decorated with eleven hundred sets, sorted by village and strung on wires like rattling wind-chimes. She is tiny, ancient, floury, toothless herself, and chuckles constantly. She says some of the sets match people she knew. She is right; and she has started to find, in each new harvest's sieve, the teeth of people who are still alive. Hessop teeth she keeps on a wire of their own, because she says she cannot tell one generation from the next.
+
+### New Faces
+
+**Wakemother Pudding Hesk.** The most sought-after wake-cook in Sated: a round, brisk, broad-faced woman with forearms scarred by spatter and a laugh that rattles crockery. Families wait months for her. She bastes the dead with their own dripping and a little honey, roasts them slow over applewood, and sends them to the table glazed and crackling, and she weeps every time, openly, while she carves. She knows everyone's secrets, because the dead taste of them. She wants to cook the Chairman. She has been asked to. She fears she will be too greedy to share him.
+
+**Feeder Callow Pudge.** Head feeder at the Gavage: a soft-voiced, motherly woman in a starched white apron, with plump dimpled hands and a funnel she has polished for thirty years. She hums lullabies as she pours. She sincerely believes she saves lives. She keeps a book of the Thin she has fed, with their weights in and their weights out, and letters from their grateful families. She fears the ones who come back to the Thin, and she has begun, secretly, to leave one cell door unbarred each Lack.
+
+[quick] Callow Pudge and Gavage Feeders — Threat 3 · Flesh 12 · Guard 11 · Attack +4 (grapple, then funnel: Gut + Endure, Hard 14, or helpless) · Armor 0 · Dread 1
+
+**Mercy Sowerby, the Hill-Speaker.** A young widow employed by the Gut-lines to interpret the Dowager Hills: thin-lipped, careful, dressed in field-brown with soil always on her knees, because she must lie face-down on the turf to hear. She translates the Dowagers' slow speech and lays their offerings. She has noticed that two hills are moving together, that their mouths are talking, and that the language is older than Table-speech. She wants someone to tell. She fears the Dowagers have noticed her noticing; last week one of them used her name.
+
+**Lord Chastain Loin.** Heir to a Gut-line that Seated last generation: a young, enormous, beautiful man of eight hundred pounds, with oiled ringlets, perfect teeth, and a voice like warm cream. He is Dame Marrable's protégé in the Second Table, charged with acquiring Blanks for the cellar table. He eats elegantly and constantly, and his manners never slip. He wants to be at the table when Ummer stands up, with a knife in his hand. He fears that his own mother, the hill behind his house, will stand up first, and that she has never forgiven him for the wake.
+
+
+**Lord Lard Gammon, the Twin Who Weighed In.** Head of the Gammons of the Fold and a Member of the Board since 619: fifty-three now, near thirteen hundred pounds, moved on a dray and sitting always to the Chairman's left, with a soft, mild, slightly bewildered face like a large baby's, and pale lashes, and small damp hands that he folds over his belly as if keeping something in. He votes with the Chairman on every dusk-list, and adds no names of his own, and has never been known to raise his voice. He eats in his kitchen, among the servants, because the dining room is locked. At table he sometimes stops, with the spoon half-raised, and listens to something inside himself, and says, to nobody, "Yes, all right," and passes the salt along the board to an empty place. He wants to be forgiven and does not know by whom. He fears the salt-box: a small one, of his brother's meat, that the Washers took with them in 619, and that would let anyone in the Fatlands put him to the oath again. The Gammon Dowager, when he last consulted her, said only: *There are two of you in there, son. Which one of you is asking?*
+
+[stat: Lard Gammon — Member of the Board, Kin-Slayer]
+Attributes: Hand 2 · Gut 5 · Lung 1 · Eye 2 · Tongue 3 · Caul 2
+Cut & Regrowth: Cut 4 (Gut-line) · Regrowth 8 (the Course) · Hunger 7
+Skills: Feast 4, Endure 4, Deceive 3, Clause 2, Brawl 2, Intimidate 2
+Flesh 17 · Guard 11 · Armor 1 (loam-flesh) · Fray 8
+Attacks: smothering press +4 (3, Grappling; the target must pass Gut + Endure, Hard 14, each round or lose 1d6 Flesh)
+Gifts: Two Mouths: when he eats, his brother eats too, and he regains 1d6 Flesh per meal; once per scene he may answer a question with his brother's knowledge of the Gammon House (Instinct, no roll)
+Wants: to pass the salt to the empty place; never to sit in the dining room; to be weighed, and found heavier
+Derangements: the Second Tenant (he believes his brother lives in his body, and is often right)
+Dread: 3 (to hear the second voice answer from his belly)
+Secret: He did it, and swore falsely on his brother's meat, and the Gammon Dowager knows. Cress is not a delusion. Cress is in the field of him, as all the eaten are, and wants the seat back.
+[/stat]
+
+**Ambrosine Hessop, the Rise's Daughter.** The eldest living Hessop who still walks: a woman of about forty who looks twenty-five, very large and very lovely, with the family's wide grey eyes and small even teeth and a slow, warm, sleepy voice, as if she had just woken. She sells Hessop Sweet flour to the great houses of the Fold, and is received everywhere, and is a guest at the Unending Dinner, and nobody has ever seen her eat there. She walks barefoot, because she says shoes hurt, and where she has walked on bare earth the grass the next morning is a little longer. She speaks of the Rise as *Granny* and of her husband, who is also her cousin, with the same warmth and the same small secret smile, and she has never left Low Tilth for longer than a night. She wants the Hessops to go on. She fears the College's registry, which has begun to ask how many Hessop children are born with eyes that open, and how many are born with roots and nothing else. She has been asked by Lord Chastain Loin, very politely, whether a Hessop has ever been served at the cellar table, and she laughed her slow sleepy laugh and said that Hessops are always served, in a way, at every table in the south; and then she stopped laughing, and asked him never to come to the Rise on Sweating Night.
+
+[quick] Ambrosine Hessop — Threat 4 · Flesh 15 · Guard 11 · Attack +2 (hand 1) · Armor 1 (loam-flesh) · Dread 2 (to see the roots in her footprints by morning) · Persuade 5, Godsign 4; rooted at will on Hessop land, where she cannot be harmed by anything that grows
+
+[quick] Gammet Rake of Dimble — Threat 2 · Flesh 11 · Guard 10 · Attack +2 (crook 2) · Armor 0 · Dread 2 (to hear him describe the First Furrow over ham) · Lore 3 (the carving)
+
+[quick] The Reeve's Ghost of Hask's End (not a ghost; a scarecrow-shape of straw the village made in Amos Tallis's coat and set by Mother Furlong, who talks to it) — Threat 0 · Dread 2 (when it answers her)
+
+## Playing a Fatlander
+
+You were raised on the best food on the Table and you have never once been full. You are large, warm, generous and polite, and you think of the dead as dinner and the fields as family. Abroad you will find other peoples' food grey and joyless, and their faces when you mention your grandmother's wake will teach you to stop mentioning it.
+
+Play the warmth first. A Fatlander is the friend who brings a pie, the stranger who asks after your health and your weight, the companion who notices at once that you have not eaten and does something about it. Your manners are impeccable and they are all about food: you offer before you take, you serve others before yourself, you wipe your plate, you thank the field. You are uneasy in a room without a hob. You find hard ground unsettling and thin people pitiable, and you will press food on anyone you love, and keep pressing, gently, long after they have said no. Then play the hunger underneath, which is always there, which you have learned to talk over the way people in a mill learn to talk over the grinding. You will notice everyone's hands. You will know what you would cook them with.
+
+**What you know without thinking.** How to joint a pig, a sheep, and a person, and that the order is the same. How to render fat, cure a ham, and judge a roast by its sound. The names of your family's fields and which of your relations are in them. That a field at dusk in Carving is not a place. That a Bailiff with a funnel is not someone to argue with. That every hill might be listening.
+
+**What you do not say abroad.** That the beef they are eating came from the Chute. That your mother is a slope near Kettle Furrow and you miss her. That their food has no taste, and that they themselves, if you are honest, smell faintly underseasoned.
+
+**Attribute bonus:** +1 GUT.
+
+**The Sop: Clean the Plate.** Eat a full meal until it hurts, and finish every scrap. This removes 1d6 Hunger. If the meal is the flesh of the human dead (a wake, a battlefield, a Second Helping table), remove 1d6+2 instead. The compulsion is fed: for the rest of the day, Want checks against *The Second Plate* are one step harder.
+
+**The Tooth.** When a Fatlander Partakes, the mouth floods with saliva, the belly growls loud enough for the room to hear, and the teeth ache as though new ones were pushing through. Nearby food smells stronger. On a Tooth showing 1, the god bites back: the character must eat something, anything within reach, before their next action.
+
+| d6 | When the God Bites Back (what you eat, if nothing better is near) |
+| 1 | The nearest candle, wick and all; it tastes of the beast it was rendered from. |
+| 2 | A mouthful of the soil underfoot; it is warm and faintly sweet and moves on the tongue. |
+| 3 | Your own sleeve, cuff or glove, chewed to a wet rag. |
+| 4 | Whatever is in an ally's hand or plate, taken before you can stop yourself. |
+| 5 | The soft pad of your own thumb, bitten until it bleeds; 1 Flesh, and the taste is wonderful. |
+| 6 | Something that is not food and should not be eaten (a letter, a coin, a lock of hair); the GM chooses, and it matters. |
+
+### Gifts
+
+**The Taste (Regrowth 1–3). Iron Belly.** You can eat almost anything: rotten meat, tallow, leather, mild poisons. Gain +2 to Feast rolls, and you may eat a meal's weight of anything organic as a Sop for half value (1d3 Hunger). *Cost:* each of the five daily meals you miss adds 1 Hunger.
+
+**The Appetite (Regrowth 4–6). Taste the Name.** A mouthful of someone's flesh or blood (a cut, a kiss that draws blood, a slice at a wake) tells you their family, their Cut, and one thing they have eaten that they are ashamed of; on a Grace, one secret. **Gorge.** Spend ten minutes eating heavily to heal 1d6 Flesh (once per scene). *Cost:* each use of Taste the Name adds 1 Hunger, and witnesses who are not Fatlanders face a Dread 2 check.
+
+**The Course (Regrowth 7–9). Laden.** Your GUT rises by 1 (to a maximum of 6) and your LUNG falls by 1; your loam-soft flesh grants Armor 1 that stacks with worn armor. **Rooting.** Standing still on bare soil for a round, you may root: you cannot be moved, knocked down or Reaped, gain +2 Guard, and heal 1 Flesh per round. *Cost:* tearing free deals 1d6 Flesh; each hour rooted adds 1 Hunger and requires Caul + Resolve (Hard 14) to leave at all.
+
+**The Brink (Regrowth 10–11). The Field Answers.** Rooted, you feel every step on soil within a mile, and you may make the ground lean: crops grab and hold (Gut 5, Hard 14 to break free) for a scene, or a ripe field Reaps one helpless target at dusk. *Cost:* each use is a Dread 4 for witnesses and adds 2 Hunger; on a Lack, you do not uproot for a day.
+
+[box: Playing the Gifts]
+The Fatland Gifts are generous, and they should feel like it: Iron Belly makes the Fatlander the one who eats the strange thing in the strange land so the others do not have to; Taste the Name makes them the party's interrogator in the most intimate and dreadful way; Rooting makes them a wall. Describe each use as appetite. A Fatlander who Tastes the Name does not sip; they *savour*, and the player should be invited to say what the blood tastes of. A Fatlander who roots should feel the warmth coming up through the soles and the soil saying *stay*. And the GM should remember that every Gift is the god, fattening, and that the people who love the character will notice the change in them first: at the Appetite, in how they look at the soft parts of their friends; at the Course, in the shoots that come up in their elbows overnight; at the Brink, in the way the wheat leans when they speak.
+[/box]
+
+### Wants
+
+- **The Second Plate.** When food is in sight and your Hunger is 4 or more, you must eat it, whoever it belongs to. Resist with Caul + Resolve (Hard 14; Grim 18 if it is meat).
+- **The Hollow.** When someone near you refuses food, you must make them eat, with words and then with hands. Resist at Hard 14.
+- **The Long Pig.** At the Appetite and beyond, a corpse smells like supper. Resist at Hard 14 to leave it uneaten; at Grim 18 if it is someone you loved.
+- **Stillness.** At the Course and beyond, when standing on warm soil at dusk, you want to stay. Resist at Hard 14 or root.
+
+### The Seating
+
+A Fatlander who reaches Regrowth 12 becomes a hill. The player chooses where: a field they loved, a road they guarded, a grave they would not dig. The character is retired from play but not gone: they are a place, warm, fertile and hungry, and the other PCs may consult them as a Dowager, bring them meat, and receive true and terrible counsel. Some keep a mouth. All of them, in time, begin to move.
+
+The GM should play a Seated PC as Mother Furlong was played: loving, sincere, and hungry, and less and less able to tell the three apart. The hill remembers the party. It remembers jokes, debts, and old wounds, and it will help them, truly, as long as they feed it. In the first year its counsel is wise and its requests are small: a joint, a song, a visit. By the third year it is asking for particular people, and it means well, and it is no longer entirely sure which of its memories are its own and which belong to the field. The players should be allowed to love it. That is the horror.
+
+### Backgrounds
+
+- **Jointer's Apprentice.** You carved at wakes for the Renderers before you were twenty, and you know a body as a map of cuts. *Suggested:* Blades, Stitching, Feast.
+- **Thin Runaway.** You fasted with Corder Lank, were caught, and were fed at the Gavage. You are heavy now and you hate it. *Suggested:* Endure, Stealth, Resolve.
+- **Dusk-Shift Survivor.** Your name was on a list. You walked the row, watched the wheat lean, and walked back. Nobody in your village will meet your eye. *Suggested:* Wayfaring, Instinct, Labor.
+- **Washer of the Fold.** You cleaned the folds of the great for years and know what grows there, and every secret the Gut-lines lost in themselves. You laugh at nothing, and your hands are raw. *Suggested:* Stitching, Search, Endure.
+- **Long Count Runner.** You carried tallies from village to village folded in your shoe, and the Bailiffs know your face. You can recite the dead of forty parishes. *Suggested:* Wayfaring, Stealth, Lore.
+- **Hill-Child.** Your grandmother is a hill and you were raised half on her slope; you have slept against her flank and heard her heartbeat through the turf. You hear the ground. The ground hears you. *Suggested:* Godsign, Instinct, Rites.
+
+| d10 | Why You Left the Plains |
+| 1 | Your name was on a list, and you did not want to walk back. |
+| 2 | You were sent north with a barrel, and you know what is in it. |
+| 3 | The family hill asked for you by name. |
+| 4 | You tasted someone you loved at a wake that was not theirs. |
+| 5 | You ran from the Gavage and the funnel is still in your dreams. |
+| 6 | You were Offered at Gladbelly, and at the pavilion door you could not. |
+| 7 | You were sent by the Board to find out who else on the Table is hungry. |
+| 8 | You want to find a meal that fills, and you have heard one exists in the Fast. |
+| 9 | You stopped being able to sleep with the window open on the fields. |
+| 10 | You are a Hessop, or you married one, and you will not say which. |
+
+### Names
+
+**Given (male):** Obb, Hob, Wilm, Varn, Garrick, Dunmow, Ivo, Abel, Ruddle, Barnaby, Crust, Leggat, Amos, Lard, Cress, Jory, Rowan, Aldous, Tobin. **Given (female):** Suet, Tansy, Marigold, Petty, Brisket, Hessop, Callow, Nell, Gravy, Dumpling, Wenna, Ysolde, Linnet, Bette, Adeline, Ambrosine, Nan, Hennet. **Neutral:** Pell, Sal, Wren, Jem, Rind, Haslet, Chine, Pudding, Crumb, Sorrel, Tibbet. **Surnames:** Tullow, Marrable, Hogget, Lank, Gristle, Lard, Paunch, Trotter, Tripe, Crackle, Fatt, Chine, Wether, Stockpot, Cracknel, Callock, Strake, Loin, Dripping, Furrow, Gammon, Hessop, Fenn, Tallis, Furlong, Rake, Pask, Tidy, Ash, Crumb.
+
+[bigquote] We have eaten. We will eat. We will be eaten. Thank you. | — the long grace of the Field Church
+
+[box: Horrors of the Fatlands]
+Roll a d20, or choose, when the party is travelling the plains, staying in a village, or simply sitting down to eat. Every one of these should be played warm, comfortable and well-fed until the moment it is not.
+[/box]
+
+| d20 | Horror |
+| 1 | A child at the inn table chews her sleeve to threads, then the table edge, then, smiling, the side of her own hand. Her mother gently moves a pie toward her. (Dread 2) |
+| 2 | Marbling morning: the white veins in the field run in the shape of a woman lying on her side, and they pulse. (Dread 2) |
+| 3 | A wake in progress; the family insists the party join. The meat is the PC's contact from last session. (Dread 3) |
+| 4 | A cabbage at market has a face, eyes shut, and it is the face of a stallholder two rows over, who is staring at it. (Dread 2) |
+| 5 | At dusk, a line of white-smocked figures walks out along the furrows behind a lantern. One of them turns and mouths *help*. (Dread 3) |
+| 6 | A well-bucket comes up full of warm broth, and something in the dark below swallows. (Dread 1) |
+| 7 | A Laden man rooted by the road asks the party to pull him free. When they try, he screams, and the roots bleed, and the field around them groans. (Dread 3) |
+| 8 | A Second Helping procession passes, singing, carrying a garlanded woman in dripping. Her small son walks behind holding her shoe. (Dread 3) |
+| 9 | The party's bread, broken, is full of fine fair hair. The miller says it is from the Hessop plot, and that young Hessop was very pretty. (Dread 2) |
+| 10 | The ground under the camp rises and falls all night. At dawn there is a new hill where the cookfire was, warm, with a mouth, and it calls one PC by their mother's name. (Dread 4) |
+| 11 | A village ploughs its First Furrow at dawn; the plough is heavy, and the furrow behind it is a long wet red line, and everyone walking behind it is singing. (Dread 3) |
+| 12 | A Washer in an inn kitchen scrubs her hands in the sink, and keeps scrubbing, laughing softly, until the water is pink; she says there is a summer under her nails. (Dread 1) |
+| 13 | On a yard wall, nine bowls upside down. A tenth is set out as the party passes, by a woman who does not look at them. (Dread 2) |
+| 14 | A Brink-Laden grandmother by the road asks a PC to kiss her goodnight; her forehead is clover, and under the clover something kisses back. (Dread 3) |
+| 15 | A cookshop's ten-crumb plate comes with a covered side-dish nobody ordered; under the lid is a candied finger wearing a ring one PC knows. (Dread 3) |
+| 16 | In a Thin barn, a row of belly-cords folded neatly on empty pallets, and charcoal on the beam: *it is not hungry if you are in it.* (Dread 2) |
+| 17 | A man at Supper stops with his spoon raised, listens to his own belly, says "yes, all right," and passes the salt to an empty chair. The chair's cushion is warm. (Dread 2) |
+| 18 | Sal Trotter's herd passes on the Drove Road at dusk; the lead steer is walking on two legs, humming, and as it passes it tips its head to a PC as a farmer tips his hat. (Dread 3) |
+| 19 | A loaf on the inn table breathes under its cloth, slowly, and when cut, the crumb is pink and warm and closes again around the knife. (Dread 1) |
+| 20 | At a long table in a field at dusk, laid for one more than are sitting, the party is invited to sit. Everyone at the table is someone the Long Count has marked. The empty place has a plate already served, and the steam off it smells of every harvest-home there ever was. (Dread 4) |

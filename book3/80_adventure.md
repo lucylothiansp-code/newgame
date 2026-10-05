@@ -883,3 +883,119 @@ He stands in the doorway of the common room for a long time with one white-glove
 [/fiction]
 
 Seeing Ardent understood is Dread 3. He answers questions honestly and wearily. He confirms the rules of the Seated. He says he did not lay this table, and that he does not understand why the Host has gone ahead of him. Asked about the ninth chair, he says only, "I set that one myself, at every table. I always have. I've never set the card." He looks at the card for a long time and does not touch it. Asked who it is for, he says, "We're expecting one more," and then, after a long silence, "I was told that when they come, I may rest." He does not say it as though he believes it any more.
+
+## Act Two: Hunger Indoors (Days Four to Six)
+
+### Day Four: Open Graves
+
+**The graveyard.** In the morning, whoever goes out first sees the graveyard wall split and three graves open. Old Mother Ivy's has been dug from above; the spade is still leaning on the wall, and the shroud lies in the trench empty and folded, because Absalom could not bear to leave it in a heap. The two oldest, Hadley's and her son's, have burst from beneath: the marbling has come up through the coffins in soft white veins, and of the bones only the long ones remain, licked smooth and pink, as if something below had sucked them like sweets.
+
+[fiction]
+The coffin wood has gone soft and fibrous, like the inside of a loaf. In the bottom of Hadley Thimble's there is a hollow in the shape of a lying woman, lined with a fine white down, warm when you put your hand into it. Something is still breathing through it. The breath smells of the pottage. Her headstone has fallen forward into the trench, face down, so that the one word carved on it, *Welcome*, is pressed into the white, and when you lever it up the word has been printed there in reverse, raised, like a seal in wax.
+[/fiction]
+
+The graves are Dread 2; understanding that Ivy's was dug by a spade, and connecting it to yesterday's meal, is Dread 3. Following the spade's prints (Eye + Search, Hard 14) leads to the kitchen door. Hepzibah, if confronted, does not deny anything. She says that Mother was a keeper of this house, and a keeper's duty is to the guests, and that if they would rather have starved, they might have said so before the second bowl.
+
+**The great sermon.** At noon, in the yard, Sister Clemency preaches to the starving, and the inn listens. Roll her Sermon. On Day Four she sways most of the drovers and a few of the guests.
+
+[fiction]
+Handout: The Sermon of Sister Clemency Voide, Preached in the Yard at Thimble Cross.
+Children. Brothers. Sisters with your bellies cramping. I will not lie to you, because you have been lied to enough. You are full. You are the fullest people who have ever lived. Your grandmothers' grandmothers swallowed God and you have been carrying It ever since, warm in your guts like a stone in a hen. That is why you can never eat enough. You are not hungry. You are pregnant with a corpse.
+And now the one God that was never eaten has come to supper. Why here? Because It can smell Its brothers in you. Because It is a Host, and a Host goes where the larder is. It has come to fetch Its family home out of your bellies, and It does not care if It must take your bellies with them.
+There is one way, and it is the oldest way. Give It back. Open your mouths and give It back. Fast and bleed and purge until the god in you comes up black and stinking and lies on the stones where it belongs, and when the Host comes on Tablenight, let It find nothing in this house but clean, empty people, and pass us by.
+And those who are fullest, those whose blood is thickest with the stolen meat, the high and the gloved and the veiled: they must be emptied first, and most, because the Host can smell them from the Fast. It is not murder to open a jar. It is housekeeping.
+Lack keep away? No. Lack come in. Lack is the only clean guest we have ever had.
+[/fiction]
+
+At the climax of the sermon she walks into the common room, kneels at the head of the Host's table, puts her fingers down her throat, and vomits a long black string of bile across the white cloth, and then, while the converts watch from the doorway, lays her palm in it and draws the root-mark of *worship-and-eat* on the cloth with her finger, and spits on it. Witnessing this blasphemy is Dread 2. In the morning the cloth is spotless, and the table is a little longer, and there is a new place at it, with a card. It has her name on it, in the hand of the midwife who delivered her. Clemency reads it, and smiles, and says that God is a very patient host.
+
+[pull] I spat in its cup and it laid me a place. You see? You see? It doesn't know how to be insulted. That's how you know it's not a god at all. It's a mouth. | — Sister Clemency Voide, Day Five
+
+**The ring.** In the afternoon, scrubbing out the pottage pot, Linus finds his grandmother's wedding ring. A character who is in the kitchen sees him stand with it in his palm for a full minute. He says nothing. He goes out to the graveyard, and looks, and comes back, and sits at the deal table with the ring standing on its edge in front of him, and turns it, and turns it.
+
+**Dusk: the Gleanings.** The dusk standing on Brawn's roster is forgotten; nobody will go out tonight, not even for the arithmetic, because at sundown the people the field has taken come back to the windows. See Combat Encounters. They ask to be let in, in their own voices, and Absalom, Hepzibah, Linus and Dorcas cannot refuse a guest.
+
+[fiction]
+The first knock is at the kitchen door, three soft raps, the way a neighbour knocks. Then a voice, Walt Sallow's, mild and interested: "Hello the house. Bit nippy. Any room?" Then another at the west window, and you see it: a face pressed to the pane, the eyes closed, the skin smooth and pale and faintly ridged like the rind of a cheese, and below the sill, where its feet should be, a tangle of pale roots that move in the white like fingers looking for a dropped coin. It is Big Oona, or the field's idea of her. It is smiling. Its breath does not fog the glass. "Abel's here," it says. "He's ever so much better. Let us in, my loves, we've come for supper."
+[/fiction]
+
+The Thimbles open the doors because they must, and the bones in their hands creak when they try not to. The characters will have to hold doors, block windows, or fight in the kitchen and the yard. The Gleanings are Dread 2 to face, and Dread 3 if one wears a face the viewer knew: Walt, Oona, Nib if he was taken, Robb Hayle with his wheat tattoo, Old Mother Ivy with the barley still in her hair.
+
+**Night: the kin-slaying.** After the Gleanings are driven off, Linus goes down to the cellar where his father is broaching a notched barrel for tomorrow. If no character follows, the house hears only one sound, a wet chop like a joint going through on the block, then a second, and then a long silence. If characters follow, they arrive as Linus brings the cleaver down.
+
+[fiction]
+Absalom is kneeling, as if at a hearth, with both arms in the open barrel to the elbow. He does not turn round. He says, "She always wanted to be useful, son. She'd have wanted to feed them." The first blow takes him where the neck meets the shoulder and goes in to the spine, and the sound is the sound he taught his son to listen for, the clean give of a joint. He falls into the barrel. Brine and blood come over the rim together in a pink sheet across the flags. Linus pulls him out by the apron strings, because he cannot leave his father in there with the others, and holds him, and his father's face is shining with the brine and looks, for a moment, enormously relieved. In the barrel, disturbed, something pale turns slowly over in the brine and settles again, face up.
+[/fiction]
+
+Witnessing the killing is Dread 3. Linus does not fight unless someone tries to take the body from him; then use his quick line, at +2, until he is restrained or Ruined. He sits with his father until dawn, holding his hand, and he talks to him, about horses, about the price of iron, about the time Absalom carried him on his shoulders to see the Company congress in 638, and about nothing else at all.
+
+**The oath on the dead.** At dawn Hepzibah comes down. She washes Absalom's face, closes his eyes, and folds his hands over the wound. Then she makes her children kneel and lay their hands on their father's chest, and she makes them swear, in front of whoever is watching, in the Company's form, with Haverick as unwilling witness.
+
+[fiction]
+Handout: The Oath Sworn over Absalom Thimble (entered in the station ledger by Warden J. Haverick, who was required to witness it, in a hand that is not steady).
+On Absalom Thimble, keeper, dead here, our father: we swear, in the name of the Company and its notary, and before its warden, that the blood of Thimble shall endure; that it shall be kept whole and kept at home; that its two last children shall be joined as their mother and father were joined, before Lack is out.
+Sworn: Linus Thimble, by his hand on the dead.
+Sworn: Dorcas Thimble, by her hand on the dead.
+Witnessed: Hepzibah Thimble, keeper, who required it.
+Witnessed: J. Haverick, Warden, who could not refuse.
+(Below, smaller, in the same unsteady hand:) God help them. Entered under Wear.
+[/fiction]
+
+Linus swears. Dorcas looks at the characters, and then at her father, and swears. Haverick enters it in the ledger, because he must, and is sick in the yard afterward. This is Dread 2 for anyone who understands what was sworn. It is an oath on the dead sworn over a body opened by his own son, and the rules say such oaths bind twice as hard; Dorcas knows that too. A character who has befriended Dorcas may be asked, that night, through her door, for help. She does not say with what. She says, "There's no exit clause. Find me one."
+
+### Day Five: The Ninefold Purge
+
+The marbling reaches the cellar, climbing the stairs one step an hour. The inn divides: the swayed with Clemency, who now preach in pairs in the corridor and leave basins outside doors; the Board's people with Brawn, who has moved his chair to the toll house to be near the strongbox and the warden; the Thimbles with their dead, laid out on the deal table in the kitchen under a clean cloth, because the cold store is no longer safe. Bell Lisle is blinking every few minutes now. Absalom's name is called in the morning count, and there is a silence, and then Hepzibah answers for him, "Here," in a perfectly ordinary voice.
+
+Kale, sensing the house turning, moves the cage. Clemency's converts have started to gather at the stable door at night, looking at Refrain with an interest he recognises from the surgeries, and he does not like competition. He asks the characters, cheerfully, whether they would like to earn a meal by standing a watch. If they agree, they are guarding Refrain from the Purgation for a man who has sold her to the Second Table. Kale finds this very funny, and then, when nobody laughs, less funny.
+
+[pull] Everybody wants her for something. Me, the widow, the Sister, the room. Nobody wants her for supper but me. Funny old world. Funny old, cold old world. | — Kale Dragoman, on watch, Day Five
+
+**Night: the ritual killing.** After midnight, Clemency and four converts take Lord Casimir from his room with a blanket over his hands and carry him to the smokehouse. He does not cry out. He has been expecting someone. If the characters have befriended Casimir, or are watching Clemency, they can intervene; Clemency's converts fight with fervour, and Casimir, bound with his hands in a sack, can do nothing until freed. If no one comes, Vellum finds him at dawn.
+
+[fiction]
+They have hung him from a meat-hook by the bound wrists, so that his toes just touch the brick. The floor is set with nine pewter basins in a ring, and each one holds something that came out of him, in order, the way the Purgation teaches: brine he was made to drink and bring up; bile; the black of his last meal; blood from the lancet at each elbow; blood from the throat; and then, in the last four, what she took out of him with the long knife, set out neatly, the way a cook sets out the parts of a fowl, the liver dark and glossy as a plum, the coils of him laid in a bowl and still faintly steaming in the cold. His gloves have been cut off. His grey hands have been taken off at the wrist and laid together, palms pressed, in the last basin, as if praying, and where the smoke-blackened brick is spattered near them it has gone pale and dead in a ring, as though the hands went on finishing things for a while after. Smoke hangs in the roof. Clemency is kneeling in the ring with her arms red to the shoulder and her eyes shut, waiting, with great patience, for the god to come up out of the bowl.
+[/fiction]
+
+The scene is Dread 3. Clemency does not run. She explains, kindly, that it had to be done, and that it has not worked yet, and that it needs another, a higher one; she looks at Vellum. If anyone tries to seize her she offers her wrists, and her converts do not; see Combat Encounters. She does not seem to know that two of her converts are weeping. One of them, a drover called Tam Pettle, sits down in the doorway of the smokehouse when it is over and will not get up, and says to anyone who passes that he did not know a man had so much in him, he did not know there was so much in a man.
+
+**Vellum's oath.** At dawn Lady Vellum Serrat takes the gilt wire from her tongue in front of the smokehouse door, kneels in Casimir's blood, lays her hand on his empty chest, and swears on the dead, aloud, without a single condition, for the first time in her life.
+
+[fiction]
+"By this dead man, Casimir Hollowe-Vane, my cousin of the Table, I swear the Host shall be carved, and he shall have the first slice."
+(Her tongue splits a quarter-inch at the tip with a sound like a fingernail on a slate, and bleeds down her chin, and she does not wipe it.)
+[/fiction]
+
+Her tongue keeps her promise for her. From now on she will do anything to bring the Host to its seat at Thimble Cross, and she becomes the loudest voice for filling the ninth chair. She does not put the wire back. She speaks plainly now, and the plainness is terrible, because everything she says is true and she says all of it: what she paid for Refrain, what the Second Table intends, what she thinks of each person in the room, what she has wanted, in her life, and not had. Each character within earshot when she speaks to them directly makes a Dread 1 check. It is like being skinned with good manners.
+
+### Day Six: The Seeming
+
+Bell Lisle's last vial is gone by morning. Her nudger, if she has one among the characters, is all that keeps her upright, and she is blinking every minute, then every breath, and with every blink the Seeming spreads. Everyone in the common room rolls Caul + Resolve (Hard 14) each hour; those who fail see what Bell sees.
+
+[fiction]
+At the table the dead are sitting down to dinner. Walt Sallow with his clothes on and nothing in them. Abel Crumm, tucking his napkin in. Old Mother Ivy, with the barley still in her hair. Absalom, with his apron on and the wound in his neck very neat, carving. Casimir with his hands in his lap, palms together. They are passing the bread. They are so happy. They are saying, in the voices of people you have loved, that there is room, that there is always room, that you look thin, that you should come and sit down. Outside the west windows, something very tall is stooping to look in, and its breath fogs every pane at once, and it is warm, and it is counting the chairs.
+[/fiction]
+
+The Seeming is Dread 3 for each new witness, and contagious: anyone who Breaks while under it gains the derangement *I am already at the table* (they believe their body is seated, wasting, smiling, and that the self walking about the inn is a thing left behind; treat as **The Dead Man** and **The Pull** together, triggered by the smell of bread). By afternoon, half the inn shares it. Hepzibah sets places at the pine tables for the dead. Gus Haslet carries a plate of nothing to the empty chair where Abel used to sit and cuts it up small for him, because Abel's teeth were bad. Nobody stops him. Several people thank him.
+
+[fiction]
+Handout: The Warden-Prime's Dispatch (in Bell's leather case; the lidless-eye seal is cracked and has been pressed shut again with a thumb).
+To Envoy Castellan Dray, at Lastgate, by the Waking Post. Burn on reading.
+You are instructed to offer the Regent, for the full and particular art of Keeping, the following: the Vigil's oil contract for twenty years at cost; the Lid's library entire; and such of our sleepers as Sallowreach may wish to study.
+You will ascertain whether a Kept citizen of the Vigil would wake. If Kept, they would not sleep, and if they did not sleep, the god would not wake, and if the god did not wake, we should have kept our promise to it, which was only ever to keep watch.
+If the Kept cannot leave Sallowreach, you will ascertain the price of Sallowreach.
+We have not slept in three hundred years, Castellan. I find I no longer wish to be alive while I do not.
+(signed with the Eye)
+[/fiction]
+
+**Bell sleeps.** In the late afternoon, with her nudger's hand on her wrist, Bell tells them quietly that she would like to stop now. She asks them not to pinch her. She gives her dispatch case to the character she trusts most. She says the room with the eye is warm and has a floor you can lie down on and that she has wanted to lie down for twenty-six years. She closes her eyes. She does not open them. Her chest goes on rising and falling, very slowly, in a rhythm no one in the room can match. This is Dread 2, and for her nudger, Dread 3. The Seeming does not stop when she sleeps. It is the inn's now.
+
+[pull] It's warm. Oh, it's so warm. Don't pinch me. Please. Just this once, don't. | — Bell Lisle, her last words
+
+**The reading.** At dusk, Refrain Dole asks to see the ninth card again. Somebody must carry it to the stable; she will not go into the common room. She holds it up to the lantern and reads the second stroke aloud as *Late*, and then she takes the page out of her boot and reads Meek Garrity's words to whoever is there, the drovers and the converts and the characters, in a flat voice, and folds the page away again.
+
+[fiction]
+"We're not the ones who said no," she says. "Six hundred years we've told you we said no. We're the ones who came after. The late ones. There was nothing left by the time we got up the hill. We'd have eaten it. We'd have eaten it same as you. That card's got my people's name on it. It's had it all along. It's just been waiting for one of us to turn up." She laughs, short, like a cough. "Late again. Story of the Fast."
+[/fiction]
+
+It is not true. The card does not say *Late* in the sense she means; it is not for her or for her people. But it is the most convincing thing anyone at Thimble Cross has said in six days, and the room believes it, and so, almost, does she. That night, the consensus forms.

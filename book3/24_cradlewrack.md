@@ -6,6 +6,8 @@
 > Knock before you open. Whatever is on the other side has a right to be warned, and so do you.
 >> — Cradlewrack proverb, taught before the alphabet
 
+[sigil: cradlewrack]
+
 [fiction]
 Set down by Wenna Thrale, apprentice of the Attendance, third year of her apron, for the Lying-In's own book and not for the Tally. Rudge parish, the fourth night after a pang, Carving 641.
 They sent for us at the second bell because the father had begun. Not the mother: she had been delivered of a girl in Grace and sat by the hearth with the girl at her breast and her face to the wall. It was the father on the floor, a shepherd's son named Corran with hands like spades, curled on the red clay in a shirt soaked black. The room smelled the way every highland room smells when something is coming: iron, wet wool, and under it the warm salt of the springs, as if the ground had broken its waters under the house.
@@ -146,6 +148,8 @@ That last is the one that wears a body down. A cut that has knitted, a scar twen
 
 Every threshold is something waiting to be crossed. The highlanders knock before they open anything, door, cupboard, box or letter, because you knock to warn whatever is on the other side. They brick up rooms they never want opened again, and brick themselves into rooms at night, and break out in the morning.
 
+[pull] Knock, and wait. If it knocks back, you were right to knock. If it doesn't, you were right to wait. | — a Kest mother's rule, taught at the lintel
+
 [box: Rules — Wounds That Reopen]
 Any character who has spent at least one night in Cradlewrack is subject to the land. Each pang (every nine days at present), roll a d10 for each healed Injury from the Mangling table the character carries, and for each surgical seam closed by Stitching in the last year. On a 1–3 it reopens during the night: the character loses 2 Flesh per reopened wound and wakes bleeding (Dread 1 for anyone unused to it). Closing it again is a Stitching roll at Hard 14. A Lack on that roll means the wound has learned the stitch: the next reopening is automatic. Natives of Cradlewrack carry their stitching kit the way other peoples carry a knife, and most have a Stitching of at least 1.
 Doors and locks fare no better. Any lock in Cradlewrack must be checked each night; a lock that matters holds only on a Craft or Filch roll at Grim 18 by whoever set it, and even then not past the next pang. Bricking in always holds. That is why they brick.
@@ -258,6 +262,8 @@ The Attendance's fortress-hospital, two hours' ride north of Kest on a bare hill
 #### The Dilation
 
 The great crowning in the central highlands, a mile across and widening. It opened in 547 A.G. as a pothole in a sheep track and has never stopped. Its lips are soft red clay that gives underfoot like flesh and slopes inward to a sheer drop into a darkness from which warm air breathes. During pangs the whole bowl flexes. Around the rim has grown Rimwatch, a ring of tents, turf huts and hostels full of pilgrims, Assemblers' agents, Barren protestors and Attendance observers, who mark the rim's advance each morning with painted stakes. The stakes nearest the edge are always gone by noon.
+
+[pull] Twenty years at the rim. I've seen it take a stake, a cart, two pilgrims and a bishop of the Purgation. Never seen it give back anything I'd want. | — Madder Rudge
 
 #### The Sill
 
@@ -463,6 +469,8 @@ Nobody is buried. Graves open, and the dead have been known to bear. The dead ar
 - **The Unbricking.** The first day of Grace. Every bricked room in the country, except the Stillyard's, is broken open at dawn and aired, and whatever is found inside is entered in the Tally.
 - **Tablenight.** Every door in the country is propped wide open until dawn, on purpose, so that nothing can be said to have broken in. Families sit up in their open houses in the cold, all lamps lit, and a place is laid at the table nearest the door for whatever comes. Usually nothing does.
 
+[pull] Leave the door wide on Tablenight and lay the plate nearest it. If the plate is clean in the morning, don't wash it. Don't ask who did. | — Tarnbrow custom
+
 ### Crime and Punishment
 
 The great crimes of the highlands are concealment (an unattended birth or a hidden Part), descent-fraud (claiming a bearer who did not bear you), lockbreaking (opening a bricked room without the household's leave), and smuggling a pregnancy across the border. Concealment of a Part is punished by unhinging; the Assemblers have made it the most common crime in the country. The Attendance does not hang, behead, or burn. It bricks. A sentence of bricking is read in the Old Lying-In; the Debt Wall in the Stillyard is lined with the living condemned, and in the evenings their families sit beneath the slots and talk to them.
@@ -643,6 +651,8 @@ Use the Grey Winter as tragedy and as warning, never as spectacle. Nothing in it
 
 Regiments of the born-grown: adults in body, a few years old in fact, with no childhoods and no one to claim them. Raised in 635 A.G., they are the state's only army: six Companies of about four hundred each, housed in the Crèche, drilled in a single year from naked bewilderment to formation. They are disciplined beyond any army on the Table, because they have never known anything else, and frightened in a way their officers do not discuss, because none of them knows how long they will last.
 
+[pull] Born Tuesday. Spear by Grace. Sergeant by Plenty. Gone home by Carving. Write it on my wall in that order, so it reads like a life. | — a Foundling soldier's request, the Company wall at the Crèche
+
 **Beliefs.** The Companies believe in the Company. Born with nobody, they have made the regiment mother and father. They love their General without reservation. Many born-grown age normally; some age backward; a few, without warning, revert to infancy in a night. The Companies call this *going home*, and they bury the infant in the Company's own wall.
 
 **Wants.** Somewhere to belong after the war that never comes. A birthday. Some want to find whoever, or whatever, bore them.
@@ -739,6 +749,8 @@ The Attendance has a warrant for Grisel Ashe and has not served it, because she 
 
 ## The People of Cradlewrack
 
+[bigquote] What is it. Does it stay. Every one of us was asked both, and not one of us was let answer. | — chalked on the Tally-house steps, Kest, the morning after a pang
+
 ### Midwife-Paramount Orla Kest
 
 Head of the Attendance, sixty-eight, descended in the female line from Hollan Kest, who crushed the last god. She is small, square, and grey, with forearms like a laundress's and a voice she has never once in her life raised. She smells of lye and lavender. She has attended nine thousand births and permitted six thousand. She remembers the other three thousand individually, by parish and date and the color of the mother's eyes, and can tell you why, in each case, without raising her voice. She has never asked to be forgiven for any of them. What she fears is not the knife but its failure: that the Late-faction is right, that she has spent her life answering small questions while the large one dilated under her feet. She meets the characters when one of them is carrying, or when one of them is close to Sabeth Thorne. Secret: Orla's mother bore a second child when Orla was nine, and Orla held the door. She has asked herself the Second Question about the country, and answered it, and is waiting only for the room.
@@ -787,6 +799,8 @@ Dread: 3 (to hear him describe being eaten)
 Secret: He is not growing younger toward birth. He is being drawn back toward the Dilation, and he will be there, the size of a newborn, when it opens.
 [/stat]
 
+[pull] Come for it with a crate and you'll leave in one. | — chalked on Hester Lowe's door in Rudge, in her own hand
+
 ### Hester Lowe
 
 A clay-digger's widow of Rudge, thirty-four, broad, sunburned, with a cleft chin and a laugh like a crow. Three years ago she bore a hand: only a hand, left, healthy, warm, the size of a grown woman's, with a ring-finger callus nobody can explain. She did not call the Attendance. She hides it from the Lying-In and the Assemblers both, in a lined bread-crock under the hearthstone, and she feeds it warm milk through the skin of the palm, and talks to it while she works. It holds her finger at night. It strains, always, toward the east, toward Kest and the Barn, and she wakes to find it at the crock's lip, fingers hooked over. Her fear is the morning she will find it gone. She will kill anyone who comes for it, and keeps a clay-spade sharpened for the purpose. Her secret: twice now, the hand has written, in flour, a word she cannot read.
@@ -821,6 +835,8 @@ Dread: 4 (to see her breathe; Dread 5 if she sits up)
 Secret: She is not Vey. She is what Vey would be if born in the highlands' own image: everyone's, stitched.
 [/stat]
 
+[pull] Start nothing, my friends. Not a child, not a road, not a quarrel. Not even tomorrow, if you can bear to leave it be. | — Brother Callum Stillwater, preaching on the rim
+
 ### Brother Callum Stillwater
 
 Abbot of the Barren Order, fifty, grey-robed, gaunt and gentle, with a soft tenor voice and the careful gait of a man whose sutures are renewed every nine days. He was cut at twenty, by choice, after watching his sister deliver three things in one winter. He preaches that the kindest thing a person can do is start nothing, and he has never had so many listeners; on the rim of the Dilation, at each pang, he stands and reads the names of the struck-through. He is kind to everyone he meets and he is not lying when he says he loves them. His fear is that his old wounds are opening differently now: this month, at the pang, his long-closed scar opened and something on the other side of it said his name in his sister's voice.
@@ -848,6 +864,8 @@ Secret: His wounds were given. Every scar on him matches a wound taken by a capt
 ### Lark Ninedays, the Counter
 
 She times the pangs for the state with a water clock and a bell from a bare room atop the Tally-house in Kest. Fifty-two, wiry, chapped-lipped, with a ring of red notches tattooed around her left wrist, one for each name. She was named Lark Thirtydays at birth. She has changed her name every time the interval shortened and has been Lark Twentydays, Lark Fourteendays, Lark Elevendays; her friends no longer know what to call her. She sleeps beside the clock. She fears the day she will have to take the name Lark Oneday, and has sworn on her mother's brick that she will not take the name after that.
+
+[pull] Oneday. Then nothing. I'll not take a name with no number in it. | — Lark Ninedays, to her mother's brick
 
 ### Madder Rudge
 
@@ -921,6 +939,8 @@ A smuggler of thirty-eight, lean and freckled, quick-tongued, Rim Road-born, who
 
 She has been carrying the heir for forty-four years. She is ninety, hugely swollen, very tired, borne on a padded litter by eight women, and gracious in the vague way of the long-exhausted. The King Within, Aldous the Ninth, rules by kicks: one for yes. The Chamberlain reads the questions. She is the only person who knows that he has recently begun to answer questions nobody asked: three kicks, then one, then three, at night, over and over. She thinks he is counting the interval. She thinks he is counting down.
 
+[pull] One kick, yes. Three, then one, then three, at night, and nobody asked him anything. | — a bearer of the Queen Dowager's litter, drunk, in the Coppers
+
 ### Dr. Lazar Voss
 
 A visiting anatomist from the Vigil, sleepless and precise, forty-four, with bloodshot lidless-trained eyes, a rattle of rouse-pills in his pocket, and impeccable manners. He has examined two hundred Parts and drawn the figure they would make. It has more than two of several things. His drawings show something that is not human and is not the Assemblers' Herself either: a shape with hands at the end of every limb, doors in its chest, and a head that is mostly mouth. He is selling copies to the Second Table. He has begun to dream, which a man of the Vigil should not survive.
@@ -932,6 +952,8 @@ A girl of eight from Tarnbrow, small and solemn, who was born saying half a sent
 ### Old Hinge, Keeper of the Sill
 
 He tends the standing door on the hill, oils it, and measures the gap. He is perhaps eighty, bent and bald, with knuckles like walnuts, and he lives in a turf hut a hundred paces downhill with his back to the door. He has never looked through it. He says he does not need to, because most nights something on the other side describes the view: a long room, warm, with a table laid, and a great many chairs, and one of them pulled out. He tells it to visitors in a pleasant dry voice. He fears the night it stops describing and asks him to come and see.
+
+[pull] It's a long room, it says, and warm, and the table's laid. One chair's out. I said who's that for. It said, no hurry. | — Old Hinge, to visitors at the Sill
 
 ### New Characters
 
@@ -1090,6 +1112,8 @@ When you build a Cradlewracker, answer these with the Carver as well as the core
 **Male:** Dov, Callum, Josiah, Rufus, Gideon, Ambrose, Absalom, Casimir, Corran, Abel, Aldous, Tibb, Hugh, Eamon, Pell, Lorne, Tobin, Gerent.
 **Neutral or chosen by the born-grown:** Ninety, Lettered, Keep, Bit, Small, Opening, Firstword, Wick, Stay, Ashe, Notyet.
 **Surnames** (from mothers, places, or trades): Kest, Thorne, Lowe, Marrin, Stillwater, Rudge, Fenn, Latch, Morwen, Pym, Crewe, Ochre, Cord, Breech, Aubrey, Dell, Thrale, Gage, Gorse, Furrow, Corse, Calloway, Seele, Danner, Tarnbrow, Clayhand, Knocker, Lintel, Hinge.
+
+[pull] Lack keep away, and let it stay. | — the highland grace, said in full
 
 [box: Horrors of Cradlewrack]
 Roll a d20 when the party travels the highlands, rests in a Cradlewrack house, or lingers too long near something shut. Each is a scene, not a fight, though some become one.

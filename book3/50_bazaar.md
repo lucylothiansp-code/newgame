@@ -449,3 +449,71 @@ What follows is a short shopping scene from a game in progress, showing Availabi
 In this scene the Carver uses the market to do three things at once: settle a price, plant two threats (a Reckoner on the road, a poacher at the inn), and make the cost of each purchase physical: Bryony is three points hungrier for a ten-lack saving and has let the god show in public; Refrain has been marked by his manners. That is what a market scene is for.
 
 [pull] Don't eat with him. Don't refuse him. Don't let him ask four times. | — Gristmoot advice to the Unfed, given too late
+
+## Market Day at Gristmoot
+
+> Come for a week. Everyone does.
+>> — the Gristmoot welcome, said at every inn door with the Stranger's Loaf
+
+[sigil: rim]
+
+Gristmoot is the great market town on the Rim Road at the Fatlands' eastern gate, where the road comes down out of the dry red country of Oathen and meets the first green fields. It is a Company town in all but name: inns, warehouses, stockyards, toll-houses, the Weighhouse, and the longest market on the Rim, three miles of stalls along the road where Fatlands meat and bread are sold to every land and the money of every land comes in. It is loud, crowded, mercenary and cheerful. It smells of woodsmoke, sausage, horse and hot fat, and from the east, dust. It is the place where most travellers first taste Fatlands bread, and the place where a great many first stop being able to leave.
+
+The market is open every day but Tablenight. Twice a month, on the full Plate and on the licked-clean Plate, it is a **Moot-day**, and the stalls double: the drovers bring the herds in from the south, the Oathen paper-brokers come down from Mumchance with their spyglasses, the Vigil glass-sellers arrive red-eyed off the plateau road, and the population of the town triples between dawn and noon.
+
+### The Rows
+
+- **The Weighhouse and the Gate.** At the eastern gate stands the Company's toll-house and, beside it, a public scale on a gibbet-frame, where **Toll-Reeve Bastable Crumb** weighs every foreigner who enters and every foreigner who leaves, and chalks the difference on a board outside. It is always a gain.
+- **Gravy Row.** The first half-mile: cookshops, sausage-stalls, roast-pits, brawn-sellers and Mardy Haunch's stall, the widest on the Rim. Smoke hangs at head height. The cobbles are slick with drip-fat and the dogs are enormous.
+- **The Bakers' Mile.** Toothed bread, clatter-cake for Vigil buyers, kelp-bread for the west, Unfed ration-loaves baked of Rim flour for the Crumb-Runners, who buy at the far end and are not served at the near one.
+- **Foreign Row.** Every land's stalls in a long jostling line: Seamers' booths with fingers on cork boards, Brinehollow rope and buckets, Vigil lenses and pins, Cradlewrack wool and knocker's rings, Oathen felt and bits. Arms-men like Abner Wedge keep the middle of it.
+- **The Paper Bench.** A long table under an awning where the Oathen brokers sit in silence, buying and selling sworn notes by slate and nod.
+- **Cure-Sellers' Lane.** A crooked side street of booths selling "safe" food, cures, charms and relics to frightened foreigners. Almost everything here is false. The rest is worse.
+- **The Stockyards.** A mile of pens at the western end, where Sal Trotter's herds and every other drover's come in. The beasts are walked through a stone race and stamped. Some of the herds sing.
+- **Behind the Stockyards.** After Last Bell, a second market opens in the yards. Its stock stands in the pens. See The Trade in People.
+
+### The Bells of the Moot
+
+The Company rings the Moot by bells from the Weighhouse tower. **First Bell**, at dawn, opens the gate and the scale. **Grace Bell**, at noon, stops every stall for the space of the grace: three miles of people turn toward the nearest stranger and say "Lack keep away," and then everyone eats, because this is the Fatlands, and the Feasting Laws apply even to foreigners. **Weighing Bell** in mid-afternoon is when the drovers' herds are weighed at the race. **Last Bell**, at dusk, closes the lawful market. Any stall still trading after Last Bell is either a cookshop or behind the stockyards.
+
+[pull] HOT LOAF FREE AT THE DOOR. WAGERS TAKEN. | — chalked by the door of the Full Measure, Gristmoot
+
+[quick] Bastable Crumb, Toll-Reeve of Gristmoot — Threat 3 · Flesh 13 · Guard 11 · Attack +3 (sword 4, Parrying) · Armor 1 · Dread 0 · Haggle 4; weighs every stranger twice and has never once posted a loss
+
+#### On the Next Stall
+
+When the Guests wander the Moot, roll a d12 for what they pass, or use it for any great Rim market.
+
+| d12 | The stall | The patter | The catch |
+| 1 | A Fatlands pie-man | "Pies, pies, pies with a face on the crust, and inside, well, ask the crust!" | The faces are pressed from a mould. One mould is newer than the others and is of a man who was weighed in at the gate last week. |
+| 2 | A Fogmouth tinker with a grey left hand | "Mend your pots, mend your locks, mend your mother, reasonable." | The hand is his Kept father's, sewn on at the wrist in Lastgate. South of the Drop it should have finished. It has not. It does the fine work, and lately it does it at night, on its own. |
+| 3 | A Vigil pin-seller | "Pins! Pins! Stay awake, stay alive, stay away from beds!" | She has been awake nine days. She sees the customers' faces as someone else's. She is sure it is the customers who are wrong. |
+| 4 | A Brinehollow rope-wife | "Proved hemp, ten fathoms, knot-tied free, and I'll tie you to your sweetheart for a crumb." | Her own rope was cut in the night two years ago. She sells to everyone heading west. |
+| 5 | A Cradlewrack wool-pedlar | (knocks on the counter) "Red wool, warm wool, wool that grew in a night." | Some of the fleeces have hands sewn into the lining by the shearers, who could not bear to throw them away. |
+| 6 | An Oathen bit-seller | (says nothing; points to a slate: CHILDREN'S, LEATHER, 4 L. IRON, 25. ASK ABOUT SILVER.) | One silver bit on the back of the board is dented with tooth-marks from the inside. |
+| 7 | A cure-seller | "Safe food! Sworn safe! Not a crumb of the god in it, on my mother's bones!" | His mother's bones are in the stew. He is, technically, not lying. |
+| 8 | A Seamer's booth | "Thread, wire, lacquer, fingers!" | The boy who cries it was sold to the Seamer for a debt, and his voice was stitched wrong on purpose so he cannot be understood when he asks people for help. |
+| 9 | A drover's boy with a single beast on a rope | "Good beast, good milk, walks itself home." | It walks itself home at night on two legs, to a village in Low Tilth, and stands outside a cottage looking at the window. |
+| 10 | A Purgation pedlar | "Bring it up, brothers, bring it up! What goes down can come up!" | Some of what comes up at his stall is not food, and he has begun to keep it in a jar. |
+| 11 | A Crumb-Runner's handcart at the far end | (nothing; an Unfed boy stands by it and declines to sell to anyone who asks only once) | He is buying, not selling: chits for grain, at three lacks, and he weeps while he does it. |
+| 12 | An empty stall with a clean white cloth on the counter | (no patter; a smell of fresh bread) | Nobody rents it. Nobody remembers it being put up. The Moot-reeve's men walk round it and do not look. |
+
+### Market Day
+
+[fiction]
+From the daybook of Ysolde Brane, lens-grinder of Lampwrights' Row in the Vigil, who went down to Gristmoot in Plenty 640 to sell spectacles, for a week. The book was found in the lining of a coat sold at the Gristmoot rag-stall in Carving 641. The hand changes toward the end.
+**First Bell.** They weigh you at the gate. I did not know. There is a scale on a frame like a gallows and a Company man with a face like a ham and a beautiful clean ledger, and you stand on the plate in front of everybody, and he writes you down. Eight stone four. He said it to the street. A great woman with a sausage-stall laughed and said, "Not for long, my love," and everyone near her laughed too, and it was kind laughter, the kindest I have heard in my life, and I wanted to put a needle through my hand. I did. It helped.
+**Before Grace.** At the inn they gave me a loaf at the door. Hot. Free. Everyone watched me hold it. I did not eat it. I am writing this with it beside me on the bench and it is still warm, and it has been an hour. On the Lid nothing is warm unless it is burning. My nudger is a Gristmoot girl hired for the week at two lacks a day; she does not understand the work. She keeps asking why I don't just have a nap. She says it with such love. I have told her the rule. She said, "But that's up there."
+**Grace Bell.** Three miles of people stopped all at once and turned to face the nearest stranger and said the grace. The stranger nearest me was a tinker from the north with a dead man's hand sewn on at his wrist, grey to the elbow, with flies on it, and as he said "Lack keep away" to me the hand made the sign of the grace by itself, a little after him, like an echo. Then everyone ate. A Bailiff with a ladle came down the Row checking that the foreigners were eating. I ate the loaf. It had a tooth in it. I kept the tooth.
+**Afternoon.** Sold eleven pairs. Fatlanders do not need spectacles; they buy them to be polite, and wear them pushed up on their foreheads. The pie-man next to me sells pies with faces on the crust, and I have been watching the faces all afternoon. Faces are my trade; I grind glass so people can see them. One of the moulds is new. The face on it is the man who was weighed in ahead of me this morning, a cloth-merchant from Tacit, very thin, who said nothing on the scale at all. I asked the pie-man where the new mould came from. He said a man sells him moulds, behind the stockyards, and winked, and gave me a pie.
+**Weighing Bell.** The herds came in. The drovers walk them through a stone race to be stamped, and some of the herds were singing, low, in thirds, the way the Bedded sing on the Slope, and the drovers do not look round. One beast stopped in the race and looked at me through my own spectacles. It was wearing them. Someone had sold it a pair. I have not been awake long enough for this. I have been awake exactly long enough for this. On the Lid we would enter it in the record.
+**Last Bell.** My nudger went home at dusk. She kissed my forehead. I am in a room with a bed in it. There is a bed in every room in Gristmoot; there is nothing else to sit on. I am sitting on the floor with my back against the studded side of my own coat and the pin through my hand and the bed is there in the corner of my eye like a lake. I know it is safe. Here, it is safe. Sleep is safe in the Fatlands; you lie down and you get up. I know that the way you know the sea is wet. I have not slept in nineteen years.
+**Later.** There are sounds from behind the stockyards. An auction. I can hear the numbers. They are high numbers for cattle. One lot went for four hundred lacks and the crowd clapped, and then a voice I knew, the thin cloth-merchant from Tacit, said, very clearly, in the conditional, "If it were permitted, I would decline," and nobody laughed, and the auctioneer said, "Not here, sir. Not here," and the next number was called.
+**Later.** I ate the pie.
+**Later.** The bed.
+**The fourth day.** Twelve stone one. The great woman at the sausage-stall clapped. I slept. I slept from Last Bell to First Bell and nothing looked at me and I did not go anywhere, and when I woke it was light, real light, from a window, not a lamp, and I wept for an hour, and the girl came in and held me and said there, there, my love, you see, and gave me a hot loaf. I have sold no spectacles since Moot-day. I have not opened the case.
+**A week.** The wager at the inn door was won by the house. I do not mind. Everyone here is so kind. A man with beautiful teeth bought me supper last night; he asked three times, which I gather is a joke here. He asked me whether I knew anyone, back on the Lid, who had been born able to sleep. I said, as it happens, yes. He wrote it down.
+**Carving.** fourteen stone. i do not need spectacles. faces are all the same. the pie-man says I have a good face for a mould
+[/fiction]
+
+[pull] You look heavy. You look heavy. You look heavy, dear. Have a bun. | — a Gristmoot greeting, overheard eleven times in one walk down Gravy Row
