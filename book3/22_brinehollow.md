@@ -714,3 +714,295 @@ The office that measures the falling sea. Its figures are a state secret. Its as
 [box: Powers from Elsewhere]
 The **Cutwrights' College** keeps a house on Mile Two, where its genealogists track the Lung-lines and have quietly begun tracking the Tenanted, whose Cut seems to rise after their return. The **Purgation** has a small, vicious cell on the Mile that believes the sea can be wrung out of the blood (see Abel Drainer). The **Second Table** has members in the Admiralty's highest ranks, and it has noticed that the Trench is where a god's body might be going. The **Rim Road Company** has sent an auditor, Reeve Calder Stokes, and he has already begun to cough. The **Reckoners** have a list of every Lung-line cadet who has stopped needing to bail, and are watching the Headland with professional interest.
 [/box]
+
+## Brinehollow Now
+
+> It isn't coming back. It's waiting.
+>> — a pier-hauler of the Raw Mile, looking west from Nineteen
+
+The Salt Assay has done the arithmetic the Admiralty forbade: the volume of sea lost each year matches the number of Tenanted. The ocean is moving into the people, a bucket at a time. Every Called person who comes back brings a measure of the deep with them, folded up inside, and the sea is that much lower. The Tenanted now sit on every court in the land. A scavenger has found something on the Uncovered that should not be under any sea. And a shipwright is building a vessel to follow the water down.
+
+The Callings are accelerating with the fall. Last Carving there were three nights on which more than five hundred walked. The Netwatch cannot cover the Mile. Dry Jonah's bottled brine has turned up in the Vigil's rouse, and sleepless strangers four hundred miles inland have started walking west. On the Uncovered, salvagers report a tall figure, seen at a distance at dusk, setting a table on the mud with great care, and walking on. And in the bell tower on the Headland, Finn Undertow counts the days until the body's tide, drifting a little every week, brings every chest on the coast to fill at the same moment. He has told nobody the number. He has begun to feel it in his own chest as a slow swell, like a breath being drawn by something very large, somewhere below.
+
+[fiction]
+From the second ledger of Brenna Kelp, kept in cipher, found in a bail-bucket on Mile Ten. Deciphered by the Wreckwives.
+Volume of fall, Carving 640 to Carving 641, from the Nineteenth gauge: 1.9 cubic miles.
+Tenanted returned in the same year, by the Wreckwives' count: 2,214.
+Mean bailing of a Tenanted adult, dawn and dusk, measured: 4.1 gallons.
+This is far too little. The fall is not in what they bail. It is in what they hold. A Tenanted body is heavier than its size by a factor I have measured at the Sounding Hall gauge, standing them in the pool. Their displacement is wrong. They displace as if they were very much larger than they are.
+Holding per Tenanted, then, by the fall: 0.00086 cubic miles. That is a lake. Each of them is carrying a lake. Folded up. Inside.
+The figure is correct. I have checked it eleven times. I do not know where they are keeping it.
+[/fiction]
+
+### Adventure Hooks
+
+- **The Rope-Cutter of Mile Fourteen.** Nine ropes cut in nine nights on the same street, with no knife ever found. The Netwatch suspects a murderer. The families suspect each other. The truth is that a Tenanted grandmother has been walking the street at night, doing what she believes is a kindness, and the Drowned Bench has already ruled it lawful. She is not alone: someone small has been carrying a second blade.
+- **The Follow's Pilot.** Dagna Hull needs someone to lead the iron vessel's trial descent at the Trench edge, and someone else to find out which of her nine hundred volunteers is sabotaging it, and why the saboteur weeps.
+- **Three Copies.** Brenna Kelp has hidden three copies of her finding. The Admiralty, the Second Table, and the Wreckwives all want them. One copy is in the Hanging Abbey with Father Ebb; one is in a bail-bucket that has passed through four sweethearts' hands; and one has been read aloud on a procession night, to the Deepening, who wept with joy.
+- **Eight Chairs.** Cray Lobbett will take the PCs to his table, for a price. Getting there is three days on the far Uncovered. Getting back is less certain. On the table, someone has laid a place.
+- **The Last of Cask Lane.** Old Fen Lowry has escaped the Chapel Reach almshouse and gone home to Cask Lane to call the count. The six Tenanted who live there have taken him in, and are being very kind to him, and he has stopped eating. His granddaughter in Saltwick hires the PCs to bring him east. He will not come. He says that this morning, for the first time, Abner Corran's voice answered him through the wall, and it was the old voice, the real one, and it asked him to stay.
+- **The Second Face of Mile Eight.** A Gilt Mile broker hires the PCs to prove his wife is Tenanted, so that their marriage can be dissolved and her dowry kept. She was never Called. Everyone in the house except the broker now believes she was. The servants have begun to sleep with knives. The wife has begun to ask the PCs, privately, whether they think she came back.
+- **Steep's Tables.** A Picker of the Underpier has found, in a drowned Purser's chest, a waterlogged book of tide-tables for the year 0, with a hanged clerk's name on the flyleaf. The Admiralty's Deck-Wardens want it burned. The Deepening wants it read aloud at Gullcry. The House of Vasht wants it very badly indeed, and will not say why.
+
+| d10 | Rumor on the Mile |
+| 1 | The Trench is a drain, and the sea is draining into the Fast. (False, but the Fast's wells are rising.) |
+| 2 | The High Admiral has had the Steadfast's keel sawed through, so it can never float. (True; he cannot bear the idea of leaving.) |
+| 3 | A Tenanted can be told by holding a mirror to their mouth at dawn: no mist. (False; there is mist, and it is salt.) |
+| 4 | Prince Aurel has stopped surfacing at all. (True for the last nine days.) |
+| 5 | The Deepening are paid by the Admiralty to thin the Mile's slums. (False, but a Commodore has suggested it.) |
+| 6 | Every Tenanted judge voted the same way in every case this year. (True, to the case.) |
+| 7 | If you cut a piece of rope from someone who was Called and burn it, you'll dream where they went. (True. Don't.) |
+| 8 | Old Wet Tom is the god's own beggar, and whoever gives him a coin will never be Called. (Half-true; they will be Called to Tom.) |
+| 9 | The Vigil pays a platter a bottle for Brinehollow brine. (True; Dry Jonah charges three.) |
+| 10 | The skull of Dromm has been found walking. (Unknown.) |
+
+[pagebreak]
+
+## The People of Brinehollow
+
+#### High Admiral Corvin Sund
+
+Commander of four hundred warships standing on dry ground. Sixty-eight, square, grey-whiskered, in a blue dress coat kept so wet with brine that it never quite dries and smells of a harbor at low water. His voice is the parade-ground bark of a man who sailed as a boy, the last year the fleet floated, and has spent fifty years waiting to sail again. He inspects the ships weekly, has the hulls scraped of barnacles that are not there, and will hang any officer who says the word "stranded." He has hanged four, and stood at the foot of the *Steadfast*'s mast each time and watched the boots stop kicking, and gone to his cabin afterward and bailed for an hour, alone, and come out with his eyes red. He wants the sea back, and failing that he wants no one to admit it is gone. He fears the Salt Assay's numbers, and more than that he fears the morning he will stand on the *Steadfast*'s deck and feel the pull himself. **Secret:** he has had the flagship's keel sawn half through in the night, so that it can never float away without him. PCs meet him at an inspection, or in the dock when he wants a leaker found.
+
+[stat: Corvin Sund — High Admiral of the Tidal Admiralty]
+Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 2 · Tongue 4 · Caul 3
+Cut & Regrowth: Cut 3 (Lung-line, cadet) · Regrowth 5 (the Appetite) · Hunger 4
+Skills: Intimidate 4, Resolve 4, Blades 3, Clause 3, Endure 2, Wayfaring 1
+Flesh 13 · Guard 15 · Armor 2 · Fray 6
+Attacks: dress sword +6 (4)
+Gifts: Deep Breath; Hold the Line (once per scene, every Admiralty sailor in earshot gains +2 to resist fear or the pull)
+Wants: To Keep Under (secrets, numbers, his own pull)
+Dread: 0
+Secret: the sawn keel; he stands at the west rail every night at dusk with his hands on the wood.
+[/stat]
+
+#### Harbormistress Kessa Drowle
+
+She builds Lowmark's mile of new pier each year: fifty-two, tar to the elbows, a carpenter's pencil behind each ear, a cough she bails into the sea of sawdust on the work-barges. She speaks in measurements. She has calculated the year the timber runs out and the year the sea drops off the shelf entirely. They are the same year, nine years from now, and she has told no one but the PCs if they buy her enough rum. She wants to finish the Chase with dignity. She fears the twentieth mile: the survey shows the seabed beyond it falls away into the Trench's slope, and the pilings will have nothing to stand on. **Secret:** she has begun ordering pilings longer than any sea could need, and she does not know why. Someone is driving them, at night, in a straight line west. PCs meet her when she hires guards for the timber barges, which the Uncovered's salvagers raid.
+
+[quick] Kessa Drowle — Threat 4 (Reckoning, Craft) · Flesh 12 · Guard 13 · Attack +4 (mallet 3) · Armor 1 · Dread 0
+
+#### Justice Maren Oake of the Drowned Bench
+
+Called at thirty, returned after forty days. She is fifty now, broad and grey-skinned, with black eyes and hands that never move during a hearing. The air around her is cold and close and smells of the deep, and those who stand before her feel their ears pop. She speaks in two tones at once, and the lower one sometimes finishes first. She has never given an unjust verdict, and she has sentenced more people to loosing than any judge in history, always gently. She wants justice, in a sense larger than the Admiralty's. **Secret:** her husband Tam has visited her chambers every week for twenty years, and she has never once told him that the woman he married is still in there, folded small, awake, and listening. Some nights, in the verdict-book, a single word appears in the margin in a cramped hand that is not the Bench's antique script: *wrong*. PCs meet her standing ankle-deep in her court.
+
+[stat: Maren Oake — Justice of the Drowned Bench]
+Attributes: Hand 2 · Gut 4 · Lung 2 · Eye 4 · Tongue 3 · Caul 5
+Cut & Regrowth: Cut 2, rising · Regrowth 11 (the Brink, Tenanted) · Hunger 3
+Skills: Clause 5, Resolve 5, Instinct 4, Search 3, Godsign 3, Endure 2, Brawl 2
+Flesh 14 · Guard 14 · Armor 1 · Fray 0
+Attacks: The Weight +8 (Caul + Godsign; target makes GUT + Endure vs Grim or is pinned and takes 3 per round)
+Gifts: Unbribable (cannot be Persuaded or Deceived by anyone who lies within her hearing; she knows); Voice of the Deep; Pressure
+Wants: To Keep Under; The Water
+Dread: 3 (to hear the lower voice answer a question nobody asked)
+Secret: Maren is still present. The Passenger in her is not cruel. It is simply sure.
+[/stat]
+
+#### Prince Aurel Vasht
+
+Heir of the Lung-lines, twenty-two, unable to breathe air for more than an hour. He rules from a glass tank twelve feet tall in the Hall of Tanks, floating naked but for a wrap of silk, grey-skinned, beautiful, with huge black eyes and hair that drifts like weed. His fingers are webbed to the second knuckle, as all the Vasht are. He has learned to read lips through eight inches of water and replies by writing on a slate he presses to the glass. He is curious, lonely, and clever, and he is the only Vasht in a century to ask what the water wants. **Secret:** for nine days he has not surfaced at all, and he has begun to hear his grandmother calling from the cellars, and to answer, knocking on the glass in her rhythm. PCs meet him when he summons outsiders, privately, who might tell him the truth about the sea.
+
+[stat: Aurel Vasht — Prince of the Lung-lines]
+Attributes: Hand 2 · Gut 1 · Lung 5 · Eye 4 · Tongue 3 · Caul 3
+Cut & Regrowth: Cut 5 (Lung-line) · Regrowth 8 (the Course) · Hunger 7
+Skills: Search 4, Lore 3, Athletics 3, Godsign 3, Persuade 2, Endure 1
+Flesh 10 · Guard 18 in water, 12 in air · Armor 1 · Fray 5
+Attacks: none worth the name
+Gifts: Fathom-Body; Tide-Sight; Lip-Reading through water (Search +3 to read speech he can see)
+Wants: The Water; The West
+Dread: 2 (to see his chest not move)
+Secret: he is the Seating his grandmother is waiting for.
+[/stat]
+
+[pull] Is it true that in the Fatlands the sea is only a story? Write it on the glass. Write slowly. I want to see the shape of the word. | — Prince Aurel Vasht, on his slate, to a visitor
+
+#### Lady Ondine Vasht, the Dowager Below
+
+The prince's grandmother, far into the Course, and far past it. She lives in the flooded cellars of Fathomhouse and has not been seen whole in years. The cellars have had to be extended twice. What visitors see, holding a lantern at the top of the fourth stair, is a black surface that breathes, and parts of her: a hand on the bottom step, grey, as long as a man's arm; an eye beneath the water, wide as a plate; the shape of a vast back turning. Her voice comes up through the stone of the whole palace, slow and courteous. She still signs the family's letters. She wants her grandson to come down. **Secret:** she is not Tenanted; she is Seating, slowly, and the House of Vasht has been feeding her the retired-to-depth to keep her from going west and taking the palace with her. Every Lowering is a meal. PCs meet her only if summoned below, which the household treats as an honor and a funeral.
+
+[stat: Ondine Vasht — the Dowager Below]
+Attributes: Hand 4 · Gut 7 · Lung 3 · Eye 3 · Tongue 4 · Caul 7
+Cut & Regrowth: Cut 5 · Regrowth 11 (the Brink, approaching the Seating) · Hunger 9
+Skills: Godsign 6, Endure 5, Intimidate 5, Brawl 4, Instinct 4
+Flesh 20 · Guard 17 · Armor 2 · Fray —
+Attacks: crushing grasp +8 (5, Pressure: on a Helping the target begins drowning on dry land)
+Gifts: The Weight; Voice of the Deep (all within earshot make a Calling roll at Grim); Pressure Day (once a night, she makes the palace's air thicken: all within suffer −2 to every roll, and ears bleed)
+Wants: To Keep Under; the boy
+Dread: 4 (to see her whole)
+Secret: when she Seats, the Headland goes with her.
+[/stat]
+
+#### Father Ebb
+
+Abbot of the Anchorites, chained to the same rock for fifty-one years. Seventy-eight, a skeleton in a canvas habit, salt-crusted, his iron collar grown into the flesh of his neck so that the skin has healed over the rim like bark over a nail. His hands are calloused from gripping the chain. He has felt the Calling every night of those fifty-one years. His voice is soft and rough and he laughs often, at himself. He says the chain is not what holds him, and will not say what does. He wants his monks to endure; he wants, more quietly, to know whether enduring is worth it. **Secret:** the chain has been rusted through for twelve years, and he knows it. What holds him is a promise made to a girl who was Called in 589, sworn on her rope. PCs meet him by climbing to his ledge, which takes a day.
+
+[stat: Father Ebb — Abbot of the Hanging Abbey]
+Attributes: Hand 2 · Gut 3 · Lung 1 · Eye 3 · Tongue 3 · Caul 5
+Cut & Regrowth: Cut 2 · Regrowth 9 (the Course) · Hunger 2
+Skills: Resolve 6, Rites 4, Endure 4, Lore 3, Instinct 3
+Flesh 15 · Guard 11 · Armor 0 · Fray 7
+Attacks: none
+Gifts: Fathom-Body; The Refusal (once a night, he may make the Calling roll in place of anyone within sight of him)
+Wants: The West, every night, unanswered
+Dread: 1 (to see the collar's healed flesh)
+Secret: the rusted chain, and the girl's name, which is Nerys Colm's mother's.
+[/stat]
+
+#### Tolly Brack, the Bailer Boy
+
+Eleven years old, small, freckled under the salt-grime, with strong thin hands and a voice cracked from shouting "Bail-o!" up the Mile at dawn. He goes door to door bailing those too old or weak to cough for themselves, holding them over his knee and pounding their backs, for a crumb a time, singing his mother's bailing song under his breath. He knows from the color of the water who will be Called next. Blue means soon. He does not tell them. He tells their families, if they pay, and has started telling them for free. He wants his mother, who was Called when he was six, after a whole winter of begging him to cut her loose; he would not, and she went anyway. He fears that he is starting to see blue in his own bucket. He keeps a small curved cannery knife in his boot. PCs meet him at dawn, at the door of anyone they are visiting.
+
+[quick] Tolly Brack — Threat 3 (Instinct, Filch) · Flesh 9 · Guard 13 · Attack +2 (fist 1) · Armor 0 · Dread 0
+
+#### Sennet Gull, the Wreckwife
+
+Her husband Davey walked into the sea and came back kinder. Thirty-four, sharp-faced, red-knuckled, smelling of the mussel-cannery where she works. She keeps him in the cistern under the house, brings him his dinner, sits on the edge and talks to him about her day while he floats on his back with his black eyes open, listening, and says the right things. The old Davey drank and hit. This one does not. She has started to prefer him. That is what frightens her. **Secret:** she has begun to notice that she can no longer remember the old Davey's voice, and she has wondered, in the dark, whether the thing in the cistern took that too. PCs meet her at a Wreckwives' table, asking for advice she does not want.
+
+#### Dr. Isolde Reave
+
+A lung surgeon of the Headland, forty-five, thin, bespectacled, in a leather apron stiff with brine and old blood. Her rooms smell of carbolic and low tide. She opened a drowned chest at high tide and found the water in it had a current: it moved in the lungs in a slow circle, westward. In the next one she found a shell, alive, of no known species, pink and whorled, which she keeps in a jar and which has grown. She wants to understand. She fears that she does. **Secret:** she has started opening chests that are not yet drowned, with the patients' consent and sometimes without it, and the shells are in the living too. PCs meet her when they need a Course chest explained, or a body procured.
+
+[quick] Isolde Reave — Threat 4 (Stitching, Reckoning) · Flesh 10 · Guard 12 · Attack +5 (scalpel 2) · Armor 0 · Dread 1
+
+#### Hask Tarn, the Pilot
+
+He guides salvage parties across the Uncovered. Sixty, lean, weathered, with a sounding-lead on a cord around his neck that he swings as he walks. He used to pilot ships over the same ground and navigates by remembered depth: "Six fathom here, sand bottom; mind, it shelves." He is never lost. He will not go near the places where he once lost the bottom, where the lead ran out of line, because they are still there, and they are still bottomless, and he has heard them breathe. He wants one more season's pay. He fears the deep places, and the day his memory of depth fails. **Secret:** he knows the way to the Stone Table; he steered over it in 581, and the lead came up warm. PCs hire him, at six lacks a day.
+
+[quick] Hask Tarn — Threat 4 (Wayfaring, Search) · Flesh 12 · Guard 14 · Attack +4 (gutting knife 2) · Armor 1 · Dread 0
+
+#### Nerys Colm, the Half-Called
+
+She walked into the surf up to her chin and then, uniquely, turned around. Twenty-eight now, wild-haired, salt-burned, with one eye that has gone wholly black and one still blue. She lives in a sealed room in the Netwatch barracks, by her own request, with wax in the keyhole. She has heard the invitation in full and can repeat it. Nobody who has listened to her has stayed ashore. She wants someone to tell her what made her turn. She fears that she knows: she heard the eighth voice in the chorus, under the others, and it was hungry. **Secret:** she has written the invitation down, once, in a letter she meant to burn. It is missing. PCs meet her through Lieutenant Reef, behind a door, through a speaking-tube she will not use.
+
+[pull] Don't put your ear to the tube. Don't. I'll knock if I need you. I'll knock twice. If it's three times, that isn't me. | — Nerys Colm, through the door above the net-loft
+
+#### Captain Jonah Skerry, called Dry Jonah
+
+A smuggler who bottles what Brinehollowers cough up and sells it inland as tonic. Fifty, fat, cheerful, perfectly dry: an outlander from the Fatlands borders who never bails and wears a waist-rope as a joke. His brig the *Thirsty Bess* has been aground since he bought her; he runs the trade by wagon along the Rim Road. He buys bail-water by the bucket in the Mile slums, half a crumb a pint, and sells it in green glass in the Vigil for a platter a bottle. It sells well there. He has never asked what his customers start to dream about. **Secret:** he has started to keep a bottle of his own product by his bed, and drinks it when he cannot sleep. Three weeks ago he coughed at dawn, and a cupful of clear cold water came up into his hand. PCs meet him buying, selling, or hiring guards for a wagon going east.
+
+[quick] Dry Jonah Skerry — Threat 4 (Haggle, Deceive) · Flesh 12 · Guard 12 · Attack +4 (crossbow 4) · Armor 1 · Dread 0
+
+#### Orrin Wake and Passenger
+
+A fisherman, Tenanted by something that is, for once, willing to talk. Orrin is thirty-nine, burly, slow-spoken, with gentle black eyes and a left arm that hangs a little loose. The Passenger is courteous, very old, and negotiating with Orrin for the use of his left arm. They argue in the same mouth, in two tones, in the corner of the Lantern tavern on Mile Nine. Orrin wants his life back, or enough of it. The Passenger wants a hand to do something with. Neither will say what. They have drawn up terms on a slate. **Secret:** the Passenger has explained to Orrin what the sea is for, and why it is going, and Orrin has begun to agree. PCs meet them when the Passenger asks a stranger to witness the contract.
+
+[stat: Orrin Wake and Passenger — the Talking Tenant]
+Attributes: Hand 3 · Gut 4 · Lung 2 · Eye 2 · Tongue 2 (Orrin) / 5 (Passenger) · Caul 4
+Cut & Regrowth: Cut 2 · Regrowth 10 (the Brink, Tenanted) · Hunger 5
+Skills: Godsign 4, Clause 4 (Passenger), Labor 3, Wayfaring 3, Endure 3, Brawl 2
+Flesh 15 · Guard 14 · Armor 1 · Fray 4 (Orrin) / — (Passenger)
+Attacks: fist +5 (1); the left arm, when the Passenger has it, +8 (4, Pressure)
+Gifts: Voice of the Deep; The Weight; Two Minds (cannot be surprised; each mind may act once per round, but only one may use the left arm)
+Wants: The Water (Orrin resists; the Passenger does not)
+Dread: 3 (to hear them disagree)
+Secret: the left arm is for opening something at the Stone Table.
+[/stat]
+
+#### Brenna Kelp, the Salt Assayer
+
+Keeper of the falling number. Forty-one, ink-stained, myopic, with a gauging-chain worn as a belt and a habit of muttering figures under her breath. She found where the sea is going by counting buckets: the national bail-water tally, the Callings, the Tenanted, the volume of the fall. They match. The Admiralty has made her finding illegal. She has hidden three copies and herself, moving between Wreckwives' safe houses on the Mile. She wants the truth published before the sea is gone. She fears that the Tenanted already know her number, and are counting down to something. **Secret:** her own bail-water has gone blue. She chains herself to every bed she sleeps in, and every morning the padlock is still locked, and every morning her ankles are wet. PCs meet her when a Wreckwife asks them to escort a "cousin" across the Mile at night.
+
+[quick] Brenna Kelp — Threat 4 (Reckoning, Stealth) · Flesh 10 · Guard 12 · Attack +2 (fist 1) · Armor 0 · Dread 0
+
+#### Mother Limpet
+
+Prophet of the Deepening. Eighty-four, tiny, bent, in a dress of white shell-beads that clicks when she walks, with a voice like a warm bath. She smells of seaweed and lamp-oil. Her eyes are the Course's wide black, kind and wet. She has baptized two thousand by walking them in at night, holding each hand to the water's edge, singing. She says she will follow when the last one is safely under. She wants everyone home. She fears nothing, or says so. **Secret:** she cannot hear the invitation. She never could. She has been leading two thousand people toward a voice she has only ever been told about, and she does not know whether she is a saint or the thing that comes before one. PCs meet her on a procession night, holding out a lantern.
+
+[stat: Mother Limpet — Mother of the Water]
+Attributes: Hand 1 · Gut 2 · Lung 1 · Eye 3 · Tongue 5 · Caul 4
+Cut & Regrowth: Cut 2 · Regrowth 9 (the Course) · Hunger 3
+Skills: Persuade 5, Rites 4, Godsign 3, Instinct 3, Endure 1
+Flesh 11 · Guard 11 · Armor 0 · Fray 2
+Attacks: none
+Gifts: Fathom-Body; The Low Song (Persuade + Rites; listeners at the Appetite or beyond make a Calling roll at Hard, even awake)
+Wants: The West, which she has never truly felt
+Dread: 2 (to watch a procession disappear lantern by lantern)
+Secret: she is deaf to the god; the Deepening rests on her faith in other people's.
+[/stat]
+
+#### Dagna Hull, the Shipwright
+
+She is building the *Follow*, a sealed iron vessel meant to chase the sea down into the Trench. Fifty-five, huge-shouldered, deafened by riveting, she shouts everything and smells of hot iron and pitch. The *Follow* lies in a slip at the end of Mile Nineteen, a riveted iron egg forty feet long with glass ports and an air-bladder. She has a waiting list of nine hundred volunteers. She wants to know where the water goes. She fears that the nine hundred do not want to know; they want to go. **Secret:** someone keeps loosening the *Follow*'s rivets, and she has found the marks of her own hammer on them. PCs meet her when she hires a crew.
+
+[quick] Dagna Hull — Threat 4 (Craft, Labor) · Flesh 14 · Guard 13 · Attack +5 (riveting hammer 3) · Armor 1 · Dread 0
+
+#### Cray Lobbett
+
+A scavenger on the far Uncovered, forty, lean as a dried eel, eyes red from salt wind, hands scarred by weed-knives. He found a stone table on the seabed, older than the Gorging, with eight chairs. Seven were pushed in. One was pulled out. On its seat was a fine dust like ground shell, and an impression, as if someone had just stood up. He has not been able to sell the location, or to stop going back. Each trip he finds the table cleaner. He wants to be rid of it. He fears that the next time the eighth chair will be pushed in, or that a ninth will be pulled out with his name scratched in the stone. **Secret:** on his last trip there was a cup on the table, full. PCs meet him in a Saltwick tavern, drunk, drawing eight squares on the wet bar.
+
+#### Old Wet Tom
+
+A beggar who has never been dry. Ageless, bearded, in rags heavy and black with water, wringing himself out on the Headland steps. It rains on him indoors: a soft private drizzle from nowhere that soaks his blanket and fills his begging bowl. Puddles follow him down corridors. Children say that if you look into one of them, it is much deeper than the floor, and that something down there looks back. He is gentle and simple and speaks of the sea as an old friend who owes him money. **Secret:** Tom is the oldest Tenanted in Brinehollow, Called in 118, and he has been waiting for his family to come for him for five hundred years. PCs meet him whenever the GM likes.
+
+[quick] Old Wet Tom — Threat 2 · Flesh 30 (does not seem to bleed) · Guard 10 · Attack — · Armor 0 · Dread 2 (to look into his puddle)
+
+#### Lieutenant Sable Reef of the Netwatch
+
+Thirty-six, tall, sinewed, her face scarred by the fingernails of the Called, who fight hard in their trance. She carries a boathook and a weighted net and walks the Mile at night with a lantern at her belt. She has pulled three hundred Called off the shore with hook and rope. Every one of them looked at her the same way: not frightened, not angry, but disappointed, as though she had interrupted something precious. She has begun to wonder what she is saving them from. **Secret:** she dreams every night that she is walking west, and that the three hundred are walking beside her, and that they are glad she came. PCs meet her when they are out on the Mile at night.
+
+[stat: Sable Reef — Lieutenant of the Netwatch]
+Attributes: Hand 4 · Gut 3 · Lung 3 · Eye 3 · Tongue 2 · Caul 3
+Cut & Regrowth: Cut 2 · Regrowth 3 (the Taste) · Hunger 2
+Skills: Blades 3, Brawl 3, Athletics 3, Wayfaring 3, Search 3, Endure 2
+Flesh 13 · Guard 16 · Armor 1 · Fray 6
+Attacks: boathook +7 (4, Hooking: on a Helping the target is pulled down); weighted net +7 (0, Grappled)
+Gifts: Deep Breath; Salt-Sense
+Wants: The West, newly
+Dread: 0
+Secret: she will be the next of her watch to go.
+[/stat]
+
+[quick] Netwatch Patroller — Threat 2 · Flesh 10 · Guard 13 · Attack +5 (boathook 4, Hooking) · Armor 1 · Dread 0
+[quick] One of the Called — Threat 3 (feels no pain, does not tire) · Flesh 12 · Guard 11 · Attack +4 (grapple 1, will not stop walking) · Armor 0 · Dread 3 if loved
+[quick] Tenanted Neighbor — Threat 3 (Instinct, Endure; cannot lie, cannot be bribed) · Flesh 14 · Guard 11 · Attack +4 (grip 2, The Weight) · Armor 1 · Dread 2, or 3 if once known
+[quick] Retired to Depth — Threat 5 (immovable; air thickens within ten paces: −2 to all rolls) · Flesh 30 · Guard 8 · Attack +7 (crushing embrace 5, Pressure) · Armor 3 · Dread 4
+
+#### Ilse Marl, Choir-Mistress of the Low Water
+
+Sixty, small, fierce, ink-blotted, wrapped in shawls on the Uncovered at the lowest tide of every month with a lantern, a lap-desk, and frozen fingers. At the lowest tide the Tenanted gather and sing: hundreds of them, in a ring on the mud, eyes closed, mouths open, in a music with no words and a beat like a slow heart. She alone writes it down, in a notation she invented. Laid end to end, forty years of her transcriptions make a nautical chart: soundings, currents, and a course leading west and down. **Secret:** the chart has a destination, and it is not the Trench. PCs meet her at the Low Water, where she asks them to hold her lantern.
+
+#### Finn Undertow, the Bellman
+
+He rings Lowmark's tide bell so the city knows when to bail. Forty-four, one-eyed, roped to the bell tower on the Headland, with forearms like hawsers. The tides in the body no longer match the tides of the sea, and he has to choose which to ring. For years he chose the sea. Now he rings the body, and the city coughs as one when he does. He feels the body's tide in his own chest, and in everyone's, as a single swell. **Secret:** the body tide is drifting too, toward a single moment in which every Brinehollower will fill at once, and he can count the days. PCs meet him if they climb the tower to ask why the bell rang early.
+
+#### Reeve Calder Stokes
+
+An auditor sent by the Rim Road Company to price Brinehollow's losses. Thirty-three, Oathen-trained, pale, precise, ledgers under one arm. He is an outsider with dry lungs. He has been here three months, and this morning he tasted salt. He wants to finish the audit and leave. He fears that he has been asked to price something that has no price. His Company contract, sworn before Jessamy Quill, binds him to deliver the audit in person in Tacit. **Secret:** the audit shows the Admiralty's tolls and Brenna Kelp's numbers point to the same thing, and the Company already knew. PCs meet him hiring them to escort him, which he notes in the ledger as "guides, drying."
+
+### New Characters
+
+#### Ottiline Hawse, the Ropewalker
+
+Mistress of the Ropewalk on Mile Three, a quarter-mile shed where anchoring ropes are spun, laid, and tarred. Fifty, hands black with tar, smelling of hemp and pine. Every rope in Lowmark passes through her shed, and she keeps a ledger of every rope cut. She can tell by the cut: the blade, the angle, the strength of the hand. She knows which ropes were cut by the sleeper, which by the beloved, and which by no hand at all. She tells the families nothing unless they ask twice. **Secret:** forty of the ropes she sold last year were cut by the same small blade, angled from below, and she knows the child who carries it.
+
+[pull] There's three columns in my book. Sleeper. Beloved. None. The third one's longest this year, and I'll tell you for nothing, a rope cut by none is the cleanest cut there is. | — Ottiline Hawse, at the Ropewalk
+
+#### Esk Penhallow, the Returned Who Wasn't
+
+Called at twenty-six, gone eight weeks, came back. He swears he is not Tenanted. He says he remembers the sea: cold, the weight, a voice asking, and then a sandbar and a long walk home, starved. His wife will not let him in. His mother has rung the Wreckwives. His children scream. He is a little heavier, a little slower, he cannot explain why his voice has dropped, and he does not believe it has. He sits on the steps of his own house on Mile Eight every night, roped to the railing by his own hand, and calls his children's names through the wall at the morning count. Nobody answers him. The Wreckwives have taken his case as a test: if a man can be loved back out of the sea, they would like to know it, and if he cannot, they would like to know that more. **Secret:** the GM decides. He may be telling the truth, and Brinehollow has no test.
+
+#### Commodore Lysander Vell
+
+A senior officer of the Admiralty, forty-eight, elegant, dry-lunged to an unusual degree for a Lung-line cadet, with a silver waist-rope braided from his ancestors' hair. Polished, witty, and a member of the Second Table. He keeps in his cabin aboard the propped *Gannet* a lead box holding a piece of Dromm's flesh, preserved since the Beaching, which still weeps cold water. He believes the god is reassembling at the bottom of the Trench, and intends the *Follow* to carry a carving party there. **Secret:** he has been eating a sliver of the flesh each Tablenight, and he no longer needs to bail.
+
+[quick] Commodore Lysander Vell — Threat 5 (Persuade, Clause) · Flesh 12 · Guard 15 · Attack +6 (rapier 4) · Armor 2 · Dread 0
+
+#### Abel Drainer, the Wringer
+
+Leader of the Purgation's Brinehollow cell, a gaunt, cheerful former fishmonger with a mangle in his cellar. He believes the sea can be wrung out of the blood: his followers hang their converts by the ankles for a day and a night, and beat the water out of them, and bail them until they bring up blood instead of brine. Some of them have stopped bailing afterward, and died of nothing, dry. He counts it as cure. His cell meets in a fish-cellar on Mile Fifteen that stinks of old blood and brine, and the Netwatch tolerates it because the Wringer's converts are never Called. PCs meet him when a friend joins, or when a family hires them to bring a son home from the mangle. **Secret:** he has been Called four times and dragged home by his own followers each time, and he has his followers hang him by the ankles every night to keep the water from rising.
+
+#### Cutwright Ansby Wrack
+
+The Cutwrights' College's genealogist in Lowmark, thirty-nine, soft-spoken, with ink-stained cuffs and a cough she pretends is a cold. Her ledgers show that a Tenanted person's descendants carry a higher Cut than their parents should have given them. The god is not just taking people back. It is breeding. She wants the College to stop the marriages, and to stop the Admiralty marrying Tenanted widows to Lung-line cadets, which it has been encouraging for a century. She fears what the Provost will do with her ledgers, and what the Bench will do with her. PCs meet her when she needs a Tenanted family's records stolen from a parish chest. **Secret:** she has proof that the House of Vasht's last three generations were fathered by Tenanted, and the prince's father was one.
+
+#### Gannet Shale, the Table-Seer
+
+A salvager girl of nineteen, quick and sunburned, who walked the far Uncovered alone for a week and saw, at dusk, a tall stooping figure laying a table on the mud. White cloth. Candles. A chair pulled out. It looked at her and waited, and she ran. She went back the next morning. The table was gone. The candles' wax was still on the mud, and the drips went west. She has told the story in every tavern from Saltwick to Mile Nineteen, and has been laughed at in all of them except one, where an old man in a Fast traveler's coat bought her a drink and asked, very carefully, whether she had been thanked. PCs meet her when she wants company for a return trip. **Secret:** she has been dreaming of the chair, and whoever laid it has started setting places in her dreams.
+
+#### Others on the Mile
+
+[quick] Dulse Ammery, the Kind Hand of Mile Fourteen, a Tenanted grandmother smelling of lavender over brine who walks the Lashings at night with a little whalebone-gripped blade and a ruling of the Bench folded in her shawl — Threat 4 (Stealth, Instinct) · Flesh 11 · Guard 14 · Attack +5 (little blade 2) · Armor 0 · Dread 3 (to find her at the bedside, and understand)
+[quick] Coralie Sculpin, bucket-wife of Mile Twelve, who grades bail-water by taste at dawn and buys it for Dry Jonah — Threat 3 (Haggle, Persuade) · Flesh 13 · Guard 14 · Attack +5 (bucket-hook 3) · Armor 1 · Dread 0
+[quick] Hollis Brine, Dagna Hull's apprentice, first name on the *Follow*'s volunteer wall, who once put his ear to Nerys Colm's door — Threat 3 (Craft, Athletics) · Flesh 13 · Guard 13 · Attack +4 (riveting hammer 3) · Armor 1 · Dread 0
+[quick] Fen Lowry, the last count-caller of Cask Lane, seventy-four, who will not stop calling the names — Threat 1 · Flesh 8 · Guard 9 · Attack — · Armor 0 · Dread 1
+[quick] Chaplain Absalom Dree of Fathomhouse, who has sung the Dusk Hymn at forty-one Lowerings and now sings it in his sleep, slower each night — Threat 3 (Rites, Resolve) · Flesh 10 · Guard 10 · Attack +1 (fist 1) · Armor 0 · Dread 0

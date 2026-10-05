@@ -684,6 +684,100 @@ The Uncut walk through life still attached to their mothers by yards of living c
 
 [pull] Cut it, the midwife says. Cut it and you're free. My whole life I've heard the same lie from the same knife. | — Sister Maeve Cord of the Uncut
 
-[quick] Loose Cord — Threat 3 · Flesh 10 · Guard 14 · Attack +6 (coil 1, Grapple 18; on two Helpings it fixes: the character is Corded and loses 1 Flesh a day, feels what the far end feels, and gains 1 Hunger a day if they carry any Cut) · Armor 1 · Dread 2 / 3 when it fixes · cutting a fixed cord is an Ruin-dealing wound to the bearer (Hand + Stitching 18 to do safely); following it to its far end is the only cure, and the far end is not always willing.
+[quick] Loose Cord — Threat 3 · Flesh 10 · Guard 14 · Attack +6 (coil 1, Grapple 18; on two Helpings it fixes: the character is Corded and loses 1 Flesh a day, feels what the far end feels, and gains 1 Hunger a day if they carry any Cut) · Armor 1 · Dread 2 / 3 when it fixes · cutting a fixed cord inflicts Ruin on the bearer (Hand + Stitching 18 to do safely); following it to its far end is the only cure, and the far end is not always willing.
+
+[pagebreak]
+
+## Oathen: What Was Said
+
+[sigil: oathen]
+
+In Oathen, the monsters are made of words and the people the words broke. Nearly every horror here can be avoided by saying nothing. The difficulty, as every Oathener knows, is that silence is also a kind of answer. The sound of an Oathen horror is the sound of a promise coming due: a crack like green wood, a wet pop of a joint, and then, usually, nothing, because the person it happened to was taught as a child not to scream in case the scream counted.
+
+[pull] Say less. | — the whole of Oathen's law, as taught to children
+
+### The Forsworn Mob
+
+The Breakdowns are full of people whose bodies keep the record of their sins: legs folded backwards for a fled duty, hands off at the wrist for a short measure, ribs opened outward like a book for a broken marriage vow, the heart visible within, beating in the canyon air under a film of dust. Most of them are no danger to anyone. A Forsworn mob is what happens when a Clausewright's ruling goes against the Breakdowns once too often. They come up the canyon stairs in a mass of crutches and wheeled boards and open chests, slow, loud (the only loud thing in Tacit), shouting plain words because they have nothing left to break, and they drag down whoever made the promise they blame. They know where every breakable promise is. They shout their victims' oaths back at them, verbatim, and wait to see what snaps. Afterward the Bench's clerks find the target on the stair, folded at whatever joint their own word chose, and the mob gone home, quiet again, satisfied.
+
+[quick] Forsworn Mob (30) — Threat 3 · Flesh 36 · Guard 11 · Attack +6 (crutches, clubs, bare broken hands 3) · Armor 0 · Dread 2 · Swarm; once a scene the mob may shout a character's own past promise back at them (Tongue + Clause 18 or the character must act at once as if renewing it).
+
+### The Living Echo
+
+An oath repeated is an oath renewed, and a canyon will repeat anything. Most echoes die. A living echo does not. It is a sworn phrase trapped in deep rock long enough to have learned to move. It travels down gorges after people, riding the stone, faint at first, a voice two bends behind; then nearer; then from the wall just beside one's ear, in the voice of whoever first swore it, often dead for centuries. The rock where it passes is warm, and fine sand trickles from the cracks in time with the syllables. Anyone who hears it whole is bound by it. Those who have been bound by an echo they cannot understand are the saddest of the Forsworn, broken for promises in the archaic Table-speech of 300 A.G., limping for a duty to a king nobody remembers. Halvar Stane hunts them. The one in Sworn Gorge is the oldest, and he has made out two words.
+
+[pull] It came round the bend in my father's voice and said the first half of his wedding vow. I put my hands over my ears and ran. I am fifty. My mother is dead. I do not know what I would have been married to. | — an Echo-Warden's report, Low Shale
+
+[stat: A Living Echo — the Words in the Rock]
+Attributes: Hand 0 · Gut 0 · Lung 7 · Eye 4 · Tongue 7 · Caul 6
+Cut & Regrowth: Cut 3 (Tongue-line, of whoever spoke it) · Regrowth 9 · Hunger 4
+Skills: Stealth 6, Instinct 5, Clause 6
+Flesh 20 (it has no body; damage is done by noise, see End) · Guard 18 · Armor special · Threat 6
+Attacks: Repetition +11 against Tongue + Clause (Binding; a character who fails is sworn to the echo's oath, which the GM writes, and breaks as an Oathener breaks if they ever act against it)
+Abilities: Rides Stone: it moves as fast as sound through rock; cannot cross open air or soft soil. Every Repeat: each round, it may Bind another listener. Characters who stop their ears entirely (wax, cloth, Hard Endure) are immune, and deaf.
+Dread: 2 / 4 when it speaks in a character's own voice
+End: Echo-Wardens kill echoes with silence: they collapse a gorge, pack its walls with felt, or shout a contradicting oath into it and take the break themselves. Blades and arrows do nothing. Loud counter-speech deals 1d6 damage per round to it and to the speaker.
+[/stat]
+
+### A Sayer Unbitted
+
+Lady Imre Dath says one sentence a year. She has begun to write her own. A Sayer is a Tongue-line in the last stage, and what they say is. A Sayer unbitted, without the gold, is the most dangerous creature on the Table that is still, technically, a person. Their mouths are usually a ruin from decades of the bit: lips scarred into a permanent shape, the corners split and healed and split again, teeth filed or missing, tongue thick and pale and furred from disuse, the breath sour as a closed room. They speak slowly, savouring it, because they have not been allowed to speak in years. Each word lands like a hammer on an anvil, with a sound in the bones, and the dust leaps from the floor. Things they describe become so. They are usually frightened. Fear makes them say what they are afraid of.
+
+[fiction]
+Clerk's minute of the First Sayer's valley, 598 A.G., written afterward by a survivor of the next valley over. "She said: I wish it would stop. The storm stopped. The river stopped, standing up, like a wall of glass. The birds stopped in the air. Her mother stopped in the doorway with her mouth open to call her in. They are all still there. We have built a wall so nobody can see."
+[/fiction]
+
+[stat: A Sayer Unbitted — What Is Said, Is]
+Attributes: Hand 1 · Gut 2 · Lung 2 · Eye 4 · Tongue 9 · Caul 6
+Cut & Regrowth: Cut 5 (Tongue-line) · Regrowth 12 (Seated in speech) · Hunger 7
+Skills: Clause 6, Persuade 4, Lore 4, Resolve 4
+Flesh 9 · Guard 12 · Armor 0 · Threat 6
+Attacks: none needed
+Abilities: Saying: once per round, the Sayer speaks one sentence. If it is about the world, it is true from that moment. If it is about a character, that character may roll Tongue + Clause 22 (Dire) to wriggle out on a technicality the Sayer did not cover; otherwise it is true. A Sayer cannot unsay. Each Saying costs 1 Hunger; at 10 Hunger, the Sayer's next sentence happens to an entire valley.
+Wants: to speak, to finish sentences, to be heard.
+Dread: 3 when the bit comes off / 5 on hearing it undo something that cannot be undone
+End: Re-bit it. A bit fitted by Garl Tome holds. Getting close enough means speaking to it first, and it will answer.
+[/stat]
+
+### The Oath-Made
+
+A man once swore to his wife, "I promise you a son." Ilan exists anyway. The Oath-Made are people created by promises: sons sworn into being, soldiers promised to a cause, a lover sworn to come back that came back. They are real, warm and often loving. They also exist only for as long as the promise is kept, and they know it, at some deep level, and when the promise begins to fail (the one who swore it dies, or wavers, or forgets) they begin to fade. A fading Oath-Made is hard to look at: the eye slides off it, the edges blur like a figure seen through heat-shimmer, and its voice comes from slightly to one side. Fading Oath-Made become frantic: they cling, they demand, they extract new promises at knifepoint from anyone near. A fading Oath-Made who gets a stranger to swear "I will look after you" lives on, bound to that stranger. Forever.
+
+[pull] I promised I'd come back. I did. I'm very nearly sure I did. Would you say it to me? Would you promise me I'm here? | — a fading Oath-Made, the Unmade Road
+
+[quick] Fading Oath-Made — Threat 3 · Flesh 12 · Guard 14 (hard to see clearly) · Attack +5 (desperate grip 2, Grapple 16) · Armor 0 · Dread 2 / 3 when a character realizes they cannot remember its face · Persuade 6 to extract a promise; if it succeeds, the character is bound to it as by an oath.
+
+### The Defaulted Surety
+
+Ona Fell can survive one more default. A Surety carries other people's oaths in their body for a fee. A Surety who exceeds their limit breaks all at once, every carried oath snapping in a single afternoon: bones, joints, ribs, a heart, a tongue, two hundred breaks in a minute, a sound like a bundle of kindling stamped on, going on and on. Most die. A few are left standing, a twisted heap of folded and refolded limbs that should not be able to stand, crawling in a way that hurts to watch, their skin tented over bone-ends at a hundred wrong angles, and they have nothing more to lose. They hunt the original swearers whose debts they paid, every one, by name. They cannot be bound by oath any more. There is no room left in them.
+
+[quick] Defaulted Surety — Threat 4 · Flesh 22 · Guard 13 · Attack +7 (grasping broken limbs 3, Grapple 18) · Armor 1 · Dread 3 · immune to Binding; knows the name of every oath it carried; a character whose oath it held suffers −4 to all rolls against it.
+
+### New Horror: The Vow-Spill
+
+At the Appetite, an Oathener feels a compulsion to swear, and the struck must be gagged for their own safety; the Murmuring House in Tacit holds three hundred of them, bitted in iron, humming through the grilles. The Vow-Spill is what happens when one gets loose. A swearer whose bit has rusted through, or been cut off by a pitying relative, or chewed away over months, comes out into the quiet of the canyon streets and begins to promise, and cannot stop. The vows pour out in a torrent, unqualified, absolute, in a voice cracked from years behind iron: I will, I swear, I shall, forever, on my mother, on my life. Each one binds the swearer. Within an hour they have promised a hundred contradictory things, and the breaks begin, a finger, a wrist, a knee, a jaw, each with its crack, while they go on swearing through the blood. The vows also spill onto anyone near. A Vow-Spill in its last hour swears on behalf of others, using their names: *Arlen the potter swears to carry me home. The woman in the blue shawl swears never to leave this street.* In the Course and beyond, that counts.
+
+[pull] Three hundred mouths behind iron and every one of them trying to give you something. You learn to wax your ears. You never learn to stop hearing it. | — Dacey Furl, the Gag-Nurse
+
+[quick] Vow-Spill — Threat 4 · Flesh 10 (falling 1 each round as its own vows break it) · Guard 10 · Attack +7 against Tongue + Clause (Binding, Hard 14; it swears an oath in a listener's name, and a character who fails is bound by it as if they had sworn it themselves) · Armor 0 · Dread 2 / 3 as its body begins to break · it acts twice a round; any character who answers it aloud is automatically bound to whatever it says next; re-bitting it (Hand + Brawl vs Guard, then Hand + Craft 14) ends the spill, and what it has already sworn stands.
+
+### New Horror: The Sworn-Upon
+
+Every Oathener swears on the dead, and in Oathen an oath on the dead is held by two witnesses: the god inside, and the one whose name was used. When such an oath is broken, the swearer breaks to match, as always. But when the oath was sworn over the body itself, at the grave or the bier, with the hand on the cold chest, and then broken, the dead sometimes get up to see it kept. The Sworn-Upon is a corpse in its grave-wrappings, dried by the canyon heat to leather and bone, its jaw bound shut with the cord the Quiet use, and it walks. It walks slowly and it does not stop. It follows the oathbreaker from town to town, across gorges, onto the Rim Road and beyond, never hurrying, never resting, and when it catches up it stands at the foot of their bed and watches them with eyes long since gone to dust, until they keep the promise or die. It does not attack. It witnesses. Those it watches cannot sleep, cannot eat without tasting grave-dust, and cannot lie, even in lands where lying is possible. In the end most of them keep the oath, whatever it was. Some of those oaths were terrible.
+
+[fiction]
+Inscription carved on the Ledger, 571 A.G., in the public vows. "I, Teodric Bask, swore upon the body of my brother Hale to see his children fed. I did not. He came for me at the Unmade Road and has stood at my bedside four years. Let it be recorded that on this day I have given my house, my well and my name to his children. Let it be recorded that he has lain down. Let it be recorded that I am very tired."
+[/fiction]
+
+[stat: The Sworn-Upon — the Witness Who Walked]
+Attributes: Hand 2 · Gut 5 · Lung 1 · Eye 6 · Tongue 0 · Caul 8
+Cut & Regrowth: Cut 3 (the swearer's and the dead one's, together) · Regrowth 9 (the Course) · Hunger 0
+Skills: Search 6, Wayfaring 5, Instinct 6, Resolve 6
+Flesh 30 · Guard 9 · Armor 2 (grave-leather) · Threat 6
+Attacks: none; it will push aside, never strike (Gut + Labor at +5 to move past anything in its way)
+Abilities: Witness: the oathbreaker it follows suffers −2 to all rolls while it is in sight, cannot benefit from rest, and must pass Caul + Resolve 18 to tell any lie. Untiring: it cannot be outrun across distance; wherever the oathbreaker sleeps, it arrives by dawn of the third day. Unbreaking: if hacked down, it reassembles at the grave and starts walking again. Kept Word: the moment the oath is kept, it lies down and is only a body.
+Dread: 2 on sight / 4 when it is seen at the foot of a character's own bed
+End: Keep the oath. Or find a Surety willing to take it, and watch what follows the Surety home instead.
+[/stat]
 
 [pagebreak]
