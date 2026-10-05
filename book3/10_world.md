@@ -1288,7 +1288,7 @@ Secret: Coyle keeps the Company's real ledger, the one that prices the end of ea
 
 ### The Cutwrights' College
 
-[sigil: eighth]
+[sigil: rim]
 
 > Blood is a ledger. We only read it aloud.
 >> — motto over the gate at Quire

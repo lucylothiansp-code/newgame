@@ -334,6 +334,8 @@ Run the Reaping as a hazard with a clock. Each character in a far field at dusk 
 
 The Reaping has Dread 3 the first time it is seen to take someone, and Dread 4 when a character realizes the field is breathing in time with them.
 
+[pull] We don't say taken. We say the field was hungry. We say she went into the bread. Then we eat the bread, because what else would you have us do. | — a Low Tilth widow, to Pell Hogget
+
 ### New Horror: The Uneaten
 
 The Fatlands have no graves. The dead are served at the wake, by the family, with the best plates, and to be buried uneaten would be the deepest insult to a life. Sometimes a wake fails. The family is too small or too grief-struck; a Thin son refuses his portion. Something is left on the platter overnight. The leftovers are buried, quietly, in a corner of the field, and the family tells nobody. A season later, the Uneaten comes home.
@@ -358,7 +360,7 @@ End: Finish it. Everyone in the family must eat a share. The Second Helping offe
 
 ### New Horror: The Bottomless
 
-The Appetite in the Fatlands is eating without choosing: soil, tallow, leather, hair. The sufferer cannot stop for conversation. The Bottomless is the Appetite with nothing left to stop it, a Fatlander in whom the Want has become the whole person, as the Undone Closer is in the north. Usually it is a Gut-line cadet, fat, fed and indulged, who one day ate past the wall that even the Fatlands keep, and has not stopped since. It roams the back kitchens, larders and middens of Sated at night, enormous, the skin of the belly split in pale stretch-tears that weep yellow lymph, the jaw unhinged a little lower each month so that it can take things whole. It eats tallow candles and their holders. It eats the boot-leather of the sleeping. It eats the dog. It eats with a steady, rhythmic, joyless crunching that does not pause for breath, and through it, it talks, very reasonably, in a mild educated voice, about how hungry it is and how sorry.
+The Appetite in the Fatlands is eating without choosing: soil, tallow, leather, hair. The sufferer cannot stop for conversation. The Bottomless is the Appetite with nothing left to stop it, a Fatlander in whom the Want has become the whole person, as the Undone Closer is in the north. Usually it is a Gut-line cadet who one day ate past the wall even the Fatlands keep. It roams the back kitchens, larders and middens of Sated at night, enormous, the skin of the belly split in pale stretch-tears that weep yellow lymph, the jaw unhinged a little lower each month so that it can take things whole. It eats candles and their holders, the boot-leather of the sleeping, the dog, with a steady joyless crunching, and through it it talks, in a mild educated voice, about how hungry it is and how sorry.
 
 What it leaves is a kitchen stripped to the plaster: no crumbs, no rind, no rats, the pans licked bright, the table gnawed to a curve at one end, and sometimes a cook sitting very still in the corner, missing the hand she held out to calm it.
 
@@ -442,13 +444,15 @@ In every cellar in Brinehollow, water rises twice a day and drains away. An Indo
 
 The Deepening walks in willingly, in procession, with lanterns. Sometimes the Called do too, without the lanterns: twenty, forty, a hundred people in nightclothes walking west at night in perfect silence, eyes open, bleeding brine from the nose, singing very low the same tune the Uncovered sings. Their bare feet slap the planks in step. Children walk among them holding the hands of strangers. They are not hostile. They will not stop. Anyone who stands in their way is walked over. Anyone with a Lung-line Cut who watches them pass must roll against the Pull. In the morning the shingle beyond the last pier is printed with hundreds of footprints going one way, each filling slowly with water from below.
 
+[pull] I held my boy's wrist till the third pier and he walked me off my feet. He wasn't fighting. He was just going. He said, Mam, let go, they've kept a place. | — a Lowmark mother, the night of the fourth Calling
+
 [quick] Called Procession (40) — Threat 2 · Flesh 40 · Guard 10 · Attack +5 (trampling, grasping 2, Grapple 14: the grabbed are carried along) · Armor 0 · Dread 2 / 3 on seeing someone known among them · Swarm; Pull 14 on Lung-lines; roping individuals out takes a Gut + Labor 14 roll each.
 
 ### New Horror: Coughlings
 
 What comes up in the bail-bucket is mostly water, and sometimes weed, and sometimes, more often every year, something alive. Dr. Isolde Reave found a shell of no known species in a drowned chest. Hookman Dabb stamped on two in the net and swore the third had a face. These are Coughlings: small soft-bodied things the size of a thumb-joint to a fist, brought up from the lungs of Brinehollowers at the turn of the body's tide, pale grey and slick, with too many legs and a little mouth-ring of needle teeth. They scuttle. They nest in the dark under planking, in drains, in the cold ashes of hearths, in the bottoms of buckets left standing, and they find each other. A nest of a few hundred under a pier-house makes a sound at night like rain beginning, and smells of tide-wrack and spoiled milk.
 
-Coughlings want to go back in. They creep up the bed-ropes of the anchored sleeping and into open mouths and noses, one after another, and the sleeper's next bailing is a bloody one. Those who have hosted a nest cough for a month, and sometimes they cough something larger, and sometimes it looks at them. And the faces: the older and larger the Coughling, the more its pale front resembles a face, and the more it resembles the face of the person who coughed it up.
+Coughlings want to go back in. They creep up the bed-ropes of the anchored sleeping and into open mouths, and the sleeper's next bailing is a bloody one. The older a Coughling grows, the more its pale front resembles a face: the face of the one who coughed it up.
 
 [pull] Mam says leave the bucket face-down at night or the little ones get back in. I asked where they go. She said home. | — Tolly Brack, the Bailer Boy, aged eleven
 
@@ -456,7 +460,7 @@ Coughlings want to go back in. They creep up the bed-ropes of the anchored sleep
 
 ### New Horror: The Cistern-Kept
 
-At the Course, the Brinehollower's body adapts to depth: grey skin, wide dark eyes, a chest that no longer needs to rise. The sufferer is uncomfortable in open air and sleeps in a cistern. Families with money build a private tank; Sennet Gull keeps her husband in one. The poor share. Under the Mile and in the old towns of the coast there are public cisterns, vaulted, dripping, black, where the Course-struck who have no family go down to lie in the cold and do not come up. They are the Cistern-Kept. Over the years they grow. Their eyes widen until there is no white. Their skin goes slack and pleated, like a drowned sail. Their fingers web. They lie in the dark at the bottom, perfectly still, a dozen to a cistern, and they listen to the buckets coming down on the rope.
+At the Course, the Brinehollower's body adapts to depth: grey skin, wide dark eyes, a chest that no longer needs to rise. The sufferer is uncomfortable in open air and sleeps in a cistern. The poor share. Under the Mile and in the old towns of the coast there are public cisterns, vaulted, dripping, black, where the Course-struck who have no family go down to lie in the cold and do not come up. They are the Cistern-Kept. Over the years their eyes widen until there is no white and their fingers web. They lie in the dark at the bottom, perfectly still, a dozen to a cistern, and they listen to the buckets coming down on the rope.
 
 When a bucket comes down they take hold of it. Most of the time they give it back, full, with a polite tug. Some nights they do not, and the drawer leans over the edge to see what has caught. Bodies taken from a public cistern come up weeks later through the drain-grates of the street, white and puffed, with their ribs folded in and their fingers webbed, and the street drinks the water anyway, because there is nowhere else to get it.
 
@@ -516,6 +520,8 @@ Sixty thousand beds, numbered, in rows, completely silent. The Counted breathe i
 The Wakers' job is to hurt people for their own good, and they are skilled after three centuries. A Waker gone mad has decided that nobody is safe, ever, unless they are in pain. He is usually an old Waker, on triple rouse, lidless or near it from long effort, his eyes gone red and cracked and leaking, his teeth long since rotted to brown pegs by the drug. His breath stinks of burnt rouse and gum-rot. He carries a rattle and a sheaf of long steel needles. He has stopped distinguishing between a citizen who is nodding and a citizen who might nod later. He goes door to door at the third bell. He pins people's eyelids open with fish-hooks. He drives needles under nails so that no one in the house can doze. In his cellar there are people he has been keeping awake for weeks, tied in standing frames, weeping and hallucinating, their eyelids torn and crusted, and he feeds them rouse by the spoon and sings to them. They thank him. That is the sound the Wakers who find his cellar never forget: a row of people in frames, whispering *thank you, thank you* in time.
 
 
+[pull] Found eleven in his frames, all alive, all thanking him. We cut them down and the first thing every one of them asked was who would keep them awake now. | — Captain Brannoch Pyre, report to the Watch
+
 [stat: The Waker Gone Mad — For Your Own Good]
 Attributes: Hand 4 · Gut 3 · Lung 3 · Eye 4 · Tongue 3 · Caul 3
 Cut & Regrowth: Cut 3 (Eye-line by-blood) · Regrowth 7 (the Course; lids nearly gone) · Hunger 6
@@ -530,6 +536,8 @@ End: He will kill himself with rouse within a month. The question is how many pe
 ### The Yawn
 
 On Yawn days, the Wakers double their patrols. The Yawn is not a creature; it is contagion. Lukas Marre once put down a market square. When a yawn is spreading through a crowd it moves like a rumor, mouth to mouth, jaws cracking, eyes streaming, and the sound of it, a hundred sighing breaths, is the most frightening sound in the city. Every person who catches it must roll Caul + Resolve 14 or blink. In a crowd of the exhausted the first blink becomes ten, the ten become a hundred, and the hundred do not all come back. The ones who do not are carted to the Dormitory steps before the next bell, still warm, faces soft and young with rest, and their families walk beside the cart pinching each other. Treat a Yawn as a hazard with Dread 1 that becomes Dread 3 the moment a character sees someone fall and not rise. The Glass House exists because of it.
+
+[pull] It went across the Pinchmarket like wind across barley. I saw the yawn coming, face to face, and I bit my own tongue till it bled, and that is why I am standing here. | — a rouse-seller of the Slope
 
 ### New Horror: The Tether-Catch
 
@@ -604,6 +612,8 @@ End: The knife. It can be killed as anything can. It is hard to find a midwife w
 
 Josiah Fenn, a shepherd, labored for three days and delivered something that stood up, looked at him, and walked out of the door. He has followed its tracks for eight years, and they are getting larger. Fenn's Get is twelve feet tall now. It walks the high red hills on legs too long, with a lamb's soft white face on a man's long skull, and its wool is matted with blood from the flocks it lies down among. It is not cruel. It is newborn and enormous, and it does not understand why things break when it holds them. The flocks it has lain with are found in a flattened circle in the heather, every sheep pressed into the turf, their wool combed smooth, as if a child had tucked them in. It has a shepherd's crook it has made from a whole ash tree. It has been seen, at dusk, sitting at a distance from Fenn's camp, watching its father, and making the bleating sound that lambs make for their mother.
 
+[pull] It sat on the ridge all night where I could see it, crying for me like a lamb at dipping. I've a knife. I've had it eight years. I keep it sharp for one of us. | — Josiah Fenn, to Madder Rudge
+
 [stat: Fenn's Get — the Thing That Walked Out of the Door]
 Attributes: Hand 4 · Gut 9 · Lung 6 · Eye 3 · Tongue 1 · Caul 7
 Cut & Regrowth: Cut 5 (born of Vey directly) · Regrowth 9 (the Course) · Hunger 5
@@ -619,6 +629,8 @@ End: Fenn alone may be able to get close enough. He carries a knife. He is not s
 ### Crownings
 
 The earth dilates, slowly, over weeks, into a perfect round opening, and people gather at the rim to see what comes up. A crowning is a hazard, a festival and a monster's birth in one. The rim is soft, red, wet, warm as flesh, and it gives underfoot like a lip; the hole is perfectly round and descends into darkness that pulses. The air above it is humid and smells of iron and birth-water, and every pang the ground around it groans, a long low sound the watchers feel in their own bellies. Every pang, the crowning widens a hand's breadth. Then, at the end, something comes up. Roll on the table below when it does, and run the crowd. The rim itself is Dread 2 on sight; the moment of emergence is Dread 4.
+
+[pull] Third crowning I've sat at. You bring a stool, a flask, and a rope, and you don't stand at the lip at the last pang, because it pulls. | — a watcher at the Dilation rim
 
 | d6 | What is born from the crowning |
 | 1 | Waters: a flood of warm salt fluid fills the valley to the rooftops in an hour. |
@@ -638,9 +650,9 @@ A locked chest once gave birth. So did a well. Doorborn are the offspring of thr
 
 ### New Horror: Gravebirth
 
-Locks, seals and graves fail in Cradlewrack; nothing stays shut. Most highland dead are buried in round clay pits capped with a stone, and the cap is checked each pang. A woman four days dead once gave birth; a Gravebirth is what that looks like a year in. The cap is found pushed aside from below. The earth of the grave is heaved and split, like a loaf that has risen and burst its crust, and wet, and warm. There is a small round opening at the centre, the width of a fist, and the clay around it is stained dark. Inside, the dead person lies as they were laid, except that they are open, and empty, and something has come out.
+Locks, seals and graves fail in Cradlewrack; nothing stays shut. The highland dead lie in clay pits capped with stone. A woman four days dead once gave birth; a Gravebirth is what that looks like a year in. The cap is found pushed aside from below, the earth heaved and split like a loaf that has burst its crust, wet and warm, with a small round opening at its centre the width of a fist. Inside, the dead person lies as they were laid, except that they are open, and empty, and something has come out.
 
-What comes out is small, wet and quick, about the size of a hare, grey-pink and soft-skulled, and it wears the dead person's face, in miniature, perfectly: the mole, the scar, the expression they died with. It goes home. It knows the way. It climbs in through the window that is always ajar and curls up in its old place: the chair by the fire, the left side of the bed, the cradle that was theirs a lifetime ago. It is cold, and it wants warmth, and it gets it from the living, slowly, by lying against them in the night. The family wakes grey and shivering, and weaker each morning, and some of them cannot bring themselves to put it out, because it has their mother's face.
+What comes out is small, wet and quick, about the size of a hare, grey-pink and soft-skulled, and it wears the dead person's face, in miniature, perfectly: the mole, the scar, the expression they died with. It goes home, in through the window that is always ajar, and curls up in its old place: the chair by the fire, the left side of the bed. It is cold, and it wants warmth, and it gets it from the living, slowly, by lying against them in the night. The family wakes grey and shivering, and weaker each morning, and some of them cannot bring themselves to put it out, because it has their mother's face.
 
 [fiction]
 Entry in the Tally, Cordway parish, Lack 640. "Born: one, of the grave of Ada Pask, deceased. Sex: as hers. Weight: a bag of flour. Appearance: hers. Attending: none. Second Opinion: not sought by the family, who say she is only visiting."
@@ -650,7 +662,7 @@ Entry in the Tally, Cordway parish, Lack 640. "Born: one, of the grave of Ada Pa
 
 ### New Horror: A Loose Cord
 
-The Uncut walk through life still attached to their mothers by yards of living cord. Sister Maeve Cord's mother has been dead six years, and the cord has not noticed. Sometimes a cord does notice. When an Uncut dies, or when a cord is severed in a brawl or by the Attendance's order, the length that is left does not lie down. It is thick as a wrist, glossy and blue-grey, warm, twisted on itself like a rope, and it pulses, slowly, with a heartbeat that belongs to neither end. It goes looking for a navel. It moves like a snake through the grass and under doors, and the hiss of it on floorboards is soft and wet. It wants to be joined. It wraps a sleeper's waist and fixes itself, mouthless, with a slow seeping heat, and begins to feed in both directions: whatever it was joined to before, it is joined to now, and the sleeper wakes to find themselves bound by a living tether to a grave, a stranger, a hill, or something in the dark at the bottom of the Dilation.
+The Uncut walk through life still attached to their mothers by yards of living cord. Sister Maeve Cord's mother has been dead six years, and the cord has not noticed. Sometimes a cord does notice. When an Uncut dies, or when a cord is severed in a brawl or by the Attendance's order, the length that is left does not lie down. Thick as a wrist, glossy, blue-grey and warm, it pulses with a heartbeat that belongs to neither end. It goes looking for a navel. It moves like a snake through the grass and under doors, and the hiss of it on floorboards is soft and wet. It wants to be joined. It wraps a sleeper's waist and fixes itself, mouthless, with a slow seeping heat, and begins to feed in both directions: whatever it was joined to before, it is joined to now, and the sleeper wakes to find themselves bound by a living tether to a grave, a stranger, a hill, or something in the dark at the bottom of the Dilation.
 
 [pull] Cut it, the midwife says. Cut it and you're free. My whole life I've heard the same lie from the same knife. | — Sister Maeve Cord of the Uncut
 
@@ -669,6 +681,8 @@ In Oathen, the monsters are made of words and the people the words broke. Nearly
 ### The Forsworn Mob
 
 The Breakdowns are full of people whose bodies keep the record of their sins: legs folded backwards for a fled duty, hands off at the wrist for a short measure, ribs opened outward like a book for a broken marriage vow, the heart visible within, beating in the canyon air under a film of dust. Most of them are no danger to anyone. A Forsworn mob is what happens when a Clausewright's ruling goes against the Breakdowns once too often. They come up the canyon stairs in a mass of crutches and wheeled boards and open chests, slow, loud (the only loud thing in Tacit), shouting plain words because they have nothing left to break, and they drag down whoever made the promise they blame. They know where every breakable promise is. They shout their victims' oaths back at them, verbatim, and wait to see what snaps. Afterward the Bench's clerks find the target on the stair, folded at whatever joint their own word chose, and the mob gone home, quiet again, satisfied.
+
+[pull] They came up the Shadeward stair singing my own wedding vow at me. I'd kept it. I'd kept it. And still my knees went, from hearing it shouted so. | — a Clausewright's wife, Tacit
 
 [quick] Forsworn Mob (30) — Threat 3 · Flesh 36 · Guard 11 · Attack +6 (crutches, clubs, bare broken hands 3) · Armor 0 · Dread 2 · Swarm; once a scene the mob may shout a character's own past promise back at them (Tongue + Clause 18 or the character must act at once as if renewing it).
 
@@ -721,11 +735,13 @@ A man once swore to his wife, "I promise you a son." Ilan exists anyway. The Oat
 
 Ona Fell can survive one more default. A Surety carries other people's oaths in their body for a fee. A Surety who exceeds their limit breaks all at once, every carried oath snapping in a single afternoon: bones, joints, ribs, a heart, a tongue, two hundred breaks in a minute, a sound like a bundle of kindling stamped on, going on and on. Most die. A few are left standing, a twisted heap of folded and refolded limbs that should not be able to stand, crawling in a way that hurts to watch, their skin tented over bone-ends at a hundred wrong angles, and they have nothing more to lose. They hunt the original swearers whose debts they paid, every one, by name. They cannot be bound by oath any more. There is no room left in them.
 
+[pull] She came through the door on four broken limbs and said my name, and the name of the oath she'd carried for me, and the date. I paid her. I paid her everything. She was still there. | — a merchant of Tacit, before the Bench
+
 [quick] Defaulted Surety — Threat 4 · Flesh 22 · Guard 13 · Attack +7 (grasping broken limbs 3, Grapple 18) · Armor 1 · Dread 3 · immune to Binding; knows the name of every oath it carried; a character whose oath it held suffers −4 to all rolls against it.
 
 ### New Horror: The Vow-Spill
 
-At the Appetite, an Oathener feels a compulsion to swear, and the struck must be gagged for their own safety; the Murmuring House in Tacit holds three hundred of them, bitted in iron, humming through the grilles. The Vow-Spill is what happens when one gets loose. A swearer whose bit has rusted through, or been cut off by a pitying relative, or chewed away over months, comes out into the quiet of the canyon streets and begins to promise, and cannot stop. The vows pour out in a torrent, unqualified, absolute, in a voice cracked from years behind iron: I will, I swear, I shall, forever, on my mother, on my life. Each one binds the swearer. Within an hour they have promised a hundred contradictory things, and the breaks begin, a finger, a wrist, a knee, a jaw, each with its crack, while they go on swearing through the blood. The vows also spill onto anyone near. A Vow-Spill in its last hour swears on behalf of others, using their names: *Arlen the potter swears to carry me home. The woman in the blue shawl swears never to leave this street.* In the Course and beyond, that counts.
+At the Appetite, an Oathener feels a compulsion to swear, and the struck must be gagged for their own safety; the Murmuring House in Tacit holds three hundred of them, bitted in iron, humming through the grilles. The Vow-Spill is what happens when one gets loose. A swearer whose bit has rusted through, or been cut off by a pitying relative, comes out into the quiet streets and begins to promise, and cannot stop. The vows pour out in a torrent, unqualified, absolute, in a voice cracked from years behind iron: I will, I swear, I shall, forever, on my mother, on my life. Each one binds the swearer. Within an hour the breaks begin, finger, wrist, knee, jaw, each with its crack, while they go on swearing through the blood. The vows also spill onto anyone near. A Vow-Spill in its last hour swears on behalf of others, using their names: *Arlen the potter swears to carry me home. The woman in the blue shawl swears never to leave this street.* In the Course and beyond, that counts.
 
 [pull] Three hundred mouths behind iron and every one of them trying to give you something. You learn to wax your ears. You never learn to stop hearing it. | — Dacey Furl, the Gag-Nurse
 
@@ -768,6 +784,8 @@ They appear in empty houses, at crossroads, in the middle of a field at dusk: a 
 
 The Seated remain at table for decades, eating from empty plates, smiling, alive long past any natural span. They are skeletal and radiant. Their clothes have rotted to rags around them; their skin is paper over bone, so thin the lamplight shows the shadow of their teeth through their cheeks; their forks move, scrape, lift, and the jaw works on nothing, and the throat swallows, a dry click a dozen times a minute. They smell of dust, candle-wax and, very faintly, of the meal they are describing. They are perfectly sane, and they want company. Brother Hallow Crust describes each course in detail, the soups, the roasts, the jellies trembling in their moulds, and people who listen too long pull out a chair. The Seated never attack. They invite. They are very good at it.
 
+[pull] He told me about the soup for an hour. Leek and cream and a little nutmeg. I could taste it. I found my hand on the back of the chair and I do not remember reaching. | — a Hostwatch novice, the Long Table
+
 [quick] The Seated — Threat 5 (Persuade) · Flesh 4 · Guard 6 · Attack none · Armor 0 · Dread 2 / 3 when one of them is someone known · Hosting 18: describing a course is a Persuade +11 roll against the listener's Caul + Resolve; failure costs 1 Fray and three failures pull out a chair. Lifting one from its seat kills it, gently, still smiling.
 
 ### Welcome Ardent, the Steward
@@ -806,9 +824,11 @@ At the fifth sign, any character who has accepted anything in the Fast must sit.
 
 Never enter a house where the hearth is already lit. A Lit House is the Host's ambush: a ruin that, at dusk, has its windows glowing, its door ajar, its fire crackling and a kettle on. Inside, everything is warm, clean and laid out, and the door does not open from within once a guest has crossed the threshold until they have eaten. The walls sweat butter. The floors creak with a sound like a stomach. The rooms rearrange themselves so every corridor leads back to the kitchen. Hosting 18 to resist eating each hour; Dread 2 on entering, 3 when a character finds the bones of earlier guests tidily stacked in the larder, clean and polished, every one with a napkin. The skulls are arranged on the top shelf in the order the guests arrived, and the most recent still has a little flesh at the jaw, and is smiling.
 
+[pull] The kettle was on. The bread was warm. And the larder was full of my grandfather's people, every skull with a napkin, all smiling. | — a Tablebreaker of Wanting
+
 ### New Horror: The Tidiers
 
-The best farmland on the Table lies six centuries empty and perfectly kept. The hedges are trimmed. The windows are clean. Nobody does it. That is the Unfed saying, and it is wrong in one particular: something does it. The Hostwatch call them the Tidiers, and nobody has seen one whole. They are glimpsed only at the edge of the eye: a white sleeve, long pale hands shaking out a cloth, a stooping figure sweeping a doorstep already swept. They work only where no one is looking, like the Scarecrow of Low Tilth, and the sound of them is the soft domestic sound of a house being kept: a broom's whisper, a dish set down, a sheet snapped smooth.
+The best farmland on the Table lies six centuries empty and perfectly kept. The hedges are trimmed. The windows are clean. Nobody does it. That is the Unfed saying, and it is wrong in one particular: something does it. The Hostwatch call them the Tidiers, and nobody has seen one whole. They are glimpsed only at the edge of the eye, a white sleeve, long pale hands shaking out a cloth, and they work only where no one is looking; the sound of them is a broom's whisper, a dish set down, a sheet snapped smooth.
 
 They keep everything as a good host would, for the guest who is surely coming. That includes travellers. A traveller who sleeps in an empty Fast farmhouse without a watch wakes, if they wake, washed, combed, nails pared to the quick, clothes laundered and folded, and something untidy taken off them: a scab, a wart, a crooked finger straightened with a crack they slept through, a tooth's neighbours drawn so the smile is even. Those the Tidiers find untidy beyond mending are put away. The Hostwatch have found them in linen-presses, folded very small.
 
@@ -820,7 +840,7 @@ Spare Tolland's map, margin note, Lammas Bottom. "Slept at the Pellow farm, two 
 
 ### New Horror: The Crumb-Bringer
 
-Sister Nay Corliss has not eaten in three years, and each morning she wakes with crumbs on her lips. Abby Rooke leaves a crust on the windowsill and finds it replaced with something better. The Crumb-Bringer is the thing that does it: the Host's kindness at its most patient and most intimate, a feeding that happens while the Unfed sleep. It is never seen. It is felt: a warmth at the bedside, a weight settling on the edge of the mattress, the brush of a finger at the lips, a smell of honey-cake and warm milk, and in the morning a sweetness in the mouth and a fullness in the belly that the Unfed have never in their lives felt, and that they do not have a word for. They wake rested. They wake well. They put on flesh. Their cheeks fill, and their neighbours notice, and say nothing.
+Sister Nay Corliss has not eaten in three years, and each morning she wakes with crumbs on her lips. Abby Rooke leaves a crust on the windowsill and finds it replaced with something better. The Crumb-Bringer is the thing that does it: the Host's kindness at its most patient and most intimate, a feeding that happens while the Unfed sleep. It is never seen. It is felt: a weight settling on the edge of the mattress, a finger at the lips, a smell of honey-cake and warm milk, and in the morning a fullness the Unfed have never felt and have no word for. They put on flesh. Their cheeks fill, and their neighbours notice, and say nothing.
 
 And each night they sleep a little deeper, and wake a little later, and want to go back. They begin to lay a crust out. Then a cup. Then a chair, beside the bed, pulled out. When they stop waking at all they are found plump and smiling, the covers tidied, a napkin tucked at the throat, the mouth open a little as if for the next spoon, and the chair beside the bed is warm.
 
@@ -840,6 +860,8 @@ Most blood spilled on the Table is spilled by people. The templates below each g
 
 The Admiralty's night patrol hunts the Called along the shore with nets, hooks and rope. They are not cruel. They are tired, salt-stained, and drag people home who are fighting to go. A patrol is six hookmen and a sergeant with a lantern on a pole.
 
+[pull] You don't save them. You hold them. Some nights it's the same thing. | — Lt. Sable Reef, to a recruit
+
 [quick] Netwatch Hookman — Threat 2 · Flesh 12 · Guard 13 · Attack +5 (boathook 4, Hooking 14) · Armor 1 · Dread 0
 
 [stat: Netwatch Sergeant — Hook and Lantern]
@@ -854,6 +876,8 @@ Tactics: one hook in the collar, one rope on the ankle, nets over all. They know
 ### Wakers
 
 The Vigil's police carry rattles and long needles, and they have been hurting people for their own good for three hundred years. A Waker patrol is four, sharp-eyed and twitching on rouse.
+
+[pull] Under the nail for the drowsy, behind the ear for the stubborn, and for the ones who are smiling, run. | — Rattlehouse drill-rhyme
 
 [quick] Waker — Threat 3 · Flesh 11 · Guard 14 · Attack +5 (needle 1 plus 1 Fray; rattle-club 3) · Armor 2 · Dread 0
 
@@ -870,6 +894,8 @@ Tactics: Never Surprised; immune to sleep. Blinks under stress: on a Lack she lo
 
 The quiet office of the Board chooses who works the far fields at dusk. Its agents are clerks with ledgers, accompanied by Bailiffs who carry the red wrist-cloth and tie it on.
 
+[pull] It's not a death list. It's a work roster. Dusk shift, far field, Carving. Anyone can read a roster. | — Cullmaster Varn Sweetbread
+
 [quick] Cull-Bailiff — Threat 2 · Flesh 14 · Guard 12 · Attack +5 (cudgel 3, Grapple 14) · Armor 1 · Dread 0
 
 [stat: Cullmaster — Agriculture by Ledger]
@@ -885,6 +911,8 @@ Tactics: never fights; signs a warrant. A character he names in his ledger has t
 
 Zealots out of the Fast who cross the Rim to end high-Cut bloodlines in their beds. They are thin, quick and very calm, and have no god in them to Partake of. They kill the children of the bloodline too, and they do it first, so that the parents will know, and they do not look away while they do it, because looking away would be a kind of eating.
 
+[pull] We do the little ones first so the parents understand. It is not cruelty. It is accuracy. | — a Reckoner, under questioning in Glovehall
+
 [quick] Reckoner — Threat 3 · Flesh 12 · Guard 15 · Attack +6 (long knife 3) · Armor 1 · Dread 0 · Godless: Gifts that read, Pull or Bind the blood fail against them.
 
 [stat: Reckoner-Captain — the Refusal on a Blade]
@@ -899,6 +927,8 @@ Tactics: Godless. Strikes the highest Cut in the room first. Carries the Cutwrig
 ### Purgation Cell
 
 The cross-border movement that believes the gods can be thrown back up. A cell is five or six: fasters and bleeders, hollow-eyed and scarred from the lancet, with a list of high-Cut families and a cart of lamp-oil. Where they have been, the house smells of vomit, smoke and the sharp green reek of their emetics, and the family is laid out on the floor in a row, emptied.
+
+[pull] Bring it up. Bring it up. Six hundred years in the belly of the world, bring it up. | — Purgation chant, heard outside a burning house in Kest
 
 [quick] Purger — Threat 2 · Flesh 10 · Guard 13 · Attack +5 (cleaver 3) · Armor 0 · Dread 0 · carries emetics and fire.
 
@@ -935,6 +965,8 @@ From a calf-bound tasting-book found on the Rim Road near Brindle Cross, hand un
 
 They hunt the Unfed and the Blanks for the trade in godless blood and organs. Kale Dragoman takes his catches alive and feeds them well on the road. Poachers use nets, cudgels, sleeping draughts and patience.
 
+[pull] He gave us stew every night on the road. Real stew, with meat. That's how I knew we were being fattened. | — an Unfed escapee, Brindle Cross
+
 [quick] Poacher — Threat 3 · Flesh 12 · Guard 14 · Attack +5 (cudgel 3, nonlethal) · Armor 1 · Dread 0
 
 [stat: Poacher-Master — Fed Well on the Road]
@@ -949,6 +981,8 @@ Tactics: tracks by smell of the godless; offers food to captives, and an Unfed w
 ### Rim Road Company Wardens
 
 The Company's toll-guards and caravan escort. Neutral, rich, armored better than anyone, and sworn to their contracts in Oathen, which means they literally cannot break them.
+
+[pull] I'd like to help you, friend. I genuinely would. Clause nine, paragraph four. Off the road. | — a Company warden, to a refugee family
 
 [quick] Company Warden — Threat 3 · Flesh 14 · Guard 15 · Attack +6 (spear 4; crossbow 4) · Armor 3 · Dread 0
 
@@ -965,6 +999,8 @@ Tactics: Sworn: cannot retreat, take a bribe, or harm a toll-paying traveler, or
 
 Lawyer-priest of the Bench of Clauses. A Clausewright fights with conditions, and wins.
 
+[pull] He said yes. He said it with eleven conditions, and my brother died in the third. | — a Forsworn of the Breakdowns
+
 [quick] Bench Clerk — Threat 3 · Flesh 10 · Guard 11 · Attack +2 (stylus 1) · Armor 0 · Dread 0 · Clause 4.
 
 [stat: Clausewright — Barring Death, Illness or Weather]
@@ -979,6 +1015,8 @@ Tactics: Drafting: in a scene with time to talk, may extract a promise from a ch
 ### Forsworn Gang
 
 The Breakdowns' organized crews, broken and plainspoken. They specialize in the one crime Oathen fears most: making people promise things.
+
+[pull] Just say you'll pay us back. Go on. Small words. Easy words. | — Breakdown greeting
 
 [quick] Forsworn Tough — Threat 2 · Flesh 13 · Guard 12 · Attack +5 (club 3) · Armor 0 · Dread 1 (to see the break)
 
@@ -996,6 +1034,8 @@ Dread: 1
 
 They collect Parts and join them, believing them to be one body, born piecemeal. They travel in pairs with sacks that move, and their gloves are always wet. Their coats smell of milk and catgut, and the sacks, when set down, roll over by themselves.
 
+[pull] We don't steal them. We bring them home. Everything that's born belongs to Herself. | — an Assembler brother, to a mother at Rudge
+
 [quick] Assembler Brother — Threat 2 · Flesh 12 · Guard 12 · Attack +4 (hook-knife 2) · Armor 1 · Dread 1 (the sack)
 
 [stat: Assembler Elder — Making Good Progress]
@@ -1012,6 +1052,8 @@ Dread: 2 when you see what is sewn to their back
 
 Sallowreach's death cult. They walk into the Hushes singing, and they will take others with them out of love. Their hymn has no last verse, as no song in the north does; they simply walk into the silence partway through a line, and those left on the edge hear the line stop.
 
+[pull] Come with us, love. It's quiet there. Nothing hurts. Nobody needs restitching. | — a Finisher, to a Kept beggar on the Glovehall road
+
 [quick] Finisher Pilgrim — Threat 1 · Flesh 12 (Unending in Sallowreach) · Guard 10 · Attack +3 (grasp 1, Grapple 12) · Armor 0 · Dread 1
 
 [stat: Finisher Shepherd — Someone Must Stay Outside]
@@ -1026,6 +1068,8 @@ Tactics: the Hymn of Ending: once a scene, all listening Kept must roll Caul + R
 ### Tuckers
 
 The Vigil's criminal mercy: sixty guarded seconds of sleep for a month's wage. Their failures are delivered to the Dormitory steps. Their enforcers make sure payment does too.
+
+[pull] Sixty seconds. I count, you sleep, I pinch. If you're not back by the pinch, you're not my problem. | — a Tucker, the Slope
 
 [quick] Tucker Bruiser — Threat 2 · Flesh 13 · Guard 13 · Attack +5 (sap 3, nonlethal) · Armor 1 · Dread 0
 
@@ -1042,6 +1086,8 @@ Tactics: knows every lidded noble in the city. Sells clients to the Dormitory if
 
 The Union controls what leaves the Fatlands and knows what is in it. Its slaughtermen are huge, aproned and bloody to the elbow, and they settle disputes with the tools of the trade. The vats behind the Chute are kept at a rolling simmer day and night, skimmed by boys with long ladles, and the steam off them smells of pork, lye and something sweeter that the boys learn not to name.
 
+[pull] Everything goes in the vat. Everything comes out as tallow. Nobody asks what tallow used to be. | — Renderers' yard saying
+
 [quick] Slaughterman — Threat 2 · Flesh 16 · Guard 12 · Attack +6 (cleaver 3, hook 4 Hooking 14) · Armor 2 (fat; blunt −1) · Dread 0
 
 [stat: Renderer Foreman — Origin Stamped Over Twice]
@@ -1056,6 +1102,8 @@ Tactics: disposes of the defeated in the vats; any witness who sees the vats mak
 ### Echo-Wardens
 
 Rangers who police Oathen's silent gorges and hunt sworn words still bouncing in the rock. They speak in handtalk, move without sound, and carry felt, mallets and sacks of quicklime that crack the rock when they are wetted.
+
+[pull] Not a word in the gorge. Not a cough. Not a prayer. | — Echo-Warden hand-sign, the first one taught
 
 [quick] Echo-Ranger — Threat 4 · Flesh 12 · Guard 16 · Attack +6 (short spear 4; sling 2) · Armor 1 · Dread 0 · ears waxed, immune to Binding by sound.
 
@@ -1141,7 +1189,7 @@ End: They have no fear but one: being made the subject. Most of them have a very
 
 ### New Template: Spademen (Grave-Robbers)
 
-The trade in Leavings needs the dead, and the dead are guarded everywhere on the Table differently. Spademen are the ones who go and get them anyway. In Cradlewrack they lift grave-caps between pangs to take what was born of the body; in the Fast they dig the Barrows for Unfed bones, which fetch a noble's ransom as godless relics; in Oathen they rob the vaults of the sworn-upon and are followed home; in Sallowreach they take from the Lofts, where the merchandise is shelved, aware, and begging them to stop. The Fatlands have no graves, so their Spademen rob wakes, lifting the best joints from the platter before the family sits. Spademen smell of wet earth, lamp-black and oil of cloves, and they work in threes: one to dig, one to watch, and one to talk to whatever is in the hole.
+The trade in Leavings needs the dead, and the dead are guarded everywhere on the Table differently. Spademen are the ones who go and get them anyway. In the Fast they dig the Barrows for godless Unfed bones; in Oathen they rob the vaults of the sworn-upon and are followed home; in Sallowreach they take from the Lofts, where the merchandise is aware and begging them to stop. The Fatlands have no graves, so their Spademen rob wakes, lifting the best joints from the platter before the family sits. Spademen smell of wet earth, lamp-black and oil of cloves, and they work in threes: one to dig, one to watch, and one to talk to whatever is in the hole.
 
 [pull] Two lacks for a Blank's knucklebone at the Chute. Twelve for a skull. Forty if it still has the teeth. Don't ask me how I know if it's a Blank. I lick it. | — a Spademan, drinking, Brindle Cross
 
@@ -1151,7 +1199,7 @@ The trade in Leavings needs the dead, and the dead are guarded everywhere on the
 
 ### New Template: Ledger-Hounds (Cutwrights' Enforcers)
 
-The Cutwrights' College tracks every bloodline's Cut across six centuries, and its ledgers decide marriages, inheritances and executions. Someone has to carry the ledger's decisions out into the world, and they are the Ledger-Hounds: genealogists with crossbows. They serve warrants of marriage on unwilling cousins; they deliver Blanks to the College's buyers; they take blood by lancet from families who would rather not be measured; and on the College's word they end a line that the ledgers say is regrowing too fast. They are thorough. They do not kill the one; they kill the line, down to the second cousins, and enter it closed in red ink.
+The Cutwrights' ledgers decide marriages, inheritances and executions, and someone has to carry their decisions out into the world: the Ledger-Hounds, genealogists with crossbows. They serve warrants of marriage on unwilling cousins; they deliver Blanks to the College's buyers; they take blood by lancet from families who would rather not be measured; and on the College's word they end a line that the ledgers say is regrowing too fast. They are thorough. They do not kill the one; they kill the line, down to the second cousins, and enter it closed in red ink.
 
 [quick] Ledger-Clerk — Threat 3 · Flesh 11 · Guard 13 · Attack +5 (crossbow 4) · Armor 1 · Dread 0 · Reckoning 4, Lore 4 (genealogy).
 
@@ -1167,7 +1215,7 @@ Dread: 1 / 3 when a character sees their own family tree, with names struck thro
 
 ### New Template: The Close Table (a House That Marries In)
 
-The Cutwrights' ledgers reward purity of line, and some of the highest houses on the Table have pursued it for centuries. Cousins wed cousins, and then closer than cousins; the College records it in a code the clerks call *the near hand*. The godsign concentrates. The children of a Close Table are born far along, their Regrowth begun in the cradle: Hand-line infants with grey fingers that close the nurse's eyes, Gut-line babes that root in their cribs, Caul-line children whose veils never come off and who see their parents' deaths through them. The house is beautiful, quiet and inward. Its portraits all have the same face. What happens between its members is never spoken of, never written, and never shown in this book; what the players meet is the result: a family that loves itself too much and outsiders not at all, that holds a supper each Tablenight at which the weakest of its own is served, and that will kill anyone who threatens to marry out.
+The Cutwrights' ledgers reward purity of line, and some of the highest houses on the Table have pursued it for centuries. Cousins wed cousins, and then closer than cousins; the College records it in a code the clerks call *the near hand*. The godsign concentrates. The children of a Close Table are born far along, their Regrowth begun in the cradle: Hand-line infants with grey fingers that close the nurse's eyes, Gut-line babes that root in their cribs, Caul-line children whose veils never come off and who see their parents' deaths through them. Its portraits all have the same face. What happens between its members is never spoken of, never written, and never shown in this book; what the players meet is the result: a family that loves itself too much and outsiders not at all, that holds a supper each Tablenight at which the weakest of its own is served, and that will kill anyone who threatens to marry out.
 
 [pull] Thirty-one portraits in the long gallery and one face. Lady's face. The little ones' face. The face in the cradle that looked up at me with its grey hands folded. I gave notice that night. | — a nurse of a Glovehall house, to the Heirs
 

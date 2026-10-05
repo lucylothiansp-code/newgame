@@ -740,6 +740,8 @@ Armor subtracts from damage taken. Armor of 3 or more gives −1 to Lung rolls f
 | Bonded Hand's livery | — | not for sale | grey coat, wheel badge; a bed at any post | the Rim; issued with the Bond, for twenty years or life |
 | Veil of the Second Table | 300 L | Rare | a silk mask with a silver fork | never sold openly |
 
+[pull] COATS LET OUT WHILE YOU WAIT. WHILE YOU EAT. WHILE YOU GROW. | — tailor's sign, Gravy Row, Gristmoot
+
 ## Tools and Kits
 
 | Item | Cost | Avail. | Effect | Notes |
@@ -768,6 +770,8 @@ Armor subtracts from damage taken. Armor of 3 or more gives −1 to Lung rolls f
 | Tablebreaker's wedge | 3 L | Uncommon | +2 to break furniture apart | the Fast |
 | Hostwatch frost-marker | 5 L | Uncommon | chalk sticks that change colour on warm ground | tracks Orrum's passage |
 | Caltrops (a bag) | 4 L | Common | pursuers at −2 Lung for a round | Crumb-Runners scatter them behind the cart |
+
+[pull] LOCKS THAT HOLD. HONEST. TWO NIGHTS GUARANTEED OR YOUR DOOR BACK. | — Tamsin Keyless's board, Kest
 
 ### Light
 
@@ -914,6 +918,8 @@ Rouse is special. In the Vigil, nearly everyone is addicted, and the dose rises.
 | Cradlewrack hill-goat | 15 L | Common | sure-footed | some are born talking |
 | Crumb-runner's handcart | 10 L | Common | 300 lb at night | spat on in Wanting |
 
+[pull] Mule, sound, will not walk into a Hush. Mule, cheaper, will. | — a stock-slate at Fogmouth
+
 ## Lodging on the Rim Road
 
 | Lodging | Cost | Avail. | What you get | Notes |
@@ -934,6 +940,8 @@ Rouse is special. In the Vigil, nearly everyone is addicted, and the dose rises.
 [box: The Inn at the Crossroads]
 In the last three years Company inn-keepers on the Rim have reported finding tables laid in their common rooms at dawn: a white cloth, warm bread, a chair pulled out, a place card. The Company's standing instruction is to burn the table and not read the card. Not all inn-keepers obey. A few have started renting the chair. The going rate at Saltlick Cross is a platter a night, paid in advance, and the renters are mostly Fatlands pilgrims who have been hungry every second of their lives. The inn-keepers do not say what happens to the renters. They do say that the chair is always empty in the morning, and the plate is always clean, and the bill is always settled.
 [/box]
+
+[pull] We count heads at dawn. Please be one of them. | — painted over the beds of the anchor-inn at Lowmark Spur
 
 ## Services
 
@@ -971,6 +979,8 @@ In the last three years Company inn-keepers on the Rim have reported finding tab
 | Oath release | a greater oath | Rare | free of a binding promise | Grandam Cess; you owe her worse |
 | Lead pockets at the Weighing | 200 L | Rare | +1 vote in the Fatlands | Garrick Tripe |
 | A named candle | 50 L | Uncommon | your dead rendered to light | Wick Tallow; it knows you |
+
+[pull] Your dead, carved and served, with your best plates. We bring the knives. You bring Grandmother. | — a jointer's card, Wakeside, Sated
 
 ## The Trade in People
 
@@ -1039,6 +1049,8 @@ Right shoulder: For Liss and Paver Hume, their marriage, forty pages, summary on
 Belly: For an Oathen merchant whose name was cut out of the skin by a Clausewright's order, that he will feed his household through the Lack. Broken. (Here the second clerk notes: belly opened at the navel and closed by a surgeon; scar like a mouth.)
 Throat, under the jaw, very small: For her mother, that she would come home before dark. No fee. Kept every night for nine years. Kept on the last night also. The clerk notes that it is kept.
 [/fiction]
+
+[pull] Lot nine. Sound. Feeds well. Declines politely. Do I hear forty? | — Tobiah Nethercott, after Last Bell
 
 ### Behind the Stockyards
 
@@ -1185,6 +1197,8 @@ A sparrow that fell at the edge of Dunmere Hush, perfectly dead and perfectly wh
 **Cost:** 30 L · **Avail.:** Scarce · **Taint:** 2 Hunger, 2 Dread
 A handful of straw from the Scarecrow of Low Tilth, taken at night by a dare. Scattered in a field, it shows on the next dusk which person will be Reaped there. Held in a pocket, it tells the land where you are.
 
+[pull] If you have to ask what it was, you cannot afford what it will do. | — Mags Weir, from the deck of her hulk
+
 ### Relics of the Road
 
 The relics below are the newest on the Rim's stalls: things the trade itself has made, from coin and paper and rope and bread, in the last few years, as the Regrowth quickens and the god begins to soak into the instruments of buying and selling.
@@ -1254,3 +1268,126 @@ The companion volume *Seven Tables* catalogues more than a hundred further leavi
 | A Scratched Vow | Oathen | 30 L | everywhere east; nobody reads the slab first |
 | Barrow-Hair Rope | the Fast | 25 L the fathom | Wanting Post, to pilgrims who cut it |
 | A Stone of the Hem | the Rim | 60 L | anywhere the masons are slow |
+
+## Merchants of the Table
+
+> Never buy from a merchant who says the grace first. He wants something.
+>> — Rim Road advice
+
+These dealers can be dropped into any market scene. Each has a specialty: items in that line are one step more available from them, and they will buy such goods at three-quarters of the listed price instead of half.
+
+#### Mardy Haunch, Sausage-Wife of Gristmoot
+[quick] Mardy Haunch — Threat 3 · Flesh 14 · Guard 10 · Attack +3 (cleaver 3, Ripping) · Armor 1 (suet) · Dread 0
+**Stock:** Fatlands meat, toothed bread, Chute barrels, marrow-brandy. She has the widest stall on the Rim and has never once stood up behind it. Everything she sells is settling. She buys tattooed casings at a premium and will not say who for; it is Hob Gristle, who is trying to give them back to their families.
+
+#### Abelard Myrrh, Perfumer of the Lower Pilings
+[quick] Abelard Myrrh (Kept) — Threat 4 · Flesh 9 · Guard 9 · Attack +2 (awl 2) · Armor 0 · Dread 1
+**Stock:** cedar, vinegar, smoke-oils, Kept gauze, Seamer's lacquer. His own nose rotted off in 340 A.G. and he blends entirely by memory, which is perfect. For 40 L he will make a scent from a dead person's clothes that convinces any Kept who smells it that they are home and loved. The Court has asked him to stop selling it to the Lofts. He has not.
+
+#### Nan Pickering, Limb-Broker
+[quick] Nan Pickering — Threat 3 · Flesh 11 · Guard 11 · Attack +4 (shelving hook 3, Hooking) · Armor 1 · Dread 2 (her drying-racks)
+**Stock:** Kept limbs, seamed parts, Thief's Kept Hands, Seamer's kits. She buys from Marrow Jack and sells to back-alley seamers in Lastgate's undercity. Every limb on her racks is labelled with its owner's name, because she is honest. Some of the owners come to visit. She charges them admission.
+
+#### Mags Weir, Salvage Queen of the Uncovered
+[quick] Mags Weir — Threat 4 · Flesh 13 · Guard 12 · Attack +5 (harpoon 4, Hooking) · Armor 1 (oilskin) · Dread 0
+**Stock:** wreck goods, salvage-tins, Netwatch gear, Dromm's Ear-Stones, Tenanted brine. She sells from a beached hulk two miles out on dry seabed. Her newest salvage came from a wreck that sank before the Gorging: a crate of silverware in services of eight. She has sold seven settings. The eighth keeps coming back to the crate.
+
+#### Lucan Spill, the Oilman
+[quick] Lucan Spill — Threat 4 · Flesh 12 · Guard 11 · Attack +4 (sword 4) · Armor 2 · Dread 0
+**Stock:** lamp oil by the cask, mirror-lanterns, lamp-flasks. He is the supplier who doubled the price to the Vigil, and Garron Ashlock would kill him if killing him would not stop the oil. His new oil burns brighter and smells of low tide. It is rendered on the Uncovered from things with too many ribs, and the lamps that burn it have begun to drip seawater.
+
+#### Dovey Pinch, Pin-Seller of the Slope
+[quick] Dovey Pinch — Threat 3 · Flesh 9 · Guard 13 · Attack +4 (Waker's needle 2, Waking) · Armor 0 · Dread 0
+**Stock:** pins, pin-gloves, Waker's needles, rouse-tabs, hired nudgers by the hour. Seventy, sharp-eyed and pricked all over, she sells pain as a convenience. Her needles are recovered from dead Wakers, and each still remembers the last person it kept awake; if you stick yourself with one, you see their face.
+
+#### Tamsin Keyless, Lock-Pedlar
+[quick] Tamsin Keyless — Threat 3 · Flesh 10 · Guard 12 · Attack +3 (hatchet 3) · Armor 0 · Dread 0
+**Stock:** locks, bolts, bricks, mortar, knocker's rings, counterfeit Agnes Latch locks. Her copies hold for a night, sometimes two. She does not mention that they hold only from the outside, and that what she sells to frightened mothers in Kest is not a way to keep things out but a way to keep them in.
+
+#### Ruth Ninefold, Name-Broker of Kest
+[quick] Ruth Ninefold — Threat 5 · Flesh 10 · Guard 10 · Attack +2 (knife 2) · Armor 0 · Dread 0
+**Stock:** naming-rights, Tally extracts, Attendance birth-fees on credit, living Parts in jars. She owns the rights to name two hundred births. Several were taken to the Lying-In. One was bought from a clay-digger at the rim of the Dilation, and its year is up at the next pang.
+
+#### Silas Amend, Paper-Broker of Tacit
+[quick] Silas Amend — Threat 5 · Flesh 9 · Guard 10 · Attack +3 (quill-knife 2) · Armor 0 · Dread 0
+**Stock:** sworn notes at a discount, Surety introductions, spyglasses, wax tablets, the occasional Snapped Note. He speaks only in conditionals and watches issuers' bodies from the opposite cliff. He has quietly bought every note ever sworn by a single senior Clausewright of the Bench, and intends to call them all on one morning.
+
+#### Nay-Saying Hobb, the Declining Grocer
+[quick] Hobb — Threat 3 · Flesh 8 · Guard 11 · Attack +2 (knife 2) · Armor 0 · Dread 1 (his shelves)
+**Stock:** ration-bread, Unfed greys, frost-markers, Tablebreaker's wedges. Wanting's only shop, run by an Unfed elder who declines every sale three times as custom requires. Sometimes he declines a fourth. His shelves are fuller than the Pantry's, and he cannot say who restocks them overnight. He does not sell the bread that appears on the top shelf. He throws it into the wind.
+
+#### Factor Orsolya Tare, Mistress of the Cure-House
+[quick] Orsolya Tare — Threat 5 · Flesh 11 · Guard 11 · Attack +3 (knife 2) · Armor 1 · Dread 0
+**Stock:** platters at par, new-minted lacks by the barrel, clipped coin bought by weight, First Lacks under the counter. She runs the Company's mint at Saltbridge and smells of boiled bone. Last month a coin-cutter brought her a fresh-cured lack with letters in the grain, as though the bone had grown them. It was a name. She has had the batch held back (see A Lettered Lack), and the Renderers' Union keeps asking where it went.
+
+#### Mister Cutlery
+[quick] Mister Cutlery — Threat 6 · Flesh 13 · Guard 13 · Attack +6 (Clausewright's quill-knife 2, Silent) · Armor 1 · Dread 1
+**Stock:** relics and godflesh of every land, laid out on velvet in a silverware case. A soft-voiced man in a silk mask with a silver fork embroidered on it, he travels the Rim in a black coach and sells to nobles. He will buy back anything he sold at triple its price, provided the seller names exactly where it came from. He is cataloguing the gods for the Second Table, one portion at a time. There is one thing he will not buy at any price, and if it is offered to him he closes his case and leaves the market, and does not come back for a year.
+
+[pull] Bought: cauls, teeth, hair, names, minutes, nails. Sold: the same, dearer. Asked: nothing. | — a slate at the Dry Anchor, Brackwater Bridge
+
+### More Merchants of the Rim
+
+#### Abner Wedge, Arms-Man of Foreign Row
+[quick] Abner Wedge — Threat 4 · Flesh 15 · Guard 12 · Attack +5 (axe 4, Brutal) · Armor 2 · Dread 0
+**Stock:** crossbows, bolts, cleavers, warden's maces, boiled leather, second-hand mail of uncertain provenance. A Gristmoot Fatlander broad as a door who eats brawn while he sells and offers it to every customer. He sells to anyone, including the quiet women in grey who buy six bolts at dawn, and he has started to feel bad about it, which in a Fatlander shows as a loss of appetite. He has lost eleven pounds. His neighbours are worried.
+
+#### Gaspard Thimble, Seamer of Foreign Row
+[quick] Gaspard Thimble — Threat 4 · Flesh 12 · Guard 10 · Attack +4 (Seamer's awl 2, Piercing) · Armor 2 (wire-coat) · Dread 1
+**Stock:** thread, wire, lacquer, Seamer's kits, matched fingers on a cork board. A living Seamer from Lastgate who keeps a booth at Gristmoot and another at Fogmouth. His boy, Kit, cries the stock in a voice that was stitched back wrong after it broke. Gaspard did it on purpose: Kit was sold to him for a debt of his father's, and a boy whose voice nobody can understand cannot ask a customer for help. Kit has learned to write. He writes on the backs of the price-slates, very small.
+
+#### Widow Prosper Gammage, Cure-Seller of Gristmoot
+[quick] Prosper Gammage — Threat 4 · Flesh 16 · Guard 9 · Attack +2 (ladle 1) · Armor 1 · Dread 0
+**Stock:** "safe" food sworn untainted, charms against the Calling, Orrum crumbs (fake), Wren Hollowell's hair (fake), cures for everything. The queen of Cure-Sellers' Lane, enormous and motherly, she has never sold a true cure in her life and does not believe there is one. She swears on her mother's bones that her stew is clean of the god. Her mother's bones are in the stew. She is, technically, not lying, and she says the grace before every sale.
+
+#### Yarrow Fitch, Money-Changer of the Weeping Post
+[quick] Yarrow Fitch — Threat 4 · Flesh 10 · Guard 11 · Attack +3 (knife 2) · Armor 0 · Dread 0
+**Stock:** coin of every land changed at a crumb in the lack, coin-testers' kits, shut-mouths for collectors, minutes of Closing bought cheap from the north. A thin wet man at the always-wet post between Cradlewrack and Fogmouth, with a crescent bitten into his front teeth and a reference pouch of Rim grains sewn inside his shirt. He can read the grain of a lack by tongue. He keeps the person-lacks in a separate purse and will not spend them; the purse is very heavy, and he has started to hear it at night.
+
+#### Bettris Caulfield, Caul-Merchant of Knocking Gate
+[quick] Bettris Caulfield — Threat 3 · Flesh 11 · Guard 11 · Attack +3 (hooked knife 3, Ripping) · Armor 0 · Dread 1
+**Stock:** birth-cauls by the crate, cauls sewn into coats, caul-poultices, knocker's rings. She buys cauls from highland families at eight lacks and sells them at the Spur as proof against the Calling at thirty. They do not work. Lately the Caul-line houses sell to her too, and their cauls are larger, and warmer, and one in her current crate has begun, very slowly, to grow over her hand when she lifts it.
+
+#### Sabine Lisle, Glass-Wife of Lampwick Halt
+[quick] Sabine Lisle — Threat 4 · Flesh 9 · Guard 13 · Attack +4 (dazzle-mirror; Waker's needle 2) · Armor 0 · Dread 0
+**Stock:** lenses, spectacles, mirror-lanterns, dazzle-mirrors, lid-lamps, rouse. A Vigil glass-wife who keeps the last stall before the plateau road and has not slept in thirty-one years. She grinds spectacles that let the sleepless see what is really in front of them for an hour, instead of the Seeming. The customers who buy them come back the next day to return them, and will not say what they saw.
+
+#### Honor Pyle, Surety-Broker of Mumchance
+[quick] Honor Pyle — Threat 5 · Flesh 12 · Guard 10 · Attack +2 (knife 2) · Armor 0 · Dread 1 (her roster)
+**Stock:** Sureties for hire to foreigners entering Oathen, by the day or the crossing; cards of safe phrases; quiet-drops; felt slippers. A Bondsman retired at forty with her jaw wired and both knees reversed, she now rents other people's bodies to merchants who will certainly say something careless in the canyons. Her roster is chalked on a slate by the inn door, each name with a count of what they have left. She is good to her Sureties. She buries them at her own expense.
+
+#### Forgo Ainsley, Chit-Dealer of Wanting Post
+[quick] Forgo Ainsley — Threat 3 · Flesh 8 · Guard 12 · Attack +2 (grain-sock cosh 2, Stunning) · Armor 0 · Dread 0
+**Stock:** ration chits bought and sold, Unclaimed Chits (see Relics), Rim grain at the Company's risk premium, Barrow-Hair Rope. An Unfed man who stands in the yard at Wanting Post every day of the Lack season, buying spare chits from families on the list and selling them to families off it, declining every price three times. He is spat on twice an hour. He has never kept a chit for himself, and he is so thin now that the Crumb-Runners have started leaving bread at his post. He throws it into the wind.
+
+#### Tobiah Nethercott, Auctioneer Behind the Stockyards
+[quick] Tobiah Nethercott — Threat 5 · Flesh 13 · Guard 11 · Attack +4 (cudgel 3, Stunning) · Armor 1 · Dread 2 (his calm)
+**Stock:** debts, bonds, manifests, terms of service, "lots." A courteous, tidy Gristmoot man with a knotted rope to measure the distance from the road, a gavel of Fatlands bone, and one rule: no lot under age. He has kept it for twenty years and is proud of it. He believes this makes him a decent man. He has sold four thousand people, and he says the grace with every buyer, and he would like the Guests to know that he has never once been asked by a lot to stop.
+
+## Strange Encounters at Market
+
+Roll a d20 whenever the Guests spend time in a Rim Road market, or when a shopping scene needs something under the clove.
+
+| d20 | Encounter |
+| 1 | A Fatlands child is selling teeth by the cupful, sorted by village. She knows which village each cup is. |
+| 2 | A Kept auctioneer in Lastgate is selling himself by the limb, to settle a debt from 300 A.G. The bidding is brisk. |
+| 3 | A coin a character spent an hour ago is back in their purse. It is greasy and smells of the fen. |
+| 4 | A Vigil customer blinks mid-haggle and comes back from the long room three stalls away, holding a knife, with no idea why. |
+| 5 | A Brinehollow stall-keeper stops to bail. The brine she coughs into the bucket is moving in a slow circle. |
+| 6 | An Oathener, asked the price, says "Too much" without thinking. His purse splits open at his belt. |
+| 7 | A drover herds Sal Trotter's cattle through the market. One of them, passing, says a character's name. |
+| 8 | Someone has set a table at the market cross: white cloth, warm bread, a chair pulled out. Two Tablebreakers are running towards it. |
+| 9 | A Cradlewrack pedlar's crate has given birth. Nobody knows to what. It is under the cart. |
+| 10 | A Price-witness offers his services, then quietly declines to witness a character's purchase, and will not say why. |
+| 11 | The Company's toll-men are weighing every lack in the market. Clipped coin is confiscated, and so are three thumbs. |
+| 12 | A Netwatch patrol drags a Called man through the stalls on a hook. He thanks every merchant he passes, courteously, by name. |
+| 13 | A Seamer's boy offers a character a finger "that matches yours exactly." It does. Down to the scar. |
+| 14 | Wick Tallow's candles on a stall all lean toward one shopper. The chandler's man goes pale and closes the stall. |
+| 15 | A Reckoner is buying nothing, watching a Gut-line merchant's stall. She has been there since dawn. |
+| 16 | A Wreckwife sells her Tenanted husband's clothes. He is helping her fold them. |
+| 17 | A Purgation preacher hands out emetics and begs the crowd to throw up the god. Some do, on the spot. The Bailiff's men arrive. |
+| 18 | A Fast pilgrim, starving, offers everything she owns for a single Orrum crumb. Someone has one. |
+| 19 | A Cutwright with calipers measures customers' skulls for free, and quietly writes certain names in a separate book. |
+| 20 | A stall that was not there an hour ago sells only one thing: place cards, in a fine hand. The one on top has a character's name on it. The stall-keeper is very tall, and stoops under the awning, and is warm. |
+
+[bigquote] Pay the toll. Keep the peace. Say the grace. And count your change, because some of it was somebody. | — the three articles of the Rim, with the fourth that every market adds
