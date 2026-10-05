@@ -970,3 +970,225 @@ PCs meet Varn when a name is read: theirs, or a friend's. He is courteous and im
 "The finest administrator on the Board. I mean it as a compliment and as a warning." — Chairman Obb Tullow
 "He smells of lavender. Everyone on the row smells of lavender after. It's the last thing they smell." — a Lanternbearer
 [/box]
+
+### Tansy Lard — the Gleaner
+
+> "She's growing ever so well. Da says not to tell anyone. I'm only telling you because you look like you'd understand about mams."
+>> — Tansy Lard, to a stranger on the Tilth Causeway, Plenty 641
+
+[stat: Tansy Lard — the Gleaner]
+Land & Cut: Fatlands · Cut 2 (common line) · Regrowth 1 (the Taste) · Hunger 5
+Age & Station: 10; gleaner behind the harvesters of Kettle Furrow; daughter of a field-hand
+Calling & Standing: Gleaner · Standing 1 (Picker)
+Attributes: Hand 2 · Gut 2 · Lung 3 · Eye 3 · Tongue 2 · Caul 3
+Skills: Search 3, Stealth 2, Athletics 2, Filch 2, Labor 1, Instinct 2
+Flesh 11 · Guard 15 · Armor 0 · Fray 4
+Attacks: none worth the name; she runs
+Gifts: Iron Belly (Taste). The Root's Daughter: the Rootkin behind her house knows her; while she is near, it does not grasp.
+Wants: The Hollow (she cannot bear it when her mother's root refuses water; she will make it drink)
+Knacks: Silent Supper
+Derangements: none yet
+Carries: a gleaning sack, a chipped bowl, a tin cup, her mother's ribbon, a hare cut from paper
+Dread: 3 (to see the root say her name)
+[/stat]
+
+#### Who They Are
+
+A girl of ten, skinny for a Fatlander, which means she would pass for a well-fed child anywhere else on the Table: straw-coloured hair tangled past her shoulders, freckles, a smock too short in the arms, scabbed knees, and dirt permanently under her nails. She has a gap where two front teeth are coming in. She is quick, watchful and very quiet, and she chews the cuff of her sleeve when she is thinking, as Fatland children do. She smells of stubble-dust, grass and the earth behind her house.
+
+#### Their Story
+
+Tansy's mother, Mab Lard, was Reaped in Carving 639, in the north strip of the far field, gleaning late after the others had gone home. Tansy was with her until the light went red, and was sent home, and went. Her father, Abner, a field-hand of few words, held a wake with no body, as Low Tilth families do, baking the strip's flour into a single loaf on Tablenight.
+
+In Plenty 640, gleaning in the north strip, Tansy dug up a root the size of a sleeping cat: pale, veined, warm, and marked on one side with a brown splash shaped like a running hare. Her mother had that mark on her shoulder. Tansy carried it home in her sack and planted it behind the house, in the angle of the wall by the water-butt, and has watered it every day since. It has grown. It has leaves like hands. Last week, at dusk, it said her name.
+
+#### Their Place in the Land
+
+She is one of hundreds of gleaners in Low Tilth, children who follow the harvesters picking the fallen ears and are paid a few crumbs and all they can eat. She is part of the village: Pell Hogget, next lane over, measures the root for her; Old Mother Rind, in the orchard, asks after it. She has stopped eating at the family table and goes out at dusk with her bowl, and her father has noticed, and does nothing, because he has been out to look too.
+
+#### What They Carry
+
+- **A gleaning sack** — patched, which smelled of her mother for a year and now smells of the root.
+- **A chipped bowl** — her supper bowl, which she carries out at dusk. She pours her broth on the root, and eats nothing.
+- **A tin cup** — for water from the butt.
+- **Her mother's ribbon** — red, from Mab's hair, which Tansy ties round the root's thickest stem.
+- **A paper hare** — cut from a Board proclamation about wolves; she has pinned it to the wall over the root.
+
+#### Wants, Fears and Secrets
+
+She wants her mother back. She fears that someone will dig the root up: the Cullmasters' men harvest Rootkin by night and sell them by the weight, and she has heard the carts.
+
+**Secret (the GM may reveal):** Mab's other parts went into the Dusk Acres' harvest and up the Chute. A barrel of bacon with a hare-shaped birthmark is somewhere on the Rim Road.
+
+**Secret (she does not know):** The root is a Rootkin bed. It has learned her name from her, and her mother's voice from the soil. If it is left a full year, in Plenty 641, it will send up shoots with hands, and the hands will pull down whatever leans close, and Tansy leans close every night. While she is near, it holds back. It is waiting for her father.
+
+#### Ties
+
+- **Abner Lard** — her father, who will not speak of the root and has started standing by it at night.
+- **Pell Hogget** — who measures it in hands and writes it down.
+- **Old Mother Rind** — who tells her the root is lucky and asks to be told how it grows.
+- **Hob Gristle** — who jointed her grandmother, and would know the hare birthmark anywhere.
+- **Varn Sweetbread** — whose men are coming for the Rootkin of Kettle Furrow this Carving.
+
+#### In Play
+
+PCs meet Tansy gleaning, or on the causeway; she talks to strangers because villagers have stopped listening. She is the reason the PCs first learn what a Fatland root can become. She wants them to help her keep the root safe.
+
+- **The Night Carts.** The Cullmasters' men come at night for the Rootkin of Kettle Furrow. Tansy begs the PCs to stop them.
+- **It Said Her Name.** The PCs hear the root speak. It is Mab's voice. It asks for Abner.
+- **The Hare Barrel.** A barrel on the Rim Road holds bacon with a hare birthmark. Bringing it home is a kindness and a horror.
+
+**Threatened,** she runs and hides behind the water-butt, by the root. **Shown kindness,** she shows you her mother. **Faced with the god,** she waters it. If nobody intervenes, her father is found one morning in Plenty 641 on his knees at the root, held fast by green hands, and Tansy is sitting beside him, holding the cup, saying *drink, Mam, drink*. (Keep the camera on the adults. Tansy survives.)
+
+[box: Said of Them]
+"Poor little mite. She's lost weight. Someone should feed her." — a Bailiff of Low Tilth
+"Leave her be. A root's a root. We've all got someone in the garden." — a neighbour of Kettle Furrow
+"She brings me her bowl to look at, empty, and asks if she's done right. I tell her yes. It's the first lie I've told a child." — Pell Hogget
+[/box]
+
+### Brother Glut — Prophet of the Second Helping
+
+> "Take, and eat, my loves! This is my flank, which I give for you! Oh, don't cry, don't cry. It's the happiest day of my life. Every day is."
+>> — Brother Glut, at the long tables of Gladbelly, Carving 640
+
+[stat: Brother Glut — Prophet of the Second Helping]
+Land & Cut: Fatlands · Cut 3 (Prime Cut, the Puddifoot tripe-line) · Regrowth 8 (the Course) · Hunger 5 (stable; it has not risen since 636)
+Age & Station: 52; Prophet of the Second Helping since 618; resident at Gladbelly
+Calling & Standing: Celebrant · Standing 5 (Prophet)
+Attributes: Hand 2 · Gut 5 · Lung 1 · Eye 2 · Tongue 5 · Caul 4
+Skills: Persuade 5, Rites 4, Feast 4, Endure 4, Godsign 3, Stitching 1, Lore 1
+Flesh 17 · Guard 11 · Armor 1 (loam-flesh) · Fray 0
+Attacks: crushing embrace +2 (1, held)
+Gifts: The Shared Plate: anyone who eats his flesh loses 1d6 Hunger and must pass Caul + Resolve (Hard 14) or come back for more. The Words Over the Body (Calling): once per scene, those who join his rite remove 2 Fray. Laden: Armor 1; he is rooting, and is moved on a litter. Unbleeding: his offered wounds close clean in a day and never fester.
+Wants: to give; to see others give (anyone in his presence who refuses a gift must pass Hard 14 or feel a shame like grief)
+Knacks: Gallows Laugh, Hostage's Smile
+Derangements: The Devotion (to Ummer; he believes it speaks to him in the taste of bread)
+Carries: the garland, the linen, the carving-cloth, the Book of Gravy, a bell, a bowl
+Dread: 2 (to see him carve himself, smiling)
+[/stat]
+
+#### Who They Are
+
+A mountain of pink flesh in a garland of toothed wheat, nine hundred pounds of him, carried on a litter by eight singing Servers because his feet have begun to root. His face shines: with sweat, with joy, with tears that run without stopping because he is so happy. His voice is a deep golden bell that fills a meadow without trying. He has no left hand, only a stump bound in clean linen; no ears, only neat pink whorls of scar; three toes gone from his right foot; and a long linen dressing down his left flank where a strip was taken in Carving 640. He shows these off like medals. He embraces every stranger, and his embrace is warm, soft, enormous and smells of bread and honey and the inside of a bakery at dawn.
+
+#### Their Story
+
+He was born Osbert Puddifoot in Sated in 589, a pastry-cook's son on Ladle Lanes, and was a pastry-cook himself, beloved, a little foolish, kind to children. In 612 his wife, Primrose, was Reaped. He did not weep; he went to Gladbelly, which was then a small Bait congregation of a few dozen souls, and ate with them, and was offered a second helping, and took it. He was transfigured. He preached his first sermon at the long tables that Supper, on the text *we were eaten first*, and the commune followed him. He has been Brother Glut since 618.
+
+He gave his first part, his left ear, in 620; his right in 624; the toes in 629; the left hand in 636, cut off on the pavilion's board and roasted with honey and served to the whole commune; the flank strip in 640. The Second Helping teaches that being eaten is the highest form of being loved, and he is its proof.
+
+#### Their Place in the Land
+
+Gladbelly has some three hundred residents and a hundred kitchens across the plain, and they are the happiest people in the south. Brother Glut presides at the long tables, preaches at every meal, blesses the Offered in their last week, and walks (is carried) in procession beside them to the pavilion. The Board finds him embarrassing and very convenient, because the Offered do not appear in the Count. The Second Table finds him useful and gullible.
+
+#### What They Carry
+
+- **The garland** — toothed wheat woven fresh each morning by the children; it nips his scalp, and he says it is kisses.
+- **Clean linen** — bindings for his wounds, changed daily by Plateholder Juniper Mallow.
+- **The carving-cloth** — a white cloth embroidered with the hymn, laid under him when he gives a part.
+- **The Book of Gravy** — the Second Helping's hymnal, in his own hand, sticky with dripping.
+- **A little brass bell** — rung at every meal, and when someone announces their Offering.
+- **A wooden bowl** — Primrose's, from which he eats every meal, which is always empty when he finishes.
+
+#### Wants, Fears and Secrets
+
+He wants to give, and to see others give, and to go to the god himself, whole, when the time comes. He fears nothing. He does not see the widows at the back of each meeting, holding their plates.
+
+**Secret (the GM may reveal):** He has not felt the hunger since his hand was eaten. He thinks this is grace. It is the god moving out, piece by piece, into those who eat him. Those who have eaten his flesh feel his hunger, and come back.
+
+**Secret (he does not know):** Some of the Offered never reach the pavilion's kitchens. Juniper Mallow has, since 630, sold one Offered in ten to Lord Chastain Loin for Dame Marrable's cellar table, and spends the money on the orphans.
+
+#### Ties
+
+- **Corder Lank** — the other man who does not feel the hunger. Glut embraced him once and wept for joy. Corder did not.
+- **Tobias Wether** — a man from the Fast who has eaten; Glut sees a convert, and believes Tobias is the god's own sign.
+- **Juniper Mallow** — his Plateholder, who binds his wounds and keeps the shoes.
+- **Dame Suet Marrable** — who sends Gladbelly a cart of pies each Harvest Home, and to whom he is grateful.
+- **Hob Gristle** — who refused to joint his hand in 636 and told him he was a fool, gently.
+
+#### In Play
+
+PCs reach Gladbelly following a missing friend, or as guests. Everyone is offered a second helping. Glut wants them to stay, and to give.
+
+- **The Offering of a Friend.** Someone the PCs know has announced their Offering; there is a week of feasting before the pavilion.
+- **The Tenth Offered.** A child at Gladbelly asks why her father's shoes are not in the row.
+- **A Piece of the Prophet.** A Thin PC with Hunger 0 is told that one mouthful of Glut will make the pain of fasting go. It will, for a day.
+
+**Threatened,** he opens his arms. **Shown kindness,** he weeps for joy. **Faced with the god,** he sings. If nobody intervenes, he announces his own Offering in Carving 642, and the whole commune eats him in a week, and every one of them wakes the next morning with his hunger.
+
+[box: Said of Them]
+"He held my hand. The one he has left. I've never been so loved." — a Guest of the Second Helping
+"There's always a widow at the back. Every meeting. Never the same one." — a cook of Gladbelly
+"The happiest man in the south, and the only one who isn't hungry. That should tell you something, and it tells everyone the wrong thing." — Corder Lank
+[/box]
+
+### Old Mother Rind — the Hill with a Mouth
+
+> "Marry her, love. She's sound in the hip and she'll root late. No, don't thank me. Bring me something. Not the pears. I've got pears."
+>> — Old Mother Rind, to a young man of Kettle Furrow, Grace 641
+
+[stat: Old Mother Rind — the Orchard Hill]
+Land & Cut: Fatlands · Cut 3 (common line, rising) · Regrowth 12 (Seated) · Hunger 7 (never below 4)
+Age & Station: born 556 A.G.; rooted 601; Seated about 620; a small orchard hill outside Kettle Furrow
+Calling & Standing: once Midwife of Kettle Furrow · Standing 3 (her word on marriages is still law in the village)
+Attributes: Hand 2 · Gut 9 · Lung 0 · Eye 4 · Tongue 4 · Caul 6
+Skills: Lore 5 (every birth, bed and bloodline in Kettle Furrow), Instinct 5, Persuade 4, Feast 5, Rites 2
+Flesh 50 · Guard 9 · Armor 3 (turf and loam)
+Attacks: roots +5 (2, held: Gut + Athletics Hard 14 to break; reach: the hill and ten paces); the mouth +6 against a held target (5)
+Gifts: The Two Questions (old Midwife's gift): she knows at once whether a living thing is what it seems. True Counsel: fed meat, she answers one question about any person of Kettle Furrow truthfully. Ripening: her nine pear trees bear fruit that heals 1d6 Flesh (Taint 2 Hunger).
+Wants: to be fed by her kin; lately, particular people
+Knacks: Elder's Ear, Kin-Sense
+Derangements: The Voice at Table (she hears the field; it is reasonable; some of what it says is good)
+Carries: nine pear trees, a mouth, a midwife's knife in the turf, a ring of offerings
+Dread: 2 (to hear her speak); 3 when she asks for someone by name
+[/stat]
+
+#### Who They Are
+
+A low round hill some forty paces across behind Kettle Furrow, covered in short soft clover and bearing nine pear trees on her back in a rough ring, as a woman wears a crown of pins. The turf is warm right through Lack, and it rises and falls, slowly, once every few minutes. At her foot, half hidden in the clover, is a mouth: lips brown and cracked like bark, as wide as a cart-wheel's hub, and inside, many rows of wheat-teeth, small and white. Her voice is a dry old woman's, amused, sharp, a little hoarse, and it comes up through the turf as much as through the mouth, so that people kneeling to listen feel it in their knees. She smells of windfall pears and wet earth.
+
+#### Their Story
+
+Margery Rind was the midwife of Kettle Furrow for twenty-five years and delivered half the village, including her own grandson Pell Hogget in 594. She grew heavy late, reached the Course at forty, and rooted in 601 in her own orchard while hanging washing, because, she said, she was tired and the ground was warm. She taught Pell his numbers on her lap, counting pears, until her lap was gone. By 620 she had stopped being a woman and become a hill. She kept her mouth, and her memory of every birth in the village, and her opinions.
+
+#### Their Place in the Land
+
+Kettle Furrow asks her advice on marriages, and she is always right, because she knows every bloodline and every secret parentage. Her fee is meat: the best cut of the last wake. Families bring her offerings and kneel and ask. The village is proud of her.
+
+#### What They Carry
+
+- **Nine pear trees** — planted on her by Pell's mother in 621; their fruit is famous.
+- **The mouth** — which eats whatever is put in it.
+- **Her midwife's knife** — buried in the turf near the mouth, its handle showing; she asks people not to touch it.
+- **A ring of offerings** — bones, ribbons and wedding-tokens around her foot.
+
+#### Wants, Fears and Secrets
+
+She wants to be fed. She fears nothing anymore except being forgotten.
+
+**Secret (the GM may reveal):** The particular people she has lately asked for are the ones the field wants this Carving. She can feel them. If they are fed to her, they are hers, not the Scarecrow's, and she tells herself it is mercy, because she is quick and the field is slow. She has asked Pell for Barnaby.
+
+**Secret (she does not know):** She is moving, a few inches a year, toward the far field and the Scarecrow.
+
+#### Ties
+
+- **Pell Hogget** — her grandson, whom she taught to count.
+- **Tansy Lard** — whose root she asks after.
+- **The Scarecrow** — which she calls *that one*.
+- **Mercy Sowerby** — the Hill-Speaker, who has come to listen to her and has been told to go away.
+
+#### In Play
+
+PCs come to her for counsel; she answers truly. She wants them to bring her someone.
+
+- **The Marriage.** A couple asks her blessing; she gives it, and asks for the bride's mother.
+- **Barnaby.** Pell asks the PCs what to do.
+- **The Move.** The PCs measure her distance to the Scarecrow.
+
+If nobody intervenes, she reaches the far field in a decade.
+
+[box: Said of Them]
+"She told me who my real father was. She was right." — a farmer of Kettle Furrow
+"Always right. Always hungry." — a Bailiff
+"She asked for my boy." — Pell Hogget
+[/box]

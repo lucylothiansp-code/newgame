@@ -1015,10 +1015,10 @@ PCs need Fenwick whenever a tongueless Kept has something to tell them. He is ch
 Land & Cut: Sallowreach · Cut 2 · Regrowth 1 (the Taste) · Hunger 1
 Age & Station: Born 597 A.G.; living, 44; Keeper of the Jar Room, third of her line
 Calling & Standing: Warden · Standing 2 (a Court servant, unseen)
-Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 3 · Tongue 2 · Caul 3
-Skills: Endure 3, Search 3, Blades 1, Brawl 2, Resolve 3, Lore 2, Craft 2
-Flesh 11 · Guard 11 (12 with the cudgel) · Armor 1 (leather apron) · Fray 6
-Attacks: cudgel +5 (3, Stunning)
+Attributes: Hand 3 · Gut 3 · Lung 1 · Eye 3 · Tongue 2 · Caul 3
+Skills: Search 3, Resolve 3, Labor 2, Lore 2, Craft 2
+Flesh 11 · Guard 11 · Armor 1 (leather apron) · Fray 6
+Attacks: cudgel +3 (3, Stunning)
 Gifts: Lidsense (she knows which jars have their eyes open)
 Wants: Close (lids, every one; she checks the seals forty times a night)
 Knacks: Butcher's Calm; Vinegar Kiss

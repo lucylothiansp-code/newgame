@@ -200,3 +200,187 @@ Leaves get out under bricklayers' aprons. They are the most dangerous thing the 
 | 6 | A line with no bearer and no answer, only the Opinion's mark, and the word *late*. |
 
 **WORTH:** 600 lacks to the Assemblers, more to the Second Table. Rare. Possession is the gravest concealment there is; the Attendance has bricked readers for less.
+
+## From the Born-Wrong
+
+[sigil: cradlewrack]
+
+The Parts, the born-grown, the Uncut and the things the Assemblers stitch are the commonest source of leavings in the highlands and the most contested. Every hand born in a Rudge cottage is wanted by four parties at once: the mother, who loves it; the Attendance, which is owed it; the Assemblers, who believe it is a finger of the god; and the cellar-dealers, who know exactly what a Fatlands buyer will pay for a warm hand in a jar. The Foundling Companies guard their dead more fiercely than any army on the Table guards its living, and the Uncut regard any cord cut from one of their own as a murder of two people. Leavings in this section are almost all taken from someone who was, in some sense, still attached to them.
+
+### A Joining Seam
+
+When two Parts fit, they seal along a seam that heals in a night: a pale raised line, faintly ridged like the join of a shell, warm, and smelling of milk. The Assemblers' surgeons cut seams out of the Gathered they cannot use (clusters that joined wrongly, in the dark, before the Gatherers reached them) and keep the strips in warm ewe's milk in stone jars in the Barn's middle hall. A strip the length of a finger, laid along a wound between two pieces of flesh, makes them join as Parts join. It does not matter whose flesh it is.
+
+A Kest mason who lost three fingers to a falling lintel bought a seam and three fingers cut from a man hanged at Knocking Gate, and had them stitched on in a cellar under the naming-exchange. They took overnight. They work beautifully. At dusk they clench, all three, hard, and hold, for about as long as it takes a hanged man to stop.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Hard (14) for anyone who has had dealings with the Assemblers or the Second Table's surgeons.
+
+**SPOILAGE:** In warm ewe's milk, one pang; in milk in a grey-stone jar, a season. Out of milk it dries within a day to a dead white string.
+
+**CARVING:** Cut from a Gathered: Hand + Stitching vs Grim (18) if it is alive and fighting (it will Grapple), Hard (14) if dead. Witnessing a Gathered pried apart along its seams is Dread 2. A Lack means the seam closes on the carver's hand, and must itself be cut.
+
+**TAINT:** 2 Regrowth (Vey).
+
+**EFFECT:** Laid in a wound with Hand + Stitching vs Hard (14), it joins any two pieces of living or freshly dead (within a day) flesh by the next morning: a severed limb is restored (removing that Injury), or a foreign part is grafted (a hand, an eye, a sheet of skin). A foreign part keeps one habit of its first owner (a tremor, a reach, a Want, a clench at dusk); seeing it the first time is Dread 2 for the bearer. The seam is Vey's now: in Cradlewrack it reopens on a pang roll of 1–4 rather than 1–3, and any Part within a mile is drawn toward it.
+
+**WORTH:** 120 lacks the strip. Scarce. The Assemblers sell only to those they trust; Master Quillon Barr buys all he can find. Concealment, and in four lands an accessory to grave-robbery.
+
+### A Borrowed Scar
+
+The born-grown arrive scarred: old sword-cuts, rope-burns, the white puckers of healed arrowheads, all on bodies that have never been anywhere. The Companies call them *birth-marks* and think little of them. The Cutwrights' Linemen think a great deal of them, because in every case they have been able to trace, the scars on a born-grown match the wounds of someone who died on the day the born-grown was born, somewhere on the Table. The College has not published this. Hobb Fallowmere, Warden-Captain of the Rim, was born with a warden's scar on his cheek, and does not like to be asked whose.
+
+A scar cut whole from a dead born-grown and grafted onto living skin carries something of the one who first took the wound: a habit of hand, a trained reflex, a craft. The Rim wardens swear by them. A sergeant of the Second Company who wears a crossbow-burn on her forearm, grafted from a Foundling who went home, has not missed a shot in four years. She dreams of a tower in the Vigil and a lamp going out.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Hard (14) for anyone who has served in the Foundling Companies or the Rim wardens.
+
+**SPOILAGE:** Rots in three days unless grafted. Kept in brine with a pinch of spring-salt, one season.
+
+**CARVING:** From the body of a dead born-grown: Hand + Stitching vs Hard (14) to lift the scar whole. The Companies bury their dead in their own wall and guard it; robbing that wall is Lung + Stealth vs Grim (18), and the Companies do not hand such thieves to the Attendance. They deal with it as a Company. Dread 2 for the carving.
+
+**TAINT:** 1 Regrowth (Vey), Dread 2.
+
+**EFFECT:** Grafted (Hand + Stitching vs Grim 18, or automatic with a Joining Seam), the scar gives +1 to one skill the original owner plainly had (a sword-cut, Blades; a rope-burn, Athletics or Labor; a burned palm, Craft), to a maximum of 5. Once per session, in a scene that resembles the original death, the bearer takes a Dread 2 check as they remember dying. When the bearer dies, the GM may decide that somewhere in Cradlewrack, that day, a born-grown arrives mid-stride, wearing the wound that killed them.
+
+**WORTH:** 200 lacks. Rare. Traded on the Rim among wardens and caravan guards. The Companies' vengeance is not a legal penalty, but it is a reliable one.
+
+### A Going-Home Blanket
+
+A Newborn of the Foundling Companies is given three things: a number, a place in the Crèche, and a blanket of undyed Company wool. Some born-grown age normally. Some age backward. A few, without warning, revert to infancy in a single night, and in the morning their comrades find a baby in the blanket in the soldier's bed, and the soldier is gone. The Companies call it *going home*. The infant does not live long; it never does. It is bricked into the Company's own wall, and the blanket, which smells of milk and sweat and gun-oil and the soldier's own particular musk, is folded and kept by whoever loved them.
+
+Some are sold, by sergeants who drink, to buyers who have heard what a going-home blanket does. Wrapped in it overnight, a sleeper wakes a year younger: smoother, quicker, lighter in the joints. They also wake lighter in other ways. Old Rim merchants who have tried it describe forgetting things in the order they learned them, last first: the newest language, then a craft, then a face. A spice-factor at the Groaning Board slept in one for seven nights in 638. On the eighth morning the innkeeper found a baby in the bed, in a fine nightshirt much too large for it, and a ledger on the bedside table in a hand nobody could read any more.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Hard (14) in the Companies, who will not discuss it.
+
+**SPOILAGE:** It keeps while unwashed. Washed, it is only wool. The smell, and the effect, fade after nine pangs.
+
+**CARVING:** From a comrade's keeping: Tongue + Persuade vs Hard (14), and a Dread 2 check on being told who it belonged to. From the Crèche's store: Lung + Stealth vs Grim (18).
+
+**TAINT:** 2 Regrowth (Vey), Dread 2.
+
+**EFFECT:** Each night slept wrapped in it, the sleeper wakes a year younger in body, heals 1d6 Flesh and loses one healed Injury's lasting penalty, and loses 1 point from the skill they most recently raised. On the third night they also lose a Knack. On the seventh night, and every night after, they must roll Caul + Resolve vs Dire (22) or go home.
+
+**WORTH:** 350 lacks. Rare. Bought by the old and rich of every land except Sallowreach, where nobody ages and everyone already forgets. The Companies regard the sale as the theft of a body.
+
+### A Root-End
+
+Among the Uncut, the eldest let their cords grow down into the clay, and are called Roots, and through their cords the long houses feel the pulse of the land itself. Maeve Cord's mother is the oldest Root in Cordway, and her cord does not end in her tomb. When a Root's cord is cut, by the Barren Order's saboteurs or by a desperate thief, the end that went into the ground comes up: a pale knot of fibrous cord as thick as a wrist, trailing fine red rootlets like the veins of an eye, and beating. It does not beat with the Root's pulse. It beats with the land's, and under that, faster and smaller, the second pulse Madder Rudge hears at the Dilation.
+
+In 637 a Grey Brother of Nullhouse cut a Root's cord in Cordway at the height of a pang, to sever the Uncut from the ground. Both ends bled. The Root died in the night, and her daughter on the other end of the cord died with her. The root-end came up in the Grey Brother's hands as he pulled, and he could not let go of it for a day. It is in Nullhouse now, in a grey-stone box, and the brothers who keep it say it is beating faster every pang.
+
+**WHISPERED:** Eye + Lore vs Grim (18); every Uncut knows, and will not say.
+
+**SPOILAGE:** It wants soil. Bedded in a pot of red highland clay it lives indefinitely; out of clay it withers in nine days. Abroad, it puts rootlets into any soil it rests on, and the Highland Leavings Abroad roll is made at 1–3.
+
+**CARVING:** Cutting a living Root's cord is Hand + Blades vs Hard (14) and is, to the Uncut, the murder of two people. Dragging the end up out of the clay is Gut + Labor vs Grim (18); the ground holds on. Dread 3. A Lack means the carver feels the second pulse in their own chest for a week, and gains 2 Hunger each day of it.
+
+**TAINT:** 3 Regrowth (Vey).
+
+**EFFECT:** The holder knows the hour of the next pang a full day in advance. Laid on bare ground, it twitches toward the Dilation and beats faster near any crowning. Held to the ear, its second pulse can be listened to: Eye + Instinct vs Grim (18) learns one true thing about what is under the Dilation, and costs a Dread 4 check every time. A Cradlewracker who carries it feels a Pull (14) toward the Dilation once each day.
+
+**WORTH:** 900 lacks. Rare. The Barren Order buys them to keep in stone; the Second Table buys them to follow. The Uncut do not buy them back. They come for them.
+
+## From the Ground in Labor
+
+[sigil: cradlewrack]
+
+The Attendance believes no single person will ever be Seated in Cradlewrack, because Vey is not regrowing in a person. It is regrowing in the country. That makes the land itself the god's body, and its leavings the nearest thing on the Table to a piece of a Provider that has come back whole. Pilgrims at Rimwatch sell the clay of the Dilation's lip by the jar; the masons of the Stillyard sell what comes out of their walls; Old Hinge sweeps up splinters below a door older than the Gorging and does not know what to do with them. Highlanders handle the land's leavings with the same flat practicality they bring to everything else, and with one difference. They do not keep them in the house during a pang.
+
+### Lip-Clay of the Dilation
+
+The lip of the Dilation is soft red clay that gives underfoot like flesh and slopes inward to the drop. Every morning the Rimwatch reset their painted stakes at the new edge, and every morning, before the stakes go in, the pilgrims and the poorer Rudge diggers go down onto the slick slope with buckets and scoop the clay from the very edge, where it is warmest. It smells of iron and birth-water. In the jar it flexes at each pang, a slow squeeze and release, and the lid must be tied down.
+
+The potters of Kest learned early not to fire it. A cup made of lip-clay in 636 held tea for two pangs; at the third, its bottom dilated in its owner's hand, and something the size of a plum, wet and dark, came up through it and dropped into her lap. What the clay is good for is drawing things out. Smeared into a wound, it widens the wound, deepens it, and delivers whatever is lodged inside: arrowheads, splinters, a swallowed key, poison, the toothed seed of Fatlands wheat. The Reopening Ward uses it, under protest, on Foundling soldiers with bolts in them. It hurts more than the bolt did.
+
+**WHISPERED:** Eye + Lore vs Routine (10) in Cradlewrack; everyone at Rimwatch sells it. Hard (14) abroad.
+
+**SPOILAGE:** Warm and active for one pang. After the second it cools to ordinary red clay, unless kept in a sealed jar topped with water from a highland spring, which keeps it a season.
+
+**CARVING:** Scooping from the advancing edge is Gut + Athletics vs Hard (14) on a slope that gives. The rim is Dread 2; during a pang, Dread 4. A Lack means the slope moves: Lung + Athletics vs Grim (18) or slide over the edge, which is the end of the character.
+
+**TAINT:** 2 Regrowth (Vey), 1 Hunger.
+
+**EFFECT:** Smeared into a wound with Hand + Stitching vs Routine (10), it delivers anything lodged in the body: a bolt-head, a splinter, a swallowed object, or one poison or drug (ending its effect at once). The patient takes 1d6 damage that ignores Armor and a Dread 2 check, and that wound reopens on a pang roll of 1–5 forever after. Used as mortar, it gives any wall a door within nine days, where there was none, and Doorborn are known to come out of such doors.
+
+**WORTH:** 15 lacks the jar at Rimwatch. Uncommon in Cradlewrack, Scarce abroad. Not illegal. The Attendance looks at buyers in a way that makes them wish it were.
+
+### A Splinter of the Sill
+
+On the bare hilltop in the north, a single oak door stands in its frame with no wall around it, grey with age, iron-bound, older than the Gorging, ajar since that night and opening a finger's width further every year. As the gap widens the old wood stretches, and splinters come away from the leading edge: long pale slivers, dry and grey on the outer side, warm and faintly damp on the side that faced the gap. Old Hinge sweeps them up and burns them. Not all of them. Pilgrims steal them from the grass, and Hinge, who is old and short of money, sells a few.
+
+A splinter carried in a pocket makes doors behave as the Sill behaves. They stand open a finger's width behind the carrier, every one, when they look back. Pressed into a keyhole, a crack or a gap between boards, a splinter shows the far side of the Sill instead of the far side of the crack. What can be seen there varies. Agnes Latch, who has studied the Sill through a glass for twenty years and built every one of her best doors to its pattern, bought four splinters in 639 and has not let anyone into her workshop since.
+
+**WHISPERED:** Eye + Lore vs Hard (14); anyone who has visited the Sill knows of the splinters.
+
+**SPOILAGE:** None. On Tablenight every splinter of the Sill, wherever it is on the Table, stands upright on its end and stays so until dawn.
+
+**CARVING:** From Hinge's sweepings: Tongue + Persuade vs Hard (14), or a few lacks. From the door itself: Hand + Craft vs Grim (18) to pry a sliver from the edge without touching the gap. Touching the gap is Dread 4. A Lack means the door opens a finger's width further while the carver's eye is to it.
+
+**TAINT:** 2 Regrowth (Vey), Dread 2.
+
+**EFFECT:** Carried, it gives +2 Stealth to slip through doors unheard, and the carrier leaves every door they pass a finger's width open; Cradlewrackers gain the Want **Leave It Open** at Routine (10) if they did not have it. Pressed into any gap and looked through, Eye + Godsign vs Grim (18) answers one question about something that is beginning, from the other side of the Sill: Dread 4. On a Lack, something on the far side looks back through the crack, and knows the carrier's face.
+
+**WORTH:** 250 lacks. Scarce in Cradlewrack, Rare abroad. The Attendance forbids approach to the Sill, and Agnes Latch outbids everyone.
+
+### A Knocked Brick
+
+The long walls of the Stillyard tick and settle on still nights, and sometimes they knock. Families pay masons to listen, and when a wall knocks back, the Attendance is sent for, and attends, and afterward a mason takes out the brick with the family's stamp and lays a new one. The old brick is meant to be broken. Absalom Gage, the deaf chief mason, has a stack of them in his yard, forty years' worth, and lately he can hear them.
+
+A knocked brick goes on knocking. It is an ordinary red brick, stamped with a family's mark, a little warmer than it should be, and it carries the dead behind it the way a shell carries the sea. Mortared into a house wall, it knocks three slow times whenever anything comes through any door of that house unannounced, which in Cradlewrack is the most valuable warning there is. Laid on a table with a palm flat on it, it answers questions from whoever was bricked behind it: one knock for yes, two for no. There is a third answer. Gage says the dead give it more often every year.
+
+**WHISPERED:** Eye + Lore vs Hard (14) in Kest; masons know without a roll.
+
+**SPOILAGE:** Removed from the Stillyard, a brick knocks for a year and a day and then is only a brick. Mortared into a wall of grey stone, it knocks forever.
+
+**CARVING:** Unbricking a knocking brick from a Stillyard wall is Hand + Labor vs Hard (14), and desecration. Feeling it knock against the palm as it comes free is Dread 2. A Lack means it knocks from inside the carver's pack all night, and they get no rest.
+
+**TAINT:** Dread 2; and 1 Regrowth (Vey) each time it is questioned.
+
+**EFFECT:** Set in a wall, the household cannot be surprised by anything entering through a door. Questioned, it answers up to three questions a night from the dead behind it, by knocks; each night of questions is a Dread 2 check. On any question, the GM may answer with three knocks, which means *come and see*: the questioner must pass Caul + Resolve vs Hard (14) or walk to the Stillyard that night and open the niche.
+
+**WORTH:** 70 lacks. Scarce. Sold by masons on the quiet. Desecration; the family whose mark it bears may take it worse than the Attendance does.
+
+### A Doorborn's Key-Finger
+
+Doorborn are the offspring of thresholds: thin grey things with limbs jointed like hinges, born from any door, gate or lid shut too long. They come out at night into sleeping houses and open things with long fingers like keys, neatly, along every seam a midwife knows. The finger of a dead one is as long as a man's hand, grey, cold, with five small joints that bend in both directions and a tip flattened into wards like a key's bit. Drawn along a body, it opens it along a seam, cleanly, without blood, and the patient stays awake and feels nothing but a draught.
+
+The surgeons of the Reopening Ward are forbidden to use them and do. Tamsin Gorse keeps one in a knotted cloth in her apron and will deny it to anyone but a patient on her table. Burglars use them too. A key-finger slid into any lock turns it as if it were made for it, and then keeps turning, very gently, after the lock is open, as if feeling for something further in.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Hard (14) for surgeons and thieves in Kest.
+
+**SPOILAGE:** Wrapped tight in a knotted cord it stays supple for a season. Unwrapped it stiffens within a pang into grey bone, which still opens locks and no longer opens bodies.
+
+**CARVING:** Kill a Doorborn (Threat 4, Flesh 12, Guard 16, Dread 3) and cut a finger free: Hand + Stitching vs Hard (14). A Lack means the finger opens the carver's palm along its lines as it comes away: 2 damage, ignoring Armor, and a scar that will reopen.
+
+**TAINT:** 2 Regrowth (Vey), Dread 2.
+
+**EFFECT:** As a surgical tool, +4 to Stitching for any surgery, with no bleeding and no pain for the patient. As a pick, +4 to Filch against locks. As a weapon, opening fingers (3); with two Helpings the target's oldest scar opens and bleeds 1 Flesh a round until stitched. Every seam it opens reopens on a pang roll of 1–3. A Cradlewracker who carries it unwrapped gains the Want **Leave It Open** at Hard (14).
+
+**WORTH:** 180 lacks. Scarce. Surgeons, burglars, the Second Table's Master Barr. Concealment; the Attendance regards any Doorborn part as a birth that should have been bricked.
+
+### The Rudge Rope
+
+In 403 A.G. the parish well at Rudge gave birth, and something climbed up the rope and was not seen again. The well has been capped with three tons of fired brick and a millstone, and the parish still sleeps badly. The rope was kept in the church loft: forty fathoms of hemp, stiff and dark, stained to a man's height above the bucket-end, and printed all along its lower length with small marks like the grip of wet hands. It is warm. It is a little longer every year.
+
+The parish sold it in 590 to a Rim collector and Madder Rudge's family bought it back in 611, for more than the parish could explain. In the summer of 629 someone took it out to the Dilation at night and let it down over the edge, and something on it went down ninety feet, and came back. The rope came up with a handprint pressed into its lowest knot, warm, the clay still in the whorls of the fingers, and larger than any human hand. Madder says the rope was stolen. She says a great many things, upside down, through her pipe.
+
+Let down into any hole deep enough, the Rudge Rope is taken hold of. Something always climbs.
+
+**WHISPERED:** Everyone in Rudge knows. Elsewhere, Eye + Lore vs Hard (14).
+
+**SPOILAGE:** None. It grows a hand's breadth longer each pang.
+
+**CARVING:** Unique. Kept by the Rudge family in a bricked room under Madder's cottage; getting in is Hand + Labor vs Hard (14) and getting out past Rudge diggers is another matter. Holding it is Dread 3: the grip-marks are warm, and one of them is closing.
+
+**TAINT:** 3 Regrowth (Vey), Dread 3.
+
+**EFFECT:** Lowered into any opening deeper than a man is tall (a well, a shaft, a grave, a cistern, a crowning), within the hour something takes hold of it and climbs. Roll a d6 when it reaches the top.
+
+| d6 | What climbs the Rudge Rope |
+| 1 | Water, rising up the rope in a warm clear column that smells of the springs, and keeps rising. |
+| 2 | Whatever was lost down there, whole and wet: a body, a bucket, a child's shoe, a person who fell. They ask what year it is. |
+| 3 | A Part, holding on with one hand. |
+| 4 | A born-grown, naked and slick, who climbs out by the knots and walks away without a word. |
+| 5 | Nothing. The rope comes up with a new handprint on the lowest knot, larger than the last. |
+| 6 | The thing from 403. It is much bigger now. It remembers the rope. |
+
+**WORTH:** Not sold since 611. The Assemblers have offered 2,000 lacks. The Attendance does not know it still exists.

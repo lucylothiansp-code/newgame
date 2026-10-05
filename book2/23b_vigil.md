@@ -1209,3 +1209,197 @@ He wants the number reached: not exceeded, not prevented, reached, cleanly, on a
 "He climbs the Stair as if it were going somewhere." — Maud Sexton
 "His boy sings while he wets the lord's eyes. Same song every time. The boy doesn't know the words are forbidden." — a cook
 [/box]
+
+### Factor Joss Mallory — of the Last Beds
+
+> "Lack keep away, friend, and come in out of the wind. Bed's a lacks and a half, sheets clean, porters on the door all night. Unless you're from up top. If you're from up top you can stand in the doorway and look as long as you like. No charge for looking. I'm not a monster."
+>> — Joss Mallory, at the door of the Last Beds
+
+[stat: Joss Mallory — Factor of the Last Beds]
+Land & Cut: The Fatlands (resident on the Rim below the Vigil) · Cut 2 · Regrowth 2 (the Taste, Ummer) · Hunger 5 · Weariness 0 (he sleeps nine hours a night)
+Age & Station: fifty (born 591, near Sated); Rim Road Company factor and innkeeper of the Last Beds since 622
+Calling & Standing: Factor · Standing 3
+Attributes: Hand 2 · Gut 4 · Lung 1 · Eye 3 · Tongue 4 · Caul 2
+Skills: Haggle 5, Persuade 4, Deceive 3, Reckoning 3, Feast 3, Endure 2, Brawl 1
+Flesh 14 · Guard 12 · Armor 0 · Fray 3
+Attacks: cudgel +3 (3); his porters (Threat 2, Flesh 11) fight for him
+Gifts: none of note; the Taste of the Fatlands shows in his constant gentle chewing
+Wants: none active
+Knacks: Table Manners; Hard Sleeper
+Carries: the book of the ones not stopped; a ring of keys; maps of the Sleepers' Mile; a bounty-ledger; a pillow
+Dread: 0 (1 if you open the back hall)
+[/stat]
+
+#### Who They Are
+
+Big-bellied, soft-voiced, sleek, foreign, comfortable; a Fatlander who chews a sugared root all day and smells of beer and fresh linen. He has the only soft voice and the only soft beds within thirty miles of the Vigil, and he is the first friendly face most travellers see before the Lid.
+
+#### Their Story
+
+A Company cook's boy from the south, he bought into the Last Beds in 622 and has run it since, serving every caravan that stops below the border stones so its drivers can sleep before the climb. He keeps a book of the Vigilants his porters could not stop from lying down in his beds.
+
+#### Their Place in the Land
+
+He sells passes across the border, maps of the Sleepers' Mile, rouse, nudgers and gossip. He is the Company's eyes on the Pilgrim Road and the Watch's last net.
+
+#### What They Carry
+
+- **The book of the ones not stopped** — sixty-one names since 622, with dates.
+- **A ring of keys** — including one to the back hall.
+- **Maps of the Sleepers' Mile** — drawn by his porters, with names where known.
+- **A bounty-ledger** — two columns: *Watch* and *other*.
+- **A pillow** — goose-down. He sleeps on it. Vigilants have offered him a year's wage to touch it.
+
+#### Wants, Fears and Secrets
+
+He wants a quiet life and a full house. **Secret:** the Watch pays him a bounty for every Vigilant his porters drag back from the beds. The Lessening pays him a larger one for every Vigilant they don't. **Secret he does not know:** the Lessening does not send its sleepers to the Dormitory; at its request he keeps them, all sixty-one, in the back hall, as a test of whether sleepers off the Lid are Counted. He thinks it is a kindness. They breathe in time with the Dormitory, thirty miles away, and last month all sixty-one turned their heads, together, toward the climb.
+
+#### Ties
+
+- **Sabine Larch** — the *other* column.
+- **Castellan Dray** — slept the Last Beds' doorway out on his way north; stood and looked for an hour.
+- **Bell Lisle** — the courier stopped here; he lent her a nudger.
+- **Captain Brannoch Pyre** — the Watch's bounty comes through his office.
+
+#### In Play
+
+- **The Back Hall.** A character finds the locked door and the sixty-one.
+- **The Last Night.** A Vigilant PC must spend a night at the Last Beds, among beds.
+- **The Map.** A porter's map marks one name on the Sleepers' Mile that should not be there: someone the party met yesterday.
+
+**If nobody intervenes**, the sixty-one will get up one night and walk up the Pilgrim Road, eyes closed, toward the Lid.
+
+[box: Said of Them]
+"Best beer on the eastern Rim, and you sleep like the dead. Well. Like the dead elsewhere." — a Company drover
+"He let me stand in the doorway and look at the beds for an hour, and didn't charge, and I've hated him ever since." — a Vigil clerk
+"Mallory's a good man for a man who keeps a book like that." — a porter of the Last Beds
+[/box]
+
+### Hesper Coyle — Blink-Matter Forty-One
+
+> "I asked them to keep me. I'm not sorry I asked. Every bell the old lady comes with her needle and says *good morning*, and I say *thank you*, and I mean it more than I've meant anything."
+>> — Hesper Coyle, in the Rattlehouse standing-stalls, to her sister through the grille
+
+[stat: Hesper Coyle — Blink-Matter Forty-One]
+Land & Cut: The Vigil · Cut 2 · Regrowth 4 (the Appetite) · Hunger 3 · Weariness 5
+Age & Station: thirty-four (born 607, Thimble Lane, the Slope); rope-twister; widow; held in the Rattlehouse at her own request since the eleventh of Carving 641
+Calling & Standing: none
+Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 2 · Tongue 2 · Caul 2
+Skills: Labor 3, Craft 3, Endure 2, Resolve 2, Brawl 1
+Flesh 13 · Guard 13 · Armor 0 · Fray 9
+Attacks: fists +4 (1); in a blink, see the Slope Blinker in the core chapter
+Gifts: Lost Seconds (as the Appetite Gift; she has never used it, and it uses her).
+Wants: To lie down (Hard).
+Knacks: Strong Back; Rope Knots
+Derangements: Not My Hand (her hands are not hers; she keeps them bound)
+Carries: the pin; Tobin's hackle; a bandaged palm; her mother's bed-number
+Dread: 2 (to see the bite)
+[/stat]
+
+#### Who They Are
+
+A strong square woman with rope-calloused hands she keeps bound in strips of burr-cloth, a wet pin clenched in one fist, and a face that has not stopped expecting to be struck. She hums sometimes, then stops, horrified.
+
+#### Their Story
+
+She smothered her husband Tobin in a blink of two breaths on a grey afternoon, laid him out with folded sacking under his head, and came back with his teeth in her palm. She gave her statement to Inspector Grimmer and asked to be kept awake by the state for the rest of her life, because she has a sister with two little ones who would let her in.
+
+#### Their Place in the Land
+
+She has no place but a stall. The Slope talks of her as a warning; the Bedded as a vessel. Agathe Pinch needles her at every bell, gently.
+
+#### What They Carry
+
+- **The pin** — the sergeant's, held since the second watch of the eleventh. Her palm runs around it.
+- **Tobin's hackle** — the flax-comb, brought by her sister.
+- **A bandaged palm** — the bite. Grimmer took a cast.
+- **Her mother's bed-number** — 31,207, on a scrap.
+
+#### Wants, Fears and Secrets
+
+She wants to be written down as loving him. She fears her hands. **Secret:** she knew Tobin copied Dormitory registers for the Lessening at night, for beer money, and begged him to stop. **Secret she does not know:** the last register Tobin copied was the row that holds bed 31,207, her mother, who lay down in 627 and whom Hesper stopped visiting years ago. It was marked *unvisited*. Her mother's row was first on the schedule.
+
+#### Ties
+
+- **Hale Grimmer** — visits daily.
+- **Agathe Pinch** — needles her kindly.
+- **Sabine Larch** — signed Tobin's pay.
+- **The man below** — she hears him humming through the floor, and catches herself joining in.
+
+#### In Play
+
+- **Write It Down.** She asks a character to take her statement again, the true one, and finish it.
+- **The Sister's Door.** She escapes in a blink. She is walking toward Thimble Lane.
+- **Bed 31,207.** Someone must visit her mother, or the row stays *unvisited*.
+
+**If nobody intervenes**, she will stand in the Rattlehouse for years, thanking the needle, and the Lessening will reduce her mother's bed on the first night of the schedule.
+
+[box: Said of Them]
+"She loved him. I'll swear it on my mother's bed. That's what makes it so bad." — Wenna Pell, her neighbour
+"She asked me to write that first. So I did." — Hale Grimmer
+"Our Hes is in the Rattlehouse because she wants to be. Nobody on the Lane believes it. I do." — her sister
+[/box]
+
+### Lisbet Wakely — the Brush
+
+> "Every half minute, my lady. Stroke, and count, and stroke. In twelve years I've wetted her eyes eight million times. I could do it asleep. That's a joke. You're allowed to laugh."
+>> — Lisbet Wakely, to a new attendant on the Lid's Eye landing
+
+[stat: Lisbet Wakely — Eye-Wetter to the Warden-Prime]
+Land & Cut: The Vigil · Cut 2 · Regrowth 3 (the Taste) · Hunger 2 · Weariness 6
+Age & Station: thirty-one (born 610, Gallow Street); eye-wetter to the Warden-Prime since 629
+Calling & Standing: none (Watch rank 2, Eye-Wetter)
+Attributes: Hand 4 · Gut 2 · Lung 2 · Eye 4 · Tongue 2 · Caul 3
+Skills: Search 4, Stitching 3, Resolve 3, Stealth 2, Deceive 2, Endure 2
+Flesh 12 · Guard 12 · Armor 0 · Fray 5
+Attacks: hatpin +4 (1)
+Gifts: Heavy-Eyed (as the Taste Gift). Steady Stroke (she can perform any delicate act every half minute, for a whole watch, without a roll).
+Wants: To count (Routine).
+Knacks: Steady Hands; Second Chair
+Carries: sable brushes; a silver bowl; slate-letters; a key to Oriel's rooms
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+Neat, small, grey-eyed, with a brush-hand as still as glass and a soft habit of counting under her breath. She has the Height's manners and the Slope's vowels. She smells of rosewater, always.
+
+#### Their Story
+
+Thaddeus Knell's niece, raised on Gallow Street after her father, Ansgar Wakely, a Bedded Shepherd, was taken in 622 and, the family was told, went to the room. She was chosen for the Warden's brush at nineteen for her steady hand. She has stood at the Warden's shoulder for twelve years, half her waking hours.
+
+#### Their Place in the Land
+
+She hears everything said on the Lid's Eye. She is the person the Warden-Prime sees most. She is also, secretly, Lady Oriel's only friend: she carries messages and books, and once a week she holds Oriel's hand while Oriel closes her eyes for ten breaths.
+
+#### What They Carry
+
+- **Sable brushes** — two, and a spare.
+- **A silver bowl** — of rosewater at blood heat.
+- **Slate-letters** — from her uncle, one a week.
+- **A key to Oriel's rooms** — copied.
+
+#### Wants, Fears and Secrets
+
+She wants Oriel free. **Secret:** in the wet surface of the Warden's eyes, between strokes, Lisbet sees a long dim room reflected, and lately the sleepers in it turned toward her. **Secret she does not know:** she was the brush at the old Matron's deathbed, aged twenty, and saw the number on the dying lips as the Warden did. She has forgotten. The Warden has not, and keeps her close for it. And her father is alive, on the lowest floor of the Rattlehouse, humming.
+
+#### Ties
+
+- **Warden-Prime Ilvane Stroud** — her mistress.
+- **Lady Oriel Stroud** — her friend.
+- **Thaddeus Knell** — her uncle.
+- **Agathe Pinch** — keeps her father.
+
+#### In Play
+
+- **The Message.** Oriel needs a letter carried. Lisbet asks a character.
+- **The Number.** The Lessening learns she was at the deathbed.
+- **The Man Below.** A character learns where Ansgar Wakely is.
+
+**If nobody intervenes**, the Warden will one day order her silenced, gently, and give her a pension and a stool.
+
+[box: Said of Them]
+"She never misses a stroke. Never. I've watched for a year." — another eye-wetter
+"WRITE MORE OFTEN." — Thaddeus Knell, on a slate
+"Lisbet holds my hand when I close them. She counts. She never lets me get past ten." — Lady Oriel Stroud
+[/box]

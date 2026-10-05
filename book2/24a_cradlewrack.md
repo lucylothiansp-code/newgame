@@ -88,10 +88,6 @@ The **Aubrey Gardens**, across the river, are the old royal quarter: the Womb Co
 
 [quick] Lord Chamberlain Pell Danner — Threat 4 · Flesh 10 · Guard 10 · Attack +2 (knife 2) · Armor 0 · Dread 0 · a minor Caul-line man of sixty with a thin veil over one eye only; he has read the King Within twenty thousand questions and has begun to believe, against all reason, that the answers are right.
 
-### The Lying-In, the Sill and the Barn
-
-These three places, with the Dilation, are described in the core chapter and their people in this one. A note on what they are like to live beside. The villages within sight of **the Lying-In**'s red ring of walls on its bare hill, two hours north of Kest, are prosperous, because the Attendance buys their food and their silence, and miserable, because at night the wind from the hill carries sounds from the bricked lower wards, and nobody in those villages sleeps without wax in their ears. The farms around **the Sill**, on its bare hilltop in the north, have been abandoned for a mile in every direction; the shepherds say the sheep will not graze in sight of the door, and stand facing away from it with their heads low. And the hamlet of **Threshing**, a quarter-mile below **the Assemblers' Barn** east of Kest, does very well out of the Barn, selling it straw, milk, tallow and silence, and in return finds its lost Parts brought back to it in neat labelled boxes when the Barn decides they will not fit.
-
 ### Other Towns and Villages
 
 #### Rudge
@@ -227,11 +223,10 @@ And there is the black trade, larger than any of these: **Parts**. The law says 
 | Agnes Latch door | 200 L the lock alone | the waiting list is a year |
 | Grey stone, one cartload | 30 L | carted from the Fast border |
 
-### Taxes and Who Is Rich
+### Taxes
 
 The Attendance takes no tax and needs none: the **birth-fee** of twelve lacks for every attended birth is the largest revenue in the country, and it is paid by every household, since every birth must be attended. Paupers pay in kind, a season of laundry at the Coppers or a year of slot-feeding. The Crown takes the **Litter-Levy**, a crumb a pang from every household, nominally to keep the Queen Dowager carried, actually to keep the Chamberlain's office. The **Hinge-Duty** taxes any lock that holds as a luxury, at half its price, on the reasoning that a man who can afford to be shut in can afford to pay for it; Agnes Latch's customers pay a hundred lacks to the Tally on top of her two hundred. The Caul-lines take **spring-rents** for water. The Rim Road Company takes its tolls at Breech's Gate and Fogstile, and buys its cauls duty-free.
 
-The rich of Cradlewrack are, in order: the five veiled houses, who own the springs and the clay-pits and live on rents; the Rim Road Company's factors; the masons of the Trowel; the great catgut-spinners; the luckier brokers of the Naming-Exchange; and the Attendance, which is rich as an order and poor in its members, who own nothing but the apron and the case. The Assemblers are richer than anyone outside the Barn suspects, because the Second Table has paid for more than the roof.
 
 ## Law and the Knife
 
@@ -289,7 +284,6 @@ The three doctrines of the Table all have their highland shapes. **The Shut Door
 - **Knocking-stones** at every crossroads, hollow pillars knocked three times before a road is chosen.
 - **Cord-trees** on the Tull and in Cordway, old alders on which the Uncut hang the dried cords of their dead, so that the wind moves them.
 - **The Low Wall** in the Stillyard, where the struck-through are bricked without family marks; mothers come there on the anniversaries of births that were never entered, and lay a hand on the unstamped brick, and do not knock.
-- **Pang-houses**, which are not shrines, but which every traveler leaves a crumb or a twist of wool in, for the next one.
 
 ### Rites
 
@@ -322,7 +316,6 @@ Forty, fifty, nearly done, the waters come for everyone.
 Fifty, sixty, still, still, still, and if it stays, it stays, it will.
 [/fiction]
 
-The last line is sung in two ways. The Attendance sings *if it stays, it stays*, meaning the judgement is made. The Assemblers and the Uncut sing *it stays, it will*, meaning a promise. Children sing both and do not notice, and are slapped for it, depending on whose house they are in.
 
 ## Voices of the Land
 
@@ -331,11 +324,8 @@ The last line is sung in two ways. The Attendance sings *if it stays, it stays*,
 - "Mam says I'm called Keep till I'm named. I'm named next week. I want to be called Keep anyway." — a child, aged one year less a week, who already talks
 - "The first thing I remember is a woman with a basin saying 'what is it.' I thought she meant the weather. I said, 'raining.' She laughed. I loved her right away." — a Foundling soldier, born-grown four years
 - "They pay for the brick, the lads who come to me. Not the bed. The brick. A man wants one night where nothing gets in." — a woman of the Wall Road
-- "Nine days. I've a pot on that takes eleven to cure. Tell me how I'm meant to make it." — a Kilnmouth brickmaker
 - "Every spring the sheep drop something with fingers. We used to call the midwife. Now we just call the Fold." — a Tarnbrow shepherd
 - "I gave the Lying-In my daughter's hand. A hand, sir. I nursed it a month. I'd have kept it, if the knocker next door had kept his mouth shut. I hope his door comes off." — a mother of Rudge
-- "We're paid by the stake. Stakes at the edge pay three. I've a wife. I set the edge stakes." — a stake-setter at Rimwatch
-- "In the Vigil they think we're mad. In the Fatlands they think we're mad. They're all carrying something too. They just haven't got a word for it." — a wool-carter on the Rim Road
 - "Don't touch the cord, love. That's my granny. She's having a bad day." — an Uncut girl in Cord Court
 - "My scar's forty years old and it opens like it's proud of itself." — an old soldier in the Reopening Ward queue
 - "The Book says *choose so that you can remember.* I chose. I remember. Nobody said it would be the only thing I remember." — a retired Opinion
@@ -368,7 +358,6 @@ Three currents move under the table. The first is **money from outside**: the Se
 
 ## The People of Cradlewrack
 
-The people of the highlands are shaped by the room. Every one of the eleven dossiers below belongs to someone who has stood in a birthing-room and watched something arrive, or who arrived that way themselves, and each of them has made some answer to the Two Questions that they now have to live with. The remainder of the land's cast follows in the next section.
 
 ### Orla Kest — Midwife-Paramount of the Attendance
 
@@ -985,4 +974,194 @@ If nobody intervenes, the interval reaches one day, and Lark rings the bell, and
 "When her bell goes I put the bread in. I've never burnt a loaf." — a Kest baker
 "She counts in her sleep. I've heard her. She gets to fifty-nine and starts again." — a Tally scrivener
 "Lark is the only one of us who never lies to me. It is like being attended." — Orla Kest
+[/box]
+
+### Madder Rudge — Head of the Watch at the Dilation
+
+> "Put your ear down, then. Go on. That's the big one. Now wait. There. Under it. Quick and small. You tell me that's not a heart."
+>> — Madder Rudge, to a pilgrim at the rim
+
+[stat: Madder Rudge — Head of the Watch]
+Land & Cut: Cradlewrack · Cut 2 · Regrowth 6 (the Appetite) · Hunger 4
+Age & Station: 69 (born 572 A.G.); at the rim since 621 A.G.
+Calling & Standing: Delver · Standing 4 (Head of the Watch)
+Attributes: Hand 3 · Gut 4 · Lung 2 · Eye 3 · Tongue 2 · Caul 4
+Skills: Labor 4, Instinct 4, Endure 3, Search 3, Athletics 2, Blades 2, Godsign 2, Wayfaring 2
+Flesh 15 · Guard 14 · Armor 1 (clay-stiff hide coat) · Fray 5
+Attacks: clay-spade +5 (4)
+Gifts: Knock (ear to the clay, she knows what moves beneath, to ninety feet). Rim-Sense (she knows each dawn how far the rim will move at the next pang).
+Wants: Attend (Hard 14; at every pang she must be at the rim, whatever else is happening).
+Knacks: Strong Back, Gallows Laugh
+Derangements: none
+Carries: upside-down pipe; painted stakes; ninety feet of tarred rope; a red-stained glove
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Stumpy, broad, red to the elbows from fifty years of clay, with a face like a dried apple and a pipe she smokes upside down against the steam. She smells of wet earth and black tobacco. She is blunt, profane, and kind to pilgrims, whom she calls "ducks."
+
+#### Their Story
+
+A Rudge digger from childhood, she came to the rim in 621 after her son walked into it in his sleep. She stayed. In 629 she went down ninety feet on a rope, alone, at night, and touched something warm and smooth that moved under her hand. She came up and told no one.
+
+#### Their Place in the Land
+
+She runs the watch: forty stake-setters, mostly her own grandchildren. Her morning stakes are the Attendance's measure of the rim. Orla Kest reads her reports before Lark's.
+
+#### What They Carry
+
+- **The pipe**, upside down; **painted stakes**; **ninety feet of tarred rope**, the same rope; and **one glove**, stained a red that has not washed out in twelve years.
+
+#### Wants, Fears and Secrets
+
+She wants to know what is down there before it comes up. **Secret:** the thing she touched moved *toward* her. **Secret (she does not know):** it followed her rope partway up, and every night it lies ninety feet below her listening-place, its ear to the clay, listening back. The second pulse is its.
+
+#### Ties
+
+- **Orla Kest** — has asked her how deep a rope can go.
+- **Ambrose** — lies beside her twice a year and says the second pulse is his.
+- **Josiah Fenn** — she saw the giant tracks go in, and smaller ones come out.
+- **Hester Lowe** — cousin by marriage; Madder knows the hand points at the Sill.
+
+#### In Play
+
+- **The Edge Stakes.** A grandchild is gone with the noon stakes. Madder wants a rope party.
+- **Ninety Feet.** Orla asks the characters to persuade Madder to lend her rope.
+- **Listening Back.** Madder asks a character to put their ear to the clay. It whispers their name.
+
+If nobody intervenes, Madder lowers Orla's rope herself, and holds it, and is still at the rim holding it when the rim moves.
+
+[box: Said of Them]
+"She sold me posset and told me I was a duck. Best day of my pilgrimage." — a pilgrim from the Vigil
+"Gran never sleeps. She lies on the edge with her ear down and talks to it." — a Rudge stake-setter
+"Madder Rudge is the only honest instrument the Attendance owns." — Lark Ninedays
+[/box]
+
+### Josiah Fenn — the Man Who Bore
+
+> "He'll be bigger now. Always is. I just want him to see me once and know me. Then I'll know what I came for."
+>> — Josiah Fenn, at a Tarnbrow fire
+
+[stat: Josiah Fenn — the Man Who Bore]
+Land & Cut: Cradlewrack · Cut 2 · Regrowth 7 (the Course) · Hunger 4
+Age & Station: 51 (born 590 A.G.); shepherd of the northern moors; on the trail since 633 A.G.
+Calling & Standing: none (shepherd; tracker by grief)
+Attributes: Hand 3 · Gut 3 · Lung 4 · Eye 3 · Tongue 2 · Caul 3
+Skills: Wayfaring 5, Search 4, Athletics 3, Endure 3, Instinct 3, Blades 2, Shooting 2, Labor 2
+Flesh 14 · Guard 17 · Armor 1 (fleece coat) · Fray 7
+Attacks: shepherd's knife +5 (2); sling +5 (2)
+Gifts: Father's Voice (if he calls to Fenn's Get, it must stop and roll Caul + Resolve vs Grim 18 to keep acting). Kin-Pull (he always knows the direction of the Get).
+Wants: Follow (Grim 18; fresh tracks, he cannot turn from them).
+Knacks: Corpse-Road Walker, Kin-Sense
+Derangements: Kept Grief (for the bothy, for the night, for the look it gave him)
+Carries: a measuring-cord knotted with eight years of footprints; knife; sling; navel-wrap; a lamb's bell
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+Rangy, sun-black, silent, with a wrapped pucker of scar over his navel and widened hips he walks stiffly on. He smells of sheep and peat and old blood.
+
+#### Their Story
+
+In 633 he labored three days in a hill bothy above Tarnbrow, alone, and delivered something that stood up, looked at him with great tenderness, and walked out of the door. He gave his flock to his brother and followed. The tracks have grown to the size of a cart; the Get is twelve feet tall.
+
+#### Their Place in the Land
+
+He has none. Shepherds feed him; the Attendance would like a word; the Get's trail of flattened flocks makes him unwelcome in every fold.
+
+#### What They Carry
+
+- **The measuring-cord** — knotted once for every track measured, eight years long.
+- **A shepherd's knife** — he is not sure whether he means it for the Get or himself, and he keeps it sharp so as not to have to decide.
+- **A lamb's bell** — found beside his fire one morning, cleaned. The Get leaves him gifts.
+
+#### Wants, Fears and Secrets
+
+He fears it will not remember him; more, that it will. **Secret:** the Get comes to watch his fire at night, at a distance, and bleats. **Secret (he does not know):** its tracks went into the Dilation, and came out with a second, smaller set beside them. He is a grandfather.
+
+#### Ties
+
+- **Madder Rudge** — saw the tracks go in.
+- **Nettle Corse** — her husband bore too; she feeds Josiah when he passes.
+- **Sabeth Thorne** — would have been sent to the bothy, had he called.
+- **General Tibb** — has offered him a Company escort; Josiah refused.
+
+#### In Play
+
+- **Fetch the Footprints.** Josiah begs the characters to walk the last stretch with him.
+- **The Gift.** A dead ewe, laid with care at the party's camp.
+- **Father's Voice.** The Get is in a village. Only Josiah's call can stop it.
+
+If nobody intervenes, he finds it, and calls, and it comes, and holds him as it holds everything, too tight.
+
+[box: Said of Them]
+"He's the only man in Tarnbrow knows how my Aled felt." — Nettle Corse
+"Follows a giant with a sling. Daft. Brave. Daft." — a Tarnbrow shepherd
+"He has the gait of a woman nine days delivered. He has had it eight years." — Lazar Voss
+[/box]
+
+### Agnes Latch — the Doorwright
+
+> "Nineteen days. You hear me? Nineteen. Nobody on this Table has shut anything for nineteen days but me. Now get out of my yard. Knock on your way."
+>> — Agnes Latch, to a customer who asked for a year
+
+[stat: Agnes Latch — the Doorwright]
+Land & Cut: Cradlewrack · Cut 2 · Regrowth 4 (the Appetite) · Hunger 2
+Age & Station: 45 (born 596 A.G.); master of Latch's Yard on the Tull below Mortar Rise
+Calling & Standing: none (master doorwright)
+Attributes: Hand 4 · Gut 3 · Lung 2 · Eye 4 · Tongue 2 · Caul 3
+Skills: Craft 5, Reckoning 4, Labor 3, Filch 3, Search 3, Blades 2, Endure 2, Haggle 2
+Flesh 13 · Guard 14 · Armor 1 (leather forge-apron) · Fray 4
+Attacks: forge hammer +6 (3, Stunning)
+Gifts: Undoing (by touch and a Partake she opens any lock, bar or stitch; she uses it to test her own doors, and sells only those she cannot open). Knock.
+Wants: Leave It Open (Hard 14; she cannot shut the gate of her own yard).
+Knacks: Rope Knots, Steady Hands
+Derangements: none
+Carries: a brass spyglass; a nine-ward key; the Sill's measurements; a list of nineteen days
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Forty-five, broad, deaf in her left ear from the forge, sawdust in her braids and burn-scars on her wrists. Proud, rude, expensive. She smells of bog oak, hot iron and lead.
+
+#### Their Story
+
+A carpenter's daughter, she built her first holding door at twenty, in 616; it lasted a night. She has spent twenty-five years making them hold longer: iron-bound bog oak from the Tullford mosses, locks of nine wards, hinges in poured lead, and a full day of her own knocking on each before sale. Her best held nineteen days. The customer did not die on the twentieth, whatever Kest says; he opened the door and found one more person in the room than he had left there.
+
+#### Their Place in the Land
+
+The rich of Kest wait a year for her locks (200 lacks, and the Hinge-Duty). Tamsin Keyless sells counterfeits that hold only from the outside, and Agnes would gladly break her hands.
+
+#### What They Carry
+
+- **A brass spyglass** — for watching the Sill from a mile off.
+- **The Sill's measurements** — every joint, nail and hinge, in her own fine hand.
+- **A nine-ward key** — to the one door in her yard she has never sold.
+
+#### Wants, Fears and Secrets
+
+She wants a door that holds forever. **Secret:** every one of her best doors is built to the Sill's pattern. **Secret (she does not know):** when one of them finally opens, it opens for a breath onto the same place the Sill does: a long warm room, a table laid, and a chair pulled out.
+
+#### Ties
+
+- **Old Hinge** — she pays him to tell her the gap each Grace.
+- **Brother Callum Stillwater** — his chapter-room door held eleven days.
+- **Absalom Gage** — rival; brick holds and her doors do not.
+- **Orla Kest** — has ordered a door for the Lying-In's lowest ward.
+
+#### In Play
+
+- **Nineteen Days.** A customer's door has held eighteen. He hires the characters to be in the room on the twentieth.
+- **The Unsold Door.** Something knocks from behind the door in her yard.
+- **The Pattern.** Old Hinge says the Sill opened a hand's width this Grace. Agnes asks the characters to measure it, without looking through.
+
+If nobody intervenes, she builds the door Orla ordered, and it holds, and that is the worst thing that could happen.
+
+[box: Said of Them]
+"Nineteen nights I slept. Nineteen. I'd sell my mother's brick for another." — a Kest wool-merchant
+"She swore at me for knocking wrong." — a Hingeman of Mortar Rise
+"She looks at the Sill through a glass the way I look at the Barn's far end. We are both of us cowards about the same thing." — Dov Marrin
 [/box]

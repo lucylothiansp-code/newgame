@@ -871,3 +871,230 @@ To threat she is patient and immense; nothing hurts her much. To kindness she is
 "Her Highness has never once been unkind. That is not the same as safe." — Chamberlain Odo Bracewell
 "You can hear her in the drains on the Headland. Old Granny Fathom, talking in her sleep." — a Headland chimney-sweep
 [/box]
+
+### Father Ebb — Abbot of the Hanging Abbey
+
+> "Every night it asks. Every night I say not tonight. Fifty-one years of not tonight. You'd think one of us would get bored."
+>> — Father Ebb, to a postulant on the lower rocks, laughing
+
+[stat: Father Ebb — Abbot of the Hanging Abbey]
+Land & Cut: Brinehollow · Cut 2 · Regrowth 9 (the Course) · Hunger 2
+Age & Station: 78 · Abbot of the Anchorites; holder of the Rock for 51 years
+Calling & Standing: Celebrant (the Anchorites) · Standing 5 (Abbot)
+Attributes: Hand 2 · Gut 3 · Lung 1 · Eye 3 · Tongue 3 · Caul 5
+Skills: Resolve 6, Rites 4, Endure 4, Lore 3, Instinct 3, Persuade 2
+Flesh 15 · Guard 11 · Armor 0 · Fray 7
+Attacks: none
+Gifts: Fathom-Body; The Refusal (once a night, he may make the Calling roll in place of anyone within sight of him)
+Wants: The West, every night, unanswered
+Knacks: No Thank You; Old Grief
+Derangements: Kept Grief (Coralie Fenn; roused by her name, or by the basket)
+Carries: the collar and chain; canvas habit; basket-letters; one copy of Brenna Kelp's finding; a white shell; a knotted prayer-cord
+Dread: 1 (to see the collar's healed flesh)
+[/stat]
+
+#### Who They Are
+
+A skeleton in a canvas habit stiff with salt, sitting cross-legged on a ledge four hundred feet up a black cliff, with an iron collar round his neck that his flesh has healed over like bark over a nail. His skin is the grey of the Course, crusted white where the dusk bailing runs down the rock. His hands are horn from gripping the chain. His eyes are wide and black and very merry. His voice is soft and rough, and he laughs often, mostly at himself. He smells of salt, rust and the wind. Visitors who climb to him expect a saint and find a cheerful old man who asks them about their families and listens to the answers.
+
+#### Their Story
+
+He was born Edric Pell in 563, a fisherman's son of Basketfoot when Basketfoot still had boats. In 589 he was twenty-six and in love with Coralie Fenn, a net-mender's daughter of nineteen who had begun to stand at west windows. Before her Calling, at the Appetite, she made him swear on her own rope: *If I go, don't you follow. Whatever comes back, don't you follow it.* She went in Plenty 589. She came back in thirty-three days, Tenanted, gentle, heavier, and came to his door and asked him to walk with her to the water. He said no. That winter, afraid of how much he wanted to say yes, he climbed the cliff and had the Abbey's smith collar him to the rock. He took the name Ebb. He has been there fifty-one years, Abbot for thirty.
+
+Coralie married a ropemaker, Daw Colm, in 611, and bore a daughter, Nerys, in 613. Every Low Water she stood at the foot of the cliff and looked up. In 633 she walked into the sea again and did not return. In 629 Ebb felt the chain give in his hand: rusted through at the third link. He has held it together, in his fist, every night since.
+
+#### Their Place in the Land
+
+The Abbot keeps a thousand chained monks alive: their food baskets, water, the basket-letters, the counsel of the dying. He decides who may take the permanent collar and who must climb down. He is the Debt doctrine's living proof, and every Debt chapel on the coast preaches him. The Anchorites depend on Basketfoot's winches and the Wreckwives' charity. He depends on nothing he will admit to.
+
+#### What They Carry
+
+- **The collar and chain** — Oathen iron, forged 590. The third link is rust through. He keeps it closed in his fist when he sleeps, and the monks think it is a holy gesture.
+- **Canvas habit** — salt-stiff; replaced every Knotting.
+- **Basket-letters** — a bundle, tied with weed: one a year for twenty-six years from Winchmaster Cobb Fennick, unsigned, asking forgiveness for something never named.
+- **Brenna Kelp's finding** — one of the three copies, wrapped in oilskin in a crack in his ledge. He has read it. He was not surprised.
+- **A white shell** — pink-lipped and whorled; it came up in the food basket in 633, the week Coralie walked. Isolde Reave would know the species, because there is none.
+- **Prayer-cord** — fifty-one knots, one for each year. He ties a new one each Knotting.
+
+#### Wants, Fears and Secrets
+
+He wants his monks to endure, and wants, more quietly, to know whether enduring is worth it. He fears that he has spent his life keeping a promise to a girl who no longer exists, against a woman who loved him.
+
+**Secret (the GM may reveal):** the chain has been rusted through for twelve years, and he knows it. What holds him is the promise, sworn on Coralie's rope, and the oath on the dead works on him every night as surely as iron.
+
+**Secret he does not know:** Coralie's daughter Nerys turned around in the surf in 636, and what turned her was her mother's voice in the chorus, saying *don't you follow*. The same words. Coralie, or whatever wore her, kept the promise too.
+
+#### Ties
+
+- **Nerys Colm** — Coralie's daughter. He has never met her. He knows exactly who she is.
+- **Coralie Fenn** — Called 589, Tenanted, walked again 633. The rope he swore on is in his fist.
+- **Justice Maren Oake** — they have written yearly since 625. He addresses his letters to Maren, and the replies come in two hands.
+- **Mother Limpet** — his great rival. She climbed his cliff in 618 and they argued for two days. He liked her enormously.
+- **Lieutenant Sable Reef** — she climbed to ask him what she is saving the Called from. He told her: "From me. From being me, fifty years from now." She has not decided if that was an answer.
+- **Lady Ondine Vasht** — she sent him Coralie's name in a basket, unsigned. He knew the hand.
+
+#### In Play
+
+Guests meet him by climbing the cliff, a day's work (Lung + Athletics vs Hard 14, three times). He wants news, company and, from those who seem honest, a judgment: whether his life has been worth it.
+
+- **The Third Link.** A Postulant has seen the rust. Word is spreading on the cliff. If the Abbot's chain is broken, whose is not?
+- **The Copy.** The Admiralty, the Second Table and the Wreckwives all know one of Kelp's copies is on the cliff. Someone is climbing tonight with a knife.
+- **The Daughter.** The Guests bring Nerys to the foot of the cliff, or her words to the ledge. Ebb asks them to repeat the invitation to him. If they do, Ebb makes his roll at Dire, and the whole cliff listens.
+
+To threat he laughs. To kindness he weeps easily and is embarrassed. To the god he is refusal itself, worn thin. **If nobody intervenes:** on the next Low Water after Nerys's letter is read in public, Father Ebb opens his fist. A thousand monks watch him walk down the cliff path he has not walked in fifty-one years, still wearing the collar, the broken chain dragging behind him. By the next Knotting, a third of the cliff is empty, collar after collar left hanging open on its ring.
+
+[box: Said of Them]
+"He asked after my mam's leg. Fifty years chained to a rock and he wanted to know about her leg." — a Basketfoot girl who carries the baskets
+"Ebb is the proof that the Debt can be paid in full, every night, by one man. I would like him to tell me what it buys." — Mother Limpet
+"The old man holds his chain in his fist like a child holds a hand. You don't do that with iron." — a Bound monk of the high face
+[/box]
+
+### Tolly Brack — the Bailer Boy
+
+> "Bail-o! Bail-o! Old ones, sick ones, drunk ones! A crumb a cough, a token a tip, and I won't tell your mother!"
+>> — Tolly Brack, up the Lashings at first bell
+
+[stat: Tolly Brack — the Bailer Boy]
+Land & Cut: Brinehollow · Cut 1 (Scrapling) · Regrowth 2 (the Taste) · Hunger 1
+Age & Station: 11 · Parish bailer of Miles Twelve to Fourteen
+Calling & Standing: none (parish bailer; the Bailers' Wardens trust him)
+Attributes: Hand 2 · Gut 1 · Lung 2 · Eye 3 · Tongue 3 · Caul 3
+Skills: Instinct 4, Filch 3, Stitching 2, Search 2, Persuade 2, Athletics 1, Endure 0
+Flesh 9 · Guard 13 · Armor 0 · Fray 5
+Attacks: fist +2 (1)
+Gifts: Salt-Sense (he reads Regrowth from bail-water, and more: the color tells him who will be Called within the season)
+Wants: none active yet
+Knacks: Scrap-Born Luck; Second Chair
+Derangements: none
+Carries: bail-tokens on a string; his mother's knife; a glass jar; a Netwatch tally; a sweet; his own bucket
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+A small, freckled, sharp-elbowed boy under a crust of salt-grime, with strong thin hands and a voice cracked from shouting up the Mile at dawn. He wears a man's oilskin cut down at the cuffs, a waist-rope of mismatched pieces, and no shoes. He is quick, cheeky, and kinder than he lets anyone see. When he bails an old woman, holding her face-down over his bony knee and pounding between her shoulders, he sings her the bailing song under his breath, all the verses, the way his mother sang it.
+
+#### Their Story
+
+Tolly was born in 630 on Mile Thirteen to Bryony Brack, a cannery woman, and no father anyone named. In 636 his mother reached the Appetite, and through one long Lack she begged him, at night, roped to the ring, to cut her loose. He was six. He would not. She went anyway, on a licked-clean night in Grace, her rope frayed through against the iron ring in a way that must have taken weeks. Tolly began bailing for crumbs that summer. By nine he had noticed the colors. By ten he could tell a family which of them would go before Tablenight.
+
+#### Their Place in the Land
+
+He bails some forty people a day across three miles, mostly the old, the sick and the drunk, for a crumb or a bail-token each, paid from the Bucket of the Unbailed when they cannot pay. The Bailers' Wardens rely on him. Families rely on him not to say what he sees. He sleeps in Mags Netherby's loft, roped to her chain.
+
+#### What They Carry
+
+- **Bail-tokens on a string** — some sixty; he earns more than most grown men of the Lashings.
+- **His mother's knife** — a small cannery blade, curved, for opening mussels. Tolly keeps it in his boot. Ottiline Hawse has asked to see it.
+- **A glass jar** — he keeps a mouthful of each client's dawn water in it for a moment, to hold to the light.
+- **A Netwatch tally** — given him by Lieutenant Sable Reef, for running to fetch the Watch on a Calling night.
+- **A boiled sweet** — from a Gilt Mile lady. He is saving it.
+- **His bucket** — tin, his mother's. He no longer looks in it.
+
+#### Wants, Fears and Secrets
+
+He wants his mother. He fears the blue he has started to see in his own bucket, faint, at the bottom, like dye.
+
+**Secret (the GM may reveal):** Tolly is the child Ottiline Hawse knows. He has cut forty ropes in a year, from below, with his mother's knife: only the ones whose water was deepest blue, only the ones who begged, after their families slept. He did it because his mother begged for a whole winter and he said no, and she went anyway, after weeks of pain. He thinks he is being kind. Some of the forty were.
+
+**Secret he does not know:** two of the forty came back Tenanted, and they know exactly who cut their ropes, and they are grateful, and they have been watching over him at night.
+
+#### Ties
+
+- **Mags Netherby** — the Bailers' Warden who gives him a bed; she suspects the knife and has told no one.
+- **Lieutenant Sable Reef** — gave him the tally. He worships her.
+- **Ottiline Hawse** — knows. Has said nothing yet.
+- **Sennet Gull** — he bails her neighbour; he has seen something in Sennet's water he does not understand.
+- **High Admiral Corvin Sund** — Tolly saw the blue in the silver bucket. Nobody paid him.
+- **Bryony Brack** — his mother, Called 636. Some mornings, in the Under, a Picker child says her name for him.
+
+#### In Play
+
+Guests meet him at dawn, at the door of anyone they are visiting. For a crumb, he will tell them who on a street is close to going. He wants work, sweets and someone to tell him he did right.
+
+- **The Color.** Tolly sees deep blue in a Guest's bucket, and does not say.
+- **Forty Ropes.** Hired to find the rope-cutter of the Lashings, the Guests find an eleven-year-old boy. What then?
+- **The Watchers.** Two Tenanted stand under Mags Netherby's loft every night. Tolly thinks they want to hurt him.
+
+**If nobody intervenes:** at the next Knotting Ottiline Hawse brings his name to the Bench, and the Bench, finding the cuts were kindness, finds them his. A boy cannot be loosed for life. The Bench looses him for one night. He walks.
+
+[box: Said of Them]
+"He's got hands like a little hammer and the voice of an angel and I'd trust him with my last breath. I have, twice a day." — Old Mags Netherby
+"He looked in my bucket and went quiet. Nobody's ever gone quiet for me before." — a Lashings drunk
+"He's a good boy, and he's carrying something I'd not want my own to carry." — Ottiline Hawse
+[/box]
+
+### Sennet Gull — the Wreckwife
+
+> "He says thank you for his dinner. Six years married and he never once said thank you. Now he says it every night, and I sit there and I think, who taught you that?"
+>> — Sennet Gull, at the Middle Mile Wreckwives' table
+
+[stat: Sennet Gull — the Wreckwife]
+Land & Cut: Brinehollow · Cut 2 · Regrowth 2 (the Taste) · Hunger 1
+Age & Station: 34 · mussel-cannery worker, Mile Fourteen; Sister of the Line
+Calling & Standing: none (cannery); Wreckwives Standing 2 (Sister of the Line)
+Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 3 · Tongue 2 · Caul 3
+Skills: Labor 3, Blades 2, Instinct 3, Endure 2, Haggle 2, Resolve 2
+Flesh 13 · Guard 14 · Armor 0 · Fray 6
+Attacks: shucking knife +5 (2)
+Gifts: Deep Breath
+Wants: none active
+Knacks: Iron Stomach; Old Grief
+Derangements: none yet; she is close to The Impostors, the other way round
+Carries: shucking knife; Davey's dinner pail; cistern key; Davey's old belt; her wedding bucket; a Wreckwives' name-book page
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+A sharp-faced, red-knuckled woman with her hair tied up in a cannery cloth, smelling of mussels, brine and carbolic soap. She talks fast, laughs harshly, and her hands never stop: shucking, darning, wringing. There is an old white scar through her left eyebrow and another at the corner of her mouth.
+
+#### Their Story
+
+Born on Mile Fourteen in 607, she married Davey Gull, a pier-hauler, in 629. Old Davey drank, and when he drank he hit, and the scars are his. In Lack 638 he was Called; Sennet had tied his knot. She has asked herself, every night since, whether she tied it well. He came back after twenty-six days, kind. She keeps him in the cistern under the house, because he is more comfortable there, brings him his dinner, and sits on the edge and talks about her day while he floats on his back with his black eyes open, and says the right things.
+
+#### Their Place in the Land
+
+She works eleven hours a day in the cannery, sits at the Wreckwives' table once a week, and goes home to Davey. She is no one of importance, which makes her the Wreckwives' perfect test: an ordinary woman, an ordinary Tenanted husband, an ordinary question.
+
+#### What They Carry
+
+- **Shucking knife** — (knife, 2) short and hooked. She can open a mussel blind in a second.
+- **Davey's dinner pail** — every evening: raw Uncovered shellfish, cold, salted.
+- **The cistern key** — she locks it, from outside. She has never said why.
+- **Davey's old belt** — heavy, brass-buckled. She keeps it in a drawer and does not know whether as a memento or as evidence.
+- **Her wedding bucket** — Davey's, swapped at the wedding. Old Davey's bucket.
+- **A name-book page** — the Wreckwives' record of Davey Gull, in her own hand: *returned 638. Kind.*
+
+#### Wants, Fears and Secrets
+
+She wants to know whether she is allowed to be happy. She fears that she prefers him, and what that says about her; that the man she married is still in there, folded small, watching her love his replacement.
+
+**Secret (the GM may reveal):** she can no longer remember old Davey's voice, and has wondered, in the dark, whether the thing in the cistern took that too, as a kindness.
+
+**Secret she does not know:** she is carrying Davey's child. The child is the Tenanted Davey's, conceived after his return. Tolly Brack has seen a new thread in her bail-water, a fine dark blue line like ink in a glass, and has no word for it. Ansby Wrack of the Cutwrights would.
+
+#### Ties
+
+- **Davey Gull** — her husband; Tenanted since 638. Gentle, grateful, patient.
+- **Widow-Mother Agna Spurling** — Sennet's sponsor; the one woman who says aloud she loves her returned husband more. Sennet hates her a little for it.
+- **Esk Penhallow** — Sennet visits him on his step. If he is truly himself and his wife will not have him, she wants to know what that means for her.
+- **Tolly Brack** — bails her neighbour; looks at her strangely.
+- **Orrin Wake** — fished with Davey before. He tells Sennet that the Passenger in him knows Davey's Passenger, and that it is "a decent sort."
+- **Ansby Wrack** — the Cutwright has asked to take Sennet's blood. Sennet said no.
+
+#### In Play
+
+Guests meet her at a Wreckwives' table, asking for advice she does not want.
+
+- **The Voice.** Sennet asks the Guests to find someone who remembers old Davey's voice: a drinking friend, a brother. When they find him, does she want to hear it?
+- **The Belt.** A neighbour tells the Guests that Sennet has twice been seen at night on the cistern's edge with old Davey's belt in her hand.
+- **The Cutwright.** Wrack asks the Guests to obtain Sennet's blood, quietly, before the child shows.
+
+**If nobody intervenes:** Sennet bears a quiet, grey, black-eyed daughter in Plenty 642, who does not cry and does not need to bail. Davey sings to her in the lower voice. Sennet stops coming to the Wreckwives' table.
+
+[box: Said of Them]
+"Sennet tells it straight and doesn't cry. That's the rule. She's the only one I've seen who doesn't cry because she's angry." — the Keeper of Names, Middle Mile
+"New Davey brings her a shell every Low Water. Old Davey brought her a black eye every payday. You tell me." — a cannery woman
+"She's afraid of being happy. That's the most Brinehollow thing I've ever heard." — Reeve Calder Stokes
+[/box]

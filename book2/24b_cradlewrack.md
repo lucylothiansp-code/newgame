@@ -47,7 +47,7 @@ The Course took Iphigene in 625. Since then she has carried almost continuously,
 
 House Morwen owns eleven of the warm springs of the upper Tull and half the clay-pits west of Kest; the potters of Rudge dig Morwen clay and the salt-boilers of the ravines boil Morwen water, and every lack they earn passes through the Hall's factors before it reaches them. The Duchess sits first on the Veiled Council, which advises the Attendance on prophecy and decides, in practice, the price of salt. Orla Kest consults her before every Lying on a noble descent. The Rim Road Company buys Morwen cauls. The Cutwrights' College keeps the Morwen genealogy sealed at her request and at her expense.
 
-Her power is real and narrow. She cannot command the Attendance, which answers to no one, and she cannot overrule the King Within, though she can ask the Chamberlain to frame a question so that the kick falls her way. She cannot leave the Hall without a litter, four wardens and a day's preparation. Her real currency is foresight: once a season she dictates to her scribe a list of what will happen in the highlands before the next Unbricking, and the list is copied and sold, and the houses that buy it plan their harvests and their marriages by it, and they are rarely wrong to. Lately the list is short and every line of it is red.
+Her power is real and narrow. She cannot command the Attendance, which answers to no one, and she cannot overrule the King Within, though she can ask the Chamberlain to frame a question so that the kick falls her way. She cannot leave the Hall without a litter, four wardens and a day's preparation. Her real currency is foresight: once a season she dictates to her scribe a list of what will happen in the highlands before the next Unbricking, and the list is copied and sold, and the houses that buy it plan their lambings and their marriages by it, and they are rarely wrong to. Lately the list is short and every line of it is red.
 
 Her routine is the routine of a body that is always beginning. She wakes before dawn in the Veiled Gallery, is washed and oiled, eats a little clay-bread and posset, and receives petitioners through a gauze screen until noon. In the afternoons she is carried along the third-storey bridges to the Foretelling Room, a round chamber with no windows and one long couch, where she lies on her back with her scribe beside her and looks forward. At dusk the nurses come to see how near she is. On delivery nights the house is sealed and the bridges drawn in.
 
@@ -1304,7 +1304,7 @@ Skills: Search 4, Wayfaring 3, Brawl 3, Persuade 3, Stitching 2, Stealth 2, Endu
 Flesh 13 · Guard 16 · Armor 1 (padded jack) · Fray 4
 Attacks: cosh +6 (3, Stunning); weighted net (Entangling)
 Gifts: Taken Alive (Taker talent); Rehearsal (Appetite)
-Wants: Gather (she must keep any Part she finds; she has the Course's Want early)
+Wants: Gather (Grim 18; she must keep any Part she finds and bring it to the Barn; she has the Course's Want early, as Assemblers often do)
 Knacks: Kin-Sense, Hostage's Smile
 Carries: carrying-crates, a cosh, the Gatherers' book, a child's blanket
 Dread: 1
@@ -1346,4 +1346,73 @@ She wants the figure finished so that every returned child will have been worth 
 "She held my hand through the whole thing. Then she took what came out." — a Tarnbrow mother
 "Una's the gentlest pair of hands we have, and the surest." — Dov Marrin
 "She waves at me every morning. I wave back. Mam says not to." — Juniper Dell, on her slate
+[/box]
+
+## Webs of Cradlewrack
+
+Every highland web is a cord: it carries warmth one way and blood the other, and it cannot be cut without both ends bleeding. The table gives the strongest strand for each person in the second half of the cast and the core's newcomers.
+
+| Character | Wants from | Fears | Owes |
+| Duchess Iphigene | Orla Kest: to be in the room | the red; her own face | Casimir, unknowingly, her deliveries |
+| Lord Casimir | the Second Table: a portion | the east gallery | Dov Marrin, the roof money |
+| Dolour Pym | Orla Kest: no returning | the first bundle | Absalom Gage, the pick |
+| Ede and Ada | Tamsin Gorse: to stay two | Nettle Corse | Rufus Ochre, their place |
+| Rufus Ochre | Orla Kest: the Lying-In's book | the sum | Ruth Ninefold, forty lacks a month |
+| Maeve Cord | Orla Kest: an end to the knife | the far end of the cord | her mother, everything |
+| Gideon Breech | Bryony: forgiveness | the knocking room | Haskett Varr, a life |
+| Petra Quick | the Rim: one place it fails | the red patches | Una Clayhand, a betrayal she has not found |
+| Queen Sibyl | her son: rest | that he will outlive her | Absalom Gage, every night's bricking |
+| Lazar Voss | Ambrose: the name | sleep | Lady Dalgety, two thousand lacks |
+| Juniper Dell | anyone: the other half | saying the whole thing | Annis, a secret kept |
+| Old Hinge | someone young: the oil can | being asked to come and see | his mother, a promise not to look |
+| Wenna Thrale | Sabeth: the truth | being good at it | Dolour, unknowingly, two lives |
+| Absalom Gage | the walls: silence | an answer | Dolour, bread |
+| Tamsin Gorse | her mirror: nothing | the eye | the Crewes, a promise to keep cutting |
+| Merriam Toll | the Company: clean books | warm crates | Breech, her silence on Varr |
+| Herself | the Sill | nothing | four hundred mothers |
+| Eamon Seele | House Seele: return | the night kicks | Orla Kest, his office |
+| Una Clayhand | Herself: a voice | Juniper's face | the Lying-In, a son |
+
+### The Gate and the General
+
+Marshal Breech killed Captain Haskett Varr with three cuts in the dark of Carving 635 to let his daughter over the border, and on the same day General Tibb was born mid-stride in a Cleave lambing-shed wearing those three cuts as old white scars. The two men are the closest allies in the highland state: Breech holds the border, Tibb holds the Crèche, and they drink together every Pangday. Breech knows. Tibb does not, but he dreams of a lantern on a wet road. Merriam Toll holds the Company's file on Varr and has noticed the dates, and the Company would very much like a name for its dead captain's killer. If the truth comes out, Tibb must decide whether a man who owes his scars to Breech owes him anything else, and the Foundling Companies, who love their General without reservation, will take whatever side he takes. Meanwhile something in the Open Door is knocking, waiting for its grandfather.
+
+### The Veil and the Dish
+
+Iphigene Morwen cannot be lied to by anyone standing before her, so Casimir has not stood before her in fifteen years. He sends what she delivers to the Barn, sells the house's cauls through Merriam Toll, has sold the Second Table the date she foresaw, and has bricked his own heir into the east gallery without knowing it is his. Their daughter Isolde, bare-faced and disowned, is the only person in the Hall who can see his face and the only one who has begun to ask about the covered dish. When Iphigene learns what the nurses carry out, she will not rage; she will foretell, once, aloud, what happens to Casimir tomorrow, and the GM must make it happen.
+
+### The Low Wall
+
+Orla Kest has answered three thousand Second Questions and remembers every one. Dolour Pym has taken seven of them out of the Low Wall, still warm, and Absalom Gage has rebricked the niches each morning, and Wenna Thrale, who named two of them on the walk, is being offered the knife. When the Paramount learns, and she will, she faces the one question the Book of Questions never asks: what to do with something she has already answered that did not stay answered. Wenna will be in the room, holding the door. Whichever way she leans will decide the next Midwife-Paramount.
+
+## Using Cradlewrack's People
+
+These people are best met at thresholds. Let them knock. Every one of them arrives mid-labor in some sense, wanting something to begin or something to stay shut, and nearly every one of them is watching the interval. When the pangs close to seven days (see the Missing Hand), raise every Want by one difficulty step and move each person one step along their "if nobody intervenes" path.
+
+Roll a d20 when the party is resting in a highland house, waiting out a pang, or has just closed a door.
+
+| d20 | Who's at the Door? |
+| 1 | The Duchess Morwen's Veil-Wardens, with a litter: Her Grace has foreseen one of you tomorrow and wishes to see you first. |
+| 2 | Lord Casimir, perfumed, alone, offering triple pay to carry a covered dish east before dawn and not lift the cloth. |
+| 3 | Dolour Pym, out of breath, with a covered basket that is moving: the Lying-In is coming for it. |
+| 4 | Ede and Ada Crewe, hands bandaged together: a girl from Cleave is asleep on the Tally-house steps. |
+| 5 | Rufus Ochre with a dark lantern: forty unaccounted are walking north tonight and he needs a count. |
+| 6 | Two Grafted acolytes: the Mother of Cords asks you to come and open a tomb. |
+| 7 | Marshal Breech, out of uniform, asking whether any of you would sit one night in an empty room at the Open Door. |
+| 8 | Petra Quick and a mule-cart with something under the turnips that is breathing hard. |
+| 9 | The Queen Dowager's bearers: she wants a question asked, tonight, that the Chamberlain will not ask. |
+| 10 | Dr. Lazar Voss, unshaven, red-eyed: he has drawn one of you, and wants to measure you to be sure. |
+| 11 | Juniper Dell, alone, barefoot, with her slate: *Take me to the door.* |
+| 12 | Old Hinge, a long way from his hill: something is sitting on the near side of the Sill and he needs someone to keep it company until dawn. |
+| 13 | Wenna Thrale, white-faced: her master has gone to Tarnbrow with the knife-case, and Wenna needs someone to follow. |
+| 14 | Absalom Gage, shouting: a wall he laid is knocking three, one, three, and he wants someone with ears. |
+| 15 | Tamsin Gorse with her case: one of you has a scar she would like to look at before the next pang. |
+| 16 | Factor Merriam Toll: should you be inclined, the Company would pay well to know why a crate of cauls is warm. |
+| 17 | Lord Chamberlain Seele, with a petition you did not write, bearing your names and the King's kick. |
+| 18 | Una Clayhand, smiling, with a crate: she would pay for anything you happen to be carrying that crawls. |
+| 19 | No one. The door opens by itself. On the step is one of Juniper's drawings: this door, this house, and you in it, arms spread. |
+| 20 | Herself. The Barn's far door is open twenty miles away and the latch here lifts on its own. Nothing is outside. Every Part in the house turns east. (Dread 4.) |
+
+[box: Running the Second Cast]
+Most of this cast cannot leave where they are: Maeve has thirty yards, the Queen a litter, Hinge a hill, the Duchess a hall, Dolour a cottage full of mouths. Use this. Make the characters the ones who travel between them carrying messages, baskets, questions and Parts, and let them notice, slowly, that every errand ends facing north. The great secrets (the three-one-three knock, the two hearts in Voss's drawing, the long room with the chair pulled out) should arrive through three different mouths before anyone puts them together. Nobody in the highlands has all of it. That is the only reason any of them still sleep.
 [/box]

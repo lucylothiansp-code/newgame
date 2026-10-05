@@ -930,3 +930,150 @@ To threat he is unafraid; he has seen what dying looks like nine hundred times. 
 "He dosed me through two years in the Proving Rooms. He apologised to me once. I think he meant it, which was worse." — a released prisoner
 "Crane does not lie. He simply declines to round up." — Maud Sexton
 [/box]
+
+### Matron Cecily Dorm — Keeper of the Count
+
+> "Fifty-eight thousand and four, fifty-eight thousand and five. Good morning, love. Fifty-eight thousand and six."
+>> — Cecily Dorm, on her rounds, overheard by an orderly
+
+[stat: Cecily Dorm — Matron of the Dormitory]
+Land & Cut: the Vigil · Cut 2 · Regrowth 5 (the Appetite) · Hunger 4
+Age & Station: 50; Matron of the Dormitory since 622; keeper of the number
+Calling & Standing: Seamer (the Dormitory) · Standing 5 (Matron)
+Attributes: Hand 3 · Gut 2 · Lung 2 · Eye 4 · Tongue 3 · Caul 4
+Skills: Reckoning 5, Resolve 4, Stitching 3, Search 3, Deceive 3, Rites 2, Brawl 1, Endure 1
+Flesh 11 · Guard 13 · Armor 0 · Fray 7
+Attacks: ring of bed-keys +4 (1)
+Gifts: The Rows Know Her (inside the Dormitory, restless sleepers turn toward her, and she always knows when one has moved). Breath-Matched (she may breathe with the Counted, which hides her inside the Dormitory while she is silent).
+Wants: To count (she must finish any count she begins, aloud if necessary; Routine).
+Knacks: Counting Habit; Mother's Hands
+Derangements: The Hands (she believes her own hands chose the four who went down, and watches them)
+Carries: the bed-keys; Bed One's Words; the register; a measuring-tape; a phial of salts; a pillowslip
+Dread: 2 (to watch her standing over a bed with a pillow)
+[/stat]
+
+#### Who They Are
+
+Broad, soft-spoken and slow-moving, in a starched grey gown and felt slippers, with a heavy ring of bed-keys at her belt that she holds still with one hand as she walks so it will not jingle. Her face is round and kind and permanently tired, with the purple thumbprints of thirty years of no sleep under her eyes. She smells of starch and lye and, faintly, of the Counted, that sweetish clean-linen smell that gets into an orderly's skin. She speaks in the Dormitory's half-voice, low and even, even outside it. Her lips move when she walks. She is counting.
+
+#### Their Story
+
+Born in 591 in Bedside to an orderly's family, Cecily carried sheets at eight, washed the Counted at twelve, and was a Matron's deputy at twenty-six. In 622 she knelt at the deathbed of Matron Hesketh Anstey and received the number, whispered once on the old woman's last breath, while the Warden-Prime stood across the room. She has walked the rows every day since, counting from one. In 638 the Lessening approached her. In 639, alone in the oldest rows at the third bell, she tested their arithmetic with a pillow, four times.
+
+#### Their Place in the Land
+
+She runs the Dormitory: four hundred orderlies, the laundries, the Receiving Gate, the bed-register, the visiting bells, the Bed-Due. She decides which bed a new sleeper is given, by her own rule, which is not the order of the numbers. She is the only living person who officially knows the number, and the city's most dangerous arithmetic sits in her head while she checks the sheets. She answers to the Warden-Prime, who appointed her, and to a Watch oversight committee on which Sabine Larch sits.
+
+#### What They Carry
+
+- **The bed-keys** — sixty-one iron keys on one ring, one to each hall. She holds them still. A jingle in the halls makes the Counted frown.
+- **Bed One's Words** — her notebook of what Aveline Morne's lips have shaped: mostly a baker's recipes, and lately names, one a day (Taint Dread 4; see the Rim Market).
+- **The register** — her private book of the nineteen restless sleepers, with times.
+- **A measuring-tape** — for beds 212 to 219, whose fingertips now nearly touch.
+- **A phial of Bitterhouse salts** — the Lessening's issue. She has not used it.
+- **A pillowslip** — from the fourth bed. She has never washed it.
+
+#### Wants, Fears and Secrets
+
+She wants someone to tell her what she has done. She fears the arithmetic and she fears her hands.
+
+**Her secret:** she smothered four of the Counted. Each time, within the bell, someone somewhere in the city blinked and did not come back, and the number was exactly what it had been. The count keeps itself. She has started to wonder whether she was the one who chose who went down.
+
+**What she does not know:** the Warden-Prime read the number on Anstey's lips in 622. But Anstey's lips and Anstey's breath did not say the same thing, and only Cecily heard the breath.
+
+#### Ties
+
+- **Warden-Prime Ilvane Stroud** — her patron, whom she trusts; she has never told her about the pillows.
+- **Aveline Morne** — Bed One; Cecily talks to her every day like a daughter.
+- **Sabine Larch** — the Lessening's First; she told Larch the count keeps itself, and Larch smiled and did not believe her.
+- **Odile Farthing** — the mother of 40,112, whom Cecily lets stay past her hour.
+- **Lukas Marre** — writes to her every Plate asking after the people from the square. She answers every letter.
+
+#### In Play
+
+PCs meet the Matron when they bring a sleeper in, visit one, or are hired to sit the night rows. She wants witnesses who are not orderlies, and she wants the party to tell her what she is.
+
+- **The Fourth Pillow.** Three Counted found smothered in the east wing. The Matron hires the party to watch; it is not her this time.
+- **Beds 212 to 219.** The fingertips will touch within the Plate. Should she part the beds?
+- **The Name.** Bed One's lips shape a PC's name.
+
+To threat she is still and polite. To kindness she weeps. To the god she counts. If nobody intervenes, she reaches the number one morning, stops, and lies down in the last bed herself, and the count does not change.
+
+[box: Said of Them]
+"She knows every one of their faces. Every one. She'll stop by a bed and say, that's Agnes, her sister's in three thousand and nine." — an orderly
+"The Matron let me stay past my bell. She stood with me. She held my hand, and she was counting under her breath, the whole time." — Odile Farthing
+"A woman like that does not tell you how many. She tells you how few." — Sabine Larch
+[/box]
+
+### Garron Ashlock — the Lamplighter-General
+
+> "Light's light, friend! Burns bright, burns clean, keeps the room shut. Don't you go asking what's in the wick."
+>> — Garron Ashlock, to a Watcher who asked about the oil accounts
+
+[stat: Garron Ashlock — Lamplighter-General]
+Land & Cut: the Vigil · Cut 2 · Regrowth 4 (the Appetite) · Hunger 3
+Age & Station: 48; Lamplighter-General of the Guild since 633
+Calling & Standing: Renderer (the Lamplighters' Guild) · Standing 5
+Attributes: Hand 4 · Gut 3 · Lung 3 · Eye 3 · Tongue 3 · Caul 2
+Skills: Labor 4, Craft 4, Athletics 3, Endure 3, Haggle 3, Deceive 3, Intimidate 3, Reckoning 3, Blades 2
+Flesh 14 · Guard 16 · Armor 1 (Burner's leather) · Fray 6
+Attacks: lamplighter's pole +6 (3, Reach; lit, +1 fire); lamp-flask +4 thrown (2, burns 1 a round)
+Gifts: The Catching Yawn (Partake and yawn; everyone in earshot with Weariness 3+ rolls Hard or gains 2 Weariness). Lost Seconds (Partake and blink on purpose; gone 1d6 seconds, reappear up to ten paces away).
+Wants: To lie down (Hard; triggered above all by the warmth of the furnaces).
+Knacks: Strong Back; Gallows Laugh
+Derangements: none
+Carries: the oil ledger; lamplighter's pole; Spill's letter; a Sallowreach candle; burn-salve; the vat-key
+Dread: 1 (to see him at the furnace doors)
+[/stat]
+
+#### Who They Are
+
+Red-faced, barrel-chested, bald and browless, burn-scarred to both elbows in shiny pink sheets, he has a cheerful bellow that fills a room and that he has cultivated to hide that he cannot rest, ever, because he can count. He laughs at everything. He slaps backs. He smells of lamp-oil, scorched hair and, lately, of fat. His eyes do not laugh. They flick to every lamp in a room, check its flame, and come back.
+
+#### Their Story
+
+Born in 593 on Lanternside to a wick-braider, Garron was a Wick at nine, a Climber at fifteen, a Stoker at twenty-six and a Burner of the Row at thirty-four. He became Lamplighter-General in 633 and opened the oil ledger and read the date on its last page. In 636, when the Fatlands tallow first came short, he walked into the Burners' Yards and looked for a long time at the furnaces where the dead were burned. He says the decision took a bell. It has taken him every bell since.
+
+#### Their Place in the Land
+
+He keeps ten thousand public lamps, the roof-mirrors and the Bonfires burning; commands some five thousand Wicks, Climbers and Stokers; and buys every drop of oil the Vigil imports. He has ninety days of it. His Brinehollow supplier, Lucan Spill, has doubled the price; his Fatlands supplier, Brisket Annalow of the Renderers' Union, has stopped answering. He has a standing order from the Watch to tell no one. His deputy, Rosamund Kell, sits on the Second Table.
+
+#### What They Carry
+
+- **The oil ledger** — with the true figure. Ninety days.
+- **A lamplighter's pole** — brass hook and wick, the one he carried as a Climber (9 L; Reach; lit, +1 fire).
+- **Spill's letter** — offering new oil, brighter, smelling of low tide, rendered on the Uncovered from *things with too many ribs*. The trial casks drip seawater.
+- **A Sallowreach candle** — from Wick Tallow of Lastgate, rendered from the unclaimed dead, which burns for a month without shortening. He has a crate on order.
+- **Burn-salve** — goose-grease, contraband, in a tin.
+- **The vat-key** — iron, to the tallow vats behind the Row.
+
+#### Wants, Fears and Secrets
+
+He wants a miracle and has settled for tallow.
+
+**His secret:** the furnaces on the Row no longer burn the dead to ash. They render them. A quarter of the city's lamps now burn on the people who used to read by them, and the Guild has begun to look, with a professional eye, at the Dormitory.
+
+**What he does not know:** Rosamund Kell has already rendered one Counted sleeper, taken from the general rows on a Lessening list. The lamp it fills stands in Ashlock's own office. It does not flicker. It breathes, four times a minute.
+
+#### Ties
+
+- **Lukas Marre** — the Guild keeps his Glass House cell brightest of all, on a standing order Ashlock signed himself. He tells no one why.
+- **Lucan Spill** — he would kill the oilman if it would not stop the oil.
+- **Rosamund Kell** — his deputy, efficient, loyal, Second Table.
+- **Benedikt Lour** — the Architect asks how many lamps a Second Dormitory will need. Ashlock has done the sum and laughed until he wept.
+
+#### In Play
+
+PCs meet Ashlock as escorts for an oil convoy, investigators at the Yards, or buyers of light. He wants oil and silence.
+
+- **The Convoy.** Guard Spill's casks up the Pilgrim Road. They drip, and the drip runs west.
+- **The Keening Lamps.** A street complains its lamps sing at the fourth bell.
+- **The Lamp in the Office.** Someone must decide what to do with a lamp that breathes.
+
+To threat he laughs and then he burns. To kindness he weeps. If nobody intervenes, the oil fails in 641, and Ashlock signs the order to render the general rows.
+
+[box: Said of Them]
+"Garron used to sing on the roofs. He stopped when he got the ledger." — Wenna Startle, mirror-climber
+"He pays the Burners triple. He doesn't come in the Yards any more." — Burner Absolom Grease
+"Good man. Laughs at my jokes. I don't trust a man who laughs at my jokes." — Captain Brannoch Pyre
+[/box]

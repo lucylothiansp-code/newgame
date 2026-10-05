@@ -999,3 +999,132 @@ PCs meet Rue as a guide or fixer. **Seeds:** Rue hires the PCs to find out why h
 "She's older than my mother, and she haggles like my grandmother." — a Company factor
 "Her mother didn't break the promise. Neither did she. That's what's so cruel about it." — Old Sabra Wends
 [/box]
+
+### Halvar Stane — Echo-Warden
+
+> (signed, slowly, with a hand on the listener's wrist so the touch carries it) Two words. I have two. I'll not give you either. Ask me for the third when I have it, and I'll not give you that.
+>> — Halvar Stane, to a Bench clerk, 639
+
+[stat: Halvar Stane — Echo-Warden]
+Land & Cut: Oathen · Cut 2 · Regrowth 2 (the Taste) · Hunger 2
+Age & Station: 58; Tracker of the Echo-Wardens; formerly Warden of the Wall (626–639)
+Calling & Standing: Warden · Standing 3 (Tracker, by the Wardens' ladder)
+Attributes: Hand 3 · Gut 3 · Lung 4 · Eye 4 · Tongue 2 · Caul 4
+Skills: Wayfaring 4, Stealth 4, Search 4, Instinct 4, Shooting 3, Athletics 2, Endure 2, Lore 3
+Flesh 13 · Guard 16 · Armor 1 (felt jack) · Fray 8
+Attacks: shortbow +6 (3); Echo-Warden's stave +5 (3, Parrying, Silent); knife +5 (2)
+Gifts: Echo-Ear. Rock-Ear (can track an echo through stone by ear alone, a mile per hour; knows every posted gorge without a roll). Silencer (with felt, quicklime and an hour, kills a Weight 1–2 echo with no roll; a Living Echo with Eye + Instinct vs Grim 18).
+Wants: To go back to the wall (a Pull, not the god's Want; triggered by still nights).
+Knacks: Silent Supper, Light Sleeper
+Derangements: The Pull (toward the wall at Sworn Gorge)
+Carries: stave; shortbow; plugs; a pouch; mortar and pestle; the knot-map; a tether-rope.
+Dread: 2
+[/stat]
+
+#### Who They Are
+
+Halvar is gaunt and bow-legged, burned dark by thirty years in the gorges, with a long grey face and a habit of tilting his head to the left like a listening dog, because the right ear is gone: cut away at his initiation in 603, healed into a pale knot of scar. The left is failing with age. He smells of felt, quicklime and goat-tallow. He moves without a sound, even indoors, and people find him behind them. He speaks rarely, and in handtalk by touch when he can.
+
+#### Their Story
+
+Born in 583 in Sheathmouth, Halvar walked the Sheath with his mother as a boy, roped and gagged, and learned to hear the scraps of old words in the walls. He joined the Wardens at twenty and took the knife to his right ear. From 611 he served at Sworn Gorge, and in 626 he became Warden of the Wall. He listened to the murmur for thirteen years, and in 634, pressing his good ear to the stone on a still night, made out two words: *set* and *again*. He reported it and would not repeat them. In 639 he began to sleepwalk, and Tacet Morrow found him at the wall one night with his lips moving. He was relieved and sent to track echoes in the eastern canyons. This Carving the murmur stopped. Three herders near Wending broke the way the people of Sowe broke.
+
+#### Their Place in the Land
+
+The Wardens' most experienced tracker, hired by towns and the Bench to silence old words (30 L, the Rim Market chapter). He buys echo-stones and grinds them. Every Warden defers to him. The Bench reads his reports.
+
+#### What They Carry
+
+- **Echo-Warden's stave** — felt-wrapped; his initiation stave.
+- **Shortbow** — for goats and, once, a man.
+- **Wax and lead plugs** — he rarely uses them now.
+- **A pouch** — his own right ear, dried, kept since 603.
+- **Mortar and pestle** — for grinding echo-stones to sand.
+- **A knot-map** — a cord of the posted gorges, by touch.
+- **A tether-rope** — he ties himself to his bed at night.
+
+#### Wants, Fears and Secrets
+
+He wants to go back to the wall. He fears that he is already bound, and that this is how it feels. **Secret (GM may reveal):** the two words. **Secret he does not know:** the gorge went quiet because the echo is no longer in the rock. It came out in his sleep, through his mouth, on the last night at the wall, and it travels in him. The herders who broke had shared his fire.
+
+#### Ties
+
+- **Tacet Morrow** — his successor, who keeps him from the wall.
+- **Ona Fell** — his cousin, whom he visits for no reason.
+- **Little Rue** — he guides for her; she has told him he talks in his sleep.
+- **Ket the Ninth** — has read all his reports. Halvar does not know.
+- **Sister Verity Amn** — writes to him about the thought that binds.
+
+#### In Play
+
+PCs meet him as their guide through posted canyons. **Seeds:** the core book's *Sworn Gorge Has Gone Quiet*; Halvar asks the PCs to tie him down tonight and listen to what he says; a town hires him and the PCs to silence a new echo, which is his voice. Threatened, he vanishes into stone. To kindness he answers by touch. **If nobody intervenes:** he walks into Tacit in his sleep on Tablenight eve, and says it.
+
+[box: Said of Them]
+"He heard the gorge breathe for thirteen years. I've been there two and I can't sleep." — Gorge-Warden Tacet Morrow
+"Took him through the Sheath when he was eight. He held the rope like a grown man." — Rope-Mother Huld
+"He tied himself to my cot last night and asked me to sing loud if he started talking. I don't know any songs." — a goatherd near Wending
+[/box]
+
+### Mirren Osk — the Handtalker
+
+> (signed, with the left hand only, the right in splints) Thirty years I made things that were beautiful and cost nothing. I always suspected that was too good to be true.
+>> — Mirren Osk, to a student, Grace 641
+
+[stat: Mirren Osk — the Handtalker]
+Land & Cut: Oathen · Cut 3 (Tongue-line, the lesser Osk house) · Regrowth 3 (the Taste) · Hunger 3
+Age & Station: 40; the greatest poet in handtalk; mistress of the School of Hands
+Calling & Standing: none (a poet; the handtalk schools count her first among them)
+Attributes: Hand 4 · Gut 2 · Lung 2 · Eye 3 · Tongue 4 · Caul 3
+Skills: Craft 5 (composition), Persuade 4, Instinct 3, Lore 3, Deceive 2, Rites 2, Athletics 1
+Flesh 10 · Guard 13 · Armor 0 · Fray 7
+Attacks: none.
+Gifts: Echo-Ear (in handtalk: she feels her signs echo back as a tingling in the fingers). The Moving Hand (a poem signed before a crowd, Hand + Craft vs Hard 14, removes 2 Fray from all who watch, or adds 2; she chooses).
+Wants: To Correct (in handtalk; she cannot see a sign made badly without correcting it).
+Knacks: Steady Hands, Gallows Laugh
+Derangements: Not My Hand (the right hand; it belongs, she believes, to her poems)
+Carries: splints; finger-oil; the Book of Hands; gloves; a sworn note; Cassian's letters.
+Dread: 1 (to watch her sign with broken fingers)
+[/stat]
+
+#### Who They Are
+
+Mirren is elegant and dark, with long hands she oils nightly with almond-oil, and three fingers of the right hand in ivory splints, knit crooked. She signs with the left now, more slowly, and the slowness makes her poems sadder. She smells of almond. Her eyes are restless. She is frightened, angry, and guiltily excited.
+
+#### Their Story
+
+Born 601 to the lesser Osk house, Mirren was signing poems behind her bit at six, nursery verses that went around Tacit's children like a fever. She founded the School of Hands in 625 and has composed some four thousand poems, many of them vows: of love, of loyalty, of forever. In Plenty of 640, at a party in the Dath house, her patron Lady Senna Dath commissioned a love poem to herself. Mirren signed it before four hundred guests. She did not mean it. Three fingers snapped mid-line.
+
+#### Their Place in the Land
+
+Mirren is the voice of the Left Hand: the proof that Oathen could be lovely without risk. Since her fingers broke, handtalk breaks everywhere, and the Galleries blame her, as though she taught it to bind.
+
+#### What They Carry
+
+- **Ivory splints** — on three fingers.
+- **Almond-oil** — nightly.
+- **The Book of Hands** — her poems in written notation, now possibly binding.
+- **Kid gloves** — she wears them in public, to stop herself.
+- **A sworn note** — Senna Dath's fee, uncashed.
+- **Cassian's letters** — full of lies, she knows, and she treasures them.
+
+#### Wants, Fears and Secrets
+
+She wants to know whether her old poems are coming due. **Secret (GM may reveal):** the poem was not for Senna. In her heart it was for Cassian Wry, the crown's Blank, whom she has loved for three years, and that is why it broke. **Secret she does not know:** Sorrin Vael's Bench is drafting a Reading of Hands that would rule all handtalk to have bound always; thirty years of poems would come due in a night.
+
+#### Ties
+
+- **Cassian Wry** — her lover, the one man whose words mean nothing, and the only one she believes.
+- **Lady Senna Dath** — her patron; humiliated; dangerous.
+- **Lady Imre Dath** — heard the poem through the rock and knows who it was for.
+- **Little Rue** — subject of a poem Rue has asked her never to sign.
+- **Sorrin Vael** — he wants her at the Bench for the Reading. She has refused.
+
+#### In Play
+
+PCs meet her seeking a translator or a witness. **Seeds:** she hires the PCs to find every person she ever signed a vow-poem to; Senna Dath wants the poem signed again, correctly; Cassian asks the PCs to tell her something true for him. Threatened, she signs something devastating. To kindness she writes a poem. **If nobody intervenes:** the Reading of Hands passes.
+
+[box: Said of Them]
+"She taught my daughter to sign 'moon'. My daughter signs it better than I ever said it." — a mother of the Galleries
+"Her poems were the one thing in Tacit that didn't cost. Now they do." — a felt-maker
+"She signed me one, once. I couldn't feel it. I wanted to." — Cassian Wry
+[/box]
