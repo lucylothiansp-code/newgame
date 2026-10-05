@@ -1339,3 +1339,254 @@ What player characters can do is choose how the world meets the god. Every campa
 - **Hide.** The Providers held still once, and nobody knows why. Characters who ask that question loudly enough, in the right places, may find out what a god is afraid of. That is a matter for the Secrets chapter, and for the GM.
 
 [pagebreak]
+
+## Lairs
+
+Most of the Table's horrors have somewhere they go back to: a cellar, a furrow, a cistern, a room. When the players follow a creature home, roll once or twice on the land's table below for what they find there. Each is something to see, smell and touch, and most of them are a Dread 1 or 2 check; the last entries on each table are clues to something worse.
+
+### Sallowreach
+
+| d10 | Lair dressing |
+| 1 | Shelves of labeled jars, green glass, each with something inside that turns to watch the lamp |
+| 2 | A mattress of old shrouds, still warm, crawling with white maggots the size of barley |
+| 3 | Wire, thread and needles in a heap, and a pile of fingers sorted by length |
+| 4 | Candle-stubs that whimper when trodden on |
+| 5 | Peat-water to the ankle, with something below it gripping and letting go, gripping and letting go |
+| 6 | A child's slate on which someone has written *may you finish* forty times |
+| 7 | A lead mitten, torn open from inside |
+| 8 | A circle of dead flies on the floor, perfectly round; inside it, no sound |
+| 9 | A Closing license, signed by Ansel Grue, for someone still upright |
+| 10 | A family portrait with every face scratched out except one, which has been carefully Closed |
+
+### The Fatlands
+
+| d10 | Lair dressing |
+| 1 | Walls that sweat a fine yellow fat; the floor gives like a belly |
+| 2 | Gnawed bones in a heap, sorted into soup-bones and roasting-bones |
+| 3 | A red wrist-cloth, a dozen of them, knotted together into a rope |
+| 4 | Toothed wheat growing out of the plaster, clicking softly |
+| 5 | A table laid for a wake that was never finished, the meat gone grey and furred |
+| 6 | A trough of slops still warm, and a long tongue-print in it |
+| 7 | Rootkin stacked like firewood, faces up, eyes closed, breathing |
+| 8 | A Board ledger page listing the household by weight |
+| 9 | A funnel and a ladle of office, crusted |
+| 10 | A soft warm hummock in the floor, the size of a man, with a mouth beginning to form |
+
+### Brinehollow
+
+| d10 | Lair dressing |
+| 1 | Kelp on every step, still wet, still moving |
+| 2 | A bail-bucket full to the brim, with something small swimming in it |
+| 3 | Anchor-ropes, cut, coiled neatly, dozens of them |
+| 4 | A pressure-cracked window, bowed inward, the glass crazed like ice |
+| 5 | Salt crust on every surface, thick as snow, printed with bare feet going west |
+| 6 | A nest of Coughlings in the hearth-ash, rustling like rain |
+| 7 | A drowned man's boots, filled with sand and set side by side |
+| 8 | An Admiralty commission for a captain who was Called forty years ago |
+| 9 | A cistern with a face looking up from the bottom, perfectly still |
+| 10 | A Lowmark tide-chart, re-drawn in brine, showing water where there is none |
+
+### The Vigil
+
+| d10 | Lair dressing |
+| 1 | Pins, hundreds, driven point-up through a plank floor |
+| 2 | A standing-frame, empty, the straps worn smooth and stained |
+| 3 | Rouse-dregs in a hundred cups, the smell bitter and burnt |
+| 4 | A lamp that has been out for a week, and the darkness around it soft as felt |
+| 5 | A pair of shoes, a folded coat, a note that says only *sorry* |
+| 6 | A pillow, forbidden, hidden in a wall, with a dent in it |
+| 7 | A tether-collar, the silk line cut short and still damp |
+| 8 | A child's nudging-glove, the fingers worn through from pinching |
+| 9 | A list of bed numbers with lines drawn through the oldest rows |
+| 10 | A crude carving of a great closed eye, and under it, in chalk, the beginning of a number |
+
+### Cradlewrack
+
+| d10 | Lair dressing |
+| 1 | Every door off its hinges and stacked against the wall like playing cards |
+| 2 | A trail of rust-brown slime leading to a crack in the floor |
+| 3 | A row of cradles, each holding something warm and folded in a blanket |
+| 4 | A bricked-up room, broken open from the inside |
+| 5 | A birthing-stool, worn, with knife-marks on the arm |
+| 6 | Cord, yards of it, blue-grey, coiled in a basket, faintly pulsing |
+| 7 | The Tally, a stolen page, with births entered for names that are not yet dead |
+| 8 | A small grave-cap, pushed aside, and a hole a fist wide |
+| 9 | A key with no lock, born, still slick |
+| 10 | A drawing of the Assemblers' figure, with a left hand in a different ink |
+
+### Oathen
+
+| d10 | Lair dressing |
+| 1 | Felt hung on every wall, thick with dust, muffling every step |
+| 2 | A gold bit, cut through |
+| 3 | Scratched vows on the plaster, hundreds, all broken off mid-word |
+| 4 | Crutches stacked like spears; one of them carved with a name |
+| 5 | A contract of four hundred conditions, the last one in a different hand |
+| 6 | A jaw-cord of the Quiet, untied |
+| 7 | Grave-wrappings on the floor, dry as paper, shaped like someone sitting |
+| 8 | A Surety's ledger, two hundred names, and one circled |
+| 9 | A carved stone from the Ledger with a single word chiselled out |
+| 10 | Silence so complete that the characters hear their own last promises repeated |
+
+### The Fast
+
+| d10 | Lair dressing |
+| 1 | A table, laid, the food cold and perfect, untouched for decades |
+| 2 | A linen-press, very full, and very heavy, that nobody wants to open |
+| 3 | Swept floors, polished brass, folded napkins, and no dust anywhere |
+| 4 | A crust on a windowsill, and something better beside it |
+| 5 | A warm patch on the floor in the shape of a very long stride |
+| 6 | Place cards in a beautiful hand, a whole box of them, sorted by land |
+| 7 | A Tablebreaker's axe, its edge blunted, gravy dried in the grain |
+| 8 | A chair, pulled out, in front of an empty fireplace that is warm |
+| 9 | A Pantry ration-list with names left off, and beside each, a little drawn plate |
+| 10 | Eight chairs around a round table; seven pushed in, and dust on all but the eighth |
+
+[pagebreak]
+
+## Random Encounters
+
+Roll when the characters travel, camp, or linger too long in one place. Each table is weighted toward the uncanny; a GM who wants a quieter road should reroll results above 7. Each land's table now runs to d12; the last two results bring in the horrors new to this edition.
+
+### Sallowreach
+
+| d12 | Encounter |
+| 1 | A Kept family carrying great-grandfather to the Lofts, arguing about whose turn it is |
+| 2 | Bubbles rise in the Sump in the shape of a hand; a Sump-Thing surfaces next scene |
+| 3 | A Flyfront at Black Noon, rolling across the fen; lamps begin to go out |
+| 4 | Two Unstitched Kept beg for thread at the roadside; one has stopped asking |
+| 5 | Marrow Jack's men, bone saws in their coats, eyeing someone's sleeping companion |
+| 6 | A Finisher procession singing toward the nearest Hush |
+| 7 | A circle of dead birds; the silence beyond is a Hush-walker approaching |
+| 8 | A Tallow-Saint stands in an empty chandlery, steady as a lamp |
+| 9 | A Court Closer and four guards, hunting an Undone Closer; they ask questions |
+| 10 | The Undone Closer itself, kneeling by a stranger, folding her hands |
+| 11 | A Sewn Gentleman in a fine coat, and a crowd of Unstitched following at a distance |
+| 12 | A Loft aisle begins to whisper in unison as the party passes the street door |
+
+### The Fatlands
+
+| d12 | Encounter |
+| 1 | A Bailiff with funnel and ladle enforcing the third meal of the day |
+| 2 | A toothed field in the wind, chewing |
+| 3 | Sal Trotter's herd on the road; one beast is standing up |
+| 4 | Thin fugitives hiding in a ditch, begging the characters not to feed them |
+| 5 | Cull-Bailiffs tying red cloth on a vagrant's wrist |
+| 6 | A Rootkin bed in a fallow plot; one face is familiar |
+| 7 | A hill calls a character by a grandparent's name |
+| 8 | Renderers' slaughtermen and a cart with a lid that is knocking |
+| 9 | Dusk in Carving: the furrows begin to deepen |
+| 10 | The Scarecrow of Low Tilth, closer than it was this morning |
+| 11 | A cottage at suppertime, door open, five at table, one of them the Uneaten |
+| 12 | A stripped kitchen and a cook in the corner holding her wrist: the Bottomless was here |
+
+### Brinehollow
+
+| d12 | Encounter |
+| 1 | The morning count through the walls; one name gets no answer |
+| 2 | A Netwatch patrol with a Called in the net, bailing |
+| 3 | A Tenanted judge on circuit, perfectly fair, perfectly calm |
+| 4 | Salvagers on the Uncovered trading in things with too many ribs |
+| 5 | A Ribwalker stalking toward the camp's water barrels |
+| 6 | A pressure day: ears bleed, windows bow, everyone rolls Endure |
+| 7 | A Deepening procession with lanterns, walking west |
+| 8 | The Uncovered sings; all Lung-lines roll against the Pull 14 |
+| 9 | The Indoor Tide comes up the inn's cellar stairs and keeps coming |
+| 10 | A Called Procession of forty, including someone the characters know |
+| 11 | A bucket left standing overnight; by morning it is a Coughling nest |
+| 12 | A public cistern, closed by notice; a voice from it calls a character's name |
+
+### The Vigil
+
+| d12 | Encounter |
+| 1 | A street nudger offering pinches by the minute |
+| 2 | A Waker patrol checking eyes with lamps and needles |
+| 3 | A mild, quiet, overcast afternoon; the death toll begins |
+| 4 | A Yawn spreads through a crowded square |
+| 5 | Tuckers selling a guarded minute in an alley; the last client did not come up |
+| 6 | A blink-murder in the crowd; nobody saw it happen |
+| 7 | The Seeming: a whole street sees the same tall figure laying a table |
+| 8 | A Seeming made solid lumbers down the Slope |
+| 9 | A sleepwalking Counted, arms open, walking east toward the eye |
+| 10 | A Waker gone mad knocking at the door at the third bell |
+| 11 | Shoes and a folded coat on a doorstep; beyond, a dark warm room and a Made Bed |
+| 12 | Lamps dimming street by street toward the party: a Tether-Catch is loose |
+
+### Cradlewrack
+
+| d12 | Encounter |
+| 1 | A midwife on the road with her Second Opinion, called to a hard birth |
+| 2 | Every door at the inn is open in the morning, though all were barred |
+| 3 | A pang; buildings sway; someone counts the interval aloud |
+| 4 | A handful of Parts crawling north in the dark |
+| 5 | Assembler brethren with a sack that moves |
+| 6 | A Gathered looking for a left hand |
+| 7 | A crowning at the edge of a village; the rim is widening |
+| 8 | A Refused, kind and frightened, who asks if any of the party is a midwife |
+| 9 | Doorborn unfolding from a bricked room |
+| 10 | Giant tracks in the clay, then Josiah Fenn, then the Get |
+| 11 | A heaved grave-cap, and small wet tracks leading toward the nearest cottage |
+| 12 | A length of loose cord in the grass, pulsing, sliding toward the sleeping |
+
+### Oathen
+
+| d12 | Encounter |
+| 1 | A child in a leather bit, staring at the characters' talkative mouths |
+| 2 | A posted silent gorge; a character must cross without a word |
+| 3 | A Surety offering to carry an oath for a fee |
+| 4 | Clausewright and clerks drafting a merchant's three-hundred-condition apology |
+| 5 | Forsworn toughs demanding a promise at knifepoint |
+| 6 | Wind carries a stranger's words to the characters; are they bound? |
+| 7 | An Oath-Made, fading, begging someone to swear to look after it |
+| 8 | A living echo two bends behind, catching up |
+| 9 | A Forsworn mob climbing the canyon stairs |
+| 10 | A Defaulted Surety crawling, hunting a name the characters carry |
+| 11 | A swearer, bit cut away, running down the street promising in the party's names |
+| 12 | A walking corpse in grave-wrappings, jaw bound, at the foot of someone's bed |
+
+### The Fast
+
+| d12 | Encounter |
+| 1 | Unfed villagers eating cold and standing; they will not share, and will not take |
+| 2 | A Crumb-Runner's cart, spat on in the road |
+| 3 | Frost melted in a line across a field: company |
+| 4 | Blank-poachers stalking an Unfed family |
+| 5 | Tablebreakers with axes, hunting |
+| 6 | A chimney smoking over an empty house: a Lit House |
+| 7 | One of Orrum's tables, steaming, with a place card |
+| 8 | Brother Hallow Crust or another of the Seated, describing the soup |
+| 9 | Welcome Ardent in the road, bowing, asking if they will be joining |
+| 10 | A tall shape stooping under a lintel a field away |
+| 11 | The party wakes washed, combed and pared; one of them has been tidied |
+| 12 | A companion wakes with crumbs on their lips and will not say they slept well |
+
+### The Rim Road
+
+| d20 | Encounter |
+| 1 | A Rim Road Company toll-post; wardens sworn not to accept bribes |
+| 2 | A Company caravan of Fatlands barrels, origin stamped over twice |
+| 3 | A Cutwright with a ledger, measuring the characters' Cut for a fee |
+| 4 | Pilgrims from the Fatlands heading into the Fast to find the Host |
+| 5 | Petra Quick's cart carrying pregnant women out of Cradlewrack |
+| 6 | A dying traveler being smuggled north to Sallowreach so they will not die |
+| 7 | Dry Jonah's bottled brine for sale as Vigil tonic |
+| 8 | A Purgation cell burning a high-Cut coach |
+| 9 | Reckoners waiting at an inn for a noble's arrival |
+| 10 | A Second Table hunt, masked and carrying salt |
+| 11 | Blank-poachers with a godless captive, well fed |
+| 12 | A border marshal checking every traveler leaving Cradlewrack for signs of carrying |
+| 13 | An inn where every patron says "Lack keep away," except one |
+| 14 | A Kept man who has just crossed the Sallowreach border and dropped, finished, at the line |
+| 15 | A crossroads table, laid, steaming, outside the Fast |
+| 16 | Envoy Prudence Lowell, reminding a crowd that they are damned |
+| 17 | A Called man walking west on the Road, four hundred miles from any coast |
+| 18 | A Vigil seemer reporting a tall figure looking in at inn windows |
+| 19 | A wandering Forsworn, ribs open, with a message from Oathen's Breakdowns |
+| 20 | Welcome Ardent asks the way to the nearest inn; Orrum is a mile behind |
+
+Two further results replace any roll of 13 when the GM wants human trouble: Spademen at a roadside grave, arguing over a sack that has started to talk; or a pair of Ledger-Hounds with a College warrant and a family tree, asking which of the characters is related to whom.
+
+[box: The Last Word on Monsters]
+Every land on the Table believes another land's curse might cure its own. Monsters travel along the same road the cures do. A Tenanted judge can turn up in Sated. A Hush-walker can stand at the border and watch the living cross. The Host has been seen at crossroads in three lands already.
+Use this chapter as a menu, not a map. Everything here was once fed, and everything here is still hungry, and the Grace is ending.
+[/box]
