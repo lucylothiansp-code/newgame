@@ -641,7 +641,7 @@ Threatened, Tobias bolts, and is very good at being quiet. Kindness he takes, on
 
 ### The Scarecrow of Low Tilth — Nobody Put It Up
 
-> "Merrin. Abel Fitch. Gudrun. Hessop the younger. Cadge. Wilm. Nan Hogget. Merrin. Merrin. Merrin."
+> "Merrin. Abel Fitch. Gudrun. Hessop the younger. Cadge. Wilm. Nell Hogget. Merrin. Merrin. Merrin."
 >> — heard by a child of Kettle Furrow, from under the hat, at dusk, Carving 640
 
 [stat: The Scarecrow of Low Tilth — the Far Field]
@@ -677,7 +677,7 @@ The village has built its life around it the way a village builds its life aroun
 
 #### What It Carries
 
-- **A dusk-shift smock** — white linen, a plot-number at the breast: *KF-31*. The Cullmasters' register for Carving 637 lists plot KF-31 against the name of Nan Hogget, Pell's wife.
+- **A dusk-shift smock** — white linen, a plot-number at the breast: *KF-31*. The Cullmasters' register for Carving 637 lists plot KF-31 against the name of Nell Hogget, Pell's wife.
 - **A wide hat** — a farmer's straw hat, the band stuck with wheat-teeth, adult teeth, each one a different colour.
 - **A ribbon** — red, tied round its right wrist: the strip of cloth a Cullmaster unrolls at the end of a row, to show a worker which side of it to stay on.
 - **Its stuffing** — straw, packed meat, hair, fingernails, small bones, a wedding ring, a silver-filled molar, a boot-lace still tied in a double knot. Pulled out, the stuffing is warm and sorts itself, slowly, into piles.
@@ -689,7 +689,7 @@ It wants to reach the village, and every year it is closer. It fears nothing any
 
 **A secret the GM may reveal:** the Scarecrow is walking toward the Weighhouse, by way of every village that has stopped counting. It is slowed only where the Long Count is kept. Where a village gives up its tally, the next Carving the Scarecrow is a mile further on, in that village's far field, and nobody put it up. There are already three in Low Tilth.
 
-**A secret the Scarecrow's maker does not know:** nobody put it up, but somebody *dressed* it. In the smock of her own culling, Nan Hogget is standing in the far field, more or less, and walking home. When it reaches the barn, it will put its mark on the wall.
+**A secret the Scarecrow's maker does not know:** nobody put it up, but somebody *dressed* it. In the smock of her own culling, Nell Hogget is standing in the far field, more or less, and walking home. When it reaches the barn, it will put its mark on the wall.
 
 #### Ties
 
@@ -1246,7 +1246,7 @@ The PCs need someone close to the Chairman. Hooks: Nell needs a courier to Kettl
 | Dunmow Fatt | Lank: that he eat | the quiet in Lank's eyes | Clemency's memory a full plate |
 | Marigold Chine | Wren: to hear the silence | the last verse | the Thin a dry loft |
 | Tobias Wether | Sal: approval; Wren: emptiness | the long dim room | Sal his name |
-| The Scarecrow | the village: one blink | nothing known | Nan Hogget a smock |
+| The Scarecrow | the village: one blink | nothing known | Nell Hogget a smock |
 | Ivo Stockpot | an outsider: to know | that they keep buying | the garrisons an apology |
 | Granny Cracknel | the Scarecrow: its hat | the unborn teeth | Pell a warning |
 | Pudding Hesk | Tullow: his body | her own greed | the dead their silence |

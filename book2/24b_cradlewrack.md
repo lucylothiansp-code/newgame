@@ -756,7 +756,7 @@ When she is frightened, or asked her name, or when she wakes, she says it, in a 
 
 #### Their Story
 
-She was born in Tarnbrow in 633 to Annis Dell, a shepherd's wife, and the Attendant heard the half-sentence come out of her before her first breath was finished. The Attendant asked the Two Questions. Speaking children stay. Juniper's father died of the pangs' waters in a ravine in 637. Annis keeps the sheep alone, with help from a neighbour's boy. Last winter, Annis was paid a year's wages by a tall midwife from Kest to keep something in the loft over the byre, and not to tell anyone, and Annis did, because a year's wages is a year's wages. Juniper climbs the loft ladder every evening with a candle. She says her sentence up there, and the thing in the loft listens, and lately it says, in a small new voice, *the*.
+She was born in Tarnbrow in 633 to Annis Dell, a shepherd's wife, and the Attendant heard the half-sentence come out of her before her first breath was finished. The Attendant asked the Two Questions. Speaking children stay. Juniper's father, Aled, went into labor in Lack 640 and did not live; what came out of him is the thing in the loft. Annis keeps the sheep alone, with help from a neighbour's boy. Last winter, Annis was paid a year's wages by a tall midwife from Kest to keep something in the loft over the byre, and not to tell anyone, and Annis did, because a year's wages is a year's wages. Juniper climbs the loft ladder every evening with a candle. She says her sentence up there, and the thing in the loft listens, and lately it says, in a small new voice, *the*.
 
 #### Their Place in the Land
 

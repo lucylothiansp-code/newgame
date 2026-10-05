@@ -100,7 +100,7 @@ The clay-diggers' parish in the western ravines: a long straggle of egg-shaped r
 
 A sheep-town on the northern moors, the last sizeable place before the Sill, built around a cold dark tarn in a bowl of hills. Its people are shepherds and weavers of the coarse red highland wool, and its houses are more scattered than in the south, each with its lambing-shed and its sheepfold. Tarnbrow smells of sheep, peat-smoke and the cold mineral water of the tarn, which is the only water in Cradlewrack that is not warm. It is a town of odd births even by highland measure: the first man to bear, in 188 A.G., was of Tarnbrow; so was the widow of eighty-seven delivered of twins older than she was. Juniper Dell lives here, and so does the shepherd's widow who keeps Sabeth Thorne's spared thing in her loft. The custom of Tarnbrow is **the Fold-Light**: during lambing every house sets a lamp in the window of the fold, so that whatever is born in the night can see its way to the house and need not wander. The danger is the moor: in the fog between Tarnbrow and the Sill, travelers report a shape walking that is too tall for a man, and tracks the size of a cart. Josiah Fenn passes through every few months.
 
-[quick] Nettle Corse, shepherd's widow — Threat 2 · Flesh 12 · Guard 11 · Attack +3 (crook 3) · Armor 0 · Dread 0 · thirty-eight, paid a year's wages by Sabeth Thorne to keep a secret in her loft; she has begun to set out a bowl for it at table and to dread the morning she will see it at the foot of her own bed.
+[quick] Annis Dell, shepherd's widow — Threat 2 · Flesh 12 · Guard 11 · Attack +3 (crook 3) · Armor 0 · Dread 0 · thirty-eight, paid a year's wages by Sabeth Thorne to keep a secret in her loft; she has begun to set out a bowl for it at table and to dread the morning she will see it at the foot of her own bed.
 
 #### Cleave
 
@@ -474,7 +474,7 @@ She moves very fast when she moves. Apprentices who have held the door for her s
 
 Sabeth was born in 601 A.G. in the Coppers, the fifth child of a laundress, and grew up stirring aprons in the vats. She learned what the Second Opinion was by what came out of the rinse. She asked to apprentice at fifteen, held the door for her first Second Opinion at sixteen, and did not quit, which made her unusual. She was made an Opinion at twenty-two, the youngest in a century, because the Seniors had noticed that she could look at a thing for the count of three and decide, and live with it, and go into the next room. For eighteen years she was the Opinion the other Opinions sent for. She has given the Second Opinion more than eleven hundred times.
 
-Last winter, in Lack 640, she was sent for to a farmhouse in Tarnbrow, where a shepherd named Aled Corse had been in labor for two days. He did not live. What came out of him was the size of a newborn lamb and shaped like a child, with a seam across its throat and eyes that were very dark, and it looked at her, and she counted. One, two, three. It did not look away. She counted to eleven. Then she wrapped it in her own apron, paid Aled's widow, Nettle Corse, a year's wages from her own savings to keep it in the loft and say nothing, and entered the Tally as "one, born to the father, died with him." She has walked to Tarnbrow eleven times since with the knife-case. She has come home eleven times with the case unopened.
+Last winter, in Lack 640, she was sent for to a farmhouse in Tarnbrow, where a shepherd named Aled Dell had been in labor for two days. He did not live. What came out of him was the size of a newborn lamb and shaped like a child, with a seam across its throat and eyes that were very dark, and it looked at her, and she counted. One, two, three. It did not look away. She counted to eleven. Then she wrapped it in her own apron, paid Aled's widow, Annis Dell, a year's wages from her own savings to keep it in the loft and say nothing, and entered the Tally as "one, born to the father, died with him." She has walked to Tarnbrow eleven times since with the knife-case. She has come home eleven times with the case unopened.
 
 In Carving 641, at Rudge, with her apprentice Wenna Thrale holding the door, she counted eleven breaths again over a thing born to a man named Corran, and then answered, and used the knife. She has counted eleven ever since. Wenna has noticed.
 
@@ -488,7 +488,7 @@ Sabeth is the knife of last resort. Parish Attendants who cannot answer the Seco
 - **The bone hook** — for births that will not come, carved from the shin of a ewe. It has a Hooking quality and she uses it in fights as she uses it in rooms.
 - **The cord-thread, the basin, the linen** — laid out in the same order every time, the order the Book gives.
 - **A pumice stone** worn to a sliver, for her hands.
-- **A wooden horse** — a toy, carved by Nettle Corse's dead husband for a child they never had. Sabeth took it from the farmhouse on her third visit, meaning to give it to the thing in the loft, and has carried it in her apron pocket ever since without giving it.
+- **A wooden horse** — a toy, carved by Annis Dell's dead husband for the second child they never had. Sabeth took it from the farmhouse on her third visit, meaning to give it to the thing in the loft, and has carried it in her apron pocket ever since without giving it.
 - **The empty purse** — a year's wages, spent. She is poor now, and nobody at the Round knows why.
 - **Wenna Thrale** — not a possession, but Sabeth carries her apprentice the way she carries the knife, as a responsibility she cannot put down.
 
@@ -496,7 +496,7 @@ Sabeth is the knife of last resort. Parish Attendants who cannot answer the Seco
 
 Sabeth wants someone else to make her choose. She knows exactly what the Book says and exactly what she must do, and she has walked to Tarnbrow eleven times to do it. She fears the thing in the loft; she fears more that she loves it; and she fears most of all that she will reach the farmhouse one day and find she is too late, because it has learned to walk to her.
 
-**Secret (for the GM to reveal):** the thing in the loft is now the size of a child of six after only ten months. It has Sabeth's eyes, though it cannot have. It calls her Mother. It asks to be taken to see the Sill. It has begun to open doors by looking at them, and Nettle Corse has stopped bricking herself in because there is no point. Its naming-year ends at Tablenight, two months from now, and it has asked Sabeth what its name will be.
+**Secret (for the GM to reveal):** the thing in the loft is now the size of a child of six after only ten months. It has Sabeth's eyes, though it cannot have. It calls her Mother. It asks to be taken to see the Sill. It has begun to open doors by looking at them, and Annis Dell has stopped bricking herself in because there is no point. Its naming-year ends at Tablenight, two months from now, and it has asked Sabeth what its name will be.
 
 **Secret (she does not know):** Orla Kest has known about the loft since the first week. A Tarnbrow knocker told the parish Attendant, and the Attendant told the Round. Orla has done nothing, because she once held a door and has spent fifty-nine years wishing someone had let her choose.
 
@@ -504,7 +504,7 @@ Sabeth wants someone else to make her choose. She knows exactly what the Book sa
 
 - **Orla Kest** — her mistress and the woman she most fears disappointing. Sabeth does not know she is to succeed her.
 - **Wenna Thrale** — her apprentice, who wrote down the eleven breaths. Sabeth is teaching her everything and dreads the day Wenna is as good as she is.
-- **Nettle Corse** — the widow in Tarnbrow; bound to Sabeth by money and fear.
+- **Annis Dell** — the widow in Tarnbrow; bound to Sabeth by money and fear.
 - **Hester Lowe** — Sabeth has never met her, but she would know the callus on that hand at a glance; it is the callus of a knife-grip, like her own.
 - **Dolour Pym** — the wet-nurse behind the Lying-In wall, the only person Sabeth has thought of asking for help.
 - **Dov Marrin** — he has heard rumors of a spared thing in Tarnbrow and wants it for the figure. Sabeth would kill him without counting.
@@ -514,7 +514,7 @@ Sabeth wants someone else to make her choose. She knows exactly what the Book sa
 The characters meet Sabeth in the room: she is attending a birth they are present at, or she rides into a village they are passing through with her case. She wants them, though she will not say it, to decide for her. She may hire them as guards on the Tarnbrow road. She may ask one of them to hold a door.
 
 - **Eleven Breaths.** The Senior of the Lying hires the characters to learn why Sabeth goes to Tarnbrow every week. What they find in the loft calls Sabeth "Mother" and wants to see the Sill.
-- **The Name.** Ruth Ninefold, the name-broker of Kest, has bought the naming-right to "one, born to the father" in Tarnbrow from Nettle Corse for eight lacks. Its year is up at Tablenight. Somebody is going to name it, and naming it makes it stay.
+- **The Name.** Ruth Ninefold, the name-broker of Kest, has bought the naming-right to "one, born to the father" in Tarnbrow from Annis Dell for eight lacks. Its year is up at Tablenight. Somebody is going to name it, and naming it makes it stay.
 - **The Second Opinion, Given Wrongly.** A father in Cleave accuses Sabeth of killing a healthy child out of grief for something else. He is right about the grief.
 
 **Threatened**, she studies for three counts and strikes once. **Shown kindness**, she cannot bear it and leaves the room. **Faced with the god**, she looks away, and hates herself. If nobody intervenes, she walks to Tarnbrow on Tablenight with the case, and the thing in the loft meets her at the door, which is open, and takes her hand, and they walk north together toward the Sill.
@@ -875,9 +875,9 @@ He commands six Companies, some two thousand four hundred soldiers, the only arm
 
 He wants a birthday that is truly his, and somewhere for his soldiers after the war that never comes. He fears the fourteenth of Grace.
 
-**Secret (for the GM to reveal):** his wounds were given. Every scar on him matches a wound taken by Captain Aurel Strand of the Rim Road Company guard, killed in a fight with smugglers at Breech's Gate on the day Tibb was born.
+**Secret (for the GM to reveal):** his wounds were given. Every scar on him matches a wound taken by Captain Haskett Varr of the Rim Road Company guard, killed by persons unknown at Breech's Gate on the day Tibb was born.
 
-**Secret (he does not know):** Marshal Gideon Breech carried Strand's body in, and recognized the scars the first time he saw Tibb, and has never said.
+**Secret (he does not know):** Marshal Gideon Breech carried Varr's body in, and recognized the scars the first time he saw Tibb, and has never said.
 
 #### Ties
 
@@ -893,7 +893,7 @@ He wants a birthday that is truly his, and somewhere for his soldiers after the 
 The characters meet Tibb on the roads, at the Crèche, or when a born-grown companion of theirs is offered a place in the Companies.
 
 - **The Fourteenth of Grace.** He asks the characters to sit up with him on the night he turns seven, armed, and to do what must be done if he goes home.
-- **Strand's Widow.** A Company widow arrives at the Gate looking for her husband's killer, and stops dead at the sight of the General's face.
+- **Varr's Widow.** A Company widow arrives at the Gate looking for her husband's killer, and stops dead at the sight of the General's face.
 - **The Barn Order.** The Crown at last signs the warrant. Tibb asks the characters to go in first, alone, and tell him what is there.
 
 **Threatened**, he strikes first. **Shown kindness**, he adopts you. **Faced with the god**, he forms a square. If nobody intervenes, on the fourteenth of Grace the Crèche finds a tall cot pushed into the Cradle-House, and a sword laid across it, and a bearded infant asleep who will not grow again.
@@ -1081,7 +1081,7 @@ He fears it will not remember him; more, that it will. **Secret:** the Get comes
 #### Ties
 
 - **Madder Rudge** — saw the tracks go in.
-- **Nettle Corse** — her husband bore too; she feeds Josiah when he passes.
+- **Annis Dell** — her husband bore too; she feeds Josiah when he passes.
 - **Sabeth Thorne** — would have been sent to the bothy, had he called.
 - **General Tibb** — has offered him a Company escort; Josiah refused.
 
@@ -1094,7 +1094,7 @@ He fears it will not remember him; more, that it will. **Secret:** the Get comes
 If nobody intervenes, he finds it, and calls, and it comes, and holds him as it holds everything, too tight.
 
 [box: Said of Them]
-"He's the only man in Tarnbrow knows how my Aled felt." — Nettle Corse
+"He's the only man in Tarnbrow knows how my Aled felt." — Annis Dell
 "Follows a giant with a sling. Daft. Brave. Daft." — a Tarnbrow shepherd
 "He has the gait of a woman nine days delivered. He has had it eight years." — Lazar Voss
 [/box]

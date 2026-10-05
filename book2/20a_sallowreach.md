@@ -399,7 +399,7 @@ Corrow was born at Glovehall in 580, the elder child of Lord Hamnet Vane, a Clos
 
 She performed her first licensed Closing at twenty-three, on a Kept fisherman of the Glad Century who had asked for it for two hundred years. She has performed eleven thousand since: a little over two hundred and sixty a year, four or five each working day. She keeps count. She was named Left Hand in 618, the youngest in three centuries.
 
-She married in 599, by arrangement, Lord Merriman Vane, a gentle Sedge cadet who took her name, and bore two sons, Aldous in 601 and Teodor in 605, handing each to a nurse at birth. Aldous, now forty and a Licenser of the Court, drafts the licenses his mother executes and has never touched her skin. Merriman drowned in the Glovehall moat in 622 and is Kept in the south wing. Every year she offers to close him. Every year he refuses; he says he would like to stay near the boys.
+She married in 599, by arrangement, Lord Merriman Vane, a gentle Sedge cadet who took her name, and bore two sons, Ivo in 601 and Teodor in 605, handing each to a nurse at birth. Ivo, now forty and a Licenser of the Court, drafts the licenses his mother executes and has never touched her skin. Merriman drowned in the Glovehall moat in 622 and is Kept in the south wing. Every year she offers to close him. Every year he refuses; he says he would like to stay near the boys.
 
 #### Their Place in the Land
 
@@ -412,23 +412,23 @@ The Left Hand commands the nine Closers of the Court and performs the important 
 - **The Count-Book** — a small black notebook in which she has written the name of every person she has closed, eleven thousand and some, in a tiny clear hand, with the date. She reads a page every night. She does not know why.
 - **A perfect pear** — from the orchard Hush behind Glovehall, picked with tongs by a gardener who would not step over the line. It sits on her desk in the Hall of Closings, a year old, golden, unblemished, and smells of nothing.
 - **A knotted cord** — sixty yards of waxed linen knotted every yard, used each night to measure the Glovehall Hush. The newest knots are on the side nearest her own window.
-- **A cap under glass** — Aldous's christening cap, in a glass case the size of a book, which she has carried for forty years and never touched bare-handed. She has never opened the case.
+- **A cap under glass** — Ivo's christening cap, in a glass case the size of a book, which she has carried for forty years and never touched bare-handed. She has never opened the case.
 - **Sleeping mittens** — lead-lined, padlocked by Prudence each night, because in her sleep her hands go looking for things to close.
 
 #### Wants, Fears and Secrets
 
-Corrow wants to be told that she is not the cause. She fears only one thing, and it is herself: that the god coming back through her hands is not a duty but a hunger, that she has come to want the moment the room goes cold. She cannot bear laughter. She left Aldous's wedding at the toast.
+Corrow wants to be told that she is not the cause. She fears only one thing, and it is herself: that the god coming back through her hands is not a duty but a hunger, that she has come to want the moment the room goes cold. She cannot bear laughter. She left Ivo's wedding at the toast.
 
 **Secret the GM can reveal:** the Hush at Glovehall is growing from her rooms, not her brother's. She has measured it every night for a year with the knotted cord. She has hired others to measure it (see In Play) because she wants someone, anyone, to come back with a different answer. **The 610 secret:** she told the Regent she did not hold back. That is true. She felt her hand go into him and close around something, and then he opened his eyes, and she has never told anyone what her hand felt it close.
 
-**Secret she does not know:** her son Aldous has been forging licenses for two years, with his mother's name on them, and selling them to the Heirs, so that grandmothers in the Sinks might be finished at the Hush edge by Heirs instead of being dragged there. He does it because it is the only way he has ever found to touch her work.
+**Secret she does not know:** her son Ivo has been forging licenses for two years, with his mother's name on them, and selling them to the Heirs, so that grandmothers in the Sinks might be finished at the Hush edge by Heirs instead of being dragged there. He does it because it is the only way he has ever found to touch her work.
 
 #### Ties
 
 - **Osric Vane** — her brother, whom she loves and has locked in the west wing. She holds one of the two mitten-keys. She visits once a month and they speak through the door.
 - **Ansel Grue** — her master, whose face she has touched once. She does not know if she failed him or freed him.
 - **Lord Merriman Vane** — her Kept husband in the south wing, who refuses her every year. She envies him his refusal.
-- **Aldous Vane** — her son, a Licenser, three paces away all his life. He forges her name.
+- **Ivo Vane** — her son, a Licenser, three paces away all his life. He forges her name.
 - **Lord Absalom Hethe** — her brother's only other visitor. She finds him charming and does not trust a single word.
 - **Pim Sorrel** — a child who can do what Corrow does without the grey, without the cold, and without the Court. Corrow has asked for her to be brought to Glovehall. She will not say why.
 
@@ -666,7 +666,7 @@ Jory wants the living to inherit. He wants, more privately, to rest. He fears th
 PCs meet Jory if they are living and disinherited, if they help with something that cannot be undone, or if the Court sends them to find him.
 
 - **The Nineteenth.** One of the nineteen unwilling elders was an Heir's mother, taken by mistake: the wrong sack in the dark. Her son wants Jory's head in a jar. Jory wants the PCs to find out if the woman went quietly.
-- **The Forged Licenses.** The Heirs have been buying Closing licenses from an unknown seller at the Court (Aldous Vane). Jory wants to know who, before the Court finds out.
+- **The Forged Licenses.** The Heirs have been buying Closing licenses from an unknown seller at the Court (Ivo Vane). Jory wants to know who, before the Court finds out.
 - **Father's Day.** Rufus Welt sends for the PCs, not his son. He wants to be taken to the grey by strangers, so that Jory does not have to. He will pay well. He would like, when he goes over the line, for someone to tell his boy.
 
 **Threat:** he scatters his cells and waits; he is old and has learned patience from the people he hates. **Kindness:** he accepts it awkwardly, like a boy given a coin. **The god:** at the Taste, he has started closing his door three times before he sleeps, and it frightens him more than the Court. **If nobody intervenes:** within a year, the Heirs split. The young wing (in their forties) begins taking Hand-line children, because the map shows where the god is coming from. Jory, unable to stop them, takes his father to the Hush at last, alone, by night, and does not come back from the edge.

@@ -161,7 +161,7 @@ Morrow wants to hold. The holding is all of him that is left that is not cord. H
 - **Sergeant Greer Abbot** — his sergeant for forty years, living, sixty-two. Keeps the Box. Would carry him across the border in a sack if he asked, and has told him so, and he has told her that is exactly why he never will.
 - **Thessaly Mort** — his Seamer for every one of the sixty. They are old friends in the way two professionals are; she calls him her best customer and her worst patient. He does not know where her stock comes from.
 - **Sister Lorn** — see above. He thinks of her as the enemy he respects most.
-- **Withhold Pennick** — the Reckoner who cut Lord Merriman Wole's throat in 639. He has been hunting her through the Sinks for two years. He has nearly caught her four times. Each time he has stopped, because he does not want to be the man who brings her to the jar.
+- **Withhold Pennick** — the Reckoner who cut Lord Osgood Wole's throat in 639. He has been hunting her through the Sinks for two years. He has nearly caught her four times. Each time he has stopped, because he does not want to be the man who brings her to the jar.
 - **Castellan Dray** — the Vigil's envoy has asked Morrow, privately, how many soldiers Sallowreach could raise if the dead of another country came north to live. Morrow told him, "As many as you send." He has not slept since; but then, he never does.
 
 #### In Play
@@ -388,7 +388,7 @@ That is his trade's curse. His victims feel what their parts are doing. A woman 
 - **The coat of saws** — padded, many-pocketed: two bone-saws (one fine, one coarse), three knives, a Seamer's awl, a shelving hook that folds, a pot of lacquer, gut, wire, labels.
 - **The labels** — linen tags, each with a name in his small clean hand. He has never sold an unlabeled part. He says it is a matter of respect.
 - **A ledger in cipher** — every part he has taken since 629, with owner, buyer and price. It proves that the Guild's stores are his stock. Thessaly would pay anything for it. So would the Court.
-- **The stock room key** — iron, on a cord round his neck. The stock room is a cold cellar under a tannery on Gutter Lane: racks, jars, hooks, a hundred labeled hands, and Wenna Hale (see below).
+- **The stock room key** — iron, on a cord round his neck. The stock room is a cold cellar under a tannery on Gutter Lane: racks, jars, hooks, a hundred labeled hands, and Edony Sallis (see below).
 - **A letter from Sister Tisane Halloway** — the Purgation's apothecary, who keeps a jar of small grey hinged joints that people from four lands have vomited up. Jack has been buying Cradlewrack Parts on the Rim for a client; the joints fit them. He has offered her two hundred lacks for the jar.
 
 #### Wants, Fears and Secrets
@@ -397,7 +397,7 @@ Jack wants to be paid and to be respected as a craftsman, and he wants Thessaly 
 
 **Secret (GM may reveal):** He supplies Thessaly Mort. A third of the parts in the Guild's stores came from him. Captain Dace Morrow's sword-hand is one of his.
 
-**Secret (GM may reveal):** In Carving 640 he took the hands of Wenna Hale, a Kept cooper working off a thirty-eight-year debt to a moneylender. She felt them sold, felt them sewn on, and followed the feeling to Gutter Lane. She found the stock room. He caught her in it. Now she is in it, in eleven pieces, on the racks, each piece labeled, still talking. He cannot sell her (she knows his face, and her parts would tell). He cannot sink her (the Sump talks). He cannot close her. He visits her every night and they talk. She is the best conversation he has ever had.
+**Secret (GM may reveal):** In Carving 640 he took the hands of Edony Sallis, a Kept cooper working off a thirty-eight-year debt to a moneylender. She felt them sold, felt them sewn on, and followed the feeling to Gutter Lane. She found the stock room. He caught her in it. Now she is in it, in eleven pieces, on the racks, each piece labeled, still talking. He cannot sell her (she knows his face, and her parts would tell). He cannot sink her (the Sump talks). He cannot close her. He visits her every night and they talk. She is the best conversation he has ever had.
 
 **Secret he does not know:** The client buying Cradlewrack Parts and Halloway's joints is Lord Absalom Hethe, for the Second Table. And the Smalls know where his stock room is. Little Nell has a list of every Small whose part he has ever taken.
 
@@ -406,8 +406,8 @@ Jack wants to be paid and to be respected as a craftsman, and he wants Thessaly 
 - **Thessaly Mort** — his old mistress and secret employer. He loves her like a mother and would sell her to the Court in an afternoon.
 - **Nan Pickering** — the limb-broker who fences his stock and keeps his name off every ledger.
 - **Little Nell Ash** — the queen of the Smalls has sworn to jar him in pieces of her own. He takes nothing from children now, which is a rule he made after the first time Nell's Smalls found him on a stair.
-- **Wenna Hale** — his prisoner, his conversation.
-[quick] Wenna Hale (Kept, in eleven pieces) — Threat 2 · Flesh 3 · Guard 5 · Attack — · Armor 0 · Dread 3
+- **Edony Sallis** — his prisoner, his conversation.
+[quick] Edony Sallis (Kept, in eleven pieces) — Threat 2 · Flesh 3 · Guard 5 · Attack — · Armor 0 · Dread 3
 - **Captain Dace Morrow** — wears one of his hands without knowing it.
 
 #### In Play
@@ -415,7 +415,7 @@ Jack wants to be paid and to be respected as a craftsman, and he wants Thessaly 
 PCs meet Jack in the Sinks, buying or selling, or because something of someone they care about has gone missing in the night. He is charming, reasonable, and will happily do business with PCs who need a part, a body, a hand-line finger or a way into the Lofts after dark.
 
 - **Feel for It.** A shelved Kept in the Lofts begs the PCs to follow what she feels her hand doing. The trail goes through three buyers to a Court house on the Upper Boards.
-- **The Eleventh Piece.** The moneylender who owns Wenna Hale's debt hires the PCs to find her. When they find her, every piece of her asks to be put back together, and Jack asks to be allowed to watch.
+- **The Eleventh Piece.** The moneylender who owns Edony Sallis's debt hires the PCs to find her. When they find her, every piece of her asks to be put back together, and Jack asks to be allowed to watch.
 - **The Joints.** Jack hires PCs to escort a crate of Cradlewrack Parts from the Rim to Lastgate. The crate knocks from inside, rhythmically, toward the northwest.
 
 Faced with threat, Jack runs, and he is very fast; cornered, he goes for the tendons behind the knee. Faced with kindness he is touched and suspicious. Faced with the god he is uninterested; he is a Scrapling and it has never noticed him. If nobody intervenes, Thessaly Mort, cornered by a Court inquiry, gives the Court Jack's name in 642, and he is jarred; but not before he sells his ledger to the Heirs, and the Seamers' Guild comes apart at the seams.
@@ -1057,7 +1057,7 @@ Wiry, sinewed, grey-eyed, her head shaved to the scalp, in dark clothes washed e
 
 #### Their Story
 
-She crossed the Finishing Post in Carving 639 with a band of five, to end the line of Lord Merriman Wole, a lesser Hand-line. She reached his bed. She cut his throat. He sat up, his head on a hinge of skin, and rang for his man. Captain Morrow's guards took three of her band, who are now in the Jar Room. One escaped south. She went to ground in the Sinks. She has been there two years.
+She crossed the Finishing Post in Carving 639 with a band of five, to end the line of Lord Osgood Wole, a lesser Hand-line. She reached his bed. She cut his throat. He sat up, his head on a hinge of skin, and rang for his man. Captain Morrow's guards took three of her band, who are now in the Jar Room. One escaped south. She went to ground in the Sinks. She has been there two years.
 
 Her ration ran out in the first month. She eats only what she has carried herself: fen-eels from a trap she set with her own hands, which she argues is carrying, and which she eats lively and hates. It is not enough.
 
