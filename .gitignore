@@ -1,3 +1,9 @@
 build_headings.json
 pagemap.json
 node_modules/
+pdfbuild/node_modules/
+pdfbuild/*.jpg
+!pdfbuild/texture.jpg
+pdfbuild/book2.html
+pdfbuild/heads2.json
+pdfbuild/pm2.json
