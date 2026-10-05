@@ -617,3 +617,125 @@ The hand still writes. Give it a pen and it writes notarial hands, Lastgate form
 
 **HOOK:** Wray witnessed the Licensing of 301, the first written record of the Hand-lines' bargain with the Court, of which the original was lost. Jory Welt of the Heirs would give anything for a copy. So would the Regent, to burn it. And Wray, on his shelf, has begun to whisper that he wants his hand back, and that he knows the name of the person who is holding it right now.
 
+# Games of the Table
+
+> The house fed me once. It was good. I lost the rest of my life here anyway, but it was very good soup.
+>> — scratched beneath the Grace-and-Lack house rules, taproom of Thimble Cross
+
+[fiction]
+**Deposition of Josse Haverick, Warden of Thimble Cross, to a Company inquiry at Saltbridge, 640 A.G., concerning a game of chance played on Company premises against Company rule. Sworn, with Exits.**
+I state, if able, that the game in question was played in the taproom between the second and fifth bells of the night of the twelfth of Carving. I state that I did not stop it, as I now intend to explain. The players were five. Two drovers of the Fatlands, a Brinehollow woman with a rope at her wrist, an old Kept man of Sallowreach travelling under licence to his border and no further, and a gentleman of the Vigil who did not give his name and did not blink. The game was Grace-and-Lack. It is always Grace-and-Lack.
+The stakes, as I understood them at the first bell, were coin. At the second bell they were coin and a bail-bucket. At the third, the drovers had staked their dusk shifts, which is to say their places on a Cullmaster's list, which is a thing that can be traded in the south, and the Brinehollow woman had staked her rope. At the fourth bell the old Kept man staked his own Closing: a license, paid for, in his coat, for which his family had saved two hundred years. He lost it to the Vigil gentleman on a pair of fours. I state that I have never seen a man so happy to lose. He said, through his interpreter, that he had been afraid to use it.
+At the fifth bell the Vigil gentleman, who now held a Closing he could not use, a rope he did not need, two places in a field at dusk, and a Kept man's two hundred years, staked all of it on one throw against the Brinehollow woman's oath on her drowned husband. She threw two tens. I did not stop it. I state that nobody could have.
+She tore up the license. She gave the drovers back their dusk shifts, which they did not want. She kept the rope. She would not say what the oath had been. The Vigil gentleman went up to his room, and in the morning he was asleep in his chair, and he did not wake, and the chambermaid says that he was smiling.
+[/fiction]
+
+The people of the Table play. They play in the Loft-galleries of Lastgate with cards that have been in the same game for a hundred years; on the props of the Dry Fleet with knucklebones that are not all sheep's; in the Pinchmarket with a deck that keeps them awake; in the silent galleries of Tacit with dominoes that make no sound on felt. They play for coin, and then for what they have instead of coin, and on the Table what people have instead of coin is very strange.
+
+This chapter gives eleven games of the Table with **full rules that can be played at the real table**, using ordinary dice, a standard deck of cards, dominoes, coins or pebbles. Each game comes with its history, who plays it and where, how it is cheated, what is staked on it, and the horror that has grown up around it. It opens with rules for **gambling in play**: how to resolve a game quickly with the Grace Roll when you would rather not play it out, what can be staked, how cheats are caught, how debts are collected in each land, and what happens when someone stakes an oath on the dead.
+
+[pull] Every game on the Table is the same game. Somebody puts something on the board that they cannot afford to lose, and somebody else wants it. The dice only decide the order. | — Honor Pyle, surety-broker of Mumchance
+
+## Gambling in Play
+
+### Playing It Out or Rolling It
+
+A game in the fiction can be handled in three ways, and the Carver should choose by how much the game matters.
+
+- **Play it for real.** Get out the dice, the cards or the pebbles and play the game in this chapter, the Carver taking the parts of the other players at the board. This is the best choice for a game that is a scene in itself: a wager with the Second Table, a hand of Who Finishes against the Regent's clerk, Grace-and-Lack for a Kept man's license. A short game played for real takes ten minutes and is remembered for years. Players may still roll to cheat, to read a tell, or to Partake (see below).
+- **Roll it.** Each player rolls the pair given for that game (*Quick roll* in each game's entry) as an opposed roll; the highest total wins. Pure games of chance are rolled on 2d10 alone, with no Attribute or Skill: the Table's dice are honest even if its people are not. Helpings in the opposed roll mean the winner took more than the stake from the losers, or won it with style, or noticed something about them while they lost.
+- **Let it run.** A night of gambling in the background is a single roll: **Tongue + Haggle** or **Eye + Reckoning** (the player's choice), Hard (14). Success: break even, or win a little (a lack per Helping). Failure: lose a day's cost of living. Lack: lose much more, and be offered credit. Grace: win, and be noticed by someone who matters.
+
+### What Can Be Staked
+
+The Table gambles in layers. A game begins with coin and, if nobody leaves, works its way down through the ladder. The Carver may use this to pace a gambling scene: each hour of play, the stakes go one rung lower.
+
+| Rung | Stake | Examples | Cost of losing |
+| 1 | Coin | lacks, crumbs, platters, regional money | money |
+| 2 | Goods | a weapon, a bail-bucket, a crock of minutes, rouse | kit, and the regional money it stood for |
+| 3 | Service | a day's labour, a shift on watch, a dusk shift, a nudging | time, and sometimes your life |
+| 4 | Body | a sworn note backed by a hand; a Surety's fee; a Kept limb | Flesh; a permanent mark |
+| 5 | Kin | a naming-right, a bed in the Dormitory, a share in a wake, a Kept relative | a Dread check; the family's opinion |
+| 6 | The Dead | an oath on the dead, the remains of the dead, the dead themselves | see below |
+
+Every land has rules against the lower rungs, and every land breaks them. The Thimble Cross chalkboard forbids rungs 4 to 6 by name, which tells you how often they are played.
+
+### Cheating
+
+Every game in this chapter lists the common cheats. To cheat, roll **Hand + Filch** (for marked cards, loaded dice, palmed pebbles) or **Tongue + Deceive** (for false counts, false promises, signals to a partner) against the most watchful opponent's **Eye + Search** (or Eye + Instinct, for a lie). If the game is being played for real, a successful cheat lets the player do one thing the rules forbid: look at a card, set a die to a chosen face, move a pebble. If the game is rolled, a successful cheat adds +4 to the cheat's game roll.
+
+A failed cheat is not always noticed. The opponent who beats the cheat's roll *knows*, and may say so or hold the knowledge for later. A **Lack** on a cheat is caught in public, and the consequences are those of the land, as in the table below. A **Grace** on a cheat goes so well that the cheat is believed to be lucky, and the next game in that house will be harder to win honestly, because everyone is now watching the lucky one.
+
+[box: Partaking at the Board]
+The god in the blood wants to win as much as its host does, and Partaking is the oldest cheat on the Table. A Guest who Partakes during a game adds the Tooth as normal to a game roll, or, in a game played for real, may reroll any one die of their own, or look at one hidden card or one closed hand. Every house has a rule against it, and every house can tell: each land's Tooth has its tell, as the Lands chapters describe (cold fingers, a growling belly, a yawn through the room, a drip of salt at the nose, a door swinging open, a half-second echo, a smell of bread). Anyone at the board may roll Eye + Instinct, Hard (14), to see it. An Unfed Guest's Gnaw (the Empty Tooth) has no tell at all, which is why the Unfed are not welcome at the dicing-boards of the Rim, and why they are rarely asked twice.
+[/box]
+
+### Debts
+
+A gambling debt is a debt like any other on the Table, and each land collects it in its own way. When a Guest owes and cannot pay, roll on, or read, the land's row.
+
+| Land | How it is collected | When it goes bad |
+| Sallowreach | The debt never dies, because nobody does; it passes to the debtor's Kept self and is collected in parts. | A Kept creditor sells the debt by the limb at auction. |
+| Fatlands | The debtor is read onto a Cullmaster's list and walks the far field at dusk. | The debt is struck off in full. The debtor is not. |
+| Brinehollow | Impressment into the Dry Fleet, a year for every hundred lacks. | The debt is sold to the Raw Mile, where pier-haulers die. |
+| Vigil | Paid in waking hours: the debtor or their child nudges for the creditor, by the bell. | A nudger who sleeps is delivered to the Dormitory, and the family billed a new Bed-Due. |
+| Cradlewrack | Paid in naming-rights: the creditor names the debtor's next birth, of any kind. | The debtor bears it. |
+| Oathen | Every wager in Oathen is a promise. Default is a Breaking at the wager's Weight. | The Surety who stood for it breaks too, and comes to visit. |
+| Fast | No coin; debts are in chits, and a defaulter's name is quietly left off the next list. | Murder by omission. Nobody's hands are dirty. |
+| Rim | The Company buys the debt and ships the debtor as cargo, on a sworn manifest. | Nobody knows who buys. The manifests are sworn. |
+
+### Oaths on the Dead as Stakes
+
+The deepest stake on the Table is a dead person. It can be laid down in three ways.
+
+- **Staking the oath.** A Guest who has sworn an oath on the dead may stake the oath itself: if they lose, they must release the winner's choice of their own sworn purpose and swear a new oath on the same dead, drafted by the winner. Releasing an oath this way is not a deliberate breach, because the dead were wagered and lost, but the dead do not like it: gain 2 Fray, and the next Visitation the Carver rolls for that dead person comes without the courtesy of a broken oath to explain it. The new oath grants the Strength of the Dead as normal. It is, however, the winner's oath, and the winner wrote it.
+- **Swearing as the stake.** The loser swears, at the board, an oath on their own dead, drafted by the winner, at once. This is an ordinary Oath on the Dead in every respect, Strength and Breaking and Visitation, except that it was sworn under duress, and the dead know it: the Strength is +1, not +2. Oatheners will not play for this stake. Sureties will not stand for it. Everybody else does it constantly.
+- **Staking the dead themselves.** A Kept grandmother, a Loft shelf, a share in a wake, a sleeper's bed and the Bed-Due with it, a Seated relative's place at the Long Table, the location of a body. The winner gets what the dead are worth in the land where they lie, which may be a great deal. The loser makes a Dread 3 check at the moment of losing, and a Guest who has staked their own dead gains the Fray even on a success: a minimum of 1, as always, and the knowledge that they did it.
+
+An oath sworn at a board over a desecrated corpse (a Kept man's severed hand, the plate at a wake, a body pulled from the surf and robbed) binds twice as hard, as the Oaths on the Dead rules say. The Rim Road's worst houses keep a corpse in the cellar for this purpose. The Thimble Cross chalkboard forbids it, which, again, tells you something.
+
+### Chasing
+
+A Guest who has lost more than a week's cost of living in a single sitting must roll **Caul + Resolve**, Routine (10), to get up from the board. On a failure they stay for one more round, one rung lower on the ladder of stakes. On a Lack, the god in their blood has noticed the game, and the next roll is made with a Tooth whether they wished to Partake or not. A Guest who reaches rung 6 in a single sitting, and loses, gains a Derangement of the player's choice from the Common Madnesses if they Break within the week; it will be about luck.
+
+[pull] It is not the losing. It is the next throw. There is always a next throw, and in that throw, I win back everything, including Mam. | — a Fatlands drover, at the Weeping Post, before his dusk shift
+
+## Grace-and-Lack
+
+[sigil: rim]
+
+The great dice game of the Rim Road, played in every taproom from Thimble Cross to the Weeping Post, on Company premises, against Company rule. It is older than the Company. Every Cutwright on the Table insists that it is older than the Gorging, because the dice used are the Table's own: two ten-sided bones, cut from the knuckles of oxen, numbered one to ten with drilled pips, and thrown together from a leather cup. The doubles are named for the meal. A pair on a winning throw is a **Grace**; a pair on a losing throw, a **Lack**. Two ones is **Licked Clean**, two tens a **Second Helping**. Scholars argue whether the game borrowed its words from the Table's oldest grace or the grace from the game. The Purgation preaches that the game is a blasphemy, a mockery of the meal. The Purgation's preachers are among the best players on the road.
+
+**Who and where.** Everyone. Drovers, Bonded Hands, couriers, pilgrims, Netwatch on leave, Kept men at their border with an interpreter, Cutwrights on circuit. The inns of the Rim keep a dicing-board in the taproom: a shallow tray of oak lined with green felt and edged with a lip so the bones cannot escape, and a house cup that may not be refused.
+
+**What you need.** Two ten-sided dice (numbered 1 to 10; on a die numbered 0 to 9, the 0 counts as 10) and a cup. Coins, pebbles or counters for stakes. Three to eight players.
+
+#### The Rules
+
+1. **The House.** One player is the House, who banks the game. The first House is whoever holds the cup; thereafter, see step 6.
+2. **The stake.** Every other player, a punter, puts a stake in front of them. Rim houses set a minimum (a crumb) and a maximum (whatever the House can cover).
+3. **The House throws.** The House throws both dice from the cup, once. The total is the **House's mark**. If the House throws **Licked Clean** (two ones), the House pays every punter even money at once and the round is over. If the House throws a **Second Helping** (two tens), every punter loses their stake at once, unless a punter chooses to throw anyway and also throws two tens (see below).
+4. **The punters throw.** Each punter in turn, going left, throws both dice from the cup, once. Compare their total to the House's mark.
+- **Higher than the mark:** the punter wins; the House pays even money (stake for stake).
+- **Equal to or lower than the mark:** the punter loses the stake to the House. (A tie goes to the House: whoever is keeping things as they are wins.)
+- **A pair on a winning throw (a Grace):** the House pays double, and stands the punter a drink.
+- **A pair on a losing throw (a Lack):** the punter pays double, and stands the House a drink, *and drinks it in front of everybody*, which is to say, the punter must buy the House's drink and the House may make them watch it drunk.
+- **Licked Clean (two ones):** the punter loses double, whatever the House threw.
+- **Second Helping (two tens):** the punter wins double, whatever the House threw, *even if the House threw two tens*.
+5. **Settling.** Stakes are paid or taken as each punter throws.
+6. **Passing the cup.** The House keeps the bank until it has been **cleared** (every punter beat it in a single round) or has banked five rounds, whichever comes first. Then the cup passes to the left, and the new House banks.
+
+Grace-and-Lack favours the House by a little: about one throw in fifteen, House and punter tie, and the tie goes to the House. That is why the House rotates. It is also why Rim inns like to bank the game themselves, and why the Thimble Cross chalkboard says *even if Jem is throwing*.
+
+**The Biting Game.** In rougher houses, a punter may **Partake** before throwing: they double their stake and add one six-sided die, the Tooth, to their total. If the Tooth shows a 1, the god bit back: the punter loses the doubled stake whatever they threw, and the House takes a drink at the punter's expense. The Tooth never counts toward a pair. This is the version played at the Weeping Post on Tablenight and nowhere respectable. It is the version Guests will want to play.
+
+**Quick roll.** Pure chance: 2d10 against the House's 2d10, ties to the House.
+
+**Cheating.** Loaded bones, weighted toward the tens with a bead of lead under the one face, are called *fat dice* on the Rim and are sold at Gristmoot for two lacks a pair. They are detected by dropping them in a glass of water, which every honest house keeps on the counter for the purpose. A cup with a false bottom, a *tureen*, lets the thrower set the bones rather than throw them. The commonest cheat is the House's own: a House that throws its mark with a bad cup can always see its own dice first. That is why the cup is the house cup and may not be refused.
+
+**Stakes.** Coin, everywhere. On the Rim, below coin, every rung of the ladder. The Thimble Cross board forbids wagering kin, the Kept, licenses, places in Mother Gall's queue and dusk shifts, which are the five things most commonly wagered at Thimble Cross.
+
+**The horror around it.** On Tablenight at the Weeping Post, the house leaves an empty place at the dicing-board, with a stake in front of it: one lack, very old, worn smooth on one face. The House throws for it as for any punter, from the cup, and the warden's boy throws the empty place's dice. Nobody remembers why. Nobody will stop. In 638 the empty place threw two tens, a Second Helping, and the warden paid out double, two lacks, onto the felt in front of the empty chair. In the morning the coins were gone, and the chair had been pulled out, and the warden would not let anyone push it back in for a year.
+
+[pull] Throw from the cup, not the hand. The hand remembers what it wants. | — Rim saying
+

@@ -251,7 +251,7 @@ THE BOOK OF THE WHEEL. NINTH REVISION.
 FOREWORD, BY THE FIRST SPOKE.
 You have sworn the Bond. You walked down the stair and you looked in at every window, and you saw what the Company does with a Hand who steals from it, and you walked up again with the ring on your wrist. Good. Now you belong to the road.
 The road is two thousand four hundred miles of fitted stone, and you will walk most of it. You will be cold on it and wet on it and you will be offered, on it, everything that every land on the Table has to sell, and some of it will be people, and some of it will be gods. This book will not tell you what to think about any of it. The Company does not think. The Company carries. This book will tell you how to carry it, how to be paid for carrying it, and how to come back to the next post with the same number of fingers as you left the last.
-Read it in order. Read it again in Lack, when the road is slow. If anything in it seems strange to you, it is because somebody died to have it written down.
+Read it in order. Read it again in Lack, when the road is slow. If anything in it seems strange to you, it is because somebody died to have it written down. Sections are numbered as in the Eighth Revision, so that older Hands may find their place; some numbers are therefore missing.
 O. Penhallow, First Spoke, from the carriage-house, on the road between Gristmoot and Toll Nine.
 SECTION 1. THE THREE ARTICLES.
 1.1. The Company has three laws, and they are recited at every post at dawn by the senior Hand present. Pay the toll. Keep the peace. Say the grace.
@@ -259,14 +259,11 @@ SECTION 1. THE THREE ARTICLES.
 1.3. The grace is "Lack keep away." It is said at the gate and at the table. A Hand who omits it is fined one lack. A Hand who omits it at a table where there are travellers present who have also omitted it will be asked, by the Factor, at the next post, why nobody at that table said it, and is advised to have an answer.
 SECTION 3. TOLLS, AND THE TAKING OF THEM.
 3.1. The schedule of tolls is posted on the bone slate at every gate. The Hand will know it by heart. The Hand will not alter it, discount it, or explain it.
-3.2. Tolls are taken in lacks, crumbs or Company platters. Sworn notes of Oathen are accepted at the Factor's discretion and at a discount the Factor will set. Fatlands meat-scrip is not accepted. Vigil rouse-tabs are not accepted, however many are offered, however tired the Hand.
 3.3. Every lack is to be weighed in the palm and turned once before it is taken. A lack that is warm on one side is to be accepted and not remarked upon. A lack that turns in the palm, by itself, toward a land, is to be accepted, and passed to the Factor at day's end in the separate pouch.
-3.4. The Foot Toll is waived for children under seven. The Hand will not ask a child's age. The Hand will look at the child and decide. In Cradlewrack country the Hand will be wrong in both directions and is not to be disciplined for it.
-3.5. The Hush Toll is charged on corpses, by the body. The Kept of Sallowreach are not corpses and are charged as Foot, once, at Fogmouth, after which they are not charged again, because they are no longer travelling. See Section 9.2.
+3.5. The Hush Toll is charged on corpses, by the body. The Kept of Sallowreach are not corpses and are charged as Foot, once, at Fogmouth, after which they are not charged again, because they are no longer travelling.
 3.6. The Breath Toll is charged on any traveller showing godsign at the Course. The Hand is not required to determine what counts as the Course. If the Hand had to look twice, it counts.
 3.7. Of the Cage Toll. Live cargo in a closed cart is charged three lacks a post and is entered as livestock. The Hand does not open the cart. The Hand does not knock on the cart. If something in the cart knocks, the Hand does not knock back, and enters it as livestock.
 3.8. The Seal is charged on nothing. A courier under an Oathen oath is to be passed through at once, by night or day, and fed standing, and not delayed for any cause, including the Hand's own death; see Section 13, Item 11.
-3.9. The Ditch Toll is collected at dawn from travellers found sleeping within a bowshot of the road. If the traveller cannot be woken, the Hand will collect it from the traveller's purse, count it aloud, and leave a chit. If the traveller has been sleeping on the inner side of the Hem, the Hand will not step over the Hem to collect it. The Company will absorb the loss.
 SECTION 5. DRESS AND BEARING.
 5.1. On duty the Hand wears the road-coat, grey, to the knee, with the wheel in white on the left breast and the post number in white on the right. The coat is to be clean at the gate. It is not expected to be clean anywhere else.
 5.2. The iron wrist-ring is worn on the left wrist and shown when asked. It is not to be covered, polished, engraved, wrapped in cloth against the cold, or removed. It cannot be removed. Hands who have attempted it are in the window at Treaty Stair, second gallery, fourth from the top.
@@ -278,7 +275,6 @@ SECTION 5. DRESS AND BEARING.
 5.4.4. In the Vigil, a pin in the lapel, offered point-out to any guest on arrival, and the Hand's own nudger-cord, worn at the wrist, so that a Waker who finds the Hand drowsy knows whom to fine.
 5.4.5. In Cradlewrack, the knuckles of the right hand to be kept bare, for knocking.
 5.4.6. In Oathen, the card of safe phrases, and the slate. A Hand who speaks aloud in Oathen does so on his own account. The Company will not stand surety for any Hand's mouth.
-5.4.7. In the Fast, nothing that smells of food. The Hand will eat before he arrives, and will wash his hands and his beard.
 5.5. A Hand will not wear a glove at the gate. Travellers must see the Hand's palms when he takes their coin, so that they know the Hand is not a Closer, nor anything else with hands that should not be touched.
 SECTION 7. CONDUCT IN THE COMMON ROOM.
 7.1. The common room belongs to the Company. The guests are permitted in it.
@@ -286,15 +282,7 @@ SECTION 7. CONDUCT IN THE COMMON ROOM.
 7.3. The honest bench is nearest the fire and is filled by the Factor's choice. The Hand will seat strangers of different lands side by side. The Hand will not seat a Reckoner beside a Hand-line, nor an Unfed beside a Fatlander who is eating, nor anyone at all beside a Tenanted who has asked to sit with his back to the west, unless the Factor directs it, in which case the Factor has a reason and the Hand does not need it.
 7.4. The Night Count. At dusk and at dawn the senior Hand walks the house with a lamp and counts heads aloud, every room, every bed, the stables, the privy and the roof, and enters both numbers in the ledger. If the dawn count is lower than the dusk count, the wardens are called. If it is higher, see Section 14.
 7.5. The head of the table is the Company's chair. Nobody sits in it. Not a Spoke. Not the Factor. Not a guest of any rank who asks. It is to be dusted daily, and laid at every meal with a clean plate and a cup, which are to be cleared unused and washed with the others.
-7.6. No Hand is to be drunk on duty. No Hand is to be sober at a Fatlands wake to which he has been invited. No Hand is to accept a meal from a Fast traveller, because none will be offered; if one is offered, see Section 11.
 7.7. Fights. The Hand will separate fighters with the pole and not the hands. A guest who draws a blade in the common room is to be disarmed, held, and given to the wardens, who will hang him at the post before the blood is dry, as the Charter allows. The Hand will then mop the floor. The Hand will say the grace over the mop-bucket, as over any meal, because it is the Company's custom, and because nobody now remembers why, and because the one Factor who stopped doing it is not with us.
-SECTION 9. THE DEAD, THE DROWNED, AND OTHER TRAVELLERS.
-9.1. The Company carries everyone who pays.
-9.2. The Kept of Sallowreach may travel the northern stretch as far as the Drop at Fogmouth and no further. A Kept traveller who insists on crossing the line is to be warned three times, in front of a witness, and then permitted. The Hand will then collect the body, charge the Hush Toll to the estate, and enter the departure in the ledger as *finished, by choice*. The Hand is reminded that the family will often be watching from the other side of the line.
-9.3. A Brinehollow guest who rises in the night and walks west is to be stopped at the gate by any means short of a blade, roped, and returned to his bed. The Company keeps rope rooms at every western post at a crumb a knot. A guest who has paid for knots and been let walk is entitled to a refund, payable to the next of kin.
-9.4. A Vigil guest who falls asleep in a Company house is not to be woken by force. He will not wake. He is to be carried, gently, to the Sleeping Sheds or the nearest Vigil-bound cart, with his papers on his chest, and his room charged to the Watch of Watches, which pays these bills promptly and without comment.
-9.5. A guest who goes into labour at a Company house is to be given a room, a midwife if one can be had, and a Hand with a cleaver at the door, facing in. The Hand is not to use the cleaver unless the midwife tells him to. The Hand is not to argue with the midwife.
-9.6. An Oathen guest who has promised something in the common room is to be helped to keep it.
 SECTION 11. IF A TABLE APPEARS IN THE COMMON ROOM.
 11.1. It will be found laid. It will be warm. There will be a smell of bread, and of roasting, and of something sweet and brown that the Hand will remember from a kitchen he was in as a child. It will not have been there at the last count. The Hand will know it is not one of the Company's tables, because it will be better.
 11.2. The Hand will not sit.
@@ -318,9 +306,8 @@ SECTION 14. OF THE HEAD OF THE TABLE, AND OF THE COMPANY'S PRINCIPAL.
 (Removed. The stub of the page, where the blade has missed the gutter by a quarter-inch, shows the beginning of nine lines: *14.1. The Ch— / 14.2. Whe— / to whom the Comp— / in advance, and— / 14.4. The ledger is to be pre— / and every question an— / 14.6. If the dawn— / not to be ask— / until the wheel—*. On the facing page, someone has pencilled, in a drover's hand: *ask a Spoke what 14 is. go on. ask her.*)
 SECTION 15. OF LEAVING THE COMPANY.
 15.1. A Hand may not leave the Company. The Bond was sworn *as long as the wheel turns*.
-15.2. The Company will release from active duty, with a pension of one lack a day, any Hand who has walked the full circuit of the Rim forty times, or lost a limb in the Company's service, or grown too far into the Course to be seen at the gate. The Hand remains bound by the Bond in retirement, and is reminded that anything taken from the Company in retirement is still taken from the Company.
-15.3. A Hand who dies on the road is carried to the next post and buried in the Company plot there, under a stone with the wheel on it, at the Company's expense. His ring stays on. Hands of Sallowreach who die in Sallowreach are carried to Fogmouth and over the Drop, at the Company's expense, and buried properly, by request, which they almost always make. Their families do not always thank us. We do not need to be thanked.
-15.4. The question is often asked by new Hands what happens to the Bond when the wheel stops turning. Section 14 answers this question. You will be told it by your Factor when you have need of it.
+15.2. A Hand who dies on the road is carried to the next post and buried in the Company plot there, under a stone with the wheel on it, at the Company's expense. His ring stays on. Hands of Sallowreach who die in Sallowreach are carried to Fogmouth and over the Drop, at the Company's expense, and buried properly, by request, which they almost always make. Their families do not always thank us. We do not need to be thanked.
+15.3. The question is often asked by new Hands what happens to the Bond when the wheel stops turning. Section 14 answers this question. You will be told it by your Factor when you have need of it.
 [/fiction]
 
 The disciplinary schedule, as printed at Section 13 of the Ninth Revision:
@@ -571,4 +558,133 @@ Pair 471. Carving 641. Pattern lengthened: room for a sixth joint. I did not ask
 **The hooks.** Pair 212 is a confession to an unlicensed Closing by the Left Hand of the Court, in writing, in a hand any Court clerk could match; it would ruin her, or make whoever holds it her creature for life. Pair 446 names, in effect, a political murder done on the Court's order. The Guests may be hired by the Heirs to steal the ledger, by Corrow herself to recover it quietly (she knows Merrit keeps one; she has never asked to see it, and that is the most frightening thing about her), or by Merrit, who wants it carried out of Sallowreach to somewhere it can be read after the Glovehall Hush has taken everything.
 **The rules.** The returned gloves hold what they held. Pair 92, the closed fingers, can be pried open only by a Guest with Cut 4 or higher in the Hand-line, at a Dire (22) Hand + Godsign roll; what is in them is the Carver's to decide, but it is the size of a walnut and it is whatever the Regent was supposed to finish of, and it is still warm. Pair 240 never empties; it is a carried cupful of water from a Kept moat, which will drown anything small put into it and keep it alive. Pair 459, worn, makes the wearer's touch silent: Filch and Stealth rolls with the hands gain +2, and each day worn is Taint 2 Regrowth (Ossel) and a Dread 1 check, as the wearer's fingertips begin to feel nothing at all.
 **The secret.** Ivo Vane, Corrow's son, who has never touched his mother's skin, buys her old gloves from Merrit, a pair at a time, by night, at a price she cannot refuse, and Merrit has entered none of these sales in the ledger. He wears them in bed. He wears them to sign the forged Closing licenses he sells to the Heirs, and the cold of his mother's hands, still in the leather, leaves on the paper the frost-print the Court's clerks test for, which is why his forgeries have never once been caught. He is wearing Pair 186 at present, the one that finished Old Halse, because it is the only pair that has ever held a living man's hand, even by accident.
+[/box]
+
+## Confessions to the Bench
+
+[sigil: oathen]
+
+> The accused will repeat the oath, in its words, from the beginning. The court will listen. The court will not interrupt. The god does not need the court's help.
+>> — Judge Thane Urrow, opening his eleven thousandth trial, Lack 640
+
+**What it is.** Six transcripts from the Breaking courts of Tacit and the gorges, copied out of the Keeners' fair records by a student of the Bench of Clauses for a commonplace-book of "Instructive Cases," which the Bench confiscated in 641 and which has since been copied, quietly, several more times. The Keener of a Breaking court writes down every word spoken, and every sound, in a column of its own: the sound column is what makes these transcripts famous. In a Breaking court, the sound is the verdict.
+
+**Where it is found.** The original is in the Bench's archive on the Bench Terrace. Copies circulate among law students at Tacit, among the Forsworn of the Breakdowns, who read them aloud for the pleasure of hearing the great made small, and on the Rim, where a Company Waymaster at Quillhouse rents one out by the night. Reading these transcripts is safe. Reading the oaths in them aloud, in Oathen, in the first person, is not: an oath read aloud is an oath said, and the Bench has records. The third transcript is **Taint Dread 3** and should not be read aloud anywhere.
+
+### I. The Matter of Hollen Brisk
+
+[fiction]
+BREAKING COURT OF THE BENCH TERRACE, TACIT. GRACE 638. JUDGE T. URROW PRESIDING. THE ACCUSED: HOLLEN BRISK, WATER-CARRIER, OF THE SHADEWARD. THE OATH ALLEGED BROKEN: SWORN TO HER FATHER, ORREN BRISK, BEDRIDDEN, IN 631, BEFORE HER BROTHER. WEIGHT 3.
+JUDGE URROW: The accused will repeat the oath.
+BRISK: "Father, I will bring you water every day as long as you live."
+(Sound column: none.)
+JUDGE URROW: The court will wait.
+(Sound column: none. The court waited the customary span of three breaths, then three more at the Judge's sign.)
+JUDGE URROW: The oath is kept. The court notes that it is kept.
+THE BROTHER, from the gallery: He died of thirst. He died of thirst in his bed with a full cup beside him. Ask her where the cup was.
+JUDGE URROW: The gallery will be silent or will be sworn silent. The court will put the Question, since the brother has laid it. Hollen Brisk. Did you kill your father?
+BRISK: (after a long pause) I brought him water every day. I set it on the shelf by the window. Every day. It was always there. He could see it.
+JUDGE URROW: That is not an answer. Did you kill your father?
+BRISK: No. The thirst did.
+(Sound column: a sound like a wet thread parting. A split, a hair's breadth, at the left corner of the accused's mouth. One drop of blood, no more. The Keener measures it with the rule: one-eighth of an inch.)
+JUDGE URROW: The court records a hairline. The god has found the answer nearly true. So does the court. Sentence to be drafted: the accused is to carry water every day for nine years to the Witnessing Vaults, and set a cup within reach of every niche in her father's gallery, and she is to swear that it is within reach. Next.
+[/fiction]
+
+### II. The Matter of the Forty Pages
+
+[fiction]
+BREAKING COURT, BENCH TERRACE. CARVING 639. URROW PRESIDING. THE ACCUSED: ALDER MASKE, DRAPER. THE OATH ALLEGED BROKEN: HIS MARRIAGE VOW TO ISOLT MASKE, NÉE VERE, FORTY PAGES, NEGOTIATED ELEVEN MONTHS, SWORN 626. WEIGHT 4. THE WIFE ATTENDS.
+JUDGE URROW: The accused will repeat the vow. All of it. The court has set aside the morning.
+MASKE: Article one. "I take her as she is, and as she will be, barring only..."
+(Sound column, articles one to ten: none. Two hours.)
+MASKE: Article eleven, clause three. "I will not lie down with another, nor rise with another, nor..."
+(Sound column: the left hand. Each finger, in order from the smallest, folding back to the wrist with five distinct reports. The accused continues reading without being told to. The Keener notes that he does not look at his wife.)
+MASKE: Article fourteen. "I will not speak of her in her absence to any person in a manner I would not repeat in her presence."
+(Sound column: the lower lip. A split to the chin.)
+MASKE: (indistinct) Article nineteen. "I will not spend the household's silver without..."
+(Sound column: none. The wife, in the gallery, laughs once, aloud, and is fined.)
+MASKE: Article twenty-six. "I will keep her warm in Lack."
+(Sound column: none.)
+MASKE: Article thirty-one. "I will not let her be alone in the dark at the time of her mother's dying."
+(Sound column: the breastbone. A crack, one, long, like a branch under snow. The accused sits down on the sand of his own accord. The Judge permits it. He reads the rest sitting.)
+MASKE: Article forty. The last. "And I will love her."
+(Sound column: none.)
+JUDGE URROW: The court will wait.
+(Sound column: none. Three breaths. Three more. Nine more, at the Judge's sign, which is irregular.)
+JUDGE URROW: Article forty is kept. The court so records.
+THE WIFE, from the gallery: (Keener's note: she spoke without rising, and was not fined, and the court did not look at her, because it was not looking.) Then I would rather it had broken. Then I would know what the rest of it was for.
+JUDGE URROW: Sentence to be drafted. Next.
+[/fiction]
+
+### III. The Shepherd of Sworn Gorge
+
+[fiction]
+BREAKING COURT, BENCH TERRACE. LACK 640. URROW PRESIDING, WITH TWO WARDENS OF THE ECHO SEATED, AT THEIR REQUEST. THE ACCUSED: TOBEN HALE, GOATHERD OF THE UPPER GULLET. THE OATH ALLEGED BROKEN: UNKNOWN. THE ACCUSED HAS BEEN BREAKING FOR THREE YEARS, A PART A MONTH, FOR NO CAUSE HE CAN NAME. HE STATES THAT IN 637 HE FOLLOWED A GOAT INTO A SEALED RAVINE AND HEARD THE ECHO THERE. WEIGHT: UNKNOWN.
+JUDGE URROW: Toben Hale. The court cannot ask you to repeat an oath it does not know. The court will ask you instead to repeat what you heard.
+WARDEN STANE: Judge, I'd ask you not to.
+JUDGE URROW: Noted. The court has the duty of the god's record. Toben Hale, repeat what you heard in the gorge, in its words, from the beginning.
+HALE: I only heard the end of it. It comes round. You have to wait for it to come round. I waited a day.
+JUDGE URROW: Then repeat what you heard.
+HALE: It was a man's voice and it was very young. He said, "I swear, on everything I ate, that when it comes back I will..."
+(Sound column: see below.)
+(Keener's note, in a different ink, made the same day: The remainder of this transcript is struck by order of the Bench, Lack 640, and the Keener's original sheet burned in the presence of the Chief Clausewright. All persons present in the court, numbering forty-one, have been sworn by the Bench to silence on its contents, at Weight 5, on the bones, and also sworn to the oath the accused repeated, since they had heard it, and are bound by it, as he is. The accused completed it. He did not break while repeating it. He broke after, when the court rose, and had been breaking for an hour when the Wardens carried him out. The Judge's ear-trumpet was found afterward on the bench, closed flat, as if it had been stepped on. Nobody stepped on it. The two Wardens of the Echo resigned their posts that evening, and have taken the Quiet.)
+[/fiction]
+
+### IV. The Matter of Corse Ottery, Forsworn
+
+[fiction]
+QUESTION COURT, REMOVED TO THE WITNESSING VAULTS BY ORDER OF THE JUDGE. PLENTY 640. URROW PRESIDING. THE ACCUSED: CORSE OTTERY, FORSWORN OF THE BREAKDOWNS, WHOSE JAW BROKE IN 622 ON A FALSE OATH OF DEBT AND HAS SET CROOKED. THE CHARGE: THE MURDER OF ONA DRAY, A SURETY, IN THE LOW CANYON. THE VICTIM IS STANDING IN HER NICHE.
+JUDGE URROW: Corse Ottery, did you kill Ona Dray?
+OTTERY: No.
+(Sound column: none. The jaw, already broken, has nothing left to break with. The gallery, which is Forsworn, laughs. The Judge waits for it to stop.)
+JUDGE URROW: The court is aware of the difficulty. That is why we are here and not on the Terrace. Corse Ottery, lay your hand on the bones of Ona Dray and swear, before her as second witness, that you did not kill her.
+OTTERY: (laying his hand on the dead woman's foot, which is cured hard and dark as a saddle) I swear on Ona Dray that I never laid a hand on her.
+JUDGE URROW: That is not the oath the court asked for.
+OTTERY: It's the one I'm giving.
+(Sound column: a dry sound from the niche. Cured leather giving. The victim's jaw, wired shut at her standing, opens against the wire, which parts. Keener's note: the face of the dead in the Vaults wears the look of having just heard something. It is the only time I have seen one look as if it were about to answer.)
+THE DEAD WOMAN: (in the accused's own voice, exactly, from inside her) *Never laid a hand on her.*
+(Sound column: a pause. Then the same voice, lower.)
+THE DEAD WOMAN: *Used the rope.*
+(Sound column: the accused's hand, on the dead woman's foot. Every bone of it, at once. He cannot lift it off her. He has to be cut free at the wrist by the Vault-keepers, and the hand is left on the foot, by the Judge's order, as testimony.)
+JUDGE URROW: The dead have testified. Sentence: the Breaker. Next.
+[/fiction]
+
+### V. The Ninefold at Tallow-Clan Narrows
+
+[fiction]
+REPORT OF THE BENCH'S INSPECTOR OF THE UPPER GORGES, ENTERED WITH THE BREAKING COURT'S RECORDS AS A TRANSCRIPT OF A PROCEEDING NOT RECOGNISED BY THE BENCH. CARVING 637. THE ACCUSED: DAVIT OF THE TALLOW-CLAN, WHO KILLED HIS BROTHER AT THE GOATFOLD WITH A HOOK. THE NARROWS: A NINEFOLD, BY THE CLAN'S COUNT. THE INSPECTOR WATCHED FROM THE RIM AND WROTE, AT THE ELDER'S PERMISSION, BY GESTURE.
+THE MOTHER, from the rim: Davit. Did you do it?
+(Echo, from the narrows, nine times, dying: *did you do it, did you do it, did you, did you, do it, do it, it, it, it.*)
+DAVIT, from the floor of the narrows: I didn't. Mam, I didn't.
+(Echo: *I didn't.* Sound: the jaw, once, a crack like a stick. *Mam, I didn't.* The lower lip goes. *I didn't.* The teeth on the left side, all of them, a sound like gravel shaken in a cup. *I didn't.* The tongue. I will not write what the tongue did. *I didn't.* He is on his knees. *Mam.* He is trying to hold his face together with both hands. The echo does not care that he has stopped speaking; the walls are still saying it in his voice, and every time they say it, it is said again, and it is still a lie. *I didn't.* The upper jaw. *I didn't.* I am holding my pencil so hard I have broken the lead. *Didn't.* The throat, down the front, to the breastbone, and then there is no more sound from him and the narrows go quiet, slowly, the way a bell does.)
+THE MOTHER: (to the clan, after the silence) Bring him up. Put him with his brother. Facing in.
+(Inspector's addendum: Nobody touched him. That is the clans' whole defence of it, and having watched it I find I cannot answer it. I asked the mother on the walk down whether she had believed him. She said she had believed him until the third echo. I asked what changed at the third. She said, *He was still saying it. A man telling the truth would have stopped to listen.*)
+[/fiction]
+
+### VI. The Late Verdict
+
+[fiction]
+BREAKING COURT, BENCH TERRACE. LACK 641, THE FOURTH DAY AFTER THE KEPT RAIN CAME LATE. URROW PRESIDING. THE ACCUSED: SELKE VARRA, CANYON WATCH, WHO SWORE TO HOLD THE NORTH STAIR OF THE TERRACE AND WAS SEEN BY THE WHOLE COURT TO LEAVE IT, THIS MORNING, TO RUN FROM A SOUND IN THE CISTERNS. THE BREACH IS WITNESSED BY THE COURT ITSELF. WEIGHT 3.
+JUDGE URROW: This is a formality. The accused will repeat the oath.
+VARRA: "I will hold the north stair of the Terrace through my watch and not leave it for any cause."
+(Sound column: none.)
+JUDGE URROW: The court will wait.
+(Sound column: none. Three breaths. Three more. Nine more.)
+JUDGE URROW: (after a time) The accused left the stair. Forty people saw it. The court saw it.
+VARRA: Yes, Judge.
+JUDGE URROW: Then the court will wait.
+(Sound column: none. The Keener has turned the sand-glass twice. Eleven minutes by the glass. The court does not move. In the gallery a Forsworn begins to laugh and stops by himself. The accused is weeping and does not know where to put her hands. The Judge has lowered his ear-trumpet and is sitting very still with his eyes shut, which the Keener has not seen him do in twenty years of this court.)
+JUDGE URROW: (quietly, not to the court) Are you there?
+(Sound column, at the twelfth minute, all at once: the accused's knees, both, backward, like a heron's, on the sand. She goes down without a cry. And at the same moment, from the Judge's chair, a second sound, smaller, from inside the red robe: a creak, as of a rib taking a weight it was not built for.)
+(Keener's note: I record, because it is my office to record every sound in the court, and every face, that when the accused's knees broke the Judge opened his eyes and smiled. Openly. In front of the court. It was the first time in my service I have seen him do it. I do not think he knew. I have not told him. I am entering it here so that the court, if it ever has to, can hear it read back.)
+JUDGE URROW: The verdict was late. The court notes that it was late. The court notes that it came. Sentence to be drafted. Next.
+[/fiction]
+
+[pull] He was still saying it. A man telling the truth would have stopped to listen. | — a mother of the Tallow-clan, to the Bench's Inspector, Carving 637
+
+[box: Carver's Notes: Confessions to the Bench]
+**The hooks.** Each transcript is a seed. *Hollen Brisk* is carrying water to the Vaults every day, and has begun to find the cups empty in the morning, in the niches of the dead, who do not drink. *Alder Maske* broke his breastbone on Article thirty-one because his wife's mother died alone in the dark while he was elsewhere; Isolt Maske wants the Guests to find out where, and with whom, and she does not want to know. *Toben Hale's* forty-one witnesses are all bound by an oath sworn in 419 A.G. by a young man "on everything he ate," to do something "when it comes back"; one of them is a Guest's contact, and has begun breaking, a part a month, in the same order as Hale. *Corse Ottery's* hand is still on the dead woman's foot, and the Forsworn want it back for burial; the Bench will not release testimony. *The Ninefold* is still practised in the Gullet, and the Inspector who wrote the report has asked to be sent back, which worries the Bench more than anything else in it. *The Late Verdict* is the newest: Urrow wants to know whether the god was late, or deliberating, and whether it was deliberating about him, and he will pay the Guests well to find another case where it happens.
+**The rule: running a trial from these.** Read the oath in full; have the player repeat it in character, word for word; then let the silence run. These transcripts are models for the Carver's pacing. Since Lack 641, when a Breaking is due, the Carver may roll a d6 in secret: on a 1 the verdict comes late, from one minute to an hour, and anyone in the court when it lands makes a Dread 2 check, Dread 3 if they were the one who had begun to hope.
+**The rule: reading the oaths.** A Guest who reads aloud, in Oathen, the oaths in the first, second, fourth or sixth transcripts has said them; the Carver should treat any of them as a binding Weight 1 promise for a day, and let the dice and the Guest's conduct decide whether anything happens. Reading the fragment in the third transcript aloud binds the reader to the Sworn Gorge oath at Weight 5. The Bench has only the first eleven words of it on record, and wishes it had none.
+**The secret.** The late verdicts are not the god growing careless. The god has begun to listen for longer, the way a listener does when the speaker has stopped being the most important voice in the room, as though it were waiting to hear something else said first. The Judge's smile is the Appetite of the Witness taking a man who has spent forty years listening for it, and the creak in his ribs is his judicial oath, *neither pleasure nor pity*, beginning to come due.
 [/box]

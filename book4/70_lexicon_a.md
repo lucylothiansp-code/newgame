@@ -493,3 +493,161 @@ The College keeps a short list of words that betray a speaker's land at once, us
 [entry: Divvy | n., Rim, thieves' cant | The share-out of a poacher's or part-thief's take: so many kidneys, so much marrow, a pair of hands. From Old Table *dividing at board*. *Who's at the divvy?* is a question asked in the back rooms of Gristmoot and answered by a list of buyers, most of whom wear a silver fork inside the collar.]
 
 [pull] The Tally of births outruns the count of conceptions every year, and the gap is widening. Somewhere in the highlands there are eleven hundred people nobody carried. | — Rufus Ochre, Tallyman, in a letter to the College, 640
+
+## E
+
+[entry: Easy Centuries | n., Vigil | The three hundred and forty years after the Gorging when the Vigil, then Ludmere, was famous for its dreamers, oracles and soft beds; ended by the First Night. *Easy-century* is a Vigil adjective for anything old, soft and fatally attractive: an easy-century chair, an easy-century lover, an easy-century voice. A cushion found in a Height cellar is called *an easy-century piece* and burned in the square.]
+
+[entry: eating the witness | n. phr., Oathen | The practice of an oathbreaker who grinds the bones of the dead they swore on into flour, bakes them into bread and eats it alone in silence, believing a witness swallowed cannot speak. The Keeners know nineteen cases since 500. In every one the dead Testified from inside, the voice coming up muffled and wet out of the oathbreaker's own belly in a crowded place. *If you put them in your mouth, that is where they will speak from.* See *bone-lifting*.]
+
+[entry: Eat while it's warm | proverb, Fatlands | In full, *Eat while it's warm; it won't be.* Seize the day; also, a reminder that the dead are served at their own wake and that the family should not dawdle. Said at weddings. Said at wakes. Said in the Renderers' yards by the foreman, with a different emphasis.]
+
+[entry: ebb | n., Brinehollow | The draining of the indoor tide that rises twice a day in every cellar of the coast, however far inland, and leaves kelp on the stairs. *At the ebb* means at the lowest point, and also in the cellar, which is where coast families find the things that the indoor tide has brought and left. *Ebb-gifts* are such things, and are not kept.]
+
+[entry: echo | n., Oathen | The great danger of the canyons: an oath repeated is an oath renewed, and a canyon will repeat anything, so that people have been bound three and four times over by their own voices coming back. Whole gorges are posted as silent. *Echo-sworn* means bound more times than you meant. *The canyon keeps the change* means that whatever you say comes back with interest. See *Sworn Gorge* in the second half of this dictionary.]
+
+[entry: Echo-Ear | n., Oathen | The first stage of the Regrowth in the canyons: hearing one's own words repeated half a second late, as if someone were saying them back. The Echo-Eared can tell whether a statement bound its speaker, and at what Weight. *He's got the Echo-Ear* is said of a good listener, a good lawyer, and a man about to be gagged for his own safety.]
+
+[entry: Echo-Warden | n., Oathen | A ranger who polices the silent gorges and hunts down old sworn words still bouncing in the deep rock, with felt, baffles and patience. *To ward an echo* is to stop a rumour before it reaches someone it binds. Halvar Stane has come close enough to the echo in Sworn Gorge to make out two words. He will not repeat them.]
+
+[entry: Eighth, the | n., Common | The figure chiselled out of the eighth place in every old carving of the Providers, by different tools in different centuries. Nobody knows its name, its people, or who ate it, if anyone did. Every land has at some time made it a crime to ask. On the oldest temple floors, the stone in front of its recess is unworn. The College has nothing further to print under this head, and refers the reader to *count the chairs* and to *guest*.]
+
+[entry: Elder | n., Fast | A member of the Abstinent; the only Unfed title, addressed to the old who hold the Pantry keys. Never followed by *thank you*. *Elder's measure* is a full ration, given only to those who have been on the council long enough to be too thin to need it.]
+
+[entry: eldest, to walk the | v. phr., Common | To give the best thing you have for nothing, knowing it will be for nothing, because doing nothing is worse. From the Eldest Walk of the eighth year of the Lack, when the Moot said *no house shall be spared* and the firstborn of every house walked singing to the boundary to give themselves to the hungry gods, and the gods did not eat, and the famine went on, and in the dark the families went out with sacks and knew their own by the clothes. The College records this as the purest example in the language of a word that is also a wound. *We walked the eldest on that harvest* means a sacrifice wasted, and everyone knew it would be.]
+
+[entry: Emetic | n., Common | The fourth rank of the Purgation: leader of a hall, keeper of a lidded tin bowl, knower of the hidden houses. In common speech, any preacher who makes you sick: *We had an Emetic at the wedding.*]
+
+[entry: Empty Chair, the | n., Fast | The last standing temple of Orrum, where Verger Sober Osmond lays one place nightly at the altar, against all law, and every morning the plate is clean. He believes this is why the god has stayed gentle. *To lay at the Empty Chair* is to appease something you cannot name, and the Unfed say it of anyone who pays protection, or tithes, or flatters a landlord.]
+
+[entry: Empty Tooth | n., Fast | The Unfed's answer to Partaking: a d6 added to a roll out of sheer endured hunger, the Gnaw, which costs no Hunger but, if it shows a 1, a Pang, *your body paid*. In speech, *the Empty Tooth* is the strength of the starving, the thing the Unfed have that the Godeaters do not, and they mention it often. See *Gnaw*.]
+
+[entry: entered | adj., Vigil | Of a Seeming: matched on enough points by enough unconnected, awake witnesses of good character to be read at the Bonfires and filed in the Public Record, from which moment, for every purpose of law, it happened. *It was entered* is the Vigil's highest form of *it's true*. A Seeming *not entered did not occur*, and the citizen who insists otherwise is shown the struck book. See *Seeming* and *struck book*.]
+
+[entry: Every pot has a granny in it | proverb, Fatlands | Every family has its history; every dish has its source; do not inquire. Said cheerfully. The Fatlands say a great many dreadful things cheerfully, and the College notes that this proverb, unlike most, is meant literally in about a third of the households that use it.]
+
+[entry: ewe-man | n., Cradlewrack | A highland shepherd. The ewes drop endlessly in the red hills and lamb is so cheap the poor eat it daily; a ewe-man is accordingly poor, busy, and the most frequent witness to the births that are not lambs. *Ask a ewe-man* means *ask someone who has seen the worst and still gets up at dawn*.]
+
+[entry: exit | n., Oathen | A clause of release in a canyon sentence: *if able*, *as I now intend*, *barring death, illness or weather*, *I am told*, *for today*. *A polite sentence is mostly exits.* *Check the exits* is the canyon's *look before you leap*. A sentence with none is *naked*. An Oathener's worth in company is the elegance of their exits; a Clausewright's, their number. See *As I now intend*, *If able* and *Weathered mood*.]
+
+[entry: Eye-line | n., Vigil | The nobility of the Vigil, who ate Iss's eyes, still shut, and are now born without lids, which they call purity. Since 480 only the lidless may rule. Attendants wet the royal eyes with a brush every half minute. *Eye-line patience* is the stare of a person who has seen everything that ever happened in front of them and can forget none of it. A lidded Eye-line child is a deformity, and hidden. See *lidless*.]
+
+[entry: Ear, Night of | n., Oathen | The eve of Tablenight, when pilgrims walk the Gullet barefoot and lay their ears to the warm sand to hear what the god is saying. *An Ear-night face* is the look of someone who has heard something they cannot repeat without binding themselves to it.]
+
+[entry: Easy Births | n., Cradlewrack | The ninety years after the Gorging when no highland mother died in childbed and no child was lost; ended by the First Word in Kest in 94. *Easy-birth talk* is optimism, and in the highlands it is considered unlucky, like counting a child before its naming-year.]
+
+[entry: Empty plate, clean soul | proverb, Fast | The Unfed creed in four words. Said by the Abstinent at the Pantry window, by mothers to complaining children, and by Reckoners over the beds of the Gut-lines they have just emptied. See *clean*.]
+
+[entry: elbow-cress | n., Fatlands | A pale green cress that grows in the creases of a Course-stage Gut-line's skin, in the folds at the elbow and the back of the knee, and is harvested by Washers and sold as a salad of great delicacy. *Elbow-cress money* is wealth got by living very close to the great. See *Washer* and *fold*.]
+
+[entry: Ending | n., Sallowreach | A word the polite fen will not say, as other lands will not say *sleep* or *come in*; in its place they say *a finis'*, *a closing*, or nothing. A song in Sallowreach has no last verse. A fen story stops; it does not end. *He used the E-word at dinner* is a fen social disaster, comparable to belching at a Closing. See *finish* and *open end*.]
+
+[entry: Envy board | n., Vigil | The board on which a Vigil corpse is laid in the street for its one day of lying down; *to stand at the envy board* is to visit the dead, and *board-envy* is the feeling of the visitors. See *Boarding*.]
+
+[entry: evening news | n., Cradlewrack | The reading aloud of the Tally at dusk on the steps of the Tally-house in every town: births by number, by bearer, by the answers to the Two Questions. At *stays* the crowd murmurs *and let it stay*; at *surrendered* it says nothing; at the ruled line it turns its face away for a count of three. Mothers not yet read stand at the front. See *ruled line* and *Tally* in the second half of this dictionary.]
+
+[entry: Exchange, Naming- | n., Cradlewrack | The market under the Tally-house in Kest where naming-rights to unborn children are bought and sold by the hour on rumours from the birthing-rooms. *To buy on the Exchange* is to gamble on something you cannot see. Patter there runs fast: *Kest boy, ninth month, born talking, says "not yet," falling, falling.* See *naming-right* in the second half of this dictionary.]
+
+[entry: Easy-down | n., Fast, children's | The Unfed nursery word for a Seated person at one of Orrum's tables: someone who sat down easily and will not get up. Children whisper it. Parents slap for it, since there is nothing easy about the Long Table, and then lie awake, because there is.]
+
+[entry: empty bowl | n., Fast | The stamp on a Pantry ration chit, and the sign of the Abstinent. *Under the empty bowl* means under Pantry rule; *to show the empty bowl* means to beg. In the Fatlands the empty bowl is an image of horror, painted on the doors of the Thin.]
+
+[entry: Elders' list | n., Fast | The roll of households to be fed at the Pantry this winter. A name left off it is *omitted*. Elder Forbear Wend has starved eleven people by leaving their names off a list and prays for each by name. *Not on the list* is the Fast's most final sentence. See *omission* in the second half of this dictionary.]
+
+[pull] I wrote the word for it in the margin of the Concordance in pencil, very small, and then I rubbed it out with my thumb, and the thumb has been cold since. | — note pinned to the door of an Inkhorn room, Quire, 637; the College removed it
+
+## F
+
+[entry: false labour | n., Cradlewrack | The Appetite of the highlands: labour pains in anyone, of any age or sex, with nothing to deliver. The body rehearses. *He's in false labour about the harvest* means a man fretting over something not yet due. A household with three in false labour at once is said to be *rehearsing*, and the neighbours stop calling round. See *Appetite, the*.]
+
+[entry: Fast, the | n., Common | The central heartland, the land that refused to eat its god, now almost empty, where Orrum the Host still walks and lays tables. Named for the fasting of the Refusal; the Unfed call it simply *the land*. *Gone into the Fast* means gone where nobody goes, and is said of the mad, the pilgrims, and the very hungry. Compare *fast*, *a* (to go without food), which in the Fatlands is treason. See *Unfed* and *Hallowboard*.]
+
+[entry: fat-pill | n., Rim | A pill of rendered Gut-line tallow rolled in flour, sold to the thin, the Unfed and the convalescent to *put on a pound a day*. Taint 1 Hunger. An Unfed who takes a course risks Seasoning. *Selling fat-pills* is Rim slang for selling hope to people who should know better. See *Seasoning* in the second half of this dictionary.]
+
+[entry: Fathom, the | n., Brinehollow | Dromm, god of the deep. Also a fathom, the coast's unit of depth, used even on dry land for everything: *He's three fathoms in debt*, *a five-fathom grief*. A Sounder of the ninth knot had gone down nine fathoms past the point where a diver's eardrums burst. *To fathom* a person, on the coast, is not to understand them but to sink to their level.]
+
+[entry: Feast | n., Common | The skill of eating what should not be eaten: poisons, rot, drink, the inedible. In the College's usage, also any meal at which more than one land's dead are present. *A good Feast* is said of a man who can drink a Fatlander under the table, or of a woman who once ate her way out of a locked cellar, and both are admired on the Rim.]
+
+[entry: Feasting Laws | n., Fatlands | The laws of the Board of Plenty requiring five meals a day; leaving food on the plate is a fine, refusing a meal is sedition, punishable by the Gavage. *By the Feasting Laws* is the south's way of saying *by the book*. Enforced by Bailiff Dunmow Fatt with a funnel and a ladle of office, gently. See *Gavage*.]
+
+[entry: feeding | n., Fast | The crime of giving one's own food to another, which the Abstinent forbid because it confuses the ledgers and, worse, because it is hospitality. Punished by a cut in measure. *Caught feeding* is an Unfed scandal of the kind other lands reserve for adultery, and it has much the same shape: a hidden kindness, a secret visit, a neighbour at the window. See *mouth-theft* in the second half of this dictionary.]
+
+[entry: fen | n., Sallowreach | The grey country of Sallowreach, black water, reed and peat, full of everything that ever drowned in it, still moving a little. *A fen face* is pale, patient and smells of vinegar. *Fen-tired* is tired in a way that will never improve. *Fen-wise* is knowing that a problem *will keep*.]
+
+[entry: field | n., Fatlands | Farmland, and also a relative: many of the best fields in the south are somebody's great-grandmother, Seated and grown into a low warm hill. The Fatland grace thanks the field by name before every meal. *The field remembers who fed it.* *Your mother's a good field* is a compliment to the crop and the woman both. See *hill* and *abundance*.]
+
+[entry: field-gotten | adj., Fatlands | Of a child: conceived in the fields, especially at Plenty when the plains sweat; thought lucky, heavy and hungry from birth. Also of a child found in the fields, in a furrow, with no mother anybody can name. Both kinds are called lucky, aloud.]
+
+[entry: fifth meal | n., Fatlands, Rim | The last of the five lawful meals of the day, eaten at night. *No Company house will refuse a Fatlander a fifth meal.* *At the fifth meal* means late, and also means a Fatlander's guard is down, which every assassin in Sated knows. Jem Crackle kills only in kitchens, and favours the fifth meal.]
+
+[entry: Finisher | n., Sallowreach | A member of the death cult that makes pilgrimage to the Hushes and walks in singing; the Court calls it theft of a licensed good. Their numbers have tripled in a year. The College records the word here as a grief, not a recommendation: every Finisher leaves a family on the near side of the Hush, listening for the singing to stop, and it stops all at once, and there is no echo. See *Hush* and *Shut Eye* in the second half of this dictionary.]
+
+[entry: finish | v., Sallowreach | To die properly, which in the fen nobody can do without a licence or a Hush. *May you finish* is the polite fen greeting, said *May you finis'*, leaving the last sound open, since nothing in the fen ends. *Long life* is the worst curse. *May we all finish* is the toast at midnight on Tablenight. *Finished* is the fen's highest praise for a piece of work, and its tenderest word for the dead. See *open end* and *Long life* in the second half of this dictionary.]
+
+[entry: First Night | n., Vigil | The morning in 341 when a third of Ludmere did not get up, and by the third morning half. The survivors were those too frightened to lie down. *First-Night fear* is the healthy terror of comfort that keeps a Vigilant alive. *The Night of Lying Down*, its anniversary, is the city's great mourning. See *Bed One*.]
+
+[entry: First Word | n., Cradlewrack | The words *Not yet*, said clearly by a newborn in Kest in 94 A.G., the first of the speaking-born. *A first-word child* is one born speaking; *sp.* in the Tally. *Not yet* has become the highland answer to any question about the future, said with a shrug, and is carved over the door of the Lying-In.]
+
+[entry: Five Rules | n., Fast | The rules every Unfed child learns before letters: never enter a house where the hearth is already lit; never answer *come in*; never eat what you did not carry yourself; if you smell bread, walk into the wind; if a chair is pulled out for you, do not thank it. *Five-Rule clean* means scrupulous. *He's forgotten the Fifth* means he is being too polite to something.]
+
+[entry: fold | n., Fatlands | A fold of flesh on a great Gut-line body, deep enough to hold summers of smell; the Washers who clean them speak of *the fourth fold of Madam's left side* as a place. *The Fold* is also the rich quarter of Sated, built for the very wide. *Deep in the fold* means in the confidence of the great, and in the dark. See *Washer* and *elbow-cress*.]
+
+[entry: Follow, the | n., Brinehollow | The sealed iron vessel Dagna Hull is building to chase the sea down into the Trench; nine hundred volunteers are on its waiting list. *On the Follow list* is coast slang for someone who has given up on dry land and is waiting for a better way to go. The College enters the phrase as it is used, with sorrow, and notes that the families of the list do not say it at all.]
+
+[entry: Forbear | n., Fast | An Unfed given name, from the Refusal, and the name of the eldest Elder of the Abstinent. Among the Unfed, *a forbear* is not an ancestor but anyone who once went without for your sake; one's forbears are counted by who starved so that you might eat. In every other dialect it means an ancestor, which the Unfed consider a revealing confusion.]
+
+[entry: Forsworn | n. and adj., Oathen | One who has broken an oath and lives visibly broken: a reversed knee, a split jaw, a chest open like a cupboard. You can read a Forsworn person's whole moral history from across the street. They live in the Breakdowns, organized and plainspoken, and go bare where they broke, as a point of pride. *Forsworn paper* is a note backed by what already broke, worth nothing. *Let my open chest answer* means *never*. See *Breaking*, *Unread* and *cupboarded*.]
+
+[entry: Foundling | n., Cradlewrack | One of the born-grown, especially a soldier of the Foundling Companies, the state's only army, adults in body and a few years old in fact. Hired out on the Rim as caravan guards. *Foundling-brave* means brave without understanding, like a six-year-old with a sword and a man's arms. The born-grown do not like to arrest mothers. See *born-grown*.]
+
+[entry: fourth no | n. phr., Fast | Acceptance, offered properly. *The fourth no is a yes in a nicer coat.* An Unfed who wants something badly will go on refusing it with mounting pain until it is offered a fourth time, and many a Fast love affair has died at the third offer for want of courage on the asking side. See *coat mood* and *Decline, the*.]
+
+[entry: Fray | n., Common | The wearing of the mind by horror, counted by the College physicians from 0 to 10, at which a person *breaks* and takes up a madness, and drops back to 3. *Frayed* means nervy; *fraying* means near the edge; *a fray-sharer* is one who has caught another's madness by watching it break, which on the Table is common, and getting commoner. See *Dread*.]
+
+[entry: fresh as a Glad Century fiddler | adj. phr., Sallowreach | Hopelessly out of date. From the fiddlers of the first hundred years after the Gorging, who played at the dancing when it seemed a miracle that nobody died, and some of whom are still playing, in pieces, in the same taverns. *His jokes are fresh as a Glad Century fiddler.* See *Glad Century*.]
+
+[entry: Frost is a friend | proverb, Fast | Said gratefully on cold mornings in the Fast, since frost shows where the Host has walked, the warm ground melting it into a track. A morning without frost is an anxious one. See *company*.]
+
+[entry: full | adj., Fatlands, lost | A word that no longer exists in the dialect of the south. *There is no word in our dialect for full. We had one. We ate it.* The joke is told at every Fatland table, and the College confirms it is true: the word appears in the earliest Fatland charters and in none after 204. In its place the south says *fuller*: *Nobody's full, but some are fuller.*]
+
+[entry: funnel | n., Fatlands | The badge of office of a Bailiff of the Feasting Laws, carried with a ladle; also the Gavage itself. *Funnelled* means force-fed, literally or figuratively: *the Board funnelled the new toll through in an afternoon*. Bailiff Dunmow Fatt is gentle about it, by every account.]
+
+[entry: furrow-stone | n., Fatlands | The small numbered stone at the corner of each plot in the Dusk Acres. *His name's on a furrow-stone* means he was dusk-shifted. Children of the Leanings count furrow-stones on their way to school, and are not told what the numbers mean, and know.]
+
+[entry: felt | v., Oathen | To hang a room with felt so that nothing echoes, as every canyon home, inn and courtroom does. *Felt your mouth* means *be careful what you say*. A *felted marrying-room* is where canyon couples read their vows aloud, so that the canyon cannot say them back. *Unfelted* means reckless, exposed, and in Tacit's oldest families, slightly obscene.]
+
+[entry: Felt Market | n., Oathen | The market of Tacit, where prices are chalked and the chalk carries exits: *FRESH THIS MORNING, I AM TOLD*. *A Felt Market answer* is a reply hedged so thoroughly it says nothing. Bone-dust was traced to a bakery near it in 641.]
+
+[entry: Fire-widow | n., Oathen | One bound by a promise to the dying: from Asha Kindle, who promised her dying husband never to let the fire go out, thirty-one years ago, and has not slept more than an hour at a stretch since; the fire has grown particular about what it is fed. *A fire-widow's vow* is any deathbed promise, and canyon dying are discouraged by their families from asking for them.]
+
+[entry: flinch | n., Fatlands | The movement of the ground when a Fatland well-digger strikes something living; any sign that a thing you thought was soil is not. *The field flinched* is said when a scheme is discovered. Well-diggers charge extra for a flinch, and more for a flinch with a voice.]
+
+[entry: fly-front | n., Sallowreach | A moving mass of flies, the true weather of the fen, predicted by almanac-men who count flies on windowpanes at dawn; the worst is a Black Noon. *A fly-front coming* is fen slang for a creditor, a mother-in-law, or the Court. See *Black Noon*.]
+
+[entry: Fogmouth | n., Rim | The northern Company station where the road from Lastgate meets the Rim and the Drop is painted across the road. *Fogmouth goodbyes* are farewells made across a line one party cannot cross; the beggars there are mostly living relatives of the Kept on the far side. See *Drop, the*.]
+
+[entry: fork, two-tined | n., Common | The badge of the Second Table, worn enamelled inside the collar on the road; members embroider a silver fork on their dinner veils and know one another at Rim inns by the way they hold their knives. *He holds his knife like a fork* means he is a noble who has been somewhere he should not. A fork is a disgrace in the Fast, where food is eaten from the hand. See *Trencherman* in the second half of this dictionary.]
+
+[entry: Foreign Row | n., Rim | The stretch of any Rim market where goods of six lands are sold side by side, and where the cures are. *A Foreign Row cure* is quackery; *Foreign Row prices* are triple. The College's Linemen buy their ink there and pay what it asks, which says something about the College.]
+
+[entry: fasting girl | n., Fatlands | Wren Hollowell, a Blank of fifteen who has never felt hungry, and by extension any person whose existence is a scandal to the state. The Board has offered her weight in bone coin to whoever brings her in, and has not specified alive. *A fasting-girl bounty* is a price on someone's head that does not mention the rest of them.]
+
+[entry: Fatt's ladle | n., Fatlands | An official kindness that is also a coercion. From Bailiff Dunmow Fatt, enforcer of the Feasting Laws, who feeds the refusing gently with a ladle before reaching for the funnel. *The Board offered Fatt's ladle* means a polite warning that will be followed by the Gavage.]
+
+[entry: fen-wire | n., Sallowreach | The fine wire with which the Seamers hold the Kept together, Sallowreach's chief export after lacquer. *Held together with fen-wire* means barely holding on; it is said of governments, marriages and grandmothers. See *Seamer* in the second half of this dictionary.]
+
+[entry: fill | v., Brinehollow | Of the lungs: to flood twice a day with salt water from nowhere. *I'm filling* means *it is nearly dusk and I must find my bucket*, and also *I can't take any more of this*. *Filled up* is the coast's word for someone land-drowned. See *bail*.]
+
+[entry: Fifth, the | n., Fast | The Fifth Rule: if a chair is pulled out for you, do not thank it. *Remember the Fifth* is said to Unfed travellers leaving for the Rim, where everyone is polite to furniture. Compare *Five Rules*.]
+
+[entry: foot-penny | n., Rim | The crumb paid at each Company post by a traveller on foot; also the cheapest bribe on the Rim. Children under seven pass free, which has made the Rim's foot-traffic notably full of very tall seven-year-olds from Cradlewrack.]
+
+[entry: Feeder | n., Fatlands | A professional employed by the great Gut-line houses to feed a Course-stage noble who can no longer lift a spoon: a skilled, respected, well-paid and filthy trade. *She's a Feeder to the Loins* explains a woman's wealth and her forearms. The Feeder's apron is never washed, only replaced.]
+
+[entry: Follow-tongue | n., Brinehollow | The new cant of the volunteers for Dagna Hull's iron vessel, full of depth-words and Trench-words, spoken by people who have decided to leave. Parents on the Mile who hear their children using it hide the waist-ropes.]
+
+[entry: furrow-song | n., Fatlands | The song orchard-keepers sing through the pruning season in the Bleeding Orchards, to cover the screaming; most keepers go deaf young, by choice, and sing badly. Marigold Chine's trees have begun to sing back, in tune, in her voice. *Singing furrow-song* means talking loudly to cover something.]
+
+[entry: First Bail | n., Brinehollow | The infant's first coughing-up of brine, at the first dusk of its life, attended by the whole family; *go west without her*, they say to the sea, by custom. *Since my First Bail* means since birth. *She never had a First Bail* is said of the dry-lunged, and of the stillborn, gently.]
+
+[pull] Nobody is waiting to die here. We are all waiting to be allowed. | — fen proverb

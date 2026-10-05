@@ -860,3 +860,119 @@ Lead mittens are cold, heavy, and always faintly damp inside from the hands' own
 ### Hook
 
 **The Key.** Lady Corrow Vane keeps the only key to her brother's mittens on a chain around her neck, under her gloves. It has been stolen while she slept. The PCs are hired, quietly, to find it before Osric learns. Osric already knows. He has asked his guards, politely, to tell whoever has it that he is not angry, and that he would like very much to shake their hand.
+
+## Four Further Engines
+
+The devices above are the famous ones. These four are less well known, and more often met in the cellars where Guests should not be.
+
+### The Cutwright's Reading Frame
+
+[sigil: rim]
+
+> Blood is a ledger. We only read it aloud. We do not always read it to you.
+>> — Lineman's saying
+
+**Lore and history.** Before 470, Cutwrights read Cut by taste, calipers and the ledgers, and argued about it. In 471 a Lineman named **Ottery Vane-Sallis**, a Sallowreach cousin of the Vanes, built a frame that let blood read itself. Every Copyist who enters the College at Quire now bleeds into one, and the result is entered in the Master Concordance.
+
+**The diagram in words.** A standing frame of black walnut the height of a man, like a narrow loom. At the top, a silver funnel with a lancet beside it. Below the funnel hang seven panes of silk, stretched taut in silver rings one above the other, each a different weave, from coarse sacking-silk at the top to a silk so fine it is nearly air at the bottom; each is dyed with a reagent from one land (vinegar from Sallowreach, drip from the Fatlands, bail-brine, rouse, Cradlewrack clay-water, Oathen ink, and, at the bottom, Fast rain). Blood is let into the funnel. It soaks down through the silks. Ordinary blood stains the top two and stops. Godsign carries it further, and each land's god pulls it toward its own silk, where it spreads in a figure: a hand, a sheaf, a wave, an eye, a door, a tongue. How far down the blood reaches is the Cut. What shape it makes is the line. At the bottom of the frame, under the seventh silk, there is an eighth ring, empty, and the College will not say what it was for.
+
+**In operation.** The blood creeps down the silk slowly, by capillary, like ink in a wet page, and as it nears its land's pane it quickens and branches. A Hand-line's blood makes a grey hand on the vinegar silk, with too many joints; a Vasht's soaks the brine pane and drips back upward. Cutwrights watch in silence, holding silver spoons. The room smells of hot iron and reagents. The frame is warm afterwards.
+
+**Rules.** A reading takes an hour and a cupful of blood (1 Flesh). Eye + Lore at Hard 14 reads the subject's Cut and line exactly; each Helping reveals one ancestor's secret (a bastardy, a foreign god, the seasoning of an Unfed, a Tenanted grandparent); a Grace gives the decade in which the subject's line can be expected to reach the Course. The frame gives a court-binding certificate of Cut in any land. A Blank's blood soaks no further than the first silk and, on a Grace, a little way into the empty eighth ring, where there is no silk at all. Dread 2 for the Cutwright who sees it.
+
+| d6 | The frame fails |
+| 1 | A silk tears. The blood runs down to the floor and soaks a figure into the boards that nobody can read. |
+| 2 | Two lines are shown: the subject's, and a second, faint, that is not theirs. Someone is wearing them. |
+| 3 | The reagents have spoiled. Every reading for a week is a Scrapling's. Three inheritances change hands. |
+| 4 | The blood goes on creeping after the reading, slowly, overnight, and in the morning has reached a pane it should not have. |
+| 5 | The blood creeps back up into the funnel. |
+| 6 | The eighth ring is stained in the morning, though there is no silk there, in the shape of a chair. |
+
+**Cost and availability.** Rare; College property; a reading costs **50 lacks** from a Cutwright, **10** to a Copyist, and is free, and compulsory, at Quire. A stolen frame fetches **2 platters** from the Second Table, which uses them to choose its meals. Sabotage difficulty Grim 18.
+
+**Hook.** A Lineman at Lampwick Halt has read a PC's blood for a marriage contract and quietly offered to sell them the result, because the shape on the silk was not any land's.
+
+[pull] I read four thousand bloods. I never once saw the bottom ring stained. Then I saw it twice in a week, both from children of the Rim. | — confession of a Cutwright of Quire, sealed by the Archprovost
+
+### The Second Table's Carving Board
+
+[sigil: eighth]
+
+> It worked once.
+>> — inside every signet ring of the Second Table
+
+**Lore and history.** The Second Table has collected knives for two hundred years. In 588 a Carver of the Fatlands chapter commissioned a table to use them on: a carving board for a god. It has been copied since. There are believed to be five, one in each of the Table's strongest chapters: under Dame Marrable's Unending Dinner, in the Height of the Vigil, at the Court in Lastgate, in the Admiralty at Lowmark, and on the Rim.
+
+**The diagram in words.** A long table of black oak, thirty feet, in nine hinged sections so that it can be folded and carried on three wagons. Its top is channelled like a butcher's block: grooves run from the centre to the edges and down into copper gutters, so that what is carved upon it drains into seven numbered copper basins, one at each of seven places. Each place has a chair of grey bone, a set of grey-bone knives bearing a course-name, and a silver fork with two tines. At the head is a carving station with a windlass, hooks and saws for jointing something very large. At the foot is an eighth place, set, with no knives, and a chair that is pushed in.
+
+**In operation.** In practice dinners the board is used for lesser things: the fruit of a Seated hill, the grey fingertips of a Hand-line, caul, a lidless eye. The gutters run with juices that do not smell like any meat; the copper basins warm without fire. The members eat in silence, veiled, and write in notebooks. The bone chairs creak like old men. Nobody looks at the foot of the table.
+
+**Rules.** The board is the key to a Second Table chapter. Finding one is the end of an investigation (Unique). Eating from it is Taint 3 Regrowth of whatever god was carved; doing so as a Taster or above gives +1 Rank in the Table's ledgers and a notebook entry the members will use against you. A character who sits in the eighth chair, or pulls it out, makes a Dread 4 check, and the GM notes it, and says nothing.
+
+| d6 | The carving goes wrong |
+| 1 | The gutters back up. The basins overflow onto the diners' laps, warm. |
+| 2 | One of the knives will not come out of what it was cutting. |
+| 3 | What is on the board is not finished being alive. |
+| 4 | A diner's basin fills with something they did not eat. |
+| 5 | The board's hinges unfold by themselves in the night. In the morning it is set for eight. |
+| 6 | Someone has eaten from the eighth place. The plate is clean. |
+
+**Cost and availability.** Not sold. The Rim chapter paid **forty platters** for its board, in 626.
+
+**Hook.** The Rim chapter's board has been stolen, on its three wagons, from a manor near Gristmoot. The Second Table hires the PCs, through cut-outs, to recover it without knowing what it is. The wagons are found on the road to the Fast, abandoned, with the horses unharnessed and grazing, and the board unfolded in the field beside them and laid, beautifully, with a white cloth.
+
+### The Brinehollow Anchoring Bed
+
+[sigil: brinehollow]
+
+> Tie your own knot. Then check it. Then let someone you love check it.
+>> — advice given to every child on the Mile
+
+**Lore and history.** Rope can be cut. In 455, after a winter of cut ropes on Mile Four, a ropewalk master named **Calloway Tench** built his wife a bed that could not be cut out of, and when she was Called anyway, he built a better one. The **anchoring bed** is the result of two centuries of such improvements, and every well-off household on the coast sleeps in one.
+
+**The diagram in words.** An oak box-bed bolted through the floor to the joists, with iron rings at its four corners. The sleeper wears an anchoring harness of tarred webbing; its four straps clip to the rings by spring-hooks. The cleverness is the **ratchet-drum** under the bed: the straps run through it, and every movement of the sleeper toward the edge of the bed winds the ratchet one tooth tighter, so that the more the Called struggle, the tighter they are held. It releases only with a key on a cord around the neck of whoever sleeps in the other room. A tide-gauge on the bed-post, a glass tube connected to the cellar's indoor tide, rings a little bell at the turn so the household wakes to bail.
+
+**In operation.** A Called sleeper in an anchoring bed does not wake. They rise against the straps, eyes open and dark, faces calm, and walk in place, and the ratchet clicks, and clicks, and clicks, all night, tightening, and the sleeper keeps walking with great patience until the webbing creaks and the bed groans on its bolts and the skin under the straps is rubbed raw and then rubbed to the bone. Families listen to the clicks through the wall. They count them. By dawn the Called lie still, wrapped so tight in their own harness that they must be cut out of it, bruised black from hip to shoulder, and they thank you, and ask for their rope.
+
+**Rules.** A sleeper in an anchoring bed cannot walk on a Calling night: failing the Calling roll means they struggle all night, losing 1d6 Flesh by dawn and gaining 1 Fray. On a Lack, they lose 2d6 and the GM rolls on the failure table. Anyone in hearing of the ratchet makes a Dread 1 check, Dread 2 if they love the sleeper. Sabotage difficulty Hard 14.
+
+| d6 | The bed fails |
+| 1 | The ratchet jams tight. The sleeper must be cut free before the straps crush them (Hand + Craft at Hard 14; 1 Flesh per failed round). |
+| 2 | The key is gone from the cord. The key-keeper was walking in the night too. |
+| 3 | A spring-hook straightens. One strap free. The sleeper is found in the morning with one arm stretched toward the window as far as a shoulder can go. |
+| 4 | The bed's bolts have been loosened from below, in the cellar, by somebody standing in the indoor tide. |
+| 5 | The sleeper walks so long that the floor wears through under the bed, and the whole thing hangs from its bolts over the cellar water. |
+| 6 | The bed holds. The sleeper does not. In the morning the harness is still buckled, tight, and wet, and empty. |
+
+**Cost and availability.** **45 lacks** in Brinehollow, Uncommon; the poor sleep roped to a single ring for 2 lacks. Abroad, Vigil dealers sell them, unaccountably, to the customers of Rook Quarter-Bell.
+
+**Hook.** A Wreckwife has asked the PCs to sit up with her through a Calling night and listen to her husband's ratchet, because she has counted the clicks for a year, and they spell something.
+
+### The Jar-Shelf of the Jar Room
+
+[sigil: sallowreach]
+
+> Not to be closed under any license.
+>> — the red second label on the jars of unlicensed Closers
+
+**Lore and history.** The Jar Room was built under the Hall of Hands in 304, three years after the Licensing, when the Court needed a sentence worse than death in a land where it alone sold death. The shelf is a single piece of engineering, a thousand feet long, built by the Seamers' Guild and maintained by the Court's **Jarwrights**, a hereditary office of four families who are not permitted to marry outside it.
+
+**The diagram in words.** A shelf of slate slabs on iron brackets, running the length of a low brick vault, in two tiers: heads above, hands below. Each jar is thick green glass, its mouth sealed with a lead cap crimped by a press, and a waxed label. The **pickle** is the Court's own recipe: vinegar, alum, honey, lacquer-spirit, and a secret ingredient the Jarwrights say is grief. Under the shelf runs a stone gutter and drains. Above it, a brass rail carries a little wheeled **turning-cradle**, which a Jarwright runs along the shelf once a day to lift each jar, turn it a quarter, and set it back, so the faces inside do not settle against the glass and rot where they touch. Treason jars are turned to face the wall.
+
+**In operation.** The vault is cold and green-lit, and the air is sharp with vinegar and sweet with honey and, under both, the smell of meat that has been in a pickle for three hundred years. The heads float with their hair rising. The hands on the lower tier tap at the glass. When the turning-cradle comes down the rail, rattling, every eye on the shelf rolls toward it, and the hands go still, waiting their turn, and as each jar is lifted the face inside it speaks, silently, a word the Jarwright has learned not to read.
+
+**Rules.** Seeing the Jar Room is Dread 2; being sentenced to it is Dread 5. A jarred head can be questioned by lip-reading through the glass (Eye + Search at Hard 14) and remembers everything. Unsealing a jar without the Jarwrights' press ruins the pickle, and the head begins at once to rot properly, and feel it. Stealing a jar is Hand + Filch at Grim 18 and the theft of a sentence of the Court. A Hush-wax lantern held to a jar for an hour finishes the head inside on a 6.
+
+| d6 | The shelf fails |
+| 1 | A lead cap weeps. The pickle seeps down onto the hands below, and they begin to soften. |
+| 2 | The turning-cradle jams. One face has been pressed to the glass for a week, and has begun to grow into it. |
+| 3 | A bracket gives. A row of jars slides, clinking, to the floor, and the heads roll in the gutter toward the drain, mouthing. |
+| 4 | Two jars' labels are swapped. A man has been serving a forger's sentence for forty years, and the forger is out on a Closing licence. |
+| 5 | The hands below have learned to tap in time, and the tapping is a message, and the message is for the Regent. |
+| 6 | A small Hush opens in the vault for one night. In the morning the oldest nine jars hold heads that are properly, finally dead, and peaceful, and the rest of the shelf is weeping. The Court hides it. |
+
+**Cost and availability.** Unique. A single green jar and cap from the Jarwrights' stores costs **20 lacks** on the black market in the Sinks, where Mother Gall's rivals use them; the Court's pickle recipe has never been sold.
+
+**Hook.** Henna Farrow has petitioned for her husband's Closing forty-one times and been refused. She has now petitioned for him to be jarred, which is cheaper and permanent and, she says, would at least let her visit him on a shelf where he cannot come home each evening. The Court has granted it. Her husband has not been told. He is coming home tonight, as usual, and the Jarwrights are waiting in the kitchen with the press.
+
+[pull] We turn them a quarter each morning, so they don't settle. They used to thank us. Now they just look. Looking is worse. | — a Jarwright of the fourth family, to a visiting Vigil envoy

@@ -880,3 +880,150 @@ Heat the oven to 180°C / 350°F / gas 4 and line two baking trays. Beat the but
 Roll into walnut-sized balls and set them a little apart on the trays. Press each firmly in the middle with your thumb to make a deep well (three knocks first, if you like). Fill each well with a little jam.
 Bake 12–15 minutes until pale golden at the edges. Cool on the tray for 5 minutes (the jam is very hot), then on a rack. Lay one for every door in the house on a plate by the door.
 [/box]
+
+## Oathen: The Silent Table
+
+[sigil: oathen]
+
+> A full mouth, an empty hand.
+>> — Oathen proverb
+
+Oatheners eat goat, canyon lizard, flatbread baked on hot stones, dried figs, and a sour green cheese aged in the river caves. Water is law: every household's cistern-share is sworn yearly at the Rain Shrine, and stealing water is the only theft the Bench treats as a crime against the god. Meals are eaten in silence. Wine is rare and feared, because drunkenness makes promises.
+
+### Table Manners in the Canyons
+
+- **Silence.** Nothing is said at an Oathen table that does not need saying. Prices, passing and pleasantries are handtalk, which is held not to bind, and which lately does.
+- **Do not praise the food aloud.** *This is delicious* is a statement. *I could eat this every day* is a vow. *I'll never eat anything better* is a very dangerous vow. Sign appreciation: two fingers touched to the lips and drawn away.
+- **Do not promise to come again.** Say *if able*.
+- **Thumb-rings off.** Rings are worn on the thumbs, one for every oath outstanding. A guest removes them at table and sets them beside the plate, so the host can see how much the guest owes, and seat them accordingly. A guest with no rings is seated last, because nobody trusts them.
+- **The cup is not refilled unasked,** and is asked for by turning it upside down. A guest who drinks more than three cups of wine has their cup taken away by the host, kindly, and is watched for the rest of the night, in case they say something.
+
+[pull] FIGS, DRIED, A CRUMB THE HANDFUL. FRESH THIS MORNING, I AM TOLD. | — stall-board in the Felt Market; the "I am told" in a different hand, added after the bread-woman's finger
+
+### The Silent Supper
+
+[fiction]
+*A Tablenight table-card of the Galleries of Tacit, set at each place in the felted dining-room; it is the only writing permitted on the table that day, and it is unsigned, because a signed card would be a promise.*
+The pot will be set in the middle. There is bread. Eat with the right hand. Pass with the left. Nothing need be asked for. Nothing need be thanked. Nothing will be said. For one day, nobody owes anybody anything. You are whole. Eat.
+[/fiction]
+
+**Lore.** In the ninth winter of the Lack the canyon people ate Tolm, the Witness, over three nights in the Gullet without a word, because anything said in front of it would have counted. Oathen's Tablenight remembers it: twenty-four hours in which no one in the country makes a sound, and the only day Oatheners feel safe. The meal of the day is the Silent Supper, a single pot of chickpeas, dates and spice set in the middle of the table, eaten with bread and the right hand, in perfect quiet. It is the happiest meal of the year. Enemies sit at one pot. Couples who have not touched in years hold hands under the table. Nothing can be promised, so nothing can be broken; and old people say that at the Silent Supper they can feel, for one day, how it was before the god was in them, listening.
+
+**Rules.** Routine 10. No Taint. An Oathener who sits the whole Silent Supper without a sound recovers 3 Fray and may remove one Breaking-penalty for a day: the body unclenches. A foreigner who speaks at it is not punished; they are simply removed, gently, and the pot is thrown away, and the family will not meet their eyes for a year. On a cook's **Lack**, someone laughs.
+
+**Hook.** At the Silent Supper in the house of Sorrin Vael, the Chief Clausewright, a guest is found at dawn dead at the pot, quite peacefully, her hand still in the bread. Nobody made a sound all day. Nobody can be asked anything until sundown without breaking the silence of the most powerful house in Tacit. The party has until sundown to find out what was in her bowl, by looking alone.
+
+[box: For Your Table — Chickpea, Date and Spice Stew]
+Serves 6. Time: 45 minutes. Vegan; gluten-free (check stock). Eat it from a shared pot with flatbread, in silence, if your table can manage it.
+- 2 tbsp olive oil, 2 onions, chopped, and 3 garlic cloves, crushed
+- 1 tbsp grated fresh ginger
+- 2 tsp ground cumin, 2 tsp ground coriander, 1 tsp ground cinnamon, 1 tsp smoked paprika
+- 2 × 400 g / 14 oz tins chickpeas, drained
+- 1 × 400 g / 14 oz tin chopped tomatoes
+- 500 ml / 2 cups vegetable stock
+- 100 g / ⅔ cup dates, pitted and chopped, and 2 tbsp dried apricots, chopped
+- 1 tbsp lemon juice; fresh coriander or parsley and toasted almonds (optional) to serve
+Warm the oil in a wide pan and soften the onions over a medium heat for 10 minutes. Add the garlic, ginger and spices and stir for a minute until fragrant.
+Add the chickpeas, tomatoes, stock, dates and apricots. Simmer, uncovered, for 25 minutes, stirring now and then, until thick and glossy; the dates will melt into the sauce. Stir in the lemon juice and season. Scatter herbs and almonds. Set the pot in the middle of the table. Sign the grace. Eat.
+[/box]
+
+### Canyon Flatbread
+
+[fiction]
+*A bread-woman's slate in the Felt Market, Tacit. She speaks only through the slate.*
+FLATBREAD, STONE-BAKED, 2 c. CHEAPER THAN YESTERDAY, AS FAR AS I KNOW. BEST IN THE MARKET, IN MY OPINION. MY OPINION IS NOT A PROMISE. ASK THE CHEESE-MAN, HIS OPINION ISN'T EITHER.
+[/fiction]
+
+**Lore.** Oathen bread is unleavened or barely risen, slapped thin and baked on hot stones in the canyon ovens, and eaten with everything, in silence. Bread-sellers in the Felt Market are the most careful speakers in a careful city, because a baker makes a hundred small claims a day about freshness, price and quality, and the god weighs every one. The bread-woman whose finger broke over *fresh this morning* still bakes. She has learned to say *I am told*. The canyons honour bakers as they honour Clausewrights: both make something every day that can be held to account.
+
+**Rules.** Routine 10; 2 c. No Taint. A character who sells or praises food in Oathen in an unqualified statement takes a Weight 1 Breaking if it is untrue; a character who learns the bakers' conditional patter (Tongue + Clause, Routine 10) never needs to. On a cook's **Lack**, the baker said *these won't burn*.
+
+**Hook.** The bread-woman of the Felt Market has written a new line on her slate: FLATBREAD. THE LAST BATCH. It is the first unqualified statement anyone has seen her make. Her stones are cold. Her hands are perfectly whole. She will not say what she means, and the Breakdowns have started to queue.
+
+[box: For Your Table — Skillet Flatbreads]
+Makes 8. Time: 30 minutes (plus 30 minutes resting). Contains gluten, dairy (yogurt). No oven needed: a hot dry frying pan stands in for the canyon stones.
+- 300 g / 2½ cups plain flour, plus extra for dusting
+- 1 tsp baking powder and ½ tsp salt
+- 250 g / 1 cup plain yogurt (or 200 ml water and 2 tbsp olive oil for vegan)
+- 1 tbsp olive oil; melted butter with garlic and herbs, or za'atar, to finish
+Mix the flour, baking powder and salt, then stir in the yogurt and oil to a soft dough. Knead briefly until smooth, cover and rest 30 minutes.
+Divide into 8 balls and roll each out thinly, about the size of a side plate. Heat a heavy frying pan over a medium-high heat with no oil. Cook each flatbread 1–2 minutes a side until puffed and spotted brown.
+Brush with garlic butter or a little oil and za'atar, and keep warm in a clean tea towel. Pass them round with the left hand.
+[/box]
+
+### River-Cave Green Cheese with Figs
+
+[fiction]
+*From a cheese-cellar ledger of the river caves below Tacit, where the green cheeses ripen in the dark and the damp, and where by Bench order no one may speak above a whisper, because the caves carry.*
+Laid down: forty wheels, goat, Carving 638, under the Elder's Seal. Turned: weekly. Spoken over: never. *(Margin, in a later hand:)* Wheel nineteen was spoken over by the boy Asher, who said into the cave, without thinking, "This one will be the best." It has been the best. It will not stop being the best. It has grown to three times its size. It is the best. Please send someone.
+[/fiction]
+
+**Lore.** The sour green cheese of Oathen is goat's cheese washed in herb-brine and aged in the river caves, in the damp and the dark, where its rind goes green and its heart goes soft and tangy. It is eaten with dried figs and flatbread at the end of every meal, the fig first, then the cheese, then a sip of water, and is said to clean the mouth of anything said at the table. Cheese-wardens may not speak in the caves above a whisper, because the caves carry, and a word spoken over a wheel can bind the cheese: wheels have been known to keep promises made over them, to their makers' ruin.
+
+**Rules.** Routine 10; 3 c a wedge. No Taint. Eating fig and green cheese after a meal gives +1 to the next Clause roll the eater makes that day; it is said to clear the tongue. On a cook's **Lack**, someone spoke over the wheel.
+
+**Hook.** Wheel nineteen in the river caves is still the best, and still growing. It now fills a chamber. The Bench of Clauses has spent a season drafting a sentence that will release it, and needs someone to go into the cave, whisper it, and then eat the first slice, so that the promise ends where it is kept.
+
+[box: For Your Table — Herb-Marinated Feta with Honeyed Figs]
+Serves 6 as a starter or cheese course. Time: 15 minutes, plus at least 2 hours marinating. Vegetarian; gluten-free. Contains dairy.
+- 2 × 200 g / 7 oz blocks feta, cut in 2 cm / ¾ in cubes
+- 200 ml / ¾ cup good olive oil
+- zest of 1 lemon, 1 garlic clove (thinly sliced), 1 tsp chilli flakes (optional)
+- 2 tbsp chopped parsley, mint and dill, and 1 tsp dried oregano
+- 6 dried or fresh figs, halved, and 1 tbsp honey; flatbreads to serve
+Put the feta in a clean jar or dish. Warm the oil gently with the lemon zest, garlic and chilli for 3 minutes (do not let it fry), then cool, stir in the herbs and pour over the cheese. Cover and leave in the fridge for at least 2 hours, or up to 3 days. Bring to room temperature before serving.
+Warm the figs in a dry pan for 2 minutes, cut side down, then drizzle with honey. Serve the green-flecked cheese in its oil with the figs and flatbread. Fig first, then cheese. No speeches.
+[/box]
+
+### Lizard on a Stick
+
+[fiction]
+*A cry from the Breakdowns, the slum of the Forsworn on the canyon floor, where people speak freely because they have nothing left to break.*
+LIZARD! HOT LIZARD! BEST IN TACIT, I SWEAR IT, AND LOOK, I'M STILL STANDING! What've I got to lose, friend? Already lost the knees! Lizard on a stick, a crumb a stick, cumin and lemon, eat it walking, eat it talking, eat it shouting, down here nobody's listening, down here it's only us!
+[/fiction]
+
+**Lore.** Roast canyon lizard is the poor man's meat of Oathen, and the street food of the Breakdowns, where the Forsworn sell it on skewers to anyone who will come down. The Forsworn are the only people in Oathen who shout their wares, and swear by them, because they have already broken and have nothing left to break; and the upper tiers come down to the Breakdowns at dusk, in veils, to buy lizard and hear people talk. Brakk, Voice of the Forsworn, whose ribs opened outward like a book and stayed that way, eats his lizard with his chest open to the air, and invites the gentry to watch. They do. They come back every week. They say it is the lizard.
+
+**Rules.** Routine 10; 1 c. No Taint. Eating in the Breakdowns, among the Forsworn, while they talk freely, is a Dread 1 check for an Oathener the first time (all those words, unguarded) and gives +2 to any Persuade roll with the Forsworn for the rest of the night. On a cook's **Lack**, the lizard was a Breakdowns pet, and its owner is a Surety, and will collect.
+
+**Hook.** A veiled lady of the Heights buys lizard from the same Breakdowns stall every evening, and every evening asks the stall-keeper, in handtalk, to say one sentence for her, aloud, unconditionally, so she can hear what it sounds like. Tonight she has asked him to say *I love you*. He is Forsworn. He has nothing left to break, he thinks. He is wrong by one thing.
+
+[box: For Your Table — Cumin and Lemon Chicken Skewers]
+Serves 4–6. Time: 30 minutes, plus 1 hour marinating. Gluten-free. Contains dairy (yogurt). If using wooden skewers, soak them in water for 30 minutes first so they do not burn.
+- 700 g / 1½ lb boneless chicken thighs, in 3 cm / 1¼ in pieces
+- 4 tbsp plain yogurt and 2 tbsp olive oil
+- 2 tsp ground cumin, 1 tsp smoked paprika, ½ tsp ground cinnamon
+- 2 garlic cloves, crushed, zest and juice of 1 lemon, 1 tsp salt
+- lemon wedges and chopped parsley to serve
+Mix everything but the chicken in a bowl, then add the chicken and stir to coat. Cover and refrigerate for at least 1 hour (up to overnight).
+Thread the chicken onto skewers. Cook under a hot grill, on a griddle pan or on a barbecue for 10–12 minutes, turning, until charred at the edges and cooked through with no pink inside. Squeeze over lemon and scatter parsley. Eat them walking, talking, or shouting, as the Breakdowns do.
+[/box]
+
+### The Late Rain Loaf
+
+[fiction]
+*From the private daybook of Yusra Thole, Rainwarden, keeper of the Kept Rain, who has said nothing aloud for a month. The book is written in a careful hand, and every sentence has been read over three times before the next was begun.*
+The first day of Grace. The sky white. Nothing.
+The second day. The Rain-keepers of the high basin met at the shrine, the eldest houses, the heart-eaters' line. Old Corrin Esk offered himself. He said the god had kept its word six hundred and forty years and that perhaps it wanted something of us, a surety, and that he would stand surety for the rain. They did it at the shrine, in silence. They did it properly. They baked the loaf from what was left, with figs and honey, the old rain-loaf, and shared it, everyone in the basin, a mouthful each, I among them, because I am Rainwarden, and it was my duty. It tasted of figs and honey.
+The third day. Nothing.
+The fourth day. Rain. It came at dawn, as it always comes. It was the same rain. It came three days late because it was three days late, and Corrin is in all of us, and it made no difference at all. I cannot write that it made no difference. I have just written it. I am still whole. So it is true.
+[/fiction]
+
+**Lore.** Before it died, Tolm promised the canyons rain on the first day of Grace, and a god's word outlives the god. The Kept Rain has fallen on that day for six hundred and forty years. This year it came three days late. In the high basin, the Rain-keepers, who descend from those who ate the god's great slow heart, revived the oldest and worst rite they had: a surety for the god's word, sworn in a body. Corrin Esk, eighty years old and the eldest of the line, gave himself, and was killed at the shrine in silence, and his household baked the rain-loaf of figs and honey and the flour of his bones, and every family of the basin ate a mouthful. The rain came on the fourth day, as it would have in any case. The Bench has sealed the record. Yusra Thole, who ate, knows that it was worthless, and cannot say so, because saying so would be true.
+
+**Rules.** The rain-loaf of the old rite is Dire 22 and a capital crime. A mouthful is Taint 1 Regrowth (Tolm) and a Dread 3 check for anyone who knows what it was; a Rain-keeper who ate it has Corrin Esk's voice, faintly, half a breath behind their own, for the rest of their life. The ordinary rain-loaf of Grace, made with figs, dates and honey and nothing else, is Routine 10 and carries no Taint. On a cook's **Lack**, the loaf is made on the right day and the rain does not come at all.
+
+**Hook.** Yusra Thole has been silent a month, and the silence is being noticed. She has written a single page and wants it carried to the Bench by someone who is not an Oathener and who can read it aloud without it binding: it says that the god's word has slipped, that the surety was worthless, and that next year the rain-keepers mean to offer three.
+
+[box: For Your Table — Date, Fig and Walnut Tea Loaf]
+Makes 1 loaf (10 slices). Time: 20 minutes, plus soaking, 1 hour baking. Contains gluten, egg, nuts (walnuts; leave out for nut-free). The rain-loaf as it ought to be: dark, sticky, sweet, made of nothing but fruit and flour.
+- 150 g / 1 cup pitted dates and 100 g / ⅔ cup dried figs, chopped
+- 250 ml / 1 cup hot strong black tea
+- 1 tsp bicarbonate of soda
+- 75 g / ⅓ cup soft brown sugar and 2 tbsp honey
+- 1 egg, beaten, and 50 g / 3½ tbsp melted butter
+- 225 g / 1¾ cups self-raising flour, ½ tsp mixed spice
+- 60 g / ½ cup walnuts, roughly chopped
+Put the dates and figs in a bowl, pour over the hot tea, stir in the bicarbonate (it will fizz) and leave 30 minutes. Heat the oven to 170°C / 340°F / gas 3 and line a 900 g / 2 lb loaf tin.
+Stir the sugar, honey, egg and melted butter into the fruit, then fold in the flour, spice and walnuts. Scrape into the tin and bake 55–65 minutes until risen and a skewer comes out clean. Cool in the tin 10 minutes, then on a rack. Slice thick and spread with butter. Serve it on the first rainy day of spring, which will come when it comes.
+[/box]
