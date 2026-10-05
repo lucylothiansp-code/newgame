@@ -60,7 +60,7 @@ Table-speech has two words for *guest*. The common one is used at every inn and 
 
 The Host's own name, Orrum, is the same root without the stroke: the one who serves the worship; the one who lays the meal. The two words have always sat beside each other in the language like two chairs at one table, and the Table has spent six centuries not noticing.
 
-The word is not a spell. Saying it does nothing a Guest can measure. But a god in hiding listens for exactly one sound, and this is it. When it is said aloud in full by someone who understands it, every Seating within earshot flinches; every godsigned character who hears it gains 1 Hunger; and something very far away, which has been walking toward the Table for forty years, does not change its pace, because it never needed to be called.
+The word is not a spell. Saying it does nothing a character can measure. But a god in hiding listens for exactly one sound, and this is it. When it is said aloud in full by someone who understands it, every Seating within earshot flinches; every godsigned character who hears it gains 1 Hunger; and something very far away, which has been walking toward the Table for forty years, does not change its pace, because it never needed to be called.
 
 [pull] There is one word in the language with no plural. Every child who asks why is told to eat their supper. | — a Rim Road schoolmistress
 
@@ -225,9 +225,7 @@ That is why, in every land's chronicle, the first speaker is a mother. *They hav
 
 ### Night One: The Plains, and the Hooks
 
-Ummer came in off the stubble on the last evening of Carving and lay down on the threshing floor at Brawn Tilth like an ox that has decided. Nobody waited for a first cut. Faces went into its side before the knives came out; the skin broke like crust; the fat under it was a hand deep and yellow and warm as a body; the meat beneath bled gravy that ran between the floor-stones and steamed. A thousand people were inside it to the shoulder by the second hour. When the Gut-lines opened the belly, the threshing floor went knee-deep in grain in a heartbeat, hot, smelling of summer, full of small white things like teeth.
-
-It was first because it was the largest and the easiest and the most loved. Orrum knew the plains would not hesitate. A starving people that has ridden its god as children does not need to be told twice. By dawn there was grease, grain and sleepers on the threshing floor, and Ummer was gone into ten thousand bellies so fast that the Guest, at Hallowboard, did not look up from its empty plate. The first dish vanished between one breath and the next.
+Ummer lay down on the threshing floor at Brawn Tilth on the last evening of Carving, and faces went into its side before the knives came out: crust-skin, a hand's depth of warm yellow fat, meat that bled steaming gravy between the floor-stones, a belly that opened in a hot wave of grain full of small white things like teeth. It was first because it was the largest and the most loved, and Orrum knew the plains would not hesitate. By dawn Ummer was gone into ten thousand bellies so fast that the Guest, at Hallowboard, did not look up from its empty plate.
 
 The same night, on the coast, every boat that would float rowed out over the deep place with ten thousand hooks.
 
@@ -239,21 +237,17 @@ Oathen has no date for its Supper because no one said a date aloud. The canyon p
 
 ### Nights One to Seven: Longslab
 
-Dromm would not lie down; the Fathom had to be fetched. The hauling took three days. Hands opened to the bone on the singing ropes and were wrapped in sailcloth and hauled again; the water thickened around the god until oars stuck in it; ears bled in threads down every jaw on the boats. It came onto the shingle on the evening of the third night, slick and grey and rippling, breathing like surf turned inside out, and every breath pulled the tide a little further out from under the boats. The Lung-lines cut in under the ribs and ate the lungs standing chest-deep in the cold water that poured from them. A girl put her whole head inside a lobe to drink and came out saying the sea was talking. It was. It was talking to the Guest.
+Dromm had to be fetched: three days of hauling on singing ropes, hands opened to the bone and wrapped in sailcloth, ears bleeding in threads down every jaw. It came onto the shingle on the third evening, and the Lung-lines ate its chapel-sized lungs standing chest-deep in the cold water that poured from them. A girl put her head inside a lobe to drink and came out saying the sea was talking. It was. It was talking to the Guest.
 
 This was the only course that Orrum's plan could not hide quickly. Dromm took four nights to stop moving, and while it moved, the sea it had kept under felt what was happening and pulled tight around the Table like a cloth gathered in a fist. The Guest felt the cloth move. It did not yet understand why. When Dromm finally died, on the seventh night, every person on the coast woke at the same moment coughing salt water, and thought it was grief. It was the god, hiding in their lungs, holding its breath.
 
 ### Night Four: Ludmere
 
-The mothers sang. A thousand women in stocking feet, knives wrapped in wool, lullabies low and steady, so the god would go on sleeping while it was opened. Iss's blood came out warm and slow and smelled of linen and milk and the hollow of a lover's neck, and everyone who drank it yawned and had to be slapped awake to go on eating. The Eye-lines climbed the face with ropes and cut the closed eyes out whole, and sliced the lids like bread, and said after that they were like cream.
-
-Iss never woke, and that was the plan: a sleeping god is quieter. But the god dreamed while it was eaten, and some of those who dozed against its cooling side dreamed with it, of a long dim room with a single enormous closed eye in the far wall. That room is where Iss went to hide. It is the room the Counted go to now. And the Guest, at Hallowboard, for the first time, turned its face a little toward the north, as a diner turns toward a smell from a kitchen it cannot see.
+The mothers sang lullabies, low and steady, so the god would sleep while it was opened. Its blood smelled of linen and milk, and the Eye-lines sliced its shut lids like bread and said they were like cream. Iss never woke, and that was the plan: a sleeping god is quieter. But the god dreamed while it was eaten, and some of those who dozed against its cooling side dreamed with it, of a long dim room with a single enormous closed eye in the far wall. That room is where Iss went to hide. It is the room the Counted go to now. And the Guest, at Hallowboard, for the first time, turned its face a little toward the north, as a diner turns toward a smell from a kitchen it cannot see.
 
 ### Night Five: The Red Hills
 
-Vey would not stay dead. Seven times the Caul-wives killed it on the round hill above Kest, and seven times the wound became a mouth and drew breath and the god slid out again, smaller and wet and new. They ate as they killed, faster and faster, the women holding the openings shut with their palms while the men cut, the openings pushing back like a child's head. The meat was hot and sweet and tasted of iron and new milk, and every eater clenched in the belly with a pain like a door being tried from the other side. The seventh time it was the size of a hand, and Harrow Bede, who had buried nine in the Lack, swallowed it whole and held her own jaw shut until it stopped moving, and then sat down in the clay and laughed until she was sick.
-
-Vey was the god of doors. Before the last swallowing it did the one thing a god of doors could do to save itself later: it left a door. When the Caul-lines walked down the hill in the morning with the caul wet on their faces, there was a door standing in a frame on the empty hilltop, open a crack. Nobody had brought it there. At Hallowboard, the Guest, which had counted five dishes vanish in five nights, half rose from its chair.
+Seven times the Caul-wives killed Vey, and seven times the wound became a mouth and the god slid out again, smaller and wet and new, while women held its openings shut with their palms and felt them push back like a child's head. The seventh time it was the size of a hand, and Harrow Bede swallowed it whole and held her own jaw shut until it stopped moving. Vey was the god of doors. Before the last swallowing it did the one thing a god of doors could do to save itself later: it left a door. When the Caul-lines walked down the hill in the morning with the caul wet on their faces, there was a door standing in a frame on the empty hilltop, open a crack. Nobody had brought it there. At Hallowboard, the Guest, which had counted five dishes vanish in five nights, half rose from its chair.
 
 ### Nights Six to Nine: The Fens
 
@@ -435,3 +429,139 @@ Born this day, of the Widow Ancel, at Rudge: a girl, whole, named in a year if s
 [box: Using the Documents]
 Hand over one document per story, never two at once. Let the players hold the paper. Do not confirm their readings, and do not deny them; have an NPC offer a wrong interpretation with confidence. If the players assemble three of these with the Eight Chairs clues, they have most of the default truth. That is a Dread 4 moment and should be played as one: not a revelation, but a draft through the room.
 [/box]
+
+## The Alternate Truths
+
+The default truth is the Guest. A Carver may prefer a world in which one of the Three Doctrines is simply correct. Each of the following replaces the default answers in full. Clues already planted in the other chapters (the chiseled figure, the eighth chair, the seating plan, the smiling god, the seabed table, the whispered word, the ninth card) still work; they only point somewhere else. Each truth also re-reads the Night of Seven Tables, and points toward one of the endings in How the Grace Ends.
+
+### The Theft: The Bill
+
+*We murdered them. The Regrowth is justice, and we deserve it.*
+
+**The Eighth.** The Eighth was the god of increase: not harvest, which was Ummer's, but *more*, the simple fact that there could be more tomorrow than today. It lived among all the peoples, invisibly, as the surplus in every granary. In the generation before the Lack, in an age of fat and pride, the peoples found it, and caught it, and ate it, a little in every land, in secret, to have more than their neighbors. It was the first Gorging, and nobody ever spoke of it. The chisel marks dated before the Gorging are the guilt of the first eaters, cutting their victim out of every carving.
+
+**The Lack.** The Lack was simply the world without increase. Nothing began because the god of beginning-again was in the peoples' bellies. The Providers starved because there was no longer any more of anything.
+
+**Why the Providers held still.** Each was bound by its own nature, and could not resist without ceasing to be itself. Ossel could not refuse an ending. Ummer could not refuse to feed. Dromm held still because it was the god of keeping things down. Iss could not wake. Vey could not refuse to begin again. Tolm heard the peoples' silence and could not make it untrue. They held still in grief and contempt, and they let themselves be eaten so that the peoples would carry, in their blood, a debt that could be collected.
+
+**The Night, re-read.** There was no plan, only a pattern: each people ate its god in the order its guilt ripened, the plains first because they had eaten the most of the Eighth and the fen last because they had eaten the least and were the most ashamed to begin. The thing on the fen bank, in Peat's account, is the Eighth's ghost, a hollow where *more* used to be, come to watch its murderers commit the same crime again. The heartland never ate the Eighth either; it was late to that meal too, which is the only reason Orrum would not lie down for them.
+
+**The Regrowth.** It is the bill. The gods are growing back to take what is owed, with six centuries of interest, and the Seatings are the gods standing up in their courtroom. **Orrum** lays its tables as an accusation: every table has a place for the Eighth, the first one eaten, the one that was never mourned, and the Seated are those who have accepted their sentence. **Peat's smiling god** was smiling the way a creditor smiles. **Garrity's seating plan** is a list of debts, and the scraped word beside the eighth side is the name of the first victim. **The seabed table** is where the Eighth was eaten. **The whispered word** is the Eighth's name, and the shelved dead of Sallowreach are confessing. **The Second Table's meal** would be a second murder with the bailiff already in the room, and the gods would rise in each diner at once.
+
+**The ending it points to.** The Last Seating: the gods come back and collect.
+
+[pull] It is a bill. It is the only honest thing that has happened to this family in six hundred years. Pay it. | — Confessor Abel Rennick, at the Weeping Post
+
+**How this changes play.** The Theft is a world of guilt. Nothing that happens is unfair. Characters who seek to escape the Regrowth are bilking a creditor, and the creditor is in their blood. Atonement is possible in small ways; it does not reduce the bill. Run it with a ledger always in view: every land's horror is a payment, and the characters may choose whose.
+
+### The Gift: The Love That Does Not Fit
+
+*They offered themselves out of love. The Regrowth is a tragedy neither side wanted.*
+
+**The Eighth.** The Eighth was the god of the shared table itself, the bond between the peoples: the stranger whose arrival makes a meal a feast, the reason anyone sets an extra place. It was old and tired, and when the Lack came (a natural disaster, a winter of the world, no one's fault) it was the first to give itself. It lay down and asked the other seven to eat it, so that they could go on feeding their peoples a little longer. They did. The Long Lack's middle years, when the gods grew thin but did not die, were the years they lived on it. The peoples, in grief and incomprehension, chiseled its figure out of every carving, because they could not bear to look at the place where it had been.
+
+**Why the Providers held still.** Love, as the Thankers say. When the Eighth was gone and the Lack went on, the seven did what it had done, and gave themselves.
+
+**The Night, re-read.** The seating plan is real, and it is Orrum's, and it is a list of who would be fed first: the hungriest people to the most nourishing god, the plains to Ummer, the frightened to the gentlest. The figure on the fen bank was the Eighth's memory, an empty place that the gods could still see, keeping them company while they died. Ossel smiled at it as you smile at an old friend across a sickroom. The heartland came on the tenth day and Orrum got up because it could not bear, at the last, to leave the world with no host at all.
+
+**The Regrowth.** It is the gods dying a second time, slowly, inside their peoples, because love that large does not fit in a body. It hurts them as it hurts their hosts. The Seatings are the gods trying, with their last strength, to give again: Ossel offering endings, Iss offering rest, Vey offering new beginnings, all of it too much, all of it ruinous. **Orrum** is the only one that was not allowed to give itself; its tables are the gift the Unfed refused, still being offered, and the Seated are happy because they accepted. **Peat's smiling god** smiled because it loved the boy at the back and was glad he had not eaten. **Garrity's plan** is a list of who would be fed first. **The seabed table** is where the Eighth gave itself to the seven; its chair is pulled out in memory. **The whispered word** is a thank-you the dead are trying to finish. **The Second Table's meal** would be accepted, gladly, by gods who cannot refuse to give, and would kill the diners with kindness in a single night.
+
+**The ending it points to.** The Long Table: everyone, at last, accepts.
+
+[pull] They lay down and put themselves on our plates and said, eat, we are not hungry. | — Thanker Maudlin Ashe, to children at Lampwick Halt
+
+**How this changes play.** The Gift is a world without villains, which is worse. Every horror is an act of love, and every act of love is a horror. There is nothing to fight. There is only grief, and the knowledge that the gods would stop if they could. Run it gently and let it break the players' hearts: the Hush is a hand closing a child's eyes, very tenderly, on a whole village.
+
+### The Bait: The Brood
+
+*They wanted to be eaten. The Lack was theirs.*
+
+**The Eighth.** The Eighth was the parent. The seven Providers were its brood, and the eighth place in the carvings was the mother's place, at the head of the table, and the peoples cut it out because the brood, in their blood, told them to. The Eighth died long before the Gorging, or went away, as such things do when their young are grown.
+
+**The Lack.** The Lack was the Providers' doing, exactly as the Baiters preach. They withheld the world's increase, together, for nine years, to bring their peoples to the edge of starvation, because a god cannot breed on its own. It must be eaten. The Eldest Walk was useless because the gods did not want people. They wanted to be wanted.
+
+**Why the Providers held still.** A seed does not fight the ground.
+
+**The Night, re-read.** The seating plan is a planting chart, and Orrum drew it, and the order is the order of sowing: the warmest soil first, the coldest last. The figure on the fen bank was nothing at all, only the empty place where the parent should have sat, and Ossel smiled at it the way a child smiles at a chair where its mother used to be, on the day it leaves home. The heartland came too late to be sown; the season had turned. Orrum, the one god of seven that failed to breed, has been desperate for six centuries to be eaten by someone, anyone, before its own season ends for good.
+
+**The Regrowth.** It is a hatching. Every High Cut body is an egg, and each will open, not into one god but into thousands, one per noble vessel, a brood of godlings for every land. The Seatings are the first hatchlings, and they are hungry, and their first meal will be the peoples that carried them. **Orrum's** tables are invitations; eventually, the courses on them will include the Host. **Peat's smiling god** smiled the way a parent smiles at a christening. **Garrity's plan** is a planting chart, and the scraped word is *mother*. **The seabed table** is the nursery of the last brood, which hatched and ate its world and left only that. **The whispered word** is the hatchlings calling to one another through the walls of the dead. **The Second Table's meal** would be a second sowing: the gods, eaten again by a few, would breed again in those few, and the next generation of gods would be born from the bodies of the Table's nobility, in their beds, all at once.
+
+**The ending it points to.** The Last Seating, as a hatching; or, if the Second Table eats, the Unhosting as a brood eating its nursery.
+
+[pull] You are a furrow, friend. We all are. And the harvest is due. | — an anonymous Baiter at Saltlick Cross, shortly before being drowned by a crowd
+
+**How this changes play.** The Bait is a world of parasitism, and its horror is biological. Everyone is incubating something. The doctrine's joyous cults are right, and the Second Helping's feasts are the most honest thing on the Table. Run it as body horror at the scale of nations: the College's graph is a gestation chart, and the due date is close.
+
+### Mixing the Truths
+
+Some Carvers will want to leave the answer genuinely open. If so, choose no truth, and let every clue support at least two readings. Peat's smile can be a hunted thing's, a creditor's, a lover's or a parent's. The slate's scraped word can be *guest*, *victim*, *friend* or *mother*. Let the factions argue it. Let the players argue it. On the last night, whatever comes down the road to Hallowboard can be described in only three details, one of them a smell, and none of them a face.
+
+## How the Grace Ends
+
+These are five endings for the world, built as campaign finales. Each can be reached through the threads in the Threads chapter; each has signs, a last act, and a final image. None of them offers real rescue. Characters can choose where to stand, whom to hold, what to say, and how much of the world goes down with dignity; they cannot stop the meal. Choose one in advance or let the campaign's threads decide. The Long Grace is a grace. When it ends, someone eats.
+
+### The Guest Sits Down
+
+*The default ending.*
+
+**Signs.** The eighth chair at every Rim inn, turned to the wall on Tablenight, is found turned to face the table in the morning, and cannot be turned back. Hunger rises in every godsigned character by 1 each week, with no Partaking. Seed begins to rot unsprouted again in the Fast's border villages, then in the Fatlands' outer fields. Three Seatings complete within a season: a Hush swallows Lastgate's eastern quarter, the Dormitory's last bed is filled, the Dilation opens. Welcome Ardent asks to be relieved and nobody answers.
+
+**The last act.** On Tablenight, every table on the Table is laid at once, in every house, by no one. Every chair has a card but one. The grace is said everywhere, and for the first time in ten thousand years it does not work. The Guest arrives at Hallowboard and sits. Orrum, weeping, begins to serve. The gods are brought in from their lands one by one, and each land goes with its god: Sallowreach closed like a book, the Vigil asleep forever, the highlands born and swallowed, the coast dried to the bone, the plains eaten like a cut of meat, the canyons silenced mid-word.
+
+**What the characters can do.** Choose a table. Characters who accept a place at one of Orrum's tables are Seated, sheltered, and will waste forever, smiling, in a world being eaten around them. Characters who refuse can spend the last night doing whatever matters most to them before their land's god is carried in. A character with a high Cut can try to keep their portion of the god from being gathered, and hold the Guest's attention on themselves for one hour, which is long enough for someone they love to reach Orrum's table.
+
+**The last image.** The Long Lack, again, everywhere, for nine years in a single night. At dawn there is nothing left on the Table but the Fast, which is full of tables, and at every table a person, eating air, praising the food, and the Host walking among them, refilling glasses that are already full.
+
+[pull] Every chair has a card but one. | — the signs of the last Tablenight
+
+### The Last Seating
+
+*The gods come back.*
+
+**Signs.** The Seatings accelerate past any curve the College has drawn. Nobody needs the Guest for this ending; it may come or not, later, it does not matter. The gods simply finish regrowing first. Every godsigned character's Regrowth rises by 1 each season.
+
+**The last act.** Six gods stand up out of six lands in the same year. Ossel lies in a fen that is one silent Hush, and the Kept finish all at once, and the silence spreads south. Ummer rises out of the Fatlands, a living country on legs, with its people still growing on its back, and begins to walk. Dromm comes up out of the Trench with the sea inside it, and the Tenanted turn toward it as one. Iss opens its eye in the long room and every sleeper in the Dormitory sits up together. Vey is born out of the highlands. Tolm speaks through every Sayer at once. They have been in the dark for six hundred and forty-one years, cut up and swallowed and digested and held, and they remember exactly who ate them.
+
+**What the characters can do.** Bargain, briefly, with a god that is only half itself and very hungry. Try to reach the Fast, the one land with no god to come home to. Stand between a god and its people and be the first thing it notices.
+
+**The last image.** The gods walking the Rim Road, slowly, in the way they used to walk among their peoples, and the peoples of the Table lying in rows at their feet, as the eldest once lay, and this time the gods take them.
+
+### It Is Fixed
+
+*The Sayer's Sentence, spoken.*
+
+**Signs.** The Sayer's Sentence thread reaches its fourth stage. The Bench has drafted, every land has bid, and the text runs to four hundred conditions. Its first and last line, the only one that matters, reads: *It is fixed.*
+
+**The last act.** Lady Imre Dath's golden bit is removed in the Gilded Cells before the Bench, the envoys and the Mute King. She says it. What a Sayer says, is. Every Regrowth on the Table stops, at once, exactly where it stands. So does everything else. *Fixed* in Table-speech means mended, and it also means set fast, and Tolm has always taken words at their plainest. Nothing on the Table can change from that moment. The Kept do not rot further. The hungry are not fed. The sleepers do not wake and the waking do not sleep. Labor in Cradlewrack stops between one pang and the next and does not resume. The sea stands where it is. The rain will not come, and will not fail to come. Characters stop between one breath and the next.
+
+**What the characters can do.** If a character is in the room, they get the time it takes for the sentence to leave her mouth: a single action, chosen before the first word. They might reach a hand toward someone. They might close their eyes. Whatever they choose, they will be doing it forever.
+
+**The last image.** The whole Table as a still life, a painted meal: every person exactly as they were, aware, unable to blink, under a sun that does not move. And at Hallowboard, a Host frozen mid-stoop over a table it was laying, one hand on the back of the eighth chair, which it had been about to pull out.
+
+[pull] Fixed means mended. Fixed means set fast. The god took it at its plainest. Gods always do. | — Sorrin Vael, in the only unqualified sentence of his life
+
+### The Long Table
+
+*Everyone accepts.*
+
+**Signs.** Orrum's tables spread beyond counting. The Host on the Road thread reaches its fourth stage. The Calling-Cards appear in every land with every name. Pilgrims stream into the Fast. The Fatlands' starving go first, then the Vigil's sleepless, then the Kept, who can sit at Orrum's tables only on the fen side of the Drop and do. The Unfed go last. They hold out for the longest. Then the Abstinent, starving, meet in the Pantry, and Elder Forbear Wend says *Yes, please*, once, and everyone hears it.
+
+**The last act.** There is no last act. There is only sitting down. One by one, then by villages, then by lands, the people of the Table take their places at the Host's tables, where the Guest cannot touch them, and eat from empty plates, and praise the food, and smile, and do not get up. The Guest arrives to a world where every person is someone else's guest and there is nothing it is permitted to eat, and so it sits in its chair at Hallowboard, the only diner at the Table without a plate, and waits. It is very patient. It is hunger.
+
+**What the characters can do.** Sit, or be the last ones standing. A character who refuses to the very end inherits the world: empty fields, empty roads, tables in every house, and somewhere in the middle of it a Guest that is waiting, and is eating the only food the Host is not protecting.
+
+**The last image.** A table nine hundred miles long, around the whole Table, along the Rim, with everyone who ever lived on it seated, wasting, delighted. The grace said and said again, forever, over a meal that never comes. *Lack keep away. Lack keep away.* The Long Grace, kept.
+
+### The Unhosting
+
+*The Second Table eats.*
+
+**Signs.** The Second Table thread reaches its fourth stage. Wont Bellamy's motion passes, or is not needed. On Tablenight the Second Table gathers at Hallowboard with eight knives of grey bone, and the Host lies down on the eight-sided table, as it lay down once before, and looks at them with the look of someone who has heard the door.
+
+**The last act.** They eat Orrum. It does not fight. Diners from every land, every one of them a High Cut, cut and chew and swallow the god of the shared table, and as they do, every hearth on the Table goes out at once, and every table in every house is, suddenly, only furniture. There is no longer any such thing as a host. There is no longer any such thing as a guest, in the old sense, bound by the rules of a house. There is only hunger, and a world with nobody to keep it in its chair. The Guest comes. It does not sit. There is nowhere for it to sit. It eats the Second Table first, as an appetizer, because they are full of gods; then it eats the gods in their lands; then it eats the lands themselves: every field, road, body and season, every beginning, until there is nothing for anything to begin again from.
+
+**What the characters can do.** Be at Hallowboard, and try to stop it, and fail. Take a knife and eat, and be among the first eaten. Or go as far from the middle as the Table allows, to the edge of the sea or the salt, and watch it come.
+
+**The last image.** Not a ruin. Nothing so solid. A plate licked clean, under a Plate licked clean: a round bare place where the Table was, with an eight-sided stone in the middle, wiped spotless, and beside it, pushed in, eight chairs.
+
+[bigquote] We were hungry. Say it plainly. We were hungry, and they were there. And then, one night, so was it. | — the first line of every history written on the Table, and the line the College has added in cipher

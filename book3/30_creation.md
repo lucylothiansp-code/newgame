@@ -901,3 +901,177 @@ Take the starting gear from your Calling and the starting wealth from your Cut, 
 
 Each land expects a little more. A Brinehollower without a bail-bucket and an anchoring rope will drown or walk west within the week; a Vigilant without a day's rouse and a pin-glove will be asleep within two; a Cradlewracker carries needle and thread and a knocker's ring; a Sallowreacher carries perfume or vinegar against the smell of everybody else; an Oathener carries a wax tablet for the things that should not be said aloud. These cost little, and the Carver should make sure every Guest has them.
 
+## Advancement: Portions
+
+At the end of every session, each Guest earns **Portions**:
+- 1 for showing up and playing.
+- 1 for each of the following, if it happened: you learned a secret of the Table; you faced a horror of Dread 3 or higher; you acted on your Last Meal, Oath on the Dead or Who Waits at Home in a way that cost you; you made the table gasp, wince or laugh.
+- 1–3 for completing a goal or surviving a story's end.
+
+A typical session earns 4–7 Portions. Spend them between sessions:
+
+| Improvement | Cost in Portions |
+| Raise a skill by 1 | New rating × 2 |
+| Raise an attribute by 1 (max 5) | New rating × 5 |
+| Gain a Knack | 6 |
+| Raise Standing by 1 | New rating × 3, plus a deed the Calling recognises |
+| Remove 3 Fray | 2 (represents rest, rites, drink, company) |
+| Treat a Derangement (see Fray) | 10, plus months of care |
+
+Cut cannot be bought. It is what you were born with. Regrowth cannot be bought, either: it comes on its own.
+
+[box: Example of Character Creation]
+Maya wants to play a Brinehollow Netwatch officer who has begun to doubt the job. She chooses **Brinehollow** (+1 Lung) and **Common** Cut (Cut 2, Regrowth 1, one Tooth, 40 lacks). She puts her 9 attribute points into Hand 3, Gut 2, Lung 3, Eye 2, Tongue 2, Caul 3, then adds the land bonus: Lung 4.
+She chooses the **Nightwarden** Calling (Instinct, Search and Intimidate +1). With 18 skill points she buys Blades 2, Brawl 2, Athletics 3, Wayfaring 1, Instinct 2 (3 with Calling), Search 2 (3), Intimidate 1 (2), Endure 2, Resolve 3. She rolls on the Brinehollow names table and gets **Ressa Weir**, which she likes enough to keep.
+Her Knacks are **Bail-Lunged** and **Old Grief**. Flesh = 8 + 2 + 2 = 12. Guard = 10 + 4 + 3 = 17. At Regrowth 1 she chooses the Brinehollow Taste Gift *Salt-Sense*, and wakes each morning with salt on her lips. Her Last Meal: smoked herring with her brother on the pier, the night before he was Called. Her Oath on the Dead: *On my brother Ferrin, who walked in: I will never again drag anyone back from the water.* Who Waits at Home: her sister-in-law, Ama, who keeps Ferrin's chain on the bedpost. What she will not do: put a rope on a living person again.
+That oath and that line are going to collide with her job by the second session. That is the point.
+[/box]
+
+## Seven at the Table: Ready-Made Guests
+
+These seven Guests are complete and legal under the rules above, one from each land, each a different Calling and station, built to want different things and to get in each other's way. Use them for a first session, for convention play, or as replacements when a Guest is lost at a bad moment. Three of them appear in *A Night on the Table* at the front of the book. Each player should change at least one thing before play: a name, a Knack, a line they will not cross. A Guest nobody has touched is only a stranger at the inn.
+
+[pull] Seven strangers at one table, and not one of them hungry for the same thing. That's not a party. That's a menu. | — a Rim Road innkeeper, watching the door
+
+### Hessa Coombe — Threader of the Lower Pilings
+
+[stat: Hessa Coombe — Threader of the Lower Pilings]
+Land & Cut: Sallowreach · Cut 2 (common) · Regrowth 1 (the Taste) · Hunger 0
+Age & Calling: 20 · Seamer, Standing 1 (Threader)
+Attributes: Hand 4 · Gut 2 · Lung 2 · Eye 3 · Tongue 2 · Caul 3
+Skills: Stitching 4, Endure 3, Reckoning 2, Lore 2, Search 2, Instinct 2, Rites 2, Resolve 2, Blades 1, Craft 1
+Flesh 13 · Guard 13 · Armor 0 · Fray 0
+Attacks: Seamer's awl +5 (2, Piercing, Silent); knife +5 (2)
+Talent: Tight Seams (+2 Flesh when she treats a wound; one Reseat per session)
+Gifts: Lidsense; the Quiet Hand
+Sop & Tooth: close something meant to stay open. Partaking turns her fingers cold to the second knuckle; when the god bites, her hand clenches shut on whatever it holds.
+Knacks: Butcher's Calm, Steady Hands
+Gear: needle-roll and awls, gut and wire thread, bone saw, vinegar, poppy-water; Seamer's awl; mourning-cloak with vinegar pockets; fen-glow jar; standard kit; 15 lacks
+[/stat]
+
+Hessa grew up in a narrow house on stilts above the black water, with five generations of the dead in the attic and a great-grandfather in the cellar whom nobody visits. She has the Seamer's habit of looking at people as work: where they will tear, how long they will hold. She is precise, dryly funny, never squeamish and always tired, and she talks to the Kept as though they were simply old, which makes them adore her. She has never seen a funeral. She is privately afraid she would like one.
+
+**The Last Meal.** Eel pie and undying cheese at great-great-grandmother Ysolde's spring restitching, the whole house laughing, the Kept at the table pretending to taste. **The Oath on the Dead.** *On my brother Tobin, who walked into Dunmere Hush: I will never let another soul of our street go in after him.* **Who Waits at Home.** Ysolde, Kept and ripening, in her chair by the fire, who asks every evening whether Hessa is home yet and forgets the answer. **What She Will Not Do.** Take a part from anyone, living or Kept, who has not given it.
+
+### Haslet Furrow — Jointer of the Wakes
+
+[stat: Haslet Furrow — Jointer of the Wakes]
+Land & Cut: the Fatlands · Cut 2 (common) · Regrowth 1 (the Taste) · Hunger 0
+Age & Calling: 34 · Renderer, Standing 1 (Spit-Hand)
+Attributes: Hand 3 · Gut 4 · Lung 2 · Eye 2 · Tongue 2 · Caul 3
+Skills: Blades 4, Feast 3, Labor 3, Endure 2, Resolve 2, Brawl 1, Intimidate 1, Stitching 1, Haggle 1, Instinct 1, Rites 1, Athletics 1
+Flesh 14 · Guard 16 · Armor 1 · Fray 0
+Attacks: cleaver +7 (4, Ripping); knife +7 (3)
+Talent: Know the Cut (+1 damage with cleavers and knives, included above)
+Gifts: Iron Belly
+Sop & Tooth: clean the plate. Partaking floods his mouth and growls his belly loud enough for the room; when the god bites, he must eat something within reach before he acts again.
+Knacks: Eats Anything, Gallows Laugh
+Gear: cleavers and knives, rendering hook, salt, an apron that will never be clean; hide coat; tent-coat; a flask of marrow-brandy; standard kit; 17 lacks
+[/stat]
+
+Haslet carves at wakes. He is wide, gentle, sweet-voiced and very good at it, and in Low Tilth the bereaved ask for him by name because he talks to the dead while he works and makes the children laugh. He has done it since he was fourteen. He has never once been full. He left home after his sister's name came up on a Cullmaster's list, and he has been on the Rim Road since, cooking for inns that do not ask, apologising to every joint under his breath, trying not to notice how good everything smells.
+
+**The Last Meal.** His grandfather Abel's wake: Haslet carved, his grandmother said he looked heavy, and for exactly one breath the hunger stopped. **The Oath on the Dead.** *On my sister Petty, who was put on the dusk shift at Low Tilth: I will learn who wrote her name on the list, and I will serve them at their own wake.* **Who Waits at Home.** His grandmother Callow, rooting by the kitchen door, who can still talk and asks for him every evening. **What He Will Not Do.** Eat anyone he knew by name.
+
+### Gannet Lugg — Picker of the Far Mile
+
+[stat: Gannet Lugg — Picker of the Far Mile]
+Land & Cut: Brinehollow · Cut 1 (Scrapling) · Regrowth 0 · Hunger 0
+Age & Calling: 27 · Gleaner, Standing 1 (Picker)
+Attributes: Hand 3 · Gut 2 · Lung 4 · Eye 3 · Tongue 2 · Caul 2
+Skills: Search 4, Filch 3, Craft 3, Athletics 2, Wayfaring 2, Stealth 2, Haggle 2, Endure 1, Brawl 1, Lore 1
+Flesh 11 · Guard 17 (with bucket-shield) · Armor 0 · Fray 0
+Attacks: pry-bar +4 (3, Stunning); knife +3 (2)
+Talent: Something Worth Having (once per session, Eye + Search vs Hard 14 to find something of value)
+Gifts: none yet; at the Taste she will choose Deep Breath or Salt-Sense
+Sop & Tooth: wading in brine facing west. Partaking pops her ears and drops her voice; when the god bites, she coughs up cold water, sand and something small and alive.
+Knacks: Bail-Lunged, Scrap-Born Luck
+Gear: pry-bar, sack, shovel, lantern, gloves; a bucket-shield that is also her bail-bucket; ten fathoms of anchoring rope; an unopened salvage-tin; the name of Mags Weir; standard kit; 7 lacks
+[/stat]
+
+Gannet has picked the Uncovered since she was nine, walking out among upright wrecks and leather weed-forests to bring back what the sea forgot. She is quick, cheerful, light-fingered and shameless, a Scrapling who has never felt the pull and cannot quite believe she never will. She sees lights out on the far seabed at night and has never reported them, because she wants to be the one who gets there first. She bails mid-sentence and does not apologise.
+
+**The Last Meal.** A stolen tin of pre-Turning peaches, eaten inside the ribs of a wreck with her mother, three weeks before her mother was Called. **The Oath on the Dead.** *On my mother Dulse, who walked west: I will go as far out as the water went, and look.* **Who Waits at Home.** Tern, the eleven-year-old next door, who calls her name through the wall every dawn and has not had an answer for a month. **What She Will Not Do.** Cut a sleeping person's anchoring rope, whatever is tied to the end of it.
+
+### Agathe Larch — the Spare with Lids
+
+[stat: Agathe Larch — the Spare with Lids]
+Land & Cut: the Vigil · Cut 3 (Prime, Eye-line) · Regrowth 2 (the Taste) · Hunger 0 · Weariness 2
+Age & Calling: 23 · Scion, Standing 1 (Cadet)
+Attributes: Hand 2 · Gut 2 · Lung 2 · Eye 4 · Tongue 3 · Caul 3
+Skills: Persuade 4, Lore 3, Godsign 3, Search 2, Instinct 2, Resolve 2, Blades 2, Clause 1, Reckoning 1, Athletics 1
+Flesh 10 · Guard 14 · Armor 2 · Fray 2
+Attacks: sword +4 (4, Parrying); Waker's needle +4 (2, Piercing, Waking)
+Talent: The Name (two Teeth, each adding +1 more when she Partakes)
+Gifts: Heavy-Eyed
+Sop & Tooth: the Lull, ten seconds with closed eyes and a held hand. Partaking blows her pupils black and makes the whole room yawn; when the god bites, she gains a Weariness too.
+Knacks: Counting Habit, Hostage's Smile
+Gear: fine clothes, the Larch signet, a grey mare; a letter of introduction to Envoy Castellan Dray; studded coat; sword; ten days of rouse; pin-glove; her nudger Ember Dusk-Bell (Threat 1, Flesh 9); standard kit; 87 lacks
+[/stat]
+
+Agathe was born with eyelids into a lidless house, which in the Larch line is a deformity, and was raised in a back wing with excellent tutors and no visitors. She is clever, beautifully mannered, starved for company and capable of great cruelty when frightened, which is always. She closes her eyes, sometimes, alone, for the length of a held breath, and nothing in her life has ever felt so good. Her family has sent her to Sallowreach with a letter to the Warden-Prime's envoy. She has not opened it. She suspects it is about her.
+
+**The Last Meal.** Clatter-cake and rouse on the roof on Tablenight, in the minute the lamps go out, with her mother's fingers holding her eyelids open "so you'll see it, as we do." **The Oath on the Dead.** *On Constance Hobb, my first nudger, hanged for letting me close my eyes when I was six: I will never let anyone be punished for my rest again.* **Who Waits at Home.** Her brother Florian, the lidless heir, who writes every day and is certain she will come home cured. **What She Will Not Do.** Lie down. Not once, not even dying.
+
+### Notyet Clayhand — Foundling of the Ninth Company
+
+[stat: Notyet Clayhand — Foundling of the Ninth Company]
+Land & Cut: Cradlewrack · Cut 2 (common) · Regrowth 1 (the Taste) · Hunger 0
+Age & Calling: five years old, in a body of about twenty-five · Warden, Standing 1 (Hired Blade)
+Attributes: Hand 3 · Gut 3 · Lung 3 · Eye 2 · Tongue 1 · Caul 4
+Skills: Blades 4, Endure 3, Intimidate 2, Wayfaring 2, Athletics 2, Shooting 2, Instinct 2, Resolve 2, Brawl 1, Labor 1
+Flesh 17 · Guard 17 · Armor 2 · Fray 0
+Attacks: axe +7 (4, Brutal); crossbow +5 (4, Piercing, Slow; 12 bolts)
+Talent: Shield the Cargo (take an adjacent ally's blow, at +2 Armor)
+Gifts: First Breath
+Sop & Tooth: let out something meant to stay shut. Partaking cramps her belly and undoes the nearest knot or latch; when the god bites, a contraction doubles her over and costs her next move.
+Knacks: Good Bones, Rope Knots
+Gear: axe, crossbow and bolts, boiled leather, the Ninth Company's red sash; knocker's ring; brick, mortar and trowel; needle and red thread; standard kit; 36 lacks
+[/stat]
+
+Notyet was born mid-stride on the drill ground at Kest, a grown woman with a soldier's shoulders and no memory of anything, and was handed a crust and a spear in the same minute. She learned to talk in a week and to kill in a season. She is blunt, literal, brave, very young, and astonished by ordinary things (rain, songs, kittens) in a way that makes older Guests uneasy. Foundlings of her company have begun to die in their seventh year, quietly, for no reason any midwife will give. She has two years. Her knots, alone in Cradlewrack, hold.
+
+**The Last Meal.** Her first meal ever, minutes old: clay-bread, still warm, from the hand of the midwife who let her stay. **The Oath on the Dead.** *On Sergeant Abel Danner, who was opened by a pang at the Dilation rim: I will learn who bore me before I turn seven.* **Who Waits at Home.** Hollan Thrale, that midwife, who asks at every visit, "Do you know yet what you are?" **What She Will Not Do.** Shut a door on anyone who knocks.
+
+### Sabra Writ — Bondswoman of the Lower Ledger
+
+[stat: Sabra Writ — Bondswoman of the Lower Ledger]
+Land & Cut: Oathen · Cut 2 (common) · Regrowth 1 (the Taste) · Hunger 0
+Age & Calling: 31 · Surety, Standing 1 (Bondsman)
+Attributes: Hand 2 · Gut 3 · Lung 2 · Eye 2 · Tongue 4 · Caul 3
+Skills: Endure 4, Clause 3, Resolve 3, Persuade 2, Instinct 2, Brawl 2, Haggle 2, Lore 1, Labor 1, Stitching 1
+Flesh 18 · Guard 14 · Armor 1 · Fray 2
+Attacks: club +4 (3, Stunning); knife +2 (2)
+Talent: Borne Weight (carries others' oaths; +3 Flesh, included above; ignores the first Injury each session)
+Gifts: Echo-Ear
+Sop & Tooth: swear an unconditional oath before a witness. Partaking brings her own last words back to her, half a breath late, tasting of wet slate; when the god bites, her last sentence binds at Weight 1.
+Knacks: Silent Supper, Old Grief
+Gear: a bond-ledger of four small oaths carried for paying clients; bandages and splints; padded jack; club; wax tablets; canyon flatbread; standard kit; 56 lacks
+[/stat]
+
+Sabra carries strangers' words on her body for money, as her father did until a client ran and the Breaking folded him in half in the market. She is calm, slow-spoken, enormously patient, and funny in the way only Oatheners are funny, by leaving things out. She never says *always*. She never says *never*. Both her little fingers point backward, from small defaults she does not resent. She has left Oathen to find the man who ran, and she has worked out to the hour how long her father's last bond would have taken to come due.
+
+**The Last Meal.** Flatbread soaked in the first of the Kept Rain, eaten in silence on the Ledger steps beside her father, the year she was unbitted. **The Oath on the Dead.** *On my father, Tav Writ, Surety: I will find Aubin Crale, who ran, and hear him say the words he broke.* **Who Waits at Home.** Her daughter Dacey, seven, still in her bit, who has never spoken to her and signs *come home* at the door each morning. **What She Will Not Do.** Make a promise to a child.
+
+### Abate Kettering — Night-Hauler of Wanting
+
+[stat: Abate Kettering — Night-Hauler of Wanting]
+Land & Cut: the Fast · Cut 0 (Unfed) · Want 3 · Pangs 2
+Age & Calling: 29 · Crumb-Runner, Standing 1 (Runner)
+Attributes: Hand 2 · Gut 3 · Lung 4 · Eye 2 · Tongue 2 · Caul 3
+Skills: Stealth 4, Wayfaring 4, Resolve 3, Deceive 2, Endure 2, Haggle 2, Instinct 1, Labor 1, Blades 1, Reckoning 1
+Flesh 13 · Guard 15 · Armor 0 · Fray 0
+Attacks: household axe +3 (3, Thrown); knife +3 (2)
+Talent: Hidden Hold (a hidden compartment in anything she loads; one safe route between any two adjacent lands)
+Gifts: none; she has the Refusal. Spends Want on the Second No, the Gnaw, Nothing to Hold, Clean Through and Steady.
+Knacks: Cold Supper, Rim-Wise
+Gear: handcart, oilcloth, rope, dark lantern, forged travel pass; ration-cloth, water flask, wax tin, three days' Pantry measures, a coat not warm enough; standard kit; 7 lacks
+[/stat]
+
+Abate hauls grain into the Fast at night and is spat on in the street at noon by the people she feeds, which she accepts as correct. She is gaunt, upright, sardonic and devout, says "No, thank you" three times to everything including rescue, and has never eaten a mouthful of her own cargo. She knows every waystation-keeper on the eastern Rim and despises most of them affectionately. Since the place cards began, she has been carrying one in her coat, unread, in a hand she is afraid she recognises.
+
+**The Last Meal.** Cold ration-bread eaten standing in the Pantry queue with her sister Meagre, the morning neither of them knew there would be a list. **The Oath on the Dead.** *On my sister Meagre, whose name was left off the Pantry list in the Lack of 639: I will feed every child in Hesitation Hollow through this winter, whatever I have to carry.* **Who Waits at Home.** Her father Fallow, a strict Keeper, who spits at her feet in the street and leaves his door unbarred for her every night. **What She Will Not Do.** Eat from her own cargo while one child on her route is hungry.
+
+[box: Tying the Seven Together]
+If all seven play, give them one reason to share a road. The simplest: Agathe Larch's family has hired the others to see her safely to Lastgate with a sealed letter, and pays on delivery. Haslet cooks. Notyet guards. Gannet knows the coast road. Sabra stands surety for the contract. Abate knows the short way round the Fast, and Hessa is going home. None of them has read the letter. One of them will.
+[/box]

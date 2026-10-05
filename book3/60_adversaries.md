@@ -85,27 +85,19 @@ Killing is not the same in every land. Outside Sallowreach, a creature at 0 Fles
 
 Most of the Table's horrors are discovered after the fact. The players arrive at a cottage, a cellar, a furrow or a bed, and somebody has to look. The table below gives the remains the GM can set in front of them when a creature has been and gone, or when a victim's family brings the party in to see. Each is a Dread check at the listed rating, and each is a clue: read with Eye + Search (Hard 14), it names the kind of thing that did it.
 
-| d20 | What the family found | Dread |
+| d12 | What the family found | Dread |
 | 1 | A pair of shoes, laced, side by side, still warm inside; nothing else, not a hair | 1 |
 | 2 | A bed with a body-shaped hollow, the sheets soaked with salt water that is still cold | 1 |
 | 3 | The victim, laid out, eyes shut, hands folded; no wound, no rot, and no flies, ever | 2 |
 | 4 | A face, flat as a mask, pressed into peat; the eyes in it still blinking | 3 |
-| 5 | A skin, whole and dry as a glove, wrung out; the bail-bucket still on its belt | 2 |
-| 6 | A ring of chairs facing a table; at one place, a clean plate and a folded napkin with a name | 2 |
-| 7 | Every door, drawer, box and cupboard in the house standing open, and the body likewise | 3 |
-| 8 | Bones, tidy, scraped white, stacked by length in the larder, each set with a napkin | 3 |
-| 9 | A body open from hip to collarbone in one straight line; the killer asleep beside it | 2 |
-| 10 | A smooth patch of tilled soil the length of a man, warm, rising and falling | 2 |
-| 11 | A man with his ribs folded inward, gently, as if the sea had leaned on him | 2 |
-| 12 | A woman broken at every joint at once, two hundred breaks, and a contract by her hand | 3 |
-| 13 | A wax figure on the floor, perfectly the victim, a wick still smoking at the crown | 2 |
-| 14 | A body lacework-pricked from scalp to sole by tiny teeth, drained pale as tallow | 2 |
-| 15 | A shape scorched into the floorboards; in the middle, a single gnawed knuckle | 2 |
-| 16 | Hands, only the hands, gripping each other so hard the fingers have fused | 3 |
-| 17 | The victim alive, unharmed, smiling, and certain they have eaten the best meal of their life | 2 |
-| 18 | A cradle with its blanket folded back, and in it something warm that is not the baby | 4 |
-| 19 | A sack in the corner that is breathing; the family will not say who is in it | 3 |
-| 20 | Nothing at all; but everyone in the house remembers someone who was never born | 4 |
+| 5 | Every door, drawer, box and cupboard in the house standing open, and the body likewise | 3 |
+| 6 | Bones, tidy, scraped white, stacked by length in the larder, each set with a napkin | 3 |
+| 7 | A smooth patch of tilled soil the length of a man, warm, rising and falling | 2 |
+| 8 | A man with his ribs folded inward, gently, as if the sea had leaned on him | 2 |
+| 9 | A woman broken at every joint at once, two hundred breaks, and a contract by her hand | 3 |
+| 10 | The victim alive, unharmed, smiling, and certain they have eaten the best meal of their life | 2 |
+| 11 | A cradle with its blanket folded back, and in it something warm that is not the baby | 4 |
+| 12 | Nothing at all; but everyone in the house remembers someone who was never born | 4 |
 
 [box: The GM's Larder: Pacing Horror]
 Every creature in this chapter is built to be survivable at first sight. The Dread check, not the attack roll, is where most of them do their damage. Use that. Let the players see the Sump bubble in patterns for a full session before anything comes up.
@@ -129,7 +121,7 @@ Every monster in the north began as a person or a thing that tried to end and wa
 
 Weighted sacks go into the Sump by the hundred each year: the Kept too far gone for stitching, the unclaimed, the inconvenient. The sacks rot. The weights do not. Over decades, in the black peat-water forty feet down, the bodies find each other. Rotting flesh that cannot finish rotting goes soft as dough, and soft things press together under the fen's weight until there is no telling where one grandfather ends and the next begins. A Sump-thing is what happens when a few hundred of them agree to come up.
 
-It surfaces first as bubbles in patterns: rings, then spirals, then the shape of a hand spread flat under the water. Then the smell, which is not the sweet Sallowreach rot but something older, sulphurous and vinegary, a pickle-jar opened after a century, with a bottom note of wet wool and the copper of old coins. Then the mound breaks the surface, a slick dark heap twenty feet across, hair and sackcloth and peat-tanned leather stretched over a lattice of knitted bone, and out of it, everywhere, faces. Pressed flat. Mouths working. Some still have the twine of their labels around their necks, the ink long run, a name and a date of shelving. The sound it makes is a choir of drowned people trying to say their names through a lungful of fen, which comes out as a long wet gargle with words in it. Under the gargle, if one listens, is a smaller sound, like teeth chattering in the cold, which is exactly what it is.
+It surfaces first as bubbles in patterns: rings, then spirals, then the shape of a hand spread flat under the water. Then the smell, which is not the sweet Sallowreach rot but something older, sulphurous and vinegary, a pickle-jar opened after a century, with a bottom note of wet wool and the copper of old coins. Then the mound breaks the surface, a slick dark heap twenty feet across, hair and sackcloth and peat-tanned leather stretched over a lattice of knitted bone, and out of it, everywhere, faces. Pressed flat. Mouths working. Some still have the twine of their labels around their necks, the ink long run, a name and a date of shelving. The sound it makes is a choir of drowned people trying to say their names through a lungful of fen, which comes out as a long wet gargle with words in it.
 
 It wants to be *finished*, and it has learned that it cannot be, so it has settled for company. It drags the living down. Victims are not eaten. They are added. The process takes a week in the dark, and boatmen who have dragged the Sump for a lost brother on the third day have brought up something that was half him and half the mound, joined at the hip and the cheek, still breathing through both mouths. A week later a new face surfaces in the mound, and it is still screaming, and it will scream for centuries. Families who lose someone to a Sump-thing sometimes row out to listen for them, and sometimes hear.
 
@@ -218,9 +210,9 @@ Wick Tallow renders the unclaimed into candles that feel themselves burn. A Tall
 
 ### New Horror: The Whispering Aisle
 
-The Lofts hold the Set-Aside: nine storeys of shelving, forty thousand Kept too far gone to stand, wrapped, labeled, shelved, and still aware. The whispering is audible from the street. Most of it is harmless, the same murmur one hears in any ward: complaints, prayers, the names of grandchildren, the endless recitation of the last book someone read aloud to them. A Whispering Aisle is what an aisle becomes when it has not been visited in a generation. Nobody comes on feast days. Nobody reads. The shelved have only each other, and over the decades their whispering has fallen into step, the way the breathing of the Counted falls into step in the Vigil, until two hundred wrapped mouths are saying one thing at one time.
+The Lofts hold the Set-Aside: nine storeys of shelving, forty thousand Kept too far gone to stand, wrapped, labeled, shelved, and still aware. The whispering is audible from the street. Most of it is the murmur of any ward: complaints, prayers, the names of grandchildren. A Whispering Aisle is what an aisle becomes when it has not been visited in a generation. Nobody comes on feast days. Nobody reads. The shelved have only each other, and over the decades their whispering has fallen into step, the way the breathing of the Counted falls into step in the Vigil, until two hundred wrapped mouths are saying one thing at one time.
 
-The air in such an aisle is thick, close and sweet, linen gone brown with seepage, the cedar-dust the Wardens scatter long since settled into a crust. The shrouds have stuck to the shelves. Underneath them the bodies have shifted, sagged and spread, so that a shelf is no longer a row of separate parcels but one long lumpen bolt of stained cloth with heads in it. As a visitor walks the aisle, the heads turn. The whisper rises. It is, nearly always, a request: *read to us*. It is said very sweetly. A visitor who stops to listen begins to hear their own name in it, and then the ends of their own sentences before they have spoken them, and then the thing they have never told anyone. The wrapped hands come through the linen then, grey and soft as wet bread, and take hold of sleeves and hair and ankles, very gently, the way the old take the hand of someone who has come to visit, and do not let go.
+The air in such an aisle is close and sweet, the linen gone brown with seepage and stuck to the shelves, the bodies beneath sagged together until a shelf is one long lumpen bolt of stained cloth with heads in it. As a visitor walks the aisle, the heads turn and the whisper rises: *read to us*, said very sweetly. A visitor who stops to listen hears their own name in it, then the ends of their own sentences before they speak them, then the thing they have never told anyone. The wrapped hands come through the linen then, grey and soft as wet bread, and take hold, very gently, the way the old take the hand of a visitor, and do not let go.
 
 Bettany Shroud keeps a list of the aisles that have begun to whisper in unison. Lately they all whisper the same word, and it is not *read*.
 
@@ -242,9 +234,9 @@ End: Visit them. An aisle read to each feast day for a year goes back to murmuri
 
 ### New Horror: The Sewn Gentleman
 
-Marrow Jack takes limbs from the Kept while they shelve or sleep and sells them to back-alley seamers. The buyers are rarely poor. A Sewn Gentleman is what that trade looks like at the top of the market: an Unvacated elder, rich enough to buy and old enough to have rotted, who has replaced himself part by part over two or three centuries until almost nothing of him is his own. A young sailor's forearms. A Laundry-girl's hands, small and chapped. A ploughman's back, grafted in a single great flap and wired at the shoulders. A singer's throat. Eyes, two of them, not quite the same colour, behind tinted glass. He dresses beautifully, in high collars that hide the joins. He smells of cedar, pomade and the cloves the seamers pack into the seams, and beneath that, faintly and always, of other people's sweat.
+Marrow Jack takes limbs from the Kept while they shelve or sleep and sells them to back-alley seamers. The buyers are rarely poor. A Sewn Gentleman is what that trade looks like at the top of the market: an Unvacated elder, rich enough to buy and old enough to have rotted, who has replaced himself part by part over two or three centuries until almost nothing of him is his own. A sailor's forearms, a laundry-girl's small chapped hands, a ploughman's back wired at the shoulders, a singer's throat, two eyes not quite the same colour behind tinted glass. He dresses beautifully, in high collars that hide the joins. He smells of cedar, pomade and the cloves the seamers pack into the seams, and beneath that, faintly and always, of other people's sweat.
 
-The parts remember. That is the horror and the hunt. Marrow Jack's victims wake up able to feel what their missing hands are being used for, and the Sewn Gentleman's original donors, Kept and shelved and Unstitched across the north, feel all of him: his dinners, his correspondence, his razor, his nights. They come looking. And the parts, when their owners come near, begin to move toward them: a hand that clenches on the dinner-knife, a leg that steps sideways off the curb, a borrowed throat that begins, in the middle of the Gentleman's own sentence, to sing a fen ballad in a girl's voice. The Gentleman fights to keep his purchases. He has receipts for all of them.
+The parts remember. That is the horror and the hunt. Marrow Jack's victims wake up able to feel what their missing hands are being used for, and the Sewn Gentleman's original donors, Kept and shelved and Unstitched across the north, feel all of him: his dinners, his correspondence, his razor, his nights. They come looking. And when their owners come near, the parts move toward them: a hand clenching on the dinner-knife, a borrowed throat breaking into a fen ballad in a girl's voice. The Gentleman fights to keep his purchases. He has receipts for all of them.
 
 [pull] He shook my hand at the Hall of Closings and I knew it at once. I knew the scar on the thumb. I put that scar there, with a fish-knife, when my brother was nine. | — a petitioner, to Provost Sedge
 
@@ -258,28 +250,6 @@ Abilities: Unending. Many Owners: each round, roll a d6; on a 1 one of his parts
 Sop: Purchasing a new part and having it sewn in while the donor watches. 1d6 Hunger.
 Dread: 1 / 3 when a character recognizes a part
 End: Take him to pieces and give the pieces back. What is left at the end, the Seamers say, is about the size of a cat, and mostly lacquer, and still talking.
-[/stat]
-
-### New Horror: The Hive-Kept
-
-Justice Ever Lathe is a judge rotted down to bone and a resident colony, and nobody is sure any longer which of them is deciding. He is famous. The Hive-Kept are the ones nobody has noticed. When a Flyfront passes over the Sinks, it leaves behind more than lace-faced dead. It leaves eggs, in the soft places of Kept bodies that were already far gone, and over the years the colony that hatches grows into the hollow where the person used to keep themselves. One day the person is a slow old Kept fishwife who sits in the doorway. Then for a season she is quieter. Then she stands up and goes about her business more briskly than she has in a century, and her business is no longer quite hers.
-
-A Hive-Kept is recognizable by the sound before anything else: a thick low hum from inside the chest, steady as a hearth-cat's purr, that rises when it is angry. Its skin is drum-tight and faintly translucent over the swarm, and in good light one can see the shadows moving under it. Flies come and go from its nose, its ears and the corners of its eyes, unhurried, like bees from a hive. It speaks in the buzzing, very fluently, and the words are arranged by many small minds voting. It is clever, cooperative and patient, and it wants more bodies: it moves its family into them as they rot, one by one, and the street it lives on grows quieter and more orderly every year. The worst of it, the Seamers say, is how pleased the neighbours are.
-
-[fiction]
-Overheard in a Sinks gin-cellar, transcribed for Captain Morrow's intelligence officer. "She's a lovely neighbour now, old Widow Teague. Keeps her step swept. Knows everybody's business, mind. Knows what you're going to say before you say it. And her grandsons, they've come round lovely too. Hum all day, like they're happy."
-[/fiction]
-
-[stat: The Hive-Kept — the Colony at Home]
-Attributes: Hand 3 · Gut 4 · Lung 3 · Eye 5 · Tongue 4 · Caul 5
-Cut & Regrowth: Cut 2 (the host's) · Regrowth 6 (the Appetite) · Hunger 3
-Skills: Search 5, Persuade 3, Deceive 4, Instinct 5, Brawl 3
-Flesh 16 · Guard 13 · Armor 0 · Threat 5
-Attacks: grip +6 (2, Grapple 14); Release +7 against everyone within 3 paces (the chest splits and the colony pours out: as a Flyfront's crawl, 1 and Choking on two Helpings, for 2 rounds)
-Abilities: Unending. Many Minds: cannot be surprised, deceived or Frayed; immune to *Known Voice*, *Pull* and Persuade. Hearing Through Walls: the colony's scouts carry back every word spoken on its street. Moving House: if its host is Undone, the colony leaves in a cloud and seeks the nearest far-gone Kept; a new Hive-Kept stands up there in 1d6 days.
-Sop: Seeding a new body. 1d6 Hunger.
-Dread: 1 / 3 when it opens its mouth and the hum comes out in words
-End: Smoke, vinegar and fire, as for any front, and a great deal of each. The Seamers' method is to sew the host into a waxed sack, mouth and all, and sink the sack in the Sump, which nobody will call kind.
 [/stat]
 
 [pagebreak]
@@ -366,9 +336,9 @@ The Reaping has Dread 3 the first time it is seen to take someone, and Dread 4 w
 
 ### New Horror: The Uneaten
 
-The Fatlands have no graves. The dead are served at the wake, by the family, with the best plates, and to be buried uneaten would be the deepest insult to a life. Sometimes a wake fails. The family is too small, or too poor in appetite, or too grief-struck; a Thin son refuses his portion; a plague makes the meat suspect; the Board's Bailiff comes too late with his funnel. Something is left on the platter overnight. The leftovers are buried, quietly, in a corner of the field, and the family tells nobody. A season later, the Uneaten comes home.
+The Fatlands have no graves. The dead are served at the wake, by the family, with the best plates, and to be buried uneaten would be the deepest insult to a life. Sometimes a wake fails. The family is too small or too grief-struck; a Thin son refuses his portion. Something is left on the platter overnight. The leftovers are buried, quietly, in a corner of the field, and the family tells nobody. A season later, the Uneaten comes home.
 
-It is what remained of the dead: the joints that were not carved, the ribs that were picked half clean, the head that nobody could bring themselves to serve, drawn back together by the soil into the rough shape of the person and clothed in turf and root-hair and a skin of yellow fat. It walks with a gnawed limp. Its face is half a face, the other half carved down to the cheekbone in neat slices. It smells of a cold kitchen the morning after a feast: congealed dripping, stale gravy, and under it, sweet and terrible, the meat itself. It comes to the family table at the hour of the evening meal, sits down in its old chair, and waits to be finished. It will not leave until every scrap of it is eaten by its own kin. If they refuse, it begins to serve itself to them, and they find they cannot refuse that.
+It is what remained of the dead: the joints that were not carved, the ribs that were picked half clean, the head that nobody could bring themselves to serve, drawn back together by the soil into the rough shape of the person and clothed in turf and root-hair and a skin of yellow fat. Its face is half a face, the other half carved down to the cheekbone in neat slices. It smells of a cold kitchen the morning after a feast: congealed dripping, stale gravy, and under it, sweet and terrible, the meat itself. It comes to the family table at the hour of the evening meal, sits down in its old chair, and waits to be finished. It will not leave until every scrap of it is eaten by its own kin. If they refuse, it begins to serve itself to them, and they find they cannot refuse that.
 
 [fiction]
 Statement of Wakemother Pudding Hesk to the Low Tilth bailiff. "I told them, you eat your mother or she'll come back for it. They wouldn't hear. Thin, the son was, the Thin had got him. Three months later I'm passing the cottage at supper and there's five at table and the door's open and one of the five is the mother, what's left, and the son's crying with his mouth full."
@@ -563,9 +533,9 @@ On Yawn days, the Wakers double their patrols. The Yawn is not a creature; it is
 
 ### New Horror: The Tether-Catch
 
-The Dream-Divers go under on a tether and are dragged up by force. Most manage three dives. The tether is a braided silk line fixed to an iron collar, and the hauling crew reel it in at the count of sixty with a windlass, whatever the diver is doing in the long room. Usually what comes up is the diver. Sometimes it is the diver and something else. A Tether-Catch is a thing from the long room that took hold of the line on the way up, or took hold of the diver, or got in.
+The Dream-Divers go under on a tether and are dragged up by force. Most manage three dives. The tether is a braided silk line fixed to an iron collar, and the hauling crew reel it in at the count of sixty with a windlass, whatever the diver is doing in the long room. A Tether-Catch is a thing from the long room that took hold of the line on the way up, or took hold of the diver, or got in.
 
-It surfaces on the hauling-floor of the Tether Hall as a second figure tangled in the silk, or as a shape lying across the diver's chest, or as nothing at all, only a diver who wakes and sits up and looks around the room as if counting the beds. Those that come up with bodies of their own are pale, hairless, soft, and very long, with closed eyes that are only shut skin, no lids at all, and they move by stretching like a yawn. They smell of sleep: warm sheets, sour breath, the bitterness of a mouth that has been open all night. They are drawn to wakefulness the way moths are drawn to lamps, and they put it out. A Tether-Catch that gets loose in the city moves from nudger-house to rouse-den laying its long cool hands over eyes, and behind it the streets go quiet, and people lie down in doorways with their shoes neatly beside them.
+Some come up as a diver who sits up and looks around the room as if counting the beds. Those that come up with bodies of their own are pale, hairless, soft, and very long, with closed eyes that are only shut skin, no lids at all, and they move by stretching like a yawn. They smell of sleep: warm sheets, sour breath, the bitterness of a mouth that has been open all night. Loose in the city, it moves from nudger-house to rouse-den laying its long cool hands over eyes, and behind it people lie down in doorways with their shoes neatly beside them.
 
 [fiction]
 Tether Hall haul-log, dive 2,214, diver S. Vole. "Hauled at sixty. Line heavy at forty fathoms (counted turns). Heavy as two. At the collar: diver, sound, and a second hand on the silk, very long, no nails. It let go at the lip. Diver reports nothing on the line. Crew of four reports a weight that walked off the hauling-floor. Floor is warm where it walked."
@@ -763,7 +733,7 @@ At the Appetite, an Oathener feels a compulsion to swear, and the struck must be
 
 ### New Horror: The Sworn-Upon
 
-Every Oathener swears on the dead, and in Oathen an oath on the dead is held by two witnesses: the god inside, and the one whose name was used. When such an oath is broken, the swearer breaks to match, as always. But when the oath was sworn over the body itself, at the grave or the bier, with the hand on the cold chest, and then broken, the dead sometimes get up to see it kept. The Sworn-Upon is a corpse in its grave-wrappings, dried by the canyon heat to leather and bone, its jaw bound shut with the cord the Quiet use, and it walks. It walks slowly and it does not stop. It follows the oathbreaker from town to town, across gorges, onto the Rim Road and beyond, never hurrying, never resting, and when it catches up it stands at the foot of their bed and watches them with eyes long since gone to dust, until they keep the promise or die. It does not attack. It witnesses. Those it watches cannot sleep, cannot eat without tasting grave-dust, and cannot lie, even in lands where lying is possible. In the end most of them keep the oath, whatever it was. Some of those oaths were terrible.
+Every Oathener swears on the dead, and in Oathen an oath on the dead is held by two witnesses: the god inside, and the one whose name was used. When such an oath is broken, the swearer breaks to match, as always. But when the oath was sworn over the body itself, at the grave or the bier, with the hand on the cold chest, and then broken, the dead sometimes get up to see it kept. The Sworn-Upon is a corpse in its grave-wrappings, dried by the canyon heat to leather and bone, its jaw bound shut with the cord the Quiet use, and it walks. It walks slowly and it does not stop. It follows the oathbreaker across gorges and onto the Rim Road, never hurrying, never resting, and when it catches up it stands at the foot of their bed and watches with eyes gone to dust until they keep the promise or die. It does not attack. It witnesses. In the end most of them keep the oath, whatever it was. Some of those oaths were terrible.
 
 [fiction]
 Inscription carved on the Ledger, 571 A.G., in the public vows. "I, Teodric Bask, swore upon the body of my brother Hale to see his children fed. I did not. He came for me at the Unmade Road and has stood at my bedside four years. Let it be recorded that on this day I have given my house, my well and my name to his children. Let it be recorded that he has lain down. Let it be recorded that I am very tired."
@@ -787,8 +757,6 @@ End: Keep the oath. Or find a Surety willing to take it, and watch what follows 
 [sigil: fast]
 
 The Fast has no Regrowth. It has a whole god, unhoused, laying tables. Its horrors do not attack, mostly. They offer. Every entry in this section has **Hosting**, and every one is best survived by saying "No, thank you" three times. What they leave behind is the cruellest thing on the Table: people who were made perfectly happy, and cannot be brought back from it.
-
-[pull] Never enter a house where the hearth is already lit. Never answer "Come in." Never eat what you did not carry yourself. If you smell bread, walk into the wind. If a chair is pulled out for you, do not thank it. | — the five rules, recited by Unfed children at the gate of Wanting
 
 ### Orrum's Tables
 
@@ -840,9 +808,9 @@ Never enter a house where the hearth is already lit. A Lit House is the Host's a
 
 ### New Horror: The Tidiers
 
-The best farmland on the Table lies six centuries empty and perfectly kept. The hedges are trimmed. The windows are clean. Nobody does it. That is the Unfed saying, and it is wrong in one particular: something does it. The Hostwatch call them the Tidiers, and nobody has seen one whole. They are glimpsed at the edge of the eye in the gold Carving light, at the end of a lane, behind a hedge: a flicker of white sleeve, a pair of long pale hands shaking out a cloth, a stooping figure sweeping a doorstep that is already swept. They work only where no one is looking, like the Scarecrow of Low Tilth, and the sound of them is the soft domestic sound of a house being kept: a broom's whisper, a dish set down, a sheet snapped smooth.
+The best farmland on the Table lies six centuries empty and perfectly kept. The hedges are trimmed. The windows are clean. Nobody does it. That is the Unfed saying, and it is wrong in one particular: something does it. The Hostwatch call them the Tidiers, and nobody has seen one whole. They are glimpsed only at the edge of the eye: a white sleeve, long pale hands shaking out a cloth, a stooping figure sweeping a doorstep already swept. They work only where no one is looking, like the Scarecrow of Low Tilth, and the sound of them is the soft domestic sound of a house being kept: a broom's whisper, a dish set down, a sheet snapped smooth.
 
-They keep everything as a good host would, for the guest who is surely coming. That includes travellers. A traveller who falls asleep in an empty Fast farmhouse without a watch posted wakes, if they wake, washed, their hair combed and braided, their nails pared to the quick, their clothes laundered and folded at the foot of the bed, and something taken off them that was untidy: a beard, a scab, a wart, a crooked finger straightened with a crack they slept through, a missing tooth's neighbours drawn so the smile is even. Those the Tidiers find untidy beyond mending are put away. The Hostwatch have found them in linen-presses, folded very small.
+They keep everything as a good host would, for the guest who is surely coming. That includes travellers. A traveller who sleeps in an empty Fast farmhouse without a watch wakes, if they wake, washed, combed, nails pared to the quick, clothes laundered and folded, and something untidy taken off them: a scab, a wart, a crooked finger straightened with a crack they slept through, a tooth's neighbours drawn so the smile is even. Those the Tidiers find untidy beyond mending are put away. The Hostwatch have found them in linen-presses, folded very small.
 
 [fiction]
 Spare Tolland's map, margin note, Lammas Bottom. "Slept at the Pellow farm, two of us. Posted no watch, God forgive me. Woke clean. Woke with my nails cut. Abide had a limp from a Reckoner raid. He walks straight now. He will not tell me what it felt like. He keeps touching his knee and looking at the dresser where the plates are."
@@ -852,7 +820,7 @@ Spare Tolland's map, margin note, Lammas Bottom. "Slept at the Pellow farm, two 
 
 ### New Horror: The Crumb-Bringer
 
-Sister Nay Corliss has not eaten in three years, and each morning she wakes with crumbs on her lips. Abby Rooke leaves a crust on the windowsill and finds it replaced with something better. The Crumb-Bringer is the thing that does it: the Host's kindness at its most patient and most intimate, a feeding that happens while the Unfed sleep. It is never seen. It is felt: a warmth at the bedside, a weight settling on the edge of the mattress, the brush of a finger at the lips, a smell of honey-cake and warm milk, and in the morning a sweetness in the mouth and a fullness in the belly that the Unfed have never in their lives felt, and that they do not have a word for. They wake rested. They wake well. They put on flesh. Their cheeks fill, and their friends at the Fourth-Day Market notice, and say nothing, and watch them.
+Sister Nay Corliss has not eaten in three years, and each morning she wakes with crumbs on her lips. Abby Rooke leaves a crust on the windowsill and finds it replaced with something better. The Crumb-Bringer is the thing that does it: the Host's kindness at its most patient and most intimate, a feeding that happens while the Unfed sleep. It is never seen. It is felt: a warmth at the bedside, a weight settling on the edge of the mattress, the brush of a finger at the lips, a smell of honey-cake and warm milk, and in the morning a sweetness in the mouth and a fullness in the belly that the Unfed have never in their lives felt, and that they do not have a word for. They wake rested. They wake well. They put on flesh. Their cheeks fill, and their neighbours notice, and say nothing.
 
 And each night they sleep a little deeper, and wake a little later, and want to go back. They begin to lay a crust out. Then a cup. Then a chair, beside the bed, pulled out. When they stop waking at all they are found plump and smiling, the covers tidied, a napkin tucked at the throat, the mouth open a little as if for the next spoon, and the chair beside the bed is warm.
 
@@ -1102,7 +1070,7 @@ Tactics: never speaks in a gorge. Contradiction: may shout a counter-oath to des
 
 ### New Template: The Shepherd of a Small Table (Cult Leader)
 
-Every land has its great cults (the Finishers, the Deepening, the Bedded, the Second Helping, the Assemblers), and every land has a hundred small ones: a mill-loft in Rudge where forty people wait for a door to open, a Slope cellar where a family hums in the dark, a Rim inn whose landlord has taught his regulars that the eighth chair is for him. The Shepherd is the person at the head of such a table. They are rarely monstrous to look at. They are warm, attentive and tired, and they remember your name, and the first meal they give you is the best you have had in a year. They have usually Broken once, long ago, and the Derangement they took then (*The Voice at Table*, most often, or *The Devotion* turned inside out) is the doctrine now. They believe it. That is what makes them good at it.
+Beside the great cults (the Finishers, the Deepening, the Bedded, the Second Helping), every land has a hundred small ones: a mill-loft in Rudge where forty people wait for a door to open, a Rim inn whose landlord has taught his regulars that the eighth chair is for him. The Shepherd is the person at the head of such a table. They are rarely monstrous to look at. They are warm, attentive and tired, and they remember your name, and the first meal they give you is the best you have had in a year. They usually Broke once, long ago, and the Derangement they took then is the doctrine now. They believe it. That is what makes them good at it.
 
 [pull] He never once raised his voice. He just asked me, very gently, whether I was sure I'd seen my sister that morning. And after a while I wasn't. | — a woman pulled out of the Lamplit Supper, Kest
 
@@ -1111,7 +1079,7 @@ Every land has its great cults (the Finishers, the Deepening, the Bedded, the Se
 A Shepherd's power over a person is measured as **Hold**, from 0 to 5, tracked separately for each player character who spends time inside the cult. Once per scene, the Shepherd (or a trusted lieutenant) may use one of the methods below: an opposed roll of the Shepherd's Tongue + Persuade (or Deceive, where noted) against the character's Caul + Resolve. If the Shepherd wins, Hold rises by 1 (2 for Shared Sin).
 
 - **The Welcome.** A meal, a blanket, a hand on the shoulder, a name remembered. +2 to the Shepherd's roll if the character is Starving, Rattled or recently bereaved.
-- **The Confession.** The character is drawn to tell something shameful aloud to the gathering. The gathering forgives them. From now on, the cult holds it.
+- **The Confession.** The character tells something shameful aloud, and is forgiven. From now on, the cult holds it.
 - **The Unmaking of Home.** Who Waits at Home is described, kindly and constantly, as the one who hurt you. A character with Hold 2+ cannot use Who Waits at Home to remove Fray while the cult is near.
 - **The Gaslight** (Deceive). The Shepherd tells the character that something they remember did not happen. On a win, they believe it for a day; a character with *The Gaslight* Derangement cannot resist at all.
 - **Shared Sin.** The character is brought to do, or to watch and not stop, something that cannot be undone: eating at the forbidden table, closing a stranger's eyes, holding a rope while the Called walks in. Dread 3 check, and Hold +2. This is how cults bind: not with belief, but with complicity.
@@ -1138,7 +1106,7 @@ End: Take the people, not the Shepherd. A Shepherd killed before the fold is out
 
 ### New Template: The Patient Hand (Sadist Questioner)
 
-Every power on the Table keeps someone for questions: the Jar Room's keepers in Lastgate, the Waker interrogators of the Rattlehouse, the Board's back cellars in Sated, the Witnessing Vaults of Oathen. Most of them hate the work and do it anyway, and pay for it in the Dread checks the rules demand. The Patient Hand does not pay. Somewhere along the way the part of them that flinched was used up, and what is left enjoys it with a craftsman's quiet absorption. They are courteous. They explain. They are interested in the person in front of them more completely than anyone has ever been, and that interest is the worst thing the subject will ever experience. In Sallowreach, where nobody dies, a Patient Hand can keep a single subject for decades, and some have.
+Every power on the Table keeps someone for questions: the Jar Room in Lastgate, the Rattlehouse, the Board's back cellars, the Witnessing Vaults of Oathen. Most questioners hate the work and pay for it in Dread. The Patient Hand does not pay. Somewhere along the way the part of them that flinched was used up, and what is left enjoys it with a craftsman's quiet absorption. They are courteous, and interested in the person in front of them more completely than anyone has ever been, and that interest is the worst thing the subject will ever know. In Sallowreach, where nobody dies, a Patient Hand can keep a single subject for decades, and some have.
 
 The horror of their work should be shown in what comes before and after, never as a procedure: the clean, swept room; the subject's voice through a door, hoarse from weeks of use; the questioner washing their hands at a basin, humming; the subject, afterward, unable to stop thanking anyone who comes near.
 
@@ -1158,7 +1126,7 @@ A session follows the core rule: the questioner's Tongue + Intimidate against th
 | 5 | The truth |
 | 6 | The truth, and something else the subject was never asked and should never have said |
 
-A player character who questions in this way makes the Dread 2 check of the core rules each session. A character who fails three such checks in a row and keeps going may, with the player's consent, gain a Derangement of their own: the Table's word for it is *gone cold*, and there is no Derangement on the table that describes it, because the people who have it do not consider themselves ill.
+A player character who questions in this way makes the core Dread 2 check each session. One who fails three in a row and keeps going is, in the Table's phrase, *going cold*; no Derangement describes it, because the people who have it do not consider themselves ill.
 
 [stat: The Patient Hand — Who Has Never Once Been Bored]
 Attributes: Hand 4 · Gut 3 · Lung 2 · Eye 5 · Tongue 4 · Caul 4
@@ -1199,7 +1167,7 @@ Dread: 1 / 3 when a character sees their own family tree, with names struck thro
 
 ### New Template: The Close Table (a House That Marries In)
 
-The Cutwrights' ledgers reward purity of line, and some of the highest houses on the Table have pursued it for centuries. Cousins wed cousins, and then closer than cousins; the College records it in a code the clerks call *the near hand*. The godsign concentrates. The children of a Close Table are born far along, their Regrowth begun in the cradle: Hand-line infants with grey fingers that close the nurse's eyes, Gut-line babes that root in their cribs, Caul-line children whose veils never come off and who see their parents' deaths through them. The house is beautiful, quiet and inward. Its servants are not permitted to speak to the family. Its portraits all have the same face. What happens between its members is never spoken of, never written, and never shown in this book; what the players meet is the result: a family that loves itself too much and outsiders not at all, that holds a supper each Tablenight at which the weakest of its own is served, and that will kill anyone who threatens to marry out.
+The Cutwrights' ledgers reward purity of line, and some of the highest houses on the Table have pursued it for centuries. Cousins wed cousins, and then closer than cousins; the College records it in a code the clerks call *the near hand*. The godsign concentrates. The children of a Close Table are born far along, their Regrowth begun in the cradle: Hand-line infants with grey fingers that close the nurse's eyes, Gut-line babes that root in their cribs, Caul-line children whose veils never come off and who see their parents' deaths through them. The house is beautiful, quiet and inward. Its portraits all have the same face. What happens between its members is never spoken of, never written, and never shown in this book; what the players meet is the result: a family that loves itself too much and outsiders not at all, that holds a supper each Tablenight at which the weakest of its own is served, and that will kill anyone who threatens to marry out.
 
 [pull] Thirty-one portraits in the long gallery and one face. Lady's face. The little ones' face. The face in the cradle that looked up at me with its grey hands folded. I gave notice that night. | — a nurse of a Glovehall house, to the Heirs
 
@@ -1259,7 +1227,7 @@ The ridden come back with Hunger at 0 (the god has eaten) and no memory of the r
 
 ### The Ridden as Adversaries
 
-Any human stat block in this chapter can be ridden: add +2 Caul, the land's tell, Dread 2 (Dread 3 to those who love them), and the god's purpose above. Riding spreads in a community the way madness does. When one person in a household is ridden, every Cut-bearing member present must check for themselves, and in the worst-hit villages of the Table whole families have been found sitting at their tables at once, faces calm, every one of them somewhere else. The Purgation's emetics, the Celebrants' rites and the Reckoners' knives have all been tried. The first two have worked about as often as nothing. The third always works.
+Any human stat block in this chapter can be ridden: add +2 Caul, the land's tell, Dread 2 (Dread 3 to those who love them), and the god's purpose. Riding spreads like madness: when one person in a household is ridden, every Cut-bearing member present must check too, and in the worst-hit villages whole families have been found at their tables, faces calm, every one of them somewhere else. The Purgation's emetics, the Celebrants' rites and the Reckoners' knives have all been tried. The first two have worked about as often as nothing. The third always works.
 
 [box: Possession at the Table]
 Taking a player's character away from them is the strongest move the GM has. Use it rarely and say so plainly when it happens. Agree in advance whether the god may make a ridden character harm a companion, and how far; many tables prefer that the ride is shown through its aftermath (the open doors, the stranger's ring, the blood) rather than played. Offering the player the god's part to play, with the god's purpose and none of the character's restraint, is often the most frightening option, and the one players remember.

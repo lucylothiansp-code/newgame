@@ -1065,3 +1065,192 @@ The trade in people is the Rim's deepest horror because it is ordinary: everyone
 **Being sold.** A Guest who defaults on a Company debt, is made cargo, or is caught on the wrong side of a poacher's net, is a lot. Their price is listed above. Their way out is an adventure.
 **Children.** Children are caught in every part of this trade, as nudgers, as Blanks, as names not yet given. Keep their suffering off the block and out of the operating room: show it through the adults who sold them, carry them, miss them and come for them.
 [/box]
+
+## Relics and Godflesh
+
+> Every land believes another land's curse might cure its own. Nothing has ever worked. The trade never slows.
+>> — The Rim Road, in a sentence
+
+[sigil: rim]
+
+Relics are pieces of the Providers, or of people far enough into the Regrowth that the difference no longer matters, or of places and instruments that the god has soaked into. They are never Common. Most are illegal somewhere. All are Tainted. The prices given are what a dealer would ask, if a dealer could be found who was willing to sell. They go round and round the Rim from inn to inn, worth more every circuit, because the land that made them will rarely have them home.
+
+[pull] DO NOT OPEN ANYTHING. | — the Company's standing order at the Chute, posted in every factor's office, and the nearest thing the Rim has to a relic law
+
+#### A Hand-Line Finger
+**Cost:** 1,200 L · **Avail.:** Rare · **Taint:** 2 Regrowth (Ossel), Dread 2
+A grey finger with nine joints, taken from a Hand-line noble in the Course, still cold. Touched to a lock, a lid or a door, it closes it, and nothing opens it again without breaking it. Touched to a candle, the candle finishes. Touched to a person outside Sallowreach, it does nothing, and the wielder takes a Dread 2 check from the way it flexes. Capital crime in Sallowreach. The Mortuary Court counts its nobles' fingers.
+
+#### A Bottled Hush
+**Cost:** 2,500 L · **Avail.:** Rare · **Taint:** Dread 4
+A stoppered jar of air from the edge of Dunmere Hush. Unstoppered, it makes a silence ten paces across for one minute: no sound carries, flames go out, flies drop. Any Kept inside it finishes, completely and properly. The Finishers will kill for one. The Court calls every jar a stolen license. The jar is always slightly too heavy.
+
+#### A Biting Loaf
+**Cost:** 20 L · **Avail.:** Scarce · **Taint:** 1 Hunger, 1 Dread
+Toothed-wheat bread baked with the teeth left in. Set on a windowsill or in a doorway, it bites anyone who enters uninvited (attack +4, damage 1, Ripping). Granny Cracknel bakes them for widows. After a week, the loaf has grown a second row.
+
+#### A Jar of Tenanted Brine
+**Cost:** 400 L · **Avail.:** Rare · **Taint:** 3 Regrowth (Dromm)
+Water coughed at dawn by one of the Tenanted. Held to the ear, it can be heard talking, slowly, in a voice like a hull settling. A character who listens for an hour may ask one question about the sea, the Trench, or the Tenant, and is answered truthfully. They must then pass a Grim (18) Caul + Resolve roll or walk west the next night.
+
+#### A Lash from the Eye of Iss
+**Cost:** not for sale (offers start at 10,000 L) · **Avail.:** Unique · **Taint:** 4 Regrowth (Iss)
+A black hair a yard long, stiff as wire, one of the few that survived the Eye-lines' meal. Laid across a sleeper's lids in the Vigil, it lets them sleep and wake again, once, safely. The eye in the long room will have seen them. The Warden-Prime knows where every lash is, and there are three.
+
+#### A Caul-Scrap Veil
+**Cost:** 600 L · **Avail.:** Rare · **Taint:** 2 Regrowth (Vey)
+A square of membrane cut from a Caul-line noble, stitched to a hat-brim. Through it the wearer sees a few heartbeats ahead, blurred: once per scene, reroll any one die. Each day it is worn, roll a d10; on a 1, the veil has grown into the skin of the brow. Duchess Morwen's veil has lately gone red. So have the scraps.
+
+#### A Sayer's Word Sealed in Wax
+**Cost:** not for sale (20,000 L if it were) · **Avail.:** Unique · **Taint:** Dread 3
+A ball of gold wax the size of a walnut, sealed by the Bench of Clauses, containing a single word spoken by a Sayer into it before the bit went back in. Crack it, and the word is so. Known words in private hands: *Stop*, *Shut*, *Mend*, *Mine*. Nobody knows the scope of any of them. One is rumoured to say *Enough*.
+
+#### An Orrum Crumb
+**Cost:** 150 L · **Avail.:** Rare · **Taint:** Dread 2; see text
+A crumb of bread from one of the Host's tables, picked up off the cloth by a Tablebreaker before the axe fell. While carried, the holder's Hunger cannot rise above 5 and they never feel hungry. If it is ever eaten, the character is a guest, and must pass an Impossible (26) Caul + Resolve roll or sit at the next table they see, forever. It smells of fresh bread for six hundred years.
+
+#### A Place Card Bearing Your Name
+**Cost:** not for sale · **Avail.:** Unique · **Taint:** Dread 3
+A stiff cream card, a fine hand, your name spelled correctly. Nobody sells these; they are found. While a character keeps it, every host on the Table must offer them a seat (+4 Persuade for hospitality), and wherever they sleep, a table is laid by morning. Burning it does nothing. It is on the next table.
+
+#### Granny Cracknel's Matched Teeth
+**Cost:** 80 L a set · **Avail.:** Scarce · **Taint:** 1 Hunger, 2 Dread
+A full set of teeth milled from toothed wheat, matched by Granny Cracknel to someone she knew. Held in the mouth for a night, they give the holder that person's last meal and last sight in a dream. Pell Hogget has bought eleven sets from Low Tilth. The last sight is always the same field at dusk.
+
+#### Ilse Marl's Chart
+**Cost:** not for sale · **Avail.:** Unique · **Taint:** Dread 3
+Forty years of transcriptions of the Tenanted's low-water song, laid end to end: a chart of the Uncovered, with depths no sea has ever had there. A navigator using it crosses the Uncovered without rolling and can find the Trench and a stone table with eight chairs. Studying it for a week allows a character to hum the song; anyone Tenanted who hears them stops and turns.
+
+#### A Shard of Hallowboard
+**Cost:** 3,000 L · **Avail.:** Rare · **Taint:** Dread 2
+A hand-sized fragment of the eight-sided stone table of the Refusal, always clean, always faintly warm. No table of Orrum's can be laid within a hundred paces of it. The Abstinent say Hallowboard has never been chipped; therefore this is a fake, or Hallowboard is lying. A Reckoner who sees it in Godeater hands will kill to return it.
+
+#### A First Lack
+**Cost:** 1,000 L · **Avail.:** Rare · **Taint:** 1 Regrowth (one god, by grain)
+A god-lack: a coin cut from a Provider's own bone in the first year after the Gorging, cured in no salt at all. Worn on a cord, it gives +1 to Godsign rolls involving its god. Spent, it gives the merchant who takes it that god's Taste for a month. They circulate anyway; somebody always mistakes one for change. (The older Dole lacks of the seventh year of the Lack, yellow and smooth, are not god-bone and carry no Taint; collectors pay 200 L for one, and do not keep it long.)
+
+#### Ossel's Knucklebones
+**Cost:** 2,000 L · **Avail.:** Rare · **Taint:** 2 Regrowth (Ossel), Dread 1
+Five dice cut from a joint of the Closing Hand. Thrown for a question about when something will end, they answer truly. Thrown for a person, they show the number of years before their death; in Sallowreach they always roll blank.
+
+#### Dromm's Ear-Stone
+**Cost:** 700 L · **Avail.:** Rare · **Taint:** 2 Regrowth (Dromm)
+A pale stone from the Fathom's inner ear, hauled up at Longslab. Its holder always knows which way the sea is and how far, and feels pressure days a full day early. In the last year it has begun to point down.
+
+#### A Dowager Clod
+**Cost:** 250 L · **Avail.:** Rare · **Taint:** 2 Hunger
+A clod of warm earth from the Dowager Hills, cut from a Seated Gut-line matriarch. Planted, anything grows from it overnight, plump and red-veined. If the matriarch is consulted first, she may agree. If not, the crop has her opinions.
+
+#### A Thief's Kept Hand
+**Cost:** 120 L · **Avail.:** Scarce · **Taint:** Dread 2
+Taken by Marrow Jack from a Kept pickpocket who was asleep on a shelf. Worn in a glove harness, it gives +2 Filch. Its owner, still in Lastgate, can feel everything it does, and is trying to find you.
+
+#### A Dormitory Pillow
+**Cost:** 1,500 L · **Avail.:** Rare · **Taint:** 3 Regrowth (Iss)
+Smuggled out from under one of the Counted. A Dream-Diver who sleeps on it goes down and returns without a tether, once per dive, for an hour. Owning it in the Vigil is a capital crime. It is still warm, and it still smells of someone.
+
+#### Bed One's Words
+**Cost:** not for sale · **Avail.:** Unique · **Taint:** Dread 4
+Matron Cecily Dorm's notebook of what Aveline Morne's lips have shaped. Most of it is a baker's daughter's recipe for bread. The last page is a list of names, and they are being crossed off in an order the Matron cannot see the reason for. One is a player character's.
+
+#### A Living Part in a Jar
+**Cost:** 200 L · **Avail.:** Scarce · **Taint:** 2 Regrowth (Vey), 1 Dread
+A Cradlewrack Part, healthy and warm: an ear, a hand, a length of spine. It turns in the jar toward other Parts and toward the Assemblers' Barn, a compass to the figure. The Assemblers pay double. The Attendance seizes it and the buyer.
+
+#### A Yard of Living Cord
+**Cost:** 300 L · **Avail.:** Rare · **Taint:** 2 Regrowth (Vey)
+Cut, with permission, from one of the Uncut. Tie it between two people and for a day they share damage: each hit is split between them, and so is every Dread check. The cord pulses. It wants to grow back to the one it came from.
+
+#### A Sayer's Gold Bit
+**Cost:** 5,000 L · **Avail.:** Rare · **Taint:** none
+Garl Tome's work, worn and then outgrown by a Sayer. Fitted to any mouth, it prevents speech from binding: Oathen's rule does not touch the wearer, nor does a Sayer's word they hear. The wearer cannot eat or speak clearly. The Bench wants all of them back.
+
+#### An Echo-Stone of Sworn Gorge
+**Cost:** 50 L · **Avail.:** Scarce · **Taint:** Dread 3
+A pebble from Sworn Gorge that has soaked up the echo. Held to the ear, it repeats the oath of 419 A.G., too faint to understand. Anyone who listens for a full minute is bound by it. Nobody knows what they have sworn. Halvar Stane buys them to grind into sand.
+
+#### A Puddle of Old Wet Tom's
+**Cost:** 40 L · **Avail.:** Scarce · **Taint:** 1 Regrowth (Dromm)
+A corked flask of water that followed Old Wet Tom down a corridor. Poured out, it makes a puddle much deeper than the floor. Things can be dropped into it and are gone. Something in it can be heard, very far down, asking for the cork back.
+
+#### Wren Hollowell's Hair
+**Cost:** 900 L · **Avail.:** Rare · **Taint:** none
+A lock of the Fasting Girl's hair, sold by someone who got close. A Blank relic: worn at the throat, it lets the wearer ignore Hunger Taint and gain no Hunger from the first Partake each day. Owning it is proof of having dealt with the Blank trade. The Thin kill for it, the Board pays for it, and the girl wants it back.
+
+#### A Dunmere Bird
+**Cost:** 60 L · **Avail.:** Scarce · **Taint:** Dread 1
+A sparrow that fell at the edge of Dunmere Hush, perfectly dead and perfectly whole, uncorrupting. In Sallowreach it is the only finished thing most people have ever seen, and collectors keep them under glass. Kept who hold one weep without moisture.
+
+#### The Scarecrow's Straw
+**Cost:** 30 L · **Avail.:** Scarce · **Taint:** 2 Hunger, 2 Dread
+A handful of straw from the Scarecrow of Low Tilth, taken at night by a dare. Scattered in a field, it shows on the next dusk which person will be Reaped there. Held in a pocket, it tells the land where you are.
+
+### Relics of the Road
+
+The relics below are the newest on the Rim's stalls: things the trade itself has made, from coin and paper and rope and bread, in the last few years, as the Regrowth quickens and the god begins to soak into the instruments of buying and selling.
+
+#### A Lettered Lack
+**Cost:** 400 L · **Avail.:** Rare · **Taint:** Dread 2
+One of three hundred coins from a batch Factor Orsolya Tare has held back at the Cure-House, in which the bone grew letters in its grain during the cure. Each spells a name. Every Carving the name changes, overnight, to the name of someone who will be Reaped that season in the land where the coin lies. Reading it needs a lamp and an Eye + Lore roll at Hard (14). The Renderers' Union wants the batch shipped; Pell Hogget would give his farm for one; the Cullmasters would like to know whether the coin follows the list, or the list the coin.
+
+#### A Night-Cut Rope
+**Cost:** 180 L · **Avail.:** Scarce · **Taint:** 2 Regrowth (Dromm)
+An anchoring rope cut in the night by its sleeper's own hand, though no knife was ever found. Tied at the wrist, it makes its wearer go uncounted: they are not missed at roll-calls, morning counts or watches, and pursuers who know them are at −4 to notice they have gone. Each night it is worn, roll a d10; on a 1 the wearer wakes at the nearest water, and nobody noticed them leave. Wreckwives burn these on sight.
+
+#### A Reaped Shoe
+**Cost:** 150 L · **Avail.:** Scarce · **Taint:** 2 Hunger, 1 Dread
+After every Reaping, single shoes are found at the edges of the far fields, never pairs. Worn on one foot, a Reaped shoe lets its wearer walk a dusk-shift field and come back: the field takes someone else instead. Each day it is worn, the foot inside grows warmer and softer and harder to lift from the ground; after a season, it has put down roots. Debtors on the Cullmasters' lists pay everything they have for one, and their neighbours watch to see who goes in their place.
+
+#### A Key from the Seeming
+**Cost:** 500 L · **Avail.:** Rare · **Taint:** 1 Regrowth (Iss), Dread 3
+In 638 a whole street of the Slope Seemed a door in a blank wall, and the Seeming was entered in the public record as news. When the street stopped seeing it, a key was found on the cobbles. Once per session, if three or more people with Fray 4 or more agree that a door is there, the key opens it, and the door is real until it is shut. Where the doors lead is the Carver's choice and is never quite where the users meant. Mirela Sconce has asked for it back for the record.
+
+#### A Void Naming-Right
+**Cost:** 90 L · **Avail.:** Scarce · **Taint:** Dread 3
+A Tally certificate for a birth that was taken to the Lying-In, with the name the holder chose still written on it. The birth was never named, and it knows it. Spoken aloud anywhere in Cradlewrack, the name brings something to the nearest closed door, which knocks, three times, politely, and waits. It can be asked one question through the door and answers in the voice of the person who sold the right. Asking it in is a choice.
+
+#### A Snapped Note
+**Cost:** 150 L · **Avail.:** Scarce in Tacit · **Taint:** Dread 2
+A sworn note on which the issuer defaulted. The paper crackles faintly when folded, with the sound of the break. A new note written and sworn on its back is backed by the original issuer's body as well as the new one's: if the new issuer defaults, the old one breaks again, at the next apt part, wherever they are. Paper-brokers deal in these quietly. The Bench calls it the sale of a man without his presence, and has not found a law against it.
+
+#### A Price-Witness's Plate
+**Cost:** 700 L · **Avail.:** Rare · **Taint:** 1 Regrowth (Tolm), Dread 1
+The brass collar-plate of a Tongue-line price-witness who, in forty years, never said one untrue thing. Worn, it carries Tolm's attention with it. Any bargain struck in its hearing, anywhere on the Table, binds both parties as a Weight 1 oath, with its Breaking, even outside Oathen. Merchants pay a great deal to wear one into a negotiation. The Company would pay more to have them all, and Lysander Coyle has begun to ask whether a road could be sworn by brass instead of by a notary.
+
+#### An Unclaimed Chit
+**Cost:** 3 L from a Crumb-Runner · **Avail.:** Uncommon in Wanting · **Taint:** Dread 2
+A ration chit stamped for a household Mother Stint Avery has struck from the list. Wherever its carrier sleeps in the Fast, a wooden bowl is found beside them at dawn, full and warm, with a spoon. Eating from it removes every level of Starving and is an Invitation (see the Fast). Not eating from it is a Dread 1 check, each morning, at the smell. The struck household's names are carved on the spoon, in a fine hand.
+
+#### A Homing Crumb
+**Cost:** 15 L · **Avail.:** Uncommon in the Sinks · **Taint:** Dread 1
+A crumb of Kept bone that cannot bear to be spent. Strung on a purse, it makes the purse impossible to lose for good: a stolen or dropped purse comes back to its owner within a day, under a pillow, in a boot, in the bread, greasy and full of flies. The thief's own purse comes too, sometimes. Marrow Jack's boys will not rob anyone who smells of the fen.
+
+#### A Nudger's Lead
+**Cost:** 120 L · **Avail.:** Scarce · **Taint:** 1 Regrowth (Iss), Dread 1
+The leather lead of a hired child nudger who blinked on duty and did not come back, and whose bed-number is on the tag. Tied to the wrist, it tugs every twenty breaths, for ever: the wearer cannot blink, and is immune to the Vigil's blinks and to being put to sleep by any means. Once a day it tugs toward Bedside and the Dormitory instead, hard, and the wearer must pass a Dread 1 check or follow it for an hour.
+
+#### The Chute Stamp
+**Cost:** 600 L · **Avail.:** Rare · **Taint:** 1 Hunger to whoever eats what it stamps
+A cooper's iron stamp from Barrelside, worn smooth, that reads BEEF. It has stamped over so many origins that it has come to believe itself. Anything stamped with it passes inspection as beef: Eye rolls to identify what it really is are at −6, and Hob Gristle himself must taste twice. It works on things that are not meat. The Renderers' Union wants it back, very badly, and will not say what was the last thing stamped.
+
+#### A Stranger's Loaf, Unbroken
+**Cost:** 25 L · **Avail.:** Scarce · **Taint:** Dread 1
+A Stranger's Loaf from a Gristmoot inn door that a traveller refused to eat, kept hard in a pack. While it is carried, the bearer can always leave: +4 to resist any Want, Invitation or kindness that would keep them where they are. Each day it is carried it weighs a little more. Gristmoot innkeepers will pay well to have one back. The house does not like to lose.
+
+### Further Leavings
+
+The companion volume *Seven Tables* catalogues more than a hundred further leavings, with the full rules for knowing of them, carving them and keeping them. The ones the Guests are likeliest to see on an ordinary Rim stall, rather than in a vault or a Carver's coat, are these.
+
+| Leaving | Land | Worth | Where on the Rim |
+| Glove-Thread of the Left Hand | Sallowreach | 30 L the inch | Fogmouth; every Seamer has a twist in a drawer |
+| Mitten-Lead | Sallowreach | 25 L a stone | Fogmouth, from Sinks pedlars |
+| Bottled Rootkin Sap | Fatlands | 8 L a phial | Gristmoot; sold on perfumers' shelves |
+| First Marbling | Fatlands | 15 L a crock abroad | the Groaning Board's kitchens |
+| Dry Jonah's Blue Label | Brinehollow | 80 L a bottle in the Vigil | Lampwick Halt, under the counter |
+| A Longslab Stone | Brinehollow | 2 L | Lowmark Spur; unlucky, and bought anyway |
+| Sleepers' Mile Moss | the Vigil | 30 L a wad | Lampwick Halt; legal on the Rim |
+| Lip-Clay of the Dilation | Cradlewrack | 15 L the jar | Knocking Gate |
+| Gullet Sand | Oathen | 80 L the pouch | Mumchance; the Bench forbids its export |
+| A Scratched Vow | Oathen | 30 L | everywhere east; nobody reads the slab first |
+| Barrow-Hair Rope | the Fast | 25 L the fathom | Wanting Post, to pilgrims who cut it |
+| A Stone of the Hem | the Rim | 60 L | anywhere the masons are slow |
