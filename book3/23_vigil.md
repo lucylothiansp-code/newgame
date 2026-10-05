@@ -636,7 +636,6 @@ Beneath it, on the Lanternside copy, in charcoal, in a child's hand: *he give my
 - *Sleep is a door that only opens inward.*
 - *He's on the Row.* (He is dead.)
 - *She went to the room.* (She fell asleep; she is gone.)
-
 - *Rest is for the Row.*
 - *A soft word is a pillow.* (Said of flatterers, preachers and the Bedded.)
 - *She's at the window.* (She is lost in time; she is not herself.)
@@ -655,10 +654,9 @@ Teodor. I am sorry about the coat. I am sorry it is the good one. I have been aw
 
 [box: The Lain-Down]
 Every year, hundreds of Vigilants lie down on purpose. The law calls it *voluntary rest*, prosecutes the nudger for negligence, and fines the family. The city calls it *going to the room* and does not talk about it. Those left behind carry it for the rest of their lives: they go to the Dormitory and stand at the foot of the bed, and the person they loved is there, warm, breathing, unchanged, smiling, unreachable, and will be there unchanged long after they themselves have grown old and gone onto the Row. There is no grave to leave, no body to bury, no end to the grief, only a bed with a number and a face that is still, horribly, at peace. GMs should play the Lain-Down as tragedy and as pressure, never as a solution: a contact who has started talking about how warm it must be; a nudger who has stopped pinching quite so hard; a widow who visits the same bed every day and has begun to bring a stool. The god's pull is gentle, reasonable and kind. That is the horror of it.
+[/box]
 
 [pull] They ask me what I'd say to her if she woke up. Nothing. I'd lie down next to her and shut my eyes. That's what I'd say. | — Teodor Rell, Keeper of the Lain Book, asked the question once too often
-
-[/box]
 
 ### The Gallow Street Lying-Down
 
@@ -820,7 +818,6 @@ The Warden-Prime has sent an envoy to Sallowreach with a proposal too terrible t
 - **The Deadwatch.** The Watch sends the party north as escort to Envoy Castellan Dray, with a chest of platters, a dozen nudgers and orders to ensure the Regent of Sallowreach says yes. On the road the nudgers begin to blink. In Lastgate, Dray asks the party privately whether they would volunteer to be the first.
 - **Forty-One.** Inspector Grimmer needs outsiders. Every blink-murder victim, he has found, was a secret member of the Lessening. Somebody, or something, is defending the Counted. Grimmer wants to know what, and he wants the party to blink deliberately, under guard, to find out what it is like to be used.
 - **What Aveline Says.** The Matron's notebook of Bed One's lip-words has been stolen. The thief is selling pages in the Pinchmarket. The pages contain names, and the people named on them are going to the room, one a day, in order.
-
 - **The Coverlet Breathes.** The locked room under the Nodding Stair has been opened from the inside. The Warden-Prime sends for the party at the third bell, alone, and takes them down with a lamp. The casket is open. The folded grey skin inside it has unfolded, a little, along its seam, and is the size now of a bedsheet, and is warm. Stroud wants it moved somewhere it cannot be seen by anyone else, and she wants it done before the next Regard. The Seldom have sent a card offering to take it in.
 - **The Larch Turn.** Sabine Larch learns, from Evander Quell, that the Reminding of Lack 641 falls to House Larch, and that the Larch's only Counted is her sister in bed 3,315: the first name on her own list. She hires the party to get Ilse out of the Dormitory before the eve of the Day of Nine Nights, by any means, and to hide her somewhere on the Lid where neither the Lessening nor the nine households can reach her. There is nowhere on the Lid like that. There is, perhaps, the back hall at the Last Beds.
 - **Ring-Closer.** A woman of Tallow Hollow begs the party to buy her mother a place in the ward under the Stair, because her mother has gone grey and the household has started to sway, and the family has set the day for the ring, and it is tomorrow, and it is forecast windy. The ward costs forty lacks. The ward, the party may discover, is full, and its attendants have not been relieved in a week.

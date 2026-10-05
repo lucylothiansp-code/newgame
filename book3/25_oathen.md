@@ -170,7 +170,6 @@ Every Oathener carries a pocketful of these, and uses them as other peoples use 
 - **Barring death, illness, or weather.** The Three Bars. Used in contracts and courtship.
 - **In so far as I can see.** For statements of fact. A blind man in Oathen can say almost anything.
 - **I am told.** Shifts the weight of a fact onto whoever told you. Rumour in Tacit travels entirely in this form.
-- **Unless the Bench rules otherwise.** Used for anything legal, and as a joke, which Oatheners find very funny.
 - **For today.** A child's exit, learned before the Unbitting: "I'll be good, for today."
 - **God willing.** Never used. It is a promise on Tolm's behalf, and the Bench has records of what happened to people who made one.
 [/box]
@@ -204,12 +203,6 @@ The great danger of the canyon country is echo. An oath repeated is an oath rene
 Whole gorges are posted as silent, with stone hands carved at their mouths, palm out. Wind is feared for the same reason: a vow overheard is still a vow, and when the dry Carving wind called the Tattler comes up from the south, families sit in their inner rooms in silence until it drops.
 
 Echoes do not always die. The Echo-Wardens divide them into four kinds, in their own clipped handtalk: *the short* (a word that dies in a bend or two, harmless except to the speaker); *the long* (a word that runs the length of a narrows, binding anyone who walks through it in its life, usually an hour or a day); *the kept* (a word caught in a hollow of the rock, a cave or fault, that comes out again whenever the wind or the river pushes air through it, for years); and *the living* (a word that has learned to move, and follows people). Every Warden knows the stories of the kept: the cave above Low Dray that says *I'll wait for you* in a young man's voice every evening when the river breeze turns, and has said it for a hundred and forty years, and the women of Low Dray who go up to listen to it because whoever it was meant it. The living are hunted.
-
-Of the oath in Sworn Gorge, sealed since 420 A.G., the Wardens do not speak, even in handtalk.
-
-[box: Why the Canyon Folk Lie Down to Speak]
-In the open canyon country, people who must say something important (a marriage vow, a sale, a confession) lie down on the ground to say it, face to the dirt, with a fold of felt or a cupped hand over the mouth, so that the words go into the soil and not into the air. The soil does not echo. Travellers take the sight of two drovers lying face down in the road, murmuring, for a prayer, or a fit. It is a contract. Some of the oldest Oathen marriage-houses in the upper gorges have no beds at all, only a deep felt floor, because a couple who will spend forty years saying things to each other in the dark had better say them downward.
-[/box]
 
 ### The Witness Is Inside
 
@@ -291,8 +284,6 @@ Three cells are occupied. In the first, since 598, is the First Sayer herself, t
 [box: The Sayer's Gold]
 A Sayer's bit is a work of terrible craft: soft gold over a core of lead, cast to the exact shape of the mouth, with a tongue-plate that has to be resized every few months as the tongue grows. The Bitmaker Garl Tome fits them himself. The gold must be pure. A bit cut with copper was found, in 611 A.G., to have been bitten clean through overnight, and the Sayer it held had said one word into the dark of the Cells before the guards reached her. No one knows what the word was. The Gilded Cells were walled off for six weeks afterward, and the guard who came out first had no ears, and smiled.
 [/box]
-
-[pull] They are not prisoners. Prisoners have a sentence. These have only ours. | — Brother Ansgar Mote of the Quiet, on a slate left at the Ledger Foot
 
 ## Land and Weather
 
@@ -530,7 +521,7 @@ Dress is plain and close-fitting, in dust-red and ochre wool, with long sleeves 
 Marriage vows are negotiated for months and run to forty pages, covering fidelity, property, illness, absence, the care of each other's dead, and what counts as "cherishing." Divorce does not exist: a marriage vow cannot be unsworn, only broken, and its Breaking is the chest opened to the air. What the faithless do, and what the vows forbid in their thicket of clauses, the canyon decently does not discuss aloud. The Tongue-lines marry cousin to cousin to keep the god's tongue in the family, and some old houses have married so close for so long that their children are born with mouths sealed over with skin, and must be cut open before they can feed.
 
 [fiction]
-FROM THE MARRIAGE CONTRACT OF TAMSIN ORLE, felt-maker of the Galleries, and BRANNOCK DELL, lift-hauler of the same, sworn at the Bench Terrace in the Plenty of 636. Forty-one pages. Drafted by Under-Drafter Wilm Esse at 5 L the page, the families sharing the cost. Extract, pages 17 to 19, read aloud by both parties on the wedding morning, lying face down on the felt of the Hall's marrying-room, as is the custom.
+FROM THE MARRIAGE CONTRACT OF TAMSIN ORLE, felt-maker of the Galleries, and BRANNOCK DELL, lift-hauler of the same, sworn at the Bench Terrace in the Plenty of 636. Forty-one pages. Drafted by Under-Drafter Wilm Esse at 5 L the page, the families sharing the cost. Extract, pages 17 to 19, read aloud by both parties on the wedding morning in the felted marrying-room of the Hall.
 Article the Ninth: Of Cherishing.
 9.1. Each party, as they now intend, shall cherish the other.
 9.2. "Cherish" shall be read, for the purposes of this contract, as follows: to wish the other well; to act, where able and where it does not endanger the party's children, kin or share, for the other's good; to speak no ill of the other before a third person save in a court, a sickroom, or the Vaults.

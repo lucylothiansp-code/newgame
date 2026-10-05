@@ -77,7 +77,7 @@ Before the Gorging, Ummer was carved on every granary lintel on the plains: a br
 
 ### The Week of Rising
 
-The plain did not merely recover. It *answered*. On the first morning the Trencher steamed like a pudding lifted from the cloth, and the clay had gone black and soft and greasy to the touch, and when a man named Aldous Crumb put his spade in it to see, the soil bled a little around the blade and closed over the hole in an hour. On the second day green shoots stood an inch high across every field within a day's walk of the Trencher; on the third, they were at the knee, and could be heard growing at night, a sound like many people breathing out through their noses. By the fifth day the wheat was at the shoulder and in ear. On the seventh it was cut, threshed and baked, and the first loaf of the Fatlands came out of a clay oven at Dimble with a crust that crackled like pork skin and a crumb that pulled apart in long, moist, pink-tinged threads, and the woman who baked it, tasting it, began to cry, and nobody could get her to say why.
+The plain did not merely recover. It *answered*. On the first morning the Trencher steamed like a pudding lifted from the cloth, and the soil bled a little around a spade and closed over the hole in an hour. By the third night the shoots could be heard growing, a sound like many people breathing out through their noses. On the seventh day the first loaf of the Fatlands came out of a clay oven at Dimble with a crust that crackled like pork skin and a crumb that pulled apart in long, moist, pink-tinged threads, and the woman who baked it, tasting it, began to cry, and nobody could get her to say why.
 
 The cattle came back the same week, though nobody had any cattle left to breed. Herds were found standing in the morning fields, silent, sleek, wet, as though calved from the ground in the night. The chronicle calls them "the gift-beasts." It mentions, in passing, that the first of them had no navels.
 
@@ -104,13 +104,6 @@ Dig a well and you strike something that flinches. Every Fatland well is lined w
 The livestock is the strangest of all, because livestock should be the one thing that was meat already. The cattle of the Fatlands are enormous, sleek, docile and silent. They do not low. They watch. Drovers say a Fatland steer will follow a man anywhere if he walks ahead of it eating, and the Renderers' Union does not employ anyone who has spent too long looking a steer in the eye. Pigs are hairless and pale, with long lashes, and they lie in their sties in rows on their sides like sleepers in a dormitory and breathe in unison. Chickens lay eggs with a heartbeat; a Fatland breakfast egg, cracked into the pan, twitches once in the fat before it sets. Nobody asks what the cattle eat in the far pastures when they are out of sight, because the answer is grass, and the grass here has teeth.
 
 And all of it, every mouthful, is delicious. This must be understood or nothing about the Fatlands will make sense. There is no bad food in the south. The poorest gristle-potato boiled in well-water is better than a lord's feast in Oathen. Fatland bread, broken hot, is so good that foreign travellers have been known to weep at the first bite and refuse to leave the inn. The Fatlands are the breadbasket and the meat-locker of half the Table, and every land that buys from them knows, at some level it does not visit, that it is buying the Laden god by the pound.
-
-[box: Did You Know?]
-- A Fatland miller's sieve is graded by the size of tooth it catches: *milk*, *mixed*, and *grown*. The Board's flour inspectors check that no flour is sold as milk-sieved that came off a grown-sieve harvest. They have never explained why it matters.
-- The sound of a Fatland granary at night is a soft, dry, ceaseless clicking, like a great many people chattering their teeth with cold. Granary-cats will not go in.
-- Toothed wheat cannot be grown anywhere but the Fatlands. Seed carried up the Rim Road sprouts, puts up one pale shoot with a single small incisor at its tip, and dies, as if it had looked around and not liked what it saw.
-- Fatland cooks never salt a dish they have not tasted, because the meat is often salty already, "from the tears," they say, and laugh, and do not explain that either.
-[/box]
 
 ### Things in the Wheat
 
@@ -465,8 +458,6 @@ Abroad, the Fatlands' power is food. They feed half the Table by way of the Rim 
 
 **Meals.** Five meals a day are mandatory: Firstbite at dawn, Elevenses, Midday, Fourth Plate, and Supper, with whatever the purse allows in between. Every meal begins with the grace, which thanks the field by name ("Thank you, Long Acre. Thank you, Hessop's Rise.") and ends with the plate wiped clean with bread. Strangers add the common "Lack keep away." Fatland cooking is lavish, rich and brown: pies and puddings, roasts and dripping, sausages fat as a forearm, gravy on everything. The poor eat potatoes and fat bacon and are not, by any outside measure, poor eaters.
 
-A Fatland kitchen is never cold and never clean. The hob is lit from the day a house is built until the day it is pulled down, and the pot on it is the house's heart; the walls are glazed brown with two centuries of steam, and drip slowly in Plenty, and the drips are scraped from the plaster with a knife and eaten on bread. A Fatland cook's hands are as recognisable as a smith's: shiny with fat to the wrist, scarred in white spatter-marks, the nails cut to the quick and the fingertips calloused from testing the heat of things by touch. Children are taught to cook before they are taught to read, and every child of five can render lard, make a roux, and judge a roast by the sound it makes when tapped.
-
 **Dress.** Fatlanders dress in loose layered smocks, laced at the side so they can be let out as the wearer grows. Belts are a mark of ill-omen and worn only by the Thin. The rich wear silk in field-colours, red and gold and green, cut wide, and pin their folds with brooches of polished bone. Teeth from the toothed wheat are threaded into necklaces for children.
 
 **Marriage and the body.** Weight is beauty, and courtship is conducted over food. A suitor feeds the beloved with his own hands at the betrothal supper, and the beloved's family watches to see that the feeding is generous. Wedding vows are sworn over a shared plate. Couples speak of "growing together," and Gut-lines marriages sometimes end with both partners rooted side by side in a single hill. What happens in a Fatland marriage bed is, in the Fatland view, simply another kind of appetite and is spoken of in the same breath as supper, with a knowing look. Outsiders are discomfited by how readily lovers there speak of wanting to eat each other, and by how literally some of them mean it. The love-tokens of the south are bites: a crescent of tooth-marks on the soft of the shoulder, worn proudly above a low smock; and widows of the Leanings keep, in a little bone box, a strip of their husband's wake-meat dried hard as leather, to put on the tongue at night when they cannot sleep.
@@ -532,8 +523,6 @@ When the party sits down at a wake (and sooner or later it will), roll or choose
 | 20 | The Unasked Course | a covered dish nobody ordered; the cook says it was on the bill; it is someone else |
 
 **Festivals.** The Weighing in Grace is a festival of three days, with pie-stalls the length of Sated and the Board brought to the scales on drays before a roaring crowd. Marbling morning is a children's holiday. Harvest Home at the end of Carving is a week of feasting that the Long Count has made very quiet in recent years. And on **Tablenight** the whole country attempts a one-day fast in penance for the Meal. Pantries are locked, keys are given to the priest, and everyone sits in silence. Nobody has ever recorded a village that made it to sundown. By noon children are screaming; by mid-afternoon someone has broken the pantry door; by dusk there is a riot of eating, shameful and joyful, in every village on the plain, and the year begins again.
-
-The Tablenight riot deserves its own description, because nothing else on the Table is like it. It begins with a sound, always the same: a door giving way somewhere in the village with a crack like a bone. Then feet. Then the whole village is in the pantries and cellars at once, in the dark, by touch, tearing open sacks and crocks and hams, eating raw flour from cupped hands, lard from the crock with the fingers, uncooked bacon, onions whole, skin and all, crying as they do it. Children are lifted onto shoulders to reach the hams hung from the beams and bite into them where they hang. Old women kneel in spilt meal and lick it from the boards. In the morning everyone is ashamed and kind to one another, and the priest gives back the keys, and nobody speaks of it until the next year.
 
 **Crime and punishment.** Fatland justice is fast and fed. Petty offenders are fined in meals owed. Brawlers are made to sit and eat together until they reconcile. Debtors are sent to the dusk-shift, from which they return, mostly, with the debt worked off. Mostly.
 
@@ -698,14 +687,6 @@ Underneath all of it is the arithmetic the Board will not publish. The Reaping d
 | 8 | Granny Cracknel can tell who's next for the Reaping by the teeth in the flour. *(True.)* |
 | 9 | Low Tilth was once twice the size, and half of it is under the wheat. *(True.)* |
 | 10 | The Brother Glut who preaches now is the third man to bear that name. *(False; it has always been the same man, less each year.)* |
-
-[box: More Talk at the Cookshop Counter]
-- "Dimble's ploughing with lads again. Don't look at me like that, it's in the Count." *(True.)*
-- "A Hessop never dies. They just go up the Rise and lie down with Granny." *(True, in its way.)*
-- "Lard Gammon's got his brother's voice in his belly. You can hear it if you sit near him at Supper." *(The Washers swear it.)*
-- "The Coldharbour Thin went into the snow because the Purgation stopped paying." *(False; the Thin will not say why.)*
-- "If you give a hill what it asks for, it'll keep the field off you." *(False. Ask Hask's End.)*
-[/box]
 
 ## The People of the Fatlands
 
@@ -887,10 +868,6 @@ Secret: He did it, and swore falsely on his brother's meat, and the Gammon Dowag
 
 [quick] Ambrosine Hessop — Threat 4 · Flesh 15 · Guard 11 · Attack +2 (hand 1) · Armor 1 (loam-flesh) · Dread 2 (to see the roots in her footprints by morning) · Persuade 5, Godsign 4; rooted at will on Hessop land, where she cannot be harmed by anything that grows
 
-[quick] Gammet Rake of Dimble — Threat 2 · Flesh 11 · Guard 10 · Attack +2 (crook 2) · Armor 0 · Dread 2 (to hear him describe the First Furrow over ham) · Lore 3 (the carving)
-
-[quick] The Reeve's Ghost of Hask's End (not a ghost; a scarecrow-shape of straw the village made in Amos Tallis's coat and set by Mother Furlong, who talks to it) — Threat 0 · Dread 2 (when it answers her)
-
 ## Playing a Fatlander
 
 You were raised on the best food on the Table and you have never once been full. You are large, warm, generous and polite, and you think of the dead as dinner and the fields as family. Abroad you will find other peoples' food grey and joyless, and their faces when you mention your grandmother's wake will teach you to stop mentioning it.
@@ -924,10 +901,6 @@ Play the warmth first. A Fatlander is the friend who brings a pie, the stranger 
 **The Course (Regrowth 7–9). Laden.** Your GUT rises by 1 (to a maximum of 6) and your LUNG falls by 1; your loam-soft flesh grants Armor 1 that stacks with worn armor. **Rooting.** Standing still on bare soil for a round, you may root: you cannot be moved, knocked down or Reaped, gain +2 Guard, and heal 1 Flesh per round. *Cost:* tearing free deals 1d6 Flesh; each hour rooted adds 1 Hunger and requires Caul + Resolve (Hard 14) to leave at all.
 
 **The Brink (Regrowth 10–11). The Field Answers.** Rooted, you feel every step on soil within a mile, and you may make the ground lean: crops grab and hold (Gut 5, Hard 14 to break free) for a scene, or a ripe field Reaps one helpless target at dusk. *Cost:* each use is a Dread 4 for witnesses and adds 2 Hunger; on a Lack, you do not uproot for a day.
-
-[box: Playing the Gifts]
-The Fatland Gifts are generous, and they should feel like it: Iron Belly makes the Fatlander the one who eats the strange thing in the strange land so the others do not have to; Taste the Name makes them the party's interrogator in the most intimate and dreadful way; Rooting makes them a wall. Describe each use as appetite. A Fatlander who Tastes the Name does not sip; they *savour*, and the player should be invited to say what the blood tastes of. A Fatlander who roots should feel the warmth coming up through the soles and the soil saying *stay*. And the GM should remember that every Gift is the god, fattening, and that the people who love the character will notice the change in them first: at the Appetite, in how they look at the soft parts of their friends; at the Course, in the shoots that come up in their elbows overnight; at the Brink, in the way the wheat leans when they speak.
-[/box]
 
 ### Wants
 
