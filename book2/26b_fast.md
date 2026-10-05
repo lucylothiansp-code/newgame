@@ -47,7 +47,7 @@ Her power is the Red Ledger, and its limit is that nobody wants to read it. The 
 #### Wants, Fears and Secrets
 Mercy wants the Red Ledger read aloud in the Pantry, every name, and the standing order repealed. She wants to walk into one of Barr's houses with Aldane's sixty spearmen and carry everyone out, and she knows exactly how many would die of the carrying. She fears the Fast will hear her and shrug: they ate on the road, so they are no longer Unfed. Wont Bellamy has said almost exactly this.
 **Secret (hers):** to buy the buyers' initials, she sold the Cutwrights' College a fair copy of her four thousand measures. The price of a "Zero-line specimen" on the Rim has risen by a third since, because buyers can now be shown, in her own charts, how clean the organs are.
-**Secret (unknown to her):** her younger brother, Abide Thrane, a farmer at Pollard's Rest, vanished in the Carving of 632 and is name one hundred and four in her ledger, without a buyer. The farmer called Abide whom Master Barr has kept alive between harvests for nine years, and who has lately begun to put on weight, is her brother. The plank says *A.T.* It is not Abate Tolly.
+**Secret (unknown to her):** her younger brother, Abide Thrane, a farmer at Pollard's Rest, vanished in the Carving of 632 and is name one hundred and four in her ledger, without a buyer. The farmer called Abide whom Master Barr has kept alive between cuttings for nine years, and who has lately begun to put on weight, is her brother. The plank says *A.T.* It is not Abate Tolly.
 #### Ties
 - **Kale Dragoman** — set her broken wrist on the Rim in 636 and offered her supper three times. She has regretted not killing him that night.
 - **Marshal Keep Aldane** — her only friend; she held his hand in 624 while the surgeon dug out a bolt.
@@ -139,7 +139,7 @@ Gifts: The Register (with Eye + Lore at Routine 10 she can state the published R
 Wants: To read the numbers aloud until somebody listens. To keep the Refusal clean, whatever it costs a historian. Never to dream of a particular face again.
 Knacks: No Thank You, Table Manners
 Derangements: The Watchers (triggered by being alone with strangers; she believes every legation keeps a file on her, and she is right)
-Carries: the Register of Damnation; credentials on Pantry linen; a pewter flask; a platter in a glove; an unanswered letter; a stick of chalk
+Carries: the Register of Damnation; credentials on Pantry linen; a stick of chalk; an unanswered letter; a list of four names
 Dread: 1 (to hear her recite a family's Regrowth to their faces)
 [/stat]
 #### Who They Are

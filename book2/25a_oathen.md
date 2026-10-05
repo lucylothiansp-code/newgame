@@ -728,7 +728,7 @@ She wants to be understood: to say one sentence of her own and have it be what s
 - **Garl Tome** — his hands on her face every few months are the only touch she knows.
 - **Old Pell Sarrow** — the floor-walker who swept her brother's blood. She can hear him, sometimes, sweeping in the Heights a mile above, and listens.
 - **Mirren Osk** — Mirren's patron was Lady Senna Dath, Imre's mother. Imre heard the poem being signed at that party, through rock. She knows who it was really for.
-- **Varro Esk** — a guest who has visited with a Bench pass twice and spoken to her about the god being whole on the table. She listened. She did not like his voice.
+- **Varro Esk** — a voice she has heard many times in the record-rooms above, charming junior Benchers, asking how a visitor might come down to the Cells, and talking about the god being whole on the table. She has listened with every ear. She does not like his voice.
 - **Corwin Dath** — her brother, mouth open to the ears for three years. She would like to say *I am sorry*, and cannot risk what it would do.
 
 #### In Play
