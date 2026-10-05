@@ -316,29 +316,25 @@ Dread: 2 (to watch him move); 3 (to hear the tube when he laughs)
 
 #### Who They Are
 
-The Regent of Sallowreach sits in a high-backed chair of black fen-oak at the head of the Hall of Hands, and almost never leaves it. He is small, smaller than his portraits, because the centuries have settled him downward the way they settle every Kept body: the spine has compressed, the shoulders have come forward, and the head, held up by a collar of brass wire hidden under a stock of black silk, sits a little too far in front of the rest of him. His face has been lacquered so often, by so many Masters of the Guild, that it is no longer skin but a deep glossy amber shell, like a violin, through which, in strong lamplight, you can see the dark shapes of what is underneath. The eyes are glass, very good glass, blue, made in the Vigil in 455; his own went in the 380s. The jaw is wired shut. He speaks through a brass tube let into the front of his throat below the larynx, fitted by Thessaly Mort in 470, and the voice that comes out of it is dry, small, metallic and very precise, a clicking whisper that makes clerks lean in, so that everyone who speaks to the Regent ends up bowing.
+The Regent sits in a high-backed chair of black fen-oak at the head of the Hall of Hands, and almost never leaves it. He is smaller than his portraits: the centuries have settled him downward, the spine compressed, the head held up by a collar of brass wire under a black silk stock. His face has been lacquered so often that it is no longer skin but a deep glossy amber shell, like a violin, through which, in strong lamplight, you can see the dark shapes underneath. The eyes are blue Vigil glass, made in 455. The jaw is wired shut. He speaks through a brass tube in his throat, fitted by Thessaly Mort in 470, in a dry clicking whisper that makes everyone who speaks to him lean in, so that everyone who speaks to the Regent ends up bowing.
 
 He smells of cedar first, then varnish, then, faintly, unmistakably, of something sweet: a bowl of fruit forgotten in a warm room. Under the lacquer, his hands are grey to the second knuckle, the nails gone thick and dark as horn. He keeps them in fine black gloves. When he moves them, which is rarely, they move one finger at a time, and there is a small sound inside each joint like a seed rattling in a dry pod.
 
-Those who meet him come away describing not a monster but a schoolmaster: courteous, patient, faintly bored, with an infinite memory for precedent and no interest at all in anything that has not happened before.
+Those who meet him describe not a monster but a schoolmaster: courteous, patient, faintly bored, with an infinite memory for precedent and no interest in anything that has not happened before.
 
 #### Their Story
 
-Ansel Grue was born in 229 to the left-hand line of Hessa Grue, in the Gruesholt hall that his family still owns. He was a clever, cold child who learned to read from the Court's ledgers and closed every door in the house by the age of four. At seventy-two, in 301, he was a junior Hand of the Court, and it was Ansel Grue who drafted the fee-schedule of the Licensing: the first price of death, the rule of consent, the threefold question, the license number. Every license since bears the form of words he wrote that winter.
+Ansel Grue was born in 229 to the left-hand line of Hessa Grue, a cold clever child who closed every door in Gruesholt by the age of four. In 301, a junior Hand of seventy-two, he drafted the fee-schedule of the Licensing: the first price of death, the rule of consent, the threefold question. Every license since bears his form of words. In 340 the Regent of the day, Lorimer Vane, was charged with treason for proposing free Closings for the Set-Aside, on a charge Grue drafted, and was recorded as having "retired to Glovehall, not receiving." Grue was confirmed Regent in 341, living, a hundred and twelve, withered, already the most feared clerk in the country. Nobody has seen Lorimer Vane since.
 
 In 340 the Regent of the day, Lorimer Vane, was charged with treason for proposing that the Court give Closings free to the Set-Aside. The charge was drafted by Grue. Lorimer Vane was officially recorded as having "retired to Glovehall, not receiving," and Grue was confirmed as Regent in 341, at the age of a hundred and twelve, living, withered, and already the most feared clerk in the country. Nobody has seen Lorimer Vane since.
 
-In 371, aged a hundred and forty-two, Grue was thrown from a Kept horse on the causeway when it shed a leg under him, and broke his neck and jaw on the planks. He was back in his chair in nine days, stitched, wired, still bleeding a little brown at the collar, and he heard four petitions that afternoon. He has been in the chair ever since. He has outlived (in the only sense that word has here) eleven Masters of the Guild, nine Captains of the Fen Guard and every one of his enemies, all of whom are still around.
-
-In the Carving of 610, alone, at night, he sent for Lady Corrow Vane, then thirty and newly at the Course, and asked her to close him. She took off her glove and laid her hand over his eyes. Nothing happened. He thanked her, and she put her glove back on, and neither of them has spoken of it since.
+In 371, aged a hundred and forty-two, he was thrown on the causeway when his Kept horse shed a leg, and broke his neck and jaw on the planks. He was back in his chair in nine days, stitched and wired, and heard four petitions that afternoon. In the Carving of 610, alone, at night, he sent for Lady Corrow Vane, then thirty and newly at the Course, and asked her to close him. She laid her bare hand over his eyes. Nothing happened. Neither has spoken of it since.
 
 #### Their Place in the Land
 
-Grue is the keystone. Every death in Sallowreach passes under his hand, because he signs every license personally, in a slow, beautiful, copperplate signature that takes a full minute and cannot be forged, because the ink is mixed with lacquer scraped from his own face. Every minute and breath in circulation bears his name. He presides over the Hall of Hands on every capital case, confirms every Closer's appointment, and receives the Unvacated aldermen, who confirm him in turn every ten years in a ceremony that has never yet been contested.
+Grue is the keystone. Every death in Sallowreach passes under his hand: he signs every license personally, in a slow copperplate that takes a full minute and cannot be forged, because the ink is mixed with lacquer scraped from his own face. Every minute and breath bears his name. He presides over every capital case, confirms every Closer, and is confirmed in turn by the Unvacated aldermen every ten years, in a ceremony never yet contested. At second bell he hears petitions in order of filing, which for some means thirty years of waiting; at fifth bell he signs licenses, never more than forty a day; at ninth bell the shutters close and he sits on in the dark with the License Ledger on his knees, counting.
 
-His day does not vary. At first bell his clerks carry in the night's petitions. At second bell he hears them, in order of filing, which for some petitioners means waiting thirty years. At fifth bell he signs licenses: never more than forty a day, because that is the rule he made in 301. At ninth bell the shutters of the Hall are closed, every one, and he sits on in the dark, alone, with the License Ledger open on his knees, counting.
-
-His power has limits, and he knows each one exactly. He cannot strike the Seamers, who keep his face on. He cannot overrule the Unvacated, who own the buildings the Court meets in. He cannot command the Hushes. And he cannot leave the country, because if he crossed the border his four hundred and twelve years would arrive all at once.
+He knows his limits exactly. He cannot strike the Seamers, who keep his face on, or overrule the Unvacated, who own the buildings the Court meets in. He cannot command the Hushes. And he cannot leave the country.
 
 #### What They Carry
 
@@ -364,13 +360,11 @@ Grue wants order: precedent, process, ledgers that balance and doors that are sh
 - **Osric Vane** — a weapon he has declined to use and a Brink he has declined to close. He receives a weekly report on the lead mittens.
 - **Thessaly Mort** — the only person in the country who can unmake him by withholding a stitch. They have dined together, he not eating, every Restitching Week since 451.
 - **Jory Welt** — a petitioner whose case has been adjourned for forty years. Grue knows exactly where the Boy lives and lets him live there.
-- **Provost Carrion Sedge** — the man whose ledgers could end the Court. Grue has offered to buy them three times.
 - **Envoy Castellan Dray** — a guest he is keeping waiting, as he keeps everyone waiting. He has begun to enjoy the visits.
-- **Justice Ever Lathe** — appointed by Grue in 402. Grue reads every one of the Justice's rulings and has never overturned one, and does not know whom he is agreeing with.
 
 #### In Play
 
-PCs meet the Regent when they petition the Court for a license, a pardon or a ruling; when they become a threat to the order of the country; or when they bring him something he cannot ignore, such as Sack Seventeen, Sedge's ledgers or Pim Sorrel. He wants from them what he wants from everyone: that they file properly and wait. He will hire them, through intermediaries, to retrieve documents, silence witnesses or find out where the next Hush will open.
+PCs meet the Regent when they petition the Court, threaten its order, or bring him something he cannot ignore: Sack Seventeen, Sedge's ledgers, Pim Sorrel. He wants them to file properly and wait, and he hires them, through intermediaries, to retrieve documents and silence witnesses.
 
 - **The Fortieth Signature.** The Regent has signed thirty-nine licenses today and will not sign the fortieth, because the fortieth is for a Hush-dragged alderman whose family wants it backdated. The family hires the PCs to find out what would make him sign.
 - **Sack Seventeen.** The PCs have the sack. Grue's clerk offers them a full license each for it, unopened. The Heirs offer them a printing press and a riot. The sack offers them nothing; it only asks, in a voice like a drowned bell, to see the Regent.
@@ -407,23 +401,21 @@ Dread: 2 (to see her gloves come off)
 
 #### Who They Are
 
-Corrow Vane is tall, very straight, and very still, and her stillness is the first thing that frightens people, before they notice the smell, or rather its absence. She smells of nothing at all. In a country where everyone carries cedar or vinegar or peat-smoke or rot, she carries nothing, and the air around her is clean as cold water, and people who have stood beside her in a crowded room describe it as standing beside an open grave that has been scrubbed.
+Corrow Vane is tall, very straight and very still, and she smells of nothing at all. In a country where everyone carries cedar or vinegar or rot, the air around her is clean as cold water, and people who have stood beside her describe it as standing beside an open grave that has been scrubbed.
 
-She is sixty-one. Her ash-blonde hair, gone silver at the temples, is worn in a single severe coil pinned with black pins. Her face rarely moves; she learned young that expressions frighten clients. Her voice is low and exquisitely courteous, and she uses very few words. Her gloves are black kid, cut long, sewn on at the wrist with nine stitches of black silk each, and under them her hands are slate grey to a hand's breadth above the wrist, cold enough to sting through the leather, the fingers each with two joints too many, so that at rest under the glove they curl slightly the wrong way. She keeps them folded at her waist, left over right, and never, ever gestures.
+Her ash-blonde hair, silvering, is worn in a single severe coil. Her face rarely moves; she learned young that expressions frighten clients. Her voice is low, courteous and sparing. Her gloves are black kid sewn on at the wrist with nine stitches of black silk, and under them her hands are slate grey past the wrist, cold enough to sting through the leather, each finger with two joints too many. She keeps them folded at her waist, left over right, and never gestures.
 
 #### Their Story
 
-Corrow was born at Glovehall in 580, the elder child of Lord Hamnet Vane, a Closer, and was raised as the eldest Vane daughters have been raised since the Meal: to be the hand of the Court. She could not sleep with a door open at three. At fourteen she wore mittens. At twenty-two, in 602, her fingers went grey, and her father took her to the Hall of Closings and stood her in the corner of Chamber One to watch him work.
+Corrow was born at Glovehall in 580, the elder child of Lord Hamnet Vane, a Closer, and raised to be the hand of the Court. At three she could not sleep with a door open; at twenty-two her fingers went grey. She performed her first Closing at twenty-three, on a Glad Century fisherman who had asked for two hundred years, and has performed eleven thousand since, four or five each working day. She was named Left Hand in 618, the youngest in three centuries.
 
 She performed her first licensed Closing at twenty-three, on a Kept fisherman of the Glad Century who had asked for it for two hundred years. She has performed eleven thousand since: a little over two hundred and sixty a year, four or five each working day. She keeps count. She was named Left Hand in 618, the youngest in three centuries.
 
-She married in 599, by arrangement, Lord Merriman Vane, a gentle Sedge cadet who took her name. She bore two sons, Aldous in 601 and Teodor in 605, and handed each to a nurse at the moment of birth, and has never held either. The boys were taught to keep three paces from her. Aldous, now forty and a Licenser of the Court, drafts the licenses his mother executes, and has never touched her skin. Merriman drowned in the Glovehall moat in 622, under circumstances nobody discusses, and is Kept in the south wing. She has offered, every year, to close him. He has refused every year. He says he would like to stay near the boys.
+She married in 599, by arrangement, Lord Merriman Vane, a gentle Sedge cadet who took her name, and bore two sons, Aldous in 601 and Teodor in 605, handing each to a nurse at birth. Aldous, now forty and a Licenser of the Court, drafts the licenses his mother executes and has never touched her skin. Merriman drowned in the Glovehall moat in 622 and is Kept in the south wing. Every year she offers to close him. Every year he refuses; he says he would like to stay near the boys.
 
 #### Their Place in the Land
 
-The Left Hand commands the nine Closers of the Court, assigns them their licenses, and performs the most important Closings herself: Unvacated aldermen, Court officers, rewards granted by the Regent. Her waiting list is years long; her fee, on top of the license, is a further three hundred lacks, which goes to the Court. She works in the Hall of Closings from third bell to sixth, five days in seven, and spends the rest at Glovehall, measuring the garden. Her Glovebearer, **Prudence Lisk**, a living clerk of twenty-nine, unpicks the nine stitches before each Closing with a silver needle and sews them back after; the two women have worked side by side for six years and have never exchanged a word not about the work.
-
-She is the Court's sharpest blade and its most reliable one, and she is used, too, for deniable work: a Kept rebel closed in a back room, an inconvenient witness finished in the Jar Room without trial. She does it. She does not ask. Her limits are the license and the consent, which she enforces on every Closer but herself, and Glovehall, which is hers in law because her father is shelved in the Lofts and has signed it over.
+The Left Hand commands the nine Closers of the Court and performs the important Closings herself: aldermen, Court officers, the Regent's rewards. Her waiting list is years long. Her Glovebearer, **Prudence Lisk**, a living clerk of twenty-nine, unpicks and resews the nine stitches with a silver needle; in six years they have exchanged no word not about the work. She is also used for deniable work, a rebel closed in a back room, a witness finished in the Jar Room, and she does it without asking. She enforces the license and consent on every Closer but herself.
 
 #### What They Carry
 
@@ -450,12 +442,11 @@ Corrow wants to be told that she is not the cause. She fears only one thing, and
 - **Lord Merriman Vane** — her Kept husband in the south wing, who refuses her every year. She envies him his refusal.
 - **Aldous Vane** — her son, a Licenser, three paces away all his life. He forges her name.
 - **Lord Absalom Hethe** — her brother's only other visitor. She finds him charming and does not trust a single word.
-- **Provost Carrion Sedge** — a cousin of her husband, who has shown her his map once, with her estate at the center of it.
 - **Pim Sorrel** — a child who can do what Corrow does without the grey, without the cold, and without the Court. Corrow has asked for her to be brought to Glovehall. She will not say why.
 
 #### In Play
 
-PCs meet the Left Hand at a Closing they are attending or paying for, when the Court needs agents it can deny, or when a PC Hand-line enters the Course and is summoned to Glovehall to be told what is expected of them.
+PCs meet the Left Hand at a Closing, when the Court needs deniable agents, or when a PC Hand-line enters the Course and is summoned to Glovehall to be told what is expected.
 
 - **The Glovehall Garden.** She hires the PCs to measure the orchard Hush secretly each night for a month and report which way it grows. She already knows. She is paying for a different answer, and if they bring her the true one she will thank them, pay them double, and ask them to forget they ever came.
 - **The Forged License.** A grandmother in the Sinks has been finished at the Hush edge with a license bearing Corrow's name, and Corrow did not close her. The Court wants the forger. So, quietly, does Corrow. Following the trail leads to her own son.
@@ -492,11 +483,9 @@ Dread: 3 (in the same room); 4 (unmittened)
 
 #### Who They Are
 
-You know you are near the west wing of Glovehall before you reach it, because the sound goes. Your footsteps on the boards grow soft and then grow distant, as though they belonged to someone walking away from you. The flies stop. The lamps lean away from the corridor. And then there is a door, black, double-barred, with a small hatch at head height, and behind it a voice that is warm, educated, gentle and very lonely, saying, *Hello? Is someone there? Please, come and talk. I promise to keep my eyes shut.*
+You know you are near the west wing of Glovehall because the sound goes. Your footsteps grow soft and distant, the flies stop, the lamps lean away. Then there is a black double-barred door with a hatch, and behind it a warm, educated, lonely voice: *Hello? Is someone there? Please, come and talk. I promise to keep my eyes shut.*
 
-Osric is fifty-four and looks older and younger at once. His face has gone smooth and grey, the features softening as if seen through the Breath, and the lips curve gently upward in an expression everyone at Glovehall has agreed not to call a smile. His hair has gone white and very fine and lifts a little in the still air of the room as if in a draught. He is thin; he eats little, out of a sense that he should not. He wears a scholar's gown, much mended by a Seamer who comes through the hatch. His hands, inside the lead mittens, are grey to the elbow, long, with nine joints to every finger, and when they move inside the lead you can hear them, a dry fan-like clicking like an abacus counted very fast, in a room too quiet to carry the sound.
-
-He reads constantly. He is courteous to everyone, interested in everyone, and asks every guard about their family.
+His face has gone smooth and grey, softened as if seen through the Breath, the lips curved in an expression everyone at Glovehall has agreed not to call a smile. His white hair lifts a little in the still air. He is thin, and wears a much-mended scholar's gown. Inside the lead mittens his hands are grey to the elbow, with nine joints to every finger, and when they move you hear a dry clicking like an abacus counted very fast. He reads constantly and asks every guard about their family.
 
 #### Their Story
 
@@ -506,9 +495,7 @@ Osric asked for the mittens himself, the next morning. In 629, when his hands be
 
 #### Their Place in the Land
 
-Officially Osric is an heir of the Vane house, a Hand of the Court in abeyance, and an invalid. In fact he is the most dangerous thing in the Court's keeping and the clearest proof of what every Hand-line is becoming, and the Court does not know what to do with him. The Leaden party would wall him up. The Quiet Market would sell him. The Regent receives a weekly report on his mittens and does nothing. He is guarded by a detail of six Kept soldiers of the Fen Guard, changed every month, and visited by his sister once a month, by a Seamer once a week, and by Lord Absalom Hethe every Thursday.
-
-His routine is the routine of a prisoner who has chosen his cell: reading (a guard turns the pages through the hatch with a long ivory paddle), writing (he dictates), long conversations through the door, and, at night, sitting very still in the middle of the floor with his eyes shut, trying not to want.
+Officially Osric is a Hand of the Court in abeyance and an invalid. In fact he is the most dangerous thing in the Court's keeping and the clearest proof of what every Hand-line is becoming. The Leaden party would wall him up; the Quiet Market would sell him; the Regent reads a weekly report and does nothing. Six Kept soldiers of the Fen Guard guard him, changed monthly. His sister visits monthly, a Seamer weekly, Lord Absalom Hethe every Thursday. He reads (a guard turns the pages through the hatch), dictates letters, talks through the door, and at night sits very still in the middle of the floor, trying not to want.
 
 #### What They Carry
 
@@ -531,13 +518,12 @@ Osric wants to be of use. He has spent twelve years doing nothing but not-harmin
 - **Lord Absalom Hethe** — his only friend, he believes. Thursday is the best day of his week.
 - **Pell Ambry** — the Fatlander he made Kept with a handshake. Osric pays his rent in Stranger's Row through a lawyer, and has never been able to write to him.
 - **Captain Dace Morrow** — whose men guard him, and keep dying. Morrow has begun to suspect.
-- **Ansel Grue** — who reads the weekly reports and has never visited.
 - **Lord Casimir Hollowe-Vane** — a young cousin who wrote to him every month, and stopped. Osric believes, rightly, that Casimir ran from Sallowreach to avoid becoming him.
 - **Pim Sorrel** — he has heard about her through the hatch. He has asked to meet her, with his eyes covered. He would like to ask her whether it is cold.
 
 #### In Play
 
-PCs meet Osric if they are hired to guard him, visit him on Corrow's or Hethe's errand, try to steal him for the Second Table, the Heirs, the Finishers or Marrow Jack, or come to Glovehall to measure the garden and hear a voice through a door asking for news.
+PCs meet Osric as guards, as messengers for Corrow or Hethe, as thieves sent by the Second Table, the Heirs or Marrow Jack, or simply by hearing a voice through a door at Glovehall asking for news.
 
 - **The Thirteenth Guard.** A PC is posted to the west-wing detail. Osric is charming. He asks how the PC sleeps. A week later he asks whether the PC is tired. Players who read the knotted thread may work out what is coming.
 - **The Lead Coffin.** Lord Hethe has commissioned a lead coffin from a plumber in Tanner's Boards, with air-holes and a lock on the inside. The plumber, frightened, hires the PCs to find out who it is for.

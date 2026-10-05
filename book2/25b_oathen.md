@@ -3,7 +3,7 @@
 > Every face in the canyon is a ledger. Learn to read the columns: what they swore, what they kept, and what it cost them to keep it.
 >> — Cutwright Hessa Lisk, in her lecture to new clerks of the Tacit office
 
-The first half of Oathen's people are the ones who govern it: the king who has never spoken, the Bench that speaks for him, the Sayer below the Ledger and the broken who shout at all of them from the canyon floor. The people who follow are the ones who live underneath that government and inside its consequences. A widow who has fed a fire for thirty-one years. A smith who makes the silences everyone else wears. A woman who knows why the rain was late. An old fixer with nine hundred souls on a string. A soldier at the top of a pass he cannot leave, a swindler who has never finished a sentence with a full stop, a nun who is afraid of her own thoughts, a diplomat who has begun to enjoy lying, a boy who was promised into being, a carver with a list, and the gentlest killer on the Table.
+The first half of Oathen's people govern it. Those who follow live underneath that government and inside its consequences: a widow, a smith, a rain-keeper, a fixer, a soldier, a swindler, a nun, a diplomat, a promised boy, a carver and the gentlest killer on the Table.
 
 None of them is safe to talk to. All of them are worth it.
 
@@ -526,19 +526,19 @@ Dread: 2 (her sealed mouth)
 
 #### Who They Are
 
-Verity Amn is tall, gaunt, and holds herself like a rod. Her face is long and fine-boned, the face of the old Tongue-lines, and from her nose to her chin there is no mouth. Where her lips should be there is a smooth, pinkish band of new skin, faintly ridged where the two lips met and grew together, puckered at the right corner around a small silver ring the width of a straw, through which she drinks broth by reed. Below the seal her jaw moves, sometimes, on its own: a slow chewing, as if something were working behind the skin. Her eyes are dark, deep-set, patient and appalled.
+Verity Amn is tall and gaunt, with the long fine face of the old Tongue-lines, and from her nose to her chin there is no mouth: only a smooth pinkish band of new skin, ridged where the lips grew together, puckered at one corner around a silver ring the width of a straw. Below the seal her jaw moves, sometimes, on its own, as if something were working behind the skin. Her eyes are dark, patient and appalled.
 
 She smells of goose fat and honey, from the salve she rubs into the seal so that it will not crack. She writes on slate in a fast, beautiful, slanting hand, wiping and writing and wiping, with a sound like a rasp of breath, and her teaching is famous: the clearest, coldest prose in Oathen. She is gentle with novices and merciless with herself.
 
 #### Their Story
 
-Verity was born in 589 A.G. to House Amn, a Tongue-line of the high Sunward, and was a talkative, brilliant girl who argued with her tutors in perfect conditionals. At seventeen she reached the Appetite and swore in her sleep: small terrible things, "I will have your eyes," to her sister, through the iron. At nineteen, in 608, she went to the Quiet and took the knife to her own tongue, as Abbess Hollin Mure had, and held the stump closed with her own fingers while the sisters stitched it.
+Verity was born in 589 A.G. to House Amn, a Tongue-line of the high Sunward, a brilliant, talkative girl. At seventeen she reached the Appetite and swore through the iron in her sleep ("I will have your eyes," to her sister). At nineteen, in 608, she went to the Quiet and took the knife to her own tongue, as Abbess Hollin Mure had.
 
 That night, alone in her cell, in fever, she thought, with perfect clarity and complete intent, "I will never speak again." In the morning her lips had grown together. The Quiet's surgeon, Brother Ansgar Mote, opened them in 609 and again in 621; each time they sealed within a month. She stopped letting him. She understood, before anyone else in Oathen, what had happened: for the highest bloodlines, a promise made only in thought now binds. She has spent thirty years teaching the Quiet how not to think.
 
 #### Their Place in the Land
 
-The Quiet's cliff-cells along the upper Gullet house some two hundred sisters and brothers, most silent by vow, some by knife. Verity is the most revered of them after the Abbess, and the author of the Stillmind slates, the order's discipline of empty thought: meditation on water, wood-grain, sand; the habit of thinking in the present tense only; the long practice of noticing a vow forming and letting it fall, like a stone dropped into the river. Tongue-line families send their Appetite-struck children to her in secret, because her discipline works, a little. The Bench pretends her teaching does not exist, because if it is true, then nothing an Oathener does is private.
+The Quiet's cliff-cells along the upper Gullet house some two hundred sisters and brothers. Verity, most revered after the Abbess, wrote the Stillmind slates: meditation on water, wood-grain and sand; thinking in the present tense only; noticing a vow as it forms and letting it fall like a stone into the river. Tongue-line families send their Appetite-struck children to her in secret, because it works, a little. The Bench pretends her teaching does not exist, because if it is true, nothing an Oathener does is private.
 
 #### What They Carry
 
@@ -605,19 +605,19 @@ Dread: 0
 
 #### Who They Are
 
-Dorian Sayce is the best-dressed man on the Rim Road: silver hair swept back and oiled with cedar, a long pale clever face, a coat of black Brinehollow wool cut so close it looks painted on, a white Tongue-line collar high to the jaw, and on his thumbs six rings, one for each treaty he carries. He moves like a dancer and stands like a post. He smells, always, of vinegar, from the kerchief he holds to his nose whenever a foreigner boasts, and under it, of cedar and clean linen.
+Dorian Sayce is the best-dressed man on the Rim Road: silver hair oiled with cedar, a long pale clever face, black Brinehollow wool cut close as paint, a white Tongue-line collar, and six thumb rings, one for each treaty he carries. He smells always of the vinegar on the kerchief he holds to his nose when a foreigner boasts.
 
 His voice is soft, dry, and terribly exact, and he speaks foreign tongues with an Oathener's care, each sentence weighed and weighted. Abroad, his silences are famous: he will let a Fatlands Board-member promise him the moon and say nothing for a full minute, and then say, "I see," and the Board-member will find himself, inexplicably, apologising.
 
 #### Their Story
 
-Born in 591 A.G. to House Sayce, a Tongue-line of envoys, Dorian was trained from his Unbitting to speak to liars. He was posted to the Rim at twenty-four and has spent twenty-six years abroad, in every capital of the Table, carrying treaties east to be sworn and bringing back the tithe. He has never lied. Not once, not even abroad, where it would cost him nothing: not to the Regent Ansel Grue, not to the Board of Plenty, not to a dying Unfed child in Wanting who asked if she would see her mother. It is the core of his power. He is the only diplomat on the Table that every government believes.
+Born in 591 A.G. to House Sayce, a Tongue-line of envoys, Dorian has spent twenty-six years abroad carrying treaties east to be sworn. He has never lied: not to the Regent Ansel Grue, not to the Board of Plenty, not to a dying Unfed child in Wanting who asked if she would see her mother. It is the core of his power.
 
 Last spring, in Lastgate, a Kept woman of the Mortuary Court, her face held on with gauze, asked him whether she looked well. And Dorian Sayce, who was tired and far from home and had been told nine hundred lies that month, said "You look well," and walked away whole, and felt a lightness he had not felt since he was a boy.
 
 #### Their Place in the Land
 
-Dorian is Oathen's honesty sent abroad: the proof that an Oathener's word can be trusted on any soil. He carries the Crown's treaties between capitals, witnesses foreign contracts for the Company where Jessamy Quill cannot reach, and reports to the Bench on every land's Regrowth, which he observes with clinical disgust. He comes home twice a year, crossing Wending Pass, swearing the captain's oath with complete sincerity, and spends a month in Tacit in a felted room recovering from foreigners. The Bench relies on him utterly. He relies on the Bench to keep him from what he is becoming.
+He witnesses foreign contracts where Jessamy Quill cannot reach and reports to the Bench on every land's Regrowth with clinical disgust. Twice a year he comes home over Wending Pass and spends a month in a felted room in Tacit, recovering from foreigners. The Bench relies on him utterly. He relies on the Bench to keep him from what he is becoming.
 
 #### What They Carry
 
@@ -683,19 +683,19 @@ Dread: 2 (3 when you realise you cannot remember his face)
 
 #### Who They Are
 
-Ilan is a quiet, small, dark-haired boy of nine with a soft leather bit across his face, beaded in the blue and brown of his father's water-carriers' fellowship, and above it his father's eyes, large and grey and solemn. He is polite in the careful way of Oathen children, bowing to his elders, signing small and neat. He smells of soap and dust and the well. He is gentle with animals and good at finding lost things.
+Ilan is a small, dark-haired boy with a soft leather bit beaded in the blue and brown of his father's water-carriers' fellowship, and above it his father's large grey eyes. He is polite in the careful Oathen way, signs small and neat, smells of soap and the well, and is good at finding lost things.
 
 Since the spring he has been difficult to see. In the white noon of the canyon his edges blur, like a figure seen through heat over stone, and his shadow is a little too pale. His teacher missed him at roll-call three times in Grace and could not, afterward, recall having a pupil by that name. His mother keeps her hand on his shoulder at all times, and where her palm rests, he is perfectly clear.
 
 #### Their Story
 
-Corram Reeve, a water-carrier of the Shadeward, married Tamsa Weld in 609, and for twenty years they had no child. In the Lack of 631, as Tamsa wept in their cell over the last of her bearing years, Corram knelt by her and said aloud, before the echo, "I promise you a son." She had been past bearing for two years. There was no pregnancy and no birth. There was, on the morning of the first day of Grace in 632, a small boy at their table, eating flatbread, wearing a bit that fitted him, whom both of them had always known. His cot was in the corner, and had always been. The neighbours remembered his first steps. There are no birth records, and the Bench, when asked, filed the matter.
+Corram and Tamsa Reeve, water-carriers of the Shadeward, had no child in twenty years of marriage. In the Lack of 631, as Tamsa wept over the last of her bearing years, Corram said aloud, before the echo, "I promise you a son." There was no pregnancy and no birth. On the first morning of Grace in 632 there was a small boy at their table, eating flatbread, whom both of them had always known. The neighbours remembered his first steps. There are no birth records, and the Bench filed the matter.
 
 He has been a good son. In the spring of 641 Corram slipped on the rope-stair in the wet of the late Rain and fell to the floor of the canyon. A death in Oathen releases the dead person's oaths. Ilan began to fade the week of the funeral.
 
 #### Their Place in the Land
 
-Ilan has no place in any institution, and that is part of the horror: there is no Bench clause for a child who is a sentence. The Cutwrights' office knows of a dozen Oath-Made in Oathen's history and has recorded how each one ended. Hessa Lisk has come three times to measure him and has not told Tamsa what she found. The water-carriers' fellowship pays for his schooling out of respect for Corram, and the other children are kind to him, when they remember him.
+There is no Bench clause for a child who is a sentence. The Cutwrights know of a dozen Oath-Made in Oathen's history and how each one ended; Hessa Lisk has measured him three times and has not told Tamsa what she found. The other children are kind to him, when they remember him.
 
 #### What They Carry
 
@@ -758,19 +758,19 @@ Dread: 0
 
 #### Who They Are
 
-Ottoline Vant is lean and hard, burned the colour of the cliff by years on the Ledger scaffolds, with the long ropy arms and broad shoulders of a carver and the calluses to match. Her hair is chopped short and full of stone dust that never quite washes out. Her eyes are narrow from squinting into the white face of the rock. She smells of dust and sweat and the linseed oil carvers rub into their mallet-hafts. She moves lightly, always half-crouched, as if she were still on a plank fifty feet up, and her hands are never still: tapping, tracing letters on her thigh, picking at the dust in the grain of a table.
+Ottoline Vant is lean and hard, burned the colour of the cliff, with a carver's ropy arms and short hair full of stone dust. She smells of sweat and the linseed oil carvers rub into their mallet-hafts. She moves half-crouched, as if still on a plank fifty feet up, and her hands are never still, tracing letters on her thigh.
 
 She talks quickly, for an Oathener, and catches herself mid-sentence, and starts again with an Exit. Since the miscut she has not carved a single letter, and the absence is visible: her fingers keep reaching for a chisel that is not there.
 
 #### Their Story
 
-Born in 611 A.G. to a family of Ledger carvers, the Vants, who have cut the public vows of Oathen into the four-mile cliff for six generations, Ottoline went up on the scaffold at fourteen and was a journeyman at twenty. She was fast, clean and proud. In the Carving of the Year in 640, working by lamplight through the night with the rest of the carvers, she cut the sentence of a grain-factor named Pellam Oxe: that he would not trade in Carving water before the Rain. She cut "never" where the draft read "not." He traded, lawfully, after the Rain had come, and that night his throat split lengthwise in his bed, the grievous Breaking for a vow of abstention, and he lived, and he cannot speak.
+Born in 611 A.G. to the Vants, six generations of Ledger carvers, Ottoline was a journeyman at twenty: fast, clean and proud. At the Carving of the Year in 640 she cut the sentence of a grain-factor, Pellam Oxe, that he would not trade in Carving water before the Rain. She cut "never" where the draft read "not." He traded, lawfully, after the Rain, and that night his gut ruptured in his bed, the grievous Breaking of an abstention, and he lived, and cannot keep food down.
 
-Writing is not supposed to count. The Bench said coincidence. Ottoline went back to the old carvings, at night, with rubbing-paper, checking the Ledger against the Bench's sealed drafts. She has found eleven errors in two hundred years: a word added, a word changed, a "until" made "after." All eleven people named broke on the night the carving was done. The Bench recorded each as coincidence, and the eleventh entry in that record is in a clerk's hand she recognised. When she asked the Bench to look, the Canyon Watch came to her family's cell with a warrant. She went out the back, onto the scaffold, and down the rope, and she has been gone since.
+The Bench said coincidence. Ottoline went back to the old carvings at night with rubbing-paper and found eleven errors in two hundred years, a word added here, an "until" made "after" there, and all eleven people named broke on the night the carving was done. When she asked the Bench to look, the Canyon Watch came with a warrant. She went out the back, down the scaffold rope, and has been gone since.
 
 #### Their Place in the Land
 
-The Ledger is the memory of Oathen, and its carvers are a quiet, proud, inbred trade, swearing before they climb that they will cut true. They answer to the Office of the Fair Copy, a department of the Bench whose clerks prepare the drafts each Carving and sign each order with the office's seal. Ottoline was one of perhaps sixty journeymen. Now she is a fugitive in the Breakdowns, hidden by Tavish Crook, carrying a list that could break the Bench's claim to justice.
+The carvers swear before they climb that they will cut true, and they answer to the Office of the Fair Copy, the department of the Bench that prepares each Carving's drafts. Ottoline was one of sixty journeymen. Now she is a fugitive in the Breakdowns with a list that could break the Bench's claim to justice.
 
 #### What They Carry
 
@@ -791,7 +791,7 @@ She wants the truth carved. She fears that she is the twelfth: that her own misc
 #### Ties
 
 - **Tavish Crook** — hides her in rooms he would never admit to renting. She does not know why. Neither, entirely, does he.
-- **Pellam Oxe** — the grain-factor with the split throat. He writes to her, by way of the Breakdowns, every week. The letters are not angry.
+- **Pellam Oxe** — the grain-factor her chisel broke. He writes to her, by way of the Breakdowns, every week. The letters are not angry.
 - **Jude Crake** — the Bench may yet give her to the Breaker. Jude has read her list; Tavish showed him. Jude asked for a fig, and was very quiet.
 - **Judge Thane Urrow** — the Judge would give a great deal for her list, and for a trial of the Office of the Fair Copy.
 - **Brakk** — the Forsworn want her as a witness at the Gathering of the Broken; the list proves the Bench breaks people on purpose.
@@ -836,7 +836,7 @@ Dread: 3 (when the hour-glass is turned)
 
 #### Who They Are
 
-Jude Crake is the least frightening-looking man in Oathen. He is round-faced and soft-bodied, with thinning brown hair, plump pink hands and kind, wet, brown eyes behind which something is always quietly working. He dresses like a respectable clerk, in plain dun wool with a white collar, and he smells of figs and clean linen and very faintly of other people's fear. He is always slightly short of breath, as if he had come up a stair. His voice is soft, warm, and unhurried, and when he speaks to you, you are the only person in the world.
+Jude Crake is the least frightening-looking man in Oathen: round-faced, soft-bodied, thinning-haired, with plump pink hands and kind wet brown eyes behind which something is always quietly working. He dresses like a respectable clerk and smells of figs and clean linen. When he speaks to you, you are the only person in the world.
 
 He likes people. That is the dreadful thing about him, and it is not an act. He remembers the names of his condemned's children. He asks about their trades and listens to the answers. He laughs at their jokes. The smallest finger of his left hand has no nail; he lost it, the Ninth Room's record says, telling a small kind lie to a cooper who was about to die.
 
@@ -844,7 +844,7 @@ He likes people. That is the dreadful thing about him, and it is not an act. He 
 
 Jude was born in 597 A.G. to the wife of a cooper on the canyon floor, and he was the child of a Tongue-line lord whose name his mother never said. The cooper, Hobb Crake, raised him and taught him to bend staves, and beat his mother when he drank. In 617, at twenty, Jude killed him with a stave-hammer in the steaming shed. Asked "Did you do it?" before the Bench, he said "Yes," and was given to the Breaker.
 
-The Breaker of that day was Amon Sallet, a stern, decent, careful man. Jude talked to him for the hour. He talked about staves, and oak going soft in the steam, and his mother, and Amon's daughter Pell, whom Amon mentioned once and Jude remembered. At the fifty-first minute, Amon Sallet promised to spare him. His own oath of office, Weight 4, "I will finish every one given me," broke at once, his hands opening at the palms and his chest at the breastbone, and the second oath he had sworn that evening, which Jude had led him into without his noticing ("I'll see you out of here"), broke on the first, and he died on the floor of the Ninth Room before morning. Jude held his hand.
+The Breaker of that day was Amon Sallet, a stern, decent man. Jude talked to him for the hour, about staves and his mother and Amon's daughter Pell, whom Amon mentioned once. At the fifty-first minute Amon promised to spare him. His oath of office, "I will finish every one given me," broke at once, opening his hands and his breastbone, and a second oath Jude had led him into without his noticing ("I'll see you out of here") broke on the first. He bled out on the floor of the Ninth Room before morning. Jude held his hand.
 
 The Bench, appalled and impressed, could not execute a man whose Breaker had died sparing him without a scandal it did not want. It commuted Jude's sentence into service: he swore, before the forty-one, "I will break those the Bench gives me, until I die." He has been the Breaker for twenty-two years. It has never taken longer than an hour, except once, last Carving, with the cooper Aubin Sele.
 
@@ -852,7 +852,7 @@ Before he left the Ninth Room that first morning, he knelt by Amon's six-year-ol
 
 #### Their Place in the Land
 
-There are no prisons in Oathen. Most sentences are sworn and enforced by the god. The gravest crimes, murder, treason, betrayal of a sworn trust, end in the Ninth Room beneath the Ledger, with Jude Crake, an hour-glass, a bitted clerk and a Surety-witness. He is the state's final word. He is also, by statute, a Clausewright, and he serves the Bench as a consultant on how a vow can be made to fail: what words collide, what Exits can be closed. Benchers consult him before drafting a Sayer's sentence. He is paid like a Bencher and lives alone, in two felted rooms beneath the Ledger. Nobody visits.
+The gravest crimes end in the Ninth Room beneath the Ledger, with Jude, an hour-glass, a bitted clerk and a Surety-witness. He is also, by statute, a Clausewright, and the Bench consults him on how vows fail: which words collide, which Exits can be closed. He lives alone in two felted rooms beneath the Ledger. Nobody visits.
 
 #### What They Carry
 

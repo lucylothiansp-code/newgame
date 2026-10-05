@@ -384,3 +384,168 @@ Let down into any hole deep enough, the Rudge Rope is taken hold of. Something a
 | 6 | The thing from 403. It is much bigger now. It remembers the rope. |
 
 **WORTH:** Not sold since 611. The Assemblers have offered 2,000 lacks. The Attendance does not know it still exists.
+
+[pagebreak]
+
+# Leavings of Oathen
+
+> Nothing is sold in Tacit. Things are described, and the description is guaranteed.
+>> — Silas Amend, Paper-Broker of Tacit, to a Fatlands buyer who asked whether a thing worked
+
+[bigquote] Every leaving in the canyons is a sentence somebody could not take back. Buy it as you would buy a knife: by the handle, and without asking what it has cut. | — marginal note in the Bench's Register of Seized Goods
+
+Very little of Tolm is left to carve. Its ears were boiled and eaten by the upper gorges, its tongue by the Tongue-lines, its heart by the Rain-keepers, and its bones were rolled into the Gullet and lie under a floor of hot red sand that the Bench forbids anyone to dig. What Oathen has instead are leavings of the word: things that heard too much, things that were broken by what was said, things that bind. A Course-Ear cut from a noble's neck still listening on its plate. A Surety's tattooed skin with a stranger's promise in it. A flask of rain a god swore to send. The canyon folk handle these things in silence, gloved, often bitted, because a leaving of Tolm can bind a person who never meant to say anything at all.
+
+The trade is the most honest on the Table and the most frustrating. A seller in Oathen who says "this works" has sworn that it does, and breaks if it does not. Oathen dealers therefore say almost nothing. They lay the leaving on felt, set beside it a slate on which they have chalked what others have said of it ("*I am told*," "*It was said in my hearing*," "*The previous owner believed*"), and wait. Price-witnesses in brass collar-plates stand by for a crumb a word. Large sums change hands in sworn notes, which are the safest paper on earth, and the Bench of Clauses keeps a Register of Seized Goods in which every leaving that binds is entered as the property of the Bench, because every word of public record is. The Register is very long, and its upper rooms are lined with felt.
+
+What Oatheners fear in a leaving is not rot but repetition. A thing that heard an oath can say it again, and an oath repeated is an oath renewed. Leavings are kept where they cannot echo: in felt, in wax, in lead, and for the very worst, in gold, the one metal Tolm's mouth will not bite through. They are moved on windless days and never discussed while the Tattler blows. And every Oathener knows, as they know the Five Exits, that the widening is happening: that handtalk breaks fingers now, that writing binds at half its Weight, that the Quiet believe even thought is beginning to count. A leaving bought last year under one set of rules may be under another this year. The Bench has begun adding a clause to every relic sale, *as the god now counts*, and nobody can say what it covers.
+
+[box: Rules — Leavings That Bind]
+Many leavings in this chapter make something an oath that would not otherwise be one. Treat the result exactly as an oath sworn in Oathen: it has a **Weight** (given in the entry), may carry **Exits** if the character drafts carefully (Tongue + Clause, as in the Oathen chapter), and on breach brings a **Breaking** from the Breaking table, at 2 × Weight Flesh. Unless an entry says otherwise, a leaving's oath binds only within Oathen's borders; leavings that bind abroad say so, and are worth a great deal more for it. Echoes renew a leaving's oath as they renew any other.
+[/box]
+
+## From the Tongue-lines and the Sayers
+
+[sigil: oathen]
+
+The highest blood in the canyons is the furthest along, and the Tongue-line houses shed leavings the way old trees shed bark: small ears cut from the neck at the Course, saliva caught when a Sayer's gold is off for cleaning, tongues given to the Quiet's knife and kept in brine, vows scratched into plaster by swearers who cannot be stopped. The Bench owns all of it, in law. The houses sell a great deal of it, in fact, through physicians, bitmakers and the very discreet, to buyers who have a use for a thing that makes words count. The Second Table has agents in at least three Tongue-line houses and an interest in this section of the market that needs no explaining.
+
+### A Course-Ear
+
+At the Course, the small ears come: puckers in the skin of the neck and shoulders and the inner arm that open, over a season, into perfect little ears, pink and folded, turning toward sound. The Tongue-lines who grow them cannot bear crowds, and their physicians cut the ears away in felt-lined rooms with a curved blade and a pot of cedar salve. The cut ears do not die. Laid on a dish, they go on turning toward every voice, and if the room is silent long enough, they turn toward the nearest heartbeat.
+
+Spies discovered what they were for within a generation. An ear tacked under a table, sewn into a collar or dropped into a planter at a treaty-sitting hears everything said within ten paces, and held afterward to a listener's own ear it repeats all of it, verbatim, slowly, in the voices of those who spoke. In the month the Mute King made his sound, the Bench seized every ear in the Hall of Conditions and burned them in a lead furnace. The rumour on the Shadeward Wall is that one was missed, sewn into the hem of the clerk who heard it, and that it has been repeating the sound ever since, very quietly, in a drawer.
+
+**WHISPERED:** Eye + Lore vs Hard (14); spies, Clausewrights and the crown's household know without a roll.
+
+**SPOILAGE:** It lives on sound. Kept in total silence (sealed in felt) it starves in a season; kept in a busy room it lives for years, and after the first year a second, smaller ear buds beside it.
+
+**CARVING:** Cut from a Tongue-line at the Course with Hand + Stitching vs Hard (14), with the patient's consent or under a physician's cover; stolen from a house's felted box with Hand + Filch vs Grim (18). Dread 2: it turns toward the carver as they breathe. A Lack means it has heard the carver, and will repeat what they said, at the worst moment, in their voice.
+
+**TAINT:** 2 Regrowth (Tolm).
+
+**EFFECT:** Left in place for up to a day, it hears everything said within ten paces. Held to the ear afterward, it repeats it all at half speed. An oath it repeats is renewed, at its original Weight, for the one who swore it, wherever they are in Oathen: an ear is a way to bind a person twice. It can be made to stop only by sealing it in felt.
+
+**WORTH:** 400 lacks. Rare. The crown's spies buy all they can; so does the Rim Road Company. Planting one in the Hall of Conditions carries the clerk's sentence: the bit, for life.
+
+### Sayer's Ink
+
+Every few months, the gold bit of a Sayer must come out to be resized, because the tongue behind it keeps growing. Garl Tome does it himself, in the Gilded Cells, with the guards deafened and the Bencher of the week standing by with a fresh bit in her gloved hands, and in the moments the mouth is open, it runs: a thick, clear saliva that smells of wet slate and tastes, those who have caught a fleck on the lip say, of the moment after you have said a thing you cannot take back. Tome catches it in a gold cup, because it eats every other metal it touches. He is meant to pour it into the furnace. He has a daughter whose voice he has never heard, and a dowry to think of.
+
+Ground with lampblack and gum, it makes an ink that binds. What is written in it is not merely written: it is said, in the Sayer's mouth, at full Weight, and the god hears it as speech. A contract written and signed in Sayer's Ink binds its signers as if they had sworn it aloud before the Ledger, and it does so anywhere on the Table. The Rim Road Company has been looking, quietly, for something better than Oathen to swear by. Lysander Coyle, the Auditor-General, bought a phial in 639 and has not told the Wheel.
+
+**WHISPERED:** Eye + Lore vs Dire (22). Garl Tome, two Benchers and Lysander Coyle know for certain.
+
+**SPOILAGE:** Sealed in gold or canyon-glass under wax, a year. Ink dried on the page binds forever. Ink more than a year in the phial still writes, but binds at half Weight.
+
+**CARVING:** Only in the Gilded Cells, during a resizing: Hand + Craft vs Grim (18) to catch it as Tome's assistant, or Lung + Stealth vs Dire (22) to be in the room unasked. A Sayer's open mouth is Dread 3, and a Sayer with her bit out may say something.
+
+**TAINT:** 2 Regrowth (Tolm), Dread 1 (the wet ink moves on the page like a tongue).
+
+**EFFECT:** A promise written in it and signed is an oath of its full Weight (usually 3 or 4) for every signer, binding anywhere on the Table, with Breakings as in Oathen. A lie written in it breaks the writer's hand (Weight 3). A phial writes about twenty pages.
+
+**WORTH:** 1,500 lacks the phial. Rare. Possession outside the Bench is treason against the Ledger. Inside the Company, it is the most interesting thing anyone has seen in a century.
+
+### A Tongue from Mote's Vault
+
+Brother Ansgar Mote, surgeon of the Quiet, has taken four hundred tongues, cleanly, from novices who chose the knife over the vow. He keeps them in brine, labelled, in a vault cut into the cliff above the upper Gullet, because he once threw one on the midden and it went on trying to speak there for a week, and the crows would not go near it. Each sits in its own stoppered jar, pale and thick, with a tag of goat-vellum giving the name and the date. At night they move. They shape words without breath, the same words, over and over: the last thing their owners wanted to say before the blade.
+
+Many of the Quiet's novices were born in the Tongue-line houses and knew things. The sentences the tongues are shaping are, in a fair number of cases, the reason their owners took the knife. Mote has begun to suspect something worse, and has written it on his slate and wiped it off again: the tongues are growing. The oldest have put out a second root at the cut, and three of them, he believes, are no longer shaping the same sentence every night. They are shaping new ones.
+
+**WHISPERED:** Eye + Lore vs Grim (18); the Quiet know and do not speak, for obvious reasons.
+
+**SPOILAGE:** In brine changed every new Plate, indefinitely. Dry, it withers within days, and as it withers it shapes its sentence faster.
+
+**CARVING:** Mote does not sell. Taking a jar from the vault is Lung + Stealth vs Grim (18) among the Quiet's cliff-cells, where the slightest sound carries and every brother is listening. The Quiet regard the theft as the breaking of a vow made on another's behalf. Dread 2 on first seeing one move.
+
+**TAINT:** 2 Regrowth (Tolm), Dread 2.
+
+**EFFECT:** Its sentence can be read off its shapes with Eye + Lore vs Grim (18) (Dacey Furl reads them easily). It is always a secret worth knowing. Placed in the mouth of a corpse, it speaks the sentence aloud once in its owner's voice, and in Oathen what it says binds whomever it concerns, at Weight 3. Each season, roll a d10; on a 1 the tongue has grown, and the GM may have it shape, once, a new sentence that becomes a little true, as at the Course.
+
+**WORTH:** 250 lacks to the curious; far more to whomever its secret concerns. Rare. The Second Table wants the ones that are growing.
+
+### A Hanging Bird of Low Shale
+
+In 598 A.G. a Tongue-line girl said "I wish it would stop" during a storm, and everything in the valley of Low Shale stopped. The river stands in its bed in a single hard green ribbon. A herdsman stands mid-stride with his crook raised and his eyes wet. Larks and wheatears hang in the air a foot above the grass, wings half-spread, exactly where they were, and have hung there for forty-three years with their eyes open. Nothing rots. The air has no smell. The Bench has posted the valley silent and forbids entry, and Bait pilgrims sneak in anyway.
+
+A bird can be taken. It comes out of the air the way a held breath comes out of a chest, with a faint resistance and then all at once, and it lies in the palm weightless and cold. Set down again anywhere, released in midair or pressed against a wall, it stays exactly where it was put, and nothing in the world will move it: not a shoulder, not an ox-team, not a pang in Cradlewrack. An Echo-Warden named Gerent Shale (the family took the valley's name) carries one on a cord to anchor ropes in gorges where no stone will hold a piton. He has held a rockfall off a fallen man with it. He does not like to look at its eye.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Echo-Wardens and climbers know at Hard (14).
+
+**SPOILAGE:** None. It is stopped.
+
+**CARVING:** Entering Low Shale past the Bench's posts is Lung + Stealth vs Hard (14). Standing among the stopped is Dread 3. Taking a bird from the air needs Caul + Resolve vs Hard (14). A Lack means the carver has spoken aloud in the valley, and the herdsman's eyes have turned to them, and will be turned that way when they next come.
+
+**TAINT:** 2 Regrowth (Tolm), Dread 2 (its eye is open, and wet).
+
+**EFFECT:** Released anywhere, it stays there, immovable by any force, until a bare living hand takes it back. A rope tied to it holds any weight; a door wedged with it cannot be opened, in any land; a blow struck against it is like striking a cliff (the attacker takes 2 damage). Whoever takes it back loses all feeling in that hand for an hour (−2 to Hand rolls).
+
+**WORTH:** 600 lacks. Rare. Echo-Wardens, burglars, the Canyon Watch. Entering Low Shale is a Bench offence; taking from it, the Bench says, is theft from a Sayer's sentence.
+
+### A Scratched Vow
+
+At the Appetite, swearers vow without meaning to, and must be bitted for their own safety; and a determined swearer, bitted and with hands bound, will still try to scratch vows into the plaster with a fingernail. The walls of the Murmuring House are covered in them, hundreds deep, in the shaky capitals of people who cannot stop promising. The nurses whitewash the wards every month. By the end of the month the white is scored again. Since writing began to bind, the nurses have stopped reading the walls, and wear their eyes lowered on the wards.
+
+A slab of that plaster, cut out with a mason's saw, holds a vow that binds whoever reads it aloud, because to read a vow aloud is to say it. The Breakdowns' liars-for-hire use them as snares: a scratched vow passed across a counter to an illiterate partner, read aloud by a helpful clerk to a debtor, nailed over a door for a rival to puzzle out. The Bench calls this *snaring* and punishes it with the snarer swearing the vow themselves. Dacey Furl has found, on the night ward, a vow scratched over and over in three hundred different hands: the vow all three hundred are mouthing in their sleep. Its last word is always scratched through.
+
+**WHISPERED:** Eye + Lore vs Hard (14) in Tacit.
+
+**SPOILAGE:** Plaster crumbles in a year; under glass, a decade. The vow fades as the scratches fill with dust.
+
+**CARVING:** Hand + Craft vs Hard (14) to saw a slab out of a Murmuring House wall, with a Caul + Resolve vs Routine (10) not to read what you are cutting. A Lack means you read it.
+
+**TAINT:** 1 Regrowth (Tolm), Dread 1.
+
+**EFFECT:** Reading it aloud swears it: Weight 2 (Weight 3 in Oathen, where the reader can be heard by the canyon). Reading it silently: roll a d10, and on a 1–2 the reader is bound at Weight 1. Roll a d6 for what a slab says.
+
+| d6 | The scratched vow |
+| 1 | I WILL WALK TO THE SEA |
+| 2 | I WILL NEVER EAT BREAD AGAIN |
+| 3 | I WILL HAVE YOUR EYES |
+| 4 | I WILL NOT WAKE |
+| 5 | I WILL GO DOWN TO THE GULLET AND LIE ON IT |
+| 6 | The night-ward vow, its last word scratched through. The GM decides what it was. |
+
+**WORTH:** 30 lacks. Scarce. Snaring is a Bench crime in Tacit and a growing trade on the Rim, where nobody reads the slabs before buying them.
+
+## From the Broken and the Breakers
+
+[sigil: oathen]
+
+The Breakdowns are the one place in Oathen where a person can lie, because the Forsworn have nothing left to break in the mouth, and so they are also the one place in Oathen where leavings are sold with patter. The broken trade in what broke them and what broke others: tattooed skin from Sureties, bones from the Unmade Road, the receipts of a back-canyon fixer, the hands of the first man the god ever took at his word. The Bench's executioner leaves very little behind him, and what he leaves is the most frightening thing in the canyons. The Breakdowns treat all of these as a dockside treats rope: as the stuff of a hard trade, handled by people who have already paid.
+
+### A Surety's Patch
+
+A Surety carries other people's oaths tattooed on the body in dense fine script, one bond to a patch of skin, until they are a ledger of other families' risk. When a Surety dies, the oaths they carried are released, as all a dead person's oaths are. The skin does not know that. A patch of tattooed skin cut from a dead Surety and tanned still holds its bond, and the bond is still looking for something to break.
+
+Sewn to a living body, a patch will take a Breaking in its wearer's place, once, the way its Surety would have. The skin tears along the script, the bone beneath cracks like a dropped plate, and the wearer is left whole underneath, bruised and shaking. The Breakdowns sell patches by Weight. The Surety House calls the trade carrion-work and has twice sent members, at fee, to stand surety for oaths sworn against the patch-dealers in the Gathering of the Broken. A patch-dealer named Aubin Hollow had his hands come off on Fair Weight Row in 638 as a result, and sells patches still, with his feet.
+
+**WHISPERED:** Eye + Lore vs Hard (14); anyone of the Surety House or the Breakdowns knows.
+
+**SPOILAGE:** Untanned, a week. Tanned with canyon salt and cedar oil, years.
+
+**CARVING:** Sureties are entombed upright in the Witnessing Vaults with the rest of the dead. Flaying one is Hand + Stitching vs Hard (14) and a Dread 2 check. Desecration of a niche is a Bench crime; the Keeners say a Surety flayed in her niche has been known to Testify. A Lack means the patch tears in the cutting and is worthless.
+
+**TAINT:** 1 Regrowth (Tolm), Dread 2.
+
+**EFFECT:** Sewn or strapped against the skin, it absorbs the next Breaking its wearer suffers of a Weight no greater than the bond tattooed on it (1 to 4). The wearer loses only half the Flesh, gains no Forsworn mark, and makes the Dread check as a witness rather than as the broken. The patch is then spent. Wearing more than one at once makes them all fail.
+
+**WORTH:** 50 lacks per Weight of the bond. Scarce in the Breakdowns, Rare elsewhere. Sold openly on Back-Before-Dark; possession is not a crime, only its getting.
+
+### The Merchant's Hands
+
+In the third year after the Gorging, a merchant of Tacit who had sworn to deal fairly with a customer shorted him by a thumb's weight of salt. His hands came off at the wrist in the marketplace, cleanly, with a sound like a dropped pail, and lay on the stones among the salt. It was the First Breaking, and the customer's family dried the hands and kept them as proof, and gave them to the Bench in the Honest Age. For three centuries they lay on the great scales in the Hall of Weights, palms up, curled as though holding a scale-pan, brown and hard as dried figs, and no merchant in Tacit cheated within sight of them.
+
+In the Forsworn Riots of 506 they were stolen, and they are in the Breakdowns now, in a niche at the head of Fair Weight Row, the lane named for the oath the merchant broke. The Forsworn call him *the first of us* and lay copper crumbs before the niche. Merchants who deal in the Breakdowns come and swear their weights in front of the hands, which is the only place below the Walls where anybody's word is good. The Rim Road Company has offered four thousand lacks to set them on the scales at Toll Nine. Brakk has said no in four words, plainly.
+
+**WHISPERED:** Every Oathener knows the story; that the hands survive and where, Eye + Lore vs Hard (14).
+
+**SPOILAGE:** None. They have not changed in six hundred and thirty-eight years.
+
+**CARVING:** Unique. Taking them from Fair Weight Row is Lung + Stealth vs Dire (22) through a slum that never sleeps, and would start the Second Forsworn Riot. Touching them is Dread 1: they are warm, and the fingers tighten.
+
+**TAINT:** 2 Regrowth (Tolm), Dread 1.
+
+**EFFECT:** Set on a counter or a pair of scales, the hands make false weight and false measure impossible within sight of them: loaded scales read true, clipped and counterfeit lacks are pointed out by a twitch of a finger, and a merchant who has made any promise of fair dealing and breaks it in their presence suffers the Breaking at +1 Weight. Haggling in their presence uses Eye + Haggle for both parties, never Deceive.
+
+**WORTH:** Never sold. The Bench wants them back; the Company wants them on the road; the Breakdowns would burn Tacit's lower bridges first.

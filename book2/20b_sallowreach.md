@@ -23,7 +23,7 @@ Attacks: none; she has never struck anyone, and her pilgrims would tear apart an
 Gifts: Kept (Rot 4, Ripe; she keeps herself to it with mint and beeswax); the Last Verse (her singing grants all who hear it +2 to resist Dread for a scene); Lidsense (she knows, in the dark, which of her pilgrims have their eyes open)
 Wants: Lead (when a crowd of the grieving forms, she must step to its front and give it a direction; resist Hard 14); Close (at the Taste; she shuts the lids of the sleeping without meaning to)
 Knacks: Old Grief; Elder's Ear
-Derangements: The Pull (triggered within a mile of a Hush, or at Fray 8+; she has mastered it nine hundred times and failed once)
+Derangements: The Pull (roused within a mile of a Hush, or at Fray 8+; she has mastered it nine hundred times and failed once)
 Carries: a grey linen wrap; a bag of fen-mint; a beeswax candle stub; the Book of Names; a child's tin whistle; nine hundred name-strips; a needle and black thread
 Dread: 1 (her stitched eye, and what moves under the lid when she sings)
 [/stat]
@@ -73,7 +73,6 @@ She tells herself it is duty: someone must sing the last verse and hold the husb
 - **Dunstan Reave** — the living man who camps at Dunmere's edge. She sits with him some nights. He is the person she is most ashamed in front of, because he cannot walk in and she can.
 - **Bram Hollin** — he has been teaching her singers the six last songs, at night, for money. She suspects the old songs are older than the Finishers and more dangerous; she has noticed that when Bram sings, the grey line at the edge comes a little closer.
 - **Captain Dace Morrow** — his guards stand at the Hushes to stop her. Some of his guards have walked in with her. He has never once arrested her, and she does not know why.
-- **Edda Thrush** — the woman who walked out. Lorn has asked her, three times, what is inside. Edda has answered, three times, "It is listening." Lorn has not slept since the third.
 - **Sister Orla Fenn** — her Lamp and closest friend; secretly the Court's informer (see Secrets).
 - **Pim Sorrel** — the Finishers want her crowned. Lorn does not. She has met the girl once and told her mother to take her south, and has told the Finishers' council the opposite.
 
@@ -149,7 +148,7 @@ His soldiers are paid little (two lacks a day for a Kept guardsman, four for the
 
 #### Wants, Fears and Secrets
 
-Morrow wants to hold. That is all. He has held the causeway for fifty-eight years, through sixty deaths, and the holding is all of him that is left that is not cord. What he fears is that he is the only thing between Sallowreach and the rest of the Table, and that he is coming apart, and that nobody is coming to replace him because everybody who could has walked into the reeds.
+Morrow wants to hold. The holding is all of him that is left that is not cord. He fears that he is the only thing between Sallowreach and the rest of the Table, that he is coming apart, and that nobody is coming to replace him, because everybody who could has walked into the reeds.
 
 **Secret (GM may reveal):** The pieces he leaves are deliberate. He is trying to get a little of himself across the border without dying, a finger at a time, leaving them by the south road where a Company carter might kick one into a wagon. Twice it has happened. Twice a Company clerk he pays has found, in the heap beyond the stakes, grey dust in the shape of a finger. He keeps trying.
 
@@ -164,7 +163,6 @@ Morrow wants to hold. That is all. He has held the causeway for fifty-eight year
 - **Sister Lorn** — see above. He thinks of her as the enemy he respects most.
 - **Withhold Pennick** — the Reckoner who cut Lord Merriman Wole's throat in 639. He has been hunting her through the Sinks for two years. He has nearly caught her four times. Each time he has stopped, because he does not want to be the man who brings her to the jar.
 - **Castellan Dray** — the Vigil's envoy has asked Morrow, privately, how many soldiers Sallowreach could raise if the dead of another country came north to live. Morrow told him, "As many as you send." He has not slept since; but then, he never does.
-- **Edda Thrush** — he was ordered to arrest her when she walked out of Dunmere and found that his men would not go within ten paces. He went in alone and sat with her until she could speak.
 
 #### In Play
 
@@ -200,7 +198,7 @@ Attacks: none; a ladle, if she must (+3, 1)
 Gifts: none; she is very old and very stubborn, which in Sallowreach is a kind of power
 Wants: Close (at the Taste: she closes the lid of the eel barrel, the door of the stair, her husband's mouth when he forgets it)
 Knacks: Dowager's Patience; Old Grief
-Derangements: Kept Grief (triggered by the smell of fried eel, the sound of the door at dusk, or anyone using his name)
+Derangements: Kept Grief (roused by the smell of fried eel, the sound of the door at dusk, or anyone using his name)
 Carries: the forty-one petitions; the painted mask's brushes; a ladle; a wedding ring on a cord; the Court's last letter of refusal; a jar of minutes
 Dread: 0 (Henna herself); 2 (to sit at supper with Amos)
 [/stat]
@@ -236,7 +234,7 @@ She owns nothing: the house belongs by law to Amos, who is upright, and she live
 
 #### Wants, Fears and Secrets
 
-Henna wants Amos to finish. She has wanted it, she says, since the second year, when his eyes went, and she has wanted it every night since with the bright, raw, unhealed wanting of a woman still twenty-two inside. She wants to be a widow. She wants to grieve. She would like someone to tell him, and she cannot do it herself, because she has tried, and she knows what his face (the painted one) did.
+Henna wants Amos to finish, with the raw, unhealed wanting of a woman still twenty-two inside. She wants to be a widow. She wants to grieve. She would like someone to tell him, because she has tried, and she knows what his painted face did.
 
 What she fears is her own death. She is a hundred and twelve. When she dies, in her bed on Pellet Row, she will sit up the next morning and be Kept, and she will set his place, and he will come home, and they will be two corpses at a kitchen table forever, and nobody will be left to fry the eel.
 
@@ -252,7 +250,6 @@ What she fears is her own death. She is a hundred and twelve. When she dies, in 
 - **Bram Hollin** — her neighbor two doors down and her rosemary-man. She has asked him, as a professional, what the funeral rite costs. He has told her it is free for her. She has asked him to learn the weir-men's songs, so that there is something to sing.
 - **Ivo Vane** — the Licenser who has processed her petitions for nine years. He has never met her. He has read every page. He has begun to keep copies.
 - **Fenwick Lisp** — she does not know him. He knows of her; everyone on the Landing knows Amos. He has heard the clicks from the street. He has not said anything.
-- **The Heirs** — a cell of Jory Welt's has offered, twice, to carry Amos to the Dunmere edge one night while she sleeps. She threw a pan at the second one.
 
 #### In Play
 
@@ -294,7 +291,7 @@ Dread: 0
 
 #### Who They Are
 
-Tam Ruddock is big, heavy and slope-shouldered, with a nose broken twice and a voice so soft that strangers lean in to hear him and find themselves agreeing. His hands are tarred black in the creases. He smells of pitch, rum and the cedar he burns in the punt. He blinks slowly, like a man who has not slept, which he has not, much, since 624.
+Tam Ruddock is big, heavy and slope-shouldered, with a nose broken twice and a voice so soft that strangers lean in to hear him and find themselves agreeing. His hands are tarred black in the creases. He smells of pitch, rum and the cedar he smoulders in the punt. He blinks slowly, like a man who has not slept, which he has not, much, since 624.
 
 #### Their Story
 
@@ -329,7 +326,6 @@ Tam wants to stop and cannot, because every week another letter comes to the Lon
 - **Idony Pask** — his first passenger. She has never forgiven him. He visits her most, every week, and lets her shout.
 - **Castellan Dray** — the Vigil envoy who wants to buy his boat, his List and his route.
 - **Captain Dace Morrow** — they drink together on Tablenight at the Finishing Post, Tam on the south side of the stakes and Dace on the north, passing the flask across the line.
-- **Mother Gall** — she has offered to take his dying passengers into barrels before they die, as a cheaper mercy. He has sent her four. He visits those too.
 - **Sister Lorn** — two of his passengers walked in with her. He came to the edge to stop the second one. Lorn held him back. He has not spoken to her since.
 
 #### In Play
@@ -413,7 +409,6 @@ Jack wants to be paid and to be respected as a craftsman, and he wants Thessaly 
 - **Wenna Hale** — his prisoner, his conversation.
 [quick] Wenna Hale (Kept, in eleven pieces) — Threat 2 · Flesh 3 · Guard 5 · Attack — · Armor 0 · Dread 3
 - **Captain Dace Morrow** — wears one of his hands without knowing it.
-- **Bettany Shroud** — her whisper-books describe him, from the inside. She has never sold them.
 
 #### In Play
 
@@ -496,7 +491,6 @@ She fears the asking. Forty-one Smalls have asked to be closed since the Hushes 
 - **Marrow Jack** — her enemy. The Register marks every Small he has ever taken a part from. She is waiting for him to come down the stairs.
 - **Sister Lorn** — see above.
 - **Old Bettany Shroud** — the Loft-Warden carries Lorn's letters and Nell's replies, and does not read either.
-- **Edda Thrush** — the Smalls follow her when she walks the city, because near her it is quiet, and some of them like the quiet. Nell has forbidden it. They do it anyway.
 - **Bram Hollin** — Nell has asked him to teach her the funeral rite, all of it, in case she says yes.
 
 #### In Play
@@ -576,7 +570,6 @@ Sedge wants the truth to be complete. That is his want and his Want: a lineage h
 - **Lady Corrow Vane** — he has told her, alone, that the Glovehall Hush is growing from her rooms. She thanked him and has not spoken to him since.
 - **Jory Welt** — the Boy's own wall-map is a crude copy of an early draft, stolen from the Ledger House in 637. Sedge knows who stole it.
 - **Pim Sorrel** — he measured her hands secretly in 640 and found nothing. The ledger that might explain her is one he closed.
-- **Castellan Dray** — has asked for the Map at the price of a Vigil chair at the College's Quire council. It is tempting.
 
 #### In Play
 
@@ -652,7 +645,6 @@ She wants to be paid, to keep the cellar, and to keep the promise her grandmothe
 - **Thessaly Mort** — buys her brine through three intermediaries. Mother Gall knows and charges double.
 - **Idony Pask** — has asked, twice, for a barrel, to stop the wasting. Mother Gall told her the truth: the brine will hold her flesh but not her hunger, and she would float, starving, a hundred years.
 - **Pim Sorrel** — her Scrapling kin by the far fen. The pit is where the Scraplings ate the face. If anyone can explain the girl, it is the Galls; she has not been asked.
-- **Sister Lorn** — has sent Finishers to beg her customers to come out and walk. Mother Gall threw the second one into the Brinemoss channel.
 
 #### In Play
 
@@ -688,7 +680,7 @@ Attacks: surveyor's chain +5 (2, Entangling); she has never hit anyone
 Gifts: the Listener (within three paces of her, sound dims to a whisper; the Kept fall silent near her and feel a pull toward her; Dread 1 to stand beside her); Lidsense; Gone Under (as the Delver Talent); she cannot hear, and is never surprised
 Wants: Quiet (laughter, bells and crowds are painful to her, though she cannot hear them; she feels them in her teeth)
 Knacks: Corpse-Road Walker; Light Sleeper
-Derangements: The Pull (triggered by any Hush edge); The Watchers (she is certain she is being observed, and she is right)
+Derangements: The Pull (roused by any Hush edge); The Watchers (she is certain she is being observed, and she is right)
 Carries: the drawing; the chain; a broken theodolite; slates and chalk; a tether-line with a frayed end; a tin of fly-paper
 Dread: 2 (her silence; the gap she leaves in the smell of the world)
 [/stat]
@@ -729,7 +721,6 @@ Edda wants to hear again, and she wants the thing in her ears to leave, and she 
 - **Dunstan Reave** — has begged her to guide him to his own roof. She has not said no.
 - **Sister Lorn** — has asked her three times what is inside. Edda has written, three times, *It is listening.*
 - **Provost Carrion Sedge** — her figures are his data. He has asked for the drawing. She has refused.
-- **The Smalls** — follow her through the city at night because it is quiet near her. She leaves them sweets on the stair.
 
 #### In Play
 
@@ -805,7 +796,6 @@ Bram wants to do his trade properly, now that he finally can: every rite whole, 
 - **Sister Lorn** — his secret employer. He thinks her voice is the finest he has ever heard and her lyrics are dreadful.
 - **Lady Corrow Vane** — he stands mourner at her Closings. She has never spoken to him. Last month she asked him, through her clerk, whether there is a song for the Closer.
 - **Little Nell Ash** — has asked him to teach her the whole rite. He has started, on Tuesdays.
-- **Dunstan Reave** — wants a funeral for a family four miles inside a Hush, with no bodies. Bram is working out how.
 
 #### In Play
 
@@ -1191,7 +1181,7 @@ Attacks: reed-hook +4 (3, Hooking)
 Gifts: none
 Wants: none of the god's
 Knacks: Corpse-Road Walker; Scrap-Born Luck
-Derangements: The Pull (triggered by any clear evening at the edge)
+Derangements: The Pull (roused by any clear evening at the edge)
 Carries: the spyglass; a reed-hook; a coil of marked rope; his wife's comb; a tin of the children's buttons
 Dread: 0
 [/stat]
@@ -1202,7 +1192,7 @@ Weathered, tall, quiet, with reed-cuts on his hands and a beard grown out since 
 
 #### Their Story
 
-Dunstan was a reed-cutter of Dunmere with a wife, Orla, two children, and his Kept parents in the back room. On the night Dunmere went silent he was not, as he tells it, at market. He had quarrelled with Orla and walked out, intending not to come back, and slept in a ditch on the Lastgate road. In the morning he walked home to apologise. The reeds were grey. He has camped at the edge every night since.
+Dunstan was a reed-cutter of Dunmere with a wife, Sabine, two children, and his Kept parents in the back room. On the night Dunmere went silent he was not, as he tells it, at market. He had quarrelled with Sabine and walked out, intending not to come back, and slept in a ditch on the Lastgate road. In the morning he walked home to apologise. The reeds were grey. He has camped at the edge every night since.
 
 #### Their Place in the Land
 
@@ -1212,7 +1202,7 @@ He guides Finishers, Court surveyors, Heirs and the curious to the Dunmere edge 
 
 - **The spyglass** — brass, Company-made, bought with every lack he had. From one hummock, on a clear evening, it shows his roof.
 - **Marked rope** — a coil marked every yard. He has tied it to a stake at the edge and, some nights, walked out along it in his mind.
-- **Orla's comb** — horn, left in his coat pocket the night he walked out.
+- **Sabine's comb** — horn, left in his coat pocket the night he walked out.
 - **A tin of buttons** — from the children's coats. He counts them.
 
 #### Wants, Fears and Secrets
@@ -1221,7 +1211,7 @@ He wants someone who goes in to come back and tell him whether they looked peace
 
 **Secret (GM may reveal):** He walked out on them. He has told no one.
 
-**Secret he does not know:** Edda Thrush's drawing shows his house. Orla is lying in the kitchen doorway, facing the road, as if she had gone to the door to look for him.
+**Secret he does not know:** Edda Thrush's drawing shows his house. Sabine is lying in the kitchen doorway, facing the road, as if she had gone to the door to look for him.
 
 #### Ties
 
@@ -1232,7 +1222,7 @@ He wants someone who goes in to come back and tell him whether they looked peace
 
 #### In Play
 
-He is the PCs' guide to Dunmere. Hooks: carry his spyglass in and look at his roof from the inside; stop him the night he decides to follow the rope; bring back Orla's comb's twin from the kitchen. If nobody intervenes, he goes in on the first clear night of Plenty 642, holding the rope, and the rope goes slack at a yard marked *forty-one*.
+He is the PCs' guide to Dunmere. Hooks: carry his spyglass in and look at his roof from the inside; stop him the night he decides to follow the rope; bring back Sabine's comb's twin from the kitchen. If nobody intervenes, he goes in on the first clear night of Plenty 642, holding the rope, and the rope goes slack at a yard marked *forty-one*.
 
 [box: Said of Them]
 "He guided us to the edge and wouldn't take a crumb. Said, 'Just tell me.' Tell him what?" — a Fatlands traveler
@@ -1393,7 +1383,7 @@ Nothing in Sallowreach ends, and that includes grudges, debts and love. The tabl
 | Merrit Cask | the Court: the truth | the shelf | her mother, the keys |
 | Withhold Pennick | Jory Welt: a lord | dying here | her band, their jars |
 | Absalom Hethe | Osric Vane: his hands | the eighth chair | the Second Table, a god |
-| Dunstan Reave | Edda: a way in | that they looked peaceful | Orla, an apology |
+| Dunstan Reave | Edda: a way in | that they looked peaceful | Sabine, an apology |
 | Ebb Totter | the Post: a culprit | seeing who | the Court, three centuries |
 | Ivo Vane | Corrow: one touch | that she would | Hethe, a season's bend |
 
