@@ -18,7 +18,7 @@ S. Reef, Lt.
 
 The Table is not short of monsters. It is short of anything else. Every land ate a god, and every land is now host to the slow return of what it swallowed, and that return does not confine itself to the bloodlines of the nobility. It gets into the soil, the weather, the drowned, the sleeping, the unborn and the overheard. It makes things. Some of those things were people a week ago. Some were never people at all, and some are people still, and are the worst of the lot.
 
-This chapter is the GM's larder. It gives rules for running adversaries in the terms of the Grace Roll, then walks the seven lands one by one, presenting the horrors native to each with full statistics, a witness's word on each, and the long, unpleasant detail that makes them worth meeting: what they smell like, what they sound like in the dark, and what they leave behind for the family to find. After the lands come the human adversaries, who outnumber the monsters and do more harm, among them the cult-shepherds and the patient questioners whose work leaves no mark a Seamer can stitch. Then come the rules for the god-ridden, the people whose god has taken the reins for an hour or a year; the Seated Gods, the endings of campaigns, and a frank discussion of why nobody at the table should expect to win against one; a chapter of lairs; and, at the last, random encounters for every land and for the Rim Road between them.
+This chapter is the GM's larder. It gives rules for running adversaries in the terms of the Grace Roll, then walks the seven lands one by one, presenting the horrors native to each with full statistics, a witness's word, and the unpleasant detail that makes them worth meeting: what they smell like, what they sound like in the dark, and what they leave for the family to find. After the lands come the human adversaries, who outnumber the monsters and do more harm, among them cult-shepherds and patient questioners. Then come the rules for the god-ridden; the Seated Gods, the endings of campaigns, and why nobody should expect to win against one; the lairs; and random encounters for every land and the Rim Road between.
 
 [pull] Every monster on the Table was somebody's supper once, or somebody's son. Usually both. | — Hob Gristle, the Honest Butcher
 
@@ -565,7 +565,7 @@ End: Haul it back down. A diver must go under with it held fast and come up with
 
 Beds were burned in the squares in 342 A.G., and there has not been a bed, couch or cushion in the city since. In the sealed buildings of the old Slope and in the lamp-starved back rooms the Lamplighters cannot reach, a bed sometimes makes itself. Nobody carries it in. It is simply there one morning, in a room whose lamp has been out a week: a broad low bed with a carved headboard in the old Ludmere style, a feather mattress, linen white as milk, the covers turned down, and a dent in the pillow as if someone has only just risen. The room is dark, warm and still, and it smells of lavender and clean sleep. There is a faint sound, sometimes, of someone breathing in the next room, slowly.
 
-People find their way to a Made Bed the way water finds a drain: a tired clerk takes a wrong turn; a child is sent for a lost coat; a nudger follows a rumour of a quiet place. The family finds the shoes outside the door, side by side, the coat folded on top. Inside, the sleeper lies on their back with a smile, warm, unwakeable, and the covers drawn up to the chin by a hand that was not theirs. The bed does not let go. Cut the linen away and the sleeper is found grown into the mattress, the feathers rooted in their back, the headboard's carving continued in a fine pattern across their scalp.
+People find their way to a Made Bed the way water finds a drain. The family finds the shoes outside the door, side by side, the coat folded on top. Inside, the sleeper lies on their back with a smile, warm, unwakeable, and the covers drawn up to the chin by a hand that was not theirs. The bed does not let go. Cut the linen away and the sleeper is found grown into the mattress, the feathers rooted in their back, the headboard's carving continued in a fine pattern across their scalp.
 
 [pull] A pair of shoes on a doorstep, a folded coat on top, the door open on a dark warm room. We call it Lain-Down. We do not call it anything else, and we close the door, and we do not go in. | — Vigil custom, as explained to an envoy
 
@@ -1118,7 +1118,7 @@ Tactics: never speaks in a gorge. Contradiction: may shout a counter-oath to des
 
 ### New Template: The Shepherd of a Small Table (Cult Leader)
 
-Beside the great cults (the Finishers, the Deepening, the Bedded, the Second Helping), every land has a hundred small ones: a mill-loft in Rudge where forty people wait for a door to open, a Rim inn whose landlord has taught his regulars that the eighth chair is for him. The Shepherd is the person at the head of such a table. They are rarely monstrous to look at. They are warm, attentive and tired, and they remember your name, and the first meal they give you is the best you have had in a year. They usually Broke once, long ago, and the Derangement they took then is the doctrine now. They believe it. That is what makes them good at it.
+Beside the great cults (the Finishers, the Deepening, the Bedded, the Second Helping), every land has a hundred small ones: a mill-loft in Rudge where forty people wait for a door to open, a Rim inn whose landlord has taught his regulars that the eighth chair is for him. The Shepherd is the person at the head of such a table. They are warm, attentive and tired, and they remember your name, and the first meal they give you is the best you have had in a year. They usually Broke once, long ago, and the Derangement they took then is the doctrine now. They believe it. That is what makes them good at it.
 
 [pull] He never once raised his voice. He just asked me, very gently, whether I was sure I'd seen my sister that morning. And after a while I wasn't. | — a woman pulled out of the Lamplit Supper, Kest
 
@@ -1126,17 +1126,17 @@ Beside the great cults (the Finishers, the Deepening, the Bedded, the Second Hel
 
 A Shepherd's power over a person is measured as **Hold**, from 0 to 5, tracked separately for each player character who spends time inside the cult. Once per scene, the Shepherd (or a trusted lieutenant) may use one of the methods below: an opposed roll of the Shepherd's Tongue + Persuade (or Deceive, where noted) against the character's Caul + Resolve. If the Shepherd wins, Hold rises by 1 (2 for Shared Sin).
 
-- **The Welcome.** A meal, a blanket, a hand on the shoulder, a name remembered. +2 to the Shepherd's roll if the character is Starving, Rattled or recently bereaved.
+- **The Welcome.** A meal, a blanket, a name remembered. +2 if the character is Starving, Rattled or bereaved.
 - **The Confession.** The character tells something shameful aloud, and is forgiven. From now on, the cult holds it.
-- **The Unmaking of Home.** Who Waits at Home is described, kindly and constantly, as the one who hurt you. A character with Hold 2+ cannot use Who Waits at Home to remove Fray while the cult is near.
+- **The Unmaking of Home.** Who Waits at Home is described, kindly and constantly, as the one who hurt you. At Hold 2+, Who Waits at Home no longer removes Fray.
 - **The Gaslight** (Deceive). The Shepherd tells the character that something they remember did not happen. On a win, they believe it for a day; a character with *The Gaslight* Derangement cannot resist at all.
-- **Shared Sin.** The character is brought to do, or to watch and not stop, something that cannot be undone: eating at the forbidden table, closing a stranger's eyes, holding a rope while the Called walks in. Dread 3 check, and Hold +2. This is how cults bind: not with belief, but with complicity.
+- **Shared Sin.** The character is brought to do, or to watch and not stop, something that cannot be undone: eating at the forbidden table, holding a rope while the Called walks in. Dread 3 check, and Hold +2. Cults bind not with belief but with complicity.
 
 At **Hold 1** the character suffers −1 to resist the Shepherd in anything. At **Hold 3** they gain *The Devotion* toward the Shepherd for as long as Hold stays at 3+, and must roll Caul + Resolve 18 to act against the cult or tell an outsider its secrets. At **Hold 5** they will kill or die at a word, and the player and GM should decide together whether the character is now lost, as at a Seating.
 
-**Leaving.** A character may try to walk away once per scene: Caul + Resolve against 10 + twice their Hold. Friends who come for them add +2; an Oath on the Dead sworn by the character in the name of someone the cult took from them adds +2. Success drops Hold by 1 and costs 2 Fray, the ache of withdrawal; failure means they stay, and say they wanted to. Hold falls by 1 each week a character spends away from the cult in the company of someone who loves them, and does not fall at all if they are alone.
+**Leaving.** A character may try to walk away once per scene: Caul + Resolve against 10 + twice their Hold. Friends who come for them add +2, as does an Oath on the Dead sworn in the name of someone the cult took. Success drops Hold by 1 and costs 2 Fray, the ache of withdrawal; failure means they stay, and say they wanted to. Hold falls by 1 each week a character spends away from the cult in the company of someone who loves them, and does not fall at all if they are alone.
 
-**Contagion in the Fold.** When any member of a cult Breaks in the gathering, every member present checks at Dread 3, not 2, and the Shepherd chooses which Derangement spreads. This is how a hundred people come to share one delusion, and why the Table's small cults end, so often, all on the same night.
+**Contagion in the Fold.** When any member of a cult Breaks in the gathering, every member present checks at Dread 3, not 2, and the Shepherd chooses which Derangement spreads. This is how a hundred people come to share one delusion, and why small cults so often end all on the same night.
 
 [quick] Devotee — Threat 2 · Flesh 11 · Guard 11 · Attack +4 (knife or kitchen tool 2) · Armor 0 · Dread 1 (the smile) · will not flee while the Shepherd is in sight; Hold 4 on the Shepherd.
 
@@ -1156,7 +1156,7 @@ End: Take the people, not the Shepherd. A Shepherd killed before the fold is out
 
 Every power on the Table keeps someone for questions: the Jar Room in Lastgate, the Rattlehouse, the Board's back cellars, the Witnessing Vaults of Oathen. Most questioners hate the work and pay for it in Dread. The Patient Hand does not pay. Somewhere along the way the part of them that flinched was used up, and what is left enjoys it with a craftsman's quiet absorption. They are courteous, and interested in the person in front of them more completely than anyone has ever been, and that interest is the worst thing the subject will ever know. In Sallowreach, where nobody dies, a Patient Hand can keep a single subject for decades, and some have.
 
-The horror of their work should be shown in what comes before and after, never as a procedure: the clean, swept room; the subject's voice through a door, hoarse from weeks of use; the questioner washing their hands at a basin, humming; the subject, afterward, unable to stop thanking anyone who comes near.
+Show their work only in what comes before and after, never as a procedure: the swept room, a hoarse voice through a door, the questioner humming at a basin, the subject afterward unable to stop thanking anyone who comes near.
 
 [fiction]
 Ledger of the Jar Room, marginal note in the keeper's hand. "Subject 9-Long, year forty of her sentence. Still has not told us where the Heirs' press is hidden. I no longer believe she knows. I have not told the Court this. We are so close now, she and I. She asks after my daughter."
@@ -1234,7 +1234,7 @@ End: The Cutwrights want the line closed and will pay for it, and the Reckoners 
 
 ## The God-Ridden
 
-The Seating is the god coming home for good. Long before that, it visits. A person deep in the Regrowth can be **ridden**: for a few heartbeats, an hour or a season, the god in the blood takes the reins and the person watches from somewhere further back, or does not watch at all. The Tenanted of Brinehollow are the ridden made permanent and polite. The blink-killers of the Vigil are ridden for two seconds. Between those lie a great many people on the Table who have woken with blood on their sleeves, a stranger's ring on their finger, or their family looking at them in a way they will never be able to explain.
+The Seating is the god coming home for good. Long before that, it visits. A person deep in the Regrowth can be **ridden**: for a heartbeat, an hour or a season, the god takes the reins and the person watches from somewhere further back, or not at all. The Tenanted are the ridden made permanent and polite; the blink-killers are ridden for two seconds. Between lie a great many people who have woken with blood on their sleeves and their family looking at them in a way they will never be able to explain.
 
 [pull] It wasn't him. It had his hands, and it held the baby very nicely. But it wasn't him, and the baby knew. | — a Wreckwife, to the Netwatch
 
@@ -1247,7 +1247,7 @@ A character at **the Course or the Brink** must roll Caul + Resolve against the 
 | The Brink (10–11) | Grim 18 | 1d6 minutes, or the rest of the scene on a Lack |
 | In a Seated Reach | Dire 22 | until someone calls them back |
 
-While ridden, the GM plays the character (or, if the table prefers, the player plays the god, which is often worse). The ridden use their own statistics with **+2 Caul**, ignore Fray and Dread, cannot Partake (there is no one left to call on the god; the god is driving), and pursue the god's purpose in the table below with every Gift they have. They know everything the character knows, and use it.
+While ridden, the GM plays the character (or the player plays the god, which is often worse). The ridden use their own statistics with **+2 Caul**, ignore Fray and Dread, cannot Partake (the god is driving), and pursue the god's purpose below with every Gift and everything the character knows.
 
 | Land | What the god does with a borrowed body | The tell |
 | Sallowreach | Closes: eyes, doors, books, lives; seeks the nearest Hush | The hands go still and cold; the voice drops to a murmur |
@@ -1259,7 +1259,7 @@ While ridden, the GM plays the character (or, if the table prefers, the player p
 
 ### Calling Them Back
 
-An ally may spend an action to call the ridden by name: Tongue + Persuade against the ride's difficulty. Speaking their full name adds +1; touching them adds +1; invoking an Oath on the Dead the ridden swore, or the name of Who Waits at Home, adds +2. Pain works in the Vigil and nowhere else (a Waker's needle is +2 there). Giving the god its Sop ends the ride at once and always, which is why the Table is full of families who have learned to keep a little of what the god wants in the house: a jar of brine, a closed box, a door to open, a vow.
+An ally may spend an action to call the ridden by name: Tongue + Persuade against the ride's difficulty. Speaking their full name adds +1; touching them adds +1; invoking an Oath on the Dead the ridden swore, or the name of Who Waits at Home, adds +2. Pain works in the Vigil and nowhere else (a Waker's needle is +2 there). Giving the god its Sop ends the ride at once, which is why so many families keep a little of what the god wants in the house: a jar of brine, a door to open, a vow.
 
 ### Afterward
 
@@ -1275,7 +1275,7 @@ The ridden come back with Hunger at 0 (the god has eaten) and no memory of the r
 
 ### The Ridden as Adversaries
 
-Any human stat block in this chapter can be ridden: add +2 Caul, the land's tell, Dread 2 (Dread 3 to those who love them), and the god's purpose. Riding spreads like madness: when one person in a household is ridden, every Cut-bearing member present must check too, and in the worst-hit villages whole families have been found at their tables, faces calm, every one of them somewhere else. The Purgation's emetics, the Celebrants' rites and the Reckoners' knives have all been tried. The first two have worked about as often as nothing. The third always works.
+Any human stat block in this chapter can be ridden: add +2 Caul, the land's tell, Dread 2 (Dread 3 to those who love them), and the god's purpose. Riding spreads like madness: when one person in a household is ridden, every Cut-bearing member present must check too, and in the worst-hit villages whole families have been found at their tables, faces calm, every one of them somewhere else. Emetics, rites and knives have all been tried. Only the knives always work.
 
 [box: Possession at the Table]
 Taking a player's character away from them is the strongest move the GM has. Use it rarely and say so plainly when it happens. Agree in advance whether the god may make a ridden character harm a companion, and how far; many tables prefer that the ride is shown through its aftermath (the open doors, the stranger's ring, the blood) rather than played. Offering the player the god's part to play, with the god's purpose and none of the character's restraint, is often the most frightening option, and the one players remember.
@@ -1358,7 +1358,7 @@ What player characters can do is choose how the world meets the god. Every campa
 
 ## Lairs
 
-Most of the Table's horrors have somewhere they go back to: a cellar, a furrow, a cistern, a room. When the players follow a creature home, roll once or twice on the land's table below for what they find there. Each is something to see, smell and touch, and most of them are a Dread 1 or 2 check; the last entries on each table are clues to something worse.
+Most of the Table's horrors have somewhere they go back to. When the players follow one home, roll once or twice on the land's table for what they find. Most entries are a Dread 1 or 2 check; the last on each table are clues to something worse.
 
 ### Sallowreach
 
