@@ -780,3 +780,417 @@ Rim inns are thin-walled, the Table is full of singers, and a song heard through
 | 8 | A wake-song, in a bright major key, and the sound of chewing | A Fatlands drover's wake; he died on the road, and the family has a licence |
 | 9 | Retching, rhythmic, and a sweet voice calling *come up* | A Purgation hall in the next building; they will sell what comes up at dawn |
 | 10 | Seven voices raising a toast, one at a time, and then a long silence, and then an eighth glass set down | Do not go and look |
+
+# Said at Table: Proverbs, Graffiti and Bedtime Stories
+
+> Say it plainly. We were hungry, and they were there.
+>> — first line of every history written on the Table, and the first proverb taught to Rim children
+
+[fiction]
+*From the preface to THE TABLE ALMANACK, OR A SAYING FOR EVERY DAY, printed at Quire for the Rim Road Company and sold at every waystation for two crumbs, 637 A.G.*
+The traveller on the Rim will find that every people of the Table has a proverb for every occasion, and that most of them contradict one another, and that all of them are true in the country where they are said. The Company has therefore compiled, for the convenience of its patrons, a saying for every day of the year, drawn from all seven lands and from the Road itself, so that the traveller may greet his host with something apt. The Company accepts no responsibility for sayings repeated in the wrong land. A saying of the Fatlands spoken in the Fast has been known to start a fight. A saying of any land spoken in Oathen is binding on the speaker if it can be construed as a promise, and the Company's notaries advise that most of them can. The compilers have omitted the eighth of every list. They were asked to.
+[/fiction]
+
+This chapter collects the small talk of the Table: the things people say over meals, scratch on walls, and tell their children at night. It is meant to be stolen from. A Carver who needs a line for an innkeeper, a carter, a dying Kept grandmother or a Netwatch officer on a cold pier will find one here, and every line is meant to carry a little of its land's horror in it, the way a proverb carries a whole history in a sentence.
+
+It has three parts. **The Almanac of Sayings** gives a proverb for every day of the year, by season, numbered from the first day of Grace (when the Kept Rain falls on Oathen, or is supposed to) to the last day of Lack. **Graffiti of the Rim** gives forty lines scratched on walls, milestones and privy doors along the ring road, with where they are found and what they actually mean. **Bedtime Stories of the Seven Lands** gives one tale from each land, as a parent tells it at a child's bedside, followed by the true event behind it, which the parent does not tell.
+
+## The Almanac of Sayings
+
+The Company's almanac counts the year from the first day of Grace and gives each season ninety-one days, with the last day of Lack left over as the year's ninety-second day of winter, which the almanac calls *the leftover* and the Unfed call the ninth of the Nine. Tablenight, the longest night, falls by the Company's reckoning on the three hundred and twentieth day. Where several lands keep a holy day on the same date (the first of Grace is the Kept Rain, the Unbricking and the Burying all at once), the almanac gives the saying to one land on the day and to the others on the days that follow, which has offended all three.
+
+Each saying is tagged with the land it belongs to. The Rim's own sayings are tagged *Rim*. Festival days are marked in italic at the head of the line.
+
+[box: Proverbs at the Table]
+A Guest who quotes a proverb of a land to someone from that land, aptly, at the right moment, gains **+1 to the next Persuade, Haggle or Deceive roll** with them in that scene, once per scene; they are, for a moment, someone who knows how things are said here. Quoting a proverb of the wrong land (a Fatlands saying about appetite in the Fast; a Sallowreach saying about long life to anyone who is not Kept) gives **−2** instead, and may start a fight. In Oathen, a proverb that can be read as a promise is a promise: the Carver may rule it a Weight 1 oath. The Clausewrights recommend only the sayings that begin with *if*.
+The Carver may also roll a d100 (or d366, for the dedicated) to find the day's saying when the Guests wake at an inn. The innkeeper has it chalked on the slate by the door.
+[/box]
+
+### Grace
+
+> A promised rain comes.
+>> — the first saying of the year
+
+- **1.** *The Kept Rain.* A promised rain comes; a late rain was promised to someone else. *(Oathen)*
+- **2.** *The Unbricking.* Knock before you break the wall; it was polite enough to stay in all winter. *(Cradlewrack)*
+- **3.** *The Burying.* Cut the grass on the Barrows once, and do not enjoy it. *(Fast)*
+- **4.** Restitch in Grace and you'll stand till Lack. *(Sallowreach)*
+- **5.** New rope at the Knotting, and the old rope burned, and never the other way round. *(Brinehollow)*
+- **6.** A stranger with clean boots came round the Fast, not through it. *(Rim)*
+- **7.** Babies are born with their eyes shut; that is the first thing we forgive them. *(Vigil)*
+- **8.** Plant the field by name, and it will answer to it. *(Fatlands)*
+- **9.** The first word of the year should be a short one. *(Oathen)*
+- **10.** A thread waxed in Grace holds a jaw till Carving. *(Sallowreach)*
+- **11.** Don't name the lamb till it's stopped talking. *(Cradlewrack)*
+- **12.** Bail before you pray; the god can wait, the water can't. *(Brinehollow)*
+- **13.** Seed rots, hens lie, and we say thank you anyway, three times, to nobody. *(Fast)*
+- **14.** The heaviest man at the Weighing is the one who ate the scales. *(Fatlands)*
+- **15.** A lamp in the window is cheaper than a bed in the Dormitory. *(Vigil)*
+- **16.** Every milestone counts both ways, and both ways it is lying. *(Rim)*
+- **17.** Gran smells of cedar in Grace and of Gran by Plenty. *(Sallowreach)*
+- **18.** If able is the whole of manners. *(Oathen)*
+- **19.** An open door in Grace lets the spring in; an open door in the highlands lets the spring out. *(Cradlewrack)*
+- **20.** Count the house through the wall before you put the kettle on. *(Brinehollow)*
+- **21.** Wheat that bites is wheat that's ripe. *(Fatlands)*
+- **22.** Eat standing and you'll never be asked to stay. *(Fast)*
+- **23.** Pinch the baby; it's how she'll know you love her. *(Vigil)*
+- **24.** Pay the toll and keep the receipt; the road remembers, but the Company forgets. *(Rim)*
+- **25.** A Closing costs a house, and a house costs a Closing, and nobody ever moves. *(Sallowreach)*
+- **26.** Sweethearts swap buckets; married folk swap knots; widows keep both. *(Brinehollow)*
+- **27.** What is born on the Unbricking is somebody's, whatever it is. *(Cradlewrack)*
+- **28.** The Bench took forty pages to say yes, and then it said if able. *(Oathen)*
+- **29.** First Furrow: the heaviest man pulls the plough, and the field pulls the heaviest man. *(Fatlands)*
+- **30.** A table in a ruin is a ruin with a table in it; walk on. *(Fast)*
+- **31.** Never sit where it's comfortable, never stand where it's warm, never lean. *(Vigil)*
+- **32.** Every land is certain the cure is next door, and next door is certain it's you. *(Rim)*
+- **33.** A fly in the soup is a fly that's eating; leave it be. *(Sallowreach)*
+- **34.** What the tide brings in, the tide has counted. *(Brinehollow)*
+- **35.** Lambing Eve: nobody sleeps alone, and nobody asks who's in the cot. *(Cradlewrack)*
+- **36.** A man of few words is a man of many years. *(Oathen)*
+- **37.** You look heavy, and I mean it kindly. *(Fatlands)*
+- **38.** If you smell bread in Grace, it isn't. *(Fast)*
+- **39.** Starers' Day: throw a bell in the basket, so the baby knows what morning sounds like. *(Vigil)*
+- **40.** The Hem is knee-high, and every knee on the Rim knows it. *(Rim)*
+- **41.** Mittens on the child and the door on the latch, and both of them pulled tight. *(Sallowreach)*
+- **42.** A dry man drowns twice. *(Brinehollow)*
+- **43.** First we ask what it is; then we ask the mother; then we ask whether she wants it to stay. *(Cradlewrack)*
+- **44.** Say less, and say it once. *(Oathen)*
+- **45.** The pig and the parson come up out of the same furrow. *(Fatlands)*
+- **46.** A thin child is a clean child; a plump child has been somewhere. *(Fast)*
+- **47.** Sleep is a long word for a short life. *(Vigil)*
+- **48.** Lack keep away, and if Lack won't, buy it a drink. *(Rim)*
+- **49.** Grandfather's had his say since 212; let him finish. *(Sallowreach)*
+- **50.** Mind the west window; it's the only one that looks back. *(Brinehollow)*
+- **51.** A door that opens itself was never yours to shut. *(Cradlewrack)*
+- **52.** An Oathener's yes is a contract; his perhaps is a will. *(Oathen)*
+- **53.** Eat the pie your mother made of your father, and say it's good, because it is. *(Fatlands)*
+- **54.** No, thank you; no, thank you; no, thank you; well, just a little. *(Fast)*
+- **55.** A yawn is a rumour your body tells. *(Vigil)*
+- **56.** On the Rim, every chair has had a stranger in it, and one of them was you. *(Rim)*
+- **57.** The Kept don't grudge, they wait. *(Sallowreach)*
+- **58.** What the sea took, it wrote down. *(Brinehollow)*
+- **59.** Nine days is long enough to fall in love and short enough to stay married. *(Cradlewrack)*
+- **60.** Hear twice what you said once, and you'll say half. *(Oathen)*
+- **61.** The orchard screams in Grace so the jam won't in Carving. *(Fatlands)*
+- **62.** The god is warm, so wear your coat. *(Fast)*
+- **63.** Rouse at the bell, and rouse at the half, and rouse at the bell again. *(Vigil)*
+- **64.** A Company man counts the wheels, a carter counts the miles, a wise man counts the passengers. *(Rim)*
+- **65.** Lay Gran out on the sill for Restitching Week; she likes to see the flies go by. *(Sallowreach)*
+- **66.** Rope before bread, bucket before rope, name before bucket. *(Brinehollow)*
+- **67.** Born old is still born. *(Cradlewrack)*
+- **68.** Never promise in a canyon; it will promise you back. *(Oathen)*
+- **69.** Five meals a day, and the sixth is the one that eats you. *(Fatlands)*
+- **70.** Never answer *come in*, not even to your mother, not even if it is your mother. *(Fast)*
+- **71.** The lamp-oil is low and the lamplighter's lying. *(Vigil)*
+- **72.** Travel in Grace, trade in Plenty, pray in Carving, stay home in Lack. *(Rim)*
+- **73.** A stitch in time keeps nine. *(Sallowreach)*
+- **74.** Whatever walks out of the sea knows your name; you're not obliged to know its. *(Brinehollow)*
+- **75.** Knock once for a visitor, twice for a midwife, three times for what you don't know. *(Cradlewrack)*
+- **76.** The rain kept its word for six hundred years; mind that you keep yours for six. *(Oathen)*
+- **77.** A hungry man is honest; a full man is a liar; there are no full men. *(Fatlands)*
+- **78.** Hunger is honest. *(Fast)*
+- **79.** Blink once and you're rude; blink twice and you're gone. *(Vigil)*
+- **80.** The Company owns the road, the inns, the tolls, and the weather, if you ask a Company man. *(Rim)*
+- **81.** Better a finished fool than a Kept sage. *(Sallowreach)*
+- **82.** The pier grows a mile a year and the sea goes two. *(Brinehollow)*
+- **83.** Count the fingers; then count them again; then decide if it matters. *(Cradlewrack)*
+- **84.** Silence is the only thing in Tacit that costs nothing. *(Oathen)*
+- **85.** Don't make bread of your friends; make sausage, it keeps. *(Fatlands)*
+- **86.** A fourth-time yes is courtesy; a first-time yes is a funeral. *(Fast)*
+- **87.** Hold hands on the stair; it's harder to fall asleep holding a hand. *(Vigil)*
+- **88.** Every inn has a chair facing the wall, and nobody who built it can tell you why. *(Rim)*
+- **89.** Every rope has two ends, and only one of them is yours. *(Brinehollow)*
+- **90.** The dead grow nothing; the dead grow everything; it depends on the soil. *(Fatlands)*
+- **91.** *Turn of Grace.* At Gristmoot you can buy anything but a straight answer and a dead man. *(Rim)*
+
+### Plenty
+
+> The fat remembers the fire best.
+>> — a Fatlands cook's saying, and the hottest season's
+
+- **92.** *The Beaching.* Read the brides' names loud on the Headland, so nobody hears what they're humming. *(Brinehollow)*
+- **93.** Haul and hold, and do not look. *(Brinehollow)*
+- **94.** *Corve Night.* If a window's bricked, it was bricked for a reason; if it's bricked from the inside, it was bricked for a worse one. *(Fast)*
+- **95.** Plenty is the season the flies hold Court. *(Sallowreach)*
+- **96.** The fields sweat so the farmers don't have to. *(Fatlands)*
+- **97.** Summer nights are short; that's the only kind thing anyone can say about them. *(Vigil)*
+- **98.** A twelve-year-old's first word is chosen by a lawyer and regretted by a bride. *(Oathen)*
+- **99.** The midwife fasts on Hollan's Day, so the questions come out clean. *(Cradlewrack)*
+- **100.** In Plenty, carry water; in Lack, carry bread; on the Rim, carry both and a knife. *(Rim)*
+- **101.** Shut the Kept in and the flies out, and pray they don't swap. *(Sallowreach)*
+- **102.** Four days the Fathom took to die; four days the devout eat nothing; four hours they last. *(Brinehollow)*
+- **103.** What grows fastest in the heat grows teeth soonest. *(Fatlands)*
+- **104.** At the Pinching Fair, the bruises are the souvenirs. *(Vigil)*
+- **105.** A word unbitted is a dog let off the rope. *(Oathen)*
+- **106.** Born in the heat, born hungry; born in the frost, born old. *(Cradlewrack)*
+- **107.** A hot road and a cool inn and an empty chair: two out of three is luck. *(Rim)*
+- **108.** Nobody looks well in Plenty; everybody looks heavy. *(Fatlands)*
+- **109.** If the hedge is trimmed and the house is empty, somebody's still at home. *(Fast)*
+- **110.** The smudge-pot is the poor man's cedar. *(Sallowreach)*
+- **111.** The sea's not leaving, it's moving in. *(Brinehollow)*
+- **112.** Pinch me. *(Vigil)*
+- **113.** A broken man tells no lies; he can't afford them. *(Oathen)*
+- **114.** Cut the cord and you're a person; keep it and you're a family. *(Cradlewrack)*
+- **115.** The Belch blows from the south, and it means what it smells like. *(Fatlands)*
+- **116.** Never take the last bed in a waystation, nor the first, nor the one with the chair turned round. *(Rim)*
+- **117.** Nobody here is waiting to die; we are all waiting to be allowed. *(Sallowreach)*
+- **118.** Eat in the shade, and if the shade moves, don't follow it. *(Fast)*
+- **119.** Sweating Night: sleep in the field if you must, but sleep face down. *(Fatlands)*
+- **120.** A stranger who bails well is no stranger. *(Brinehollow)*
+- **121.** Every hour's a little longer than the last, and so is every sermon. *(Vigil)*
+- **122.** Some things are born to be named; some things are born to be counted; some things are born to be quick about. *(Cradlewrack)*
+- **123.** The canyon repeats everything except your apology. *(Oathen)*
+- **124.** Better a Company toll than a Fatlands welcome. *(Rim)*
+- **125.** A long life is the worst thing you can wish a friend. *(Sallowreach)*
+- **126.** Marry a man who can sleep on rope. *(Brinehollow)*
+- **127.** Every pot has a granny in it. *(Fatlands)*
+- **128.** No hearth, no harm. *(Fast)*
+- **129.** A soft voice is a slow knife. *(Vigil)*
+- **130.** Fingers don't count; everybody knows fingers don't count; count your fingers. *(Oathen)*
+- **131.** A well that gives birth has run dry of everything else. *(Cradlewrack)*
+- **132.** The cure is always two days down the road, and the road is always two days long. *(Rim)*
+- **133.** What you can't bury, sell; what you can't sell, shelve; what you can't shelve, sing to. *(Sallowreach)*
+- **134.** Love is wanting to feed someone; hate is wanting to eat them; marriage is both. *(Fatlands)*
+- **135.** A bowl of seawater for the dead, a cup of fresh for the living, and don't mix them up at supper. *(Brinehollow)*
+- **136.** Whoever stays awake longest gets to tell it. *(Vigil)*
+- **137.** Keep your knife and your mouth both wrapped. *(Oathen)*
+- **138.** A born-grown man has no childhood, so give him yours to borrow. *(Cradlewrack)*
+- **139.** The Unfed are the only clean people on the Table, and they will tell you so by lunchtime. *(Rim)*
+- **140.** Thin is holy; thinner is holier; thinnest is buried. *(Fast)*
+- **141.** In the fen the fire never goes out, and neither does the argument. *(Sallowreach)*
+- **142.** A hill never says no. *(Fatlands)*
+- **143.** Keep the rope short and the love long. *(Brinehollow)*
+- **144.** Lie down, and the city will lie down on top of you. *(Vigil)*
+- **145.** If you must swear, swear by the weather; it's the one thing already broken. *(Oathen)*
+- **146.** The highlands have two kinds of house: the bricked and the visited. *(Cradlewrack)*
+- **147.** A Rim innkeeper's three words: paid, fed, out. *(Rim)*
+- **148.** Nobody's full, but some are fuller. *(Fatlands)*
+- **149.** Never trust a man who smells of nothing. *(Sallowreach)*
+- **150.** Measure twice, ration once. *(Fast)*
+- **151.** Don't ask the Tenanted where they went; ask them where they're going, and don't wait for the answer. *(Brinehollow)*
+- **152.** Lidless rule, lidded weep. *(Vigil)*
+- **153.** A promise is a bone you lend to the god. *(Oathen)*
+- **154.** Mothers' names in the ledger, and footnotes for the rest. *(Cradlewrack)*
+- **155.** The Washing: if the walk-stone's clean in the morning, don't ask who washed it, and don't thank them. *(Rim)*
+- **156.** A thin man has a secret. *(Fatlands)*
+- **157.** Whoever pays for the Closing never gets one. *(Sallowreach)*
+- **158.** Everybody coughs; nobody listens. *(Brinehollow)*
+- **159.** Stand up to eat, stand up to pray, and stand up when the god walks by. *(Fast)*
+- **160.** A tin roof is a friend in the rain. *(Vigil)*
+- **161.** Speak in Tacit and the whole canyon is your witness. *(Oathen)*
+- **162.** The cradle and the coffin are the same size if you wait. *(Cradlewrack)*
+- **163.** The road is round so nobody ever has to go back. *(Rim)*
+- **164.** Field-fed and fat is the best a body can be. *(Fatlands)*
+- **165.** Dunmere wept; the rest of the fen wept with envy. *(Sallowreach)*
+- **166.** Salt on your lips at waking: kiss someone before it's sea. *(Brinehollow)*
+- **167.** Seen by one is a dream; seen by a street is news; seen by the city is law. *(Vigil)*
+- **168.** The Mute King's nod means yes, no, and come back in a month. *(Oathen)*
+- **169.** Every nine days, the whole country holds its breath and counts. *(Cradlewrack)*
+- **170.** If you smell custard, ring the bell. *(Fast)*
+- **171.** Hot meat travels badly, and hot money worse. *(Rim)*
+- **172.** Don't tell the trees you're pruning them. *(Fatlands)*
+- **173.** The Lofts are full of good listeners. *(Sallowreach)*
+- **174.** Everything in the sea is going somewhere, and so is the sea. *(Brinehollow)*
+- **175.** Two words make a marriage: the second one is me. *(Vigil)*
+- **176.** Wish for nothing out loud. *(Oathen)*
+- **177.** A door left open is an invitation; a door propped open is a policy. *(Cradlewrack)*
+- **178.** An empty belly hears the god further off. *(Fast)*
+- **179.** Fruit with a pit of bone is still fruit. *(Fatlands)*
+- **180.** The fat remembers the fire best. *(Fatlands)*
+- **181.** A grey hand is a closed door with a price on it. *(Sallowreach)*
+- **182.** *Turn of Plenty.* Bottles of the Keep at Gristmoot: two lacks a bottle, and the bottle keeps the lacks. *(Rim)*
+
+### Carving
+
+> Carving is for the knife, Lack is for the bone.
+>> — Rim saying
+
+- **183.** *Yellowing.* A leaf that falls in the fen is luck; keep it in a box, and don't let it hear you leave. *(Sallowreach)*
+- **184.** The Reaping is wolves, and there are no wolves, and mind you're in by dusk. *(Fatlands)*
+- **185.** Carving is for the knife, Lack is for the bone. *(Rim)*
+- **186.** Marbling Morning: run barefoot on the white, and don't run far. *(Fatlands)*
+- **187.** The Closed Week keeps the marriage and the country both. *(Cradlewrack)*
+- **188.** Cut it on the Ledger and it's cut in you. *(Oathen)*
+- **189.** Low Water: watch them sing from the rail, and hold the rail. *(Brinehollow)*
+- **190.** Every hour of Carving is a little lazier than the one before. *(Vigil)*
+- **191.** *Short Night.* Read the names of the left-off all night, and leave nobody off the reading. *(Fast)*
+- **192.** Gold light and no harvest: that's the heartland every day. *(Fast)*
+- **193.** He ate well, we said, and we meant he tasted good. *(Fatlands)*
+- **194.** The rot is slow, but it has all the time in the world, and so have you. *(Sallowreach)*
+- **195.** Count the tide-posts, and leave a space for yourself. *(Brinehollow)*
+- **196.** Shout on the Grey Ninth for the eleven hundred, and shout once more for the one nobody counted. *(Vigil)*
+- **197.** A word carved is a word kept; a word miscut is a man broken. *(Oathen)*
+- **198.** The pangs come closer, so stand further apart. *(Cradlewrack)*
+- **199.** The meat market at Gristmoot: buy by the barrel, and never ask the barrel. *(Rim)*
+- **200.** The field remembers who fed it. *(Fatlands)*
+- **201.** What's shelved is not forgotten; it's filed. *(Sallowreach)*
+- **202.** A rope cut in the night is the saddest thing that can happen to a bed. *(Brinehollow)*
+- **203.** Never trust a mild afternoon. *(Vigil)*
+- **204.** A Clausewright's love letter has an index. *(Oathen)*
+- **205.** The Dilation's wider every time you look, so look less. *(Cradlewrack)*
+- **206.** The god in the middle is lonely; that's not your problem. *(Fast)*
+- **207.** Every barrel from the Chute is stamped twice, and both stamps are lying. *(Rim)*
+- **208.** In by dusk, and if you're not, then we'll eat you anyway at Harvest Home. *(Fatlands)*
+- **209.** Hush the child, but never shut the window on the Shut House side. *(Sallowreach)*
+- **210.** Whatever you drop on the Uncovered belongs to the next tide. *(Brinehollow)*
+- **211.** Sixty thousand beds and every one of them made. *(Vigil)*
+- **212.** Ask a question and you've made no promise; ask a fool a question and you've made his fortune. *(Oathen)*
+- **213.** A hand without a body is still somebody's hand. *(Cradlewrack)*
+- **214.** The Lists are not a holy day; everyone attends. *(Fatlands)*
+- **215.** A Crumb-Runner is spat at and fed from in the same hour. *(Fast)*
+- **216.** Every land curses the Company and every land pays the toll. *(Rim)*
+- **217.** May you finish. *(Sallowreach)*
+- **218.** A Called man walks with his face to the warm wind; don't stand in his way, stand in his shoes. *(Brinehollow)*
+- **219.** Sleep is a debt, and the city is the debtor, and the eye is collecting. *(Vigil)*
+- **220.** Say *as I now intend*, and intend very little. *(Oathen)*
+- **221.** Every crowning brings up something; most of it's clay. *(Cradlewrack)*
+- **222.** The scarecrow in the far field is nearer than last year; that's all anyone will say. *(Fatlands)*
+- **223.** A warm front in the Fast means company. *(Fast)*
+- **224.** On the Rim, a man's land is the last thing he tells you and the first thing you guess. *(Rim)*
+- **225.** A candle that feels itself burn gives the steadiest light. *(Sallowreach)*
+- **226.** The sea writes its letters on the cellar stairs, in kelp. *(Brinehollow)*
+- **227.** Two pinches make a friend; three make a marriage; four make a Waker. *(Vigil)*
+- **228.** The Forsworn are honest because they've run out of anything else to be. *(Oathen)*
+- **229.** Mother, Mother, shut my eyes. *(Cradlewrack)*
+- **230.** Fasting is treason, so fast in secret, and eat in public, and hate both. *(Fatlands)*
+- **231.** No hearth in the house, no table in the kitchen, no chair you can't carry. *(Fast)*
+- **232.** The cheapest inn on the Rim is the one with the most graves out back. *(Rim)*
+- **233.** An argument in the fen outlives the house it started in. *(Sallowreach)*
+- **234.** The Admiralty hangs men for saying stranded, so say aground. *(Brinehollow)*
+- **235.** What's seen in the Seeming is seen; what's seen alone is a symptom. *(Vigil)*
+- **236.** Oathen trusts nobody, so the whole Table trusts Oathen. *(Oathen)*
+- **237.** A midwife's knife is called the Second Opinion, and there is no third. *(Cradlewrack)*
+- **238.** Every Laden grandmother is a good field and a poor listener. *(Fatlands)*
+- **239.** If you hear plates go down behind you, don't turn round to count them. *(Fast)*
+- **240.** A Company receipt is the only paper that outlives its signer. *(Rim)*
+- **241.** The Unvacated hold the deeds, and the young hold the Unvacated, and the deeds hold everyone. *(Sallowreach)*
+- **242.** Better Called than Tenanted, says the widow; better Tenanted than Called, says the wife. *(Brinehollow)*
+- **243.** Lamps for the living, mirrors for the dead, and tin for the roof between them. *(Vigil)*
+- **244.** Better a slow tongue than a short leg. *(Oathen)*
+- **245.** The Barren Order begins nothing, and it's the only order that's growing. *(Cradlewrack)*
+- **246.** The dusk shift pays double, and nobody has ever collected. *(Fatlands)*
+- **247.** An Unfed's thanks is three noes and a nod. *(Fast)*
+- **248.** When the stage is late, the passengers are early somewhere else. *(Rim)*
+- **249.** A Kept man's mouth is the last thing to go, more's the pity. *(Sallowreach)*
+- **250.** Count west windows and you'll know who's next. *(Brinehollow)*
+- **251.** Nobody in the Vigil has seen a star; nobody misses what they've never been allowed. *(Vigil)*
+- **252.** Little promises break little bones. *(Oathen)*
+- **253.** The waters come up without rain; the people go down without reason. *(Cradlewrack)*
+- **254.** Don't marry into a family with a hill. *(Fatlands)*
+- **255.** Whatever is laid is laid for you. *(Fast)*
+- **256.** Seven spokes on the Company wheel, and a hub with nothing in it. *(Rim)*
+- **257.** Every jar on the long shelf is listening. *(Sallowreach)*
+- **258.** The Netwatch hooks gentle and hauls hard. *(Brinehollow)*
+- **259.** Don't count sheep. *(Vigil)*
+- **260.** The Bench drafts in the dark and signs in the light. *(Oathen)*
+- **261.** Whatever it is, it isn't you. *(Cradlewrack)*
+- **262.** The hungrier the guest, the sweeter the host; the sweeter the host, the hungrier the field. *(Fatlands)*
+- **263.** Hollow is a holy place, until it's yours. *(Fast)*
+- **264.** Buy cures on the Rim and you buy someone else's curse in a nicer bottle. *(Rim)*
+- **265.** Whatever's in a Hush is quiet, and whatever's quiet is in a Hush. *(Sallowreach)*
+- **266.** Lay the drowned face down; they'll look up at the gulls if you don't. *(Brinehollow)*
+- **267.** A lid is a door you wear. *(Vigil)*
+- **268.** Your word is your bone. *(Oathen)*
+- **269.** Ten fingers to the count, and if you've eleven, count slower. *(Cradlewrack)*
+- **270.** Granny Cracknel keeps the teeth, so mind your manners at the mill. *(Fatlands)*
+- **271.** A rouse-tooth falls out by Carving; a rouse-heart stops by Lack. *(Vigil)*
+- **272.** Ask nothing of the chair you were not offered. *(Fast)*
+- **273.** *Turn of Carving.* A Rim winter is three months of barrels and nine of debt. *(Rim)*
+
+### Lack
+
+> Lack keep away.
+>> — the grace said with strangers in every land, and the saying for Tablenight
+
+- **274.** Lack is the season with the honest name. *(Rim)*
+- **275.** There is no winter in the fen, because winter is an ending. *(Sallowreach)*
+- **276.** The cold makes the Called walk faster. *(Brinehollow)*
+- **277.** Long nights are long; the Vigil has no other news. *(Vigil)*
+- **278.** Marbling melts by noon, but the fat in the ground remembers. *(Fatlands)*
+- **279.** In Lack, the Pantry list is read standing, and heard sitting down. *(Fast)*
+- **280.** Frost on the lintel, a pang in the hill, and the door ajar again. *(Cradlewrack)*
+- **281.** A cold wind carries words further; keep your mouth in your scarf. *(Oathen)*
+- **282.** Never answer a knock on a licked-clean night; never answer it twice. *(Rim)*
+- **283.** Cold ears hear the Lofts better. *(Sallowreach)*
+- **284.** Tie the knot twice in Lack; the sea's lonelier in the dark. *(Brinehollow)*
+- **285.** Ice on the tin roof is a lullaby with teeth. *(Vigil)*
+- **286.** Five meals in Lack, and the fifth one cold. *(Fatlands)*
+- **287.** A quarter-measure less is still a measure. *(Fast)*
+- **288.** A child born in Lack is born with a coat on; check under it. *(Cradlewrack)*
+- **289.** Frost cracks stone and promises both. *(Oathen)*
+- **290.** The thin market at Gristmoot: double prices, half bread, whole lies. *(Rim)*
+- **291.** A Kept man doesn't feel the cold, but he hears his own joints in it. *(Sallowreach)*
+- **292.** Ice in the bucket at dawn means bail faster, not less. *(Brinehollow)*
+- **293.** Cold is the Waker's best friend; warmth is the room's. *(Vigil)*
+- **294.** A Laden hill steams in Lack like a pudding cooling. *(Fatlands)*
+- **295.** Hunger in Lack is only Grace that came too early. *(Fast)*
+- **296.** The Tally is read at dusk, so the dark can listen too. *(Cradlewrack)*
+- **297.** The canyon is quietest in Lack, and listens hardest. *(Oathen)*
+- **298.** The Company buys grain for the Fast at the turn of Lack and sells it at the turn of Grace. *(Rim)*
+- **299.** Smoke the house, keep the Kept, and never let the fire go out; it couldn't anyway. *(Sallowreach)*
+- **300.** A drowned man is warmer than a Called one. *(Brinehollow)*
+- **301.** Wrap up warm, but not too warm. *(Vigil)*
+- **302.** The orchard sleeps in Lack, but it sleeps with one eye open. *(Fatlands)*
+- **303.** Snow on the road is the god's tablecloth; don't sit on it. *(Fast)*
+- **304.** Brick the room at dusk and say goodnight to it at dawn. *(Cradlewrack)*
+- **305.** A frozen word comes back in the thaw. *(Oathen)*
+- **306.** The longer the night, the more chairs at the inn. *(Rim)*
+- **307.** Long life to you; I mean it badly. *(Sallowreach)*
+- **308.** In the coldest Lack the sea came back for a night, and everyone went to look, and that was the year of the walking. *(Brinehollow)*
+- **309.** Rouse in Lack is sweeter and kills quicker. *(Vigil)*
+- **310.** Fast for Tablenight if you like; you'll eat by noon. *(Fatlands)*
+- **311.** Keep your back to the door and your face to the cold. *(Fast)*
+- **312.** A door that freezes shut is the only miracle in the highlands. *(Cradlewrack)*
+- **313.** The eve of the silence is the loudest night in the canyons; everybody's saying goodbye. *(Oathen)*
+- **314.** A Rim inn on a Lack night has three noises: the fire, the drinkers, and the one at the window. *(Rim)*
+- **315.** Every jar in the Jar Room wants a word with you. *(Sallowreach)*
+- **316.** Set a bowl of seawater at the table's head and don't watch it. *(Brinehollow)*
+- **317.** Count aloud in the dark minute; if someone else is counting with you, stop. *(Vigil)*
+- **318.** Nobody has ever made it to sundown, and nobody has ever stopped trying. *(Fatlands)*
+- **319.** *The Night of Ears.* Lay your ear on the warm sand and say nothing; it already knows. *(Oathen)*
+- **320.** *Tablenight.* Lack keep away. *(Every land)*
+- **321.** *The First Morning.* Cut the cord at first bell and say come down, then. *(Sallowreach)*
+- **322.** The day after Tablenight is the hungriest day of the year, and the most polite. *(Rim)*
+- **323.** What came to the open door on Tablenight is in the house now; feed it nicely. *(Cradlewrack)*
+- **324.** The bowl was dry in the morning, and nobody drank it. *(Brinehollow)*
+- **325.** The lamps come back on, and everyone counts who's still holding hands. *(Vigil)*
+- **326.** Oathen speaks again on the morning after, and the first thing it says is *if able*. *(Oathen)*
+- **327.** The dead didn't taste it, and we didn't either, and we said it was lovely. *(Sallowreach)*
+- **328.** The fields are frozen, but the furrows are warm under; don't kneel. *(Fatlands)*
+- **329.** A plate laid in an empty house in Lack is laid for the house. *(Fast)*
+- **330.** The coldest seat at the Groaning Board is the one facing the wall. *(Rim)*
+- **331.** Mittens in Lack; mittens in Plenty; mittens in your coffin, if you ever get one. *(Sallowreach)*
+- **332.** What freezes in the chest comes up in pieces. *(Brinehollow)*
+- **333.** A Vigil child knows three hundred bells and no stars. *(Vigil)*
+- **334.** The weight you lose in Lack the Board finds in Grace. *(Fatlands)*
+- **335.** A crust left on the sill is an invitation, no matter what you meant. *(Fast)*
+- **336.** Every pang in Lack brings up something that's cold, and some of it's glad to see you. *(Cradlewrack)*
+- **337.** A man who says *always* had better mean it in Lack. *(Oathen)*
+- **338.** Cures are cheapest in Lack, because the sellers can't wait. *(Rim)*
+- **339.** A shelved man is a patient man. *(Sallowreach)*
+- **340.** No sea, no fish, no ships, no war; the Admiralty has never been more ready. *(Brinehollow)*
+- **341.** Better a slap at the door than a bed in the Row. *(Vigil)*
+- **342.** In Lack the dusk shift is short, and the Reaping is not. *(Fatlands)*
+- **343.** The Unfed don't feast; they remember not feasting, together. *(Fast)*
+- **344.** *Turn of Lack.* What the Company sells in the thin market it bought from the dead at the meat one. *(Rim)*
+- **345.** Not yet, said the first child, and the country's been saying it since. *(Cradlewrack)*
+- **346.** The old ones of the canyons die quiet, and leave nothing behind them but conditions. *(Oathen)*
+- **347.** The Sump bubbles in patterns; don't read them aloud. *(Sallowreach)*
+- **348.** A widower in Lack sleeps with two ropes and wakes with one. *(Brinehollow)*
+- **349.** Warm milk is a crime and a kindness. *(Vigil)*
+- **350.** Every Fatlander dreams of being full, and wakes up hungry, and calls it breakfast. *(Fatlands)*
+- **351.** The Abstinent have the keys, and the keys have the Abstinent. *(Fast)*
+- **352.** On the Rim the year ends twice: once on Tablenight, once when the bill comes. *(Rim)*
+- **353.** The Lofts whisper louder in the cold, and lately they're whispering the same word. *(Sallowreach)*
+- **354.** Haul for Mam and haul for hope. *(Brinehollow)*
+- **355.** Close one eye and you're half asleep; close the other and you're a citizen of the room. *(Vigil)*
+- **356.** We'll sit at board and say your name. *(Fatlands)*
+- **357.** *The Nine Days begin.* A quarter-measure less today, to remember the hill. *(Fast)*
+- **358.** On the second of the Nine, the old ones shake like a lid on a pot. *(Fast)*
+- **359.** On the third of the Nine, chew nothing and call it supper. *(Fast)*
+- **360.** Whatever is born in the last days of Lack is born to the year that's coming, and it knows. *(Cradlewrack)*
+- **361.** The fifth day of the Nine, stand on whoever you must. *(Fast)*
+- **362.** The year's last oaths are the cheapest; the Bench is tired. *(Oathen)*
+- **363.** The seventh day is not said. *(Fast)*
+- **364.** The last night of Lack is the longest in the fen, because it doesn't end there either. *(Sallowreach)*
+- **365.** *The ninth of the Nine.* Say it with your lips if you can't say it aloud: no, thank you. *(Fast)*
