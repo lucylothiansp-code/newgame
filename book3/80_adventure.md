@@ -219,7 +219,7 @@ Where it lies, the ground is Fatlands ground. Between sunset and full dark, anyo
 
 The Reaping here obeys its Fatlands rules. A character alone on marbled ground between sunset and full dark first notices a stillness (Eye + Search, Routine 10). Then the ground leans in, the smell of new bread rising from it (Dread 3 to witness; Dread 2 for a Fatlander). Then it softens: the character must succeed at Caul + Resolve (Hard 14; Grim 18 if their Hunger is 6 or more, or if Brawn has named them) or stop wanting to leave. Companions may drag a character free with Gut + Labor against Grim 18, but each round in the soil deals 1d6 Flesh as the ground begins, gently, to digest. A character Reaped is gone. What is pulled out after full dark is a shape of clothes and the smell of bread.
 
-Two or more people standing together are not alone, and the field does not take them. This is the single most important rule in the first half of the adventure, and the players should discover it by doing the decent thing: going out to stand with someone. Never use the Reaping as a surprise kill on a player character; describe it slowly, and give their friends the chance to pull.
+On Tablenight, the longest night of the year, dusk does not end until dawn: the field takes anyone alone on the white at any hour of that night. Two or more people standing together are not alone, and the field does not take them. This is the single most important rule in the first half of the adventure, and the players should discover it by doing the decent thing: going out to stand with someone. Never use the Reaping as a surprise kill on a player character; describe it slowly, and give their friends the chance to pull.
 
 [pull] A field doesn't hate you. A field doesn't do anything as clever as hate. It's just glad you came. | — Cullmaster Hedley Brawn, explaining the Reaping, Day Two
 
@@ -1083,7 +1083,7 @@ The table below is the long night as it falls if the characters do nothing to be
 | 4:21 | The volunteer sits. Nothing happens | Ardent begins to untie his apron |
 | 4:30 | "No, thank you," three times. Not a fourth | Unfed present gain 1 Want |
 | 4:45 | The dark path melts from the north gate to the door, steaming | The path is safe ground until dawn |
-| 5:02 | Full dark. The Reaping ends for the night | Brawn closes his little book |
+| 5:02 | Full dark. On any other night the Reaping would end here. Tonight it does not | Brawn closes his little book, then opens it again |
 | 5:30 | Hepzibah sets the pine tables for the dead and serves them nothing | Seeming check (Hard 14) each hour from now |
 | 6:00 | Vellum unwraps her silver carving set and lays it out at her place | Clause or Persuade to stop her: she cannot lie about why |
 | 6:40 | Brawn eats from a notched barrel at the hearth, slowly, all of it | Dread 2 to watch. Laden Taste for anyone who joins him |
@@ -1203,14 +1203,14 @@ The characters burn it down: the table, the common room, the inn, the Seated in 
 
 ### Ending Five: The Struck Line
 
-A rarer ending, for groups who have spent their time on the Thimbles. If the characters have found Dorcas her exit clause (see After the Snow: the Company's striking of the station ends the charter's object), and have kept her standing until dawn, and have stood with her on the dark path through the night, she walks out at sunrise between the boundary stones and nothing breaks. She stands in the road and touches her own face, her own collarbones, her own wrists, counting. Then she turns and looks at the inn where her mother and brother sit at the table, and the oath she swore on her father's body comes due. It is a Fatlands-ground oath, broken: from now on she tastes her father in every meal. She eats anyway. She goes south to Sated to read law. She does not come back.
+A rarer ending, for groups who have spent their time on the Thimbles, and one that completes only in After the Snow. If the characters keep Dorcas out of her chair through Tablenight, standing with her on the dark path or holding her by the door while her mother and brother sit, and then find her exit clause (the Company's striking of the station ends the charter's object; see The Charter), she waits a month at the inn for the courier from Quillhouse. Then, on a cold clear morning in the last of Lack, she walks out between the boundary stones and nothing breaks. She stands in the road and touches her own face, her own collarbones, her own wrists, counting, the way she counted on her diagram. Then she turns and looks at the inn where her mother and brother sit at the table, and the oath she swore on her father's body comes due. It was sworn on Fatlands ground, and it is broken: from now on she tastes her father in every meal. She eats anyway. She goes south to Sated to read law. She does not come back.
 
 ### What Becomes of Them
 
 | Person | If Unchecked | If Helped |
 | Hepzibah | Seated first | Seated; she will not be helped |
 | Linus | Seated, at peace | Seated, or lives, broken, mute, a farrier on the Rim |
-| Dorcas | Breaks at the stones | Free (Ending Five), haunted by her oath |
+| Dorcas | Broken by the charter at the stones | Free (Ending Five), haunted by her oath |
 | Haverick | Fails the peace at dawn | Relieved by the Company, alive, his body a map of Wear |
 | Brawn | Reaped at 2:40 | Arrested at the inquest; the Board wants him back |
 | Kale | Seated, to be polite | Lives; offers the characters dinner, three times |
@@ -1220,3 +1220,183 @@ A rarer ending, for groups who have spent their time on the Thimbles. If the cha
 | Merrit | Walks west at dawn | Lives; keeps the count wherever she goes |
 | Bell | Sleeps on, never wakes | Never wakes; her dispatch goes on in other hands |
 | Ardent | Walks on, more tired | Relieved (Ending Two), Seated at last |
+
+## The Carver's Tally: Dread and Fray, Scene by Scene
+
+Use this table to pace the pressure. "Expected" is what an average character (Caul + Resolve 5) loses if they witness everything: about half of all checks fail. Most characters will miss some scenes and suffer others twice; adjust as the table tells you.
+
+| Day | Scene | Dread | Who Checks | Notes |
+| One | Walt Reaped in the yard | 3 (Fatlanders 2) | all who watch | Pulling him free costs Flesh |
+| One | Absalom in the open grave | 2 | the wakeful | Few will see it |
+| Two | Your own card, a loved hand | 2 (3 if dead) | every character | Plus an Invitation check, Hard 14 |
+| Two | Nib on the dusk ground | 3 | those who watch | None if they stand with him |
+| Two | Looking in barrel 31 | 3 | the curious | |
+| Three | Abel in the cold store; Oona with him | 2 | finders | Session one ends near Fray 4 to 6 |
+| Three | The notched barrels thrown open | 3 | all present | Eating them knowingly: 3 |
+| Three | Oona on the marbled ground | 3 | those who watch | None if they talk her home |
+| Three | Ardent understood | 3 | all who speak with him | |
+| Four | The open graves | 2; 3 if understood | the first out | The pottage revealed: 3 |
+| Four | Clemency's blasphemy | 2 | the common room | |
+| Four | The Gleanings | 2; 3 for a known face | defenders | |
+| Four | Linus kills his father | 3 | those who follow | |
+| Four | The oath on the dead | 2 | those who understand | |
+| Five | The Ninefold Purge | 3 | the smokehouse | |
+| Five | Vellum speaking plainly | 1 | anyone addressed | Each time, once per scene |
+| Six | The Seeming | 3, hourly | the common room | Contagious; *I am already at the table* |
+| Six | Bell sleeps | 2 (nudger 3) | those present | Session two ends near Fray 7 to 9 |
+| Seven | The ninth chair drawn out | 2 | all | |
+| Seven | Brawn eats a barrel / the Envoy stabbed | 2 | those present | |
+| Seven | The Host enters | 4 (5 to seek its face) | all | Contagion now at Dread 3 |
+| Seven | The volunteer lifted out and Seated | 4 (5 for the choosers) | all | The heart of the adventure |
+| Seven | Vellum carves | 3 | all | |
+| Seven | Each hour until dawn | Invitation, Grim 18 | all unseated | Dire 22 within reach of a chair |
+| Seven | Ending One, each hour outdoors | 3 | those on the path | |
+| Seven | Burning the Seated | 4 | the burners | Ending Four |
+
+Expect at least one character to Break on Tablenight. When it happens, slow down. Let the player describe it. Call for the contagion checks. If the Break is The Pull, remember the Host is in the room, and that the Pull, tonight, has a chair at the end of it; give their companions every chance to reach them.
+
+[pagebreak]
+
+## Session Four (Optional): After the Snow
+
+> The thaw at the Bend came on the morning after Tablenight, all at once, as though somebody had opened a kitchen door. It ran yellow in the ruts for three days. The birds would not drink it.
+>> — Company relief report, Thimble Cross, Lack 641
+
+This optional fourth session is the aftermath: the morning after, and the week that follows, when the road opens and the world comes up it to ask what happened. It is quieter than the three before it, and it should be. It is about grief, blame, what the survivors are willing to say, and what the Table does with a story like this. It plays well in three or four hours, and it gives the players a chance to see their choices land.
+
+### The Yellow Thaw
+
+[fiction]
+The cold comes back with the light. It is ordinary cold, sharp and clean, and it is the best thing you have ever felt. Across the yard the white has slumped into a yellow slush the colour of old dripping, and it is running, in a hundred little rivulets, south, down the ruts of the Rim Road, toward home. Where it has gone the cobbles are bare and wet and steaming faintly. The smell is rendering-yards and spoilt milk. Behind you, through the door, someone at the table is laughing at something someone else has said, and a knife is going steadily against a plate.
+[/fiction]
+
+The marbling takes three days to drain away. As it goes, it leaves things behind. Roll 1d10, or choose, whenever a character walks the yard, the road or the graveyard during the thaw.
+
+| d10 | What the Thaw Uncovers |
+| 1 | A drover's boot, laced, with nothing in it but a little warm dough |
+| 2 | Brawn's little book, face down in the slush, every page readable (see Threads) |
+| 3 | A row of small hard knots in the mud, like teeth, in the shape of a person lying down |
+| 4 | Walt Sallow's two-fingered glove, folded, on the toll-house step |
+| 5 | A wagon wheel grown through with pale root, which will not turn |
+| 6 | A patch of yard that stays warm and dry, the size of a large hand, palm down |
+| 7 | Old Mother Ivy's wedding shoes, side by side at the graveyard gate |
+| 8 | A place card, sodden, with a drover's name on it; the drover is still alive |
+| 9 | An ox, on four legs, standing in the road facing south, refusing to move, weeping |
+| 10 | Nothing. Bare wet stone. That is somehow the worst |
+
+### The Count of the Living
+
+The session opens the way every day at Thimble Cross has opened: with the count. If Merrit lives, she calls it, and her voice cracks on the first name. If not, a character must, and they will need her charcoal list. Call every name. The Seated answer, cheerfully, from the common room, through the floor: "Here! Here, love. Come down, there's plenty." The dead do not. Make the players write the list themselves this time: who is alive, who is at table, who is gone. Keep it. It becomes evidence.
+
+### The Seated at Table
+
+The table stays. The Host has gone on down the road, or up the Hungry Lane, but the table stays, and the Seated stay at it, and they are well. They can talk. They are lucid and kind and delighted to see the characters every time. They describe each course in loving detail, and a character who listens too long (more than a few minutes, or more than once a day) makes an Invitation check at Hard 14 and gains 1 Hunger whether they pass or not.
+
+Let the players visit. Let them ask Refrain whether it was worth it, and let her say, with her mouth full, that she does not understand the question. Let Hepzibah ask after the linen. Let Linus tell a character, very calmly, that he has forgiven himself, and that his father has forgiven him, and that his father is sitting right there, and point at an empty chair that is not empty to him. Anyone who tries to feed a Seated guest real food finds that they cannot swallow it; they only smile and say they are full, for the first time in their lives, full, and isn't it wonderful.
+
+### Burying and Not Burying
+
+There are dead to see to, and seven lands' worth of opinions about how. The Fatlanders want a wake, which means eating the dead with the best plates, as is decent. The Unfed want them face down in unmarked ground. Sallowreach folk want them Kept, or at least closed. Brinehollow folk want them weighted and sunk, and there is no sea. The Thimbles' graveyard is broken open, and the field has eaten from it. Let the characters argue, and decide, and live with what they decide.
+
+| Land | What the Dead Are Owed | At Thimble Cross |
+| Sallowreach | Closing, or Keeping | Casimir's hands, in the basin, still close things |
+| The Fatlands | A wake, and to be eaten well | The drovers ask; there is nothing to eat but him |
+| Brinehollow | The weighted rope and the water | Merrit asks to carry Bell to the nearest stream |
+| The Vigil | To be watched until they are cold | Bell is not cold, and never will be |
+| Cradlewrack | An open door, so the soul is not stuck | Clemency's converts open every door in the inn |
+| Oathen | Silence for a day | Haverick cannot keep it; he must enter them all |
+| The Fast | Face down, unmarked, no table | The Thimbles' stones say *Kept* |
+
+### The Riders Come
+
+On the third day after Tablenight, with the road open, the Company sends a relief party up from the south, and it is not alone. Four interests arrive within a day of each other, each wanting a different story.
+
+- **Under-Warden Tamsin Greaves of the Rim Road Company**, with six Company guards and a sealed instruction: relieve Warden Haverick, inventory the station, and determine whether the blood of Thimble endures. The Company would very much like it not to. She is brisk, decent and frightened of the common room, and will not go in.
+- **Magistrate Odile Fenwick of the Vigil**, sleepless, twitching, with two nudgers and a warrant: she has come for Courier Lisle and the dispatch. She will hold an inquest into the convoy, because a Vigil-bound cargo came to grief here, and because she wants to know who knew about the notches. "If there is a notch," she says, "there is a man who knew. Find the man."
+- **Clerk-Assessor Marrow Fettle of the Board of Plenty**, enormous, smiling, carried in a litter by four men, come to recover Cullmaster Brawn, his little book, and every barrel, notched or not. He will say wolves. He will say it to anyone, about anything.
+- **Ledger-Woman Corra Dripp of the Renderers' Union**, sent by Mistress Brisket Annalow, thin for a Fatlander, with a second ledger of her own. She wants Abel Crumm's note, and she wants the notched barrels counted in front of witnesses, and she has not decided whether she wants them hidden or shown.
+
+[quick] Company Guard — Threat 2 · Flesh 12 · Guard 14 · Attack +5 (sword 4, or crossbow 4) · Armor 3 · Dread 0
+[quick] Board Litter-Man — Threat 2 · Flesh 14 · Guard 11 · Attack +4 (cudgel 3) · Armor 1 · Dread 0
+
+### The Inquest
+
+Magistrate Fenwick holds her inquest in the toll house, because it is the only room in Thimble Cross with no table in it. Every surviving character is called. Each faction has a version it wants entered, and the characters' testimony decides which.
+
+[fiction]
+Handout: From the Record of the Inquest at Thimble Cross (Vigil form; the clerk's hand grows smaller as the day goes on).
+MAGISTRATE: You were present when the barrels were opened.
+WITNESS: Yes.
+MAGISTRATE: What was in them?
+WITNESS: (inaudible)
+MAGISTRATE: Louder, for the clerk.
+WITNESS: People. Bits of people. A boy's arm. His uncle paid for the tattoo.
+CLERK-ASSESSOR FETTLE: The Board notes that wolves are known in the region.
+MAGISTRATE: There are no wolves in the Fatlands, Assessor.
+CLERK-ASSESSOR FETTLE: This is not the Fatlands, Magistrate. This is the Rim. Anything might be on the Rim.
+MAGISTRATE: Entered. Witness, did you eat from the barrels?
+WITNESS: (long pause)
+MAGISTRATE: The witness need not answer. The witness has answered. Entered.
+[/fiction]
+
+Run the inquest as a scene of testimony, cross-examination and pressure. Each faction will offer the characters something for the version it wants: the Company a clean bill and passage north; the Board a purse and a forgetting; the Union a job and a second ledger; the Vigil only the truth, entered. A character who lies to the inquest must beat Magistrate Fenwick's Eye + Search (she rolls at +6) with Tongue + Deceive; Haverick, if he lives, cannot lie at all, and his ledger is evidence. The outcome:
+
+| What the Characters Say | What Is Entered | What Follows |
+| The truth, all of it | The notches, the Dusk Acres, Brawn's book | The Board sends someone for the characters by Grace |
+| The truth, but not the eating | The notches; the witnesses' silence | Fenwick knows; she lets it lie, and remembers |
+| Wolves | Wolves | Corra Dripp quietly hires the characters, or curses them |
+| Nothing at all | An open verdict | Every faction assumes the worst of them |
+
+### The Charter
+
+Under-Warden Greaves has a question the Company needs answered: does the blood of Thimble endure? If it does, the station remains the Thimbles', and the Company may strike it only with a keeper's consent; if not, the charter lapses and the Company may close the inn. The Seated Thimbles are alive, and cannot be asked anything they will answer except about the food. Dorcas, if she lives, is the last keeper standing. A character with Clause 2+ who has read the charter can see what Dorcas, in fifteen years of reading, could not, because she was looking for a way out of the oath and not a way out of the house: the clause binds *the keepers of Thimble Cross*. If the station is surrendered and struck from the Company's ledger, there is no Thimble Cross, and there are no keepers of it, and the clause has no object (Tongue + Clause, Grim 18, to argue it before Greaves; Hard 14 with Dorcas's books and Haverick's witness). Dorcas need only sign the surrender. The Company is delighted to take it. That is Dorcas's exit clause: the Company's own greed. The striking must be carried to Quillhouse and sworn before she can cross, which takes a month by courier; until then she must wait at the inn, beside the table, where her mother and brother call to her every evening. Her oath on her father's body remains (see Ending Five).
+
+[pull] There it was. Two hundred and thirty-nine years, and the door was in the Company's pocket the whole time. They only had to want the house more than they wanted us. | — Dorcas Thimble, after the inquest
+
+### Leaving
+
+The road is open. The characters can go south, toward the Fatlands, past the place where the marbling drained away into the hedges and the hedges have turned, very faintly, pink; north up the Hungry Lane into the Fast, where the ground is warm in long footprints; or west along the Rim toward the Vigil, carrying a dispatch and a note and a little book. Ask each player where their character goes, and what they carry, and whose card they keep.
+
+[fiction]
+At the bend, where the boundary stones are, you look back once. Seventeen chimneys, and every one of them smoking. You have never seen that. Nobody has. Through the west windows, gold in the low sun, you can see the long table and the people at it, small at this distance, passing the bread. One of them raises a hand. You do not know who. You do not wave back. You turn into the wind, which smells of nothing, of cold, of road, and you walk.
+[/fiction]
+
+### Portions for After the Snow
+
+Award 4 to 8 Portions: 2 for the session; 1 for testimony that cost the character something; 1 for seeing to the dead in a way that honoured them; 1 for freeing Dorcas or keeping Haverick alive; 1 for leaving Thimble Cross without looking back more than once.
+
+## Aftermath
+
+Survivors leave Thimble Cross changed. Award each surviving character a **Mark of the Laid Place**: from now on, whenever they enter a house where a meal is being served, they know, without looking, how many chairs are at the table, and which one is pushed in. Characters who ate from the notched barrels keep the Laden Taste until they spend a session's Portions to be rid of it, or never. Characters who Broke keep their Derangements; the most fitting here are *I am already at the table*, *The barrels are saying grace* (treat as **The Voice at Table**, in the voices of fields), and *Everyone I love has been replaced by someone politer* (treat as **The Impostors**).
+
+Characters who swore oaths at Thimble Cross carry them on. An oath sworn before Haverick in the Company's form still binds, faintly, through Jessamy Quill. An oath sworn on the dead at Thimble Cross was sworn on Fatlands ground, and if broken, its Visitation is the Fatlands' own: the dead are tasted in every meal.
+
+### Portions
+
+Award **5 to 10 Portions** per core session, using these guidelines:
+
+- 2 for surviving the session.
+- 1 for each major secret uncovered (the barrels, the pottage, the charter, the Second Table's purpose, the dispatch, the ninth chair).
+- 1 to 2 for standing beside someone on the marbled ground at dusk, or keeping Bell Lisle awake an hour longer, or any act of costly decency.
+- 1 for refusing the table's food when starving.
+- 1 for a moment of play the whole table will remember.
+- In the final session, 2 more for being present when the sacrifice fails, whatever the character did.
+
+### Threads: What Happens Next
+
+- **The Host on the Road.** Orrum no longer waits for its steward. If a character became the steward, the next adventure can begin with the other characters finding a table laid by someone they know, with cards in a hand they know. If not, Ardent walks on, more tired than before, and the Hostwatch will want to hear everything. Spare Tolland, a mile behind the god, reaches the inn two days after Tablenight and sits on the toll-house step for an hour without speaking.
+- **The Blank Trade.** Kale's Second Table buyer is waiting in the Vigil and was paid half in advance. Dr. Mercy Thrane would very much like to see the badge, and the book of hers Kale carries with grease-pencil in the margins.
+- **The Deadwatch.** Bell Lisle's dispatch, carried by a character, is the Warden-Prime's offer to buy the secret of Keeping. It is addressed to Castellan Dray in Lastgate, and he is waiting for it, and part of him hopes it never comes.
+- **The Second Table.** Vellum Serrat, if she lives, is sworn on the dead to carve the Host, and her tongue will not let her rest. She knows Wont Bellamy. She has measurements. If she was Seated, the Second Table will send someone to find out why its widow has not written, and what she found.
+- **Eight Chairs.** The ninth card can be carried away; it is cold and damp and never dries. Cray Lobbett, Meek Garrity and Grandfather Peat would each give anything to see it. Hollow Ann Pruett, the card-keeper of the Fast, has one like it, and will want to lay them side by side. Nobody should tell them who it might be for.
+- **The Long Count.** Brawn's little book of dusk names is the Board's own tally of the Reaping, kept by the Department in its own hand. Pell Hogget would weep to have it. The Board would kill to get it back. Clerk-Assessor Fettle has already begun to ask, pleasantly, who picked it up out of the slush.
+- **The Struck Line.** If Dorcas Thimble walked free, she is in Sated reading law, and tasting her father in every meal, and she has started to write to the characters about other charters, sworn badly, in other inns.
+- **Thimble Cross in Grace.** The Company has struck it. The Seated are still there. In spring, pilgrims from the Fatlands, Osanna Blythe's people, begin to come up the road to it, because they have heard there is a table at the Bend where you finally feel full.
+
+[fiction]
+Entered in the station ledger of Thimble Cross, Tablenight, 641 A.G., in a hand that is not the warden's.
+Guests: all.
+Stores: sufficient.
+Warden: relieved.
+Ninth place: laid. Unclaimed.
+[/fiction]

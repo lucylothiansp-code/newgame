@@ -1099,3 +1099,243 @@ Flesh 13 · Guard 19 · Armor 1 · Threat 5
 Attacks: short spear +6 (4); sling +6 (2)
 Tactics: never speaks in a gorge. Contradiction: may shout a counter-oath to destroy an echo, taking the break in his own body. Silences intruders by collapsing rock on them.
 [/stat]
+
+### New Template: The Shepherd of a Small Table (Cult Leader)
+
+Every land has its great cults (the Finishers, the Deepening, the Bedded, the Second Helping, the Assemblers), and every land has a hundred small ones: a mill-loft in Rudge where forty people wait for a door to open, a Slope cellar where a family hums in the dark, a Rim inn whose landlord has taught his regulars that the eighth chair is for him. The Shepherd is the person at the head of such a table. They are rarely monstrous to look at. They are warm, attentive and tired, and they remember your name, and the first meal they give you is the best you have had in a year. They have usually Broken once, long ago, and the Derangement they took then (*The Voice at Table*, most often, or *The Devotion* turned inside out) is the doctrine now. They believe it. That is what makes them good at it.
+
+[pull] He never once raised his voice. He just asked me, very gently, whether I was sure I'd seen my sister that morning. And after a while I wasn't. | — a woman pulled out of the Lamplit Supper, Kest
+
+#### Cult Control: Hold
+
+A Shepherd's power over a person is measured as **Hold**, from 0 to 5, tracked separately for each player character who spends time inside the cult. Once per scene, the Shepherd (or a trusted lieutenant) may use one of the methods below: an opposed roll of the Shepherd's Tongue + Persuade (or Deceive, where noted) against the character's Caul + Resolve. If the Shepherd wins, Hold rises by 1 (2 for Shared Sin).
+
+- **The Welcome.** A meal, a blanket, a hand on the shoulder, a name remembered. +2 to the Shepherd's roll if the character is Starving, Rattled or recently bereaved.
+- **The Confession.** The character is drawn to tell something shameful aloud to the gathering. The gathering forgives them. From now on, the cult holds it.
+- **The Unmaking of Home.** Who Waits at Home is described, kindly and constantly, as the one who hurt you. A character with Hold 2+ cannot use Who Waits at Home to remove Fray while the cult is near.
+- **The Gaslight** (Deceive). The Shepherd tells the character that something they remember did not happen. On a win, they believe it for a day; a character with *The Gaslight* Derangement cannot resist at all.
+- **Shared Sin.** The character is brought to do, or to watch and not stop, something that cannot be undone: eating at the forbidden table, closing a stranger's eyes, holding a rope while the Called walks in. Dread 3 check, and Hold +2. This is how cults bind: not with belief, but with complicity.
+
+At **Hold 1** the character suffers −1 to resist the Shepherd in anything. At **Hold 3** they gain *The Devotion* toward the Shepherd for as long as Hold stays at 3+, and must roll Caul + Resolve 18 to act against the cult or tell an outsider its secrets. At **Hold 5** they will kill or die at a word, and the player and GM should decide together whether the character is now lost, as at a Seating.
+
+**Leaving.** A character may try to walk away once per scene: Caul + Resolve against 10 + twice their Hold. Friends who come for them add +2; an Oath on the Dead sworn by the character in the name of someone the cult took from them adds +2. Success drops Hold by 1 and costs 2 Fray, the ache of withdrawal; failure means they stay, and say they wanted to. Hold falls by 1 each week a character spends away from the cult in the company of someone who loves them, and does not fall at all if they are alone.
+
+**Contagion in the Fold.** When any member of a cult Breaks in the gathering, every member present checks at Dread 3, not 2, and the Shepherd chooses which Derangement spreads. This is how a hundred people come to share one delusion, and why the Table's small cults end, so often, all on the same night.
+
+[quick] Devotee — Threat 2 · Flesh 11 · Guard 11 · Attack +4 (knife or kitchen tool 2) · Armor 0 · Dread 1 (the smile) · will not flee while the Shepherd is in sight; Hold 4 on the Shepherd.
+
+[stat: The Shepherd — Mouth of the Small Table]
+Attributes: Hand 2 · Gut 2 · Lung 2 · Eye 4 · Tongue 5 · Caul 4
+Cut & Regrowth: Cut 3 (of their land) · Regrowth 6 (the Appetite) · Hunger 5
+Skills: Persuade 5, Deceive 4, Rites 4, Instinct 4, Lore 3, Resolve 3
+Flesh 12 · Guard 12 · Armor 0 · Threat 5
+Attacks: none worth the name; the faithful fight for them
+Tactics: the Hold methods above; never alone, never armed, never in a hurry. Knows every member's Confession. Partakes on Persuade rolls and calls the Tooth a blessing.
+Derangements: *The Voice at Table* (the god advises; some of it is good)
+Dread: 2 when a character realizes the Shepherd believes every word
+End: Take the people, not the Shepherd. A Shepherd killed before the fold is out becomes a martyr, and a martyr's Hold never falls.
+[/stat]
+
+### New Template: The Patient Hand (Sadist Questioner)
+
+Every power on the Table keeps someone for questions: the Jar Room's keepers in Lastgate, the Waker interrogators of the Rattlehouse, the Board's back cellars in Sated, the Witnessing Vaults of Oathen. Most of them hate the work and do it anyway, and pay for it in the Dread checks the rules demand. The Patient Hand does not pay. Somewhere along the way the part of them that flinched was used up, and what is left enjoys it with a craftsman's quiet absorption. They are courteous. They explain. They are interested in the person in front of them more completely than anyone has ever been, and that interest is the worst thing the subject will ever experience. In Sallowreach, where nobody dies, a Patient Hand can keep a single subject for decades, and some have.
+
+The horror of their work should be shown in what comes before and after, never as a procedure: the clean, swept room; the subject's voice through a door, hoarse from weeks of use; the questioner washing their hands at a basin, humming; the subject, afterward, unable to stop thanking anyone who comes near.
+
+[fiction]
+Ledger of the Jar Room, marginal note in the keeper's hand. "Subject 9-Long, year forty of her sentence. Still has not told us where the Heirs' press is hidden. I no longer believe she knows. I have not told the Court this. We are so close now, she and I. She asks after my daughter."
+[/fiction]
+
+#### Questioning
+
+A session follows the core rule: the questioner's Tongue + Intimidate against the subject's Caul + Resolve. In addition, each session the subject makes a Dread 3 check, and a subject who Breaks under questioning takes a Derangement from this short list (or the main table): *The Splitting*, *The Gaslight*, *The Devotion* (toward the questioner), *The Dead Man*. What they say is weighed on the table below, rolled by the GM in secret.
+
+| d6 | What the answer is worth |
+| 1 | Nothing: the subject has invented a story to make it stop, and believes it now |
+| 2 | Nothing: the subject has told the questioner what the questioner wanted to hear |
+| 3 | Half the truth, tangled with a lie the subject no longer knows is a lie |
+| 4 | The truth, which no one will believe because of how it was got |
+| 5 | The truth |
+| 6 | The truth, and something else the subject was never asked and should never have said |
+
+A player character who questions in this way makes the Dread 2 check of the core rules each session. A character who fails three such checks in a row and keeps going may, with the player's consent, gain a Derangement of their own: the Table's word for it is *gone cold*, and there is no Derangement on the table that describes it, because the people who have it do not consider themselves ill.
+
+[stat: The Patient Hand — Who Has Never Once Been Bored]
+Attributes: Hand 4 · Gut 3 · Lung 2 · Eye 5 · Tongue 4 · Caul 4
+Cut & Regrowth: Cut 2 (any land) · Regrowth 4 (the Appetite) · Hunger 3
+Skills: Stitching 5, Intimidate 5, Search 4, Instinct 4, Deceive 3, Blades 3
+Flesh 13 · Guard 13 · Armor 1 · Threat 5
+Attacks: a short, very clean knife +7 (2; on any Helping, a Mangling of their choosing rather than extra damage)
+Tactics: Gone Cold: immune to Dread checks caused by suffering, and to Persuade rolls that appeal to pity. The Long Question: in a session, a Patient Hand rolls with +2 and the subject's Dread check is Grim 18. Never in a hurry; never fights fair; always has a door between them and the subject's friends.
+Dread: 1 / 3 when they speak of a subject with fondness
+End: They have no fear but one: being made the subject. Most of them have a very clear idea of how it would go.
+[/stat]
+
+### New Template: Spademen (Grave-Robbers)
+
+The trade in Leavings needs the dead, and the dead are guarded everywhere on the Table differently. Spademen are the ones who go and get them anyway. In Cradlewrack they lift grave-caps between pangs to take what was born of the body; in the Fast they dig the Barrows for Unfed bones, which fetch a noble's ransom as godless relics; in Oathen they rob the vaults of the sworn-upon and are followed home; in Sallowreach they take from the Lofts, where the merchandise is shelved, aware, and begging them to stop. The Fatlands have no graves, so their Spademen rob wakes, lifting the best joints from the platter before the family sits. Spademen smell of wet earth, lamp-black and oil of cloves, and they work in threes: one to dig, one to watch, and one to talk to whatever is in the hole.
+
+[pull] Two lacks for a Blank's knucklebone at the Chute. Twelve for a skull. Forty if it still has the teeth. Don't ask me how I know if it's a Blank. I lick it. | — a Spademan, drinking, Brindle Cross
+
+[quick] Spademan — Threat 2 · Flesh 12 · Guard 12 · Attack +5 (spade 3, sweeps) · Armor 1 · Dread 0 · carries hook, sack, salt and wax; Hand + Stitching 3 for taking Leavings.
+
+[quick] Spade-Master — Threat 4 · Flesh 14 · Guard 15 · Attack +7 (grave-hook 4, Hooking 16) · Armor 2 · Dread 1 (what is in the sack) · knows the Leavings trade (Lore 4) and every buyer on the Rim; has broken an Oath on the Dead and is followed by the Visitation, which the GM may bring on at any moment.
+
+### New Template: Ledger-Hounds (Cutwrights' Enforcers)
+
+The Cutwrights' College tracks every bloodline's Cut across six centuries, and its ledgers decide marriages, inheritances and executions. Someone has to carry the ledger's decisions out into the world, and they are the Ledger-Hounds: genealogists with crossbows. They serve warrants of marriage on unwilling cousins; they deliver Blanks to the College's buyers; they take blood by lancet from families who would rather not be measured; and on the College's word they end a line that the ledgers say is regrowing too fast. They are thorough. They do not kill the one; they kill the line, down to the second cousins, and enter it closed in red ink.
+
+[quick] Ledger-Clerk — Threat 3 · Flesh 11 · Guard 13 · Attack +5 (crossbow 4) · Armor 1 · Dread 0 · Reckoning 4, Lore 4 (genealogy).
+
+[stat: Ledger-Hound — the College's Long Memory]
+Attributes: Hand 4 · Gut 3 · Lung 3 · Eye 5 · Tongue 3 · Caul 3
+Cut & Regrowth: Cut 3 (any; the College prefers to hire against type) · Regrowth 4 · Hunger 3
+Skills: Lore 5 (bloodlines), Reckoning 4, Shooting 4, Search 4, Stitching 3, Clause 3
+Flesh 13 · Guard 16 · Armor 2 · Threat 5
+Attacks: crossbow +8 (4); bleeding-lancet +6 (2, and a drop of the target's blood for the ledger)
+Tactics: The Reading: from a drop of blood and an hour with the ledgers, knows a character's Cut, Regrowth stage and every living relative. Line-Closing: hunts kin first, to draw the target in. Carries a College warrant that Rim Road Company wardens are sworn to honor.
+Dread: 1 / 3 when a character sees their own family tree, with names struck through in red
+[/stat]
+
+### New Template: The Close Table (a House That Marries In)
+
+The Cutwrights' ledgers reward purity of line, and some of the highest houses on the Table have pursued it for centuries. Cousins wed cousins, and then closer than cousins; the College records it in a code the clerks call *the near hand*. The godsign concentrates. The children of a Close Table are born far along, their Regrowth begun in the cradle: Hand-line infants with grey fingers that close the nurse's eyes, Gut-line babes that root in their cribs, Caul-line children whose veils never come off and who see their parents' deaths through them. The house is beautiful, quiet and inward. Its servants are not permitted to speak to the family. Its portraits all have the same face. What happens between its members is never spoken of, never written, and never shown in this book; what the players meet is the result: a family that loves itself too much and outsiders not at all, that holds a supper each Tablenight at which the weakest of its own is served, and that will kill anyone who threatens to marry out.
+
+[pull] Thirty-one portraits in the long gallery and one face. Lady's face. The little ones' face. The face in the cradle that looked up at me with its grey hands folded. I gave notice that night. | — a nurse of a Glovehall house, to the Heirs
+
+[stat: Matriarch of the Close Table — the Nearest Hand]
+Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 4 · Tongue 5 · Caul 5
+Cut & Regrowth: Cut 5 (of their land, the purest line in it) · Regrowth 10 (the Brink) · Hunger 6
+Skills: Persuade 4, Intimidate 4, Clause 4, Lore 5 (her own line), Godsign 5, Rites 3
+Flesh 13 · Guard 12 · Armor 0 · Threat 6
+Attacks: her land's Brink Gift; her kin, who fight for her (as Second Table Diners, Regrowth 5–8)
+Tactics: Family First: every member of the house within sight adds +1 to her rolls and she to theirs. The Supper: once a season she may Sop by feeding the house's weakest member to the rest, removing 1d6 Hunger from every family member present. Never leaves the estate; does not need to.
+Dread: 2 / 4 on seeing the children
+End: The Cutwrights want the line closed and will pay for it, and the Reckoners will do it for nothing. Neither will tell the players about the youngest, who is innocent, and who has already begun to Seat.
+[/stat]
+
+[pagebreak]
+
+## The God-Ridden
+
+The Seating is the god coming home for good. Long before that, it visits. A person deep in the Regrowth can be **ridden**: for a few heartbeats, an hour or a season, the god in the blood takes the reins and the person watches from somewhere further back, or does not watch at all. The Tenanted of Brinehollow are the ridden made permanent and polite. The blink-killers of the Vigil are ridden for two seconds. Between those lie a great many people on the Table who have woken with blood on their sleeves, a stranger's ring on their finger, or their family looking at them in a way they will never be able to explain.
+
+[pull] It wasn't him. It had his hands, and it held the baby very nicely. But it wasn't him, and the baby knew. | — a Wreckwife, to the Netwatch
+
+### When the God Takes the Reins
+
+A character at **the Course or the Brink** must roll Caul + Resolve against the difficulty below whenever one of these happens: their Hunger fills and their Regrowth rises; they roll a Lack while Partaking; they fail a Want check and act on it; they come within the Reach of a Seated fragment or the Pull of a creature with Riding. Failure means they are ridden.
+
+| Stage | Difficulty | Length of the ride |
+| The Course (7–9) | Hard 14 | 1d6 rounds |
+| The Brink (10–11) | Grim 18 | 1d6 minutes, or the rest of the scene on a Lack |
+| In a Seated Reach | Dire 22 | until someone calls them back |
+
+While ridden, the GM plays the character (or, if the table prefers, the player plays the god, which is often worse). The ridden use their own statistics with **+2 Caul**, ignore Fray and Dread, cannot Partake (there is no one left to call on the god; the god is driving), and pursue the god's purpose in the table below with every Gift they have. They know everything the character knows, and use it.
+
+| Land | What the god does with a borrowed body | The tell |
+| Sallowreach | Closes: eyes, doors, books, lives; seeks the nearest Hush | The hands go still and cold; the voice drops to a murmur |
+| The Fatlands | Eats, and feeds others, and walks out to the far field at dusk | Drool, a hum, the smell of fresh bread |
+| Brinehollow | Walks west; presses; speaks in two voices | The weight; the ears pop in the room |
+| The Vigil | Lies down, or puts others to sleep; opens the Line | The eyes close and the body keeps moving |
+| Cradlewrack | Opens every door, wound and grave; attends births nobody wanted | Every door in the house is open when they leave |
+| Oathen | Swears, in their name and in others'; says things that become so | The voice is heard a half-second before the lips move |
+
+### Calling Them Back
+
+An ally may spend an action to call the ridden by name: Tongue + Persuade against the ride's difficulty. Speaking their full name adds +1; touching them adds +1; invoking an Oath on the Dead the ridden swore, or the name of Who Waits at Home, adds +2. Pain works in the Vigil and nowhere else (a Waker's needle is +2 there). Giving the god its Sop ends the ride at once and always, which is why the Table is full of families who have learned to keep a little of what the god wants in the house: a jar of brine, a closed box, a door to open, a vow.
+
+### Afterward
+
+The ridden come back with Hunger at 0 (the god has eaten) and no memory of the ride, which counts as a Dread check at the rating of whatever they did, discovered afterward. The god also keeps something. Roll a d6.
+
+| d6 | What the god kept |
+| 1 | A habit: the character has a new small Want for a week (the GM names it) |
+| 2 | A memory: one person the character loves is now a stranger to them for a day |
+| 3 | A promise: the god swore something in their name, and somebody heard |
+| 4 | A mark: one tell of the next Regrowth stage appears early and stays |
+| 5 | A victim: someone was hurt while they were away, and knows who did it |
+| 6 | Nothing at all; the character feels rested, whole, better than in years, and that is the worst of them |
+
+### The Ridden as Adversaries
+
+Any human stat block in this chapter can be ridden: add +2 Caul, the land's tell, Dread 2 (Dread 3 to those who love them), and the god's purpose above. Riding spreads in a community the way madness does. When one person in a household is ridden, every Cut-bearing member present must check for themselves, and in the worst-hit villages of the Table whole families have been found sitting at their tables at once, faces calm, every one of them somewhere else. The Purgation's emetics, the Celebrants' rites and the Reckoners' knives have all been tried. The first two have worked about as often as nothing. The third always works.
+
+[box: Possession at the Table]
+Taking a player's character away from them is the strongest move the GM has. Use it rarely and say so plainly when it happens. Agree in advance whether the god may make a ridden character harm a companion, and how far; many tables prefer that the ride is shown through its aftermath (the open doors, the stranger's ring, the blood) rather than played. Offering the player the god's part to play, with the god's purpose and none of the character's restraint, is often the most frightening option, and the one players remember.
+[/box]
+
+[pagebreak]
+
+## The Seated Gods
+
+No land has reached a full Seating. Three are close. This section is for the night one of them gets there.
+
+When a Regrowth completes, the god does not return whole. A god eaten by ten thousand mouths and scattered through six centuries of blood comes back as a **Seated fragment**: a portion of itself, wearing a person or a place as a body, and growing. It is enough. A fragment of a Provider is the largest thing that has walked the Table since the Night of Seven Tables, and its arrival ends the campaign as it was. What follows is not a fight. The entries below give a fragment's **Seat** (what it wears), its **Reach** (how far it extends, and how fast it grows), its **Presence** (what happens to everyone in reach, each round or each day), its **Hands** (the creatures from this chapter that now act for it), and **What Can Be Done**. None has Flesh. Every one is Dread 5, and Fray Aura 22, and anyone of its land's Cut within its Reach feels the Pull 22 every round, and must check against the ride at Dire 22.
+
+[stat: Ossel Seated — the Closing Hand]
+Seat: the Hand-lines, all at once; the Mortuary Court's chamber becomes a Hush with a figure in it whose hands are folded.
+Reach: Dunmere Hush and every other Hush join; grows a mile a day across Sallowreach.
+Presence: everything in Reach finishes. The Kept lie down by the thousand, glad. The living who fail their Dread check stop, mid-breath, and are done. Sound ends. Then the fen begins to end, and the fog, and the land.
+Hands: Hush-walkers, Undone Closers, the Whispering Aisles, every Finisher.
+What Can Be Done: carry people out. Every Kept who can be got across the border before the Hush arrives drops dead at once, which is at least an ending they chose. Pim Sorrel may be able to ask it to wait.
+[/stat]
+
+[stat: Ummer Seated — the Laden]
+Seat: Chairman Obb Tullow, rooted through his cart, swelling until Sated is built on his shoulders.
+Reach: every field in the Fatlands, and every barrel of their meat on the Rim Road.
+Presence: the Reaping all at once, by day and by night. The soil takes anyone standing on it who fails Lung + Wayfaring 22. Everyone who has eaten Fatlands meat in the last year, anywhere, feels Fatlands Hunger: +1 Hunger per day, and the Feast Want.
+Hands: Hungry Hills, the Scarecrow, the Uneaten and the Bottomless, Rootkin by the million, the two-legged cattle, all standing up.
+What Can Be Done: stop eating. The Thin have practiced. Wren Hollowell feels no hunger at all and may walk where no one else can.
+[/stat]
+
+[stat: Dromm Seated — the Fathom]
+Seat: the Tenanted, every one, standing up in courtrooms across the land and walking west; and the Dowager Below, who rises.
+Reach: the Trench, then the Uncovered, then Lowmark's nineteen miles of pier. The sea comes back, all at once, from inside the people who were holding it.
+Presence: pressure. All rolls in Reach −4. Each round, every character with a Lung-line Cut must bail (Gut + Endure 18) or drown on dry land. The Called number in the tens of thousands.
+Hands: Ribwalkers, the Called Procession, the Cistern-Kept, the Indoor Tide in every house on the Table that has ever drunk Dry Jonah's tonic.
+What Can Be Done: get high and get inland. Dagna Hull's Follow may survive the water's return. Father Ebb says the chain is not what holds him.
+[/stat]
+
+[stat: Iss Seated — the Lidded]
+Seat: Aveline Morne, the Sleeper in Bed One, sitting up. The eye in the long room opens.
+Reach: the Dormitory, then the Vigil, then everyone on the Table who has ever slept, which is everyone.
+Presence: sleep. Every character must roll Caul + Resolve 22 every hour or blink, and a blink now lasts until the Seated fragment is satisfied. The Counted wake together, sixty thousand of them, breathing in time, and walk.
+Hands: the Counted, Tether-Catches by the hundred, blink-killers in every street, Seemings made solid wherever the exhausted gather, and a Made Bed in every dark room.
+What Can Be Done: stay awake for as long as it takes. Nobody knows how long that is. Sallowreach's Kept do not sleep. Castellan Dray's terrible proposal may become the only sane one on the Table.
+[/stat]
+
+[stat: Vey Seated — the Opening]
+Seat: the land. Cradlewrack's highlands are delivered of something out of the Dilation, as the Sill's door swings open, and the Assemblers' figure stands up with a voice and a left hand.
+Reach: every threshold on the Table. Every door opens.
+Presence: birth. Every character must roll Gut + Endure 18 each day or go into labor with something that is not a child. Wounds reopen at dawn. Locks, seals and graves fail; things begin.
+Hands: the Gathered, Doorborn, Gravebirths in every churchyard, Fenn's Get (now the size of a hill), and whatever the crowning produced.
+What Can Be Done: the Barren Order's answer is to begin nothing. Ambrose, the Eldest Infant, says that when he reaches the cradle it will be time, and may know for what.
+[/stat]
+
+[stat: Tolm Seated — the Witness]
+Seat: a Sayer, unbitted at last, speaking without stopping; or the Ledger, four miles of carved vows, beginning to read itself aloud.
+Reach: everywhere a word in Oathen has carried, which means every treaty and every Rim Road Company contract on the Table.
+Presence: every word binds. Every thought binds. Characters with any Tongue-line Cut cannot think a lie without breaking. Every contract sworn before Jessamy Quill comes due at once, with interest, in the body of each signatory.
+Hands: living echoes, Vow-Spills, the Sworn-Upon walking out of every vault, every Forsworn, the Defaulted, and the Rain, which falls now only on those who have kept their word.
+What Can Be Done: say nothing. Cassian Wry can lie and stay whole; in a world that has become a promise, a liar is the only free man left.
+[/stat]
+
+Orrum has no Seated fragment. It was never eaten. It is whole, and it is coming. Some scholars of the Table have begun to ask why a god with all its strength would spend six centuries laying places, and for whom. The Hallowboard table has eight sides. One side, the Hostwatch reports, is always laid, and always empty.
+
+[bigquote] Six meals and one refusal, and still the table is set for one more. Count the chairs. Then ask who is late. | — attributed to Meek Garrity, the Historian, in a letter never sent
+
+### Why You Cannot Fight a God
+
+The players will want to. Tell them, in the fiction, why they cannot. The Providers did not fight when they were eaten; that is recorded everywhere and explained nowhere. Returning, they do not fight either. A Seated god is not hostile any more than weather is hostile. It is a condition of the world reasserting itself. Its Presence affects everyone in Reach without a roll to hit. It has no Flesh to reduce. Attacking a fragment's Seat (cutting down Obb Tullow, smashing Aveline Morne's bed) is possible and accomplishes exactly what killing a single fold of a flooding river would.
+
+What player characters can do is choose how the world meets the god. Every campaign-ending threat above should be run as a set of choices, each with a terrible cost.
+
+- **Refuse it.** The Fast's answer: accept nothing it offers, and endure. This works, partly, for the godless, and for those who can bear starvation. For everyone with a Cut, refusal means fighting the god in their own blood every round of their lives. Each refusal costs Hunger. Hunger fills.
+- **Feed it.** Every god has a Sop. Feed the Sop on a national scale (the Cullmasters' answer, the Second Helping's, the Finishers') and the fragment quiets. It grows, too.
+- **Bind it.** Go to Oathen and have it sworn. A god's word outlives the god; the Kept Rain proves it. A Seated fragment can be negotiated with, through a Sayer, in a Clausewright's language, before Jessamy Quill. It will keep its word. The question is what it asks in exchange.
+- **Carry it out.** The rules of a land stop at its border. A Seat that can be moved (a person, a child, a hand) can be carried across the Rim Road. Then the god is somewhere new, and its rules come with it.
+- **Eat it again.** The Second Table's answer. It worked once. It bought six hundred and forty-one years. The party that eats a Seated fragment becomes the next Seat, and their children carry it, and the Long Grace begins again.
+- **Hide.** The Providers held still once, and nobody knows why. Characters who ask that question loudly enough, in the right places, may find out what a god is afraid of. That is a matter for the Secrets chapter, and for the GM.
+
+[pagebreak]

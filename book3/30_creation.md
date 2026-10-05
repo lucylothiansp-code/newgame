@@ -619,3 +619,285 @@ Distribute **18 points** among the twenty-four skills. No skill may be raised ab
 
 Every Guest should think about **Resolve**. It is the skill the Table tests most often and forgives least. A Guest with Resolve 0 is a Guest who will Break in the second session and keep breaking; that can be a fine thing to play, but it should be chosen and not stumbled into.
 
+## Step Seven: Knacks
+
+Choose **two Knacks**. Each is a narrow edge, a habit, or a scar that pays. More can be bought with Portions (see Advancement). Some have requirements. Knacks that smell of one land are open to any Guest, though the Carver may ask how a Fatlander came by *Echo-Wise*.
+
+| Knack | Requirement | Effect |
+| Anchored Sleeper | — | You never walk in your sleep. +2 to resist any god's pull that comes for you while you rest (the Calling, the Water, a laid table at night). |
+| Bail-Lunged | — | Hold your breath for (Lung × 2) minutes; +2 to resist drowning and smoke. |
+| Bitten Tongue | Tongue 2 | Once per scene, stop yourself mid-sentence and unsay it before it lands. In Oathen, it does not bind. |
+| Blind Count | Eye 2 | Entering a room, you always know how many living people are in it, including the hidden. Not who. |
+| Bone-Coin Nose | — | Tell counterfeit lacks, false seals and forged notes by smell (Routine 10). |
+| Bone-Setter | Stitching 1 | You set breaks in the field. Broken Arm and Broken Leg Injuries heal in half the time. |
+| Breaker's Swing | Labor 2 | +4 damage against doors, furniture and anything built. One blow splits a laid table. |
+| Bricklayer's Patience | Craft 1 | Wall yourself into a room in ten minutes with brick, mortar and trowel; it holds against any opening until dawn. |
+| Butcher's Calm | — | Ignore Dread 1 from bodies and gore entirely. |
+| Cold Supper | — | You need eat only every other day without penalty. |
+| Company Card | — | You hold a Rim Road Company tally-card: one free night a week at any waystation, and Wardens give you the benefit of the doubt. |
+| Conditional | Tongue 3 | When lying, you may reroll one die, once per scene. |
+| Corpse-Handler | — | Lifting, washing, dressing or searching the dead needs no roll; +2 Search on a body. |
+| Corpse-Road Walker | — | +2 to travel and navigation rolls through fen, Uncovered or empty farmland. |
+| Counting Habit | Eye 3 | Once per session, ask the Carver how many of something there are, and get the true number. |
+| Death-Mask | — | Your face gives nothing away. +2 to resist anyone reading your fear, your lies, or your Partaking. |
+| Dirty Fighter | Brawl 2 | Your unarmed attacks deal 2 and can blind for a round on a Helping. |
+| Dowager's Patience | Caul 3 | Once per session, take an action you were compelled not to take by a Want, without a roll. |
+| Eats Anything | Feast 2 | You can eat spoiled, raw, or godtainted food: reduce any Taint from eating by 1. |
+| Echo-Wise | Lore 1 | You know how a place carries sound before you speak in it. Never surprised by your own echo; +2 to Stealth in canyons and halls. |
+| Elder's Ear | — | Old people, the Kept, and the Seated tell you things they tell no one else (+2 Persuade). |
+| Fast Hands | Hand 3 | Draw and attack with a small weapon in the same moment; +2 to initiative. |
+| Fasting Discipline | Resolve 2 | Reduce all Starving and Pang penalties by 1. +2 to resist food offered as a lure, by anyone or anything. |
+| Gallows Laugh | — | When you make the table laugh at something horrible in character, remove 1 Fray (once per session). |
+| Good Bones | Gut 3 | +3 Flesh. |
+| Gravedigger's Back | Labor 1 | Dig a grave or a hiding hole in a quarter of the time; +2 Search for anything buried. |
+| Hard Sleeper | — | You sleep without dreaming, wherever you are. (Useless in the Vigil.) |
+| Hostage's Smile | — | +2 to rolls to make captors like you or let their guard down. |
+| Iron Stomach | Gut 2 | +2 to Endure vs poison, disease, rot and drugs. |
+| Kin-Sense | Caul 2 | You always know when someone of your own blood is within a mile. |
+| Ledger Memory | Eye 3 | You can recite word for word any document you have read once, however long ago. |
+| Light Sleeper | Eye 2 | You cannot be surprised while asleep or resting. |
+| Little Lies | — | One trivial falsehood per session is believed without a roll. |
+| Lullaby Voice | Tongue 2 | Once per scene, murmur to someone who has just failed a Dread check: they gain 1 less Fray. In the Vigil, every listener gains 1 Weariness. |
+| Mother's Hands | Stitching 2 | Treat Injuries one step faster. |
+| Mourner's Rites | Rites 1 | You know the death customs of all seven lands. At a burial you lead, all present remove 1 Fray; +2 Persuade with the bereaved. |
+| Needle Habit | — | Once per day, take 1 damage from pin or needle to ignore all penalties from sleeplessness, cold or Weariness for a scene. |
+| Night Eyes | Eye 2 | Darkness gives you only −1, and total darkness −2. |
+| No Thank You | — | +2 to resist any offer, invitation, seduction, or temptation, mundane or divine. |
+| Old Grief | — | Once per session, when you take Fray from the death or loss of someone, take 2 less. You have practice. |
+| Pin-Cushion | — | Pain sharpens you: while below half Flesh, +1 to all Eye rolls. |
+| Poacher's Patience | Stealth 2 | You can wait without moving for hours. +2 to the first attack you make from hiding. |
+| Rim-Wise | Wayfaring 1 | You know a keeper on every stretch of the Rim: lodging, rumour or a fence is a Routine (10) roll anywhere on the Road. |
+| Rope Knots | — | Your knots never come undone by themselves, even in Cradlewrack. |
+| Second Chair | — | When an ally makes a roll you could help with, give them +2 (instead of the usual +1). |
+| Scrap-Born Luck | Cut 1 only | Once per session, reroll a Lack. |
+| Silent Supper | — | You can go a whole day without speaking and suffer no penalty; +2 Stealth in quiet places. |
+| Smell of Cedar | — | You know how to look like you belong to a better Cut: +2 Deceive and Persuade among the rich. |
+| Steady Hands | Hand 2 | No penalty for performing delicate work under pressure. |
+| Strong Back | Labor 2 | Carry double the normal load. |
+| Table Manners | — | You know the grace and customs of all seven lands: +2 to first impressions anywhere. |
+| Unflinching | Resolve 3 | Once per session, automatically succeed on a Dread check of rating 3 or lower. |
+| Unremembered | — | Nobody recalls your face a day later unless they had reason to. +2 Stealth in crowds and servants' corridors. |
+| Vinegar Kiss | — | You carry the smells of rot well: animals and the Kept do not notice you unless you act. |
+| Weather-Nose | Instinct 1 | You smell what is coming an hour early: a Black Noon, the Yawn, a pressure day, a pang, a warm front where the Host has walked. |
+| Witness Eyes | Caul 2 | Once per session, see a Tenanted, Seated, disguised Kept or wandering Part for what it is, without a roll. |
+
+## Step Eight: Derived Traits
+
+- **Flesh** = 8 + Gut + Endure. Your physical endurance; see the combat chapter.
+- **Guard** = 10 + Lung + the best of Athletics, Blades or Brawl. The target number to hit you in melee. **Ranged Guard** = 10 + Lung + Athletics.
+- **Armor** from what you wear.
+- **Hunger** starts at 0.
+- **Regrowth** starts as set by your Cut. Note the Gifts you already have and any Wants that are active (High Cuts, starting in the Appetite, have their first Want active).
+- **Fray** starts at 0, unless the Carver rules otherwise. Some backgrounds (a Vigil-born, an Oathen Forsworn) may begin with Fray 2.
+- **Want** (Unfed only) starts at 3. **Pangs** start at 2 for an Unfed Guest who has been living on Pantry measures, 0 for anyone else.
+- **Weariness** (Vigil-born only) starts at 2 and can never fall below it.
+- **Portions** (experience) start at 0.
+
+## Step Nine: The Four Questions
+
+Mechanics describe what a Guest can do. These four answers describe who they are. Write them on the sheet. The Carver will use every one.
+
+**The Last Meal.** What is the last meal you ate that you truly enjoyed, and who was at the table? Every Guest on the Table is hungry in some way, and this is the shape of theirs. Once per session, when your Guest acts to protect, honor or return to what that meal represented, gain +2 to the roll.
+
+**The Oath on the Dead.** Swear an oath on the name of someone dead: a parent, a child, a friend, a victim. Write the name and the oath. (*On my brother Wem, who was Reaped: I will find where they took him.* *On my mother, whom I finished: I will never touch another living thing with these hands.*) See the rules for Oaths on the Dead. They bind across the Table, in ways that are subtler than Oathen's but no gentler.
+
+**Who Waits at Home.** Name one living person who loves you and is waiting for you to come back. Where are they? What would they think of what you are becoming? The Carver will put them in danger. That is a promise.
+
+**What You Will Not Do.** Name one thing your Guest will not do, whatever happens. Eat a person. Kill kin. Lie under oath. Lie down. Sit at a laid table. When your Guest is pushed to do it, play it honestly; if they do it, they gain 5 Fray at once, and you must write a new line they will not cross.
+
+[pull] Everybody's got a line. In the Fatlands it's who you'll eat. In Oathen it's what you'll say. In my trade it's where you'll stop digging. Mine moves about a foot a year. | — a Gleaner of the Sump
+
+## The Lifepath: Seven Courses
+
+The Four Questions ask who a Guest is now. The Lifepath asks how they got that way. It is optional, and it is cruel, and it is the fastest way to give a Guest a past that the Carver can bite into. Roll a d20 on each of the seven tables below, in order, the way a meal is served: Childhood Horror, What You Ate That You Shouldn't Have, The Scar, The Family Secret, Who You Betrayed, Who You Buried, and finally Your Oath on the Dead, which is sworn on the person you buried.
+
+Read each result through your Guest's land and Cut. A result that names another land happened on the Road, or to a relative, or in a story your Guest has decided is theirs. Reroll anything that crosses your table's Lines, without comment. You may also simply choose.
+
+**The Lifepath's gift.** A Guest who rolls all seven courses and keeps every result, however bad, begins play with **2 Portions**. The Carver also gains the right, once per story, to bring any one of those seven results back to the table, in person.
+
+[pull] Every life on the Table is a menu. Most people don't get to choose their courses. The decent ones at least eat what they're given without complaining. | — Dame Suet Marrable, to a guest who had stopped eating
+
+### First Course: Childhood Horror
+
+| d20 | What You Saw as a Child |
+| 1 | Your great-grandfather, Kept, came apart at the supper table. You were made to help gather him up, and to say grace again after. |
+| 2 | Your village kept the Long Count. One autumn the number that was missing was your best friend. You were the one who wrote it down. |
+| 3 | You found your father at the west window at midnight, standing in a puddle of brine, smiling at nothing. |
+| 4 | You blinked at seven and came back standing over your baby brother's cradle, his blanket in your hands. He was fine. You were never left alone with him again. |
+| 5 | A door that had been bricked shut for forty years opened while you were alone in the room. Something on the other side said your name, kindly, and closed it again. |
+| 6 | Your playmate said "I promise" during a game of tag. You heard the bones go. You were the one who had made her say it. |
+| 7 | You found a laid table in the barn with your name on the card. You did not sit. Your cousin did. He is still there. |
+| 8 | A Hush opened at the edge of your village. All night the birds fell out of the silence onto your roof, one by one, like slow rain. |
+| 9 | A Taker carried you off in a sack, and your family bought you back with the price of their house. They have never let you forget the house. |
+| 10 | A Part, a small warm hand, crept into your bed and held your finger every night for a month. Then your mother found it. You never learned where she took it. |
+| 11 | You were locked in the Lofts overnight among ten thousand whispering Set-Aside. By morning you knew the word they were all whispering. |
+| 12 | A winter on the Rim road with the snow down: your family ate the dog, then the horse, then the boots. Then your mother stopped eating and gave you hers. |
+| 13 | You watched a Purgation cell burn a High Cut house. Someone your age was at the upstairs window. You still do not know if they were waving or beating on the glass. |
+| 14 | Your mother Broke, and the madness came into you too: for a season you both knew your father was an impostor. He was not. He left, and you were right after all. |
+| 15 | You were the only child on your street who survived a Calling night, a pang, a fever, or a Reaping. Nobody ever explained why. Several people asked. |
+| 16 | On a dare you swallowed a relic sold at a fair. Your milk teeth fell out that night, all at once, and the new ones came in wrong. |
+| 17 | Your best friend was a Blank. One morning their family's door stood open, the house was empty, and a surgeon's chalk mark was on the lintel. |
+| 18 | You were taken to see a public Breaking, or a licensed Closing, or a wake, as a birthday treat. You enjoyed it. You remember that you enjoyed it. |
+| 19 | You were born on Tablenight. Every birthday your grandmother laid one more chair than there were people at the table, and would not say for whom. |
+| 20 | Nothing happened to you. Everyone around you suffered, and you were never touched, not once. The guilt has grown with you like a second spine. |
+
+### Second Course: What You Ate That You Shouldn't Have
+
+| d20 | The Thing You Swallowed |
+| 1 | A slice of your grandmother at her wake. You went back for seconds. Everyone said how much she would have loved that. |
+| 2 | A Hand-line fingernail, ground into wine, sold to you as a cure for fear. It worked. You have not been properly afraid since, and you miss it. |
+| 3 | A crust from one of Orrum's tables, taken by a child's hand before anyone could stop you. Since then warm bread sounds, faintly, like someone calling. |
+| 4 | Bottled brine, coughed up by a stranger and sold as tonic. For a year you dreamed of a stone table under the sea with its chairs pushed in. |
+| 5 | Toothed wheat, unmilled. The tooth you bit on was small and smooth, and you have never been able to decide what it came from. |
+| 6 | Your own flesh, one winter on the Rim when the snow closed the road for thirty days. You took it from somewhere it would not show. |
+| 7 | A strip of a Kept man's arm, sold in a Lastgate back lane. He watched you eat it. He nodded, as though you had done him a kindness. |
+| 8 | A heart, at a Second Helping love-feast. Everyone wept with joy. You have tried, since, to remember the giver's name, and you cannot. |
+| 9 | Earth from a grave at the edge of a Hush, on a dare. You could hear nothing at all for a day, and on the second day something else heard for you. |
+| 10 | One finger from a Part born in Cradlewrack, because you were starving and it was warm. The rest of the hand is still looking for it. |
+| 11 | The only copy of a sworn contract, to destroy the evidence. It went down like a stone. You are still not certain it stopped binding. |
+| 12 | A spoonful of Lady Aspic's jelly at a grand house. It blinked on the way down. |
+| 13 | Rouse cut with something sweet. You were awake for nine days, and on the ninth you saw your mother's face on everyone. |
+| 14 | A wafer of the Second Table's communion: a sliver of somebody's ancestor, kept for the purpose. The host would not tell you whose. |
+| 15 | Bone coins. When you were starving, you ate the money. It is the only thing on the Table worth exactly what it costs. |
+| 16 | Seawater from a drowned man's mouth, at a Deepening baptism. It tasted of him. You knew him. |
+| 17 | A dog that had eaten a man. You knew at the time. You told yourself that it made a difference. |
+| 18 | An afterbirth, in Cradlewrack, as medicine. It came from something that was not a child. The fever broke. |
+| 19 | Lent bread offered on the first refusal instead of the fourth. If you are Unfed, it is the worst thing you have ever done. If you are not, you do not understand why the Unfed who saw it wept. |
+| 20 | Nothing that you know of. You have eaten only clean, safe, declared food all your life. You are the only person you know who believes that. |
+
+### Third Course: The Scar
+
+| d20 | The Mark You Carry |
+| 1 | A Seamer's crooked stitch across the throat, from the night it was cut in Sallowreach and you did not die. It aches when anyone says "Long life." |
+| 2 | Bite marks on the forearm, human, adult, healed white. You know whose teeth. They know whose arm. |
+| 3 | A rope-burn ring around the waist, from a night's anchoring when something pulled very hard toward the west. |
+| 4 | A missing fingertip, broken off in Oathen at eight for a lie about who ate the last fig. |
+| 5 | A burn the shape of a lamp-chimney on one palm, pressed there by a nudger who loved you and could not wake you any other way. |
+| 6 | A Board of Plenty number branded on the shoulder: debtor, dusk-shift eligible. You walked back. The number did not come off. |
+| 7 | Needle scars up both arms in neat rows, a Waker's careful work over many years. |
+| 8 | A puckered hole low in your side where something was cut out of you. The surgeon kept it in a jar and labelled it with your name. |
+| 9 | An oath tattooed down your spine in Surety's script, for a debt somebody else defaulted. The knob of bone beneath it never set straight. |
+| 10 | A crossbow-bolt scar through the meat of the thigh, from a Reckoner raid on a house you were only visiting. |
+| 11 | The corners of your mouth are scarred white from a bit worn too long and too tight. |
+| 12 | Your teeth were filed to points at a Second Helping baptism. You keep your lips closed when you smile. |
+| 13 | Your fingertips are frost-white and dead. You touched the warm ground where the Host had walked, and it was so warm it burned cold. |
+| 14 | A neat surgical cut under the ribs, where a Blank-hunter took a sample to see if you were worth taking whole. You were not. You still do not know what they found instead. |
+| 15 | Salt-sores on both ankles that weep and never close. |
+| 16 | A healed Breaking: one knee bends a little the wrong way, and you know exactly which promise it was. |
+| 17 | A College mark of Cut inked inside the wrist at birth, and a ragged scar across it where someone, perhaps you, tried to cut it out. |
+| 18 | A long white seam from breastbone to navel. Someone opened you to see what was growing. They closed you again. They did not say what they saw. |
+| 19 | Claw-furrows across the back from a drover's beast that walked on two legs when it ran. |
+| 20 | No scar at all. Every wound you have ever taken has closed clean and white and vanished in a week. Someone at the College has noticed. |
+
+### Fourth Course: The Family Secret
+
+Every family on the Table has one, and most of them are about blood. The Cutwrights' ledgers say so, in footnotes, in a cipher, in a cabinet with two locks. Some of these secrets your Guest knows; some they suspect; one or two they will learn in play, from the worst possible person.
+
+| d20 | What the Family Does Not Say |
+| 1 | Your parents are cousins, as were theirs, as far back as the College can trace. Your line is marked "folded" in the ledgers. Your Cut is higher than your station. That was the point. |
+| 2 | Your great-grandmother is a Seated hill behind the farm, and the family still brings her meat. Last spring she asked for you by name. |
+| 3 | You were bought, not born. The Attendance ledger says your mother's child was not permitted to stay. You are what was put in its cradle. |
+| 4 | Your family sold your elder sibling to the surgeons to clear a debt, and told you the sibling was Reaped. You have the receipt now. |
+| 5 | A great-grandfather is Kept in the cellar, chained, gagged and fed perfume. He knows what the family did in 412 A.G. and has never stopped trying to say. |
+| 6 | One of your ancestors is the reason a village went silent. The first Hush near your home opened under her bed. |
+| 7 | Your family is Second Table. There is a silver fork in a velvet box in your father's study, and a chair at a dinner you were never invited to. |
+| 8 | Your mother's husband was Tenanted a full year before you were born. Nobody in the family has ever asked who your father is. Nobody ever will. |
+| 9 | Every firstborn of your line breaks at the same joint, on the same oath, sworn by an ancestor nobody remembers. You are the firstborn. |
+| 10 | The family fortune was made on a Cullmaster's lists. Your grandfather chose the names. Some of them were your neighbours' children. |
+| 11 | Your family's Cut was forged by a bribed Cutwright four generations ago. Either you are less than you claim, or far, far more. |
+| 12 | Every third generation, one of your blood walks into the Fast and sits. Your aunt went. Your mother is due. After her, you. |
+| 13 | A room in the family house has been bricked up for a hundred years. On Tablenight, something in it hums the grace. |
+| 14 | One winter, snowed in on the Rim, your family ate a stranger who had sheltered with them, and swore on the dead never to speak of it. Your grandmother spoke, once, and broke. |
+| 15 | Your line marries only within itself, to keep the god strong in the blood. You were promised at birth to someone you grew up calling by a family name. You ran. |
+| 16 | Your family's name is on a Reckoner list. Three branches have already ended in their beds. Yours is the next branch. |
+| 17 | Your elder sister is Counted, Bed 51,206. Your family pays a Dormitory orderly every month so her bed is never one of the ones "reduced". |
+| 18 | You had a twin. It was taken to the Lying-In on the day you were born. Your mother still sets its place on its birthday, which is also yours. |
+| 19 | Your uncle was a Reckoner who ended a High Cut line. Half your family calls him a saint and the other half a murderer, and they eat at the same table. |
+| 20 | A College ledger records that your ancestor, on the Night of Seven Tables, was served "from the eighth plate". The rest of the page has been scraped to the vellum. |
+
+### Fifth Course: Who You Betrayed
+
+| d20 | The One You Failed, on Purpose |
+| 1 | A Blank friend you sold to a Taker for a winter's food. You told yourself they would be a saint somewhere. |
+| 2 | Your Surety. You defaulted on an oath they carried for you, and they broke in the street in your place. |
+| 3 | Your nudger. You were so tired. You let them close their eyes so that you could close yours. Only one of you was fetched. |
+| 4 | A Called brother. You held his rope loose one night and told yourself you were tired. In the morning the rope was empty. |
+| 5 | Your Seamer master. You stole from the Guild's corpse-stock and let her hang for the shortfall. In Sallowreach, she is still hanging. |
+| 6 | A lover who was carrying. You told the Attendance, and the Second Opinion was given, and you were not there. |
+| 7 | Your whole village. You gave its name to the Cullmasters so your own name would come off the list. |
+| 8 | A Purgation cell. You informed, and they were taken, and the house they meant to burn burned anyway, by someone else's hand. |
+| 9 | Your god, or your congregation. You stopped believing years ago and kept preaching, because they needed it and you needed the bread. |
+| 10 | Your child. You left them on the steps of a lying-in house, and walked away, and did not look back to see what they asked. |
+| 11 | Your father, whom you finished without a license in Sallowreach. He begged. You told everyone it was for him. The house came to you. |
+| 12 | An Unfed family who hid you on the border. You led the Takers back to their door the following spring, for a fee. |
+| 13 | A dying friend's last request. You promised; you are not Oathen; nothing broke but them, when they saw your face. |
+| 14 | A Company caravan. You were the inside hand on a robbery. Four Wardens died, and one of them had shared his rouse with you. |
+| 15 | Your lord. You let a Reckoner through the postern gate, and stood watching the stars while it was done. |
+| 16 | Your Tenanted spouse. You sold the thing that came back to the Admiralty for study, and pocketed the price, and it thanked you. |
+| 17 | A Reaped friend. You heard them calling from the wheat at dusk, and you shut the shutters, and you sang. |
+| 18 | Your sister. You married the one she was promised to, and at her funeral you wore her ring. |
+| 19 | A Seated stranger who begged you to sit beside them so they would not eat alone. You promised you would come back. You never went back. |
+| 20 | Nobody. Yet. One of the other Guests will be the first; the Carver knows who, and when, and you do not. |
+
+### Sixth Course: Who You Buried
+
+Outside Sallowreach the dead die, properly, and somebody has to put them somewhere. Inside it, "burial" means whatever ending you could arrange.
+
+| d20 | The One You Put in the Ground |
+| 1 | Your mother, in the old way, with a coin on the tongue, though the priest said there was no longer any point. |
+| 2 | A stranger found on the Rim Road. Nobody else would touch the body. You still carry a button from their coat. |
+| 3 | Your child, before their naming. In Cradlewrack they would say there was nothing to bury. You buried it anyway. |
+| 4 | Your twin, Set Aside in the Lofts. You visit on feast days and read aloud, and they whisper back, and you write it down. |
+| 5 | A lover who walked singing into a Hush with the Finishers. You buried their boots at the silent edge. Nothing else came back out. |
+| 6 | Your father, with full Fatlands honours. You carved, and served, and cleaned the plate, and wept because he tasted of home. |
+| 7 | An Unfed brother who starved when his name was left off the Pantry list. You learned later whose hand had written the list. |
+| 8 | Half your village, after a Reaping year, one grave a week through all of Carving. You dug every one. You stopped counting at thirty. |
+| 9 | The first person you killed. You buried them yourself, so that no one would find them, and so that someone would. |
+| 10 | A Seated grandparent you finally dragged from a laid table. They died within the hour, thanking you for a beautiful supper. |
+| 11 | A Counted sister, when the family could no longer pay to keep her bed off the list. They buried an empty coffin and you carried it. |
+| 12 | Your Surety teacher, who broke one time too many and folded up in the road like a dropped coat. |
+| 13 | A Foundling soldier of your company, four years old in fact, killed at the border. Nobody came to claim the body, because nobody had borne it. |
+| 14 | A part of yourself: a hand, a foot, a Part you bore. Full rites. A small stone. You go back. |
+| 15 | Your Tenanted spouse, in a manner of speaking. You held a funeral for who they were, and the thing that came back stood at the graveside and sang. |
+| 16 | A Reckoner who came for someone in your house. You killed her in the hall and buried her under the floor, and you still step around that board. |
+| 17 | Nobody. You sold the body to the surgeons for the price of the grave, and you have been paying for the grave ever since. |
+| 18 | A god-touched animal that loved you: a dog that would not stop guarding a closed door, a pig with a face too like your uncle's. |
+| 19 | Your teacher, broken by a Breaking for something you said in their hearing. They never blamed you. You do. |
+| 20 | An empty coffin. The body was never found. Someone at the funeral smelled strongly of fresh bread, and nobody knew them. |
+
+### Seventh Course: Your Oath on the Dead
+
+Swear this on the name of the person you buried, or on any dead name the other courses have given you. Write it on the sheet in full: *On [name], who [how they died]: I will...* It follows every rule for Oaths on the Dead in *The Grace Roll*. If your Guest is an Oathener, remember what an oath on the dead weighs in Oathen, and that no Surety will carry it.
+
+| d20 | I Will... |
+| 1 | ...find the one who sold them, and make them say aloud what they were paid. |
+| 2 | ...never let a stranger sit at a laid table while I have hands to stop them. |
+| 3 | ...see them finished, properly, by a licensed hand or my own. |
+| 4 | ...have their name cut into the Ledger at Tacit, where it can never be forgotten or unsworn. |
+| 5 | ...carry their bones home across the Rim, and bury them where they were born. |
+| 6 | ...learn what they heard, in the room, in the sea, in the silence, in the wheat, that made them go. |
+| 7 | ...feed every child on my road this winter, whatever I have to carry or steal. |
+| 8 | ...never again eat anything my own hands did not carry. |
+| 9 | ...end the line of the house that ate them, to the last cradle. |
+| 10 | ...keep the promise they broke, and take its Breaking in my own body if I fail. |
+| 11 | ...follow the sea down to wherever it is going, and tell them what I find. |
+| 12 | ...protect the one they loved best, who does not know I exist. |
+| 13 | ...never again lie to anyone who asks me a question in their name. |
+| 14 | ...find the part of them that was taken, and put it back with the rest. |
+| 15 | ...pay every one of their debts, to the last crumb, whoever holds the note. |
+| 16 | ...sit with them every Tablenight, wherever they lie, for as long as I live. |
+| 17 | ...bring the god up out of my own blood before it does to me what it did to them. |
+| 18 | ...learn for whom the empty chair at their funeral was laid. |
+| 19 | ...find the Second Table, and sit at it, and be the last thing served. |
+| 20 | ...swear no other oath, ever, on anything. (The dead find this very funny.) |
+
+[box: Rolling a Lifepath: an Example]
+Joss rolls the seven courses for Hessa Coombe, a Sallowreach Seamer. A Hush opened beside her aunt's fen village when she was twelve, and the birds fell all night (**8**). On a dare from her elder brother Tobin she ate earth from its silent edge (**9**). She has a crooked stitch across the throat (**1**), a great-grandfather chained in the family cellar who knows what the family did (**5**), and nobody betrayed, yet (**20**). Joss decides the one she buried is Tobin himself, who later walked singing into that same Hush with the Finishers (**5**), and swears (**2**): *On my brother Tobin, who walked into Dunmere Hush: I will never let another soul of our street go in after him.* Every course now points at one silent place in the fen, and the Carver has been handed a cellar and an open betrayal.
+[/box]
+
+## Step Ten: Gear and Money
+
+Take the starting gear from your Calling and the starting wealth from your Cut, and spend it in the Rim Market (Part Three). Everyone also begins with: a set of clothes suited to their land and station, a knife, a bowl, a spoon, a blanket, a water-skin, and three days of food they carried themselves.
+
+Each land expects a little more. A Brinehollower without a bail-bucket and an anchoring rope will drown or walk west within the week; a Vigilant without a day's rouse and a pin-glove will be asleep within two; a Cradlewracker carries needle and thread and a knocker's ring; a Sallowreacher carries perfume or vinegar against the smell of everybody else; an Oathener carries a wax tablet for the things that should not be said aloud. These cost little, and the Carver should make sure every Guest has them.
+

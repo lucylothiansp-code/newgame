@@ -583,7 +583,7 @@ Every land adds costs that nowhere else would understand. These are in addition 
 | Clausewright's daily review | Oathen | 1 L a day | someone to check what you will say |
 | Niche-rent for the dead | Oathen | 2 L a year | 20 L in the upper galleries |
 | Pantry dues | the Fast | one chit a day | if you are on the list |
-| Rim Road tolls | the Rim | 1 c a post on foot, 2 c a wheel, 1 c a head | a lack a post per hundredweight; Breath Toll 5 L at the Course |
+| Rim Road tolls | the Rim | 1 c a post on foot, 2 c a wheel, 1 c a head | a lack a post per hundredweight; Company bridges a lack each; Breath Toll 5 L at the Course |
 
 [pull] Your father is upright. Your father owns the chair. Your father would like the window shut. | — Heirs' pamphlet, posted on the Landing, Lastgate
 
@@ -711,3 +711,357 @@ Armor subtracts from damage taken. Armor of 3 or more gives −1 to Lung rolls f
 | Reckoner's greys | 45 L | Scarce | 2 | the Fast; no fat in the leather; Silent |
 | Buckler | 6 L | Common | +1 Guard | Parrying |
 | Bucket-shield | 4 L | Common | +1 Guard | Brinehollow; a bail-bucket on a strap; still bails |
+
+## Clothing and Regional Dress
+
+| Item | Cost | Avail. | Effect | Notes |
+| Common clothes | 3 L | Common | — | linen, wool, a hat |
+| Good clothes | 25 L | Common | +1 Persuade with merchants | |
+| Noble dress | 150+ L | Uncommon | +2 Persuade at court | and a target on your back |
+| Lastgate mourning-cloak | 20 L | Common | perfume pockets in the lining | Sallowreach; cedar for the rich |
+| Kept's gauze binding | 2 L a week | Common | holds a Kept face on | Sallowreach |
+| Hand-line mittens | 8 L | Common | stop compulsive closing | Sallowreach; worn by the Appetite-struck |
+| Fatlands tent-coat | 12 L | Common | expands with the wearer | let out every season |
+| Gleaner's apron | 1 L | Common | twelve pockets | stained to the elbow |
+| Weighing-day coat | 30 L | Uncommon | deep sewn pockets, reinforced | Fatlands; for lead; owning one is not a crime, wearing it full is |
+| Anchoring belt | 6 L | Common | ring for a night-rope | Brinehollow; sweethearts stitch them |
+| Pressure hood | 18 L | Uncommon | +2 Endure on pressure days | Brinehollow; waxed leather |
+| Wreckwife's grey shawl | 4 L | Common | marks a spouse returned Tenanted | Brinehollow; it is rude to ask; the shawl asks for you |
+| Pin-glove | 3 L | Common | pricks the palm when gripped | Vigil; for staying awake |
+| Tin-plated hat | 5 L | Common | rattles in rain | Vigil |
+| Attendance apron | — | not for sale | marks a midwife | Cradlewrack; wearing one falsely is a knife |
+| Knocker's ring | 2 L | Common | a brass ring for knocking | Cradlewrack; the polite carry one |
+| Neck-kit | 2 L | Common | needle, gut and wax on a cord; +1 Stitching on your own wounds | Cradlewrack; everyone over seven wears one |
+| Child's bit | 4 L | Common | soft leather muzzle | Oathen; legally required under twelve |
+| Clausewright's collar | 30 L | Uncommon | brass plate of licence | Oathen |
+| Felt slippers | 1 L | Common | +1 Stealth on stone | Oathen; footsteps can carry words |
+| Unfed greys | 2 L | Common | plain undyed wool | the Fast; any colour is vanity |
+| Penitent's brown | 2 L | Common | marks a Purgation pilgrim | the Rim; the Bailiffs of the Fatlands strip it off in the street |
+| Bonded Hand's livery | — | not for sale | grey coat, wheel badge; a bed at any post | the Rim; issued with the Bond, for twenty years or life |
+| Veil of the Second Table | 300 L | Rare | a silk mask with a silver fork | never sold openly |
+
+## Tools and Kits
+
+| Item | Cost | Avail. | Effect | Notes |
+| Seamer's kit | 30 L | Common | needed for Stitching; +1 on the Kept | wire, thread, lacquer, cork, awl |
+| Surgeon's case | 80 L | Uncommon | +1 Stitching; can amputate | Quease buys every new design |
+| Clausewright's box | 50 L | Uncommon | +1 Clause on drafting | quills, sand, wax, a thumb-inkpad |
+| Lockpicks | 15 L | Uncommon | needed for Filch on locks | useless in Cradlewrack, which needs none |
+| Agnes Latch lock | 200 L | Rare | holds a Cradlewrack door 2d6 nights | the waiting list is a year |
+| Bail-bucket | 1 L | Common | required in Brinehollow | sweethearts swap them |
+| Anchoring rope (10 fathoms) | 2 L | Common | +2 to resist being Called while tied | cut ropes are the great tragedy |
+| Knot-tier's hook | 3 L | Common | +2 to tie a knot that holds against the Calling | Brinehollow; the Spur charges a crumb a knot |
+| Sounding-line (40 fathoms) | 5 L | Common | measures depth, wells, the indoor tide | Brinehollow; in the Uncovered, lowered into puddles |
+| Netwatch kit | 25 L | Uncommon | hook, net, rope, rattle | |
+| Rattle | 1 L | Common | wakes a blinker, Noisy | Wakers' badge of office |
+| Wetting-brush and bowl | 4 L | Common | keeps lidless eyes from drying | Vigil; eye-wetters carry three |
+| Water clock | 40 L | Uncommon | times pangs, bells, bailing | Cradlewrack |
+| Pang-bell | 6 L | Common | rings by itself before a pang, a breath early | Cradlewrack; usually |
+| Spyglass | 90 L | Scarce | +2 Search at distance | Oathen note-watchers use them |
+| Felt baffle | 8 L | Common | stops an echo in a room or a gorge's mouth | Oathen; hung over every doorway in Tacit |
+| Hanging scales | 12 L | Common | weigh coin and meat | Garrick Tripe's are rigged |
+| Coin-tester's kit | 6 L | Common | +2 Eye to spot false coin | scales, Rim grains, hot needle, lamp |
+| Cutwright's calipers | 60 L | Scarce | +2 Lore to judge a person's Cut | measures skull, nail and tell |
+| Rope (50 ft), sack, chain | 1–5 L | Common | | |
+| Wax tablets (Oathen) | 3 L | Common | write without binding (allegedly) | since 640, not reliably |
+| Brick, mortar, trowel | 2 L | Common | brick yourself in for the night | Cradlewrack |
+| Tablebreaker's wedge | 3 L | Uncommon | +2 to break furniture apart | the Fast |
+| Hostwatch frost-marker | 5 L | Uncommon | chalk sticks that change colour on warm ground | tracks Orrum's passage |
+| Caltrops (a bag) | 4 L | Common | pursuers at −2 Lung for a round | Crumb-Runners scatter them behind the cart |
+
+### Light
+
+| Item | Cost | Avail. | Effect | Notes |
+| Rushlight | 1 c | Common | 1 hour, smoky | the poor's light everywhere but the Vigil |
+| Tallow candle | 2 c | Common | 4 hours | smells of the Chute |
+| Beeswax candle | 2 L | Uncommon | 6 hours, clean | Cradlewrack hives |
+| Oil lamp | 3 L | Common | 8 hours a pint | |
+| Lamp oil (pint) | 4 c | Common | doubled in the Vigil | Ashlock's ninety days |
+| Sea-oil (pint) | 2 c | Uncommon | burns brighter; lamp drips seawater | Lucan Spill's; rendered on the Uncovered |
+| Vigil mirror-lantern | 25 L | Uncommon | bright as noon, 20 paces | no shadows to sleep in |
+| Lid-lamp | 8 L | Common | a lamp on a brow-band | Vigil; so your face is never in shadow |
+| Bullseye lantern | 15 L | Uncommon | a beam, shutterable | Netwatch issue |
+| Wick Tallow candle | 6 c | Common | burns 3 nights, steady; Tainted (Dread 1) | Sallowreach; it feels itself burn |
+| Named Tallow candle | 5 L | Uncommon | as above, made from a known person | Tainted (Dread 2); families commission them |
+| Fen-glow jar | 1 L | Common | dim green light, never goes out | Sallowreach; things that will not finish rotting |
+| Smoulder-coal (Sallowreach) | 1 L | Common | stays lit for years in a tin | fires there do not end |
+
+A Wick Tallow candle gives the steadiest light on the Table. Up close, the flame leans towards whoever lit it. Half of Lastgate reads by people it used to know, and some of them can tell which. The tallow is soft and faintly warm even unlit, and if a candle is snapped the two halves bleed a little clear grease and go on burning separately, both leaning the same way.
+
+[pull] GRANDFATHER, FOUR CRUMBS THE INCH. CUT TO LENGTH. HE WOULD HAVE WANTED YOU TO HAVE HIM. | — chalked on a chandler's shutter, Lastgate undercity
+
+## Food and Drink
+
+> Lack keep away.
+>> — said before eating with any stranger, everywhere
+
+Food is the Table's first trade and its first horror. Anything from the Fatlands is grown in Ummer and carries a little of it. Rim cooks sell "safe" food, which means food they will swear is not, and nobody believes them. The rest of the Table eats what its own god left it: eel that will not stop moving, cheese that ripens for ever, bread baked from cellar-kelp, lamb so cheap the poor eat it daily because the ewes drop four times a year, lizard on a stick in the canyons, and in the Fast, grey ration-bread eaten cold, standing, and without pleasure.
+
+| Item | Cost | Avail. | Effect | Notes |
+| Rim bread (a loaf) | 1 L | Common | a day's bread | the price of a lack, by definition |
+| Stranger's Loaf | free | Gristmoot only | Taint 1 Hunger | given at every inn door; the town bets you stay |
+| Toothed-wheat loaf | 5 c | Common | Taint 1 Hunger | Fatlands; teeth milled out, mostly; may bite |
+| Bleeding-orchard fruit | 2 c | Common | Taint 1 Hunger; heals 1 Flesh | skin, fat layer, bone pit; screams if cut fresh |
+| Veined roots (a sack) | 1 L | Common | Taint 1 Hunger | they flinch when peeled |
+| Meat by the pound | 3 c | Common | Taint 1 Hunger | origin stamped over twice |
+| Chute barrel (100 lb) | 25 L | Common | see What's in the Barrel? | |
+| Lady Aspic's jelly | 30 L | Rare | Taint 2 Hunger, 1 Dread | it blinks |
+| Skim (Fatlands drip-fat) | 1 c | Common | cooking fat | skimmed off rain |
+| Sallowreach fen-eel | 4 c | Common | never stops wriggling | Sallowreach; eat it fast |
+| Stilled meat (a pound) | 3 L | Uncommon | the only properly dead meat in the north | Sallowreach; from beasts that crossed the Drop and back |
+| Undying cheese | 1 L | Uncommon | ripens forever | Sallowreach; sold by the decade |
+| Brine (a pint) | 1 c | Common | salty; Taint 1 Regrowth to non-Brinehollowers | coughed up at dawn; sold for curing |
+| Kelp-bread | 3 c | Common | | Brinehollow; from cellar-tide kelp |
+| Salted gull | 3 c | Common | | Brinehollow; the Lashings' meat |
+| Eyeless fish | 1 L | Uncommon | | Brinehollow; from Harbor End; cheaper than the sighted |
+| Uncovered salvage-tins | 2 L | Uncommon | roll d6: on a 1, something alive | Brinehollow wrecks |
+| Rouse (brewed, a cup) | 1 c | Common | see Drugs | Vigil coffee-houses |
+| Clatter-cake | 2 c | Common | crunchy enough to wake you | Vigil; baked with grit |
+| Clay-bread | 2 c | Common | warm for a day | Cradlewrack; tastes of iron |
+| Posset (a horn) | 1 c | Common | warm, curdled, spiced | Cradlewrack; the Rimwatch charges double |
+| Second-milk | 1 L | Scarce | Taint 1 Regrowth | Cradlewrack; from who knows what |
+| Canyon flatbread | 2 c | Common | eaten in silence | Oathen |
+| Roast lizard on a stick | 1 c | Common | | Oathen; the poor man's meat |
+| Green cheese (a wedge) | 3 c | Common | | Oathen; ripened in the river caves |
+| Rain-water (Kept Rain, a flask) | 5 L | Uncommon | blessed; pure | Oathen; once a year |
+| Fast ration-bread | 1 chit | Common in Wanting | no Taint; −1 Hunger if eaten cold, standing | grey, Rim-grown, joyless |
+| "Safe" Rim food (a meal) | 2 L | Uncommon | no Taint, or so they swear | Eye + Lore Hard (14) to be sure |
+| Ale or small beer | 2 c | Common | | |
+| Wine | 1 L | Common | | |
+| Fen-gin | 3 c | Common | Feast Routine (10) or −1 all rolls an hour | Sallowreach; the bottle never quite empties |
+| Saltwick gin | 3 c | Common | | Brinehollow; the Fleet's ration; sweet water is in it |
+| Fig-spirit | 2 c | Common in the Breakdowns | Feast Hard (14) or say something you mean | Oathen; illegal above the fourth tier |
+| Marrow-brandy | 3 L | Uncommon | Taint 1 Hunger; +1 Resolve for a scene | Fatlands; distilled from boiled bone |
+| Trail rations (a week) | 8 L | Common | safe, dull | Company-sealed tins |
+
+[pull] EEL. LIVELY. DON'T ASK HOW LONG. | — fishwife's slate, the Landing, Lastgate
+
+### What's in the Barrel?
+
+Chute barrels are stamped with their origin, and then stamped over, and then stamped over again. When a character opens one, roll a d20.
+
+| d20 | Contents |
+| 1 | Pork. Honestly pork. Everyone is suspicious. |
+| 2 | Brined beef, the good stuff, with a brass Board tag. One joint has a healed fracture set by a surgeon. |
+| 3 | Orchard-pig: fat, sweet, and with a bone pit at the centre of every chop. |
+| 4 | Mutton that is still warm, two weeks out of Sated. |
+| 5 | Drover-herd beef, Sal Trotter's brand. The shins are very long. The hooves are not hooves. |
+| 6 | Salt tongue, eighty of them, in neat rows. Several are pierced for earrings. No, for bits. |
+| 7 | Mixed offal and a wedding ring. |
+| 8 | Bacon with a birthmark shaped like a hare. Someone in Low Tilth will know whose. |
+| 9 | Sausage, a single coil, tattooed in blue: crossed anchors and a name. |
+| 10 | Brawn in jelly. The jelly has a heartbeat for an hour after opening. |
+| 11 | Corned beef stamped with Ivo Stockpot's notch. He would not eat this. |
+| 12 | Fatlands field-meat: a joint with roots growing through the marrow. Taint 2 Hunger. |
+| 13 | A whole ham with a face on the rind. Pleasant. Smiling. Eyes closed. |
+| 14 | Good beef, and at the bottom a sealed letter: "If you are reading this, tell my sister Merrin I was Reaped at Low Tilth on the ninth of Carving." |
+| 15 | Tripe that continues to digest whatever is put in with it. |
+| 16 | Salt pork and forty teeth, sorted by size. Granny Cracknel will want them. |
+| 17 | Empty but for brine, and the brine is cold and pulls gently west. |
+| 18 | A Gut-lines cut: marbled, enormous, Taint 3 Hunger. Worth twenty times the barrel. |
+| 19 | Meat that a Fast-born character cannot be persuaded to look away from. |
+| 20 | Something alive, packed in salt, curled up, and very glad of the light. |
+
+## Drugs and Medicines
+
+| Item | Cost | Avail. | Effect | Addiction |
+| Rouse (tab) | 3 c | Common | no sleep for an hour; ignore the Vigil's pull; +1 Eye | Hard (14) |
+| Crane's strong rouse | 1 L | Uncommon | no sleep 4 hours; +1 Eye, −1 Hand (tremor) | Grim (18) |
+| Slope rouse (brine-cut) | 2 c | Common | as rouse, lasts longer; Taint 1 Regrowth (Dromm) | Grim (18) |
+| Staremoss quid | 2 c | Common | +1 to resist a blink for an hour; stains the teeth green | Hard (14) |
+| Bottled brine tonic | 3 L | Uncommon | heals 1d6 Flesh; Taint 2 Regrowth (Dromm) | Hard (14) |
+| Poppy drops (laudanum) | 1 L | Common | ignore Injury penalties for a scene; −2 Eye | Hard (14) |
+| Quease's Number 212 | 5 L | Uncommon | removes one kind of pain, fully, for a day | Grim (18) |
+| Weep-tea | 3 c | Common | ignore one Injury's pain for an hour; tastes of rain on a coffin | Routine (10) |
+| Anchor-draught | 1 L | Uncommon | +2 to resist the Calling for a night; −2 to all else till noon | Grim (18) |
+| Quiet-drops | 5 c | Common | the tongue goes numb; cannot speak for an hour | none; sold at Mumchance to the talkative |
+| Purgation emetic | 2 L | Uncommon | vomit for an hour; purges food Taint (see Taint) | none, but contraband in the Fatlands |
+| Purgation bleeding-kit | 4 L | Uncommon | lose 2 Flesh, lose 1 Hunger | none |
+| Fen-leeches (a jar of six) | 1 L | Common | over a night, lose 1 Flesh and 1 Hunger | none; the leeches never die, and grow |
+| Fen-vinegar | 2 c | Common | +1 resisting Dread from rot and smell | |
+| Lastgate cedar perfume | 3 L | Common | masks a Kept for a day; marks you as wealthy | |
+| Orchard sap | 1 L | Uncommon | stops bleeding (ends Ripping) | Taint 1 Hunger; screams faintly |
+| Caul-poultice | 6 L | Scarce | reopened wounds close for a day | Cradlewrack; wounds there reopen |
+| Mother Gall's pickle-brine | 20 L | Scarce | a corpse is kept sound for a year | Sallowreach |
+| Ash-water | 1 c | Common | the Thin's fasting drink; −1 Hunger, −1 Flesh | treason in the Fatlands |
+
+### Addiction
+
+Each time a character uses an addictive drug, they roll Gut + Endure against its Addiction difficulty. On failure, they gain one point of **Need** for that drug. At 1 Need they want it; at 3 Need they are addicted. An addicted character who goes a day without a dose is at −1 to all rolls, and −1 more for each day after, to −4; each day without also adds 1 Fray. Need falls by 1 for each full week without the drug, while suffering. A Lack on the Addiction roll adds 2 Need.
+
+Rouse is special. In the Vigil, nearly everyone is addicted, and the dose rises. A character addicted to rouse must double the dose after each season of use to get the same effect. Dr. Aldous Crane knows where the curve ends. It is eleven years off, and a character who works the arithmetic for themselves (Grim 18, Eye + Reckoning) takes a Dread 2 check.
+
+[pull] TABS. TABS. HONEST TABS. THEY HOLD AN HOUR IF YOU HOLD ON. | — patter on the Slope
+
+## Animals and Transport
+
+| Item | Cost | Avail. | Stats | Notes |
+| Mule | 40 L | Common | carries 200 lb | will not walk into a Hush |
+| Riding horse | 150 L | Uncommon | Wayfaring +1 on roads | eats safe fodder or goes wrong |
+| Company post-horse (hire) | 1 L a post | Common | change at every post; 40 miles a day | the Rim; the Company counts every hoof |
+| Draught ox | 80 L | Common | pulls a cart | Fatlands oxen are larger than they should be |
+| Kept horse | 60 L | Common | never tires; never dies; cannot leave Sallowreach | Sallowreach; smells; rots slowly |
+| Fen-punt | 20 L | Common | carries four over black water | Sallowreach; the pole finds things on the bottom |
+| Sal Trotter's "cattle" | 30 L a head | Uncommon | as an ox, if no one watches | they walk on two legs at night; do not name them |
+| Fatlands dray (eight oxen) | 900 L | Scarce | carries one Gut-line noble | Obb Tullow's rooted through |
+| Pier-trolley | 1 c a mile | Common | Lowmark's 19-mile pier | runs on rails, pushed by bailers |
+| Sand-sledge | 25 L | Uncommon | drags salvage over the Uncovered | Brinehollow; men pull it, roped, for the Calling |
+| Netwatch dog | 50 L | Uncommon | Threat 2; smells the Called | barks at Tenanted |
+| Vigil sedan (carried standing) | 2 L an hour | Common | you cannot sit; bearers sing to stay awake | |
+| Felt litter | 10 L a day | Common | eight bearers, silent | Oathen; for crossing posted gorges without a sound |
+| Wagon | 60 L | Common | | Company tolls double |
+| Company coach seat | 5 c a mile | Common | Rim Road only; with guard | stops at every inn |
+| Cradlewrack hill-goat | 15 L | Common | sure-footed | some are born talking |
+| Crumb-runner's handcart | 10 L | Common | 300 lb at night | spat on in Wanting |
+
+## Lodging on the Rim Road
+
+| Lodging | Cost | Avail. | What you get | Notes |
+| Ditch or hedge | free | Common | nothing | Orrum's tables appear at crossroads lately |
+| Common room floor | 3 c | Common | a fire, a floor | in Vigil inns, standing straps |
+| Company inn, shared room | 1 L | Common | a bed, a lock, a guard | in the Vigil, a strap and a nudger |
+| Company inn, private room | 4 L | Common | a bed, a bath, a meal | |
+| The Groaning Board | 3 L | the Fatlands Rim | a bed and five meals, by law | seats six hundred at one table; the meat unspecified |
+| Sleeping Sheds, Lampwick Halt | 1 L | the Vigil border | your last safe sleep for months | many lie awake all night anyway |
+| Rope room, Lowmark Spur | 1 L, and a crumb a knot | Brinehollow border | tied to the bed by a knot-tier | the knot-tier counts heads at dawn |
+| Brick-in room | 1 L | Cradlewrack | mortared shut at dusk | broken out at dawn, if you are still in it |
+| Anchor-inn | 1 L | Brinehollow | a bed with chains | the keeper counts heads each dawn |
+| Lastgate boarding house | 2 L | Sallowreach | a room with three generations of Kept | they are quiet; they listen |
+| The Long Farewell, back room | 5 L | Fogmouth | a bench to wait on, north of nothing | where Tam Ruddock's clients wait to cross |
+| Waking-house | 2 L | Vigil | a sloped floor and a nudger | sleeping is a crime |
+| Unfed bothy | none (decline thrice) | the Fast | four walls, no hearth | never if the hearth is lit |
+
+[box: The Inn at the Crossroads]
+In the last three years Company inn-keepers on the Rim have reported finding tables laid in their common rooms at dawn: a white cloth, warm bread, a chair pulled out, a place card. The Company's standing instruction is to burn the table and not read the card. Not all inn-keepers obey. A few have started renting the chair. The going rate at Saltlick Cross is a platter a night, paid in advance, and the renters are mostly Fatlands pilgrims who have been hungry every second of their lives. The inn-keepers do not say what happens to the renters. They do say that the chair is always empty in the morning, and the plate is always clean, and the bill is always settled.
+[/box]
+
+## Services
+
+| Service | Cost | Avail. | What you get | Notes |
+| A Closing | 4,000 L or a license | Rare | a licensed death in Sallowreach | Lady Corrow Vane's waiting list is years |
+| Unlicensed Closing | 1,500 L | Rare | a Hand-line touch, off the books | capital crime; Osric Vane offers it free |
+| Restitching | 3 L a limb | Common | a Kept part reattached | Thessaly Mort's guild rates |
+| Setting Aside | 40 L | Common | wrapped, labelled, shelved, read to | Bettany Shroud reads nightly |
+| Tucker minute | 90 L | Uncommon | sixty seconds of sleep, guarded | Old Nod's price; a month's wage |
+| Surety bond | 1 L in 10 of the oath | Uncommon | someone else's body backs your word | Ona Fell has one default left |
+| Clausewright drafting | 5 L a page | Common | an oath that survives reality | a marriage runs forty pages |
+| Price-witness | 1 c a word | Common | haggle at +2 without swearing | Oathen and Rim east |
+| Money-changing | 1 c in the lack | Common | coin weighed, bitten, changed | every Rim market; a crescent worn into the teeth |
+| Tablebreaker hire | a sack of grain a table | Uncommon | a table smashed before anyone sits | they refuse coin |
+| Crumb-running | 1 L per 10 lb | Uncommon | food carried into the Fast | Tarry Moss counts every bean |
+| Netwatch retrieval | 15 L | Common | a Called relative dragged home | alive, officially |
+| Rope funeral | 3 L | Common | a Brinehollow burial, priest and carving | the name on the tide-post is a crumb a letter |
+| Cutwright reading | 50 L | Uncommon | your Cut, your line, your prospects | the full ledger costs 500 L and a favour |
+| Midwife attendance | 12 L | Common | a lawful birth | the Two Questions; the knife included |
+| Slot-feeding | 1 c a day | Common | bread and water pushed to the bricked | Cradlewrack; the Debt Wall at Kest |
+| Jointer at a wake | 4 L a body | Common | your dead carved for the table | Fatlands; Hob Gristle charges 10 and is worth it |
+| Hill-Speaker | 6 L and the best cut | Uncommon | a Dowager consulted on family matters | Fatlands; trusted by no one; always right |
+| Reckoner contract | not sold | Scarce | a high-Cut line ended | Reckoners are informed, never paid |
+| Blank-poacher bounty | 300–2,000 L paid to you | Rare | the price of a Blank, alive | Kale Dragoman feeds them well |
+| Mother Gall's barrel | 500 L in advance | Scarce | a body pickled sound for a century | awake, all of it |
+| Dream-Diver hire | 200 L a dive | Scarce | someone goes to the long room for you | most manage three |
+| Wake-valet | 10–40 L a day | Uncommon | kept awake by artful pain | Tenterhook is an artist |
+| Eye-wetter | 5 L a day | Common | your lidless eyes kept wet | Vigil; they see everything you see |
+| Hob Gristle tasting | 5 L | Uncommon | what a cut of meat used to be, by name | he apologises to it |
+| Barrel restamping | 2 L a barrel | Uncommon | any origin you like, stamped over | Barrelside; the Union's crime, the Company's blind eye |
+| Ferry over the north border | 300 L | Scarce | your dying kept from death | Tam Ruddock never says what next |
+| Echo-Warden silencing | 30 L | Uncommon | an old oath hunted out of the rock | Halvar Stane |
+| Liar-for-hire | 3 L a lie, 10 L in court | Uncommon | a Forsworn says it for you | Oathen, the Breakdowns; their mouths are already broken |
+| Sheathmouth guide | 5 L a traveller | Uncommon | led through a posted gorge in silence | Oathen |
+| Oath release | a greater oath | Rare | free of a binding promise | Grandam Cess; you owe her worse |
+| Lead pockets at the Weighing | 200 L | Rare | +1 vote in the Fatlands | Garrick Tripe |
+| A named candle | 50 L | Uncommon | your dead rendered to light | Wick Tallow; it knows you |
+
+## The Trade in People
+
+> On the Table nobody owns a slave. It is not permitted. We own debts, and bonds, and bodies at interest, and the paper on which a man has sold himself in instalments. That is quite different, and it pays better.
+>> — Lysander Coyle, Auditor-General of the Company, in a private letter
+
+[sigil: rim]
+
+Every land on the Table forbids the sale of people, and every land does it. The Rim Road Company's charter forbids it within a bowshot of the road, and the Company's own law punishes the theft of cargo by making the thief cargo. The trade survives every prohibition because it never calls itself by its name. People are sold on the Table in three ways: **whole**, as Blanks, poached Unfed and debtors bound for the dusk shift; **in pieces**, as Blank organs, Kept limbs, Cradlewrack Parts and Surety-flesh; and **in futures**, as bonds, debts, naming-rights and carried oaths, which are promises that a body will be delivered later. Most of it passes along the Rim, because the Rim is where a person from one land can be sold to a buyer from another without either land's law noticing.
+
+[bigquote] They took my kidneys in Sated and my eyes in the Vigil and the rest of me went home to the Fast in a sack marked BONE: MIXED, and that is how I came to be in your purse. | — a Rim Road ghost story, told to children who bite coins
+
+### Blank Flesh
+
+Godsign does not live in Blank flesh. A kidney, liver, eye, stomach, length of gut or pint of blood taken from a Blank or one of the Unfed is, so far as any surgeon can tell, wholly clean, and sewn into a Godeater it is the one part of that body the god does not grow into, for a few months or a few years. The buyers are almost always High Cuts: Laden matriarchs who want to feel, for a season, what it is to be full; lidless Eye-lines who want eyes that close; Unvacated of Sallowreach who want to feel one heartbeat that is not Ossel's. Then the buyer's godsign grows into the new organ, as ivy grows into a wall, and in a few years they need another.
+
+The chain runs the same way every time. A **poacher** crosses into the Fast by night with nets and sedatives, or buys from a body-man like the gravedigger of the Lean House who sells the omitted still warm. The catch is **fed on the road**, generously, because the meat must arrive in condition; Kale Dragoman spoon-feeds his captives honey and warm milk and holds their heads. They are delivered to a **holding-house**, a hired place with no west windows in whatever city the surgeon is working, where they are weighed daily and kept alive between harvests, because organs taken from the living are better. The **surgeon**, most often Master Quillon Barr, takes what is ordered and closes what is left, if there is to be a second order. The **buyer** never sees the donor, and pays through intermediaries who never give a name.
+
+| Lot | Price | Where | Notes |
+| A living Unfed adult, poacher's price | 300–2,000 L | the Fast border, Gristmoot | by weight and health; children are not priced, and are taken |
+| A living Blank of another land | 2,000–10,000 L | anywhere, quietly | a Vigil Blank who could sleep is the dearest thing on the Table |
+| Blank blood, a pint | 150 L | Lastgate, Sated, the Vigil | slows the Regrowth for a season, or so the buyers believe |
+| Blank marrow-jelly, a pot | 80 L | the Vigil, Kest | a sleep-cure on the Lid; a contraceptive in the highlands |
+| A Blank kidney | 3,000 L | the Rim | the pair, delivered warm in Sated, about 6,000 L |
+| Blank eyes, the pair | 4,000 L | the Vigil | eyes that close; Lady Dalgety has bought three pairs of lids |
+| A Blank stomach | 5,000 L | Sated | for a season of fullness |
+| A Blank heart, beating in brine | 12,000 L and up | Lastgate | the buyers do not write the sum down |
+| Blank bone, cut as lacks | twenty times face | the Rim | proof someone was killed for their skeleton |
+
+[fiction]
+Page from the weight-book of a holding-house on Tallow Street, Sated, recovered by Dr. Mercy Thrane in Plenty 640 and entered in her ledger of names. The hand is a clerk's, neat and bored.
+No. 9. Man, about forty, Unfed, from Lammas Bottom. In at 7 st 2. Fed four times daily per instruction. Refused broth days 1 to 6; on day 7 accepted after the third asking and wept through the meal. Gaining. 9 st 10 at day 40. Right kidney taken day 41 (order: Marrable household, by the Carver's agent). Kept for second order. Asks every morning whether his wife is also here. Told no. (She is No. 4.)
+No. 4. Woman, about thirty-five, Unfed. In at 6 st 11. Has not eaten. Tube from day 9. Will not speak except to decline. Eyes reserved (order: the Lid; the lady's maid came to look at them and sat with her an hour and brushed her face). 6 st 9 at day 40. Surgeon says she will not hold to the order. Surgeon says take them now.
+No. 12. Boy. Not weighed. Collected day 2 by the poacher, who said he had made a mistake and the boy was not for sale, and paid back the price, and took him away on his own horse. Note for the house: the poacher is getting soft.
+No. 9 asked again this morning about his wife. Told no. Gaining.
+[/fiction]
+
+#### The Fourth Asking
+
+The Unfed decline every offer three times and accept on the fourth, and the poachers of the border have learned to use it. In the hungry Lack of 637, a widow of Lammas Bottom whose household had been struck from the Pantry list walked to the border at night, to the place where Kale Dragoman's men camp, and waited to be asked. They asked her three times whether she would come with them, and three times she said "No, thank you," and on the fourth asking she went, on the condition, sworn on nothing because the Unfed swear on nothing, that her price be paid to her children in grain. It was. Two sacks of good Fatlands wheat were left at her door in Lammas Bottom. Her kidneys went to a Laden matriarch in Sated, whose god grew into them inside three years. Her children ate the grain. It was Godeater grain, grown in Ummer's flesh, and the Abstinent, finding the sacks, struck the children's names from the list for eating what they had not carried in themselves, as the law requires. Mercy Thrane has the whole of it in her ledger. She has underlined nothing. She says none of it needs underlining.
+
+### Debt and the Bond
+
+Where there is no Blank to sell, the Table sells its poor, by the length of time they will work and the parts of themselves they will pledge. Every land has its own way of doing it, and every land's way is lawful.
+
+- **The Company Bond.** Coin-cutters, vat-men, porters and Bonded Hands swear to the Company in Oathen for twenty years, or for "as long as the wheel turns." The Bond binds the body anywhere; a bonded cutter who walks away from the Cure-House at Saltbridge breaks at the knees on the road. Theft of Company cargo is punished by being made cargo: the thief is entered on the manifest at the price of what they stole and shipped, by Company wagon, to whoever will buy the debt. The Company never says who buys. The manifests are sworn.
+- **The dusk shift.** In the Fatlands a debtor who cannot pay is read out on a Cullmaster's list in Carving, and walks the far field at dusk, and the debt is struck off "in full," up to two hundred lacks an evening. Those who come back are free. Gristmoot moneylenders write loans to foreigners at terms they know will end on a list.
+- **Impressment.** In Brinehollow, debtors who cannot pay the Pier Tithe are pressed into the Dry Fleet at a year for every hundred lacks, to stand watches on a ship that will not sail. Their families visit them on the props. The Gilt Mile's brokers buy their debts at a discount and sell their terms to the Raw Mile, where the pier-haulers die.
+- **Dead wages and the long debt.** In Sallowreach nobody dies, so nobody's debt dies either. A Kept cooper in Lastgate has been working off a thirty-eight-year debt to a moneylender who is also Kept, and will be for the rest of time. Kept debtors who cannot pay sell themselves by the limb, at auction, and go on working with what is left; a Kept auctioneer of Lastgate has been selling himself by the limb since a debt of 300 A.G., and the bidding is brisk.
+- **The Bed-Due.** In the Vigil the family of every Counted sleeper owes a lack a season for ever. Families who fall behind sell what they have, and when they have nothing they sell their children's waking hours as nudgers, by the bell, to the Slope's hiring-masters, who pay in tabs. A nudger who blinks on duty is not paid for that bell. A nudger who sleeps is delivered to the Dormitory steps, and the family is billed a new Bed-Due.
+- **Naming and the Companies.** In Cradlewrack the poor sell the naming-rights of children not yet born, and the Crown sells the contracts of the born-grown Foundling soldiers to whoever will hire a regiment, including the Company, which bought Warden-Captain Fallowmere's contract out of a Foundling Company before he was two years old. Paupers who cannot pay the Attendance's birth-fee pay it in laundry at the Coppers, or a year of slot-feeding at the Debt Wall.
+- **The list.** In the Fast nothing is sold, and so the trade is in the list itself. A name struck from the Pantry list is a household foreclosed. Families on the list sell their spare chits to Crumb-Runners for three lacks in the Lack season, and families off it buy them back at five, and both are spat upon.
+
+[pull] WANTED: BOYS, QUICK, FOR NUDGING. GOOD FEET. NO BLINKERS. FAMILIES PAID IN ADVANCE. | — hiring-master's board, Pinchbeck Steps, the Slope
+
+### Sureties: Bodies at Interest
+
+The Surety trade is the only trade in people on the Table that is licensed, honoured and taxed. A Surety swears, before another person's oath is made, "I stand for this word," and from then on, if the principal breaks, the Surety breaks in their place. Sureties are tattooed with the oaths they carry in fine brown script, so densely that the old ones look bruised from collarbone to ankle, and they are among the richest commoners in Oathen and almost all of them are ruins. A Surety in the trade for twenty years has paid on a dozen defaults and carries them all: the fingerless hand of a grain-merchant's default, the wired jaw of an envoy's lie, the hooked spine of a quartermaster's failed delivery.
+
+On the Rim the trade has a second market. Foreign merchants crossing Oathen hire Sureties at Mumchance to stand behind the conditional phrases they will certainly get wrong. Paper-brokers buy the fees of a Surety's future bonds in advance, at a discount, and so own a share in the Surety's body. And a principal who has knowingly defaulted on a Surety is called **sold**, and no Surety in the land will stand for them again; the sold drift west along the Rim, where their word means nothing and nobody can read the bruise-script on the people they broke.
+
+[fiction]
+Read off the skin of Bondling Arrah Dune, Surety, aged twenty-six, at the Surety House in Tacit, in the Lack of 640, by a clerk of the Compact, for the settling of her bonds after her death. The clerk read aloud, as the Compact requires, and a second clerk wrote. The cause of death is entered as "the weight of the work," which is the Compact's phrase, and which the clerk did not read aloud.
+Left forearm: For Bennick Osse, carter, that he will deliver forty bales to Mumchance by the first of Plenty. Kept. Below it: For Bennick Osse, that he will deliver sixty bales. Broken (the two smallest fingers of the left hand, taken in her sleep; she was paid two lacks).
+Right shoulder: For Liss and Paver Hume, their marriage, forty pages, summary only: fidelity, provision, the raising of children. Kept seven years. On the eighth, broken at the second article (ribs, three, cracked; she carried on).
+Belly: For an Oathen merchant whose name was cut out of the skin by a Clausewright's order, that he will feed his household through the Lack. Broken. (Here the second clerk notes: belly opened at the navel and closed by a surgeon; scar like a mouth.)
+Throat, under the jaw, very small: For her mother, that she would come home before dark. No fee. Kept every night for nine years. Kept on the last night also. The clerk notes that it is kept.
+[/fiction]
+
+### Behind the Stockyards
+
+After Last Bell at Gristmoot, when the lawful market has closed and the Company's toll-men have gone to supper, lamps are lit in the stockyards at the western end of the town and a second market opens in the pens. It is not on the Company's ledgers. It is a bowshot and a half from the road, which is to say just outside Company law, a distance measured every year by the auctioneer, Tobiah Nethercott, with a knotted rope. Its stock stands in the pens, washed and fed and wearing a numbered tag on a string. Its buyers stand on the rails and bid by raising a crumb-loaf. The lots are always adults, by the auctioneer's rule, which he states before every sale and which nobody has ever seen him break; it is the only rule he has, and he is very proud of it.
+
+What is sold behind the stockyards is never a person, by name. It is a debt, a bond, a manifest, a contract of service, a term of years, a pledge on a body, or "a lot." Sometimes it is a Blank, under a sack, sold as "the meat of a fasting animal." Sometimes a buyer from Lastgate bids on an Unfed for her heart, and a buyer from the Vigil bids against her for the eyes, and Nethercott, who is a fair man, sells the lot to both. Some buyers want company, of the adult and unspoken kind, and Nethercott does not ask what kind and neither does the lot. The crowd is quiet. The bidding is quick. Afterward, the buyers say the grace with the lots they have bought, because they are about to eat together on the road, and it would be the universal insult not to.
+
+| d10 | On the block tonight |
+| 1 | A Company manifest: a vat-man of Saltbridge who stole a platter's worth of tallow, sold at the price of the tallow. He is weeping, very quietly, and smells of marrow. |
+| 2 | The debt of a Fatlands drover, two hundred lacks, due on the dusk shift this Carving. Bought, it is the buyer's to call in, or to forgive. Nobody here forgives. |
+| 3 | A Foundling soldier's contract, nine years to run. He was born last spring, at thirty. He stands to attention in the pen and does not understand the bidding. |
+| 4 | "The meat of a fasting animal," under a sack. It declines, three times, every offer the auctioneer makes for it, in a woman's voice. |
+| 5 | A Vigil nudger, sold by her own hiring-master: nineteen, quick, pricked all over, three seasons of Bed-Due owed on her mother. She has been awake four days. She thinks the buyers are lamps. |
+| 6 | A sold principal of Oathen, the Surety who broke for him standing at the rail to watch. She bids against everyone. She cannot afford him. She does not stop. |
+| 7 | A Brinehollow man, Tenanted, sold by his own wife. He is courteous to every bidder and thanks the buyer by name. He has never been told the buyer's name. |
+| 8 | A Kept man's arms, the right and the left, sold separately, shipped down from Lastgate in a cask of brine to settle his debt. South of the Drop they should have finished. They are still lively, and in the cask they hold hands. |
+| 9 | A naming-right, from Kest: a healthy birth expected next pang. The seller is the mother. She is not pregnant. She will be by the pang. |
+| 10 | An Unfed man, plump, healthy, nine years in a holding-house, sold on by a surgeon who is leaving the country. He has begun to enjoy his meals. He asks the crowd whether his wife is here. |
+
+[box: Running the Trade in People]
+The trade in people is the Rim's deepest horror because it is ordinary: everyone in it is polite, paid, and following a law. Run it as tragedy, never spectacle. Stay with the buyer's ease, the lot's manners, the family at home, the arithmetic.
+**Dread.** Watching a sale behind the stockyards is Dread 2. Watching a lot you know being sold, or seeing a holding-house, is Dread 3. Taking part in a sale, as buyer, seller or witness, is a Dread 3 check the first time; on a failure, the Fray gained is marked as **complicity**, and the next time the character sees the lot, or anyone like them, the Carver may call for a Dread 1 check that cannot be passed with a Grace.
+**Buying a debt.** A Guest may buy anyone's debt, bond or term behind the stockyards at the debt's face value, Haggled as usual. They may then forgive it, which ends it, or call it, which hands the debtor to the dusk shift, the Dry Fleet, the Bed-Due or the Company's wagons. A forgiven debtor is free, and hated by everyone who could have bought them.
+**Being sold.** A Guest who defaults on a Company debt, is made cargo, or is caught on the wrong side of a poacher's net, is a lot. Their price is listed above. Their way out is an adventure.
+**Children.** Children are caught in every part of this trade, as nudgers, as Blanks, as names not yet given. Keep their suffering off the block and out of the operating room: show it through the adults who sold them, carry them, miss them and come for them.
+[/box]
