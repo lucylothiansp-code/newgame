@@ -64,7 +64,7 @@ And it smiled, my darling, and asked for no more.
 
 **The tune.** A slow, rocking triple time, the beat falling on the dip of the pole, in a minor mode that sits low in the throat and never quite resolves: every verse ends a step above the note it began on, so that the song seems to climb without going anywhere. The verses are sung by one voice, usually the eldest in the boat; the whole boat joins on *and it smiled, my darling*, which is sung softly, almost spoken, with a smile, because it is bad luck not to. The seventh verse is hummed by everyone, mouths shut, on the same climbing figure, and it does not end. In Sallowreach nothing ends. The hum goes on until the singer is interrupted, or hands it on.
 
-**History.** The first two verses are older than the Stitching Laws and are almost certainly older than the Glad Century: they describe the Meal, the nine days of carving Ossel on the mere, the Hands divided between the great houses, and the face boiled by the far-fen Scraplings. The third verse remembers the First Morning, when the hanged thief at the Lastgate landing asked to be cut down. The fourth and fifth are Keeping verses, sung by the poor, and the sixth is the newest: it names the red line at Fogmouth called the Drop, painted after 400 A.G., across which the living may go and the Kept may not. Each generation has added a verse and none has added an ending.
+**History.** The first two verses are older than the Stitching Laws and are almost certainly older than the Glad Century: they describe the Meal, the nine days of carving Ossel on the mere, the Hands divided between the great houses, and the face boiled by the far-fen Scraplings. The third verse remembers the First Morning, when the hanged thief at the Lastgate landing asked to be cut down. The fourth and fifth are Keeping verses, sung by the poor, and the sixth is the newest: it names the red line at Fogmouth called the Drop, renewed every Grace, across which the living may go and the Kept may not. Each generation has added a verse and none has added an ending.
 
 Eel-catchers pass the hum from boat to boat across the mere at dusk, like a coal carried in a pot. Among the ferry families of the Sump it is said that one hum has been passed hand to hand since the First Morning and never once let fall, and that Tam Ruddock, the Lastgate Ferryman, is carrying it now: he hums it under his breath while he poles the dying of other lands across the border, and he has not stopped since his father put it in his mouth forty years ago. Grandfather Peat, the bog body from the Sump, does not hum the seventh verse when he is sung the Ferrying Song. He sings it, in his dead dialect, to a different figure with eight notes in it instead of seven, and the Seamers who have heard it say only that it is shorter than the others, and sounds like it is asking someone to sit down.
 
@@ -595,7 +595,7 @@ and if she weeps, don't give her back.
 
 **History.** The shanty is as old as the Netwatch, which was founded after the First Calling of 118 A.G., when four hundred walked into the sea at Lowmark and eleven came back. It was adapted from a hauling tune of the old fishing fleets, before the sea left; the old verses were about bringing in a catch, and the Netwatch changed *it* to *him* and *her*. The last line, *and if she weeps, don't give her back*, is the Netwatch's whole doctrine in seven words. Lieutenant Sable Reef, who has pulled three hundred Called off the shore with hook and rope, sings it as well as anyone in the service. Her patrol has noticed that she has started to leave off the last line.
 
-**At the Table.** A patrol singing Hook Him Gentle together gains **+2 to resist the pull** (as a Caul + Resolve check against the Calling) for the night, and **+2 to Stealth** when approaching a Called sleepwalker, who will not turn until the rope is on. A Called person who hears the shanty sung close to them hesitates: the Carver gives the hookers one free action before the first opposed roll. The last line is optional. A Guest who leaves it off, as Sable Reef does, and lets a weeping Called person go, saves the Pall of a household from nothing and adds 1 Fray to their own; a Guest who sings it and keeps the rope tight adds the same Fray, and the household's thanks.
+**At the Table.** A patrol singing Hook Him Gentle together gains **+2 to resist the pull** (as a Caul + Resolve check against the Calling) for the night, and **+2 to Stealth** when approaching a Called sleepwalker, who will not turn until the rope is on. A Called person who hears the shanty sung close to them hesitates: the Carver gives the hookers one free action before the first opposed roll. The last line is optional. A Guest who leaves it off, as Sable Reef does, and lets a weeping Called person walk on into the dark, gains 1 Fray, and the household's Pall rises by 2 as for a loss to the Pull; a Guest who sings it and keeps the rope tight on someone begging to be let go gains the same 1 Fray, and the household's thanks, and must live with both.
 
 ## May Your Door Stand Open: a Highland Curse
 
@@ -1257,3 +1257,236 @@ Each line below gives the text as it is scratched, where it is found, and what i
 - **Three knocks, cut as three short notches, then a door drawn ajar.** *On milestones from Knocking Gate north to the Weeping Post.* A highland warning: something has been born on the road near here, and was not answered by a midwife, and is walking. The more ajar the door is drawn, the bigger it has grown.
 - **"Mam, I'm sorry. I did it on the Rim so it wouldn't hold."** *Scratched on the wall of a privy at Knocking Gate, dated 633.* Petra Quick runs expectant mothers across the Rim so they can deliver somewhere the rule does not hold. She has found that it holds: the country goes with them. This line was written by one of hers. Underneath, in another hand, months later: *It held.*
 - **"8."** *Scratched on the Hem itself, the knee-high wall facing the Fast, at intervals the length of the ring, by no one anybody has seen.* There is one every hundred miles or so, all the way round, in the same size and the same depth, in stone that the Company says has not been recut since it was laid. The Company's crews grind them out every year. They do not come back. They are simply found again, a little way along. Rim folk do not discuss them, and step over the Hem, when they must, a little way from the nearest one.
+
+## Bedtime Stories of the Seven Lands
+
+> Tell me the one about the hand again. No, the real one. No, the one where it gets in.
+>> — a child of Kest, at bedtime
+
+Every land tells its children stories at night, even the Vigil, where night is a lamp-lit stretch of the same long day and the stories are told to keep the child awake rather than to send it off. The seven stories below are the commonest of each land, as a parent tells them at the bedside, word for word as they were taken down by a College clerk making a survey of nursery-lore in 630 and 631. After each is the true event the story grew from, as the College's own ledgers record it. Parents do not tell that part. Most of them do not know it. Some of them do, and tell the story anyway, because a story is the only safe way to tell a child what happened.
+
+Each story ends with a short note for the Carver: what happens when a Guest tells it, or hears it, at the table.
+
+### Granny Wick and the Fly King
+
+[sigil: sallowreach]
+
+[fiction]
+*As told in the Sinks of Lastgate, by a mother to two children in a shared cot, with the shutters latched and a smudge-pot going on the sill.*
+Once upon a time, in a tall thin house on the Sinks, there lived a Granny called Granny Wick, who had been Kept for two hundred years, and she was the oldest thing in the house, older than the stairs. She was very tidy. Her stitches were black and small, and her jaw was wired with silver wire, and in Restitching Week the Seamers came and sewed her up as neat as a parcel, and she smelled of cedar for a fortnight, and then she smelled of Granny.
+Granny Wick sat in the window, in the big chair, with her mittens on, and she told the children stories, and she never once complained. Not once. Only, every night, when the children kissed her, she would say, very quietly, *open the shutter for me, my lamb. Just a crack. Just tonight.*
+And the children would say, *no, Granny, it's the Shutter Days, the flies are out*, and they would latch it tight, and kiss her, and go to bed. And Granny Wick would say, *never mind, my lamb. May you finish.*
+Now, outside the shutter, in the Shutter Days, there lived the Fly King. He was very tall and very thin and he had a coat made of a thousand thousand wings, all humming, and a crown of bluebottles, and he was terribly polite. He had been courting Granny Wick for a hundred years. Every Plenty he came and stood outside her window in the warm dark and hummed to her, and she hummed back, and the children never heard.
+One night the littlest one, whose name was Moss, could not sleep, and she came down the stairs and found Granny Wick crying. Kept people cannot cry, because their eyes have gone dry, so it was only the shape of crying, but Moss knew it.
+*What's the matter, Granny?*
+*Oh, my lamb,* said Granny Wick. *I am so very tired of the stairs. And the Fly King has asked me to dance, and I've no shutter to dance through.*
+And Moss loved her Granny very much. So she climbed up on the sill, and she unlatched the shutter, just a crack, just that night.
+In came the Fly King, humming, in his coat of a thousand thousand wings. He bowed to Granny Wick, very low, and he bowed to Moss, and he said, *thank you, little one. You have a kind heart.* And he held out his hand, and Granny Wick took off one mitten, and put her grey hand in his.
+And they danced. They danced round the kitchen and up the stairs and down again, and every time they turned, a little bit of Granny Wick went away on a wing, a crumb, a thread, a stitch, carried off by one of the Fly King's thousand thousand courtiers, and Granny Wick laughed and laughed, and she got lighter and lighter, and smaller and smaller, until at the last she was as light as a moth, and the Fly King lifted her up, and they went out of the window together into the warm dark, humming.
+In the morning there was nobody in the big chair. There were only two mittens, one on the cushion and one on the floor. And Mam cried and cried, and the Court came and fined the house a whole lack, and Moss was sent to bed without supper.
+But that night, when Moss lay in bed, she heard a humming at the shutter. And it was not one voice, it was a thousand thousand voices, very small, and every one of them was Granny Wick's, and every one of them was saying, *thank you, my lamb. Thank you. Thank you.* Because in the fen nothing ends, not even a Granny; she had only gone very small, and very many, and very far.
+So that is why, my darlings, you must never, ever swat a fly in Plenty. Because it might be Granny. And that is why you latch the shutter tight in the Shutter Days, and kiss your Kept goodnight, and never, ever open it, however nicely they ask. Because the Fly King is still out there, in his coat of wings, and he is very polite, and he is courting all of them.
+Now go to sleep. No, leave the smudge-pot. Leave it. Goodnight.
+[/fiction]
+
+#### The True Event
+
+In the Shutter Days of 487 A.G., in a tenement on Clench Row in the Sinks, a Kept woman named Ottilie Wrayburn, two hundred and eleven years upright, persuaded her great-great-great-granddaughter, a girl of eight called Mossy Wrayburn, to unlatch the shutter of her room for one night. A Black Noon was moving through the Sinks. The family found Ottilie in the morning stripped by the swarm to wire, lacquer and bone, and wholly aware: the Seamers' report records that the flies had taken everything soft, and laid in what they did not take, and that she spoke throughout the restitching, saying only *thank you*. The Mortuary Court fined the household one lack for an *unlicensed attempt at finishing*, and passed the Shutter Ordinance of 488, under which shutters in the Shutter Days are latched from the outside by the parish. What was left of Ottilie Wrayburn was Set Aside in the Lofts in 489. Old Bettany Shroud's night-book records that she still says *thank you* whenever a fly lands on her shelf, and that lately, like all the others, she has begun to whisper something else. Mossy Wrayburn lived to be ninety-one, and was Kept, and asked every one of her own descendants, every Shutter Day for a century, to open the shutter, and nobody ever did.
+
+**At the Table.** A Sallowreacher Guest who hears this story told by a Kept relative, and understands what is being asked, faces **Dread 2**. A Guest who opens a shutter for a Kept person who asks, in the Shutter Days, may give that person the nearest thing to a Closing the poor can have: the Black Noon finishes nothing, but the Kept who go out with the flies are, the fen believes, dancing. It costs the Guest 2 Fray and the household's good name.
+
+### The Boy Who Wanted to Be Full
+
+[sigil: fatlands]
+
+[fiction]
+*As told in Low Tilth, by a father to a boy of six, between the fourth and fifth meals of the day, with a heel of toothed-wheat bread in the boy's fist.*
+Once there was a boy called Ned Dumpling, and he was the hungriest boy in all the south. He ate his five meals and he ate his mam's five meals, and he ate the crusts off the board and the dripping out of the pan and the candle-ends out of the chapel, and still his belly said *more, Ned, more*.
+So one morning Ned Dumpling put on his boots and went out to find somebody who could tell him how to be full.
+First he went to the Miller. The Miller was as wide as his own millstone, and he was eating bread made of his own flour, with the teeth still in. *Miller, Miller,* said Ned, *how do I get full?* And the Miller laughed so hard his chair cracked, and said, *Full? Nobody's full, boy. There's no such word.* And he gave Ned a loaf, and Ned ate it on the road, and he was just as hungry.
+Then he went to the Bailiff. The Bailiff had a funnel and a ladle and a kind soft face. *Bailiff, Bailiff,* said Ned, *how do I get full?* And the Bailiff patted his head and said, *Full is against the law, lad. It'd mean you could stop.* And he poured Ned a ladle of gravy, and Ned drank it, and he was just as hungry.
+Then he went to Old Mother Mound, who was a hill at the end of the lane, a little green hill with an apple tree on top of her and a mouth in her side. *Mother Mound, Mother Mound,* said Ned, *how do I get full?* And Old Mother Mound opened her mouth very wide, and Ned could see down and down and down into the warm dark, and she said, in a voice like soil settling, *I've been asking that for forty years, poppet. When you find out, come and tell me.*
+And Ned Dumpling sat down on the side of the lane and cried, because he was so hungry, and nobody in the whole south knew how to be full.
+Now, in the far field, the one past the last hedge, there stood a Scarecrow. Nobody had put it there. It had a hat and a coat and a face made of a sack, and it stood with its back to the village, and every Carving it was a little nearer. And the Scarecrow heard Ned crying, and it turned round, very slowly, which scarecrows are not supposed to do, and it said:
+*Ned Dumpling. I know where it is.*
+*Where what is?* said Ned.
+*The pudding,* said the Scarecrow. *The great pudding, at the bottom of the furrow. Everyone who eats it is full forever. Come at dusk, and I'll show you.*
+So Ned Dumpling went home and ate his fifth meal, and when the sun went down red over the fields, and his mam was busy at the copper, he slipped out of the back door, and over the last hedge, and into the far field, where the Scarecrow was waiting.
+*Lie down in the furrow,* said the Scarecrow, *and close your eyes, and open your mouth.*
+And Ned lay down in the warm brown furrow, and the field was soft as a feather bed, and it went up and down under him, slow, like breathing. And he closed his eyes, and he opened his mouth. And the furrow folded over him like a blanket, the way your mam tucks you in, all warm and heavy and sweet.
+And for the first time in his whole life, Ned Dumpling was full.
+In the morning they looked for him, and they didn't find him. But the next Grace, the wheat in the far field came up taller and sweeter than any wheat in the south, gold to the ear, with little white teeth all smiling in rows. And Ned's mam cut it, and milled it, and baked a loaf, and when she ate it she wasn't hungry for a whole hour. A whole hour! Nobody in the south had ever heard of such a thing. She sat by the window for the whole hour, very still, with her hands in her lap, and she said it was the best hour of her life.
+So that is the story of Ned Dumpling, who found out how to be full.
+And that is why, my lad, you come in by dusk. Every night. However the Scarecrow asks. Unless you want to be full.
+Do you want to be full?
+No. Good lad. Eat your bread.
+[/fiction]
+
+#### The True Event
+
+The story is told across the plains, but the College traces it to the parish orphan-house at Furrowby, in Low Tilth, in the bad Carving of 517 A.G., when the Feasting Laws' fines for under-feeding fell on houses whether or not they had food to give. The matron, Dorcas Breadwell, could not feed her forty-one charges five meals a day and was fined twice in a month. On the third occasion she sent the hungriest boys out to glean the far field at dusk, telling them this story, which she claimed afterward to have invented to give them heart. Eleven did not come back. The far field yielded that next Grace at a rate the Board's assessors called *unexampled*, and an assessor named Varn Sweetbread the Elder, grandfather of the present Cullmaster, wrote a memorandum on the coincidence of yield and absence which the Board filed under *agriculture*. The office of the Cullmasters was established in 519. The orphan-house at Furrowby was fined again the following Carving, for under-feeding, and closed. Its far field is still the best in the parish. The eleven gave the Board its policy and saved their house nothing.
+
+**At the Table.** A Fatlander Guest of the Appetite or deeper who hears this story told at dusk must make a **Caul + Resolve** check (Hard 14) or go to the window and look toward the far fields until someone speaks their name. A Guest who repeats it to a Cullmaster's man and mentions Furrowby will find that the man knows the name, and the year, and is very interested in who taught the Guest both.
+
+### The Girl Who Held the Rope
+
+[sigil: brinehollow]
+
+[fiction]
+*As told in the Mile, by a grandmother to a girl of seven, while tying the girl's anchoring-rope to the bed for the night; the knots are tied as the story goes.*
+Once, in the hungry time, before the sea went away, there was a girl called Jenny Rope, and she was going to be married to a boy called Orry, the handsomest boy on the whole coast, who could swim like a seal and sing like a kettle.
+Now the Fathom was lying off the beach, big as a hill and grey as a slate, and it wouldn't come in to be eaten, no matter how the people pulled. And the Sounders came up out of the water with their ears all bleeding and said: *the Fathom wants a keepsake. Seven of your best, your youngest, your promised. Send them out on the ropes.* And one of the seven they chose was Orry.
+So on the night before, Jenny Rope took a piece of hemp, so, and she tied it round Orry's wrist, so, in a lover's knot, like this one, see, over and under and through and back, and she held the other end in her own two hands. And she said, *Orry, I'm holding the end. You go where you have to go. But I am holding the end.*
+And Orry kissed her and walked out on the hook-line into the dark water, hand over hand, singing, and went in under the Fathom's great grey side, into a door that opened for him, and he was gone.
+And Jenny Rope stood on the shingle and held the end.
+All night the haulers pulled, and the song went *haul and hold, haul and hold*, and the water came pouring out of the Fathom, and people fell down and were laid out on the stones. And Jenny Rope held the end. Her hands bled. Her feet froze. Her mam came and said *let go, Jenny, he's gone*, and Jenny Rope said *I'm holding the end*.
+And at the turn of the tide, when it was darkest, she felt the rope go tug. Tug, tug. Just like that.
+So Jenny Rope went in after him.
+She went hand over hand along the rope, into the water, under the grey side, through the door that opened, and inside the Fathom it was dark and cold and silver, and there were rooms, great soft rooms like the inside of a shell, and the water was up to her knees, and she could hear singing a long way in. And she held the rope, and followed it, room after room, deeper and deeper, in the dark, until she came to the end of the rope.
+And there was Orry, at the end of the rope, sitting in the silver dark, with his wedding shirt on, and he looked up and smiled at her.
+*You came,* he said.
+*I was holding the end,* said Jenny Rope.
+And she took his hand, the one with the knot on it, and she led him back, room after room, along the rope, out through the door, up through the water, onto the shingle, just as the sun came up. And the Fathom came in on the tide, and the people ate, and the hungry time was over. And Jenny Rope and Orry were married on the beach, with the knot still tied, and they never untied it, not ever, not even when they were old.
+And that's why, my duck, at every wedding on the coast, they tie the lover's knot. And that's why we tie you to your bed at night, over and under and through and back, by somebody who loves you. So that if you go walking in the night, out to the water, there's somebody holding the end.
+There. That's the last knot. Who's holding the end?
+That's right. Gran is.
+[/fiction]
+
+#### The True Event
+
+Orry Weir was one of the seven Hook-Brides of the Beaching, given by the north-shore village of Weirholm and tied to a hook-line at the wrist with a lover's knot. The chronicles of the Lung-lines record that his betrothed, a girl of nineteen whose name they do not give, followed the line in after him during the night, hand over hand, into the god's gill-openings. She was found at dawn among the founders of the Lung-lines, in the flooded chambers of Dromm's lungs, where they had spent the night eating raw in the dark, by touch, with the water to their knees. She was carried out half-drowned with Ondric Vasht and the rest. In her hand was Orry's wrist-knot, still tied, and nothing else of him was ever found. The Vasht chronicle's struck sentence says that *the lights were full of sweetmeats*, and that every one of those who went in ate in the dark and blessed the god for its provision. She lived to be seventy-eight. She bailed more than a gallon at every dawn and dusk of her life, more than any Scrapling on the coast, and the Debt chapels say she was bailing Orry. She never married. The knot is in the Admiralty's Sounding Hall in a case, labelled *a relic of the Brides*. The Weirholm story calls her Jenny Rope. Her own family called her nothing at all, afterward.
+
+**At the Table.** Telling this story while tying a sleeper's anchoring-rope gives the sleeper **+2** against the pull that night. A Guest who has read the Vasht chronicle, or Abiah Steep's letter, and then hears the story told to a child, faces **Dread 2**, and must decide whether to say anything.
+
+### Count the Sheep, Bryony
+
+[sigil: vigil]
+
+[fiction]
+*As told on the Slope, by a hired nudger of fourteen to a girl of five, sitting up on the sloped floor of a tenement at the twenty-second bell, with a pin in the nudger's hand.*
+Eyes open. Eyes open, Bryony. That's it. I'll tell you the one about the sheep, and you keep your eyes on me the whole time, and if they shut I'll pin you, and you'll say thank you. Ready?
+Once, in the soft old days, before the lamps, there was a girl called Bryony, the same as you, and she was a shepherd's girl up on the plateau, and she had a hundred sheep. White ones. Fat ones. And every night her da said to her, *Bryony, count them in.* So she stood at the gate of the pen, and the sheep came over the hill, and one by one they jumped over the gate into the pen, and she counted. One, two, three. All the way to a hundred. And then she shut the gate and went to bed, and slept like a stone.
+Eyes open.
+Then one year the bad thing happened, the First Night, and her da lay down and didn't get up, and her mam lay down and didn't get up, and Bryony was all alone with the sheep. And she was so tired. You know the tired. Like a hand on top of your head, pushing.
+So she went out to count the sheep in, because her da always said to. And the sheep came over the hill, white and fat, and jumped the gate, one, two, three. And when she got to a hundred, there was another one. A hundred and one. And another. A hundred and two. And they kept coming, white and soft and woolly, jumping the gate, and she counted and counted, because her da said to, and her eyes went heavy, and heavier.
+And she looked into the pen.
+And the pen was very long. Longer than a pen should be. Long and dim, like a room, with lamps burning low along the walls. And all the sheep were lying down in it, in rows, in the warm, breathing all together, in and out. And at the far end of the pen there was a shepherd.
+He was very big. Bigger than the hill. And he was sitting in the dark at the end, with his hands on his knees, and he had one great eye in the middle of his face, and it was shut.
+Eyes open, Bryony.
+And the shepherd said, in a voice like a pillow, *Keep counting, little one. When the pen is full, I'll open my eye, and look at all my sheep, and then we'll all go home.*
+And Bryony was so tired. And the sheep were so soft. And she wanted to see the shepherd open his eye. So she kept counting. A thousand. Ten thousand. Fifty thousand. Sixty thousand, nearly. And every sheep that jumped the gate lay down in a row and went to sleep, breathing in and out with all the others.
+And the shepherd's eyelid fluttered. Just a little. Like a moth.
+And Bryony, the clever girl, the brave girl, she took her da's shearing-pin out of her pocket, and she stuck it in her own thumb, hard, like this.
+Yes, like that. Say thank you.
+And she woke up. And she was standing at the gate of the pen, in the grey morning, and the pen was empty, and there was nobody at the end of it, and her thumb was bleeding. And she knew the number. The number of sheep. She'd counted them all, right to the edge. And she ran all the way to the city, to the people with lamps, and she told them.
+And the lamp-people said thank you, Bryony. And they gave her a lovely bed.
+Eyes open.
+So that's why we never count sheep, not in your head, not ever. Because they jump into the long pen, and the long pen is nearly full. And if you have to count, you count them out. Out, Bryony. Over the gate and away. Sixty, fifty-nine, fifty-eight. Out of the pen. Never in.
+That's it. Count them out. I'll pin you at the bell.
+[/fiction]
+
+#### The True Event
+
+In 401 A.G. a Dream-Diver of the Watch named Bryony Lisle went under on the tether, and was dragged up after a dive of nineteen minutes, longer than anyone had lived through, and said she had the number: the count of sleepers at which the eye in the long room opens. The Watch had her say it once, to three officials, in a sealed room on the Nodding Stair. One of them wrote it down. One was charged to remember it. One, the Matron of the Dormitory, took it in her head back to the beds, and it has passed from Matron to Matron ever since. Bryony Lisle was then given warm milk and a bed, and her bed was added to the count, so that she could never be made to say it again to anyone else. She is Bed 8,012. The official who wrote it down burned the paper the same evening and walked through the Pillow fence before the morning bell. The other went mad by the Seeming within the year, and spent the rest of his life counting aloud, backward, in the Glass House. The Slope's nursery story began within a generation. The hired nudgers tell it best, because they have to keep the child awake to the end of it.
+
+**At the Table.** In the Vigil, telling this story to a Weary listener and having them *count the sheep out* backward from sixty, aloud, removes **1 Weariness** from the listener, once a day, as a nudger's pin would; it is a technique the Slope's nudgers swear by. Counting them *in*, aloud, past sixty, is a scene of comfort (+1 Weariness) for everyone listening. A Guest who reaches Bed 8,012 in the Dormitory and looks at Bryony Lisle's lips will find them moving, very slightly, in a count. It is not going up.
+
+### The Little Hand That Knocked
+
+[sigil: cradlewrack]
+
+[fiction]
+*As told in Kest, by a mother to two children in a bricked room, after the night-mason has laid the last course and before the candle is out.*
+There. That's the last brick, and nothing can get in, and you're both in, and I'm in, and the rest is out. Snug as stones. Now, which one? The hand? Again?
+All right. Once upon a time, high in the red hills, a woman lay down to bear, and the midwife came with her basin and her apron, and asked the first question. *What is it?* And what came out was a hand. Only a hand. A little one, a left one, warm and pink and wriggling, and all its fingernails perfect.
+And the midwife asked the second question, very quietly, and the mother said, *let it stay.* So it stayed.
+The little hand was a good hand. It could knit, and it could scratch backs, and it could pat a cheek. But it was lonely. Because everyone else in the house had a body, and the little hand had only itself. So one night, when the pang had passed and the doors were all drifting open, the little hand climbed down off the cot and went out of the open door to look for the rest of itself.
+It walked on its fingers, tip-tap, tip-tap, down the lane, and it came to the first house, and it knocked. Low down on the door, right at the bottom, where a hand would knock if it had no arm. *Knock.*
+And a voice said, *who's there?*
+*A hand,* said the little hand. *Have you got the rest of me?*
+And the voice said, *not here,* and knocked back once. *Knock.* And the little hand went on.
+It went to every house in Kest. Tip-tap. *Knock.* *Not here.* *Knock.* Only once, in a house at the bottom of the town, a woman opened the door, because she thought it was her own little one come home. And the hand looked up at her, and she looked down at it, and she said, *you're not mine.* And the hand said, *no. But you've got two,* and it took hold of her finger, very gently, and it would not let go, and in the morning the woman's left hand was gone from the wrist, as neat as a midwife's knot, and the little hand had a friend. So the little hand went on with its friend. And it went out of Kest, and up the hills, and down the ravines, all through the highlands, knocking, knocking. And in one house it found a foot, all alone, that had been born just like the hand; and the foot said, *I'm looking too*, and they went on together. And in another house they found an ear, and in another a length of back that crawled, and in another a whole arm with no hand on the end of it, and the arm and the hand looked at each other, and they *fit*.
+Click. Like a key.
+And they all went on together, a bigger and bigger thing, knocking on doors, looking for the rest. And it's out there still, my darlings. Walking through the highlands at night. Getting bigger. Every pang it finds a little more of itself.
+So if ever you hear a knock in the night, low down on the door, right at the bottom, where a hand would knock, you mustn't open it. You mustn't. You knock back, once, like this, *knock*, and you say, nice and clear, *not here.* And it'll go on to the next house.
+And one day, when it's found every bit of itself, all its hands and all its feet and its ears and its back and its mouth, it won't knock on houses any more. It'll go up to the big round hole in the middle of the hills, and kneel down at the edge, and it'll knock on that.
+And then we'll see what answers.
+Now. Candle out. What do we say if we hear a knock?
+That's right. *Not here.*
+Goodnight. The brick's sound. Nothing gets in.
+[/fiction]
+
+#### The True Event
+
+In 500 A.G. a midwife of the Attendance at Mortar Rise named Wenna Clay was keeping, in a lined basket under her bed, two Parts she had been ordered to give the Second Opinion and had not: a warm left forearm born to a tanner's widow in Rudge, and a hand, a left one, born to a shepherd's daughter of Tarnbrow thirty miles away. One night in Carving she found them in the basket joined at the wrist, the skin knitted without a seam. She took the joined thing to the Lying-In, where the Attendance's surgeons established over the following month that Parts from unrelated families fit each other, everywhere, exactly; this is the event called the Gathering of Parts. The joined arm was kept at the Lying-In under glass. It knocked on the glass, softly, at the height of a door's lowest panel, at every pang until 612, when it was stolen, and the Assemblers have never admitted to taking it. Wenna Clay was given the Going Back for disobedience. Dov Marrin's assembled figure in the Assemblers' Barn has a left arm whose hand is missing at the wrist, and the Barn's keepers report that on pang nights the stump taps, very gently, on the boards.
+
+**At the Table.** In Cradlewrack, a Guest who answers a low knock in the night with one knock and *not here* is left alone: no roll. A Guest who opens the door, or answers *who's there?*, faces whatever the Carver has been saving. A Guest who knows where Hester Lowe keeps the hand she bore, and tells this story near her, will make an enemy who has promised to kill anyone who comes for it.
+
+### The Boy Who Promised the Plate
+
+[sigil: oathen]
+
+[fiction]
+*As told in Tacit, in writing, on a slate, by a father to a bitted boy of nine; the father writes a line, the boy reads it and wipes it, and the father writes the next. Copied by the College clerk from the slates before they were wiped, with the father's leave, if able.*
+Once there was a boy called Ash who lived high on the Sunward Wall, and he had a little sister called Wren, and he loved her more than figs.
+In the year of this story, children did not wear the bit. Their mouths were free. They could say anything. Imagine it. It was a frightening time.
+One Lack, Wren took the fever. She lay in her cot and burned, and she would not eat, not bread, not figs, not honey. And Ash sat by her and said, *what would you eat, Wren? Anything. Tell me.*
+And Wren looked out of the window at the Plate, which was full that night and white and round over the canyon, and she said, *I would eat that.*
+And Ash said, *I promise I will bring you the Plate to eat.*
+You know what happened then. The god inside him heard. What it heard was so.
+That night, nothing. The next night, Ash's little finger cracked, like a twig, because the Plate was in the sky and not in Wren's cot. The night after that, the next finger. Every night he did not keep his promise, another bone in him went, a little at a time, as the god counted.
+His mother held a lamp up to the window and said, *there, Wren, there's the Plate*, and the god did not believe her. His father baked a round white loaf and set it in the cot, and the god did not believe him either. The lawyers of the street came and stood about the cot in a row, and drafted, and argued, and went home, and in the night another bone went. Ash did not cry out. He had promised enough.
+So Ash climbed. He climbed to the top of the Sunward Wall, where the canyon ends and the sky starts, and he stretched up his hands to the Plate, and it was very far, and his fingers were broken. And he sat down on the top of the world and he wept, and the canyon wept back at him, over and over, because canyons repeat everything.
+And up there, on the rim, there was an old woman sitting on a stone. She was a Clausewright, the oldest one there ever was, so old that she had used up all her words but a very few, and she was saving those.
+She looked at Ash's fingers. She looked at the Plate. And she spent four of her words on him. She said:
+*Bring her the Plate.*
+And she handed him a bowl. A plain clay bowl. And she poured into it water from her own flask, and set it down on the stone in front of him, and Ash looked down.
+And there, in the bowl, round and white and full, was the Plate.
+So Ash carried the bowl down. All the way down the Sunward Wall, a thousand steps, with his broken fingers, without spilling a drop, and the Plate lay in the water the whole way, and it did not go out. And he set it down on Wren's cot, and he said, *I brought you the Plate.* And the god inside him listened, and it heard, and it was so: he had brought the Plate. And it let him go.
+And Wren sat up, and she drank the Plate out of the bowl, all of it, in one long drink, cold and white and sweet. And her fever went out of her like a lamp. And in the morning she was well, and Ash's fingers were mended, every one.
+So: remember. A word is a bone. Say less. But if you must promise, think first, and promise something you can carry down the stairs.
+Now wipe the slate. That is the end. If able.
+[/fiction]
+
+#### The True Event
+
+In Lack of 214 A.G., a boy of eleven in Tacit named Ashe Varro, unbitted, as all children then were, promised his sister Wrenna, who was dying of the canyon fever, that he would bring her the moon. There was no Clausewright on the rim. Over nine nights his body broke to match: first the fingers, then the hands, then the bones of the forearms, while his family tried every interpretation the street's lawyers could devise, a lamp held up to her window, a round white loaf, a mirror. None was accepted. On the tenth night, the god in him having found nothing that would serve, his eyes clouded white and round, perfectly round, like two small plates, and he could see nothing ever afterward, and it is said that his sister, looking into them, said they were beautiful. She died the next day. The fever would have taken her whatever he had promised. The Bench of Clauses passed the Muzzling the following year, requiring all children to be bitted until twelve. Ashe Varro lived to be sixty and taught handtalk to bitted children in Low Dray, and never spoke again. The story's Clausewright, the old woman who saved her words, does not appear in any record. The Quiet believe she was invented by Ashe himself, in handtalk, for the children he taught, because he wanted one story in Oathen where a promise could be kept by being clever.
+
+**At the Table.** An Oathener Guest who has made a rash promise and hears this story told may roll **Tongue + Clause** at Grim (18) to find, as Ash did, an interpretation the god will accept; the Carver must agree that the interpretation is honest. A success keeps the oath. A failure costs the next bone. The story is also how every Oathen child learns that a rash promise has an *if able* in it somewhere; the father writes *if able* on the slate at the end, and the boy is supposed to notice.
+
+### The Crust on the Sill
+
+[sigil: fast]
+
+[fiction]
+*As told in Wanting, by a mother to a girl of eight, both standing, the girl in her sleeping-shift, in a room with no hearth, before the girl lies down on her board; the Unfed tell stories standing.*
+Once there was a girl called Tarry, the same as your aunt, and she lived in a cold stone house in the heartland, with her mam and her da and her brothers, and they were very thin and very good.
+One night in Lack, Tarry saved the crust of her one meal, the way you're not supposed to, and she put it on the windowsill for the birds, because she felt sorry for them.
+In the morning the crust was gone. And in its place, on the sill, there was a better crust. Soft, and white, and warm, as if it had come out of an oven, though there was no oven anywhere in the whole Fast.
+And Tarry looked at it, and she said, *No, thank you.* Like a good girl. And she left it.
+That night, she put her own crust on the sill again. And in the morning, there was a bun. A sweet one, with a glaze on it, shining. And Tarry said, *No, thank you. No, thank you.* And she left it.
+The next night, she put her crust on the sill. And in the morning there was a pie. A whole pie, with steam coming out of the slits, and the smell came in through the shutter and went all through the house, and her brothers woke up and their mouths were wet. And Tarry said, *No, thank you. No, thank you. No, thank you.* And her mam came and threw the pie in the snow.
+And the next night, Tarry didn't put anything on the sill. But in the morning, when she opened the shutter, there was a table in the yard. A long table, with a white cloth, and candles lit, and dishes on it, all steaming, and four chairs, and a fifth chair pulled out, and at the head of the table there stood somebody very tall, stooping, with a kind face that you couldn't quite see. And it was warm. The snow had all melted round it, like a hem.
+And the tall one said, *Tarry. You've been so kind to me. Won't you come in?*
+And her brothers went to the window. And her mam and da went to the window. And they were so hungry. And they looked at Tarry.
+And Tarry said, *No, thank you.*
+And the tall one said, *please.*
+And Tarry said, *No, thank you.*
+And the tall one said, *there's plenty. There's always plenty. Please.*
+And Tarry said, *No, thank you.*
+And then, my love, the tall one asked her a fourth time. It asked very softly, the way you'd ask a person who was dying. And everyone knows that on the fourth time, it's manners to say yes.
+And Tarry said it a fourth time. *No, thank you.*
+And the tall one stood very still. And then it bowed to her, low, the way it bowed to us on the hill, and it began to cry. Its tears were warm and they ran down onto the table and the candles went out. And it picked up the whole table, cloth and candles and pie, and folded it up like a letter, and walked away into the gold, stooping, and it never came back to that house again.
+And Tarry's mam held her so tight her ribs creaked. And they were hungry for the rest of their lives, all of them, and they were clean. And that is the happiest ending there is.
+So. If anything is left on the sill, what do you say?
+That's right. Four times. Even on the fourth. Especially on the fourth.
+Lie down now. Back to the door.
+[/fiction]
+
+#### The True Event
+
+In the winter of 43 into 44 A.G., in the village later called Corve Hatch, the youngest daughter of Abel Corve, a girl named Tarry Corve, left the crust of her ration on the windowsill on several nights running, for the birds. Her elder sister Stint, who did not sit and whose descendants live in Wanting and Hillward, later testified to the Abstinent that the crusts were replaced, and with better things, and that Tarry hid them from the family and shared them with her brothers. In Lack of 44 the family found a table laid in their own kitchen. They were very hungry. Stint was outside fetching snow to melt when they sat. She came in to find her mother, her father, Tarry and the three boys at the table, eating from empty plates and smiling, and they asked her to sit, and she said no, three times, and on the fourth she was not asked again: the chair at the table had been pushed in. The neighbours watched the family through the window for eleven years before they understood it could not be undone, and bricked the window up from outside. The Corve kin stand at the bricked window one night a year, on Corve Night, with their backs to it. Every visitor adds a brick. Stint Corve told this story to her own children with Tarry's name in it and a different ending. She never said which part was the lie.
+
+**At the Table.** An Unfed Guest who tells this story to a child, standing, gains **+1 Want**. A Guest who hears it told within sight of one of Orrum's tables gains **+2** on the next Invitation check. A Guest who goes to Corve Hatch and listens at the bricked window hears, among the Corve voices calling *cousin, cousin, there's plenty*, one small voice saying *No, thank you*, three times, and then, after a long pause, nothing at all. **Dread 3.**
+
+[bigquote] A story is the only safe way to tell a child what happened. That is why every story on the Table has a better ending than the truth, and why every child, sooner or later, asks for the real one. | — Bram Hollin, the Last Mourner
