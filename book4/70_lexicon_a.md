@@ -651,3 +651,95 @@ The College keeps a short list of words that betray a speaker's land at once, us
 [entry: First Bail | n., Brinehollow | The infant's first coughing-up of brine, at the first dusk of its life, attended by the whole family; *go west without her*, they say to the sea, by custom. *Since my First Bail* means since birth. *She never had a First Bail* is said of the dry-lunged, and of the stillborn, gently.]
 
 [pull] Nobody is waiting to die here. We are all waiting to be allowed. | — fen proverb
+
+## G
+
+[entry: gag-nurse | n., Oathen | A nurse who sits with the Appetite-struck, who compulsively swear, ready to clamp a hand over the grille of their iron bit in the night. *It's never the oaths that get you. It's the little things you say on the stairs.* A canyon proverb calls the gag-nurse *the only honest woman in Tacit, because she never lets anybody finish a sentence*. See *sitter* in the second half of this dictionary.]
+
+[entry: Gathered | n., Cradlewrack | A creature assembled of Parts that have found one another without the Assemblers' help: the size of a dog and the shape of no animal, hungry, wanting the parts it is missing. *Something's gathering in the ravine* is a highland warning not to walk home alone. See *Part* and *ankle-biter*.]
+
+[entry: Gavage | n., Fatlands | Force-feeding by funnel, the punishment for refusing a meal; the means by which the Thin Rising of 455 was put down. *To be gavaged* is to have something forced on you for your own good: a husband, a sermon, a new tax. The Thin speak the word the way the Vigil speaks *sleep*. See *funnel* and *Feasting Laws*.]
+
+[entry: gentle | adj., Fast | Of the Host: not yet doing anything worse than laying tables. *The god has stayed gentle* is the Verger's belief and the Fast's prayer. *Gentle as company* means kind in a way that will kill you. Unfed mothers do not call their children gentle.]
+
+[entry: Gift, the | n., Common | The second doctrine: that the gods offered themselves out of love, and the Regrowth is a tragedy neither side wanted. On the coast it is *the Lending*. Its believers are soft-spoken, tired, and hated by both other camps. *A Gift face* is the expression of someone forgiving you for something you have not done yet. See *Theft, the* and *Bait, the*.]
+
+[entry: Gilded Cells | n., Oathen | The cells where the Sayers are kept, bitted in gold, whose words come true. *Gilded* in canyon speech means locked up for the good of everyone: *They've gilded the old man*, of a patriarch whose sons have taken his voice. See *Sayer* in the second half of this dictionary.]
+
+[entry: Glad Century | n., Sallowreach | The first hundred years after the Gorging, when nothing in the fen died and it looked like a miracle: no widows, no orphans, dancing. The dancing stopped when the first generation began to come apart. *A Glad Century marriage* is one that seems wonderful for the first decades and is unbearable for the next six hundred years. See *fresh as a Glad Century fiddler*.]
+
+[entry: Glass House | n., Vigil | The quarantine for contagious yawners, where Lukas Marre, whose yawn once put down a market square, lives masked and alone and apologizes through the pane. *Glassed* means quarantined, or socially cut: *After the Bonfire business, his family glassed him*.]
+
+[entry: glove | n., Sallowreach | Black kid sewn on at the wrist, worn by every Hand-line noble after the Appetite, and by Closers on duty. *Gloves off* in the fen is not a figure of speech for frankness but a threat of death. *Mittened* describes a Hand-line child at the Appetite, and by extension anyone who has been stopped from touching things. *Kid-gloved* means rich. See *Gloved, the*.]
+
+[entry: Gloved, the | n., Sallowreach | Osric Vane, deep in the Course, whose grey hands have nine joints a finger, kept in lead mittens in a locked wing, asking politely to be used on the enemy. *To unglove* someone is to let a dangerous person do the thing they were made for. *A Gloved request* is a polite asking that everyone knows will one day be granted.]
+
+[entry: Gnaw, the | n., Fast | The Empty Tooth: the strength the Unfed draw from endured hunger, at the price of a Pang. *He's on the Gnaw* means a man is running on nothing and frightening to cross. Reckoners on a raid say it to one another instead of goodnight. See *Empty Tooth* and *Pang*.]
+
+[entry: godsign | n., Common | The marks of an eaten god returning in a person: the Taste, the Appetite, the Course, the Brink. *Showing godsign* means visibly changing; *godsign in the family* is the Table's most common euphemism for madness, deformity and rank. The College grades godsign by tasting blood. *A Godsign man*, in the Rim's mouth, is one skilled in understanding and steering the god in his own veins, and is trusted by nobody.]
+
+[entry: Godeater | n., Fast, Common | What the Unfed call everyone else on the Table, with satisfaction. Also used of the High Cuts by the poor of six lands, without it. Rim folk in the Fast are asked early, as a courtesy, how their blood is coming along. *Godeater manners* means a full belly and no shame. See *Unfed*.]
+
+[entry: going under | n. phr., Vigil | The state of the Dream-Divers, who go down into the long room on a tether and are dragged up by force; like sleep with the eyes open and the mind awake at the bottom of it, listening. Most divers manage three. Senna Vole has done forty, and on the last something behind the lid said her name. *Gone under* is said of a diver who did not come up, and of anyone lost to an obsession.]
+
+[entry: Gorging, the | n., Common | The killing and eating of the gods at the end of the ninth year of the Long Lack, on the Night of Seven Tables, or across a season; the event from which the years are counted and the world was shaped. From Old Table-speech *gor-orren*, the great eating, or so the College says; the canyons have no record of the word, since they did it in silence. *Since the Gorging* means *forever*. *A gorging* is any glutted feast, and is used in the Fatlands as a compliment and in the Fast as a curse.]
+
+[entry: grace | n., Common | The words *Lack keep away*, said before eating with strangers, eyes lowered, hand flat on the table; skipping it is the universal insult. In Brinehollow, *and keep you dry*; in Cradlewrack, *and let it stay*; in the Vigil it is followed by a slap on the table; in Oathen it is signed; in the Fast it is said anyway, to the empty air. *Graceless* means a person who does not care if you starve. See *Lack keep away* in the second half of this dictionary.]
+
+[entry: Grace | n., Common | (1) Spring, the first season, when the Kept Rain falls in Oathen and the bricked rooms of the highlands are opened. (2) In the College's usage, a stroke of luck so complete it seems given: a doubled roll gone right. (3) The Long Grace: the age itself, six hundred and forty-one years between the meal and the bill, the breath a family holds before it is permitted to eat. *The Grace is ending* is said now in every land, and nobody laughs. See *Bill, the*.]
+
+[entry: Grace Roll | n., College | The College physicians' term for any trial of a person's skill against the world. *Every throw's a Grace Roll* is a Rim gambler's proverb, meaning that the gods are watching even when you play knucklebones for crumbs.]
+
+[entry: granny | n., Fatlands | A grandmother, and any pot of stew of uncertain provenance. *Every pot has a granny in it.* *Granny's in the gravy* means a family secret has come out at dinner. Fatland children call the low warm hills around Sated *the grannies*, and leave flowers on them, and the hills like it.]
+
+[entry: gravy | n., Fatlands | A river; the rivers of the south run thick and warm and are called, without irony, gravies. The Brawn, which runs past Sated, is the Great Gravy, and its tributaries the Little Gravies. *Down the gravy* means downriver, or dead. *Gravy Row* is the market lane of Sated where the cookshops are.]
+
+[entry: Grey Winter | n., Cradlewrack | The worst thing that ever happened to the Barren Order, which was not violent. The Order will not describe it. *A grey winter* is highland slang for any calamity that comes as a long silence rather than a blow.]
+
+[entry: Groaning Board | n., Rim | The Company's largest inn, on the Fatlands stretch, with a common room seating six hundred at one table, a sloping floor whose gutter carries the grease away, and dishes excellent and unspecified. *A Groaning Board welcome* is a feast you will regret. Foreign guests are advised to eat lightly and not be at the far end when the wardens roll a Gut-line out at closing.]
+
+[entry: Grue | n., Sallowreach | A person who will not retire; from Ansel Grue, the Unvacated Regent, four hundred and twelve years old, three hundred of them in office, mostly wire, lacquer and habit. *The guild's run by a pair of Grues.* Fen Heirs chalk *GRUE* on the doors of the Unvacated as other nations chalk *TYRANT*. See *Unvacated* in the second half of this dictionary.]
+
+[entry: guest | n., Common | One who is fed at another's table; the newer of the two words for it in Table-speech, and the only one this dictionary prints. In the Fast, *a guest of Orrum* is one who sat down and did not rise. Of the older word: it has no plural, is not printed in any dictionary on the Table, and appears in this one only as the gap below. *Use the new one.* See *Eighth, the* and *count the chairs*.]
+
+[entry: Gullet, the | n., Oathen | The deep ravine at the heart of the canyons where the Silent Supper was held and Tolm was eaten without a word; on the Night of Ears pilgrims walk it barefoot and lay their ears to the warm sand. *Down the Gullet* means said where the god can hear it.]
+
+[entry: Gut-line | n., Fatlands | The nobility of the south, who ate Ummer's stomach and entrails: the largest, the hungriest, the furthest along. Their estates are run from beds and then from the ground. *Gut-line* as an adjective means rich and hungry and rooted in place. *A Gut-line bargain* is one in which you will be digested slowly. See *Laden* and *Dowager*.]
+
+[entry: gut-down | adj., Fatlands | Of a Gut-line noble: past walking, carried by litter, dray or oxen. *The Chairman's been gut-down thirty years.* The Litter Toll on the Rim is charged by the bearer, and the south pays it gladly, as a mark of rank.]
+
+[entry: green-bottle | n., Sallowreach | The fat green fly of the fen, which favours the eyes of the newly lacquered. *Green-bottle eyes* means bright, wet and hungry, and is said of moneylenders. Fen children catch green-bottles in jars and race them, which is how most of them learn to count.]
+
+[entry: Gristmoot | n., Rim | The market town on the Fatlands bend of the Rim where the great market is held four times a year, at the turn of each season, for a Plate's length. *Gristmoot honest* means honest until noon, which is when the pickpockets are cut down from the market cross so as not to put off the trade.]
+
+[entry: Gristle, honest | n., Fatlands | A butcher who can taste what a cut used to be, down to the name; from Hob Gristle, ruined for his trade by his gift. *Don't be so Gristle about it* means *don't ask what's in the pie*. See *butcher's grace*.]
+
+[entry: grave-table | n., Fast | A little table found laid beside a new Unfed grave in the morning, for one, with a candle burning. The family breaks it with an axe and buries the pieces. *A grave-table on him* means a man much mourned, by everyone, including the Host.]
+
+[entry: grandmother coin | n., Common | A Dole-bone; one of the oldest lacks, yellow and smooth. Children's word, used by adults when they want to avoid saying what grandmothers have to do with it. See *Dole-bone*.]
+
+[entry: Gilt Mile | n., Brinehollow | The brokers' quarter of Lowmark, where pier-notes, mortgages on pier not yet built, are traded. *Gilt Mile promises* are speculation on a future the arithmetic forbids. See *arithmetic, the*.]
+
+[entry: Glovehall | n., Sallowreach | The seat of the Closers in Lastgate, with a garden where pears grow that do not rot. *A Glovehall pear* is a thing too perfect to be natural and too expensive to refuse; also, in the Heirs' slang, a Closer's daughter.]
+
+[entry: grey hands | n. pl., Sallowreach | The Course of the Hand-lines: hands gone grey, cold and many-jointed, whose touch finishes things. *Grey-handed* is an adjective of terrified respect, and also, in the Drowned Storeys, of a good pickpocket. See *Closer*.]
+
+[entry: gob-bit | n., Oathen, children's | The bitted children's handtalk sign for an adult who talks too much: two fingers snapping shut over the mouth. Grown Oatheners who see a child make it at them blush to the collar.]
+
+[entry: Grandam's bargain | n., Oathen | A release from one oath bought by swearing a greater one over it; from Grandam Cess, the Vow-Eater of the back canyons, whose clients are free of what they came with and owe her something worse. Any cure that becomes a debt: *The Company's loan was a Grandam's bargain.*]
+
+[entry: gallery | n., Oathen, Cradlewrack | In the canyons, a tier of dwellings cut in the cliff; the Galleries are the respectable quarters of Tacit, and *Gallery-bred* means raised to speak in exits. In Morwen Hall in the highlands, the Veiled Galleries are where the Caul-lines live behind their membranes. *Gallery talk*, in either land, is talk that commits to nothing.]
+
+[entry: goodwife's lie | n., Common | The small falsehood every wife on the Table is said to tell daily, *I'm fine*; in Oathen it is a Weight 1 Breaking, the lips split at the corners in a thin line, and the husband sees it and says nothing. *A goodwife's lip* is a canyon woman's split mouth, and is not remarked upon.]
+
+[entry: grub-gran | n., Fatlands, children's | A Seated grandmother whose mouth still works; children are taken to visit and must feed her a little of their supper with their own hands. *Say hello to grub-gran.* The visits are fond. The children's hands are always counted afterward.]
+
+[entry: going home | phr., Brinehollow | The Deepening's word for the Calling, used by Mother Limpet at her night baptisms; never used by the Netwatch, who drag the Called back. The College records it as a euphemism of grief. A family that says their daughter *went home* has usually found her bed empty and the rope knotted from the inside. See *Deepening, the*.]
+
+[entry: gor | interj., Fatlands | An exclamation of delight at food, of great antiquity, said to be the first syllable of *Gorging*. Fatland children say it at every plate. Unfed visitors who hear it leave the room.]
+
+[entry: Grievous | adj., College | Of a wound or an oath: past mending. *A grievous unmaking* is the canyon Bench's phrase for a Breaking that takes something that will not come back, as an eye or a voice. Rim surgeons have borrowed the word.]
+
+[entry: Groan-boy | n., Rim | A potboy at a Company inn, who takes the crumbs left under plates for the next traveller's luck. *Fed the groan-boys* means one's charity went to the wrong people, as all charity on the Rim is said to do. See *Plate's share* in the second half of this dictionary.]
+
+[pull] Never look at your family while you eat. It is the one rule older than the grace. | — Fatlands table manners, taught to children who do not ask why

@@ -538,3 +538,193 @@ The Lexicon is a prop and a toolbox. Read an entry aloud as an NPC's line; hand 
 [entry: zero | n., Rim | A Rim factor's word, from the Company's counting-house, for the empty circle on the lack. Common folk do not use it. They say *a licked plate*, or *nothing on the board*. (Compiler: the College's counting-masters write the empty circle with a dot in the middle, which they say represents a seat. I asked whose. I was told it was a ledger convention.)]
 [entry: zest | n., Fatlands | The crackling skin of the wake roast, given to the youngest at the table. *Full of zest*: lively, young, and soon to be served. Fatlands grandmothers say *give the zest to the little one*, and the little one is always pleased.]
 [entry: zuzz | n., child., Sallowreach | The buzzing sound of a Black Noon fly-front, and a nursery word for flies, which in the fens are the weather. *Zuzz-zuzz, here comes Justice* is a Lastgate skipping rhyme about the Honorable Maggot, and is sung at his door.]
+
+## Appendix: Numbers, Measures and Time
+
+> Count the coins, count the days, count the dead. Do not count the chairs.
+>> — Rim almanac, inside cover
+
+Table-speech counts the way it eats. Its oldest number-words are the words of a shared meal, kept alive by market women, Tally-keepers, children's rhymes and the College's counting-masters, who use the old forms in ledgers because they cannot be mistaken for anything else. In daily speech, most people use plain numbers until a sum becomes frightening, and then fall back on the old words, as if they were gentler. They are not.
+
+### The Old Count
+
+Every child on the Table learns the old count on the fingers, and every child is corrected at the same place. After *table*, which is seven, there is no word. The count goes *seven, and one more*, or *a full board*, and the finger is folded down without being named. Schoolmistresses in every land give the same reason, which is that it is unlucky. College counting-masters write the eighth figure as an empty circle with a dot in it and call it a ledger convention.
+
+| Number | Old word | Literally | Heard as |
+| 0 | a licked plate | nothing left | *we came home with a licked plate* |
+| 1 | a bite | one mouthful | *a bite of a man*: a lone traveler |
+| 2 | a pair | two at a board | *a pair of plates*: a married couple |
+| 3 | a mess | three at a board | *a mess of Reckoners*: a raiding party |
+| 4 | a corner | the four corners of a table | *a corner of days*: four days |
+| 5 | a hand | the fingers | *a hand of lacks* |
+| 6 | a setting | the places at an old table | *a setting of chairs* |
+| 7 | a table | the Seven Tables | *a table of dead*: seven graves |
+| 8 | (not said) | a full board | the finger is folded, unnamed |
+| 9 | a long | the nine years of the Lack | *a long of pangs*: nine pangs |
+| 10 | a lack | ten crumbs | the market's ten |
+| 12 | a year of plates | the twelve months | a dozen |
+| 20 | a platter | twenty lacks | a score |
+| 100 | a feast | the old count of a lord's hall | *a feast of soldiers* |
+| 1,000 | a reaping | (Fatlands) a district's yearly loss | said only in the south, and quietly |
+
+[fiction]
+A counting rhyme, skipped to in Wanting, Lastgate, Kest and on the Mile, with the words changed in each:
+A bite for the baby, a pair for the bed,
+A mess for the soldiers, a corner for bread,
+A hand for the beggar, a setting for kin,
+A table for supper, and who's coming in?
+(*Fold the finger, fold the finger, nobody's there.*)
+A long for the hungry, a lack for the poor,
+A platter for Plenty, and bar the back door.
+[/fiction]
+
+[pull] Children who name the eighth finger are not punished. They are simply asked, very gently, where they heard it. | — the Compiler
+
+### Measures
+
+Every land weighs and measures by its own Rule, and the Company's factors carry conversion slates. The common ones:
+
+| Measure | Amount | Land | Notes |
+| crumb | a tenth of a lack | common | a bone bead; the price-witness's fee |
+| lack | a day's bread | common | salt-cured bone; ten crumbs |
+| platter | twenty lacks | common | sealed tablet; sworn redeemable |
+| pound-scrip | a pound of meat | Fatlands | 7 crumbs at home, 3 abroad, falling |
+| side | half a beast | Fatlands | meat scrip; about 25 lacks |
+| rouse-tab | one hour awake (nominal) | Vigil | 3 crumbs; holds twenty minutes now |
+| ration chit | a day's Measure | the Fast | not for sale; sold at 3 lacks |
+| Measure | a day's Pantry ration | the Fast | one oatcake and a handful of grain |
+| quarter-measure | a quarter of that | the Fast | the daily cut of the Nine Days |
+| stone | fourteen pounds | Fatlands | votes are counted in stones |
+| hundredweight | a Deacon's vote | Fatlands | one vote per hundred pounds |
+| fathom | six feet of rope | Brinehollow | rope is sold by the fathom on the Rim |
+| Mile | a section of Lowmark | Brinehollow | one year's pier |
+| bowshot and a half | the edge of Company law | Rim | measured yearly with a knotted rope |
+| Rim-day | a day's wagon travel | Rim | about twenty miles; a hundred days round |
+| mouthful (of speech) | about nine words | Oathen | the most said without a Clausewright |
+| clause | one condition | Oathen | a crumb of tongue-tax each |
+| shelf | one Set-Aside | Sallowreach | the Lofts count bodies in shelves |
+| stitch-count | the Seamer's bill | Sallowreach | a crumb a stitch on Needle Street |
+
+### Time
+
+The year is 641 A.G., After Gorging. The nine years before Year 0 are the Lack Years, numbered backward. The year turns on **Tablenight**, the longest night of Lack. It has four seasons, each named for a part of a meal, and each season has three months named for the moon, the **Plate**. Dates are given as day, Plate and season: *the ninth of Middle Plenty*. There are no named weekdays; days are numbered within the Plate, and most people know the date by the Plate in the sky.
+
+| Season | Months | Old sense | Weather everywhere but home |
+| Grace | First, Middle, Last Plate of Grace | the prayer before eating | spring; Oathen's Kept Rain on the first day |
+| Plenty | First, Middle, Last Plate of Plenty | the meal itself | summer; the flies breed in the fens |
+| Carving | First, Middle, Last Plate of Carving | the cutting of the joint | autumn; the Reaping; Low Water |
+| Lack | First, Middle, Last Plate of Lack | the famine | winter; Tablenight at its deepest point |
+
+The phases of the Plate are counted by everyone and trusted by travelers: *a full Plate* is the time for markets and weddings; *being cleared* is the waning, when debts are called in; a new moon is *licked clean*, and on licked-clean nights doors are barred, nobody travels and nobody counts the plates.
+
+Shorter spans of time are measured by the meal and by each land's Rule:
+
+| Span | Length | Where | Example |
+| a grace | as long as it takes to say *Lack keep away*, two breaths | common | *I'll be there in a grace* |
+| a mouthful | a count of twenty | common | *wait a mouthful* |
+| a blink | a second or two of sleep | Vigil | *two breaths is a long time* |
+| a bell | a quarter of an hour | Vigil | the city's bells ring every bell; the hours are lengthening |
+| a bail | half a day, dawn bail to dusk bail | Brinehollow | *two bails out*: a day's sailing, once |
+| a sitting | an evening at table, about three hours | common | *a sitting's work* |
+| a course | an hour, in the old Rim count | Rim | *three courses to Thimble* |
+| a pang | the interval between quakes, now nine days | Cradlewrack | *see you in a pang* |
+| a Plate | a month, new moon to new moon | common | *pay in a Plate* |
+| a long | nine years | common, old | *as long as a long*: forever |
+
+The day itself is rung in Company towns by four bells: **First Bell** at dawn, **Grace Bell** at noon (when everyone turns to the nearest stranger and says the grace), **Weighing Bell** in mid-afternoon in the Fatlands, and **Last Bell** at dusk, after which nothing lawful is sold. In Oathen, the bells are replaced by flags, since a bell is a kind of voice. In Sallowreach the day has no last bell, only a first, rung every morning to remind the dead that they are still here.
+
+[pull] Maud Sexton's pendulum says each hour in the Vigil is a little longer than the last. The almanac has not been changed. The Company will not print a year that does not end. | — the Compiler
+
+## Appendix: Forms of Address by Land
+
+What you call someone is a portion of what you owe them. A traveler who gets the forms right is fed. One who gets them wrong is remembered. The table below is the College's field-guide; it is short, and wrong at the edges, and the Compiler was thrown out of three houses gathering it.
+
+| Land | To a superior | To an equal | To a child or inferior | Never say |
+| Sallowreach | *Upright Sir*, *Upright Madam*; to the Unvacated, *Elder* | the name, and *may you finish* | *small one*; to the Kept young, by their age at death | *Long life* |
+| Fatlands | *Your Weight*; to a hill, *Eldest* | *heavy friend* | *pudding*, *little gut* | *You look thin*; *I'm full* |
+| Brinehollow | by ship-rank (*Captain*, though never afloat); to the Bench, *Your Depth* | *neighbor*, through the wall | *little bucket* | *Where did you go?*; *stranded* |
+| The Vigil | *Unblinking*; to any officer, *Watcher* | *lamp-friend*; to a spouse, *nudger* | *starer*, *pip* | *Rest well*; *you look rested* |
+| Cradlewrack | *Mother*, to any midwife of any sex | by mother's name: *Hessa's Tam* | by Tally-place, or *bit*, *small*, *keep* | *What are you?*; opening a door unknocked |
+| Oathen | a bow, and *if it please*; to the King, nothing | a nod | the bitted are spoken of, not to | an unconditioned *I promise*; *talkative* |
+| The Fast | *Elder*; to the Abstinent, *Keeper of the List* | the Refusal-name: *Stint*, *Nay* | *little Nay*, *spare* | *Welcome*; *Come in*; *Sit down* |
+| The Rim | *Factor*, *Waymaster*, *Spoke* | *road-friend* | *lad*, *lass*, *Hand* | anything that counts the chairs |
+
+[box: Getting the Forms Wrong]
+A Guest who uses the right form of address in a land for the first time in a scene gains +1 on their next Tongue roll there with that person. A Guest who says the *Never say* aloud must make a Hard 14 Tongue + Persuade roll to recover; on a failure, the listener's attitude worsens by one step, and on a Lack, something worse follows: in Oathen the words count; in the Fast someone hears *come in* and comes; in the Vigil the listener begins to yawn. The Carver should always let the player know the custom exists before the dice are rolled. The Guest may not.
+[/box]
+
+[pull] In the fens I said *good day*, and was asked whose. In Oathen I said *good day*, and was asked to swear to it. | — the Compiler
+
+## Appendix: Curses and Blessings
+
+Every land swears by what it fears and blesses by what it lacks. The lists below were gathered over three years on the Rim, from the mouths of carters, nurses, Seamers, Renderers and children, and are given roughly in order of how often the Compiler heard them. The Compiler notes that the curses were easier to collect.
+
+### Thirty Curses
+
+- *Long life to you.* (Sallowreach; the worst.)
+- *May your hands stay warm.* (Sallowreach; that is, may you never be able to finish anything.)
+- *May you be Set Aside on a high shelf, and nobody read to you.* (Sallowreach)
+- *Sump take you, and the sack split.* (Sallowreach)
+- *May you be full.* (Fatlands; that is, may you never be. Said with a smile.)
+- *Reaped at dusk and served at dawn.* (Fatlands)
+- *May your wake be cold and your family thin.* (Fatlands)
+- *May the field know your name.* (Fatlands; whispered, and meant.)
+- *Go marry the water.* (Brinehollow)
+- *May your rope be cut by someone who loves you.* (Brinehollow)
+- *Salt in your bread and sea in your bed.* (Brinehollow)
+- *May you come back courteous.* (Brinehollow; that is, Tenanted.)
+- *Rest well.* (Vigil)
+- *May you sleep on a soft night.* (Vigil)
+- *Bed one for you, and nobody at the foot.* (Vigil)
+- *May your nudger blink.* (Vigil)
+- *May every door you shut stand open.* (Cradlewrack)
+- *May you bear.* (Cradlewrack; said to men, and meant literally.)
+- *Unnamed and untallied.* (Cradlewrack)
+- *May the Question go against you.* (Cradlewrack)
+- *Be talkative.* (Oathen)
+- *May your echo find you.* (Oathen)
+- *May you be the Surety for your own word.* (Oathen)
+- *Forsworn and well-read.* (Oathen; that is, broken in a way everyone can see.)
+- *Come in.* (the Fast; said to an enemy's back, and then they run.)
+- *May there be a card with your name on it.* (the Fast)
+- *May you be welcome.* (the Fast; the worst.)
+- *Lack sit by you.* (the Rim; the universal curse of poverty.)
+- *May you eat without grace among strangers.* (common)
+- *May someone count your chair.* (common; the most feared, and the Compiler has heard it said only twice.)
+
+[pull] The worst curse is a blessing in the next land over. That is the whole Rim, said a carter to me, and spat, and said *Lack keep away*, though we were not eating. | — the Compiler
+
+### Thirty Blessings
+
+- *Lack keep away.* (common; the grace before every meal with strangers.)
+- *May you finish.* (Sallowreach)
+- *A clean Closing and a quick one.* (Sallowreach)
+- *Thread in your seams and vinegar in your cloth.* (Sallowreach)
+- *May your leaves fall.* (Sallowreach; a blessing on a child.)
+- *You look heavy.* (Fatlands; the kindest thing one can say.)
+- *Five meals and a sixth.* (Fatlands)
+- *May you be served with the best plates.* (Fatlands; a blessing on the old.)
+- *May the field thank you by name.* (Fatlands)
+- *Cough clean.* (Brinehollow; said at dawn.)
+- *A good rope and a heavy bed.* (Brinehollow)
+- *May they call your name and hear you answer.* (Brinehollow)
+- *May you come home dry.* (Brinehollow)
+- *Pinch me.* (Vigil; love, trust, fear.)
+- *A sharp nudger and a loud roof.* (Vigil)
+- *May the rouse hold.* (Vigil)
+- *Stand for one, and one, and two.* (Vigil; from the Waking Hymn.)
+- *Not yet.* (Cradlewrack; said over swollen bellies of any kind.)
+- *Knock first, and be answered.* (Cradlewrack)
+- *May what comes stay.* (Cradlewrack; said at a birth the Attendance has permitted.)
+- *May your doors keep.* (Cradlewrack)
+- *Say little.* (Oathen; a farewell.)
+- *If able.* (Oathen; the polite reply to anything.)
+- *May your word be light.* (Oathen; said to a child at the Unbitting.)
+- *No, thank you.* (the Fast; said three times, as a blessing on the speaker.)
+- *May you carry your own bread.* (the Fast)
+- *Walk into the wind.* (the Fast; a farewell to travelers.)
+- *Safe road and an unlaid table.* (the Rim)
+- *May the chair stay to the wall.* (the Rim; on Tablenight.)
+- *May your portion be small.* (common, among Scraplings; a blessing on a newborn, that it carry little god.)
+
+[bigquote] I have finished the word-book. That is the only thing in my life I have been allowed to finish, and I am from the north, and I do not know what to do with my hands. | — the Compiler, last leaf of the L–Z proofs, Quire, Last Plate of Carving, 641

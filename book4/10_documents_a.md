@@ -524,7 +524,7 @@ The Harl shop keeps its complaints, as every Needle Street shop does, pinned int
 
 [fiction]
 O.H., in the back of the book, the last written pages, Carving 641.
-Father began this book in the year the Vigil's First Night came, and he said that in a land where nothing ends a Seamer's only true work is to keep things the shape they were. I have kept it two hundred and thirty-nine years. My hands are his work; I lost them in the Reckoners' raid of 402, and he sewed them back that night, and they have never been quite mine, but they are better than mine, which I have never told anyone. I want to set down what is happening at the bench.
+Father began this book three years after the Vigil's First Night, and he said that in a land where nothing ends a Seamer's only true work is to keep things the shape they were. I have kept it two hundred and thirty-nine years. My hands are his work; I lost them in the Reckoners' raid of 402, and he sewed them back that night, and they have never been quite mine, but they are better than mine, which I have never told anyone. I want to set down what is happening at the bench.
 Since the Hushes began, thread goes grey in the needle near the Hand-line estates. It goes the colour of ash and it stops being thread; it holds, but it does not hold the way thread holds, it holds the way a door holds that has been shut for good. Thirty-one clients from the Vane and Fallow wards have finished on the bench this year, mid-seam, under the needle, with the shop's own gut still in them. They do not scream. They let out a breath they have not drawn in a century and they are gone, and the smell comes up out of them all at once, all of it, two hundred years of it, and then nothing, nothing at all, the room smells of nothing, and the Threaders run into the yard. I have stopped sending Threaders to the Vane ward. I go myself.
 The Guild's stock of spare parts on the third floor of the Guildhall is three times the size it was in my apprenticeship. Thessaly will not say where it comes from. I know where hands come from. I have seen the Sump dredgers at the Guildhall's back door at night with sacks that are not dripping fen-water. I have seen what the Court sends down from the Jar Room, when a jarred man's pieces are "surplus to sentence."
 And I want to set down that Father's book has a stitch in it that I have never used, on the sewn pages, which he called the Last Loop. It is a Mourner's Loop that is drawn closed. It is the only knot in this book that finishes. He said he invented it in 344 for one client only and that it held a man together who could not be held any other way, and that if the loop is ever drawn out, the man will come apart all at once, every seam of three hundred years at once, and that the man was the Regent. I am the only one who knows which thread. I am old. I am not afraid of the Court. I am afraid of the Heirs, who are young, and have begun bringing their grandmothers to the shop, and staying to watch me work, and asking, very politely, about the sewn pages.
@@ -539,4 +539,80 @@ And I want to set down that Father's book has a stitch in it that I have never u
 - *Nine Pots.* The lacquer that smells of nothing finishes the Kept who wear it. Hal Varrow's family wants nine more pots. So do the Finishers, and Sister Lorn, and the Heirs, and the Mortuary Court, which wants to know who has been licensed to sell death by the pint. Ottilie Harl did not make it. Her Threader did, from a receipt he found on one of the sewn pages, and the Hush-grey threads in it came from the Vane ward.
 - *The Last Loop.* The Heirs want the Regent's thread. Ottilie wants it never found. Thessaly Mort wants the sewn pages burned for a reason she has not said, and the Guests may work it out: Gideon Harl sewed part of her too, in 344, with a loop of the same kind.
 **Secret.** The last ingredient of the Bright Coat, on the sewn pages, is a stitch of the Seamer's own hair worked into the client's, so that the coat holds two people's something. Every Bright Coat in Lastgate has a little of Gideon Harl in it, and since 402, a little of Ottilie. When Ottilie finishes, if she ever does, every Bright Coat in the city will fail at once. There are four hundred and eleven of them, and some of them are on the Court.
+[/box]
+
+[pagebreak]
+
+## The Register of the Called
+
+[sigil: brinehollow]
+
+The Netwatch keeps a register on every beat of the Mile, a tall narrow book bound in tarred sailcloth, kept on a hook inside the watch-box at the head of each section and filled in by the Watch-Sergeant at the end of every night by the light of a storm-lantern. The logs record Callings as numbers. The families record them as names. The register does both, in five columns ruled by hand: the name and house, the rope (how the Called got loose), the colour of the last bail-water (which the hookers ask for at the door, because the families always look), whether the Called was recovered, and the signature of the hooker who made the recovery or saw the loss. It is the coast's most exact record of the Calling, and the Admiralty has never published one. The pages below are from the register of the Mile Twelve beat, between the Cooper's Gap and the Sixteenth rail, kept by Watch-Sergeant Corra Vell, from Lack 640 into Carving 641. They were found on the bench of the watch-box at dawn, with the ink of the last entry still wet, and the watch-box empty, and the storm-lantern still burning.
+
+[fiction]
+REGISTER OF THE CALLED, MILE TWELVE BEAT, NETWATCH OF THE TIDAL ADMIRALTY. Standing Orders, inside cover: Enter every Calling, recovered or lost. Enter the bail-water as the family gives it, not as you would like it. Enter "Subject appeared expected" where it applies. It always applies. Sign for what you saw with your own eyes and nothing else. No hooker to sign for another. No hooker to sign who is not on the beat. — Lt. S. Reef, for the Watch-Captain.
+[/fiction]
+
+### Lack 640
+
+| Name and House | Rope | Bail-water | Recovered | Signed |
+| Dunn Pell, 22, net-maker, No. 3 Tarry Row | cut, blade on the floor (own) | blue | not; at the Sixteenth gap | C. Vell |
+| Maudie Pell, 51, his mother | knot undone by hand, neatly | green | yes; fought; wept at the bench | H. Dunmore |
+| Ivo Carrack, 9, No. 6 Tarry Row | slipped; rope intact | clear | yes; asleep throughout; asked for his sister | J. Sallow |
+| Hooker Jem Sallow, 19, of this watch | (on duty, no rope) | (not given) | not; walked off the beat at the Cooper's Gap, lantern in hand | C. Vell |
+| Ada Fenning, 70, widow, No. 1 Coil St. | chain; staple drawn from the beam | blue | not | H. Dunmore |
+| Ruth and Ottery Brine, 30 and 33, No. 1 Coil St. | roped together; ring torn out | green, both | not; seen at the Rail, holding hands | C. Vell |
+| Ivo Carrack, 9, No. 6 Tarry Row | slipped again; rope intact | clear | yes; asleep; asked again for his sister | J. Sallow |
+
+[fiction]
+Sgt. Vell's night-notes, Lack 640, under the page.
+Pell boy went at the second bell. Blue. His mother told us it was blue at dusk and she had tied him anyway and slept beside him and he cut himself loose with her own net-knife and kissed her on the forehead before he went, she says, and she lay there and let him, she says, because he asked so nicely. She went after him. Dunmore got her at Coil Street. She fought him all the way back to the bench and then sat and wept and said she would have liked to have gone with him, that is all, only to see.
+Jem Sallow walked off the beat at the Cooper's Gap at the fourth bell. I saw him go. He had his lantern. He was looking west and smiling and he said, quite normal, "Sarge, there's someone on the mud waving," and walked off the end of the boards, sixty foot, and did not fall, I mean he fell, I heard him land, and then I saw his lantern going away west across the Uncovered, steady, not hurrying. I have entered him. His mother has been told.
+The Carrack boy: entered twice. See the signatures. I have asked Dunmore whether he saw Jem at the Tarry Row door on the second night. Dunmore says he did not look. Dunmore says, Sarge, just sign the page.
+[/fiction]
+
+### Grace 641
+
+| Name and House | Rope | Bail-water | Recovered | Signed |
+| Pellam Strake, 44, chandler, No. 10 Lantern Row | rope intact, ankle-loop wet and empty | blue | not | C. Vell |
+| Nan Strake, 40, his wife | rope cut, no blade | blue | yes; Tenanted, returned from the surf Day 31 | J. Sallow |
+| Dorrit Ames, 16, No. 4 Lantern Row | rope intact; knots untied and retied around nothing | green | yes; at the gap; said "thank you" in a man's voice | J. Sallow |
+| Line-Hand Esmé Pardoe, transferred from Mile Ten | (on duty) | (not given) | not; seen at the Rail with Jem Sallow | H. Dunmore |
+| Old Mag Kittering, 88, No. 2 Lantern Row | no rope; refused rope for 60 years | clear | did not walk; died in her chair, facing east | C. Vell |
+| Watch-Sergeant's nephew, Tobin Vell, 12, Mile Twelve barracks | roped to the Sergeant | green | yes | E. Pardoe |
+
+[fiction]
+Sgt. Vell's night-notes, Grace 641.
+I am writing down what I know, in order, because the Lieutenant says that is what the register is for and nothing else.
+Jem Sallow was entered in Lack, lost at the Cooper's Gap. I wrote it myself. Since Lack, Jem Sallow's name has been signed against eleven recoveries on this beat. The signature is his. I know it: he signed my register for a year and he made his J like a hook, and he always pressed too hard at the end so the nib went through the paper. These go through the paper. I have not seen him. No hooker has seen him. The recoveries are real. The families say a young hooker brought their people back across the mud at dawn, carrying them, gentle, dripping, wrapped in a Netwatch net, and laid them on the bench, and signed the book, and went. Some of the recovered are quite well. Some of them are Tenanted, and came back Tenanted on the very night they walked, which never happens; the Tenanted come back after weeks. Nan Strake was in the surf thirty-one days and then Jem carried her in.
+Esmé Pardoe asked to transfer to the Headland. She was sent to us instead, because we were short. She lasted nine nights. She went off the Rail with her lantern on the tenth and Dunmore saw her go and saw a lantern come up the mud to meet her and he says he knew whose it was by the way it swung. I have entered her lost.
+On the twelfth night after, my nephew Tobin walked. I had roped him to me. The rope was cut and I did not wake. In the morning he was on the bench in the watch-box asleep, wrapped in a net, dripping, and he was Tobin, he is Tobin, I have looked at him every way there is to look at a boy and he is Tobin, and the register was open and his recovery was signed. E. Pardoe. Her E is a little crab. It is hers.
+I have not told the Lieutenant. If the Lieutenant reads this she will know. I have decided that I would rather she knew.
+[/fiction]
+
+[pull] Enter "Subject appeared expected" where it applies. It always applies. | — Standing Orders of the Netwatch, inside cover of every register on the Mile
+
+### Carving 641: The Last Page
+
+| Name and House | Rope | Bail-water | Recovered | Signed |
+| Hooker Hal Dunmore, 40, of this watch | (on duty) | (not given) | yes | J. Sallow, E. Pardoe |
+| Tobin Vell, 12, Mile Twelve barracks | rope intact; no knot | blue | yes; wrapped in a net; asleep | J. Sallow |
+| All of No. 6 Tarry Row: the Carracks, five | roped together, the rope taken with them | blue, all | yes, all five, by the gap, walking back up the boards in a line, dry | (thirty-one signatures, the hookers of the Great Pressure Day, 627) |
+| Ivo Carrack, 9 | slipped | clear | not; he was not with them | C. Vell |
+| Watch-Sergeant Corra Vell, 46, of this watch | cut by own hand, own knife | blue | (the column left blank) | S. Reef |
+
+[fiction]
+The last entry, in a hand that is not Sgt. Vell's. The ink was wet at dawn.
+Sgt. Vell walked at the last bell, with her lantern, and her own knife in her hand, from the bench of this watch-box. She did not cut her rope. She had no rope, being on duty. She cut the strap of the register's hook, and laid the register on the bench, open, so it could be read, and went. Subject appeared expected. I signed for it because I saw it with my own eyes. I was on the beat. — S. Reef, Lt.
+[Note added in pencil by the Watch-Captain's clerk, the following morning: Lt. Reef was at the Admiralty all night, at the Watch-Captain's table, from the first bell to the last, before nine witnesses. The register is to be sealed. The Mile Twelve watch-box is to be manned by a full squad of six. The squad is to be told nothing. The boy Ivo Carrack is at the barracks, and keeps asking where his family is, and whether the hookers will bring them back, and the squad do not know what to tell him, because the Carracks of No. 6 Tarry Row are at home, all five, sitting very still around their table with the west door open, and they say they have never had a son.]
+[/fiction]
+
+[box: Carver's Notes: The Register of the Called]
+**Rules: reading the bail-water.** The register's third column is a forecast. A Guest who reads a household's bail-water at dawn (Eye + Search, Routine 10; Tolly Brack does it without rolling) learns its colour: **clear** (no change), **green** (that household's next Calling roll is at +2 Difficulty), **blue** (at +4, and the Carver should call a Calling roll that very night). Blue in a Guest's own bucket is a Dread 2 check, and a decision about the rope.
+**Rules: serving on the beat.** A Guest who enlists in the Netwatch (Mile Seven barracks; always short of hands) walks a beat at night and signs the register. Hauling a Called home is an opposed Gut + Labor roll against the Called's Lung + Athletics, as in the core rules; the Called feel no pain and do not tire, and on a Lack the hooker is pulled off the boards with them. Every recovery a Guest signs for is a Dread 1 check, from the look on the face of the recovered. Every loss a Guest signs for is a Dread 2.
+**Hooks.**
+- *The Signatures.* Jem Sallow and Esmé Pardoe, entered as lost, are signing recoveries on Mile Twelve, and the recovered come home wrapped in nets, dripping, sometimes Tenanted on the same night. The Admiralty wants the register sealed and the matter ended. The families want to thank the young hooker. Sitting up a night at the Cooper's Gap with a lantern (Caul + Resolve, Hard 14, not to look west when the waving starts) shows the Guests two lanterns coming up out of the dark of the Uncovered, carrying something between them, and a third, newer one coming behind.
+- *Ivo Carrack.* A boy of nine whose family came home without him and say they never had a son. He was recovered twice in Lack, asleep, asking for his sister. He has no sister in any record. Nobody in No. 6 Tarry Row will open the door to him; through it, the family can be heard saying his name, in turn, slowly, the way a household calls the morning count, and not answering.
+- *The Lieutenant.* Sable Reef was at the Admiralty all night, before nine witnesses, and signed the last page of the register at Mile Twelve. She does not remember it. She dreams every night that she is walking west with the three hundred she saved, and that they are glad she came. The Guests may be the ones who tell her about the signature, or the ones the Watch-Captain sends to watch her sleep.
+**Secret.** The hookers who walk off the beat do not stop being hookers. On the Uncovered, past the Sixteenth gap, the lost of the Netwatch patrol a beat of their own, in a line of lanterns that the Mile can see on still nights and does not mention, and they go on doing the only thing they were ever trained to do: they bring the Called home. They are very good at it. They are better at it than the living, because the Called do not fight them. The register's "recovered" figure on Mile Twelve has nearly doubled since Lack 640, and the Admiralty has been quietly proud of it. What the drowned hookers carry back up the boards is the Called, in their own bodies, with their own memories, and with someone else looking out through their eyes; and the families, who have been trained for six hundred years not to ask a returned person where they went, are taking them home and thanking the Netwatch. The thirty-one hookers of the Great Pressure Day of 627 are still on the beat. They have signed for more people in the last year than the living Netwatch has saved in ten. Brenna Kelp's arithmetic says the sea is moving into the people a bucket at a time. The register of Mile Twelve says somebody has begun carrying the buckets.
 [/box]
