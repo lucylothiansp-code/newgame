@@ -20,9 +20,7 @@ I will come on the feast day. I will bring the children if Brann can get off the
 Your Teal.
 [/fiction]
 
-The core book told you what Sallowreach is. This chapter is about what it is like: the smell of a particular street at a particular bell, the price of wire, what a reed-cutter earns, who holds the key to which door, and how a woman of forty-six who is legally a child keeps eleven dead relatives clean on a weir-worker's wage. It is about the long upkeep. The great horror of the north is not that the dead walk. It is that they must be maintained, every day, forever, by people who will one day need maintaining themselves, and that the whole country has been organized for six centuries around the chores.
-
-Read this chapter alongside the land chapter of the core book. It does not repeat the Meal, the history or the factions. It goes down to the boards.
+The core book told you what Sallowreach is. This chapter is about what it is like: the smell of a street at a particular bell, the price of wire, what a reed-cutter earns, who holds which key, and how a woman of forty-six who is legally a child keeps eleven dead relatives clean on a weir-worker's wage. The horror of the north is not that the dead walk. It is that they must be maintained, every day, forever, by people who will one day need maintaining themselves.
 
 ## Districts and Settlements
 
@@ -210,10 +208,6 @@ Law in Sallowreach is very old, very precise and absolutely without end. Every s
 | Preaching the Bait | the tongue jarred | the rest is let go |
 | Treason against the Court | the jar, or the Sump | the Sump is considered the kinder |
 
-[box: The Jar at the Table]
-Being jarred is the worst thing that can happen to a character in Sallowreach, and it should feel like it. The sentenced person is taken to Needle Street, where a Master Seamer of the Guild, under protest and at Court rates, takes them apart: the head is sealed in green glass with lead, the hands in a smaller jar beside it, and the rest is rendered (at Wick Tallow's) or sunk. The head is aware for as long as Sallowreach lasts. A PC who is jarred is retired, and can be visited in the Jar Room by appointment with Merrit Cask. Witnessing a jarring is Dread 3. Rescuing someone from the Jar Room is an adventure, and putting them back together afterwards is a Dire (22) Hand + Stitching roll and the rest of a season.
-[/box]
-
 ## The Faithful
 
 Sallowreach is a land of the Theft. Most people in the north believe in their bones that their ancestors murdered a kind god on a mudbank, and that what they live in now is the bill. The Confessors of the north are the gravest priests on the Table, and their chapels are low, windowless timber houses with a single shut door painted grey, called **Shut Houses**. Inside there is a long bench, a grey cloth on the wall in the shape of two open hands, and nothing else. Worship is sitting in silence on the bench and not leaving. The service ends when the last worshipper decides to go, which in some Shut Houses has not happened in years.
@@ -244,10 +238,6 @@ We will keep what we took until the book
 Is shut and the debt complete.
 (The congregation sits through the eighth verse in silence.)
 [/fiction]
-
-[box: A Prayer at the Bedside]
-The old prayer said over the dying in the years before the Gorging survives in the families of the Seamers, who say it now over the Kept at every restitching, and in the Hall of Closings, where it is spoken over every license: *Hand that closes, close this. What was opened, shut. What was begun, end.* Most Sallowreachers know it by heart. Most have never heard it answered.
-[/box]
 
 ## Voices of the Land
 
@@ -560,21 +550,17 @@ Dread: 2 (to see her ledger, or to watch her work on herself)
 
 #### Who They Are
 
-Thessaly Mort glimmers. Every seam in her body, and there are hundreds, is lacquered in cedar-gold, so that she looks like a bowl that has been broken many times and mended in a very good shop. Her skin is a dozen skins in a dozen shades, from fen-pale to Fatlands brown, joined at the wrists, the throat, the jaw and the brow by fine gold lines; her joints are braced with a lattice of bright wire that ticks faintly when she walks. One eye is grey and her own. The other is brown and was bought. She smells of waxed thread, pitch and spirits of wine, and under them of nothing very much, because she keeps herself better than anyone in the country. Her voice is deep, warm and musical, a contralto of the Glad Century: she bought the larynx in 498 from a Kept singer named Maud Fennick, who sold it to pay for her daughter's shelving and has been mute ever since.
+Thessaly Mort glimmers. Every seam in her body, and there are hundreds, is lacquered in cedar-gold, so that she looks like a bowl broken many times and mended in a very good shop. Her skin is a dozen skins in a dozen shades joined by fine gold lines; her joints are braced with a lattice of bright wire that ticks when she walks. One eye is grey and her own; the other is brown and bought. She smells of waxed thread, pitch and spirits of wine. Her voice is a deep, warm contralto of the Glad Century, bought in 498 from a Kept singer named Maud Fennick, who sold it to pay for her daughter's shelving and has been mute ever since.
 
-She is brisk, practical and funny, and she works constantly. She never sits in a chair without a work-table in front of it.
+She is brisk, practical and funny, and never sits without a work-table in front of her.
 
 #### Their Story
 
-Thessaly was born in 396 above a wire-drawer's shop on Needle Street and was a Threader at twelve. She died at forty-five of the Seamers' cough, the slow ruin of the lungs from lacquer fumes, at her table, in the middle of a seam, and finished the seam before anyone noticed. She was elected Master Seamer ten years later, in 451, and in 459, when the Court tried to tax wire, she rang the Guild's strike-bell for the first and only time. The tax was withdrawn in nine days. The Court has not taxed the Guild's materials since, and the Regent has dined with her every Restitching Week from that year to this.
-
-She began replacing her own parts in the 470s, as everyone does, and never stopped. Her ledger, which records every part she has ever replaced in herself, now runs to a single page of originals and two hundred pages of replacements.
+Thessaly was born in 396 above a wire-drawer's shop on Needle Street and was a Threader at twelve. She died at forty-five of the Seamers' cough, at her table, in the middle of a seam, and finished the seam before anyone noticed. She was elected Master in 451, and in 459, when the Court tried to tax wire, she rang the Guild's strike-bell for the only time. The tax was withdrawn in nine days, and the Regent has dined with her every Restitching Week since.
 
 #### Their Place in the Land
 
-Thessaly holds the country together, literally. The Guild's six hundred Seamers restitch a hundred and forty thousand Kept a year, and she sets their rates, assigns their client-lists, approves every new Master, and owns, in the Guild's name, the stock-room of spare parts behind the Guildhall: limbs, jaws, eyes, skins, all labeled, all legally acquired, or so the labels say. She could stop Sallowreach in a month, and the Court, the Unvacated and every family in the north know it. She has used that power exactly once.
-
-She still works the table herself every day from first bell, mostly on difficult cases: Fen Guard soldiers, the badly burned of Smokeholm, Captain Morrow. She takes no fee for children.
+Thessaly holds the country together, literally. The Guild's six hundred Seamers restitch a hundred and forty thousand Kept a year; she sets their rates, approves every Master, and owns, in the Guild's name, the stock-room of spare parts behind the Guildhall, every limb labeled and legally acquired, or so the labels say. She still works the table herself every day from first bell, on the hard cases: Fen Guard soldiers, the burned of Smokeholm, Captain Morrow. She takes no fee for children.
 
 #### What They Carry
 
@@ -640,19 +626,17 @@ Dread: 0
 
 #### Who They Are
 
-Jory is a stooped old man with white whiskers, swollen knuckles and bad knees, who moves like a man carrying something heavy, and whose voice still cracks with anger like a boy's. He smells of oak bark, lime and old dogs, because he lives over a tannery and keeps two elderly hounds, Tansy and Bray, who are Kept and do not smell good. He dresses like what he is in law: a minor, in a clerk's patched coat, with no rings and no seal. He laughs easily with children and almost never with adults, and is courteous to the Kept in a way that makes his followers uneasy.
+Jory is a stooped old man with white whiskers, swollen knuckles and bad knees, whose voice still cracks with anger like a boy's. He smells of oak bark, lime and old dogs: he lives over a tannery with two elderly Kept hounds, Tansy and Bray. He dresses as what he is in law, a minor, in a clerk's patched coat with no ring and no seal. He laughs easily with children and almost never with adults.
 
 #### Their Story
 
-Jory was born in 570 to Agnes Welt, living, and Alderman Rufus Welt of the Weir Row parish, who was two hundred and twenty-nine and still breathing, withered and leathered as the very old of the north become. Rufus's heart stopped the next winter, in his counting-house, and he sat up and finished the quarter's accounts. Jory has never known his father alive. At twenty he asked to be apprenticed to a punt-maker, and his father refused. At forty he asked to marry, and his father refused. At fifty he asked for his wages to be paid to him directly, and his father refused. He joined the Heirs at fifty-two, and in 614, when the old Boy was jarred, they chose him because he was the only Executor nobody hated.
+Jory was born in 570 to Agnes Welt, living, and Alderman Rufus Welt of the Weir Row parish, who was two hundred and twenty-nine and still breathing, withered as the very old of the north become. Rufus's heart stopped the next winter in his counting-house, and he sat up and finished the quarter's accounts. At twenty Jory asked to be apprenticed, at forty to marry, at fifty to be paid his own wages; his father refused all three. He joined the Heirs at fifty-two and was chosen Boy in 614, as the only Executor nobody hated.
 
-He made the Heirs what they are now. Before the Hushes they were a debating society with presses. In 634, a year after Dunmere, Jory took the first elder to the grey, a part-thief's Kept grandfather who had asked to go, and watched him go soft at the line. Since then the Heirs have taken a hundred and six, most of them willing, nineteen not.
+In 634, a year after Dunmere, he took the first elder to the grey, a Kept grandfather who had asked to go, and watched him go soft at the line. The Heirs have taken a hundred and six since, most of them willing, nineteen not.
 
 #### Their Place in the Land
 
-Jory commands perhaps three thousand Heirs in Lastgate and the fen: clerks, servants, porters and laborers in their forties to their seventies, organized in cells of twelve. He controls the presses (Lark Dunnock's *Bequest*), the Smoking Ground meetings, a fleet of forty punts, and the Hush map, which he measures weekly with a chain and pins to the wall over his bed. Through the Heirs he has eyes in every Unvacated household in the city, because every Unvacated household has living servants. He depends on donors, many anonymous, and on Saul Brindle's silence.
-
-His power has a hard limit, and he knows it: he cannot change the law, only break it. Every elder the Heirs take to the grey is one less owner, but the property passes to the next oldest Kept, not to the living. In seven years the Heirs have not won a single house.
+Jory commands perhaps three thousand Heirs in cells of twelve, the presses of *The Bequest*, forty punts and the Hush map, and through the living servants of every Unvacated household he has eyes in all of them. He depends on donors and on Saul Brindle's silence. His limit is hard: he can break the law but not change it. Every elder taken to the grey is one less owner, but the property passes to the next oldest Kept. In seven years the Heirs have not won a single house.
 
 #### What They Carry
 
@@ -718,7 +702,7 @@ Dread: 0
 
 #### Who They Are
 
-Bettany is small and bent nearly double, and wrapped in so many shawls that she looks like a bundle of washing that has learned to walk. The shawls smell of camphor and linen-wax and the lamp-oil of the Lofts. Her fingers are stained with ink to the second knuckle, and she sniffs constantly from a cold that has lasted twenty years. Her voice is the thing people remember: a reader's voice, low, clear and patient, trained over seventy years to carry along an aisle of four hundred shelved bodies without being raised. She is kind, dry and stubborn, and she has a reputation, among Court officers who have tried to buy the whisper-books, for a single word, *no*, delivered as though she were declining a second biscuit.
+Bettany is small, bent nearly double, and wrapped in so many camphor-smelling shawls that she looks like a bundle of washing that has learned to walk. Her fingers are inked to the second knuckle. Her voice is a reader's voice, low and clear, trained over seventy years to carry along an aisle of four hundred shelved bodies without being raised. She is kind, dry and stubborn, and Court officers who have tried to buy the whisper-books know her for a single word, *no*, delivered as though declining a second biscuit.
 
 #### Their Story
 
@@ -728,7 +712,7 @@ In the Lack of 640 she heard the first of the shelved say *company*. By Grace 64
 
 #### Their Place in the Land
 
-Bettany commands two hundred Wardens, Readers and Ladder-hands, keeps nine halls, and is responsible for forty thousand people who cannot move. She negotiates linen with the Guild, shelf-fees with the Court and visiting days with families. She is underpaid, overworked and indispensable. She also holds, in a hundred and twelve whisper-books, the best intelligence on the Table: every conversation held near the walls of the north city for fifty years. The Court, the Heirs, the College and Envoy Dray have all tried to buy them. She has never sold one line.
+Bettany commands two hundred Wardens, Readers and Ladder-hands, keeps nine halls and forty thousand people who cannot move, and bargains linen with the Guild and shelf-fees with the Court. She also holds, in a hundred and twelve whisper-books, every conversation held near the walls of the north city for fifty years. The Court, the Heirs, the College and Envoy Dray have all tried to buy them. She has never sold one line.
 
 #### What They Carry
 
@@ -793,9 +777,9 @@ Dread: 0 (to meet); 3 (to watch her close someone, because it is so gentle)
 
 #### Who They Are
 
-Pim is a thin, quick, freckled girl of twelve with mouse-brown hair cut short with eel-shears, a gap in her front teeth, and the habit of standing on one foot when she is thinking. She smells of peat smoke and eel, like every child in the Sinks. Her hands are the thing everyone looks at, and there is nothing to see: they are ordinary, warm, a child's hands, scraped across the knuckles, with bitten nails and eel-slime in the creases. They are not grey. They are not cold. Candles do not lean from her. She laughs a great deal, and people near her who have the Want of Quiet are surprised to find that her laughter does not trouble them.
+Pim is a thin, quick, freckled girl of twelve with eel-shear-cropped hair, a gap in her front teeth and a habit of standing on one foot when she thinks. She smells of peat smoke and eel. Everyone looks at her hands, and there is nothing to see: ordinary, warm, scraped across the knuckles, bitten nails. They are not grey. Candles do not lean from her. She laughs a great deal, and those with the Want of Quiet find her laughter does not trouble them.
 
-She is clever, stubborn and a little bossy. She can read a few words. She wants, more than anything, to go to the Seamers' charity school on Needle Street, which takes children at twelve.
+She is clever, stubborn and a little bossy, and wants more than anything to go to the Seamers' charity school on Needle Street.
 
 #### Their Story
 
@@ -805,7 +789,7 @@ Since then she has closed a neighbor's grandfather, who asked her for six months
 
 #### Their Place in the Land
 
-Pim has no place. She is impossible: a Scrapling's blood should not close anything, and she does it without the grey, without the cold, without Hunger and without the Court. Her existence is a threat to every institution in Sallowreach. The Court wants her examined and, if necessary, dissected; a licensed death that can be had for nothing ruins the license. The Finishers want her crowned. Provost Sedge wants her measured. Marrow Jack wants her hands. Little Nell Ash wants her for the Smalls. Her mother wants her out of the country. The Sinks have closed round her like a fist: the neighbors hide her, lie for her, and quietly, one by one, ask.
+Pim is impossible: a Scrapling's blood should not close anything, and she does it without the grey, the cold, the Hunger or the Court. A death that can be had for nothing ruins the license, so the Court wants her examined and, if need be, dissected. The Finishers want her crowned, Provost Sedge wants her measured, Marrow Jack wants her hands, Little Nell Ash wants her for the Smalls, and her mother wants her out of the country. The Sinks hide her and lie for her, and quietly, one by one, ask.
 
 #### What They Carry
 
@@ -871,11 +855,11 @@ Dread: 2
 
 #### Who They Are
 
-Justice Lathe is a skeleton in a robe that moves. He has rotted, over two and a half centuries, down to brown bone, a few black tendons at the joints and the colony: a great slow mass of flies and their children that has worked through every soft part of him and taken up residence in the skull. The robe of office, black wool gone green, seethes. The bench smells of old meat, sugar and the honeyed sourness of a hive. When he rules, the colony rises in a drone that swells and falls in cadences exactly like speech, and the whole courtroom leans forward to hear it, and then leans back to listen to his clerk.
+Justice Lathe is a skeleton in a robe that moves: brown bone, a few black tendons and the colony, a great slow mass of flies and their children that has taken up residence in the skull. The black robe of office seethes. The bench smells of old meat, sugar and hive. When he rules, the colony rises in a drone that swells and falls exactly like speech, and the courtroom leans forward to hear it, and then leans back to listen to his clerk.
 
 #### Their Story
 
-Ever Lathe was a drafter of contracts, born 331, who died of a fall down the courthouse stair in 389 and went on drafting. Ansel Grue appointed him to the Court of Wrongs in 402 for the clarity of his opinions. His tongue went in the 450s, his jaw in 480, his face in the 520s. The flies came in about 560 and never left. By 590 nobody could tell any longer whether the hum was Lathe or not, and the Court decided it would be indelicate to inquire.
+Ever Lathe was a contract-drafter who fell down the courthouse stair in 389 and went on drafting. Grue appointed him in 402. His tongue went in the 450s, his face in the 520s; the flies came about 560. By 590 nobody could tell whether the hum was Lathe, and the Court decided it would be indelicate to ask.
 
 #### Their Place in the Land
 
@@ -1057,7 +1041,7 @@ Dread: 2
 
 #### Who They Are
 
-Grandfather Peat is a boy who has been in the bog for six centuries, and looks like a saddle. He is leather-brown, flattened by the weight of the peat, shining wet, every wrinkle tanned and preserved, with a fringe of red hair stained to rust and a braided rope still knotted at his throat. He smells of peat, tannin and old rainwater. He lies in a long zinc tank of fen-water in Provost Sedge's offices at the College, with only his face above the surface, and he speaks slowly, in a dialect nobody has spoken since before the Meal.
+Grandfather Peat is a boy who has been in the bog for six centuries and looks like a saddle: leather-brown, flattened, shining wet, with a fringe of rust-red hair and a braided rope knotted at his throat. He smells of peat, tannin and old rainwater. He lies in a zinc tank of fen-water in Provost Sedge's offices with only his face above the surface, and speaks slowly, in a dialect nobody has spoken since before the Meal.
 
 #### Their Story
 
@@ -1065,7 +1049,7 @@ He was a peat-cutter's son. On the night the fen-folk ate Ossel he stood at the 
 
 #### Their Place in the Land
 
-Peat is the College's most precious witness and its most useless: only three Cutwrights in the north can follow his dialect, and only one, Lecturer Odo Fask, well. He repeats one thing, *the god was smiling*, and when asked more, he counts slowly to eight on his fingers and folds one down, very carefully, as if it might bite. He is kept for study. He has asked, every day since 611, to be put back.
+Peat is the College's most precious and most useless witness: only three Cutwrights in the north can follow his dialect, and only Lecturer Odo Fask well. He repeats one thing, *the god was smiling*, and when asked more counts to eight on his fingers and folds one down, carefully, as if it might bite. He has asked every day since 611 to be put back.
 
 #### What They Carry
 
