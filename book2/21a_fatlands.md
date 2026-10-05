@@ -951,7 +951,7 @@ She is one of hundreds of gleaners in Low Tilth, children who follow the harvest
 
 She wants her mother back. She fears that someone will dig the root up: the Cullmasters' men harvest Rootkin by night and sell them by the weight, and she has heard the carts.
 
-**Secret (the GM may reveal):** Mab's other parts went into the Dusk Acres' harvest and up the Chute. A barrel of bacon with a hare-shaped birthmark is somewhere on the Rim Road.
+**Secret (the GM may reveal):** Mab did not come up in one root. The north strip grew others, hare-marked, and the Cullmasters' night carts took them in Lack 640 and sold them to the Union by weight. A barrel of bacon with a hare-shaped birthmark is somewhere on the Rim Road.
 
 **Secret (she does not know):** The root is a Rootkin bed. It has learned her name from her, and her mother's voice from the soil. If it is left a full year, in Plenty 641, it will send up shoots with hands, and the hands will pull down whatever leans close, and Tansy leans close every night. While she is near, it holds back. It is waiting for her father.
 

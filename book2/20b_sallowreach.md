@@ -30,17 +30,17 @@ Dread: 1 (her stitched eye, and what moves under the lid when she sings)
 
 #### Who They Are
 
-Sister Lorn is slender and straight-backed and wrapped from throat to ankle in grey linen, the old Kept wrapping, wound tight and waxed so that it creaks very faintly when she bends. Her face has held better than most fifty-year Kept: the Guild's lacquer is thin on her because she cannot afford more, and under it the skin has gone the color of tallow and settled in soft folds at the jaw. Her left eye is sewn shut with nine black stitches in the mourning style of the Glad Century, which nobody uses now. Her right eye is grey-green, wet, alert and kind. She chews fen-mint without stopping, a constant small motion of the jaw, and the cold green smell of it rides over the sweetness underneath, so that standing close to her is like standing in a pantry where something has been very carefully hidden. Beeswax is the other smell: her hands are always waxy from the candles.
+Sister Lorn is slender and straight-backed, wrapped from throat to ankle in waxed grey linen that creaks faintly when she bends. Under thin lacquer her face has gone the color of tallow and settled in soft folds at the jaw. Her left eye is sewn shut with nine black stitches in the Glad Century's mourning style; her right is grey-green, wet and kind. She chews fen-mint constantly, and its cold green smell rides over the sweetness beneath, with beeswax from the candles on her hands.
 
-Her speaking voice is ordinary, low, a little hoarse, a fen voice with the long vowels of the far reed-towns. Her singing voice is something else. It is deep for a woman's, round, unhurried, and it carries over open water the way the Breath does, seeming to come from just behind the listener's shoulder. People who have heard her sing at a Hush edge describe the experience the same way: as though someone had put a warm hand flat between their shoulder blades. She knows every Finisher song because she wrote most of them. She does not sing in rooms. She says rooms are for stopping.
+Her speaking voice is low and hoarse, with the long vowels of the far reed-towns. Her singing voice is deep, round and unhurried, and carries over open water as if from just behind the listener's shoulder; people describe it as a warm hand laid between the shoulder blades. She wrote most of the Finisher songs. She will not sing in rooms. Rooms, she says, are for stopping.
 
 #### Their Story
 
 Lorn Teal was born in 561 in Cattermere, a reed-town of the far north fen where the Glad Century songs were still sung on holy days. She sang in the reed-chapel from the age of six and was hired to sing at Restitching Weeks across the north, the hymns that are sung while the grandmothers are lacquered. She married a weir-man named Josse Teal and bore a daughter, Wren, in 584.
 
-In the Plenty of 588, Wren went off the Cattermere boardwalk in a fly-front, at four years old, and was under the water for a night. She came up in the morning. She has been four ever since. Lorn could not bear the reed-town afterward, where everyone had seen, and in 589 she took Wren to Lastgate to find a Seamer good enough to keep a child small and sound forever. The Seamer she found charged more than she had. In 590, in the Grey Plague's long tail, Lorn caught a Fatlands fever on Needle Street and died of it in a rented room with her daughter sitting on the end of the bed. She sat up the next morning. Wren had gone. Neighbors said the Smalls had come up from the Drowned Storeys in the night and taken her down, as they take the child-dead whose families cannot keep them. Lorn sewed her own left eye shut that week, in mourning, with a Seamer's needle, and went down into the Drowned Storeys every night for a year. The Smalls would not let her past the first flooded stair.
+In the Plenty of 588, Wren went off the Cattermere boardwalk in a fly-front, at four, and came up in the morning, and has been four ever since. In 589 Lorn took her to Lastgate to find a Seamer who could keep a child sound forever, and could not pay one. In 590 Lorn died of a Fatlands fever in a rented room on Needle Street, with Wren sitting on the end of the bed. She sat up the next morning and Wren was gone: the Smalls had come up in the night and taken her down, as they take the child-dead whose families cannot keep them. Lorn sewed her own eye shut that week and went down to the Drowned Storeys every night for a year. The Smalls never let her past the first flooded stair.
 
-For forty years she sang. She sang at Restitchings, at Settings Aside, in the Lofts for Bettany Shroud's readers, and, from about 610, in the back room of a chandler's on Wick Lane where a few Kept and a few desperate living met to sing the songs with their last verses put back. The Court called it the Singers' heresy and ignored it. In Carving 633, when Dunmere went silent, the Singers walked out to the edge of the grey reeds with candles and a list of names, and seven of them walked in. Lorn led the singing. She stayed outside. She has been staying outside since, nine hundred times.
+For forty years she sang at Restitchings, Settings Aside and, from about 610, in a back room on Wick Lane where a few Kept met to sing the old songs with their last verses put back. In Carving 633, when Dunmere went silent, the Singers walked to the grey reeds with candles and a list of names, and seven walked in. Lorn led the singing and stayed outside. She has stayed outside nine hundred times since. She was named High Shut Eye in 636, and wrote the Finishers' only rule: the living are not wanted yet.
 
 #### Their Place in the Land
 
@@ -59,7 +59,7 @@ She lies still by night in a loft above Wick Tallow's chandlery (he lets it free
 
 Lorn wants her flock to go peacefully, unafraid, with someone singing. She wants the living left behind at the edge to be held by someone. And she wants, more than she has ever wanted anything except her daughter back, to know why she has never walked.
 
-She tells herself it is duty: someone must sing the last verse, someone must walk back and hold the husbands at the line. She fears it is cowardice. She fears worse, and this is the fear that keeps her up in the loft with her one eye open: that she enjoys it. That walking back along the causeway in the dark with the song still in her mouth and nine fewer people behind her than went out is the only time in fifty years she has felt like someone who decides things.
+She tells herself it is duty: someone must sing the last verse and hold the husbands at the line. She fears it is cowardice. Worse, she fears she enjoys it: that walking back along the causeway with nine fewer behind her is the only time in fifty years she has felt like someone who decides things.
 
 **Secret (GM may reveal):** She walked to the edge once alone, at night, in Lack 639, and stopped one step from the line, with her toes in the green reeds and her face in the grey. She stood there until dawn. She has not told anyone, and she cannot forgive herself either way: not for going, and not for coming back.
 
@@ -79,15 +79,13 @@ She tells herself it is duty: someone must sing the last verse, someone must wal
 
 #### In Play
 
-PCs most often meet Sister Lorn at a Hush edge, at dusk, in the middle of a procession, or in her loft over the chandlery when a family hires them to bring someone home before the singing stops. She is always courteous, always tired, and always the most honest person in the scene.
-
-She wants three things from PCs: escorts past the Court's cordons, people who can hold the living back at the edge (a strong arm, a kind word, a rope), and, if any PC is a Hand-line at the Course, a long private conversation about whether a touch from them would count, in the god's eyes, as walking in.
+PCs meet Lorn at a Hush edge at dusk, or in her loft when a family hires them to bring someone home before the singing stops. She is courteous, tired and the most honest person in any scene. She wants escorts past the cordons, strong arms to hold the living back at the edge, and, from any Hand-line PC at the Course, a private conversation about whether their touch would count, in the god's eyes, as walking in.
 
 - **The Last Name.** A Kept grandmother in the Sinks has given Lorn her name for the next procession. Her living grandson hires the PCs to steal the name-strip back before the procession leaves. The grandmother wants to go. The grandson is sixty and has never lived a day without her.
 - **The Informer.** A procession is ambushed by Court guards at a secret Hush only six people knew about. Lorn asks the PCs to find out which of her Lamps is selling them. It is the one she loves.
 - **The Whistle.** Lorn asks a PC, very quietly, to carry a jar down the first flooded stair of the Drowned Storeys and leave it with a girl called Wren. She will not say what is in it. Nell Ash's Smalls are waiting on the stair.
 
-Faced with threat, Lorn does not run and does not fight; she sings, and her pilgrims close around her. Faced with kindness she weeps without moisture, the dry hitching of a Kept who has forgotten that nothing comes out. Faced with the god (a Brink-sufferer, Osric Vane's gaze, a Hush's edge creeping toward her across a road) she goes perfectly still and must roll against the Pull. If nobody intervenes, Lorn reaches Fray 10 at the next procession that loses a living child at the edge, Breaks, and walks in singing. The song has no one left outside to finish it. The Finishers split within the season: half follow Orla Fenn toward the Court's bargain, half follow Pim Sorrel whether she wants them or not.
+Faced with threat, Lorn sings, and her pilgrims close around her. Faced with kindness she weeps without moisture. Faced with the god she goes still and must roll against the Pull. If nobody intervenes, she reaches Fray 10 at the next procession that loses a living child at the edge, Breaks, and walks in singing, with no one left outside to finish the song. The Finishers split within the season: half follow Orla Fenn toward the Court's bargain, half follow Pim Sorrel whether she wants them or not.
 
 [box: Said of Them]
 "She's got a voice on her like your mam calling you in for supper. That's the cruel part. You go." — a Kept net-mender, the Landing
@@ -120,15 +118,15 @@ Dread: 2 (to watch him take a killing blow and keep walking; 3 to watch him reas
 
 #### Who They Are
 
-Dace Morrow is tall, broad and wrong in his proportions, the way a mended chair is wrong. He has been killed sixty times and stitched back sixty times, and each stitching has taken a little of the original man and replaced it with cord. He is bound in grey linen cord from the neck down, wound in tight spirals over waxed leather, and over that he wears a cuirass of yellowed bone lamellar, the plates laced with wire. His face is held on by a lattice of brass strips riveted at the temples and jaw, like the frame of a lantern, and through the gaps the face shows grey-brown and mottled. His eyes are still his own, small and pale and steady. His right ear is not; it is a woman's, smaller, pierced for an earring.
+Dace Morrow is tall, broad and wrong in his proportions, the way a mended chair is wrong. Sixty stitchings have replaced the man with cord: he is bound in grey linen cord from the neck down, under a cuirass of yellowed bone lamellar laced with wire. A lattice of brass strips riveted at temple and jaw holds his mottled face on like the frame of a lantern. His eyes are still his own, pale and steady. His right ear is a woman's, pierced for an earring.
 
-He smells of linseed oil, old blood and wet rope, the smell of a ship's hold. When he walks, the cord creaks and the wire ticks, and on cold mornings something inside his chest rattles like a seed-pod, which is a rib that has come loose and which he has decided to keep. His voice is slow and level and comes out a little wet. He does not waste words, and he never raises it: he has not needed to raise his voice since the forty-first time he was killed.
+He smells of linseed, old blood and wet rope. The cord creaks when he walks, and something in his chest rattles on cold mornings, a loose rib he has decided to keep. His voice is slow, level and a little wet, and he has not needed to raise it since the forty-first time he was killed.
 
 His soldiers love him in the dog-loyal way of men who have seen their captain take a halberd through the face and finish giving the order. Strangers find him unbearable to watch eat: he still sits at mess and chews, for the men, and the food goes where it goes.
 
 #### Their Story
 
-Dace Morrow was born in 548 to a cooper's family on the Landing, joined the Fen Guard at eighteen and was a sergeant at thirty. In Carving 583 a Reckoner band came over the Finishing Post at night to kill Lord Ormond Sedge and his household, and Sergeant Morrow met them on the causeway with nine men. A Reckoner Knife put a black-iron blade through his heart. He died. He was standing again before the Reckoner had finished wiping the knife, and he cut her down, and she died properly (she was from the Fast, and an outsider, and had fallen on the southern side of the causeway's last stake, a fact that Morrow has gone over in his mind for fifty-eight years). That was the first time.
+Born in 548 on the Landing, Morrow joined the Fen Guard at eighteen. In Carving 583 he met a Reckoner band on the causeway with nine men, and a Reckoner Knife put a black-iron blade through his heart. He was standing again before she had wiped it, and he cut her down, and she died properly: she had fallen south of the causeway's last stake, a fact he has turned over for fifty-eight years. That was the first time.
 
 He has been killed since by Reckoners, Heirs, smugglers, a jealous husband, a falling crane, his own panicking horse, and once, in 627, by a Finisher procession that trampled him at the edge of a Hush he was holding. He became Captain in 601 when his predecessor walked across the Finishing Post one morning and did not explain. He keeps a slate in his office with sixty chalk marks on it.
 
@@ -136,7 +134,7 @@ The Fen Guard he commands is three thousand strong, nine in ten of them Kept: an
 
 #### Their Place in the Land
 
-Morrow is the hard edge of the Mortuary Court, and he is not a Court man. He answers to the Right Hand (the commander of the Court's agents) and takes his pay from the fly-tax, and he is the only officer in Sallowreach who will tell the Regent to his lacquered face that a thing cannot be done. The Court values him because he is incorruptible and fears him because he is tired. An incorruptible man with nothing left to want is the most dangerous officer a state can have.
+Morrow is the Mortuary Court's hard edge and no Court man. He answers to the Right Hand, and he is the only officer who will tell the Regent to his lacquered face that a thing cannot be done. The Court values him because he is incorruptible and fears him because he is tired.
 
 His soldiers are paid little (two lacks a day for a Kept guardsman, four for the living) and stitched free by the Guild under an old contract, which is the real reason anyone joins. Morrow rides the causeway daily on a Kept horse named Pardon, inspects the Hush cordons at dusk, and every Tablenight stands a shift on the Finishing Post, just inside the stakes, looking south. He has never once seen the Rim Road with his own eyes.
 
@@ -153,7 +151,7 @@ His soldiers are paid little (two lacks a day for a Kept guardsman, four for the
 
 Morrow wants to hold. That is all. He has held the causeway for fifty-eight years, through sixty deaths, and the holding is all of him that is left that is not cord. What he fears is that he is the only thing between Sallowreach and the rest of the Table, and that he is coming apart, and that nobody is coming to replace him because everybody who could has walked into the reeds.
 
-**Secret (GM may reveal):** The pieces he leaves in the barracks are deliberate. He is trying to get a little of himself across the border without dying, a finger at a time. He leaves them on the south side, by the road, where a Company carter might kick one into a wagon. Twice that has happened; Abbot found a toe gone and a carter's wheel-rut. He has paid a Company clerk at the Finishing Post to report whether anything is found in the heap on the far side. Both times the clerk found grey dust in the shape of a finger. None of it has survived. He keeps trying.
+**Secret (GM may reveal):** The pieces he leaves are deliberate. He is trying to get a little of himself across the border without dying, a finger at a time, leaving them by the south road where a Company carter might kick one into a wagon. Twice it has happened. Twice a Company clerk he pays has found, in the heap beyond the stakes, grey dust in the shape of a finger. He keeps trying.
 
 **Secret (GM may reveal):** He has never arrested Sister Lorn, and never ordered his cordons to stop the processions with force, because in 633 he was on the Dunmere cordon when the first seven walked in, and he heard the last verse, and he has been afraid ever since that if he arrests her, he will ask her to take him.
 
@@ -170,15 +168,13 @@ Morrow wants to hold. That is all. He has held the causeway for fifty-eight year
 
 #### In Play
 
-PCs meet Morrow at the Finishing Post (his guards inspect every living traveler for Kept stowaways and Kept travelers for intent), at a Hush cordon, or after they have done something the Court wants answered with a sword. He is fair, blunt and exact. He does not take bribes, but he can be told the truth, and the truth sometimes works.
-
-He wants competent living soldiers who can cross the border (to chase smugglers and Reckoners the Kept Guard cannot follow), and he will hire PCs for exactly that: run a fugitive to ground on the Rim Road and drag them back to the stakes. He pays forty lacks a day and his word.
+PCs meet Morrow at the Finishing Post, at a Hush cordon, or after doing something the Court wants answered with a sword. He is fair, blunt, and cannot be bribed, though he can be told the truth. He hires living PCs to chase fugitives across the border where his Kept cannot follow, at forty lacks a day and his word.
 
 - **The South Side.** Sergeant Abbot hires the PCs privately: take the Box across the border, in a lead case, packed in Mother Gall's brine, and see if anything survives. It does not. But in the brine the finger moves for nine minutes on the far side before it goes to dust, and it points north.
 - **The Cordon.** Six of Morrow's soldiers walk into the Cotter's Ditch Hush in one night. He asks the PCs to stand the cordon with him, at night, for a week, and tell him which of his men are going to go next. One of them is Morrow.
 - **The Hand.** A Loft-Warden brings the PCs a whisper-book page: a shelved woman describing, in exact detail, the feel of killing a smuggler on the causeway last Grace. Someone is using her hand. Following the thread leads to Marrow Jack, to Thessaly Mort, and to the captain.
 
-Faced with threat, Morrow attacks, without hurry, until it stops; he has never retreated and does not know how. Faced with kindness he is awkward and grateful and changes the subject to the weather. Faced with the god (a Hush, a Closer's bare hand) he stands to attention, the way a man stands at a grave. If nobody intervenes, by the end of 642 the Fen Guard is under two thousand, the cordons are hollow, and Morrow, at the sixty-first death, simply does not get up from the causeway mud; not because he cannot, but because he decides not to. He lies there with his eyes open, looking south, and his sergeant sits beside him. He is still there when the Hush comes up the road.
+Faced with threat, Morrow attacks without hurry until it stops. Faced with kindness he changes the subject to the weather. Faced with the god he stands to attention, as at a grave. If nobody intervenes, by the end of 642 the Guard is under two thousand, the cordons are hollow, and at his sixty-first death Morrow simply does not get up from the causeway mud: not because he cannot, but because he decides not to. His sergeant sits beside him. They are still there when the Hush comes up the road.
 
 [box: Said of Them]
 "I seen the Captain take a crossbow bolt through the eye and pull it out and say, 'Right, where was I.' He's the only officer I ever served under who knew where he was." — Private Hob Clutter, Kept, Fen Guard
@@ -211,7 +207,7 @@ Dread: 0 (Henna herself); 2 (to sit at supper with Amos)
 
 #### Who They Are
 
-Henna Farrow is a hundred and twelve years old and living, which in Sallowreach makes her neither rare nor remarkable, only tired. She is bent almost double at the waist, so that she looks at the world from under her own brow, and she walks with two sticks of black bog-oak. Her skin is soft and spotted and thin as the paper of a hymnal, and her hands, which mended nets for seventy years, are knotted at every joint and still quick. Her hair is white and cut short with kitchen scissors. She smells of lye soap and lavender water and, faintly, of frying fat, because she cooks every night.
+Henna is a hundred and twelve and living, bent almost double over two sticks of black bog-oak, so that she looks at the world from under her own brow. Her skin is spotted and thin as hymnal paper; her net-mender's hands are knotted at every joint and still quick. She smells of lye, lavender water and frying fat, because she cooks every night.
 
 Her voice is high and cracked and tart, and she does not suffer clerks. The Court's petition-office knows her well: every Grace they bring her a chair and a cup of sour, and they hate the day, because she is always polite and she always cries at the end, briefly, angrily, and then apologizes.
 
@@ -219,15 +215,15 @@ Her voice is high and cracked and tart, and she does not suffer clerks. The Cour
 
 Henna Gilt was born on Pellet Row in 529, the daughter of a net-mender, and married Amos Farrow, a weir-man on the Lastgate eel-weirs, in 547, when she was eighteen and he was twenty-two. Their vows ended *until finished*, as all Sallowreach vows do, and everybody laughed at the wedding when the priest said it, as everybody always does. They had four good years. In the summer of 551 a Fatlands fever came up the causeway with a meat-carter, and Amos sickened and died in their bed on Pellet Row, at twenty-six, with Henna holding a cup to his mouth.
 
-He sat up in the evening. He looked confused. He said he was late for the weir. He went out, and walked to the weir, and worked his shift, and came home at dusk, and opened the door, and said, "Something smells good, Hen," and sat down. He did not know that he was dead. Nobody told him, because in the first weeks Henna could not, and in the first months she did not want to, and by the first year it had become a thing that was not done. He went on going to work. The weir-master, who was Kept himself and kind, let him. In 570 the Court abolished the Lastgate weirs to make room for the Landing's new piers, and the weir was pulled down. Amos did not notice. He still goes. He walks out every morning to a stretch of black water off the Landing where the weir stood and stands in it to the waist for nine hours, working with his hands at nothing, and he comes home at dusk.
+He sat up that evening, said he was late for the weir, went and worked his shift, came home at dusk, opened the door and said, "Something smells good, Hen." Nobody told him he was dead: in the first weeks Henna could not, and by the first year it was a thing not done. In 570 the Court pulled down the Lastgate weirs for the Landing's new piers. Amos did not notice. Every morning he still walks out to the black water where the weir stood, stands in it to the waist for nine hours working at nothing, and comes home at dusk.
 
 His face went in the 590s. The Guild could not keep it; flesh that is out in the weather every day rots fast. Henna paid a Seamer to make him a mask of lacquered linen over a wire frame, and when the Seamer painted on a stern face she sent it back and painted it herself: a broad, lopsided smile, the one he had at their wedding. She repaints it every Restitching Week.
 
-She has lived beside him for ninety years. She has never remarried, because remarriage is bigamy. She has never had children, because Amos died at twenty-six and was in no state, afterward, and nobody discusses that. She has filed for a *setting-apart* (the court order to live in another house) four times and withdrawn it four times. She has petitioned the Mortuary Court for his Closing forty-one times, once a year since 600. The Court refuses because Amos must consent, three times, aloud, as the law of 301 requires, and to consent he would have to be told.
+She has never remarried (it would be bigamy) nor had children. She has filed for a setting-apart four times and withdrawn it four times. She has petitioned for his Closing forty-one times. The Court refuses: Amos must consent three times aloud, and to consent he would have to be told.
 
 #### Their Place in the Land
 
-Henna is nobody, institutionally, which is the point of her. She is the Sallowreach that the laws of 301 were written over: the ordinary household in which the Kept and the living share a kitchen, forever, because there is no lawful way out. Everyone on Pellet Row knows her. The children of the street (living and Small) run errands for her and are paid in burnt sugar. The Row's Kept watch for Amos at dusk and call out when they see him coming up from the Landing, so that she can have the eel in the pan. A Seamer's apprentice named Aubin Coyle restitches Amos's hands every spring, for nothing, because his mistress told him it was a kindness and he believed her.
+Henna is nobody, institutionally, which is the point of her: she is the household the laws of 301 were written over. Pellet Row's children, living and Small, run her errands for burnt sugar. The Row's Kept call out when they see Amos coming up from the Landing, so she can have the eel in the pan. Aubin Coyle, a Seamer's apprentice, restitches Amos's hands every spring for nothing.
 
 She owns nothing: the house belongs by law to Amos, who is upright, and she lives on three lacks a week from the Net-Menders' Benevolent. Under the hearthstone she has eleven minutes of Closing, saved since 560, about seven hundred lacks of a license. She will not live to save the rest.
 
@@ -260,15 +256,13 @@ What she fears is her own death. She is a hundred and twelve. When she dies, in 
 
 #### In Play
 
-PCs meet Henna if they lodge on Pellet Row, if they need a guide to the Court's petition-office (she knows every clerk by name and which ones drink), or because she asks them, plainly, at her own kitchen table with a dead man sitting across from her: *Will you tell him?*
-
-What she wants from PCs is that: someone who is not her, who is not afraid of him, to sit Amos down and explain. She can pay with eleven minutes of Closing, which is more money than most PCs have seen in one place, and which is all she has.
+PCs meet Henna if they lodge on Pellet Row or need a guide to the petition-office, or because she asks them plainly, at her own table with a dead man across from her: *Will you tell him?* She can pay with eleven minutes of Closing, which is all she has.
 
 - **The Telling.** The PCs agree to tell Amos. He listens, and goes out to the weir, and does not come back. Three days later he is found standing in the deep fen beyond the Landing, up to his painted mouth, and the Fen Guard will not wade in. Something down there has him by the ankle and will not let go.
 - **The Code.** A PC with the Elder's Ear Knack, or anyone who sits long enough at supper, notices the clicks. Finding someone who can read weir-code leads to Fenwick Lisp, and Fenwick wants something for his testimony: company.
 - **Two Closings.** Henna dies in her sleep, in Carving, during a session. She sits up in the morning, Kept, and makes breakfast. She asks the PCs to take her forty-second petition to the Court. It asks for two.
 
-Faced with threat, Henna threatens back with a ladle and the full force of a hundred and twelve years of bad temper; she is not frightened of anything that can only hurt her. Faced with kindness she is suspicious, then grateful, then ashamed of crying. Faced with the god she is calm: she has been waiting for it for ninety years and would like it to hurry up. If nobody intervenes, Henna dies in Lack 642, at a hundred and thirteen, and rises, and sets two places at the table, and the house on Pellet Row becomes a small, famous, terrible thing in the Sinks: two Kept at supper forever, one of them with a painted smile, the other scraping eel into a barrel, and the neighbors leaving the door shut.
+Faced with threat, Henna threatens back with a ladle and a hundred and twelve years of temper. Faced with kindness she is suspicious, then ashamed of crying. Faced with the god she would like it to hurry up. If nobody intervenes, she dies in Lack 642, rises, and sets two places, and the house on Pellet Row becomes a small, famous, terrible thing: two Kept at supper forever, one smiling in paint, the other scraping eel into a barrel, and the neighbors keeping the door shut.
 
 [box: Said of Them]
 "She's at the window at dusk every night, same as ever. You set your clock by Henna. Not that clocks finish neither." — Kept lamplighter, Pellet Row

@@ -36,11 +36,11 @@ She is not cruel and has never been. Her congregation adore her because she is t
 
 #### Their Story
 
-Vesper was born at the dusk-lamp bell on Wicker Stair in 601, the fourth child of a washerwoman and a Bonfire stoker, and went to the troughs at seven. She married a rope-carter, Florian Null, at nineteen, and pinched his wrist at the Ludmere Bonfire until it bled, and by every account loved him plainly and well. They had one daughter, Rue. In Lack 624 Rue came heavy, as children do at four, and on a grey afternoon in her mother's lap she went to the room while Vesper was counting aloud to her. Vesper did not let go of her for a day and a night. The Wakers had to cut the child's nightshirt to get her out of her mother's arms. Rue lies in the Small Rows now, a little over a hundred beds from the Farthing boy. She is still four.
+Vesper was born on Wicker Stair in 601, a washerwoman's daughter, at the troughs by seven. She married a rope-carter, Florian Null, at nineteen, pinching his wrist at the Ludmere Bonfire until it bled. In Lack 624 their daughter Rue came heavy, as children do at four, and on a grey afternoon went to the room in her mother's lap while Vesper counted aloud to her. The Wakers had to cut the child's nightshirt to get her out of her mother's arms. Rue lies in the Small Rows, a hundred beds from the Farthing boy. She is still four.
 
 Florian's heart went on the Row of rouse in 627. Vesper took no other nudger. She went to the Bedded, then a scatter of grieving families humming in cellars, and within two years was a Shepherd, sitting with those who meant to lie down and holding their hands while they did it. She did not urge anyone. She only stayed.
 
-In Carving 632, after nine years awake beside an empty space, Vesper Null lay down. Her flock had laid a floor of sacking in a whitewashed cellar under Wicker Stair and lit no lamp. Thirty of them sat round her in the dark singing *The Lamb and the Lid*, and she closed her eyes on the last line and her breathing slowed to four and they wept and kept singing, because that was the rite. They meant to carry her to the Dormitory at the morning bell. At the dusk-lamp bell, a full day later, while they were still keeping vigil over the body, Vesper opened her eyes, sat up, smiled at them, and said that the room was warm, and that everyone was there, and that she had been sent back to tell them so.
+In Carving 632, after nine years awake beside an empty space, Vesper lay down on sacking in a whitewashed cellar under Wicker Stair, while thirty of her flock sat round her in the dark singing *The Lamb and the Lid*. They meant to carry her to the Dormitory at the morning bell. At the dusk-lamp bell, a full day later, Vesper opened her eyes, sat up, smiled, and said that the room was warm, that everyone was there, and that she had been sent back to tell them so.
 
 The Bedded call it the Morning of the Sister, and it remade them. Before 632 they were mourners. Since then they have been a church, with a living proof at its centre. Every day since, Vesper has lain down on the sacking at the same bell, and every day she has woken. Nobody else has. The Bedded believe it is because she is beloved. The truth is in her secret.
 
@@ -48,7 +48,7 @@ The Bedded call it the Morning of the Sister, and it remade them. Before 632 the
 
 Vesper is the most wanted heretic in the Vigil and one of the best protected people on the Slope. The Wakers have held a warrant for her since 633; the patrols sent to serve it come back yawning, two never came back, and the Slope closes its lanes around her like a hand around a candle. She preaches in rotating lampless cellars, in a murmur, so that her listeners must keep still and quiet to hear: which is the danger, and the point. She also runs the Slope's only soup kitchen that serves soup warm, and the Shepherds, who are murderers under the law and midwives under her teaching.
 
-Her power is consent. She commands no Wakers and owns no oil. But in a city whose whole structure depends on people agreeing to suffer, she is the voice saying that they do not have to, and every quarter of the Watch fears her more than it fears the Tuckers, because the Tuckers only sell sleep, and Vesper is making it respectable. The Lessening has her on a list of its own. Lord Evander Quell has attended two of her sermons, veiled, and wept at both.
+Her power is consent. In a city whose whole structure depends on people agreeing to suffer, she is the voice saying they do not have to, and the Watch fears her more than the Tuckers, because the Tuckers only sell sleep and Vesper is making it respectable.
 
 #### What They Carry
 
@@ -61,7 +61,7 @@ Her power is consent. She commands no Wakers and owns no oil. But in a city whos
 
 #### Wants, Fears and Secrets
 
-Vesper wants the Waking Laws repealed and the city allowed to go home. She wants every family in the Vigil to stand at a bed without shame. She wants Corwin Half-Bell to tell her what he heard, and she wants to sit with Aveline Morne, whom she calls *the eldest sister*. She fears nothing anyone has seen, except, sometimes, in the minutes after waking, a door. She will stop mid-sentence in those minutes and look at the cellar door with an expression nobody in her flock has words for.
+Vesper wants the Waking Laws repealed and the city allowed to go home. She wants Corwin Half-Bell to tell her what he heard. She fears nothing anyone has seen, except, in the minutes after waking, a door: she will stop mid-sentence and look at the cellar door with an expression nobody in her flock has words for.
 
 **The secret the GM can reveal:** the real Vesper Null went to the room in 632 and did not come back. What sits up in her body every day at the dusk-lamp bell is something the room sends back, a little less like Vesper each time: an emissary practising. It is learning to walk, to speak, to be loved. Each morning it remembers a little less of her life (Rue's name is the latest thing to slip) and a little more of the room's. She is the first restless sleeper outside the Dormitory. Her body is the god's rehearsal for getting up.
 
@@ -73,13 +73,12 @@ Vesper wants the Waking Laws repealed and the city allowed to go home. She wants
 - **Aveline Morne** — *the eldest sister*. Vesper believes Bed One speaks for the room as she does. She is the reason the Bedded have begun to gather outside the Dormitory on Bed One's naming days.
 - **Odile Farthing** — Vesper sits with her at the foot of bed 40,112 and tells her Marten is coming home. Odile has begun to believe it.
 - **Captain Brannoch Pyre** — he holds the warrant and has twice stood in her congregation in plain clothes, with his needle in his sleeve, and not drawn it. She knows Merrit's bed number. She has never said so.
-- **Teodor Rell** — she wants the Lain Book's notes read at her services. He has refused. She brings him warm milk anyway.
 - **Registrar Constance Hobb** — Hobb entered into the record a fire that never burned, to justify condemning one of Vesper's cellars. Vesper preached in the ashes that were not there.
 - **Lord Evander Quell** — a veiled weeper in the back row. She knows exactly who he is. She does not know what he is for.
 
 #### In Play
 
-Characters meet Vesper by following a hum: a grieving contact who has started attending, a Waker who wants the warrant served, a Seemer who notes that every Seeming of a door opening clusters around her cellars. She wants from them what she wants from everyone: to be heard out, all the way to the end, sitting down. A character who listens to a whole sermon is in real danger (The Lull is Grim), and a party sent to arrest her should be warned by someone that the trouble is not getting in but staying awake once there.
+Characters meet Vesper by following a hum: a grieving contact who has started attending, a Waker with the warrant, a Seemer who notes that Seemings of opening doors cluster round her cellars. She wants to be heard out, to the end, sitting down. Warn a party sent to arrest her that the trouble is not getting in but staying awake once there.
 
 - **The Dusk Bell.** A Waker sergeant has finally found the whitewashed cellar where she sleeps. He wants the party to be there at the dusk-lamp bell, with needles, to see what gets up. When she wakes, she knows each of their names, and the name of someone each of them has lost.
 - **The Shepherd's Sitting.** A PC's ally asks Vesper's Shepherds to sit with them. The party has a day to change their mind, or to decide whether they have any right to try. Vesper will not stop them coming. She will ask them to sit down first.
@@ -124,7 +123,7 @@ The Rattlehouse is the loudest building in the Vigil, and he loves it. The chime
 
 #### Their Story
 
-Corwin was a carter's boy on the Slope, born at the half-bell, a cheerful, slightly stupid, much-loved young man with a talent for horses. In Carving 629, on a grey afternoon, after three days hauling oil-casks for the Lamplighters, he sat down on a kerbstone on Ostler's Rise to fix a strap and went to the room. Nobody saw him go. He lay in the gutter for most of half an hour while carts went round him, until one of his own horses, a spavined bay called Nettle that he had raised from a foal, stepped back in the traces and kicked him square in the ribs. Three ribs broke. He sat up screaming.
+Corwin was a cheerful carter's boy with a gift for horses. In Carving 629, on a grey afternoon, he sat on a kerbstone on Ostler's Rise to fix a strap and went to the room. He lay in the gutter for half an hour while carts went round him, until his own horse, a spavined bay called Nettle, stepped back in the traces and kicked him in the ribs. Three ribs broke. He sat up screaming.
 
 He is the only sleeper in three centuries who came back without a tether. The Tether Hall had him for a month, then the Apothecary-General, then the Watch. He said there was a room and an eye, as everyone says, and nothing else. Dr. Crane's notes record that under poppy he wept and repeated a single word, *polite*, for an hour.
 
@@ -144,7 +143,7 @@ Officially, nowhere: Corwin has no Standing, no vote, no legal existence. In pra
 
 #### Wants, Fears and Secrets
 
-Corwin wants never to be asked again. He wants a door that stays shut. He would like, very much, to be legally alive, though he will not say so, because he would like it so that he could marry the Rattlehouse laundress who wets a rag for him every morning and has never once asked what the room was like. He fears Vesper Null more than he fears the Wakers. He fears hearing a knock in a quiet street.
+Corwin wants never to be asked again, and a door that stays shut. He would like to be legally alive, so that he could marry the Rattlehouse laundress who wets a rag for him every morning and has never asked what the room was like. He fears Vesper Null more than the Wakers.
 
 **The secret the GM can reveal**, which he tells only to someone who has been in the room themselves: he heard knocking. Far behind him, at the other end of the long room, at a door none of the sleepers face, someone was knocking, slow and patient and polite, the way a guest knocks who knows they will be let in eventually. And the eye in the wall was not sleeping. It was holding still, the way a mouse holds still when the cat is in the kitchen. It was hiding. Every sleeper in the room was standing very quiet, very close together, between the door and the eye. He thinks, now, that they were not lost. He thinks they were a wall.
 
@@ -154,13 +153,12 @@ Corwin wants never to be asked again. He wants a door that stays shut. He would 
 
 - **Vesper Null** — she comes every Plate to ask him what he heard. He thinks that what woke up in her went past the door on its way back out, and that it is listening at it now, from the inside.
 - **Registrar Constance Hobb** — who killed him in ink. He has stood outside her office for a full watch, without a word, staring. She entered that as a Seeming too, and struck it.
-- **Sister Agathe Pinch** — the Mistress of the Needle treats him as a curiosity and a colleague. She once offered to teach him the Atlas. He suspects she wanted to test it on him.
 - **Senna Vole** — the Diver has visited twice. She is the only person he has nearly told. He thinks she already knows about the door; he thinks she is going to open it.
 - **Mirela Sconce** — the Seemer follows him because Seemings of open doors cluster round the Rattlehouse. He likes her; she asks only what he saw today.
 
 #### In Play
 
-Characters meet Corwin when they need someone who has been under and come back, and discover he is the only one, and that the city has made him a dead man so that nobody can make him talk. He wants nothing from them except to be left in his corner, and he will repay a party that defends that corner with a loyalty out of all proportion to the favour.
+Characters meet Corwin when they need someone who has been under and come back, and find the city has made its only such man legally dead. He wants only his corner, and repays those who defend it with loyalty out of all proportion.
 
 - **Witness for the Dead.** A trial before the Watch needs testimony about the room. Corwin is the only living witness and is legally dead. The party must get Hobb to strike her own entry, which she will not do, or find thirty people to Seem him alive.
 - **The Knock on Ostler's Rise.** Corwin hears it in the street at the second bell: a slow polite knock from inside a house with no door on that side. The house belonged to a family of Counted. He will not go in. He will ask the party to.
@@ -199,7 +197,7 @@ Dread: 1 (to stand in the tower when the great bell speaks)
 
 Thaddeus Knell is a slab of a man, bull-necked, with forearms thick as hawsers from fifty years of bell-ropes and hands that rasp on paper. His head is bald and freckled, his beard a grey shovel. His ears ooze a thin yellow weep that stains his collar, and he packs them with lint at every quarter. He speaks far too loud, in a flat foghorn voice, and reads lips badly, answering whatever he thinks was said.
 
-He is, oddly, the most rested-looking man on the Height. His eyes are clear. His colour is good. Other people in the Vigil assume he has a secret, a hidden Tucker, a Lash, a sin. The truth is simpler. He hears no lullaby, no rain, no murmur, no yawn; the silence inside his head is total, and it does not soothe him at all, because it is the silence of a tower that has stopped ringing. He stays awake out of pure dread of it.
+He is, oddly, the most rested-looking man on the Height, and people assume a hidden Tucker or a Lash. The truth is that he hears no lullaby, no rain, no yawn. The silence inside him is total and does not soothe him at all; it is the silence of a tower that has stopped ringing, and he stays awake out of dread of it.
 
 He moves heavily, rolls a little, plants his feet, and touches every bell-rope he passes as other men touch a lucky post.
 
@@ -223,7 +221,7 @@ The bells sound every quarter hour (every eighth on Yawn days), and the whole ci
 
 #### Wants, Fears and Secrets
 
-Knell wants an apprentice who will not go deaf, and has tried waxed ears, felt hoods, and a bucket of water over the head; none have worked. He wants Maud Sexton to admit what his teeth already know. He fears a silent quarter more than death. He fears, also, without admitting it, that his daughter is listening to the bells from the Dormitory and that they are the only thing she hears.
+Knell wants an apprentice who will not go deaf; wax, felt hoods and buckets of water have all failed. He fears a silent quarter more than death, and fears, without admitting it, that his daughter hears the bells from the Dormitory and that they are all she hears.
 
 **The secret the GM can reveal:** lately the bells do not shake his teeth on the quarter. They shake them a little after, a little later each day, as though the bell were struck at the right moment but its voice had further to travel to reach him. He has begun ringing by his teeth instead of the Hourkeeper's clock. The Ludmere tower is now three breaths behind the Pendulum Hall, and the city's eighty other towers follow Ludmere, not Maud. The Vigil is running on Knell's time. Nobody has noticed but Maud, who has said nothing because she cannot tell which of them is wrong.
 
@@ -235,11 +233,10 @@ Knell wants an apprentice who will not go deaf, and has tried waxed ears, felt h
 - **Corwin Half-Bell** — named for the bell Knell rang the night he was born. Knell once let him stand in the tower during the great peal. Corwin wept. Knell did not hear it.
 - **Lisbet Wakely** — the Warden's eye-wetter is his niece. She writes him one slate-letter a week. He keeps them all.
 - **Mirela Sconce** — she has asked whether the tall figure laying tables was seen at the same quarter in each district. He knows: it was always seen at the quarter, by his bells, never by Maud's.
-- **Garron Ashlock** — the Lamplighters keep his tower-lamps. They are friends of the old loud kind. Garron has asked him how long he could ring in the dark, if it came to it.
 
 #### In Play
 
-Characters meet Knell when the bells go wrong: a quarter missed, an Alarum rung on a bright day, a tower that rang thirteen. He is gruff, honest and unhelpful until a character writes to him on his slate, which disarms him completely. He wants an apprentice, a witness, and someone with good ears to stand in the tower at the second bell and tell him what they hear under the floor.
+Characters meet Knell when the bells go wrong. He is gruff and unhelpful until someone writes to him on his slate, which disarms him completely. He wants someone with good ears to stand in the tower at the second bell and tell him what is under the floor.
 
 - **The Silent Quarter.** One tower in the Slope has stopped ringing. Its ringer is standing at the rope, eyes open, smiling. In the half hour since, sixty people in the district have gone to the room. Knell wants it rung, now, by anyone.
 - **Two Clocks.** Maud asks the party to compare Ludmere's time with the pendulum at every quarter for a day. By evening the gap has grown. Which is the true hour, and who decides? The city cannot run on two.
@@ -299,7 +296,7 @@ An entered Seeming is read at the Bonfires and is true at law. Mirela decides wh
 
 #### Wants, Fears and Secrets
 
-Mirela wants to know what the figure is. She wants the Record to tell the truth, which in the Vigil is a revolutionary ambition. She wants to sit down, once, at a table, with someone she likes, and eat something hot, and she has started to feel that the card in her satchel is an invitation, not a threat. She fears Constance Hobb, who has started striking her entries without reading them. She fears her own wanting.
+Mirela wants to know what the figure is, and wants the Record to tell the truth, which in the Vigil is a revolutionary ambition. She also wants to sit at a table, once, and eat something hot, and has begun to feel the card in her satchel is an invitation. She fears that wanting more than she fears Hobb.
 
 **The secret the GM can reveal:** she saw it too, on Thimble Lane, at the tenth bell, and it looked up at her: a long pale face, kind and immensely tired, like a servant at the end of a feast. There was a card on the nearest plate and her name was on it. She has entered every Seeming of the figure but that one, because she was its only witness, and because she is a Seemer, and a Seeming of one did not occur.
 
@@ -308,7 +305,6 @@ Mirela wants to know what the figure is. She wants the Record to tell the truth,
 #### Ties
 
 - **Registrar Constance Hobb** — her superior and her censor. Mirela has begun to suspect Hobb is blinking. She does not yet know Hobb has entered things nobody saw.
-- **Corwin Half-Bell** — Seemings of open doors cluster around the Rattlehouse. She visits him to ask only what he saw today. He tells her. It is the most honest conversation either has.
 - **Thaddeus Knell** — the figure is always seen on the quarter, by Knell's bells, never by the Hourkeeper's. She has written this on his slate. He wrote back: I KNOW.
 - **Vesper Null** — the Bedded want Mirela to enter the Morning of the Sister as a Seeming. She has refused for nine years: too few witnesses who are not believers. She has been to the cellar at the dusk-lamp bell. She has not entered what she saw.
 - **Odile Farthing** — Mirela took her statement on the afternoon Marten went down, in 630, when she was new. She still has the slate. It is the only record anywhere of the boy's last words.
@@ -317,7 +313,7 @@ Mirela wants to know what the figure is. She wants the Record to tell the truth,
 
 #### In Play
 
-Characters meet Mirela when they witness something: a Seeming, a blink, a murder, a table. She arrives with her slate and asks them, one by one, what they saw, and listens with her head tilted, twice. She wants honest witnesses from outside the Vigil, who are less tired and less likely to share the city's hallucinations, and she will pay well in rouse and better in favours with the Record.
+Characters meet Mirela when they witness something. She asks each of them what they saw, head tilted, twice. She wants foreign witnesses, less tired and less likely to share the city's Seemings, and pays in rouse and favours with the Record.
 
 - **Enter It As True.** Mirela needs thirty unconnected witnesses to see the figure at once, so that even Hobb cannot strike it. She asks the party to help her stand thirty people in a lane on a grey afternoon and wait. What comes is not what she expected.
 - **The Struck Satchel.** The Registrar's clerks have learned what is in Mirela's satchel. Its possession is a crime. Mirela asks the party to hold it for a week. Every night they keep it, a table is laid somewhere in the house.
@@ -368,8 +364,6 @@ In 631 he questioned a Bedded Shepherd for nine days. On the ninth she thanked h
 
 The rich do not nudge one another. They hire. Jack has nine clients across the watches and a waiting list, trains under-valets for a fee, and knows the bodies of half the Watch better than their spouses do, and what they say when they drift.
 
-He depends on nobody but his clients, and they depend on him utterly: a Watcher who loses Jack loses the one person on the Lid who can keep them sharp through a long session on the Stair. That dependence is his power. He has never once blackmailed anyone. He has never once needed to.
-
 #### What They Carry
 
 - **The velvet roll** — black velvet, unrolled on a client's table like a jeweller's cloth: forty silver pins in graded lengths, from a hair-fine eyelash pin to a four-inch spine-pin. Each has a name. *Courtesy. Reminder. Good Morning. The Insistent.*
@@ -390,7 +384,6 @@ Jack wants to be the best at the one thing he has ever loved, and he is. He want
 
 #### Ties
 
-- **Sister Agathe Pinch** — his teacher, the only person whose pain he has ever admired as a colleague. She thinks he wasted himself on silk. He sends her ice.
 - **Lord Evander Quell** — his best client and his second paymaster. Jack thinks Quell is a connoisseur. Quell thinks Jack is a tool.
 - **Deputy-Watcher Sabine Larch** — the Lessening's paymaster. She hired him through a cut-out; he found out who she was in a week, by her pulse.
 - **Inspector Hale Grimmer** — they knew each other on the lower floors. Grimmer is closing in on Jack's two blink-murdering clients. Jack has offered to help, sincerely, which is the most suspicious thing he has ever done.
@@ -398,7 +391,7 @@ Jack wants to be the best at the one thing he has ever loved, and he is. He want
 
 #### In Play
 
-Characters meet Jack when they need to stay awake through something terrible and cannot afford Crane's strong rouse, or when they need information from the Height, or when someone they are hunting turns out to have spent their last lucid hours under his pins. He is charming, helpful and frank about everything except his ledgers. He will offer a character his services for a day, at a discount, out of professional curiosity: the body of a foreigner interests him.
+Characters meet Jack when they need to stay awake through something terrible, or need the Height's secrets, or find their quarry spent its last lucid hours under his pins. He is charming and frank about everything but his ledgers, and will offer a foreigner a discounted day out of professional curiosity.
 
 - **The Valet's Day.** A character must stay awake through a three-day Watch session to testify. Jack offers to keep them so. He is superb. He is also, at the last bell, reading something soothingly aloud.
 - **Two of Six.** Grimmer wants the party to take service as under-valets in Jack's household to learn which of his clients are blinking and why. Jack knows within a day. He hires them anyway.
@@ -476,12 +469,11 @@ He wants to know who, or what, is standing behind the killers' eyes, and why it 
 - **Jack Tenterhook** — old colleague, now a suspect's valet. Grimmer finds Jack's offer of help the most alarming thing that has happened this year.
 - **Sabine Larch** — he has her name, in his own list, as the hand that signs the copyists' pay. He does not yet know she is the First of the Lessening; he will.
 - **Mirela Sconce** — his only ally. They compare at the Bitterhouse gate. He would not survive the year without her slate.
-- **Teodor Rell** — boyhood neighbour. Grimmer sat with him the night Annick lay down. He checks Teodor's palms whenever they meet. Teodor has noticed.
 - **Rook Quarter-Bell** — his blink-murders are clustering on the western edge of the city, where Rook's brine-cut customers live. He wants to know why the room is leaning west.
 
 #### In Play
 
-Grimmer is the Vigil's natural employer for a party of investigators, and the hook *Forty-One* in the core book is his. He wants outsiders because outsiders are not on the lists and do not share the city's Seemings. He wants a character to blink deliberately, under guard, to find out what it is like to be used, and he will be honest about the risk.
+Grimmer is the natural employer for a party of investigators, and the core hook *Forty-One* is his. He wants outsiders, who are not on the lists and do not share the city's Seemings, and he will ask one of them to blink deliberately, under guard, and be honest about the risk.
 
 - **The Sitting Watch.** Grimmer has a list of the next names the Lessening's copyists will handle. He wants the party to sit with one of them, a fat cheerful orderly called Benno Rask, for three watches, with his wife and his brother, and see who blinks.
 - **The Opened Ones.** A fourth body opened in the midwife's line. It does not match the forty-one; it matches nothing. Grimmer suspects it has to do with the Lessening's trials in the oldest rows. He is wrong. The party may find out what is examining bodies the way a cook examines a cut.
