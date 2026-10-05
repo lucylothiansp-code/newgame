@@ -734,3 +734,129 @@ The *Follow* is **Unique**. A place aboard is not for sale: Dagna gives one to t
 ### Hook
 
 **Low Water, 642.** If nobody intervenes, the *Follow* makes its trial descent at the Low Water of Carving 642, the very night Finn Undertow's count closes, with Dagna, Hollis and four of Vell's men aboard, and the air-bladder rises to the surface without them, its valve shut by hand from inside. The PCs can be aboard, or on the surface at the bellows, or in the hold, or on the Headland with Finn, or at the slip at midnight, when Hollis Brine comes with the hammer one last time and finds them waiting.
+
+## Tablebreaker Axes
+
+[sigil: fast]
+
+> Lamp, plates, legs, top, chairs. Chairs last. Every chair. Every one.
+>> — Decline Marsh, teaching a new Axe
+
+### Lore and History
+
+The first table was broken with a spade, in 46 A.G., by a boy named **Forgo Hallam**, two years after his neighbours were found seated in their kitchen; he broke a different table, in a ruin, before anyone could sit, and walked home, and was sick, and was praised. For a century Unfed broke tables with whatever was to hand. Then, in 151, a smith of Wanting named **Abjure Coll** forged the first true **Tablebreaker's axe**, and wrote down the rite for making it, and every Axe since has carried one made to her rite or has carried nothing.
+
+### The Diagram in Words
+
+| Part | Material | Function |
+| The Head | grey iron, quenched in snow-water | a broad bit for splitting, a hammer-poll for legs |
+| The Haft | ash from a Rim tree, never a Fast tree | the length of the bearer's arm and a hand |
+| The Notches | knife-cuts down the haft | one for every table broken |
+| The Wrap | linen, unbleached, bound at the grip | never oiled, never with fat |
+| The Gauze-Ring | iron ring at the butt | ties the Rope-Holder's tether to the Axe's belt |
+
+A Tablebreaker's axe is a felling axe with a longer haft and a broad grey head, unpolished, its poll flattened to a hammer for knocking out legs. Nothing about it is beautiful. It is heavy at the head and thin in the throat, so that it bites deep and hates to come out, because the wood of Orrum's tables is like no other wood: it closes on the blade, gently, the way a hand closes on a hand.
+
+**The forging rites**, as Abjure Coll wrote them. The iron must come from the Rim, bought, never accepted. It is worked at an outdoor forge on bare ground, because a hearth is offered. It is quenched in snow-water or rain, never in a well, because a drawn bucket is offered. The haft is ash from a Rim tree, cut by the bearer, because Fast wood grows in Orrum's soil. No fat, oil or tallow touches it, ever; it is waxed, if at all, with beeswax from Cradlewrack. When it is finished it is carried, by the new Axe, to the Barrows below Hallowboard, and laid on the warm grass of the mounds overnight, alone, while the new Axe stands with their back to it until dawn. In the morning the axe is cold. If it is warm, it is not blessed, and must be broken and forged again.
+
+**Notch-lore.** Every table broken earns a notch, cut with the bearer's own knife on the evening after, in silence. Notches are cut in rows of nine, from the head down; a full haft holds about four hundred. A notch cut crooked means the bearer looked at the food. A notch cut twice means a chair was missed. A haft with a notch the bearer does not remember cutting is retired at once and buried in the Barrows: it has broken a table the Axe never saw.
+
+### Who Builds It, Who Uses It
+
+Three outdoor forges in Wanting make the axes, and the smiths are honoured. Tablebreaker bands of three to six carry them; Old Breakers carry the oldest. Rim buyers want them as curiosities and as weapons against Orrum's tables abroad, which have been found now at crossroads in three lands.
+
+### In Operation
+
+A Tablebreaker band approaches a table blindfolded in loose gauze, with wax in their ears and linen over their mouths, so that the food is a blur and the smell is muffled and the voice that says *sit down, love, it's still hot* is muffled too. The Sniffer leads. The Rope-Holder holds the tether. The Axe goes in. The first blow is to the lamp, so that the food cannot be seen clearly. Then the plates, which shatter and spray gravy, warm and fragrant, across the Axe's gauze, and the smell comes through the linen and the mouth floods. Then the legs. The wood does not splinter like wood. It gives, and sighs, a long sound, like a mother setting down a heavy dish she carried all that way for you. Then the top, which splits along the grain, and inside the grain is warm and pink and smells of bread. Then the chairs, every one, while the Rope-Holder pulls the Axe back by the belt each time they lean toward a seat. When it is done the Axe stands in the ruin, shaking, and the band waits in silence until the smell has gone.
+
+[pull] Four hundred and ten notches. One I don't remember cutting. I buried it at the Barrows and it was warm when I set it down. | — Old Breaker Shun Ellery, at Tablenight
+
+### Rules
+
+A Tablebreaker's axe is a weapon: **(5) Brutal, Two-Handed; +4 vs furniture**, as in the Rim Market chapter. A Barrow-blessed axe also **ignores any warding of Orrum's tables**, and a laid table broken with one is broken: it will not be found laid again in that place for a season.
+
+**Breaking a table** takes a number of successful Hand + Blades rolls at Hard 14 equal to the number of places laid plus one. While breaking, the Axe must make an Invitation check each round at the table's strength (Hard 14 for a table seen at arm's length; Grim 18 if a card bears their name); gauze and wax give +2, and a Rope-Holder may haul them back once a round (opposed Gut + Brawl against the table's pull, which the GM rolls at +6). Each table broken gives the Axe +2 Want and 1 Fray.
+
+**The notch.** A character who has broken 100 tables gains +1 on every Invitation check against a laid table; 400 tables, +2. A character who finds a notch on their haft they did not cut makes a Dread 2 check and must retire the axe.
+
+**Forging** is a Long Task: Hand + Craft at Hard 14, a day a roll, three successes, 25 lacks of Rim iron and ash, then the night on the Barrows (Caul + Resolve at Hard 14 to keep one's back turned until dawn; a failure means the bearer looked, and the axe is warm in the morning).
+
+### Failure Table (d6)
+
+| d6 | The axe fails |
+| 1 | The blade sticks fast in the table-top, which closes on it like a mouth. Grim 18 Gut + Labor to pull it free; until then, the Axe is standing at an open chair with their hands on the haft. |
+| 2 | The haft cracks along a row of notches. It will hold one more table. |
+| 3 | A splinter of the table goes into the Axe's palm and will not come out. It is warm. It smells of bread. Taint 1 Regrowth (the Host) each day it stays in. |
+| 4 | The Axe broke the table and missed a chair. Nobody noticed until morning, when it is found standing whole in the ruin, pulled out. |
+| 5 | The axe-head comes off on the backswing and flies into the dark. When it is found it is lying on a laid table a mile west, on a folded napkin, at a place set for the Axe. |
+| 6 | There is a new notch in the haft in the morning, neatly cut, in a hand not the bearer's, and a crumb in it. |
+
+### Cost and Availability
+
+**40 lacks**, Scarce, from a Wanting forge to an Unfed buyer; Rare and **120 lacks** to anyone else, and the smith will not forge for a Godeater at any price. A Tablebreaker's wedge (+2 to break furniture) is 3 lacks.
+
+### Hook
+
+**The Axe in the Window.** A Rim pawnbroker in Gristmoot has a Tablebreaker's axe in his window with four hundred notches on it and a card tied to the haft. It is Decline Marsh's. Decline swears it is beside his bed, and it is. There are two of them. The one in the window has one more notch than his, and the card tied to it is in his mother's hand, and says *thank you*.
+
+## Kept-Restraints
+
+[sigil: sallowreach]
+
+> Mittens on the hands. Wire on the jaw. Frame on the neck. Name on the shelf.
+>> — Seamers' Guild skipping rhyme, Lastgate undercity
+
+### Lore and History
+
+Sallowreach has restrained its own for six hundred years, for three reasons: the Hand-lines whose touch has become too strong, the Kept whose bodies are too far gone to hold themselves together, and the criminals of both kinds. The Stitching Laws of 130 A.G. made falling apart in public a fineable offence and created a trade in braces, binders, wires and frames that is now the Seamers' Guild's second income after thread. The Licensing of 301 made the Hand-lines' touch a sold good, and the lead mitten its lock.
+
+### The Diagram in Words
+
+| Device | Material | Function | Worn by |
+| Lead mittens | sheet lead, lambskin lining, padlocked cuff | block a Hand-line's touch | Hand-lines in the Course; Osric Vane |
+| Appetite mittens | wool and wire | stop compulsive closing | Hand-lines at the Appetite |
+| Jaw-wire | silver or iron wire, cork pads | holds a dropping jaw shut, or a biting one | Loose Kept; criminals; screamers |
+| Quiet-wire | iron wire through the lips | Court sentence for the noisy dead | the Kept of Lastgate's lower courts |
+| Neck-frame | iron hoops, leather, brass screws | holds up a head whose neck has rotted | Loose and Ruinous Kept |
+| Shelf-collar | iron, chained to the Loft shelf | holds the Set-Aside on their shelves | the Lofts |
+
+**Lead mittens** are buckets of sheet lead a finger thick, shaped to a fist, lined with lambskin, closing at the wrist with a hinged cuff and a padlock whose key is held by someone else. Lead is the only thing through which a Closing touch will not pass. Osric Vane's are the largest ever made, because his nine-jointed fingers are a span and a half long; they weigh thirty pounds each, and the floors of his wing at Glovehall are scored with the marks of him dragging them. **Jaw-wires** are a Seamer's craft: a loop of wire passed under the cheekbones and around the jaw, padded with cork, twisted tight at the temple, so that a Kept whose jaw muscles have rotted can keep their mouth closed in company. A tight jaw-wire also stops a biter, and the courts use it, as the **quiet-wire**, through the lips, on Kept sentenced for screaming at the living. **Neck-frames** are three iron hoops at collarbone, throat and jaw, joined by sliding rods and brass screws, so that a head whose neck has gone to string can be held upright and turned by hand.
+
+### In Operation
+
+Lead mittens are cold, heavy, and always faintly damp inside from the hands' own chill. The arms of a long-time wearer are thick at the shoulder and wasted at the wrist; the padlock rattles against the lead at every step. When the mitten is unlocked, the smell that comes out is of damp stone and lamb's wool and something like an empty room. The jaw-wire squeaks when a Kept speaks through it, the words forced out between locked teeth; the cork pads go black with seepage and must be changed weekly. The neck-frame creaks when its wearer turns, and a well-fitted one lets a grandmother nod at a dinner party with only a faint ratcheting sound from her collar. In the Lofts, nine storeys of shelf-collars clink on their chains all night, a sound like a vast slow wind-chime, and on feast days the families who come to read aloud must unscrew them, so they can turn the old heads to look at them.
+
+[pull] He asks me to unlock them, very politely, every visit. He says he'd only use them on the enemy. I ask him who the enemy is. He says, whoever you like, Corrow. | — Lady Corrow Vane, of her brother's mittens
+
+### Rules
+
+**Lead mittens** block any Closing touch completely. As a weapon they are **(3) Stunning** (see the Rim Market chapter); while wearing them, a character is at −4 to any Hand roll needing fingers. Removing locked mittens without the key is Hand + Filch at Grim 18, or Gut + Labor at Dire 22 to tear the cuff. A Hand-line at the Course who wears them for a month gains 1 Hunger a week; at the Brink, the lead begins to grey and cool and, over a year, to finish: it pits, and flakes, and must be replaced.
+
+**Jaw-wire** gives a Kept character no penalty in company (the Rot track's Persuade penalty is reduced by 1) but −2 to any speech roll. A biter in a tight jaw-wire cannot bite. Fitting one is Hand + Stitching at Routine 10.
+
+**Neck-frame** lets a Kept at Rot 5 or more act without shedding the head on exertion (ignore head results on What Comes Loose). It counts as Armor 1 for the neck, and is Noisy.
+
+**Shelf-collar.** A Set-Aside body in a collar cannot be moved without the Warden's key; Marrow Jack's boys carry bolt-cutters.
+
+### Failure Table (d6)
+
+| d6 | The restraint fails |
+| 1 | The padlock on a mitten has rusted shut in the fen's weep. The wearer cannot be unlocked even by the keyholder; the cuff must be sawn, and the saw passes close to the skin. |
+| 2 | The lead has worn thin at the fingertip. Something the wearer was touching, a candle, a conversation, a cat, ends. |
+| 3 | A jaw-wire snaps mid-sentence. The jaw drops to the chest and stays there, and the rest of the sentence is said anyway, from somewhere lower. |
+| 4 | A neck-frame screw slips. The head turns all the way round, slowly, with a ratchet sound, and goes on talking to the room behind it. Dread 2 for the dinner party. |
+| 5 | The mittens are off. Nobody unlocked them. The padlocks are lying open on the floor, neatly, side by side, and the keyholder has the only key in their pocket, and is very cold. |
+| 6 | A whole row of shelf-collars in the Lofts unlocks at once, at the stroke of midnight. Forty of the Set-Aside sit up on their shelves in a long row, and turn their framed heads, and say the same word. |
+
+### Cost and Availability
+
+| Item | Cost | Availability | Notes |
+| Lead mittens, a pair | 25 L | Scarce | padlocks extra; Osric's cost 400 |
+| Hand-line mittens (wool) | 8 L | Common | Appetite only |
+| Jaw-wire, silver | 6 L | Common | iron 1 L; fitting 2 c |
+| Neck-frame | 18 L | Common | Seamers' Guild; adjusted yearly |
+| Shelf-collar and chain | 4 L | Uncommon | Loft-Wardens only, officially |
+
+### Hook
+
+**The Key.** Lady Corrow Vane keeps the only key to her brother's mittens on a chain around her neck, under her gloves. It has been stolen while she slept. The PCs are hired, quietly, to find it before Osric learns. Osric already knows. He has asked his guards, politely, to tell whoever has it that he is not angry, and that he would like very much to shake their hand.
