@@ -335,7 +335,7 @@ The capital, carved into both walls of the deepest canyon. Half a million people
 
 The slum of the Forsworn, on the canyon floor below Tacit, where the river runs green and the sun reaches for two hours a day. Here live the broken: men without hands, women with mouths opened back to the ear, people walking on legs that bend the wrong way, people whose ribs stand open under oiled cloth. It is the loudest place in Oathen, because the people in it have nothing left to lose. They swear constantly, defiantly, on broken parts that cannot break again. They sing. They mock the Walls overhead. Their lanes are named for the oaths their founders broke: Fair Weight Row, Back-Before-Dark, the Never Alley, I'll-Stand-By-You, Till-Death Court.
 
-[pull] LIES TOLD — 3 L. UNDER OATH IN A COURT — 10 L. LOVE, SWORN — 2 L, AND YOU BUY THE DRINK. NO CHILDREN. NO DEBTS. — chalked on a board at the corner of Honest Measure
+[pull] LIES TOLD — 3 L. UNDER OATH IN A COURT — 10 L. LOVE, SWORN — 2 L, AND YOU BUY THE DRINK. NO CHILDREN. NO DEBTS. | — chalked on a board at the corner of Honest Measure
 
 #### Sworn Gorge
 
@@ -514,7 +514,7 @@ Oatheners eat goat, canyon lizard, flatbread baked on hot stones, dried figs, an
 
 Dress is plain and close-fitting, in dust-red and ochre wool, with long sleeves to hide what broke. The Tongue-lines wear high collars and veils across the mouth, white for the unwed, black for those whose vows are many. Rings are worn on the thumbs as reminders of oaths outstanding: a ring per vow, so that a man's hands tell you how much he owes. The Forsworn go bare where they broke, as a point of pride.
 
-[pull] FIGS, DRIED, A CRUMB THE HANDFUL. FRESH THIS MORNING, I AM TOLD. — chalked on a stall-board in the Felt Market; the "I am told" is in a different hand, added after the bread-woman's finger
+[pull] FIGS, DRIED, A CRUMB THE HANDFUL. FRESH THIS MORNING, I AM TOLD. | — chalked on a stall-board in the Felt Market; the "I am told" is in a different hand, added after the bread-woman's finger
 
 ### Marriage and Kin
 

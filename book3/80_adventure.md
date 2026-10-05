@@ -999,3 +999,128 @@ We have not slept in three hundred years, Castellan. I find I no longer wish to 
 [/fiction]
 
 It is not true. The card does not say *Late* in the sense she means; it is not for her or for her people. But it is the most convincing thing anyone at Thimble Cross has said in six days, and the room believes it, and so, almost, does she. That night, the consensus forms.
+
+[pagebreak]
+
+## Act Three: The Ninth Chair (Day Seven)
+
+### The Demand
+
+On the night of Day Six, or the morning of Tablenight, the inn meets in the common room around the Host's table, because there is nowhere else warm. The consensus builds out of every frightened voice in the house, and the Carver should let each speak:
+
+- **Clemency** says the Host will pass a house that offers it a clean guest: a mouth with no god in it. The ninth card is for the empty one.
+- **Brawn** says this is only the dusk roster by another name, and sound husbandry: feed the table one by choice and it will not take nine by force.
+- **Vellum**, sworn and unbitted, says that a full table is a table the Host must come to sit at, and that she will pay any price to fill it, and says exactly why, which nobody hears, because nobody wants to.
+- **Hepzibah** says the house cannot refuse a guest, and a chair laid empty in her house is a guest refused.
+- **Ardent**, asked directly whether filling the ninth chair will spare the others, says, with terrible gentleness, "I don't know. Nobody has ever sat there." The room hears what it needs to.
+
+The demand settles on Refrain, because she is Unfed, because she is caged, because she has said herself that the card bears her people's name, and because she belongs to nobody in the room. Kale will not give up his property for nothing; Vellum's note already binds him to deliver her to this table, and he would like, he says, to be paid twice. What follows is an auction in reverse: the frightened inn passes a hat for the price of a woman.
+
+[fiction]
+Handout: The Hat (a list kept by Warden Haverick, who was asked to hold the collection because his ledger cannot lie, and who could find no clause to refuse).
+Subscribed at Thimble Cross, Tablenight morning, toward the price of the Unfed woman, R. Dole, payable to K. Dragoman, she to be seated.
+H. Brawn, for the Board: one platter, sealed. (20)
+V. Serrat: a sworn note, against her own flesh, for the balance, whatever it shall be.
+The drovers of the late A. Crumm: his purse. (14 lacks, 6 crumbs)
+Sister C. Voide: her basins, which were refused.
+L. Trotter: a ribbon. Refused. Taken back. Offered again. Taken.
+M. Sloe: nothing. Said she would not. Wept.
+Mistress Thimble: the house's bread money. (2 lacks)
+The guests: (the characters' names, and what they gave, or did not)
+Total, as reckoned: sufficient.
+Entered under Peace. God help me, entered under Peace.
+[/fiction]
+
+Let the characters choose whether to pay, to refuse, to fight, or to offer someone else, themselves included. Whatever they choose, write it into the Hat.
+
+[box: If the Players Fight the Demand]
+They may. Freeing Refrain from the cage and holding the stable against Kale's men and Clemency's converts is a fine, desperate scene (see Combat Encounters). It changes nothing that matters. If Refrain is free, she listens to the room arguing over who else should go: Merrit, whose card is on the table; Dorcas, who has asked to; a character. And she walks into the common room on her own feet, with her axe over her shoulder, and sits down in the ninth chair. "Not because you asked," she says. "Because I'm the only one here who knows how to sit at that table and still mean no." If the players have kept her caged and treated her as stock, she is dragged to the chair instead, by drovers who will not meet her eyes, and that is worse.
+[/box]
+
+[box: Other Volunteers]
+If Refrain is dead, gone, or the players have made another figure the heart of the story, the volunteer is whoever they love most. Merrit Sloe volunteers because her card is already on the table and she reckons she might as well sit in a better chair. Dorcas Thimble volunteers because the ninth chair is the one place on earth her oath cannot follow her. Haverick volunteers, in the Company's form, because a warden who gives himself keeps the peace by definition. A player character may volunteer; let them, and let it cost exactly what it costs everyone else. Never force a character into the chair.
+[/box]
+
+### The Sacrifice
+
+At dusk on Tablenight the volunteer is washed, as the Fast washes its dead, standing, in cold water, by someone who does not speak; Hepzibah lays a clean napkin over their arm. Ardent, who cannot refuse to help lay a table, draws the ninth chair out from the table for the first time in six hundred and forty years. It makes a small sound on the flags. Everyone in the room makes a Dread 2 check.
+
+[fiction]
+Refrain does not thank it. She sits down in it the way a woman sits down in a surgeon's chair, all at once, with her jaw set, and lays her axe across her knees. Nothing happens. The bread steams. The lamps burn. Somebody laughs, high and frightened, and stops. Refrain looks at the plate in front of her, which is empty, and says, "No, thank you," and then again, and then a third time, and her voice cracks on the third, because the smell of the bread is coming up off the empty plate and she has been hungry her whole life. She does not say it a fourth time. Her hand is shaking on the axe. Ardent, in the corner, has begun to untie his apron, very slowly, with his eyes shut, as though he has been told he may. Outside, the marbling across the yard begins, very slowly, to melt, in a long dark path from the north gate to the door.
+[/fiction]
+
+### The Host
+
+At midnight the Host comes, as it was always going to.
+
+The door opens without a hand on it. The room goes warm all at once, warm as a kitchen on baking day, and every hungry person in it feels their mouth flood. Something stoops in the doorway, too tall for it, and comes in. Nobody sees its face. Characters who try to look straight at it see only the impression of a broad, kind, bending shape, an apron, enormous patient hands, and the light of the lamps leaning toward it. To be in the presence of the Host is a Dread 4 check; to look for its face is Dread 5. Every character must also make an Invitation check (Grim 18, or Dire 22 within reach of their own chair) to keep from walking to their own place and sitting down, and Refrain's Gift may help one of them.
+
+The Host goes first to the ninth chair. It stands over the volunteer for a long moment. Then, gently, the way you would lift a sleeping child from a chair that belonged to a grandparent, it lifts them out. It is not angry. It is something like sorry.
+
+Ardent, in the corner, with his apron half untied, whispers, "Oh. Oh, no. That isn't anybody's. It's not for sitting in." And ties his apron again.
+
+The Host pushes the ninth chair back in, square to the table, its back to the lamp. Then it lays another place. The table is a little longer than it was. There is a new plate, a new chair pulled out a hand's width, and a new card in a fine round hand, and the name on it is the volunteer's, and the handwriting is their mother's. The volunteer reads it. Their face changes. They sit down at their own place, and lift the empty fork, and put it in their mouth, and close their eyes.
+
+[fiction]
+"Oh," says Refrain Dole, who broke two hundred and six tables, who never once in her life ate until she was full. "Oh, it's bread. It's just bread. It's warm. Why did nobody tell me it was just bread?" She is crying. She is smiling. She takes another bite of nothing. The axe slides off her knees and rings on the flags and she does not look down. "You should sit down," she says to you, kindly, with her mouth full. "There's enough. I didn't know there would be enough."
+[/fiction]
+
+Watching this is Dread 4. It is the moment the players understand the sacrifice bought nothing. Any character who paid into the Hat, carried the volunteer to the chair, or argued for the choosing faces Dread 5 instead: knowing that what you did changed nothing. The ninth chair is still empty. Their own cards are still on the table. The Host turns, warm and patient, toward the rest of the room, and the invitation stands. Outside, at the edges of the dark path, the marbling is still hungry, and the Reaping will take anyone who flees across it alone before dawn. Nothing has changed except that there is one more guest at the table, and she is happy, and she will be happy for a hundred years.
+
+[bigquote] I didn't know there would be enough. | — Refrain Dole, Seated, Tablenight 641
+
+From here, play out the night. Each hour until dawn, every character inside the inn makes an Invitation check to stay out of their chair; Seated NPCs call to them by name; the hungry and the Seemed walk past them to sit. The Host does not compel anyone. It only waits, and lays more food, and is kind.
+
+### Tablenight, Minute by Minute
+
+The table below is the long night as it falls if the characters do nothing to bend it. Times are by the toll-house clock, which Haverick winds at every ledger entry; from midnight it runs slow, losing a minute in every five, so that by dawn it is nearly an hour behind the sun, and nobody notices until they look outside. Use it as a spine. Move events, drop them, or let the characters break them; but keep the clock visible, and read the time aloud whenever it changes.
+
+| Time | What Happens | Rolls and Notes |
+| 3:30 | The volunteer is washed in the kitchen, standing, in cold water | Witnesses: Dread 1. Merrit holds the towel |
+| 4:00 | The house gathers in the common room; lamps lit at head and foot | The marbling creeps over the common-room boards |
+| 4:12 | Sunset. The yard goes still | Anyone outside alone: the Reaping begins |
+| 4:20 | Ardent draws out the ninth chair | Dread 2, all present |
+| 4:21 | The volunteer sits. Nothing happens | Ardent begins to untie his apron |
+| 4:30 | "No, thank you," three times. Not a fourth | Unfed present gain 1 Want |
+| 4:45 | The dark path melts from the north gate to the door, steaming | The path is safe ground until dawn |
+| 5:02 | Full dark. The Reaping ends for the night | Brawn closes his little book |
+| 5:30 | Hepzibah sets the pine tables for the dead and serves them nothing | Seeming check (Hard 14) each hour from now |
+| 6:00 | Vellum unwraps her silver carving set and lays it out at her place | Clause or Persuade to stop her: she cannot lie about why |
+| 6:40 | Brawn eats from a notched barrel at the hearth, slowly, all of it | Dread 2 to watch. Laden Taste for anyone who joins him |
+| 7:00 | Envoy Lowell (if present) reads the numbers of each house aloud | Each character hears their line's figure: Dread 1 |
+| 7:18 | Brawn, hearing his line's figure, stabs the Envoy with a Host's fork | Dread 2; Haverick's Wear: a broken finger |
+| 8:00 | The first hourly Invitation check for everyone not yet Seated | Grim 18; Dire 22 within reach of a chair |
+| 8:30 | Gus Haslet and Tam Pettle sit, together, holding hands | Dread 2. The table lengthens |
+| 9:00 | Clemency, cramping, purges herself at the table's head, then a convert | Dread 2. She asks a character to hold her hair |
+| 9:40 | Merrit stands at the west window and will not come away | Caul + Resolve or Tongue + Persuade to bring her back |
+| 10:00 | Bell, asleep by the wall, sighs once and her breathing changes | Her nudger: Dread 2 |
+| 10:30 | The smell of bread reaches every room, even the stable | Routine 10 Invitation check, everywhere in the house |
+| 11:00 | Haverick makes his last ledger entry and dates the line *Warden relieved* | He asks a character to witness it |
+| 11:30 | Every window fogs at once, from outside | Dread 2. Something very tall is counting the chairs |
+| 11:52 | All the lamps lean, flames bent toward the door | Hepzibah stands and smooths her apron |
+| 12:00 | The door opens. The Host comes in | Dread 4; Dread 5 to look for its face |
+| 12:01 | Invitation checks for all, at once | Refrain's Gift may help one character |
+| 12:03 | The Host stands over the ninth chair | Ardent's hands still on his apron strings |
+| 12:04 | It lifts the volunteer out. "Oh. Oh, no." | Ardent ties his apron again |
+| 12:06 | Another place laid; the table longer | The card in the volunteer's mother's hand |
+| 12:08 | The volunteer sits at their own place and eats air, weeping, smiling | Dread 4; Dread 5 for any who chose them |
+| 12:15 | Hepzibah sits at her card, first of the Thimbles | Dorcas: Caul + Resolve or follow her mother |
+| 12:30 | Linus sits beside his mother, and is at peace | Dorcas alone of the blood still standing |
+| 12:45 | Kale asks the Host, three times, whether it would like anything | It lays him a place. He sits, to be polite |
+| 1:00 | Hourly Invitation check. The Seated begin calling names | Grim 18; each Seated friend who calls: another check |
+| 1:30 | Vellum carves (see below) | Dread 3; the first slice |
+| 2:00 | Hourly check. Clemency sits, emptied, and is surprised to be fed | The table is longer than the room by twenty feet |
+| 2:40 | Brawn, unable to bear the warmth, walks out into the yard alone | Off the dark path: the field takes him, slowly |
+| 3:00 | Hourly check. Ardent speaks to the character who has refused him best | The offer of Relief (Ending Two) |
+| 4:00 | Hourly check. The coldest hour outside; the warmest in | Dorcas goes to the boundary stones, or sits |
+| 5:00 | Hourly check. Merrit's last count, called down through the floor | The Seated answer, cheerfully, every one |
+| 6:00 | Hourly check. Haverick fails the peace. He goes quietly into the toll house | Dread 2 for anyone who follows |
+| 7:00 | Hourly check. The hungriest hour. Even the Unfed smell their mothers' kitchens | +2 Difficulty this hour only |
+| 7:48 | Dawn. The warmth goes out of the air all at once | The Host is gone. The table is not |
+| 7:50 | The marbling melts to a yellow slush and runs away down the road | The inn is silent but for cutlery |
+
+**Vellum carves.** At half past one, Lady Vellum Serrat rises from her place with her silver carving knife and fork, walks to the Host, and asks it, plainly, without a single condition, whether she may. It inclines its great head. She sets the fork into the warm dark where its hand rests on the back of a chair, and draws the knife, and the knife goes in like a knife into a new loaf, and comes away with a slice. The slice is bread. It is warm. She carries it, bleeding from the tongue, down the long table to the place card that says *Casimir Hollowe-Vane*, where nobody is sitting, and lays it on his empty plate, and her oath is kept. Then she looks at the Host, and understands at last that being carved is the only thing it has ever wanted, and she laughs, through the blood, and sits down at her own place to eat. Witnessing this is Dread 3. The Second Table has been sending its knives to the wrong god's house for twenty years.
+
+[pull] Oh. Oh, it wants it. It always wanted it. We have been fighting to be let in at a door it was holding open. | — Lady Vellum Serrat, at half past one
+
+**Dorcas at the stones.** At four, if she has not been helped, Dorcas Thimble walks out of the inn along the dark path, and then off it, across the melting white, to the boundary stones at the Bend, with her law-books in a sack on her back. If no one goes with her, she is alone on marbled ground in the dark, and the field may have her before the charter does; if someone goes with her, the field leaves her be. At the stones she stops and looks back once at the inn, all its windows golden, all its chimneys smoking for the first time in two hundred years, and then she steps over. What happens next depends on what the characters have done for her (see Endings and After the Snow). If they have done nothing, it is the charter, and it is very bad, and she does it anyway, and she walks on a little way afterward, which is not possible, and then sits down in the road facing south, away from the light.

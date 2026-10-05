@@ -800,10 +800,9 @@ In the margin, in a different and much neater hand: *The Matron says the count k
 
 [box: Cross-Border Powers in the Vigil]
 The **Rim Road Company** runs the Last Beds and the oil convoys, and holds the Watch's debts. The **Cutwrights' College** keeps a house on the Height whose ledgers show which Eye-line families have produced no Counted in three centuries, and which Slope families have produced the most. The **Purgation** has a cell in the Bitterhouse that believes Iss can be vomited back up by a rouse strong enough to keep the whole city awake for a year. The **Second Table** has three Watchers and a Lamplighter-General's deputy, and a very simple plan for the morning the eye opens: knives, felt-wrapped, and a lullaby. The **Reckoners** have never sent a raid to the Vigil. The Vigil's nobles do not sleep, and that makes them hard to kill in their beds.
+[/box]
 
 [pull] Beds, a lack the night. Looking, a crumb. Lying down, not for sale to natives. Dragging out, free of charge. | — the board at the door of the Sleeping Sheds, Lampwick Halt
-
-[/box]
 
 ## The Vigil Now
 

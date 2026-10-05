@@ -951,3 +951,162 @@ At the end of each downtime period, the Carver rolls a d20 for one Guest's Who W
 | 20 | They are well, and they have news, and it is good, and it is real. Let it be real. |
 
 [pull] Nobody on the Table goes home. They go back, which is different, and they find out how different when they knock. | — Cradlewrack saying, from a country where you must
+
+## Oaths on the Dead
+
+Every Guest begins with an Oath on the Dead, and any character may swear another. To swear on the dead, you speak the full name of a dead person, ideally where they lie, and promise something in their name.
+
+- **The Strength of the Dead:** once per scene, when you act directly to keep the oath, add +2 to a roll.
+- **Keeping:** when you fulfil an oath on the dead, remove all Fray and gain 2 Portions.
+- **Breaking:** if you deliberately break the oath, the dead come to collect. Gain 3 Fray immediately and suffer a **Visitation**, chosen by the Carver and shaped by the land where you swore: in Sallowreach the dead person, Kept, finds you; in the Fatlands you taste them in every meal; in Brinehollow their voice calls you from the water; in the Vigil they wait for you in every blink; in Cradlewrack you bear something with their face; in Oathen your body breaks to match the promise; in the Fast a place card bearing their name appears at every table you pass.
+
+Swearing on the dead is not a light thing anywhere, and the Table is full of people who swore too easily. Grave-oaths sworn on the desecrated dead, over a body that has been opened or eaten or robbed, are said to bind twice as hard.
+
+### The Swearing, Clarified
+
+- **Where.** An oath sworn where the dead one lies (at the grave, the niche, the Loft shelf, the wake-table, the shore where they walked in, the bed in the Dormitory) is the full oath. An oath sworn elsewhere works, but its Visitation is shaped by the land where the dead one lies, not where you stood.
+- **How many.** A Guest may carry several oaths on the dead. Each grants its own Strength, once per scene, only when acting for that oath. When two oaths conflict, keeping one may break the other. The dead do not arbitrate. That is the point.
+- **Twice as hard.** An oath sworn over the desecrated dead grants **+2 Strength twice per scene** instead of once. Keeping it removes all Fray and grants 3 Portions. Breaking it brings **two** Visitations, and the second one the Carver does not have to tell you about until it arrives.
+- **Oathen.** Within Oathen, oaths on the dead are also Weight 5 oaths under Tolm, with the Breaking, the Testifying and all the rest that the Oathen chapter gives. They break you twice: once in the body, once from the dead.
+- **Deliberately.** Only a deliberate breach brings a Visitation. A Guest who fails to keep an oath despite trying, who is prevented, who dies trying, is not forsworn. The dead are not unfair. They are only very patient.
+
+### Visitations
+
+A Visitation is not a single event. It returns, at least once a session, until the Guest makes **amends**: swears a new oath on the same dead, at the same place, for something harder than the first, and keeps it. Each Visitation that lands calls for a Dread check at the rating shown, or the Carver's judgment. Roll a d10 on the table for the land where the dead one lies, or choose.
+
+[pull] Promise the living what you like. They forget. | — fen proverb, the first half. The second half is never said aloud.
+
+#### Sallowreach: The Kept Come Calling
+
+| d10 | Visitation (Dread) |
+| 1 | They find you. Kept, rotted to the degree time allows, standing at the foot of your bed, asking why. (3) |
+| 2 | A parcel arrives: one of their hands, wrapped, still gripping. It holds yours when you sleep. (2) |
+| 3 | Every candle you light is a Tallow candle, and it is them, and it feels itself burn. (2) |
+| 4 | Your own fingers go cold to the knuckle and will not warm. Things you touch end a little. (2) |
+| 5 | A Loft-Warden writes to say that the shelved dead have begun whispering your name in their sleep. (1) |
+| 6 | Flies follow you, a small front, and in their sound is their voice, finishing the sentence of your oath. (2) |
+| 7 | You hear them breathing in the next room. The dead in Sallowreach do not breathe. (2) |
+| 8 | A Seamer's bill arrives for their restitching, made out in your name. Then another. Then another. (1) |
+| 9 | Your reflection's mouth is stitched shut. (3) |
+| 10 | They forgive you, in writing, in their own hand, every week, and it is worse than anything. (3) |
+
+#### The Fatlands: The Taste of Them
+
+| d10 | Visitation (Dread) |
+| 1 | You taste them in every meal: their skin, their sweat, their mother's cooking. (2) |
+| 2 | A field near the road has their birthmark, white in the marbling. (2) |
+| 3 | Bread you break is full of their hair. (2) |
+| 4 | You are invited to their wake. You are told you were already at it, and you ate well. (3) |
+| 5 | Your belly growls in their voice, saying the oath. Everyone at the table hears. (2) |
+| 6 | A root in your garden has their face, eyes shut, and grows a little every night. (2) |
+| 7 | Nothing you eat stays down except one dish: the last one they cooked. (1) |
+| 8 | Your Want of the Second Plate fixes on their kin. (3) |
+| 9 | The Cullmasters receive your name, in their handwriting. (2) |
+| 10 | A small warm hill rises in a field you pass, and it says your childhood name. (4) |
+
+#### Brinehollow: The Voice from the Water
+
+| d10 | Visitation (Dread) |
+| 1 | Their voice calls you from the water, any water: a washbasin, a puddle, your cup. (2) |
+| 2 | You cough up their wedding ring at the dawn bailing. (2) |
+| 3 | The indoor tide leaves their footprints on your cellar stairs, coming up. (2) |
+| 4 | At the morning count, their voice answers for you. (3) |
+| 5 | Your rope is cut in the night, neatly. You wake facing west. (2) |
+| 6 | A Tenanted stranger greets you with their manners and their pet name for you. (3) |
+| 7 | You taste salt in everything, and the salt tastes of their tears. (1) |
+| 8 | Your Want of The West fixes on the place they walked in. (3) |
+| 9 | A shell grows in the corner of your eye, small and living and theirs. (2) |
+| 10 | They come back out of the surf, kind, courteous, and they do not mention the oath at all. (4) |
+
+#### The Vigil: The One in the Blink
+
+| d10 | Visitation (Dread) |
+| 1 | They wait for you in every blink, standing in the long room, much closer than last time. (3) |
+| 2 | A shared Seeming: the street sees them walking beside you. It is entered in the record. (2) |
+| 3 | Your nudger pinches you awake with their fingers. (2) |
+| 4 | You lose a second, and come back holding something of theirs. (2) |
+| 5 | Every lamp you pass gutters as you pass it, all the way home. (1) |
+| 6 | The Matron writes their bed number on your door. (3) |
+| 7 | Their voice lulls you, every evening, humming a song from childhood. +1 Weariness a scene. (2) |
+| 8 | Your reflection's eyes are closed. (2) |
+| 9 | You count them, in every crowd. The count is always one too many. (2) |
+| 10 | In the room, at the end, beside the eye, there is a bed with your name on it, turned down. (4) |
+
+#### Cradlewrack: What You Bear
+
+| d10 | Visitation (Dread) |
+| 1 | You bear something with their face. It is small. It is breathing. (4) |
+| 2 | False labor, every night, and you count the interval in their voice. (2) |
+| 3 | Every door you shut is found open, and on the far side, their footprints. (2) |
+| 4 | Their old wound opens on your body. (3) |
+| 5 | The Tally reads their name aloud among this week's births. (3) |
+| 6 | A Part comes looking for you: their hand, or one like it. (2) |
+| 7 | Every knot you tie is undone by morning, and retied in the way they tied them. (1) |
+| 8 | A born-grown stranger walks out of the fog, finishing their last sentence. (3) |
+| 9 | Your oldest scar speaks in the night, and what it says is the oath. (2) |
+| 10 | A midwife comes to your door with the Second Opinion and asks, kindly, whether you should stay. (3) |
+
+#### Oathen: The Body Keeps the Word
+
+| d10 | Visitation (Dread) |
+| 1 | Your body breaks to match the promise (the Breaking table, at Weight 5), and the dead Testify. (4) |
+| 2 | Your voice comes back to you from every wall, a half-second late, in theirs. (2) |
+| 3 | You cannot say their name. Your jaw locks on it. (2) |
+| 4 | Your oath is found carved on the Ledger, in a hand nobody at the Ledger has. (2) |
+| 5 | Every promise you make for a month is heard by the god at +1 Weight. (2) |
+| 6 | Your Exits stop working: the god will not accept a condition from you. (2) |
+| 7 | The echo of the broken oath finds you in a gorge and repeats, and renews. (3) |
+| 8 | A Surety arrives, unasked, and says that the dead have hired her to stand for you. She is already breaking. (3) |
+| 9 | Your hands sign the oath in handtalk while you sleep. Fingers snap. (2) |
+| 10 | Their bones are in your bed at dawn, arranged lying beside you. (4) |
+
+#### The Fast: The Card at Every Table
+
+| d10 | Visitation (Dread) |
+| 1 | A place card bearing their name appears at every table you pass. (3) |
+| 2 | You smell their cooking on the wind, in a land where nobody cooks indoors. (2) |
+| 3 | A chair is pulled out for you, by an invisible hand, in their manner. (3) |
+| 4 | You hear them say "Come in," from inside a house you know is empty. (3) |
+| 5 | Every ration you carry tastes of the meal you had together. (1) |
+| 6 | The Steward stops you on the road to say they are well, and asking for you. (3) |
+| 7 | You find their name on the Long Table's seating, in the next empty place. (3) |
+| 8 | Your Pangs rise by 1 each night you do not speak their name. (1) |
+| 9 | You dream of sitting down. Every night. You are very happy in the dream. (2) |
+| 10 | A table is laid for two. Your card. Their card. Both chairs pulled out. (4) |
+
+[box: Example of Play: The Oath and the Line]
+Ressa Weir swore at the start of play: *On my brother Ferrin, who walked in: I will never again drag anyone back from the water.* Her line: she will not put a rope on a living person. In the Tooth example earlier in this chapter, she roped a Called girl on the Mile and dragged her back.
+The Carver stops play. "That's deliberate," she says, gently, out of character. "You knew the oath." Maya agrees. Ressa crosses What You Will Not Do as well: 5 Fray. The oath breaks: 3 Fray. Ressa is at Fray 9, Fraying, and must write a new line she will not cross. Then the Visitation. Ferrin lies in Brinehollow, in the sea. The Carver rolls a d10: 4. *At the morning count, his voice answers for you.*
+The next dawn, in Gannet Reach, the neighbours call Ressa's name through the wall, and before she can open her mouth, a man's voice answers from inside her room, cheerfully, coughing the way Ferrin coughed. "Here." Dread 3. Ressa's sister-in-law Ama, who has come to visit, is standing in the doorway, white as salt, holding Ferrin's chain.
+Ressa has saved a girl's life. The oath does not care. The way to amends is a harder oath at the place where Ferrin walked in, and the Carver already knows what it will be.
+[/box]
+
+## Travel
+
+The Rim Road is about 2,200 miles around. On foot a traveler makes about 20 miles a day on the road; by cart 25; by fast horse 40; by Company post-coach, changing horses at every waystation, 70. Waystations stand roughly every 15 to 25 miles, and a day's walk off the road in any land is somewhere stranger.
+
+Each day of travel through dangerous country, the Carver may roll on the land's encounter table (see the bestiary), and one Guest may roll **Lung + Wayfaring** (Hard 14) to find a better route, avoid trouble, or make up time. Crossing into the Fast is a different matter entirely, and the rules for that are in its chapter.
+
+Off the road, halve these speeds in fen, canyon, highland or the Uncovered, and halve them again in Lack. A Guest who fails the day's Wayfaring roll with a Lack has led the company somewhere: the Carver rolls on the land's Horrors table instead of its encounters. Travelling hungry, cold or sleepless brings the Body's rules to bear each night, and the Rim Road is very long.
+
+[pull] Twenty miles a day on the Rim. Everyone walks it eventually, the same direction, round and round. Nobody has ever found the end, because it is a ring. Some people take a long time to understand that. | — waystation keeper at Thimble Cross
+
+## Light and Darkness
+
+The Table is lit by tallow, oil, rushlight and the candles of the dead. Darkness imposes −2 to Search and to attacks; total darkness, −4. In the Vigil there is no darkness, by law, and that is a horror of its own.
+
+A lantern lights about ten paces; a candle, three; a Tallow candle made from the dead, three, steadily, and it whimpers. Characters who can see in darkness (a Brinehollower in the Course, a lidless Vigilant's memory of a room) ignore the penalty. Fighting in the dark has its own rules in *Blood on the Cloth*.
+
+[box: The Grace Roll in Brief]
+- **Roll:** 2d10 + Attribute + Skill vs Routine 10, Hard 14, Grim 18, Dire 22, Impossible 26. Each full 4 over is a Helping.
+- **Omens:** doubles. Success is a Grace; failure a Lack. Double 1s always fail; double 10s always succeed.
+- **Partake:** add a Tooth (d6; two at Cut 3+). +1 Hunger, +1 per Tooth showing 1, +2 more on a Lack.
+- **Hunger 10:** Regrowth +1, Hunger to 0. **Sop:** −1d6 Hunger, and the habit grows.
+- **Brink (Regrowth 10–11):** Wheel checks; Ridden marks. **Regrowth 12:** the Seating.
+- **Dread:** Caul + Resolve vs 10/14/18/22/26. Fail: Fray = Dread. Pass: 1 Fray. Grace: none.
+- **Fray 10:** Break, Derangement, Fray to 3. Witnesses check Dread 2 for contagion.
+- **The Pall:** a community's Fray, 0–20; each week, 2d10 + Steadiness vs 10 + Pall.
+- **Hold:** 0–5, built by methods; Doubt: 3 marks and the false memory wins.
+- **Chases:** Lead 0 caught, Lead 6 lost; opposed Lung rolls; complications.
+- **Oaths on the Dead:** +2 once a scene; keep it, clear Fray and gain 2 Portions; break it, 3 Fray and a Visitation until amends.
+[/box]
