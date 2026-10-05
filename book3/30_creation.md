@@ -239,12 +239,12 @@ Surgeons, embalmers, bone-setters, suture-witches and stitchers of the dead. In 
 | 4 | Master Seamer | Apprentices (2); a seat at guild councils; surgeries in any city |
 | 5 | Guild Elder | The guild acts on your word; Thessaly Mort knows your name |
 
-[pull] You learn to sew with the patient talking. Great-grandmother tells me which stitch she prefers. She has been dead since before the Licensing, and she is usually right. | — a Threader of the Lower Pilings, Lastgate
+[pull] You learn to sew with the patient talking. Great-grandmother tells me which stitch she prefers. She is usually right. | — a Threader of the Lower Pilings, Lastgate
 
 **Calling Hooks:**
-- A Kept woman brought in for her spring restitching is wearing a left hand that is not hers. The stitches at the wrist are your own work, done last year, on someone else.
-- A Rim waystation pays a Seamer to open a traveller who died three days ago, well outside Sallowreach, and is still warm.
-- Dr. Halloran Quease needs an assistant to help him catalogue his four hundred and first kind of pain, and he pays in Closing-minutes.
+- A Kept client in for her spring restitching wears a hand that is not hers, stitched at the wrist in your own work.
+- A waystation pays you to open a traveller who died three days ago, outside Sallowreach, and is still warm.
+- Dr. Halloran Quease wants help cataloguing his four hundred and first kind of pain. He pays in Closing-minutes.
 
 ### Factor
 
@@ -260,12 +260,12 @@ Clerks, buyers, caravan-masters and agents of the Rim Road Company and the merch
 | 4 | Road-Master | Authority over a stretch of the Rim and its tolls |
 | 5 | Director | A voice in the Company's Oathen-sworn councils |
 
-[pull] Everything on the Table has a price. The trick is to be the one holding the ledger on the day somebody finds out what theirs was. | — a Senior Factor at Gristmoot market
+[pull] Everything has a price. The trick is to be holding the ledger the day somebody finds out what theirs was. | — a Senior Factor at Gristmoot
 
 **Calling Hooks:**
-- A sealed Chute barrel you signed for last season has come back to your door, unopened. Inside is a letter in your own handwriting that you do not remember writing.
-- Notary Jessamy Quill has a fever. Company contracts on your stretch of road have begun, very slightly, to loosen, and your caravan is carrying one that must not.
-- A waystation's toll ledger records one more traveller every night than it has beds, and the extra one always pays in old coin.
+- A Chute barrel you signed for comes back unopened. Inside is a letter in your hand that you never wrote.
+- Notary Jessamy Quill has a fever, and the contracts on your stretch of road have begun, slightly, to loosen.
+- A waystation records one more traveller every night than it has beds. The extra one pays in very old coin.
 
 ### Warden
 
@@ -281,12 +281,12 @@ Road guards, sellswords, caravan muscle, bounty-collectors. The Rim Road Company
 | 4 | Captain | Command of a waystation's garrison |
 | 5 | Marshal of the Rim | Command of a stretch of road and everything on it |
 
-[pull] Two lacks a day to stand between a cart and whatever wants it. Nobody's ever asked me which side I'd rather be on. I'd tell them, for three. | — a Sworn Warden at Saltmile waystation
+[pull] Two lacks a day to stand between a cart and whatever wants it. Nobody asks which side I would rather be on. | — a Sworn Warden at Saltmile
 
 **Calling Hooks:**
-- Your caravan carries a sealed cage-cart. The manifest says *livestock*. The livestock says *please*, politely, every hour on the hour.
-- Your captain orders you to escort a Kept deserter back to Lastgate for trial. He must not cross the border, or he drops; he very much wants to.
-- A Company post-coach rolls in on time. Every passenger is still in their seat, smiling, eating air with good manners.
+- Your caravan carries a cage-cart marked *livestock*. The livestock says *please*, politely, on the hour.
+- Escort a Kept deserter to Lastgate. If he crosses the border he drops, and he very much wants to.
+- A post-coach arrives on time with every passenger in their seat, smiling, eating air.
 
 ### Cutwright
 
@@ -302,12 +302,12 @@ Genealogists of the Cutwrights' College. They trace every bloodline back to the 
 | 4 | Reader of Lines | Your rulings are accepted in courts of four lands |
 | 5 | Provost | You know where every god is regrowing fastest |
 
-[pull] I read a man's blood the way a priest reads scripture: slowly, and looking for the passage that damns him. | — a Surveyor of the Cutwrights' College, under examination by her superiors
+[pull] I read a man's blood the way a priest reads scripture: slowly, looking for the passage that damns him. | — a Surveyor of the College
 
 **Calling Hooks:**
-- The College sends you to examine a Scrapling family in the fen whose last three children were born with Hand-line hands. Somebody in the family has explaining to do, and nobody wants to.
-- Two noble houses await your ruling on a marriage. Both have offered bribes. One has offered a threat, and it was the more generous offer.
-- A page has been cut from the College's oldest ledger. You copied it as a novice. You are now the only record of what it said.
+- A Scrapling family's last three children were born with Hand-line hands. Someone has explaining to do.
+- Two houses await your ruling on a marriage. Both offered bribes; one offered a threat, the better offer.
+- A page has been cut from the College's oldest ledger. You copied it as a novice, and remember it.
 
 ### Clausewright
 
@@ -323,12 +323,12 @@ Lawyers, contract-drafters and oath-makers, trained in Oathen and hired everywhe
 | 4 | Senior of the Bench | Treaty work; diplomatic immunity in three lands |
 | 5 | Chief Clausewright | You draft the sentence a Sayer speaks |
 
-[pull] As I now intend, and barring weather, illness, death, the will of the Bench and the god's own reading of the matter: good morning. | — a Drafter of Tacit, greeting her neighbour
+[pull] As I now intend, barring weather, illness, death and the god's own reading: good morning. | — a Drafter of Tacit, greeting her neighbour
 
 **Calling Hooks:**
-- A delegation from the Vigil wants a treaty clause that binds a whole city to stay awake. They want it drafted by Tablenight, and they want it to hold.
-- A merchant has finally found the Exit you buried in his contract twelve years ago. He has hired a Breaker, and he is not interested in conditionals.
-- You are asked to draft the Exit for this year's Sayer's sentence. If you get one word wrong, something in the world will be so forever.
+- The Vigil wants a treaty clause that binds a whole city to stay awake, drafted by Tablenight.
+- A merchant has found the Exit you buried in his contract twelve years ago, and hired a Breaker.
+- You are asked to draft the Exit in this year's Sayer's sentence. One wrong word stays true forever.
 
 ### Surety
 
@@ -344,12 +344,12 @@ People who carry other people's oaths for a fee, taking the risk of the Breaking
 | 4 | Pledgemaster | The Rim Road Company's oaths |
 | 5 | Ledger-Bearer | Treaties between nations ride on your body |
 
-[pull] My left hand belongs to a spice merchant in Gristmoot. My knees are mortgaged to a marriage in Tacit. The rest of me is my own until Carving. | — a Bondswoman of the Breakdowns
+[pull] My left hand belongs to a spice merchant in Gristmoot. My knees are mortgaged to a marriage in Tacit. The rest is mine until Carving. | — a Bondswoman of the Breakdowns
 
 **Calling Hooks:**
-- A client whose Weight 3 oath you carry has vanished on the Rim Road with the goods he swore to deliver. If he breaks, you break. Find him before the deadline does.
-- A widow begs you to stand for her son's marriage vow. You have met the son. You know he cannot keep it. She is offering triple.
-- Your oldest bond has begun to ache, though its principal has done nothing wrong. Somewhere, the words themselves are changing.
+- A client whose Weight 3 oath you carry has vanished on the Rim. If he breaks, you break. Find him first.
+- A widow begs you to stand for her son's marriage vow. You have met the son. He cannot keep it.
+- Your oldest bond has begun to ache, though its principal has done nothing. The words themselves are changing.
 
 ### Nightwarden
 
@@ -365,12 +365,12 @@ The uncanny police of the Table: the Netwatch on the Brinehollow shore, the Wake
 | 4 | Captain | A district |
 | 5 | Commander | The land's whole watch answers to you |
 
-[pull] We don't save them. We bring them back. People think that's the same thing for about a week. | — a Netwatch hooker of the Mile, Lowmark
+[pull] We don't save them. We bring them back. People think that's the same thing for about a week. | — a Netwatch hooker of the Mile
 
 **Calling Hooks:**
-- A woman you hauled out of the surf last spring has thanked you every morning since, at your door, in a voice a little lower than it was.
-- The Wakers request a foreign Nightwarden for a blink-murder no local can be trusted to investigate, because every local was awake at the time and none of them remembers.
-- The ground on your patrol has been warm three nights running, in a line, and the line is heading toward your own house.
+- A woman you hauled from the surf thanks you at your door every morning, in a voice lower than it was.
+- The Wakers need an outsider for a blink-murder: every local was awake at the time, and none remembers.
+- The ground on your beat has been warm three nights running, in a line toward your own house.
 
 ### Renderer
 
@@ -386,12 +386,12 @@ Butchers, slaughterers, salters, cooks and shippers of meat. In the Fatlands the
 | 4 | Barrel-Warden | You stamp the export barrels |
 | 5 | Union Boss | Every barrel on the Rim Road stops at your word |
 
-[pull] A good renderer doesn't ask what it was. A great one knows without asking, and keeps her mouth shut, and gets her Union card. | — a Cutter at the Chute
+[pull] A good renderer doesn't ask what it was. A great one knows without asking, and keeps her mouth shut. | — a Cutter at the Chute
 
 **Calling Hooks:**
-- A barrel you stamped turned up in the Vigil with a sealed letter at the bottom: *tell my sister Merrin I was Reaped at Low Tilth.* Merrin has found out who stamped it.
-- The Union needs a renderer to taste a shipment before an inspector and swear on it that it is beef. It is not beef. Swearing is not a small thing anymore.
-- A Rim inn hires you as cook. The last cook left his knives, his apron and a notebook listing the guests by weight.
+- A barrel you stamped reached the Vigil with a letter inside: *tell my sister Merrin I was Reaped.* Merrin has found you.
+- The Union needs you to taste a shipment and swear it is beef. It is not beef.
+- A Rim inn hires you as cook. The last cook left his knives and a notebook listing the guests by weight.
 
 ### Midwife
 
@@ -407,12 +407,12 @@ Trained by the Attendance of Cradlewrack or by the village wise-women of the oth
 | 4 | Matron of the Attendance | Command of a lying-in house |
 | 5 | Midwife-Paramount | You are the government |
 
-[pull] Three heartbeats. I give everything three heartbeats to show me what it is. Then I ask the second question, and I answer it, and I wash the knife either way. | — a Handmaid of the Attendance, Kest
+[pull] Three heartbeats. I give everything three heartbeats to show me what it is. Then I ask the second question. | — a Handmaid of the Attendance, Kest
 
 **Calling Hooks:**
-- A guest at a Rim inn has been in labor for three weeks. Nothing has come. The cellar door of the inn will not stay shut.
-- A shepherd arrives at your door, carrying, and begs you to let whatever he bears stay. He has already named it.
-- The Assemblers have offered you a fortune for the location of a delivery you attended last winter. They know it was a hand.
+- A guest at a Rim inn has been in labor for three weeks. Nothing has come. The cellar door will not stay shut.
+- A shepherd arrives carrying, and begs you to let what he bears stay. He has already named it.
+- The Assemblers offer a fortune for the whereabouts of a delivery you attended last winter. They know it was a hand.
 
 ### Crumb-Runner
 
@@ -428,12 +428,12 @@ Smugglers, carters and night-haulers, who move food and contraband across border
 | 4 | Night-Factor | A network across three lands |
 | 5 | Boss of the Dark Road | The Company pays you to leave its cargo alone |
 
-[pull] They spit on me in the street at noon and wait at the gap in the wall at midnight. I don't mind the spit. It's wet. Nothing else in the Fast is. | — a night-hauler of Wanting
+[pull] They spit on me at noon and wait at the gap in the wall at midnight. I don't mind the spit. Nothing else in the Fast is wet. | — a night-hauler of Wanting
 
 **Calling Hooks:**
-- Your grain arrives warm, and smelling of new bread. Somewhere on the road, while you were not looking, something laid a table in your cart.
-- Three hundred starving Fatlands pilgrims want passage into the Fast, to find the table where they will finally feel full. They can pay. They know what happens. They want to go.
-- Your safehouse on the eastern route is a Seated house now. The family is at table. They have laid your place, and they are waiting, and they have your cargo.
+- Your grain arrives warm and smelling of new bread. Something laid a table in your cart on the road.
+- Three hundred starving Fatlands pilgrims will pay for passage to the table where they will finally feel full.
+- Your eastern safehouse is a Seated house now. The family has laid your place, and they have your cargo.
 
 ### Taker
 
@@ -449,12 +449,12 @@ Bounty hunters, poachers and kidnappers: the people who catch Blanks for the sur
 | 4 | Huntmaster | A crew of 5; noble clients |
 | 5 | Purveyor | The Second Table buys from you directly |
 
-[pull] Every Blank's somebody's child, and every bounty's somebody's rent. I just carry the difference from one to the other. | — a licensed Taker on the Fast border
+[pull] Every Blank is somebody's child, and every bounty is somebody's rent. I carry the difference. | — a licensed Taker on the Fast border
 
 **Calling Hooks:**
-- A new bounty for a Blank girl of fifteen matches, in every particular, your younger sister. Your sister is not a Blank. You were sure of that until today.
-- The Board of Plenty wants a runaway Gut-line heir returned before the Weighing. He has been fattened for a seat since birth, and he is begging you, between mouthfuls, not to.
-- A buyer in a silk mask wants an Unfed adult, unspoiled, untouched by any god, delivered alive by Tablenight. The fee is a house.
+- A new bounty for a Blank girl matches your little sister in every particular.
+- The Board wants a runaway Gut-line heir back before the Weighing. He begs you, between mouthfuls, not to.
+- A buyer in a silk mask wants an unspoiled Unfed adult, alive, by Tablenight. The fee is a house.
 
 ### Celebrant
 
@@ -470,12 +470,12 @@ Priests, rite-keepers, mourners and cult preachers: the Finishers of Sallowreach
 | 4 | High Celebrant | A temple, a district, a flock of hundreds |
 | 5 | Prophet | They will walk into the sea if you ask |
 
-[pull] They come to me when someone they love starts to change. I tell them the god is merciful. Then I go home and wash my hands until the skin comes away, because I preach the Theft, and I know what we did. | — a hedge-priest on the Rim Road
+[pull] They come to me when someone they love starts to change. I tell them the god is merciful, and then I go home and wash my hands raw. | — a hedge-priest of the Rim
 
 **Calling Hooks:**
-- A family asks you to bless the Closing of their Kept grandmother. Nobody licensed it. The grandmother has asked you, privately, not to.
-- A Bait-doctrine tract is found sewn into the lining of your vestments, in your stitching. You do not remember sewing it.
-- The dead of a Rim village, buried properly in ordinary earth, have stopped staying where they were put. They are asking for a priest by name. It is yours.
+- A family asks you to bless their Kept grandmother's unlicensed Closing. She has asked you, privately, not to.
+- A Bait-doctrine tract is found sewn into your vestments, in your own stitching.
+- The properly buried dead of a Rim village have stopped staying put, and ask for a priest by your name.
 
 ### Gleaner
 
@@ -491,12 +491,12 @@ Scavengers, salvagers, rag-pickers, grave-robbers and part-thieves: the salvage 
 | 4 | Wreck-Lord | Claims across a district |
 | 5 | Master of Leavings | Every fence on the Rim knows your mark |
 
-[pull] Everybody leaves something. A ring, a tooth, a key, a name on a scrap of paper. The dead are generous. They've no use for any of it, and they never ask for it back. Mostly. | — a picker on the Uncovered
+[pull] Everybody leaves something. The dead are generous. They have no use for any of it, and they almost never ask for it back. | — a picker on the Uncovered
 
 **Calling Hooks:**
-- A wreck far out on the Uncovered still has its crew at their posts, dry as paper, and the captain's log is dated next year.
-- A Kept noble pays you to steal back his own right hand from the back-alley seamer who bought it. He can feel what it is being used for.
-- Mags Weir, Salvage Queen of the Uncovered, offers you her best claim for half shares. Her last three crews went out to it and went quiet.
+- A wreck far out on the Uncovered has its crew at their posts, dry as paper. The log is dated next year.
+- A Kept noble pays you to steal back his right hand from the seamer who bought it. He feels what it is used for.
+- Mags Weir offers you her best claim for half shares. Her last three crews went out to it and went quiet.
 
 ### Delver
 
@@ -512,12 +512,12 @@ Explorers of god-places: the Dream-Divers of the Vigil, the Hushwalkers and surv
 | 4 | Pathfinder | State commissions |
 | 5 | The One Who Came Back | Your maps are the only maps |
 
-[pull] Everyone asks what it's like down there. It's like a room you've always known, and someone has only just left it, and the chair is still warm. | — a Dream-Diver after her second descent
+[pull] It is like a room you have always known, and someone has only just left it, and the chair is still warm. | — a Dream-Diver after her second descent
 
 **Calling Hooks:**
-- A collector wants something carried out of a Hush: a sound, any sound, that was made inside before it fell silent. He has a jar ready.
-- The watchers at the Dilation need someone lowered into the crowning on a rope before the next pang. The last one sent down is still on the rope. The rope is moving.
-- A Dream-Diver's tether came back up cut cleanly, as if with scissors. You are being sent down to find the other end.
+- A collector wants a sound carried out of a Hush, any sound made inside before it fell silent. He has a jar ready.
+- The Dilation's watchers need someone lowered into the crowning before the next pang. The last one is still on the rope.
+- A Dream-Diver's tether came up cut clean. You are going down to find the other end.
 
 ### Purger
 
@@ -533,12 +533,12 @@ Members of the Purgation: the cross-border movement that believes the gods can b
 | 4 | Voice of the Purge | A district's cells |
 | 5 | The Clean Hand | You decide which bloodlines burn |
 
-[pull] Bring it up. Bring it all up. What comes out of you isn't you. That is the whole of the faith, and on bad nights, kneeling by the basin, it is the whole of the doubt. | — a Purgation penitent in Sated
+[pull] Bring it up. What comes out of you isn't you. That is the whole of the faith, and on bad nights the whole of the doubt. | — a penitent in Sated
 
 **Calling Hooks:**
-- Your cell has been ordered to burn a High Cut household on Tablenight. A Scrapling scullery girl who once hid you sleeps in its kitchen.
-- One of your purges ended in a Grace and the Regrowth went back. Now the Purgation calls it a miracle, the Board calls it treason, and a silk-masked noble calls it an investment.
-- A defector from the Thin brings you a Board list naming every Purgation safehouse in the south. One of the names is your mother's.
+- Your cell will burn a High Cut house on Tablenight. A scullery girl who once hid you sleeps in its kitchen.
+- One of your purges ended in a Grace and the Regrowth went back. Now everyone wants you, including a silk-masked noble.
+- A Thin defector brings a Board list of every Purgation safehouse in the south. One is your mother's.
 
 ### Reckoner
 
@@ -554,12 +554,12 @@ Zealots out of the Fast who carry the Refusal across the border on a blade, kill
 | 4 | Reckoner-Captain | Authority to declare a bloodline ended |
 | 5 | The Hand of Hallowboard | The Abstinent listen to you |
 
-[pull] I don't kill people. I end lines. Stand once in a High Cut bedchamber and smell what is breathing under the covers, and you will understand the difference. | — a Reckoner, under questioning in Lastgate
+[pull] I don't kill people. I end lines. Stand once in a High Cut bedchamber and smell what breathes under the covers. | — a Reckoner, under questioning in Lastgate
 
 **Calling Hooks:**
-- The next name on your list belongs to the family that hid your mother from the Takers when she was a girl.
-- A target is waiting up for you with the door unbarred and the lamp lit. He is at the Brink. He would like it done before he Seats and takes the house with him.
-- A brother of the knife has come home from a year undercover with godsign under his sleeves. The cell wants you to decide what he is now.
+- The next name on your list belongs to the family that hid your mother from the Takers.
+- A target waits up for you, door unbarred. He is at the Brink and wants it done before he Seats.
+- A brother of the knife came home from a year undercover with godsign under his sleeves. The cell wants you to decide.
 
 ### Scion
 
@@ -578,9 +578,9 @@ The children of the Cuts who rule: the disinherited Heirs of Sallowreach, the Gu
 [pull] Mother says the god prefers our blood. Mother has not left her bed in nine years, and the bed has put down roots. | — a Gut-line Cadet, at a Sated dinner
 
 **Calling Hooks:**
-- Your family has summoned you home for a wedding. Yours. The match was settled when you were born, and the other party is a cousin of the closest kind the College still permits.
-- A silver fork arrives in a velvet box, with an invitation to a dinner on Tablenight and no name signed.
-- You find a Reckoner list with your name on it. Your name has been crossed out, neatly, in a hand you know.
+- You are summoned home for your own wedding, to a cousin of the closest kind the College still permits.
+- A silver fork arrives in a velvet box, with an unsigned invitation to dinner on Tablenight.
+- You find a Reckoner list. Your name on it has been crossed out, neatly, in a hand you know.
 
 ## Step Six: Skills
 
@@ -603,7 +603,7 @@ Distribute **18 points** among the twenty-four skills. No skill may be raised ab
 - **Caul — Resolve** (enduring horror, resisting compulsion), **Rites** (prayer, ritual, the doctrines, burial), **Instinct** (danger sense, reading people, the uncanny), **Godsign** (understanding and controlling the god in the blood).
 [/box]
 
-Every Guest should think about **Resolve**. It is the skill the Table tests most often and forgives least. A Guest with Resolve 0 is a Guest who will Break in the second session and keep breaking; that can be a fine thing to play, but it should be chosen and not stumbled into.
+Every Guest should think about **Resolve**, the skill the Table tests most and forgives least. A Guest with Resolve 0 will Break early and often; that can be fine to play, but choose it, do not stumble into it.
 
 ## Step Seven: Knacks
 
@@ -878,7 +878,7 @@ Swear this on the person you buried, or on any dead name the other courses gave 
 | 20 | ...swear no other oath, ever, on anything. (The dead find this very funny.) |
 
 [box: Rolling a Lifepath: an Example]
-Joss rolls the seven courses for Hessa Coombe, a Sallowreach Seamer. A Hush opened beside her aunt's fen village when she was twelve, and the birds fell all night (**8**). On a dare from her elder brother Tobin she ate earth from its silent edge (**9**). She has a crooked stitch across the throat (**1**), a great-grandfather chained in the family cellar who knows what the family did (**5**), and nobody betrayed, yet (**20**). Joss decides the one she buried is Tobin himself, who later walked singing into that same Hush with the Finishers (**5**), and swears (**2**): *On my brother Tobin, who walked into Dunmere Hush: I will never let another soul of our street go in after him.* Every course now points at one silent place in the fen, and the Carver has been handed a cellar and an open betrayal.
+Joss rolls the seven courses for Hessa Coombe, a Sallowreach Seamer. A Hush opened beside her aunt's fen village when she was twelve, and the birds fell all night (**8**). On a dare from her elder brother Tobin she ate earth from its silent edge (**9**). She has a crooked stitch across the throat (**1**), a great-grandfather chained in the family cellar who knows what the family did (**5**), and nobody betrayed, yet (**20**). Joss decides the one she buried is Tobin himself, who later walked singing into that same Hush with the Finishers (**5**), and, bending the oath she rolled (**2**) to fit, swears: *On my brother Tobin, who walked into Dunmere Hush: I will never let another soul of our street go in after him.* Every course now points at one silent place in the fen, and the Carver has been handed a cellar and an open betrayal.
 [/box]
 
 ## Step Ten: Gear and Money
@@ -935,7 +935,7 @@ Knacks: Butcher's Calm, Steady Hands
 Gear: needle-roll and awls, gut and wire thread, bone saw, vinegar, poppy-water; Seamer's awl; mourning-cloak with vinegar pockets; fen-glow jar; standard kit; 15 lacks
 [/stat]
 
-Hessa grew up in a narrow house on stilts above the black water, with five generations of the dead in the attic and a great-grandfather in the cellar whom nobody visits. She has the Seamer's habit of looking at people as work: where they will tear, how long they will hold. She is precise, dryly funny, never squeamish and always tired, and she talks to the Kept as though they were simply old, which makes them adore her. She has never seen a funeral. She is privately afraid she would like one.
+Hessa grew up in a stilt-house above the black water, with five generations of the dead in the attic and a great-grandfather in the cellar whom nobody visits. She looks at people as work: where they will tear, how long they will hold. She is precise, dryly funny, never squeamish and always tired, and she talks to the Kept as though they were simply old, which makes them adore her. She has never seen a funeral, and is privately afraid she would like one.
 
 **The Last Meal.** Eel pie and undying cheese at great-great-grandmother Ysolde's spring restitching, the whole house laughing, the Kept at the table pretending to taste. **The Oath on the Dead.** *On my brother Tobin, who walked into Dunmere Hush: I will never let another soul of our street go in after him.* **Who Waits at Home.** Ysolde, Kept and ripening, in her chair by the fire, who asks every evening whether Hessa is home yet and forgets the answer. **What She Will Not Do.** Take a part from anyone, living or Kept, who has not given it.
 
@@ -955,7 +955,7 @@ Knacks: Eats Anything, Gallows Laugh
 Gear: cleavers and knives, rendering hook, salt, an apron that will never be clean; hide coat; tent-coat; a flask of marrow-brandy; standard kit; 17 lacks
 [/stat]
 
-Haslet carves at wakes. He is wide, gentle, sweet-voiced and very good at it, and in Low Tilth the bereaved ask for him by name because he talks to the dead while he works and makes the children laugh. He has done it since he was fourteen. He has never once been full. He left home after his sister's name came up on a Cullmaster's list, and he has been on the Rim Road since, cooking for inns that do not ask, apologising to every joint under his breath, trying not to notice how good everything smells.
+Haslet carves at wakes. He is wide, gentle and sweet-voiced, and in Low Tilth the bereaved ask for him because he talks to the dead while he works and makes the children laugh. He has never once been full. He left home after his sister's name came up on a Cullmaster's list, and cooks now for Rim inns that do not ask, apologising to every joint under his breath.
 
 **The Last Meal.** His grandfather Abel's wake: Haslet carved, his grandmother said he looked heavy, and for exactly one breath the hunger stopped. **The Oath on the Dead.** *On my sister Petty, who was put on the dusk shift at Low Tilth: I will learn who wrote her name on the list, and I will serve them at their own wake.* **Who Waits at Home.** His grandmother Callow, rooting by the kitchen door, who can still talk and asks for him every evening. **What He Will Not Do.** Eat anyone he knew by name.
 
@@ -975,7 +975,7 @@ Knacks: Bail-Lunged, Scrap-Born Luck
 Gear: pry-bar, sack, shovel, lantern, gloves; a bucket-shield that is also her bail-bucket; ten fathoms of anchoring rope; an unopened salvage-tin; the name of Mags Weir; standard kit; 7 lacks
 [/stat]
 
-Gannet has picked the Uncovered since she was nine, walking out among upright wrecks and leather weed-forests to bring back what the sea forgot. She is quick, cheerful, light-fingered and shameless, a Scrapling who has never felt the pull and cannot quite believe she never will. She sees lights out on the far seabed at night and has never reported them, because she wants to be the one who gets there first. She bails mid-sentence and does not apologise.
+Gannet has picked the Uncovered since she was nine, walking among upright wrecks to bring back what the sea forgot. She is quick, cheerful, light-fingered and shameless, a Scrapling who has never felt the pull and half believes she never will. She sees lights on the far seabed at night and has never reported them, because she means to get there first.
 
 **The Last Meal.** A stolen tin of pre-Turning peaches, eaten inside the ribs of a wreck with her mother, three weeks before her mother was Called. **The Oath on the Dead.** *On my mother Dulse, who walked west: I will go as far out as the water went, and look.* **Who Waits at Home.** Tern, the eleven-year-old next door, who calls her name through the wall every dawn and has not had an answer for a month. **What She Will Not Do.** Cut a sleeping person's anchoring rope, whatever is tied to the end of it.
 
@@ -995,7 +995,7 @@ Knacks: Counting Habit, Hostage's Smile
 Gear: fine clothes, the Larch signet, a grey mare; a letter of introduction to Envoy Castellan Dray; studded coat; sword; ten days of rouse; pin-glove; her nudger Ember Dusk-Bell (Threat 1, Flesh 9); standard kit; 87 lacks
 [/stat]
 
-Agathe was born with eyelids into a lidless house, which in the Larch line is a deformity, and was raised in a back wing with excellent tutors and no visitors. She is clever, beautifully mannered, starved for company and capable of great cruelty when frightened, which is always. She closes her eyes, sometimes, alone, for the length of a held breath, and nothing in her life has ever felt so good. Her family has sent her to Sallowreach with a letter to the Warden-Prime's envoy. She has not opened it. She suspects it is about her.
+Agathe was born with eyelids into a lidless house, a deformity in the Larch line, and was raised in a back wing with excellent tutors and no visitors. She is clever, beautifully mannered, starved for company and capable of great cruelty when frightened, which is always. Alone, she closes her eyes for the length of a held breath, and nothing has ever felt so good. Her family has sent her to Sallowreach with a sealed letter. She suspects it is about her.
 
 **The Last Meal.** Clatter-cake and rouse on the roof on Tablenight, in the minute the lamps go out, with her mother's fingers holding her eyelids open "so you'll see it, as we do." **The Oath on the Dead.** *On Constance Hobb, my first nudger, hanged for letting me close my eyes when I was six: I will never let anyone be punished for my rest again.* **Who Waits at Home.** Her brother Florian, the lidless heir, who writes every day and is certain she will come home cured. **What She Will Not Do.** Lie down. Not once, not even dying.
 
@@ -1015,7 +1015,7 @@ Knacks: Good Bones, Rope Knots
 Gear: axe, crossbow and bolts, boiled leather, the Ninth Company's red sash; knocker's ring; brick, mortar and trowel; needle and red thread; standard kit; 36 lacks
 [/stat]
 
-Notyet was born mid-stride on the drill ground at Kest, a grown woman with a soldier's shoulders and no memory of anything, and was handed a crust and a spear in the same minute. She learned to talk in a week and to kill in a season. She is blunt, literal, brave, very young, and astonished by ordinary things (rain, songs, kittens) in a way that makes older Guests uneasy. Foundlings of her company have begun to die in their seventh year, quietly, for no reason any midwife will give. She has two years. Her knots, alone in Cradlewrack, hold.
+Notyet was born mid-stride on the drill ground at Kest, a grown woman with a soldier's shoulders, and was handed a crust and a spear in the same minute. She learned to talk in a week and to kill in a season. She is blunt, literal, brave and very young, astonished by rain and songs in a way that unsettles older Guests. Foundlings of her company have begun to die quietly in their seventh year. She has two years left to find out why.
 
 **The Last Meal.** Her first meal ever, minutes old: clay-bread, still warm, from the hand of the midwife who let her stay. **The Oath on the Dead.** *On Sergeant Abel Danner, who was opened by a pang at the Dilation rim: I will learn who bore me before I turn seven.* **Who Waits at Home.** Hollan Thrale, that midwife, who asks at every visit, "Do you know yet what you are?" **What She Will Not Do.** Shut a door on anyone who knocks.
 
@@ -1035,7 +1035,7 @@ Knacks: Silent Supper, Old Grief
 Gear: a bond-ledger of four small oaths carried for paying clients; bandages and splints; padded jack; club; wax tablets; canyon flatbread; standard kit; 56 lacks
 [/stat]
 
-Sabra carries strangers' words on her body for money, as her father did until a client ran and the Breaking folded him in half in the market. She is calm, slow-spoken, enormously patient, and funny in the way only Oatheners are funny, by leaving things out. She never says *always*. She never says *never*. Both her little fingers point backward, from small defaults she does not resent. She has left Oathen to find the man who ran, and she has worked out to the hour how long her father's last bond would have taken to come due.
+Sabra carries strangers' words on her body for money, as her father did until a client ran and the Breaking folded him in half in the market. She is calm, slow-spoken and patient, and funny the way Oatheners are funny, by leaving things out. Both little fingers bend backward, from small defaults she does not resent. She has left Oathen to find the man who ran.
 
 **The Last Meal.** Flatbread soaked in the first of the Kept Rain, eaten in silence on the Ledger steps beside her father, the year she was unbitted. **The Oath on the Dead.** *On my father, Tav Writ, Surety: I will find Aubin Crale, who ran, and hear him say the words he broke.* **Who Waits at Home.** Her daughter Dacey, seven, still in her bit, who has never spoken to her and signs *come home* at the door each morning. **What She Will Not Do.** Make a promise to a child.
 
@@ -1054,7 +1054,7 @@ Knacks: Cold Supper, Rim-Wise
 Gear: handcart, oilcloth, rope, dark lantern, forged travel pass; ration-cloth, water flask, wax tin, three days' Pantry measures, a coat not warm enough; standard kit; 7 lacks
 [/stat]
 
-Abate hauls grain into the Fast at night and is spat on in the street at noon by the people she feeds, which she accepts as correct. She is gaunt, upright, sardonic and devout, says "No, thank you" three times to everything including rescue, and has never eaten a mouthful of her own cargo. She knows every waystation-keeper on the eastern Rim and despises most of them affectionately. Since the place cards began, she has been carrying one in her coat, unread, in a hand she is afraid she recognises.
+Abate hauls grain into the Fast by night and is spat on at noon by the people she feeds, which she accepts as correct. She is gaunt, upright, sardonic and devout, says "No, thank you" three times to everything including rescue, and has never eaten a mouthful of her cargo. Since the place cards began she has carried one in her coat, unread, in a hand she is afraid she knows.
 
 **The Last Meal.** Cold ration-bread eaten standing in the Pantry queue with her sister Meagre, the morning neither of them knew there would be a list. **The Oath on the Dead.** *On my sister Meagre, whose name was left off the Pantry list in the Lack of 639: I will feed every child in Hesitation Hollow through this winter, whatever I have to carry.* **Who Waits at Home.** Her father Fallow, a strict Keeper, who spits at her feet in the street and leaves his door unbarred for her every night. **What She Will Not Do.** Eat from her own cargo while one child on her route is hungry.
 

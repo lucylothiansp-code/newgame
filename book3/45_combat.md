@@ -67,6 +67,10 @@ A hit that is reduced to 0 or less by Armor does no Flesh damage, but on a Grace
 
 Weapon qualities (Hooking, Ripping, Heavy, Reach, Silent, Brutal, and so on) are listed in the Rim Market.
 
+[box: Carver's Advice: Saying What the Blade Did]
+Numbers kill people; words make it matter. After every hit, say one true thing about the wound before the next roll: where it went, what it sounded like, what it smelled like, what the hit person did with their face. Keep it to one sentence for ordinary damage. Save the paragraphs for Manglings and Grievous wounds, and for the first blood a Guest ever draws. If the table winces, you have said enough. If someone says the Grace, stop at once and describe nothing more than the number.
+[/box]
+
 ### Grace and Lack in Combat
 
 - **A Grace on an attack** inflicts a **Mangling** in addition to its damage (roll on the table below). Grace attacks are where people lose eyes and fingers.
@@ -117,6 +121,8 @@ A fighter may aim for a particular part of the body. A Called Shot takes a penal
 | A Kept's joint | −2 | Severed Hand or Severed Limb, for dismemberment |
 
 Armor still counts, and the Carver may rule that a helm or a gorget protects the part entirely. Called Shots against an unaware target take no penalty. That is what assassins are for.
+
+[pull] Aim for the hand that holds the hook. A man without his hook is only a man on a pier, and most of them remember they have mothers. | — Lieutenant Sable Reef, to recruits
 
 ### Fighting in the Dark
 
@@ -186,6 +192,17 @@ Roll **1d20** when a Grace attack lands, or when a character suffers Ruin. Add +
 
 Bleeding from several Manglings adds together. "Tied off" and "bound" mean a first-aid roll (Hand + Stitching, Routine 10) that stops the bleeding but restores no Flesh; a Ripping wound needs the same.
 
+[fiction]
+**Chalked on the shutter of a back-alley Seamer in the Lower Pilings, Lastgate. Prices in lacks.**
+Cut stitched, plain: 1. With the good thread: 2. With the good thread and you don't scream: 3, because you'll have had the poppy.
+Finger back on: 4. Your own finger: 4. Somebody else's finger: 4, and we don't ask, and you don't.
+Hand back on: 15. Hand from stock: 30. Left hands: ask. (No left hands this week.)
+Ear: 2. Eye: we can't, love, nobody can, but we'll sew the lid so it looks restful. 1.
+Bowel put back: 25, paid before. Bowel put back on the Living (foreigners, the Breathing): 60, paid before, no refunds, sit there.
+Head: 40, and bring someone to hold it.
+NO CREDIT. NO KEPT ON THE BENCH AFTER DARK UNLESS SEEN TO. NO MARROW JACK.
+[/fiction]
+
 ## The Grievous Table
 
 Some blows are worse than a Grace. A **Grievous** blow is any of the following:
@@ -238,6 +255,10 @@ This is the **Unending** ability given in *Things That Eat and Are Eaten*: a Kep
 - **Vinegar and cedar.** The Kept find the living by smell. A character doused in fen-vinegar or cedar perfume is −2 to be found by a Kept in the dark, and a character with *Vinegar Kiss* is ignored by Kept until they act.
 - **Kept Guests.** A Kept player character follows the same rules, with Rot as the Sallowreach chapter gives it. They are terrifying allies in a fight, and the Carver should make them pay for it in Rot.
 
+[box: Why You Do Not Fight in the Sinks]
+The Kept outnumber the breathing nine to one in Sallowreach, and every one of them feels every blow and cannot die of it. A brawl in a Lastgate tavern does not end; it goes on, in a smaller and sadder way, for decades, in the Lofts and the Jar Room and the back rooms of part-thieves. Captain Dace Morrow, whose army cannot lose a man, has a standing order that his soldiers are never to fight the Kept at all, only to restrain them. His soldiers are Kept. They know.
+[/box]
+
 ### Fighting Many
 
 Mobs, the Forsworn of the Breakdowns, a Reaping crowd, the Finishers walking in: treat a mob as one character with Flesh equal to 5 × its number, Threat equal to 1 + one per 5 members (max 5), and damage equal to its best weapon + 1 per 5 members. Each 5 Flesh lost drops one member. Mobs break and run when they lose half their number, unless they are faithful, starving or Called.
@@ -283,6 +304,8 @@ Some killings are meant to buy something. The Second Helping offers the eaten to
 A **ritual killing** is a killing performed as a rite: with words, with a place, with a method fixed by doctrine. It is led by one celebrant, who rolls **Tongue + Rites** against Hard (14), or Grim (18) if the victim resists or begs. Every participant and witness makes a **Dread 3** check, as the Dread table gives, and those who take part willingly each mark one **Stain**, as the torture rules give. A ritual killing adds +2 to the Pall of any community that knows of it, whether or not it approved.
 
 Then the celebrant rolls on the table below to see what the rite has bought. The Carver may choose instead, but should be honest with herself about which result the world would give.
+
+[pull] We gave it my sister and the sea still went out. We gave it Hask's boy and the sea still went out. Mother Limpet says the sea is not going out. She says it is going home, and we are the road. | — Wreckwife, Lowmark
 
 | d10 | What the rite buys |
 | 1–5 | **Nothing.** The god was not listening, or was, and did not care. The field still Reaps. The sea still falls. The interval still shortens. The celebrant will say it worked. |
@@ -412,7 +435,7 @@ The mob comes at the hedge-gap: 6 + 5 + 4 = 15 against Ressa's 19. Nothing gets 
 
 **Round two.** Tolly bleeds (5): Bloodied. She spends her action binding her own arm with her teeth and her good hand, Routine (10), and rolls 12. It stops.
 
-Ressa wants the sickle out of the Cullmaster's hand. She leaves the line (Abate loses his +2) and makes a **Called Shot** at his weapon hand, −2. She **Partakes**: 9 + 6 + 3 − 2, and the Tooth shows 4, for 20 against Guard 14. Two Helpings. One buys the Called Shot's effect: the sickle drops into the stubble. The other buys +2 damage: 4 + 2 − 1 = 5. The Cullmaster is at 8. Ressa gains 1 Hunger; her ears pop, and for a moment everyone in the field hears the sea.
+Ressa wants the sickle out of the Cullmaster's hand. She leaves the line (Abate loses his +2) and makes a **Called Shot** at his weapon hand, −2. She **Partakes**: 9 + 8 + 3 − 2, and the Tooth shows 4, for 22 against Guard 14. Two Helpings. One buys the Called Shot's effect: the sickle drops into the stubble. The other buys +2 damage: 4 + 2 − 1 = 5. The Cullmaster is at 8. Ressa gains 1 Hunger; her ears pop, and for a moment everyone in the field hears the sea.
 
 The Cullmaster, unarmed, does what Cullmasters do. He turns to the village and shouts: *the field has had one and it wants two, and if it does not have two, it will come up the lane tonight for yours.* He is preaching. Tongue + Rites against Hard (14): 13 + 3 = 16. It works. The mob stops trying the gap and goes through the hedge itself, tearing the thorn aside with their hands. Now all twelve can reach: the mob attacks at its full Threat 3, at +6, for 5 damage.
 

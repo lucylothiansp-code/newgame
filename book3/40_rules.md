@@ -320,7 +320,7 @@ When the Seating comes, the Carver hands the scene to the player. The player des
 Then the companions make their Dread check. A Seating is Dread 5.
 
 [box: Seating Play Example: The Hill at Hessop's Furrow]
-Halloway Brisk has been Regrowth 11 for three sessions. Dev knows it. In the fourth session, in the Fatlands, a Cullmaster's dusk shift is walking eight debtors into a Reaping field, and one of them is a child of eleven with her hands tied, and the wheat has begun to lean. Halloway has Hunger 8. Dev says, "I Partake. Both Teeth? No. One. One's enough." The Tooth shows a 1. The god bites back. Hunger 10.
+Halloway Brisk has been Regrowth 11 for three sessions. Dev knows it. In the fourth session, in the Fatlands, a Cullmaster's dusk shift is walking eight debtors into a Reaping field, and one of them is a child of eleven with her hands tied, and the wheat has begun to lean. Halloway has Hunger 8. Dev looks at the sheet for a long moment and says, "I Partake." The Tooth shows a 1. The god bites back. Hunger 10.
 The Carver puts down her pen. "Tell me."
 Dev talks for four minutes. Halloway walks into the field. She takes off her boots, which she has never done on Fatlands soil in her life, because her mother told her not to, because of what happened to her mother. She stands among the debtors and the leaning wheat and she roots. "Her last act," Dev says, "is that the field stops. It doesn't take anyone. It can't. She's holding it. All of it. Every ear." The Carver agrees: that is within Ummer's nature, which is to hold and to feed.
 Her last word goes to Abate Kell, who is holding her arm and trying to pull her up out of the ground while her feet go down into it like warm wax. It is: "Lack keep away." The grace before eating, said to a man who has never eaten with her.
@@ -840,6 +840,8 @@ A poison has a **Potency** (the Difficulty to resist), an **Onset**, an **Effect
 
 [pull] Mind the gravy. It is always the gravy. | — Jem Crackle's only published advice
 
+*Example: At a Board inn outside Sated, Abate Kell refuses the gravy three times and takes it on the fourth, out of courtesy, which is a mistake. It is Widow's Supper. Halloway, across the table, tastes her own and rolls Eye + Feast against the poison's Potency, Hard (14): 16. She knows it at once, and knocks Abate's bowl into his lap, but he has eaten half. Onset is an hour. Abate rolls Gut 3 + Endure 3 against Hard (14) three times over the night, with Halloway's care (+2, after a Routine Stitching roll of 12). He passes the first (17), fails the second (13): 2 damage, and he keeps eating the bread on the table though nobody offers it, which for an Unfed is a horror of its own, Dread 2. He passes the third. In the morning the innkeeper asks, politely, whether the gentleman enjoyed his supper, and Halloway answers him with her cleaver on the counter.*
+
 ### Disease
 
 Disease moves slower than poison and further. A disease has a **Virulence** (the Difficulty to resist catching it, and to throw it off), an **Interval** (how often the sick roll), and **Stages**. On exposure, roll **Gut + Endure** against Virulence; failure means infection. Then, once per Interval, the sick roll again: two successes in a row throw it off; each failure advances a Stage; the last Stage is death, outside Sallowreach. A Seamer's care each Interval gives +2.
@@ -949,6 +951,8 @@ At the end of each downtime period, the Carver rolls a d20 for one Guest's Who W
 | 18 | They have done something terrible for your sake, and they are waiting to tell you. |
 | 19 | They have started to change toward the god. They are happy. |
 | 20 | They are well, and they have news, and it is good, and it is real. Let it be real. |
+
+*Example: Between stories, a month passes. Ressa takes two actions: Mend (her Flesh returns and her Rib-Crack advances a step toward healing) and Tend, going home to Ama in Gannet Reach, which clears her Fray because Ama is still herself. Tolly Works as a courier (Standing 2: 10 lacks a week, 40 for the month) and spends it all on rouse. Abate cannot pay even the destitute rate in Lowmark and will not accept charity; he gains Ruin 1, a debt to a Company quartermaster who knows where he sleeps. The Carver rolls While You Were Away for Ressa: 13. A table was laid in Ama's kitchen one morning, with Ressa's name on the card. Ama burned it. She mentions it in passing, over herring, as though it were nothing, and her hands shake.*
 
 [pull] Nobody on the Table goes home. They go back, which is different, and they find out how different when they knock. | — Cradlewrack saying, from a country where you must
 
