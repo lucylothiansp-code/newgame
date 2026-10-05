@@ -275,7 +275,7 @@ A family with a question for its Dowager brings her a joint (custom demands the 
 
 **Dimble.** A dying village on the western plain between Sated and the Trencher, built around the ruins of a granary that was old when Ummer walked; over its root-cellar is the oldest carving in the Fatlands, with the long open hand left where the chisel slipped. The people of Dimble do not say *Is there any more?* at the end of a meal. Since 636 they have begun to do something else, at the first ploughing, which the Board has heard rumours of and has sent a Bailiff to ask about. See *The First Furrow at Dimble*, below.
 
-**Hask's End.** *(new)* A small, prosperous village on the eastern edge of Low Tilth, where a Seated hill called Mother Furlong stands over the common pot like a hen over a nest. In Carving 639 Hask's End gave Mother Furlong what she asked for, in exchange for a promise. The village is quiet now, and half its houses are empty, and on the yard wall there is one bowl turned upside down that is not for anyone the field took. See *The Bargain at Hask's End*, below.
+**Hask's End.** *(new)* A small, prosperous village on the eastern edge of Low Tilth, where a Seated hill called Mother Furlong stands over the common pot like a hen over a nest. In the Lack of 639 Hask's End gave Mother Furlong what she asked for, in exchange for a promise. The village is quiet now, and half its houses are empty, and on the yard wall there is one bowl turned upside down that is not for anyone the field took. See *The Bargain at Hask's End*, below.
 
 **Granny Hessop's Rise.** *(new)* A long, gentle, beautifully green slope above the Low Tilth causeway, famous all over the south because so many households thank it at every meal: its grain is sold as *Hessop Sweet* and is the dearest flour in Sated. It is the Seated body of the first Hessop matriarch, a contemporary of Ysolde Tullow, and the Hessop family live all over and around her in a cluster of long, low, old houses connected by covered ways, and have done for five hundred years. They are a handsome family. They are a *very* handsome family, and they look extraordinarily alike. See *The Hessops*, below.
 
@@ -434,7 +434,7 @@ Linnet's betrothed still brings Mother Furlong meat. He cannot stop himself. She
 The story of Hask's End is the Fatlands' answer to every PC who asks *can we make a deal with it?* Hills will offer bargains; Dowagers, Old Mother Rind, the Seated of any family. They are always sincere when they offer and always hungry when they eat. A GM who wants to stage a worthless sacrifice of this kind should let the bargain be struck and paid with real cost (an NPC the players love, a PC's own Flesh or Regrowth), and let it fail quietly, with no villain to blame. The Dread is not in the eating. It is in the next Carving's tally. Witnessing a Hask's End-style giving is Dread 3; learning, afterward, that it bought nothing is a second Dread 2 check, because grief that was for nothing warps the mind more than grief that bought something.
 [/box]
 
-[pull] I was hungry, Amos. | — Mother Furlong of Hask's End, Carving 639; the only explanation she ever gave
+[pull] I was hungry, Amos. | — Mother Furlong of Hask's End, Carving 640; the only explanation she ever gave
 
 ## Rule, Law and Politics
 

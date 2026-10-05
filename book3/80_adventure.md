@@ -1124,3 +1124,99 @@ The table below is the long night as it falls if the characters do nothing to be
 [pull] Oh. Oh, it wants it. It always wanted it. We have been fighting to be let in at a door it was holding open. | — Lady Vellum Serrat, at half past one
 
 **Dorcas at the stones.** At four, if she has not been helped, Dorcas Thimble walks out of the inn along the dark path, and then off it, across the melting white, to the boundary stones at the Bend, with her law-books in a sack on her back. If no one goes with her, she is alone on marbled ground in the dark, and the field may have her before the charter does; if someone goes with her, the field leaves her be. At the stones she stops and looks back once at the inn, all its windows golden, all its chimneys smoking for the first time in two hundred years, and then she steps over. What happens next depends on what the characters have done for her (see Endings and After the Snow). If they have done nothing, it is the charter, and it is very bad, and she does it anyway, and she walks on a little way afterward, which is not possible, and then sits down in the road facing south, away from the light.
+
+## Combat Encounters
+
+**The Gleanings (Day Four, dusk).** Six figures come out of the marbled yard to the windows and doors: field-grown things shaped like the Reaped, with root-tangled feet, smooth rind for skin, and the faces of Walt Sallow, Robb Hayle, Old Mother Ivy and others, eyes closed. They knock and ask to come in. If refused, they press against the glass until it bows, and come through. They fight to drag the living out onto the marbled ground at dusk. They are destroyed when their face is cut away; what is left smells of bread and sap, and under the rind there is a grain like the inside of a turnip, and in the middle of each, curled, a small hard knot that is nearly a tooth.
+
+[quick] Gleaning — Threat 2 · Flesh 12 · Guard 11 · Attack +5 (root-grip 3; on a hit the target is held and dragged one step toward marbled ground each round, Gut + Athletics Hard 14 to break free) · Armor 1 · Dread 2 (3 if it wears a face the viewer knew)
+
+**The Stable (Day Six or Seven).** Freeing Refrain means facing Kale and his two men, and, after Day Four, three of Clemency's converts who want her for the chair. Kale fights to disable, not kill: dead Blanks sell for a quarter. He uses the net first and the cosh second. If outmatched he surrenders and offers to sell the characters something, and then, if they will not buy, to cook for them. On Day Six or later, the oxen in the stable may join in, standing up on two legs in their stalls when nobody is looking straight at them; use their quick line, and let them fight anyone who is turned away.
+
+**The Smokehouse (Day Five, night).** Clemency and four converts, armed with lancets. Clemency does not stop preaching while she fights. Each round, one convert who hears her and is not attacked that round must roll Caul + Resolve (Hard 14) or keep fighting even at Ruin. If Casimir is freed and ungloved, he can end the fight with a touch, and the touch will end more than he means; he knows it, and he will ask a character to choose for him.
+
+**The Cellar (Day Four, night).** Linus, grieving and terrible, with the cleaver, between the characters and his father's body. Talking him down (Tongue + Persuade, Grim 18) ends the fight; a Grace gets the cleaver handed over, handle first, and Linus says "thank you" and then, appalled, "I shouldn't have said that, should I? Not here."
+
+**The Seated (Tablenight).** Anyone who tries to drag a Seated person from their chair must beat them in an opposed Gut + Brawl; the Seated cling with a terrible gentle strength and do not stop smiling. A Seated person dragged free dies within the hour, of all their hunger arriving at once, and spends the hour asking to be allowed back.
+
+[quick] Seated Guest of Thimble Cross — Threat 0 · Flesh 3 · Guard 8 · Attack none (clings, Gut + Brawl 6 to hold) · Armor 0 · Dread 2 (Dread 3 when they all turn and look); each call by name forces an Invitation check at Routine 10
+
+## Clues and What They Reveal
+
+| Clue | Where | Roll | What It Reveals |
+| Notches under the stamp | The yard | Eye + Search, Hard 14 | Thirteen barrels are different |
+| Heavy barrels | The yard | Reckoning 2+, or a Fatlander | Notched barrels are a fifth over weight |
+| Warm staves at night | The yard | Caul + Instinct, Hard 14 | Something in them is not quite dead |
+| The manifest | Abel's wagon | none | The far-field barrels; Robb Hayle; Stockpot's stamp |
+| Abel's note | The cold store | none | What is in the barrels; why he died |
+| The lantern among the stones | The graveyard, Day One night | Eye + Search, Hard 14 | Absalom digging up his mother |
+| The kitchen book | The kitchen drawer | Eye + Search, Routine 10 | The pottage recipe, and the ring |
+| The gold ring in the pot | The kitchen | Grace on examining the meat | The pottage; Absalom's crime |
+| The spade and the folded shroud | The graveyard | none | Ivy was dug up from above |
+| Breathing hollows in the coffins | The graveyard | Dread 2 | The marbling eats from below |
+| The reversed *Welcome* | Hadley's grave | none | The field has tasted the founder |
+| The charter and the Opinion of 488 | The parlour | none | The clause; the blood kept narrow |
+| The family register | The parlour bureau | Eye + Search, Routine 10 | The Thimble blood, without a word said |
+| Dorcas's skeleton diagram | Dorcas's room | Eye + Lore, Routine 10 | What crossing the stones would cost her |
+| Brawn's little book | His waistcoat | Hand + Filch, Grim 18 | The field is being fed by name |
+| The dusk roster | The common-room door | none | Who Brawn thinks is worth least |
+| Fork badge with two tines | Kale's lapel | Eye + Search, Hard 14 | His buyer is the Second Table |
+| Vellum's carving set and tape | Her luggage | Hand + Filch, Hard 14 | She means to carve a god |
+| The letter from Wont Bellamy | Vellum's luggage | Eye + Lore, Hard 14 to understand | The Second Table has a friend in the Abstinent |
+| Casimir's unsent letter | His left glove | none | His name, his hands, what he hoped |
+| Bell's dispatch | Bell's case | none | The Vigil's offer to Sallowreach |
+| The page in Refrain's boot | Refrain | her trust | Garrity's heresy: the Unfed were late |
+| Haverick's ledger | The toll house | none | The true count; his Wear; *Warden relieved* |
+| The tureen | The Host's table | Dread 1 | Each smells their own childhood |
+| The table's length | The common room | Eye + Reckoning, Hard 14 | It is longer than the room |
+| Clemency's new card | The Host's table | none | Blasphemy makes you a guest |
+| Ardent's nine keys | His belt | Eye + Search, Hard 14 | One key fits no door he has ever found |
+| The ninth card | The table | Eye + Lore, Grim 18 | A name nobody here bears |
+
+## Endings
+
+None of these endings is happy. Some are survivable. Whatever happens, describe the dawn: the warmth going out of the air at once, like a door shut on a kitchen; the marbling slumping into a stinking yellow slush and running away down the Rim Road in rivulets; the sound, from inside the inn, of cutlery on china, which does not stop.
+
+### Ending One: No, Thank You
+
+The characters refuse. They take Refrain's lesson and turn their backs on the table, and, discovering that the dark, warm path the Host walked in on is the one stretch of ground the Reaping cannot touch, they go out and stand on it, outdoors, with their backs to every door, from midnight until dawn, as the Unfed do on Tablenight. Behind them, through the open door, they hear the Seated praising the food, calling their names, asking why they will not come in. Each hour, a Dread 3 check, and an Invitation check at Grim 18 when a voice they love calls. Let them hold hands. Let them say the Decline together, aloud, every hour, and let the Unfed among them lead it.
+
+At dawn the warmth goes out of the air and the marbling melts and the inn is silent but for the cutlery. Inside, at a table now seventeen places long, sit everyone who could not refuse: the Thimbles first, because they never could. The characters survive. Thimble Cross becomes a little Long Table, and the Company strikes it from the ledger.
+
+[fiction]
+You turn round when the sun is up, because the Unfed say you may. Through the open door the common room is full of light. They are all there. They look well. Refrain lifts her empty fork to you in salute, and her eyes are bright, and her mouth is full of nothing, and she says, "You're letting the cold in."
+[/fiction]
+
+### Ending Two: The Steward's Apron
+
+A character speaks to Ardent through the long night and learns that he can be relieved. He describes the position fairly. He does not hide the hours. If a character accepts it, in so many words, Ardent takes off his apron and folds it and hands it over, with the nine keys and the box of cutlery, and weeps with relief, and sits down at the table himself, at a place that was always there and that nobody noticed was his. His card is in a child's hand, very large, the letters uneven. He reads it and puts it in his breast pocket, and lifts his fork. At dawn the new steward walks north up the Hungry Lane a mile ahead of something tall and warm, and does not come back. The character becomes an NPC. The Host, now, has a steward who knows the players' names, and who writes their cards in a hand they will recognise. Everyone else at the inn who was not Seated survives.
+
+[pull] Will you be joining the Host this evening? No? No, of course. I'll just set the place, in case. | — what the new steward says, at the next table the characters find
+
+### Ending Three: The Long Table
+
+The characters sit. Perhaps the Seeming has them; perhaps the Laden Taste; perhaps they are simply tired, and cold, and it is just bread. It is the warmest night of their lives. They will be lucid for months. They will describe each course to the next travellers who reach Thimble Cross, and to the ones after that. This ending is a gentle total party loss, and players who choose it with open eyes should be allowed to. Play the First Course for a scene, as the Fast chapter describes: let each player describe what they are eating, and who is sitting beside them, and what they say. Then let the next session, if there is one, be played by new characters, arriving at Thimble Cross in Grace, finding the old ones at the table, and being invited.
+
+### Ending Four: Ashes and Tablecloth
+
+The characters burn it down: the table, the common room, the inn, the Seated in their chairs, who do not get up and do not stop smiling and go on praising the food as the cloth catches. The smell is roasting, and then bread, and then something no one will ever describe. The Thimble charter breaks with the house, and so do the last Thimbles who are not already at table, their bodies folding and snapping in the yard as the blood fails to endure; Haverick, failing to keep the peace, breaks too, quietly, in the toll house, having written *relieved* in the ledger beforehand. The characters run south across melting marbling at dawn, and the field takes one more of them if it can. Burning the Seated is Dread 4, and an oath on the dead sworn by anyone present is broken by it. They survive. At the next crossroads down the Rim Road, two days later, there is a table, laid, with their names on the cards.
+
+### Ending Five: The Struck Line
+
+A rarer ending, for groups who have spent their time on the Thimbles. If the characters have found Dorcas her exit clause (see After the Snow: the Company's striking of the station ends the charter's object), and have kept her standing until dawn, and have stood with her on the dark path through the night, she walks out at sunrise between the boundary stones and nothing breaks. She stands in the road and touches her own face, her own collarbones, her own wrists, counting. Then she turns and looks at the inn where her mother and brother sit at the table, and the oath she swore on her father's body comes due. It is a Fatlands-ground oath, broken: from now on she tastes her father in every meal. She eats anyway. She goes south to Sated to read law. She does not come back.
+
+### What Becomes of Them
+
+| Person | If Unchecked | If Helped |
+| Hepzibah | Seated first | Seated; she will not be helped |
+| Linus | Seated, at peace | Seated, or lives, broken, mute, a farrier on the Rim |
+| Dorcas | Breaks at the stones | Free (Ending Five), haunted by her oath |
+| Haverick | Fails the peace at dawn | Relieved by the Company, alive, his body a map of Wear |
+| Brawn | Reaped at 2:40 | Arrested at the inquest; the Board wants him back |
+| Kale | Seated, to be polite | Lives; offers the characters dinner, three times |
+| Refrain | The ninth chair, then her own | Seated, happy, unless another volunteers |
+| Vellum | Carves, and is fed | Lives, sworn, tongue split, measuring |
+| Clemency | Seated, emptied | Hanged by the converts she failed, or flees west |
+| Merrit | Walks west at dawn | Lives; keeps the count wherever she goes |
+| Bell | Sleeps on, never wakes | Never wakes; her dispatch goes on in other hands |
+| Ardent | Walks on, more tired | Relieved (Ending Two), Seated at last |

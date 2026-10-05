@@ -86,7 +86,7 @@ The two lower districts, side by side in the valley of the Tull, could not be le
 
 The **Aubrey Gardens**, across the river, are the old royal quarter: the Womb Court, a long low palace of rose-colored brick with no stairs anywhere (the Queen Dowager cannot climb them) and a garden of herbs and lavender where she is carried in the evenings. The Gardens smell of lavender and old women. The custom here is the **Reading**: every morning at the third bell the Lord Chamberlain reads the day's questions to the Queen's belly, in the Long Room, before a small audience of officials and petitioners, and they all wait in silence for the kick. Its danger is the slow, polite poison of any court that knows its king is a pretext, and the Chamberlain who reads the questions, and who has lately begun reading them in the night, alone.
 
-[quick] Lord Chamberlain Pell Danner — Threat 4 · Flesh 10 · Guard 10 · Attack +2 (knife 2) · Armor 0 · Dread 0 · a minor Caul-line man of sixty with a thin veil over one eye only; he has read the King Within twenty thousand questions and has begun to believe, against all reason, that the answers are right.
+[quick] Lord Chamberlain Eamon Seele — Threat 4 · Flesh 10 · Guard 10 · Attack +2 (knife 2) · Armor 0 · Dread 0 · a minor Caul-line cadet, bare-faced, the veil cut from him at birth; he has read the King Within twenty thousand questions and has begun to believe, against all reason, that the answers are right.
 
 ### Other Towns and Villages
 
@@ -338,7 +338,7 @@ Cradlewrack looks, from outside, like a land ruled absolutely by an order of arm
 | Power | Controls | Fears | Owes |
 | The Attendance (Orla Kest) | every birth; the courts; the knife; the Lying-In's book | the Late-faction; the room under the Dilation | the mothers, for their silence |
 | The Veiled Council (Duchess Morwen) | the springs, the clay-pits, prophecy, rents | the red in the veil; the Reckoners | the Cutwrights, for their discretion |
-| The Crown (Queen Dowager, Chamberlain Danner) | the Companies' pay; legitimacy; the Litter-Levy | the King Within's unasked answers | the Attendance, which props it up |
+| The Crown (Queen Dowager, Chamberlain Seele) | the Companies' pay; legitimacy; the Litter-Levy | the King Within's unasked answers | the Attendance, which props it up |
 | The Tally (Rufus Ochre) | the record of who exists; the Naming-Exchange's ground | the arithmetic closing | the Crown, for its wages |
 | The Trowel (Hugh and Absalom Gage) | every brick and every bricked room | the knocking from inside walls they laid | the Attendance, for its niche-contracts |
 | The Foundling Companies (General Tibb) | the only army; the roads in a riot | going home | the Crown and the Attendance, who let them stay |
@@ -439,7 +439,7 @@ The characters meet Orla when one of them is carrying, whatever their sex, since
 
 [box: Said of Them]
 "She delivered me, she delivered my girl, and she took my boy. I'd send for her tomorrow. I hate that I would." — a Rudge clay-digger's wife
-"She never raised her voice in council. Not once. When she said no to the Crown, it sounded like a recipe." — Lord Chamberlain Pell Danner
+"She never raised her voice in council. Not once. When she said no to the Crown, it sounded like a recipe." — Lord Chamberlain Eamon Seele
 "I have watched Orla Kest give the Second Opinion. I have not slept since, which in my case is not unusual, but I mention it." — Dr. Lazar Voss
 [/box]
 
@@ -699,7 +699,7 @@ Gifts: The Seam (any two Parts or wounds he stitches together join by morning). 
 Wants: Gather (Grim 18; he cannot leave a Part where he finds it). Begin (Hard 14; offered a plan, he starts it before the speaker has finished).
 Knacks: Mother's Hands, Steady Hands, Hostage's Smile
 Derangements: The Devotion (to Herself; set off by her presence or her absence)
-Carries: surgeon's case; spectacles; a reel of fine gut; a ledger of four hundred mothers; a hummed tune; Bryony's wedding cap
+Carries: surgeon's case; spectacles; a reel of fine gut; a ledger of four hundred mothers; a hummed tune; Liss's wedding cap
 Dread: 2
 [/stat]
 
@@ -709,7 +709,7 @@ Dov Marrin is mild, balding and bespectacled, a soft-bellied man of middle heigh
 
 #### Their Story
 
-Dov was a shepherd's son of Threshing who learned surgery on ewes and then on shepherds. In 608, at twenty-two, he read Abel Furrow's testimony in a pirated copy and walked to the Barn, then a sheepfold where the old founder Seth Harrow kept forty Parts in straw. He became a Seamster in a year, a Fitter in ten, and Assembler-Prime in 627, when Harrow died and asked to be buried in the figure's straw. Under Dov the figure has grown from a torso and two arms to eleven feet of breathing, seamed, stitched body with nine arms, more eyes than anyone has agreed on, and a head that has lately turned toward the Sill. His wife Bryony, now sixty-three, bore a heart as a Part in her sixtieth year, in 638, and asked him to give it to Herself. He did, with his own hands.
+Dov was a shepherd's son of Threshing who learned surgery on ewes and then on shepherds. In 608, at twenty-two, he read Abel Furrow's testimony in a pirated copy and walked to the Barn, then a sheepfold where the old founder Seth Harrow kept forty Parts in straw. He became a Seamster in a year, a Fitter in ten, and Assembler-Prime in 627, when Harrow died and asked to be buried in the figure's straw. Under Dov the figure has grown from a torso and two arms to eleven feet of breathing, seamed, stitched body with nine arms, more eyes than anyone has agreed on, and a head that has lately turned toward the Sill. His wife Liss, now sixty-three, bore a heart as a Part in her sixtieth year, in 638, and asked him to give it to Herself. He did, with his own hands.
 
 #### Their Place in the Land
 
@@ -722,15 +722,15 @@ Dov runs the Barn, the Part-hunters, the gatherers of every district, and the bl
 - **A reel of the finest gut** — spun, he says, from Herself's own shed membrane.
 - **Spectacles** — repaired with wire. He cannot see Herself's face clearly without them and will not admit he cannot see it clearly with them.
 - **The five notes** — a hummed tune, which is the Call of Pieces. He does not know where he learned it.
-- **Bryony's wedding cap** — linen, in his breast pocket.
+- **Liss's wedding cap** — linen, in his breast pocket.
 
 #### Wants, Fears and Secrets
 
 He wants the left hand and the voice, and the god's easy birth, in a barn, among friends. He fears that Herself's head has turned toward the Sill without him: that she has wants he did not stitch into her.
 
-**Secret (for the GM to reveal):** Bryony lives, after a fashion, in the Barn's middle hall. Since her heart went into Herself, her own heart beats in time with it; she cannot go more than a few hundred paces from the figure, and she no longer speaks in her own voice but in a low hum of five notes.
+**Secret (for the GM to reveal):** Liss lives, after a fashion, in the Barn's middle hall. Since her heart went into Herself, her own heart beats in time with it; she cannot go more than a few hundred paces from the figure, and she no longer speaks in her own voice but in a low hum of five notes.
 
-**Secret (he does not know):** Lazar Voss's drawings show two places in Herself's chest where a heart could go. Bryony's heart is in the second. The first is empty, and it is the size of a man's.
+**Secret (he does not know):** Lazar Voss's drawings show two places in Herself's chest where a heart could go. Liss's heart is in the second. The first is empty, and it is the size of a man's.
 
 #### Ties
 
