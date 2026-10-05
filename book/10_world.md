@@ -789,7 +789,7 @@ Attacks: stiletto +3 (2)
 Gifts: *Lidless*: she cannot be surprised, sees clearly by a single candle, and has perfect recall of everything she has ever seen. *The Seeming*: once per session she may describe a hallucination aloud; everyone with Fray 4+ who hears her sees it too.
 Wants: Blinks; she must make a Caul + Resolve roll (Routine) once per scene of calm or lose a second in the long dim room, and comes back having moved.
 Dread: 2 (her eyes, which never close and are always wet from the brushing)
-Secret: Dalgety travels with two maids who brush her eyes wet every half minute, and she has not slept in forty-one years. She is the Second Table's chief buyer of Blank organs. She has already had a Blank's eyelids grafted onto her own lidless eyes, three times, and three times they have died and sloughed. She has bought a fourth pair, from the Fatlands, from a girl called Wren.
+Secret: Dalgety travels with two maids who brush her eyes wet every half minute, and she has not slept in forty-one years. She is the Second Table's chief buyer of Blank organs. She has already had a Blank's eyelids grafted onto her own lidless eyes, three times, and three times they have died and sloughed. She has put a price on a fourth pair, and her agents are in the Fatlands, looking for a girl called Wren.
 [/stat]
 
 [stat: Master Quillon Barr — Surgeon to the Table]
