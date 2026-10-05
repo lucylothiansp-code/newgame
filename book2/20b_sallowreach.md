@@ -3,7 +3,7 @@
 > Everybody in Lastgate is waiting on somebody. The trick is to know who, and for how long, and whether they will still want you when you get there.
 >> — Hollis Mead's housekeeper, to the Court's examiners, 641 A.G.
 
-The dossiers that follow continue the cast of the grey north. Where the first half of this chapter dealt with the land's great powers (the Regent, the Vanes, the Guild, the Boy, the Lofts), these are the people who live in the cracks between those powers: a priestess who will not walk, a soldier who cannot stop, a widow who cannot be one, a ferryman, a thief, a child-queen, a scholar, a pickler, a surveyor, a mourner and a tourist. Every one of them is waiting for something to finish. Most of them are going to get it, and not in the way they hoped.
+These dossiers continue the cast of the grey north: the people who live in the cracks between the land's great powers. Every one of them is waiting for something to finish. Most of them are going to get it, and not in the way they hoped.
 
 [pagebreak]
 
@@ -34,8 +34,6 @@ Sister Lorn is slender and straight-backed and wrapped from throat to ankle in g
 
 Her speaking voice is ordinary, low, a little hoarse, a fen voice with the long vowels of the far reed-towns. Her singing voice is something else. It is deep for a woman's, round, unhurried, and it carries over open water the way the Breath does, seeming to come from just behind the listener's shoulder. People who have heard her sing at a Hush edge describe the experience the same way: as though someone had put a warm hand flat between their shoulder blades. She knows every Finisher song because she wrote most of them. She does not sing in rooms. She says rooms are for stopping.
 
-She moves slowly and touches people constantly: a hand on an arm, a palm on a cheek, two fingers on a closed eyelid. Her flock call it the blessing. She is aware that it is also the Taste.
-
 #### Their Story
 
 Lorn Teal was born in 561 in Cattermere, a reed-town of the far north fen where the Glad Century songs were still sung on holy days. She sang in the reed-chapel from the age of six and was hired to sing at Restitching Weeks across the north, the hymns that are sung while the grandmothers are lacquered. She married a weir-man named Josse Teal and bore a daughter, Wren, in 584.
@@ -44,24 +42,17 @@ In the Plenty of 588, Wren went off the Cattermere boardwalk in a fly-front, at 
 
 For forty years she sang. She sang at Restitchings, at Settings Aside, in the Lofts for Bettany Shroud's readers, and, from about 610, in the back room of a chandler's on Wick Lane where a few Kept and a few desperate living met to sing the songs with their last verses put back. The Court called it the Singers' heresy and ignored it. In Carving 633, when Dunmere went silent, the Singers walked out to the edge of the grey reeds with candles and a list of names, and seven of them walked in. Lorn led the singing. She stayed outside. She has been staying outside since, nine hundred times.
 
-The Finishers named her High Shut Eye in 636. She did not want it. She took it because the alternative was a Lamp named Absolom Crane who had begun leading the living in, too, and who walked into Brakemere Hush in 637 with eleven living children of his flock. Lorn wrote the rule that the living are not wanted yet. It is the only rule the Finishers have.
-
 #### Their Place in the Land
 
 Lorn is the most dangerous person in Sallowreach who has never harmed anyone. The Finishers number perhaps nine thousand now, most of them Kept, and they go where she points. Every pilgrimage is, in the Court's law, the theft of a licensed good: each Kept body that walks into a Hush is a Closing that was not paid for, four thousand lacks of the Court's only real currency, walked into the reeds. Lorn knows this. She does not preach against the Court. She does not need to.
 
-Her routine is simple and exhausting. She sleeps (or lies still, which is the Kept habit) in a loft above the Wick Lane chandlery, which Wick Tallow lets her have for nothing because, he says cheerfully, her flock is his best customer. She receives petitioners in the morning: the Kept who want to walk, and the living who want them not to. She listens to both. She writes names into the Book of Names. In the evening, three or four times a month, she leads a procession out of Lastgate by the Smoking Ground path, past the Court's Kept guards, who look away more often than not, to whichever Hush the Lamps have chosen. She sings. They walk. She walks back.
-
-The Seamers' Guild hates her quietly, because every pilgrim is a client lost. The Heirs use her processions as cover for their own darker walks. The Loft-Wardens pass her messages from the shelved. The Court has twice drawn up a warrant to jar her, and twice Regent Grue has declined to sign it, saying (through his brass tube) that a priestess in a jar is a saint by morning.
+She lies still by night in a loft above Wick Tallow's chandlery (he lets it free; her flock is his best customer), hears petitioners by morning, the Kept who want to walk and the living who want them not to, and three or four evenings a month leads a procession past the Court's guards, who mostly look away, to whichever Hush the Lamps have chosen. She sings. They walk. She walks back. Twice the Court has drawn up a warrant to jar her, and twice Regent Grue has declined to sign it: a priestess in a jar, he says, is a saint by morning.
 
 #### What They Carry
 
 - **The Book of Names** — a fat, swollen ledger in waxed calfskin, every page water-stained. It holds the name, the date, the Hush and the last words of every pilgrim she has led in: nine hundred and four, as of this Carving. The last words are mostly ordinary. *Tell Bess the key is under the step.* *I'm not frightened.* *Is it cold?* A Cutwright or Court agent would pay well for it (Haggle vs Hard; 400 lacks or more), since it is also a list of every unlicensed death since 633.
-- **Fen-mint** — a linen bag of dried fen-mint leaves, bought by the pound on the Landing. She chews it to cover the smell and because it gives her mouth something to do while she listens.
 - **The beeswax stub** — a candle she lit at the Dunmere edge in 633 and has relit at every edge since. In Sallowreach a fire does not go out, so she must close it by pinching; her fingers at the Taste can just do it, if she presses hard and thinks of nothing. It is the only candle she will not let Wick Tallow replace. It is not made of anybody.
 - **Wren's whistle** — a tin whistle, dented, that her daughter blew from the Cattermere boardwalk. Lorn cannot play it; a Kept mouth has no breath. She holds it in her fist while she sings.
-- **Nine hundred name-strips** — strips of grey linen, each inked with a pilgrim's name, which she ties to the reeds at the edge. She carries the strips of the next procession in her sleeve, and the stub ends of those already walked in a pouch. The pouch is heavy.
-- **A needle and black thread** — for her eye. The stitches rot through every Plenty and she redoes them herself, by touch, in the dark, in nine passes. She has never let a Seamer do it.
 - **A Bottled Hush (unopened)** — a jar of edge-air given to her by a grateful family in 639 (Taint: Dread 4; see the Rim Market chapter). She has never opened it. She keeps it at the back of a shelf in the loft. She has never told anyone why she keeps it, and the answer is in the Secrets below.
 
 #### Wants, Fears and Secrets
@@ -139,7 +130,7 @@ His soldiers love him in the dog-loyal way of men who have seen their captain ta
 
 Dace Morrow was born in 548 to a cooper's family on the Landing, joined the Fen Guard at eighteen and was a sergeant at thirty. In Carving 583 a Reckoner band came over the Finishing Post at night to kill Lord Ormond Sedge and his household, and Sergeant Morrow met them on the causeway with nine men. A Reckoner Knife put a black-iron blade through his heart. He died. He was standing again before the Reckoner had finished wiping the knife, and he cut her down, and she died properly (she was from the Fast, and an outsider, and had fallen on the southern side of the causeway's last stake, a fact that Morrow has gone over in his mind for fifty-eight years). That was the first time.
 
-The second was a smuggler's gaff in 586. The third was his horse, a Kept gelding that panicked in a Black Noon and rolled on him in a ditch. He has been killed since by Reckoners (nineteen times, across the raids of 597, 612 and 634), by Heirs (fourteen times, mostly in the riots of 620), by smugglers, by a jealous husband, by a falling crane on the Landing, and once, in 627, by a Finisher procession that trampled him at the edge of a Hush he was holding, and did not mean to. He became Captain in 601 when his predecessor walked across the Finishing Post one morning and did not explain. He keeps a slate in his office with sixty chalk marks on it.
+He has been killed since by Reckoners, Heirs, smugglers, a jealous husband, a falling crane, his own panicking horse, and once, in 627, by a Finisher procession that trampled him at the edge of a Hush he was holding. He became Captain in 601 when his predecessor walked across the Finishing Post one morning and did not explain. He keeps a slate in his office with sixty chalk marks on it.
 
 The Fen Guard he commands is three thousand strong, nine in ten of them Kept: an army that cannot lose a man and cannot cross a border. It guards the causeway, the Finishing Post, the Court's houses, the Lofts at night and, since 633, the cordons around the Hushes. That last duty is breaking it. Since 636 forty-one of his soldiers have walked into the Hushes they were posted to guard. He has not recruited replacements. He has recorded each one on the Captain's Roll as *transferred*.
 
@@ -147,9 +138,7 @@ The Fen Guard he commands is three thousand strong, nine in ten of them Kept: an
 
 Morrow is the hard edge of the Mortuary Court, and he is not a Court man. He answers to the Right Hand (the commander of the Court's agents) and takes his pay from the fly-tax, and he is the only officer in Sallowreach who will tell the Regent to his lacquered face that a thing cannot be done. The Court values him because he is incorruptible and fears him because he is tired. An incorruptible man with nothing left to want is the most dangerous officer a state can have.
 
-His soldiers are fed nothing, paid little (two lacks a day for a Kept guardsman, four for the living), and stitched for free by the Guild under an old contract, which is the real reason anyone joins. Morrow spends his own days riding the causeway on a Kept horse named Pardon that cannot die and has stopped trying to throw him. He inspects the Hush cordons at dusk, when the grey line is hardest to see. He takes a shift on the Finishing Post every Tablenight, by custom, standing just inside the stakes, looking south.
-
-What he cannot do is leave. Every Reckoner that comes over the border is a man he must meet on his side of it. Every smuggler who reaches the far side of the stakes is free. He has never once seen the Rim Road with his own eyes.
+His soldiers are paid little (two lacks a day for a Kept guardsman, four for the living) and stitched free by the Guild under an old contract, which is the real reason anyone joins. Morrow rides the causeway daily on a Kept horse named Pardon, inspects the Hush cordons at dusk, and every Tablenight stands a shift on the Finishing Post, just inside the stakes, looking south. He has never once seen the Rim Road with his own eyes.
 
 #### What They Carry
 
@@ -158,9 +147,7 @@ What he cannot do is leave. Every Reckoner that comes over the border is a man h
 - **The Box** — a cedar munitions box kept by Sergeant Greer Abbot under her cot in the barracks. In it, wrapped in waxed paper and labeled in her hand, are the pieces of himself that Morrow has left lying around since 639: four fingers, an ear, three toes, a strip of scalp with hair on it, a kneecap. Abbot has not reported them. She has started to notice that the pieces are always found on the south side of the barracks, near the road.
 - **The Captain's Roll** — the ledger of the Fen Guard. Forty-one entries marked *transferred*. He reads them aloud on the first of each month to an empty room.
 - **Pardon** — his Kept horse (see the Rim Market chapter), grey, spavined, lacquered on the flanks. It has been dead since 609 and has never once let him fall since.
-- **A field-kit** — wire, gut, a curved needle, a pot of lacquer. He can stitch a hand back on in the saddle in four minutes (Hand + Stitching at one step harder, which for him is Hard 14 with a bonus he has earned).
 - **A slate of sixty marks** — chalk on slate, rubbed and redrawn. The sixtieth is fresh: an Heir's boathook in the Sinks, Lack 640. He suspects he will need a bigger slate.
-- **A letter, unsent** — addressed to the Reckoner whose name he never knew, who died on the wrong side of the stake in 583. He writes a line to her every year.
 
 #### Wants, Fears and Secrets
 
@@ -226,7 +213,7 @@ Dread: 0 (Henna herself); 2 (to sit at supper with Amos)
 
 Henna Farrow is a hundred and twelve years old and living, which in Sallowreach makes her neither rare nor remarkable, only tired. She is bent almost double at the waist, so that she looks at the world from under her own brow, and she walks with two sticks of black bog-oak. Her skin is soft and spotted and thin as the paper of a hymnal, and her hands, which mended nets for seventy years, are knotted at every joint and still quick. Her hair is white and cut short with kitchen scissors. She smells of lye soap and lavender water and, faintly, of frying fat, because she cooks every night.
 
-Her voice is high and cracked and tart. She is funny in the dry, merciless way of the very old, and she does not suffer clerks. The Court's petition-office on the Upper Boards knows her well: they see her shuffle in every Grace with a new petition, written out in her own crabbed hand, sealed with candle-wax, and they bring her a chair and a cup of sour without being asked, and they hate the day, because she is always polite and she always cries at the end, briefly, angrily, and then apologizes.
+Her voice is high and cracked and tart, and she does not suffer clerks. The Court's petition-office knows her well: every Grace they bring her a chair and a cup of sour, and they hate the day, because she is always polite and she always cries at the end, briefly, angrily, and then apologizes.
 
 #### Their Story
 
@@ -242,17 +229,14 @@ She has lived beside him for ninety years. She has never remarried, because rema
 
 Henna is nobody, institutionally, which is the point of her. She is the Sallowreach that the laws of 301 were written over: the ordinary household in which the Kept and the living share a kitchen, forever, because there is no lawful way out. Everyone on Pellet Row knows her. The children of the street (living and Small) run errands for her and are paid in burnt sugar. The Row's Kept watch for Amos at dusk and call out when they see him coming up from the Landing, so that she can have the eel in the pan. A Seamer's apprentice named Aubin Coyle restitches Amos's hands every spring, for nothing, because his mistress told him it was a kindness and he believed her.
 
-She owns nothing. The house on Pellet Row belongs, by law, to Amos, who is upright; she is a lodger in her own kitchen and must, technically, ask his leave to sell a chair. Her income is a small pension from the Net-Menders' Benevolent (three lacks a week) and what the neighbors leave on the step. She has, in a jar under the hearthstone, eleven minutes of Closing, saved since 560: about seven hundred lacks of a license. She will not live to save the rest.
+She owns nothing: the house belongs by law to Amos, who is upright, and she lives on three lacks a week from the Net-Menders' Benevolent. Under the hearthstone she has eleven minutes of Closing, saved since 560, about seven hundred lacks of a license. She will not live to save the rest.
 
 #### What They Carry
 
 - **The forty-one petitions** — copies of every petition she has filed, tied with net-cord in a bundle the thickness of a loaf. Each grows longer. The forty-first (Grace 641) runs to nine pages and for the first time asks for two Closings: his, and, when the time comes, hers.
 - **The mask-brushes** — three fine sable brushes and a twist of paint (red, white, a fen-brown for the eyebrows) in a tin. She paints the smile every Restitching Week. Last year her hand shook and it came out sad. She had to scrape it and start again, and he stood patiently while she did it.
-- **A ladle** — iron, long-handled, the same one since 547. She serves his supper with it every night and scrapes his plate into the eel barrel with it after.
-- **A wedding ring on a cord** — hers. His is on his finger, under the waxed wrap, where the finger has gone thin and black, and the ring is the only part of his hand that has not changed.
 - **The Court's letter** — the forty-first refusal, sealed in red with the closed eye of the Court, signed by Regent Grue's own hand: *The petitioner is reminded that consent cannot be given by one who has not been informed.* She has read it so often it is soft.
 - **The jar of minutes** — eleven lacquered slips of coffin-wood, each bearing the Regent's signature (see the Rim Market chapter). She takes them out on Tablenight and counts them.
-- **A sprig of rosemary** — always in her apron pocket. For the smell, she says. She buys it from Bram Hollin, who grows it on his sill.
 
 #### Wants, Fears and Secrets
 
@@ -1402,3 +1386,70 @@ Hooks: Ivo offers PCs a place on the list for a favor; he asks them to forge his
 [/box]
 
 [pagebreak]
+## Webs of Sallowreach
+
+> In Lastgate everybody owes everybody. The interest is the only thing that's ever paid.
+>> — moneylender's proverb
+
+Nothing in Sallowreach ends, and that includes grudges, debts and love. The table below sets out what the people of this half of the cast want from one another, what they fear, and what they owe. Use it to decide who turns up when a PC pulls on any one thread.
+
+| Character | Wants from | Fears | Owes |
+| Sister Lorn | Nell Ash: her daughter | that she enjoys walking back | Orla Fenn, her life |
+| Dace Morrow | Sister Lorn: to be asked | his men's next walk | Thessaly Mort, sixty bodies |
+| Henna Farrow | anyone: to tell Amos | waking Kept beside him | Aubin Coyle, eel lessons |
+| Tam Ruddock | Idony: forgiveness | the List | the Company, its cut |
+| Marrow Jack | Thessaly: her name | Nell's Smalls | Nan Pickering, a season |
+| Little Nell Ash | Pim Sorrel: fairness | being alone | the Seamers, since 520 |
+| Carrion Sedge | Peat: the ledgers back | his own hands | every Court house, a pedigree |
+| Mother Gall | the Court: to be let be | the edge reaching Brinemoss | barrel one, a century |
+| Edda Thrush | the listener: to leave | going back in | Dace Morrow, a night |
+| Bram Hollin | his father's book: the line | the sixth song | the Finishers, lessons |
+| Idony Pask | Tansy: an answer | her own teeth | Tam, three hundred lacks |
+| Fenwick Lisp | Strake and Mallory: company | being found out | Henna, the truth |
+| Merrit Cask | the Court: the truth | the shelf | her mother, the keys |
+| Withhold Pennick | Jory Welt: a lord | dying here | her band, their jars |
+| Absalom Hethe | Osric Vane: his hands | the eighth chair | the Second Table, a god |
+| Dunstan Reave | Edda: a way in | that they looked peaceful | Orla, an apology |
+| Ebb Totter | the Post: a culprit | seeing who | the Court, three centuries |
+| Ivo Vane | Corrow: one touch | that she would | Hethe, a season's bend |
+
+### The Three Most Explosive
+
+**Lorn, Nell and Wren.** A mother who will not walk into the silence, a queen who will not let children into it, and a four-year-old girl, fifty-three years dead, who has asked to go and asked that her mother not be told. Sister Lorn holds a Bottled Hush she has never opened; Nell holds the key to the first stair; Pim Sorrel holds the only hands in Lastgate that could close a Small. Every one of them is acting out of love. The moment Lorn learns that Wren asked, she will try to carry the jar down the stair herself, or march nine thousand Finishers to the Weir Steps, and four hundred Smalls will come up out of the green water to stop her. Whoever is standing on that stair (the PCs, most likely) decides whether Sallowreach sees its first funeral for a child in six centuries, or its first war between the dead and the dead.
+
+**Henna, Amos, Fenwick and Ivo.** A widow who cannot be one, a husband clicking *let go* through a painted smile, an interpreter who could swear to it and is afraid of what honest testimony would cost him, and a Licenser who has read all forty-one petitions and has, in his desk, the power to bend the list. Put any two of them in a room and the Court's oldest refusal can be overturned in a day. Put all four in the Hall of Closings and Lady Corrow Vane must close a man by her son's bend on an interpreter's oath, with the last mourner singing, and the Court will have to decide whether consent given in weir-code is consent. The precedent would empty the Lofts: forty thousand shelved Kept, whispering.
+
+**Morrow, Jack and the hand.** The incorruptible captain is held together by stolen parts. His sword-hand belongs to a woman shelved in the Lofts who has felt it kill. Marrow Jack took it; Thessaly Mort sewed it on; Bettany Shroud's whisper-books recorded every grip. When this comes out (and in Sallowreach everything comes out, because nothing that knows a thing ever stops knowing it), Morrow will have to choose between arresting the Master Seamer who made him, and going on wearing the hand. The Guild will choose too, and if it strikes to protect Thessaly the Sinks will be knee-deep within the month, and the Fen Guard, held together by Guild thread, will come apart in the streets it is meant to hold.
+
+## Using Sallowreach's People
+
+> Shut the door, love. Somebody's knocking.
+>> — Lastgate saying
+
+When the PCs are lodging in Lastgate, or have made themselves known, or have simply stayed still long enough for the north to notice them, roll on this table. Each entry names who comes and why. Most visitors are Kept and in no hurry; they will wait on the step all night if not let in.
+
+| d20 | Who's at the Door? | Why |
+| 1 | Sister Lorn | She needs someone to carry a jar down a flooded stair and will not say what is in it. |
+| 2 | Sergeant Greer Abbot, for Captain Morrow | A cedar box, a lead case, and a question: can a finger cross the border? |
+| 3 | Henna Farrow | On two sticks, with eleven minutes of Closing in a jar: *Will you tell him?* |
+| 4 | Tam Ruddock | A dying child at the Long Farewell, and he cannot face telling the mother the truth. |
+| 5 | Marrow Jack | Friendly, clove-scented, offering a Hand-line finger for a fraction of its worth. Someone is missing one. |
+| 6 | A Small called Pip | The Queen requests the pleasure of the PCs' company in the schoolroom, now. Bring sweets. |
+| 7 | A clerk of Provost Sedge | Paid work: a phial of blood from a Hand-line infant, before its christening. |
+| 8 | Mother Gall | Barrel one has started knocking in a new pattern, and she wants witnesses. |
+| 9 | Edda Thrush | A slate: *The silence moved last night. Toward your street. Come and measure.* |
+| 10 | Bram Hollin | Nine funerals this week. He needs bearers, and someone to stand at the back and keep the Heirs out. |
+| 11 | Idony Pask | A sealed letter for Low Tilth and a silver fork as payment. Come back with an answer. |
+| 12 | Fenwick Lisp | A tongueless Kept outside has something to say about the PCs, and only Fenwick can say it. Truthfully? |
+| 13 | Merrit Cask | Jar forty asked for them by name this morning. She has no idea how it knew. |
+| 14 | Withhold Pennick | Starving, knife out, wanting to know whether the PCs carried their own food here. |
+| 15 | Lord Absalom Hethe's footman | An invitation to dine at Hethe House. Eight chairs. Do not sit in the last. |
+| 16 | Dunstan Reave | A clear night is coming. Will they look through his spyglass at his roof? |
+| 17 | Ebb Totter, glossy with tar | The carving opened again an hour ago. He wants someone else to see it before he tars it. |
+| 18 | Ivo Vane | A place on the Closing list, for one small favor in his mother's wing at Glovehall. |
+| 19 | Fen Guard, on Captain Morrow's warrant | The PCs were seen at a Hush edge with Finishers. The Captain would like a word. Politely. |
+| 20 | Nobody | The knock comes; the door opens on the empty Breath. On the step, a chair, pulled out, angled toward the house. |
+
+[box: Running This Cast]
+Every person in this half of the chapter is waiting on something that has not come for six hundred years and is now, suddenly, arriving. Use that. Give each one a clock: Morrow's sixty-first death, Henna's next birthday, Sedge's Lack 642, the next nine jars, Dunstan's clear night. Let the PCs see the clocks. Then let them choose which ones to stop, knowing that in Sallowreach stopping something is the one thing the land forbids, and the one thing everyone is begging for. When in doubt, have someone knock, and have them be polite, and have them be dead, and have them want something that only ends.
+[/box]

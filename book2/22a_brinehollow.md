@@ -15,7 +15,6 @@ Then the count. Mouth to the plank. Dorrit. Wenna. Old Mags. Josiah. And they an
 Then bread, which is seaweed bread, which is grey, and a cup of sweet water if you've got the bail-token, which I had, because I bailed Mags's husband last week when his arm was broke. Salt with everything. You stop tasting it. My brother says inlanders can taste it in our sweat from across a road.
 Then the walk. Thirteen to Nineteen is six miles of plank. You walk west to work, everybody does, the whole Mile flows west in the morning like water down a gutter, and you try not to think about that. Carts. Gulls. The chandlers rolling up their shutters on Mile Fifteen. The smell of the rope-sheds. On Mile Sixteen the Wringer's lot are hanging a new one by the ankles in the fish-cellar window, and the boy's face is purple and he's smiling, and you don't look. On Mile Seventeen the pier starts to go raw, new wood, pale as a peeled finger, and you can smell the Uncovered through the gaps in the boards: low tide, every hour of every day, low tide that never turns.
 Nineteen is where the work is. Harbormistress Drowle's barges come in loaded with timber from the Cradlewrack border, and we haul it, and the pile-drivers go, thud, thud, and the new piling goes down into the mud sixty feet and further, and there's always a moment when it drops further than it should, all at once, as if something below took hold of it and tugged, and the whole crew goes quiet. Then the Harbormistress shouts a number and we go on.
-You can see the sea from Nineteen. Most days. A grey line. Some days it's closer than the last time you looked and you feel your heart lift like a fool's. It's never closer. It's the light.
 At midday somebody stops working and stands at the end-rail facing west and won't answer. Today it was Peder Swell. We took him by the arms and walked him back to the timber stack and sat him down and gave him water and he said *I'm all right, I'm all right, I just wanted to see*, and everyone said *course you did*, and nobody let go of his sleeve for the rest of the shift.
 The walk home is east. Uphill, it feels like, though the Mile is flat as a plank. Everyone's slower going home. At dusk Finn rings and the whole Mile bends over its buckets again and you hear it rolling toward you from the Headland end, cough after cough, house after house, like a wave coming in. Like the tide used to.
 Then the rope. Then the knots. You tie your own knot. You tie your neighbor's knot, and they tie yours, and you each check the other's, and you each say *hold the line*, and you lie down facing east because nobody faces west, not if they love their family.
@@ -23,7 +22,6 @@ And you lie there and listen to the floor. Sixty feet down, under the Mile, ther
 That's a day. That's all of it. I don't know why I wanted it written down. Hanne says it's because when it stops being ordinary nobody will believe it ever was.
 [/fiction]
 
-The core chapter on Brinehollow tells how the coast ate Dromm and what Dromm is doing about it. This chapter walks the ground. It goes plank by plank down the Mile and town by town along the dry shore, and it shows what bread costs and who pays the rope duty. It sets out what happens to a woman who ties her husband's knot too loose, and which hymn the Admiralty's chaplains sing when the dusk bell rings. Then it turns to the people: who holds the lines of this country, and who is quietly cutting them.
 
 Brinehollow is a land of chores. That is the first thing a Carver should understand about it. In Sallowreach the horror is endlessness, and in the Fatlands it is appetite. In Brinehollow it is maintenance. Twice a day, every day, for six centuries, every soul on the coast has knelt and coughed the god up into a bucket, and every night every soul has been tied down by someone who loves them. The horror lives in the routine, and in the morning the routine fails.
 
@@ -178,14 +176,6 @@ Weirholm trades food to the coast: barley for seaweed bread, mutton, cheese, and
 
 [quick] Dame Ysolt Haggard, the Admiralty's Water-Warden of Weirholm, who seals the spring casks — Threat 3 (Clause, Intimidate) · Flesh 12 · Guard 11 · Attack +3 (crossbow 4) · Armor 1 · Dread 0. Two of her springs have begun to taste of salt. She has reported neither.
 
-#### Brackmouth
-
-The southern port, on the Fatlands march, at the dry mouth of the River Brack. Once the second harbor of the coast, now a town at the head of a long, empty estuary of cracked mud, its quays standing twenty feet above nothing. Brackmouth lives on the Fatlands trade: barrels of meat in brine come up the march road from the south, and Brinehollow salt and cured gull go down. It is a rough, loud, greasy town, half-Fatlander in its manners, where Brinehollowers eat hot food without shame and Fatlanders learn to bail. It smells of brine, rendering and cheap gin. It sounds of carts, barrel-drays and drunken argument in two accents.
-
-The custom is **the double grace**: at Brackmouth tables the Fatlands thanks to the field and the Brinehollow "keep you dry" are both said, and a guest who forgets either pays for the round. The danger is the meat. Brackmouth's coopers know which barrels came from the Fatlands' far fields after the Reaping, and they mark them with a tiny notch of their own. And in the dry estuary mud, the Brack's bed, salvagers have begun to find bodies laid face-down in rows, weighted with stones, in the old Brinehollow manner, which nobody in Brackmouth admits to having laid.
-
-[quick] Cooper-Mistress Hild Stave, head of the Brackmouth barrel-yards — Threat 3 (Craft, Haggle) · Flesh 12 · Guard 11 · Attack +4 (cooper's adze 3) · Armor 0 · Dread 0. She corresponds with Quartermaster Ivo Stockpot in the Fatlands, and they compare notches.
-
 #### Skerrow
 
 The northernmost town of the coast, near the Cradlewrack border, built on a red-stone headland where the cliffs of Brinehollow begin to turn into the clay highlands. It is a town of quarrymen and wreckers, hard, closed and suspicious, and it buys more Cradlewrack cauls than all the rest of the coast together. Skerrow smells of wet red stone, smoke and fish-oil. It sounds of the quarry hammers and the bell of its single chapel, which rings a different tide from Lowmark's, because Skerrow's bellman refused Finn Undertow's change and still rings the sea's tide, as his fathers did.
@@ -193,14 +183,6 @@ The northernmost town of the coast, near the Cradlewrack border, built on a red-
 The custom is the **caul-coat**: every Skerrow child is sewn into a coat with a Cradlewrack caul in the lining at birth, and the coat is let out every year and never taken off. The danger is that the cauls arriving from the highlands are warm now when they are packed, and warmer when they arrive. Last Grace three Skerrow children woke with their coats grown fast to their backs, the caul knitted into the skin between the shoulders. They are well. They do not bail any more. Nobody in Skerrow is sure what to make of that.
 
 [quick] Bellman Arno Skerrow, who will not ring the body's tide — Threat 2 (Labor, Resolve) · Flesh 12 · Guard 10 · Attack +2 (fist 1) · Armor 0 · Dread 0. His town bails out of step with the rest of the country, and he says that when the moment comes, Skerrow will be the town that is still coughing.
-
-#### The Wreck Orchard Camp
-
-Eight miles out on the Uncovered, in the shallow basin where two hundred wrecks stand upright in rows, salvagers have made a town in the newest hulls: a lawless settlement of perhaps three hundred, with a tavern in the hold of a Company barque, a chapel in a gun-deck and a market on the mud between the keels on the day after Low Water. It smells of rot, tar, the hot oil of lanterns and the deep green stink of leather-weed. It sounds of gulls and wind in shredded rigging, and at night, from the oldest wrecks, of lantern-lit activity in empty holds.
-
-The trade is salvage: brass, iron, coin, ballast, the cargoes of six hundred years of wrecks, and things off the far Uncovered that the Headland's licensed brokers will not handle. The custom is **the hatch-rule**: no salvager enters a wreck whose hatches are closed, and no one closes a hatch. All the wrecks' hatches were open when the water left, and the camp keeps them that way. The danger is the old wrecks at night, and the salvagers who go into them to see who lit the lanterns, and come out in the morning walking west.
-
-[quick] Captain-of-Mud Rennet Harrow, who keeps such peace as the Orchard has from the poop of the *Second Daughter* — Threat 4 (Intimidate, Wayfaring) · Flesh 13 · Guard 14 · Attack +6 (cutlass 4) · Armor 2 · Dread 0. He has a rule that nobody may sleep in a wreck older than a hundred years. He has buried four who broke it, face-down, under their own figureheads.
 
 [pagebreak]
 
@@ -213,15 +195,12 @@ Brinehollow has two kinds of road: those that run along the coast, north and sou
 
 **The Mile.** Lowmark's one street is its own road. Foot traffic flows west in the morning and east at dusk; carts pulled by men or by stunted coast ponies carry goods in both directions, keeping to the north side going out and the south side coming in by Admiralty order. A **Mile-cart**, a light two-wheeled barrow with a seat, can be hired at any mile-post for a crumb a mile, with a runner between the shafts. After dark no cart may go west of Mile Seven without a Netwatch pass.
 
-**The Old Shore Road.** The coast road, running along the former waterline from Skerrow in the north to Brackmouth in the south, three hundred miles of rutted stone and shell, connecting the old fishing towns. It is a slow road, winding round the heads of dry inlets, but it is the only road that does not cross the Uncovered. Timber for the Chase comes down it from the north in long wagon-trains.
 
-**The Spur.** The Rim Road Company's branch road from the Lowmark Spur waystation on the Rim, down through Saltwick, to the Headland. Paved, tolled and patrolled, it is the country's lifeline, and its wagons carry sweet water from Weirholm and meat from the south.
 
 **The Shell Road.** The Deepening's nine-mile road of crushed white shell from Gullcry Strand straight out across the Uncovered, marked by lantern-posts every hundred paces. It is well-made, easy to follow and, by day, perfectly safe. By night, on procession nights, it is lit end to end, and walking it is an act of faith whether or not you mean it to be.
 
 **The Salvage Tracks.** Out on the Uncovered there are no roads, only tracks: lines of marker-stakes hammered in by salvage crews, cairns of ballast-stones, rope-lines strung between wrecks across the soft places. Each crew keeps its own tracks secret. The mud changes with every flood of the indoor tide that seeps up from below, and a track that was firm last month may now go into a sinkhole. Travel on the Uncovered without a pilot is legal and is the commonest way to die in Brinehollow that does not involve the Calling.
 
-**The Under.** Beneath the Mile, the Underpier is a road of its own, nineteen miles of mud and pilings that the Pickers walk by lantern. It is the way to move along Lowmark unseen, and the way the Called sometimes go when they drop from the Lashings. It floods ankle-deep twice a day.
 
 | Route | Distance | Days on foot | Dangers | Notes |
 | Headland to Harbor End (the Mile) | 19 miles | 1 (6 hours) | gaps in the Raw Mile, Hookside tolls, Lashings thieves | Mile-cart 2 hours, 2 lacks |
@@ -270,14 +249,12 @@ A country of fishers lost its fish, and a country of sailors lost its sea, and y
 | Parish bailer (child) | 4–8 bail-tokens | children like Tolly Brack | a token a bailing |
 | Netwatch hooker | 2 L a night | the desperate and the brave | plus tallies at 2 L a head |
 | Able Hand of the Dry Fleet | 2 L | Keelrow crews | rations, a berth on props |
-| Salt-raker (Saltwick) | 1 L | townsfolk | more in Lack, when the tide is high |
 | Salvage crewman | 0–20 L | Uncovered crews | shares of what the wreck yields |
 | Uncovered pilot | 6 L | Hask Tarn and a few others | per party per day; more past Harbor End |
 | Layer of the dead | 1 L and the stones | Slabside and Mile Twelve men | lays the face-down dead on the flats |
 | Gauger of the Salt Assay | 2 L | clerks with chains | under watch since 639 |
 | Tank-tender, Fathomhouse | 4 L | servants in rubber aprons | never below the fourth stair |
 | Window-warden (Gilt Mile) | 3 L | household servants | stands between the family and the west |
-| Sweet-water porter | 1 L | Weirholm carters | under Admiralty guard |
 
 ### What Things Cost on the Mile
 
@@ -421,7 +398,6 @@ And if you will not hold us, let the rope.
 "Forty years on the *Resolute*. Never wet my boots. Best posting in the fleet." — Able Hand Corwen Bly, Keelrow
 "My husband came home kinder. My children came home strangers. I don't know which of them I'm feeding." — a Wreckwife at the Middle Mile table
 "We drag them back up the beach and they look at you like you've shut a door in their face. Then their mother kisses your hand. Then you go and do it again." — a Netwatch hooker, Mile Seven
-"Six fathom, sand bottom. I know it's mud. I know there's no fathom. I still say it. It keeps me straight." — a salvage crewman, Wreck Orchard
 "They say the sea's coming back. I've seen it from Nineteen. It isn't coming back. It's waiting." — a pier-hauler, the Raw Mile
 "I cut my father's rope. He'd been asking for six years. The Bench said he cut it himself. I thanked them. I'd thank them again." — anonymous, read aloud at a Wreckwives' table
 "You're a long way from water, my love. You'll want this." — a Saltwick grandmother, handing a visitor the salt-gift
@@ -430,7 +406,6 @@ And if you will not hold us, let the rope.
 "I sing them to sleep with the bailing song. It's the only song I know where you can hear if they're breathing." — a cannery mother, the Lashings
 "Don't call it stranded. Call it waiting. Waiting's an order. Stranded's a fact." — Bosun Kettle Marrow, to a new recruit
 "Give the wet man a crumb and he'll bless you dry. Look in his puddle and he'll bless you wet." — Headland beggars' saying, of Old Wet Tom
-"I lie down every night and pray to be held. Then I check the knot. God helps those who tie properly." — an Anchorite postulant, Basketfoot
 "The sea used to bring us fish. Now it brings us back our husbands. I preferred the fish." — a Brackmouth fishwife
 "Everyone wants to know where it's going. Nobody wants to know what it's going to do when it gets there." — Brenna Kelp, overheard
 [/box]
@@ -460,7 +435,6 @@ Power in Brinehollow runs like rope through a block: whoever holds one end feels
 
 [quick] Widow-Mother Agna Spurling of the Wreckwives — Threat 4 (Persuade, Instinct) · Flesh 10 · Guard 11 · Attack +1 (fist 1) · Armor 0 · Dread 0. Her husband came back in 602, and she has lived with him for thirty-nine years, and she is the only woman in Lowmark who will say aloud, at the table, that she loves him more now.
 
-**How the lines cross.** The Admiralty's orders need the wet seal of the tanks; the tanks are fed and guarded by Admiralty servants, and the Dowager Below is fed by Admiralty cisterns. The Bench was seated by the Admiralty and could unseat it with one verdict, and has never tried. Kessa Drowle builds with Gilt Mile money and Admiralty orders, and the Gilt Mile's wealth is all in pier she builds. The Netwatch is the Admiralty's arm and the families' only hope, and it is losing. The Company pays tolls on a dead port and asks nothing, because it is buying silence, and Reeve Stokes has begun to suspect what silence costs. The Second Table sits inside the Admiralty like a worm inside an apple. And the Deepening, the Wreckwives and the Anchorites, the three great powers of the poor, are three answers to one question: whether to walk in, to live with what walks out, or to chain yourself to a rock and refuse.
 
 [box: The Carver's Tug]
 When the party pulls on one power in Brinehollow, let another feel it. Expose the Second Table and the Admiralty purges itself, and the Bench is asked to try Commodores, and the Bench rules as one, and suddenly everyone is looking at the Bench. Help Brenna Kelp publish, and the Gilt Mile's credit collapses overnight, the Chase stops, nine thousand labourers have no bread, and the Deepening's processions double. Rescue the prince from his tank and the Dowager Below begins to move. Brinehollow is a knot. Pull hard enough on any line and the whole thing tightens.
@@ -492,46 +466,43 @@ Gifts: Deep Breath (holds breath 30 minutes; cannot drown in that time); Hold th
 Wants: To Keep Under (roused by any secret, figure or loss; he buries it); The West (newly; roused by dusk at the *Steadfast*'s rail)
 Knacks: Unflinching; Rope Knots
 Derangements: none yet
-Carries: silver Admiral's bail-bucket; dress sword; his annotated Articles of the Fleet; spyglass; four signet rings; a scrap of tarred rope; a twist of oak sawdust
+Carries: silver Admiral's bail-bucket; dress sword; his annotated Articles of the Fleet; four signet rings; a scrap of tarred rope
 Dread: 0 (he is a square old man in a wet coat; the dread is in what he orders)
 [/stat]
 
 #### Who They Are
 
-Corvin Sund is a block of a man, square in the shoulders and square in the jaw, grey-whiskered, with a weather-reddened face that has not seen weather worth the name in fifty years. His dress coat is Admiralty blue gone nearly black, and he has it sponged with brine every morning so that it never quite dries, and so he smells, always, of a harbor at low water: wet wool, weed, the faint ammonia of old rope. His boots are blacked with fish-oil. His voice is a quarterdeck bark meant to carry over a gale, and since there is no gale he uses it on rooms, where it rattles the glass. When he bails, at the dusk bell, on the *Steadfast*'s deck in front of the assembled crew, he does it standing, bent at the waist over the silver bucket, without a sound except the water, and he straightens afterward and wipes his whiskers with a folded square of sailcloth and nods to the bosun as if he had just inspected a gun.
+Corvin Sund is a block of a man, square in the shoulders and square in the jaw, grey-whiskered, with a weather-reddened face that has not seen weather worth the name in fifty years. His dress coat is Admiralty blue gone nearly black, and he has it sponged with brine every morning so that it never quite dries, and so he smells, always, of a harbor at low water: wet wool, weed, the faint ammonia of old rope. His voice is a quarterdeck bark meant to carry over a gale, and since there is no gale he uses it on rooms, where it rattles the glass. When he bails, at the dusk bell, on the *Steadfast*'s deck in front of the assembled crew, he does it standing, bent at the waist over the silver bucket, without a sound except the water.
 
-He is not a stupid man, and those who treat him as a blustering relic learn that late. He is a disciplined one. He has decided what is true, and he holds to it as a sailor holds a line in a storm, because he knows what happens if he lets go. Officers fear him. Common sailors, oddly, love him: he knows their names, their ships, their mothers' miles, and he has never once let a Keelrow family go short of rations.
+He is not a stupid man. He has decided what is true and holds to it as a sailor holds a line in a storm. Officers fear him; common sailors love him, because he knows their names and has never let a Keelrow family go short.
 
 #### Their Story
 
-Corvin Sund was born in 573 on the Headland, the third son of a cadet Lung-line captain, and sent aboard the *Steadfast* as a ship's boy at fifteen. That was 588: the last year the fleet floated. He remembers it all. The pilot that season was a lean young man called Hask Tarn, who let the boy hold the lead-line. He remembers the morning the keel touched mud in Keelrow anchorage and did not lift on the next tide, nor the next, and the old Admiral weeping on the quarterdeck, and the props going in. He remembers that the officers called it a temporary measure. He believed them. He has spent fifty-three years making sure everyone else does.
+Born in 573 on the Headland to a cadet Lung-line captain, he went aboard the *Steadfast* as a ship's boy at fifteen, in 588, the last year the fleet floated. The pilot that season, a lean young man called Hask Tarn, let him hold the lead-line. He remembers the keel touching mud at Keelrow and not lifting, the old Admiral weeping, the props going in, and the officers calling it temporary. He believed them. He has spent fifty-three years making sure everyone else does.
 
 He rose by competence and by marriage. In 601 he married Elsbet Carrow, a sharp, funny, dry-lunged woman from Weirholm who thought the propped fleet was the most ridiculous thing on the Table and loved him anyway. By 620 he was a Commodore; by 629 High Admiral. In between came the Great Pressure Day of 627, when every window on the Headland burst. The night before, at supper, Elsbet put down her fork and said it plainly: *We're stranded, Corvin. The fleet is stranded and so are we. Admit it, and come inland with me.* He told her she was speaking treason in an officer's house. That night, on a night when eleven hundred and forty people walked, she walked. Her rope was untied, not cut. The knot had been undone with care, by fingers that knew it. He has never let himself think about whose.
 
-The first officer he hanged for saying "stranded" was Lieutenant Amos Prew, in 631. Then Captain Dorran Hale in 634, Sailing-Master Ennis Crabbe in 637 and Lieutenant Jessop Tidewell in 640. He attended each hanging in full dress, and he took each man's signet ring from the body himself. In 639 Brenna Kelp presented her arithmetic to the Standing Orders, and he made it a crime by noon. That winter, alone, he went down into the *Steadfast*'s hold with a two-man saw and a lantern and began to cut through her keel.
+The first officer he hanged for saying "stranded" was Lieutenant Amos Prew, in 631. Then Captain Dorran Hale in 634, Sailing-Master Ennis Crabbe in 637 and Lieutenant Jessop Tidewell in 640. In 639 Brenna Kelp presented her arithmetic to the Standing Orders, and he made it a crime by noon. That winter, alone, he went down into the *Steadfast*'s hold with a two-man saw and a lantern and began to cut through her keel.
 
 #### Their Place in the Land
 
-The High Admiral is the government. He issues the Standing Orders from the *Steadfast*'s deck every first morning of the month, signs every commission, approves every salvage licence over a hundred lacks and commands the Deck-Wardens and, through the Watch-Captain, the Netwatch. His orders need the wet seal of the House of Vasht, which he carries to Fathomhouse in a sealed case each week and receives back through a hatch. He depends on the Gilt Mile's credit to pay for the Chase, on Kessa Drowle to build it, and on the Drowned Bench to try whoever he accuses. He does not command the Bench, and he knows it, and he has never put the matter to the test.
+The High Admiral is the government. He issues the Standing Orders from the *Steadfast*'s deck every first morning of the month, signs every commission, approves every salvage licence over a hundred lacks and commands the Deck-Wardens and, through the Watch-Captain, the Netwatch. His orders need the wet seal of the House of Vasht, which he carries to Fathomhouse in a sealed case each week and receives back through a hatch. He does not command the Bench, and he knows it, and he has never put the matter to the test.
 
-His routine never varies. Dawn bail on the *Steadfast*. Breakfast of salt herring and sweet water. Weekly inspection of the fleet at Keelrow on the first day of every week: four hundred ships, row by row, hulls scraped of barnacles that are not there, rigging tarred, guns blacked. Afternoons at the Admiralty House. Dusk, every dusk, alone at the *Steadfast*'s west rail, both hands on the wood. Then he goes below and sleeps chained by an Oathen iron shackle to the mainmast's foot.
+His routine never varies: dawn bail on the *Steadfast*; inspection of all four hundred ships each week, hulls scraped of barnacles that are not there; afternoons at the Admiralty House; dusk alone at the west rail, hands on the wood; then sleep, shackled in Oathen iron to the mainmast's foot.
 
 #### What They Carry
 
 - **The Admiral's silver bucket** — made for the first High Admiral in 121, engraved with every holder's name. His is the twenty-sixth. He keeps it polished to a mirror and does not like to look into it after bailing. Worth 400 lacks as plate; never sold.
 - **Dress sword** — a straight Admiralty blade (sword, 4) presented at his commission. It has been drawn in anger twice, both times on Calling nights, both times on sailors who were walking.
 - **The Articles of the Fleet** — his own copy, oilskin-bound, its margins dense with his annotations in a small, neat hand. Article Nine, the one that forbids "stranded", is underlined so often the page has torn.
-- **Spyglass** — brass, Oathen-ground (+2 Search at distance). He uses it at dusk to look at the sea from the stern rail. The sea is nineteen miles off and invisible from Keelrow. He looks anyway.
 - **Four signet rings** — Prew, Hale, Crabbe, Tidewell, on a cord inside his coat. He touches them when he says the word in his head.
 - **A scrap of tarred rope** — six inches of Elsbet's anchoring line, the untied end, still knotted. He has never sworn on it. He is afraid of what the oath would be.
-- **A twist of oak sawdust** — in his waistcoat pocket, from the keel. He carries it because the first night he forgot to brush his cuffs, a bosun saw.
-- **Oathen iron shackle and chain** — 60 lacks of the best anchor money can buy; it is locked to the mainmast and to his ankle each night by his steward, who keeps the key.
 
 #### Wants, Fears and Secrets
 
 He wants the sea back. Failing that, he wants nobody ever to say it is gone, because the day the Admiralty admits the fleet is stranded, the Admiralty has no reason to rule, the Chase has no reason to go on, the Gilt Mile calls in its debts and the poor stop believing that anyone is coming. He is not wrong about that. He fears the numbers. He fears that Elsbet was right. Most of all he fears the dusk, because for a year now, at the west rail, he has felt the pull, and it is gentle, and it is in her voice.
 
-**Secret (the GM may reveal):** the *Steadfast*'s keel is sawn half through. He did it himself, over eleven nights in Lack 639, so that if the sea ever comes back the flagship will break her back rather than float away west without him aboard. A shipwright who examined the hold would know at once.
+**Secret (the GM may reveal):** the *Steadfast*'s keel is sawn half through. He did it himself, over eleven nights in Lack 639, so that if the sea ever comes back the flagship will break her back rather than float away west without him aboard.
 
 **Secret he does not know:** his favourite officer, Commodore Lysander Vell, is a member of the Second Table and has been using the Admiral's own seal-case to carry Second Table correspondence to Fathomhouse inside the Standing Orders. And his dawn bail-water has turned blue. Tolly Brack has seen it, in the silver bucket, when the steward tipped it out. The boy has not told anyone, because no one has paid him.
 
@@ -541,19 +512,17 @@ He wants the sea back. Failing that, he wants nobody ever to say it is gone, bec
 - **Kessa Drowle** — he cannot rule without her pier, and she has told him to his face, once, the year the timber runs out. He had the conversation struck from the minutes.
 - **Commodore Lysander Vell** — protégé, confidant and heir-apparent. Sund trusts him more than any living man.
 - **Brenna Kelp** — the traitor he is hunting. He has read her figures three times, alone, and burned them each time.
-- **Prince Aurel Vasht** — his liege, whose tank he bows to weekly. The boy asks him questions he will not answer through the glass.
-- **Justice Maren Oake** — she tried all four of his hanged officers and confirmed the sentences. He is not sure she agreed.
 - **Elsbet Sund** — Called in 627, never returned. He sets her bowl on Tablenight, and the west door of his Headland house is the only one in the street he bars that night.
 
 #### In Play
 
-Guests meet Sund at an inspection, at the Standing Orders, or in the dock when he wants a leaker found. He wants things done quietly by people who will not be missed: Brenna Kelp's copies recovered, an officer's loyalty tested, a rumour about the keel traced to its source. He pays well, in Admiralty commissions and salvage licences, and he keeps his word.
+Guests meet Sund at an inspection, at the Standing Orders, or in the dock when he wants a leaker found. He wants things done quietly by people who will not be missed: Brenna Kelp's copies recovered, an officer's loyalty tested, a rumour about the keel traced to its source.
 
 - **The Inspection.** A Keelrow sailor, half-drunk, says "stranded" within the Admiral's hearing while the Guests are present. Sund turns to the Guests and asks, very calmly, whether they heard it. The sailor's life depends on their answer.
 - **The Sawdust.** A shipwright from Dagna Hull's yard, surveying the *Steadfast* for a refit, has found the cut. Sund asks the Guests to make sure she does not report it. He does not say how.
 - **The Rail.** The Guests are aboard at dusk and see the Admiral at the west rail, hands on the wood, not answering his steward. It is a Calling roll with a man who commands four hundred ships.
 
-Under threat he becomes colder and louder and gives orders, and men obey them. To kindness he is gruffly grateful and does not trust it. Toward the god he is pure refusal, and the refusal is cracking. **If nobody intervenes:** on Tablenight 641 Corvin Sund walks from the *Steadfast*'s deck in full dress, down the gangway and west across the salt flats. The watch sees him go and does not know what to do. Somebody rings the bell for "Hold the Line," and somebody else shouts "Follow the flag," which is an order every sailor of the Dry Fleet has drilled all his life. By dawn, crews of sixty ships are missing from Keelrow, and a column of footprints in Admiralty boots runs straight to Harbor End and over the rail.
+Under threat he becomes colder and louder and gives orders, and men obey them. To kindness he is gruffly grateful and does not trust it. Toward the god he is pure refusal, and the refusal is cracking. **If nobody intervenes:** on Tablenight 641 Corvin Sund walks from the *Steadfast*'s deck in full dress, down the gangway and west across the salt flats. Somebody rings the bell for "Hold the Line," and somebody else shouts "Follow the flag," which is an order every sailor of the Dry Fleet has drilled all his life. By dawn, crews of sixty ships are missing from Keelrow, and a column of footprints in Admiralty boots runs straight to Harbor End and over the rail.
 
 [box: Said of Them]
 "He never once shorted my mam's ration, and he hanged my brother. Both of those are true. I've given up trying to make them fit." — Able Hand Corwen Bly, Keelrow
@@ -578,7 +547,7 @@ Gifts: Salt-Sense (knows a pressure day an hour early; reads Regrowth from bail-
 Wants: To Keep Under (roused by a figure that does not add up; she hides it in her second ledger)
 Knacks: Counting Habit; Strong Back
 Derangements: none
-Carries: two carpenter's pencils; the survey ledger and the second ledger; sounding rod; driving mallet; tin bucket; her husband's rule; oilcloth coat
+Carries: two carpenter's pencils; the second ledger; sounding rod; driving mallet; tin bucket; her husband's rule
 Dread: 0
 [/stat]
 
@@ -596,18 +565,16 @@ In 636 she began to survey the ground beyond the end of the Mile with Hask Tarn,
 
 The Chase is the largest work in Brinehollow and Kessa runs all of it: nine thousand labourers, the timber trains from Skerrow, the barges, the drivers, the tarring sheds and the pay. She answers to the High Admiral and is paid with Gilt Mile money, borrowed against pier she has not yet built. Every family on the Raw Mile depends on her wages. Every moneylender on the Gilt Mile depends on her finishing each mile on time. Her power is real and narrow: she can stop the Chase with a word and bring Lowmark down with it, but she cannot make one more tree grow.
 
-Her routine: dawn bail on the barges, survey at the Raw Mile's end with sounding rod and chain, accounts at noon in the stilted office, the drivers until dusk, rum at the Last Rail. She sleeps in the survey office, roped to a piling.
+
 
 #### What They Carry
 
 - **Two carpenter's pencils** — one for the true figures, one for the figures she reports. She sharpens both with the same knife.
-- **The survey ledger** — every piling driven since 630, its depth and its sink. Admiralty property.
 - **The second ledger** — her own: the timber count, the fall of the sea and the year 650. It also holds a list of piling orders she does not remember making.
 - **Sounding rod** — iron, twelve feet, marked in feet and fathoms. She pushes it into the mud at the end of every day, and lately she leaves it in a little longer than she needs to.
 - **Driving mallet** — (mallet, 3) iron-hooped oak. She has used it on two salvagers who tried to steal timber.
 - **Tin bail-bucket** — Tobin's, swapped on their wedding day. She has never swapped it back.
 - **Tobin's folding rule** — boxwood and brass, the last foot snapped off where the chain caught it.
-- **Oilcloth coat** — tarred until it stands up on its own.
 
 #### Wants, Fears and Secrets
 
@@ -623,9 +590,7 @@ She wants to finish the Chase with dignity: to drive the last piling, tell the t
 - **Hask Tarn** — her surveyor and her drinking companion. He tells her where the ground is going to fall. She does not ask how he knows.
 - **Dagna Hull** — the shipwright whose iron slip stands at Mile Nineteen. Old friends; they shout at each other across the basin. Kessa has supplied the *Follow*'s timber cradle for nothing.
 - **Reeve Calder Stokes** — the Company auditor has asked for her ledgers. She showed him the first one. He asked for the second. She has not decided.
-- **Madam Orla Cushion** — the moneylender who holds the Chase's debt. Kessa owes her the next mile, and the mile after, forever.
 - **Wynn Drowle** — her daughter, twenty-nine, a driver-woman whose dawn water has a green in it.
-- **Ottiline Hawse** — supplies the piling chains. They drink together once a year, on the anniversary of Tobin's death.
 
 #### In Play
 

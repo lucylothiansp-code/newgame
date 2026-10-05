@@ -105,7 +105,7 @@ The bridges smell of tar, hemp and the river four hundred feet below. They sound
 
 *Custom:* **the Held Breath.** Crossing a bridge, Oatheners hold their breath at the middle, where the sag is deepest and the drop is longest, and let it out only on the far side. Children are taught that the middle of a bridge is where words fall out of you.
 
-*Danger:* the lower bridges were cut in the Forsworn Riots of 506, and the stumps still hang from the walls like the ends of severed tendons. Brakk has promised, loudly and on broken ground, that he can cut them again. The Rope-Folk do not know whether to fear him or join him.
+*Danger:* the lower bridges were cut in the Forsworn Riots of 506, and the stumps still hang from the walls like the ends of severed tendons. Brakk shouts across the canyon, through his trumpet, that they could be cut again by noon. The Rope-Folk do not know whether to fear him or join him.
 
 *Notable:* **Marrit Holloway**, Bridge-Warden of the Tenth Bridge, whose family has kept it for nine generations and who has noticed that the old felting on the footboards has begun to wear through in the shape of feet. Not shoes. Bare feet, very large, all walking east, toward the Ledger, at night.
 
@@ -468,7 +468,7 @@ Lack keep away.
 
 - "I carry the dead down to the Vaults. They're light, our dead. The dry does it. Lighter than a bucket of water, most of them. Water's dearer." — a Keener's porter, Shadeward
 - *(signed, fast, by a bitted girl of nine)* "Mama says the bit is so the god can't hear me. I think it can. I think it's just waiting."
-- "I don't promise. Not my trade to. I give what I give and they pay what they pay and nobody breaks in my bed. Lantern Lanes has the healthiest hearts in Tacit, love." — a woman of the Breakdowns, who broke at the breastbone at nineteen
+- "I don't promise. Not my trade to. I give what I give and they pay what they pay and nobody breaks in my bed. Lantern Lanes keeps its hearts out where you can see them, love." — a woman of the Breakdowns, who broke at the breastbone at nineteen
 - "Eleven pages. I can recite them. Hold, obey, report. 'To the death' is gone. Now it's 'to the point where holding serves no further purpose, as judged by the officer present.' You know who the officer present is? Me." — a sergeant of the Canyon Watch
 - "My son is eleven. In one year I will hear his voice for the first time. I have been afraid of it since the day he was born." — a mother, the Galleries
 - "A letter a lack. I cut a man's name last week. Clean. I checked it nine times. I didn't sleep. He's fine. I checked that too." — a carver of the Ledger Foot
@@ -743,7 +743,7 @@ PCs reach Imre only by the Bench's leave, by bribery or by breaking into the Cel
 
 ### Brakk — Voice of the Forsworn
 
-> "I love you. I'll kill you. I'll be back before dark. See? Nothing. Nothing left in here to break, Clausewright. Come down and say it to my face."
+> "I love you. I'll love you till the canyon falls. I'm yours, heart and soul, to the last breath. See? Nothing. Nothing left in here to break, Clausewright. Come down and say it to my face."
 >> — Brakk, through a speaking-trumpet, to the Bench Terrace, Plenty 641
 
 [stat: Brakk — Voice of the Forsworn]
@@ -901,7 +901,7 @@ Born in 573 at Treaty Stair to an interpreter, Jessamy trained as a Clausewright
 
 #### Their Place in the Land
 
-Every Company contract on the Table is carried to Quillhouse, read aloud before her, and sworn. Her witness holds forty years of shipping, tolls, platters and debts. The Company guards her with three hundred Wardens, two tasters, and the whole of its neutrality. She depends on nobody, which is the problem.
+Every Company contract on the Table is carried to Quillhouse, read aloud before her, and sworn. She hears perhaps thirty a day, from dawn to the second bell after noon, eyes closed, and then seals them in red. Her witness holds forty years of shipping, tolls, platters and debts; every platter on the Rim bears her signet. The Company guards her with three hundred Wardens, two tasters, and the whole of its neutrality, and its First Spoke visits each season to ask after her health, which is how Quill knows they are counting. She depends on nobody, which is the problem: there is no one to hand the seal to.
 
 #### What They Carry
 
@@ -937,7 +937,7 @@ PCs meet her as clients, couriers, or bodyguards hired after the late rain. **Se
 
 ### Little Rue — the Child Who Kept Her Word
 
-> "I'm sixty-three. You may pat my head if you like. Everyone does. It costs a crumb."
+> "I'm sixty-three. You may pat my head if you like. Most people do. It costs a crumb."
 >> — Little Rue, to a Company factor in the Breakdowns
 
 [stat: Little Rue — the Child Who Kept Her Word]
@@ -966,7 +966,7 @@ Rue was born in 578 to a Shadeward laundress who could not afford a bit, and kep
 
 #### Their Place in the Land
 
-Rue is the Breakdowns' fixer: she arranges smuggling routes, negotiates truces with Quillhouse and the Watch, finds guides, hides fugitives, and settles prices. Nobody harms her. Brakk does as she says. She charges well, because she cannot afford to be lied to: she cannot lie herself.
+Rue is the Breakdowns' fixer. She holds the fig-spirit route up from Low Dray and the smuggling routes through Knot Canyon, negotiated the Breakdowns' truce with Quillhouse in 634, finds guides and liars for hire, hides fugitives in the river caves, and settles prices between lanes. She sits most days on an upturned flat-boat in Fair Weight Row with her ledger, and people come to her. Nobody harms her; the Breakdowns' one unwritten law beyond the Lantern Lanes is that Rue is not to be touched, and it has been enforced twice, with cleavers. Brakk does as she says. Her limit is that she is whole: she cannot lie, threaten or promise as the broken can, and so she charges well, in advance, because she cannot afford to be lied to.
 
 #### What They Carry
 
@@ -1031,7 +1031,7 @@ Born in 583 in Sheathmouth, Halvar walked the Sheath with his mother as a boy, r
 
 #### Their Place in the Land
 
-The Wardens' most experienced tracker, hired by towns and the Bench to silence old words (30 L, the Rim Market chapter). He buys echo-stones and grinds them. Every Warden defers to him. The Bench reads his reports.
+Halvar is the Wardens' most experienced tracker, a roving Tracker answerable to no Gorge-Warden, hired by towns, drovers and the Bench to hunt and silence old words (30 L a silencing, as the Rim Market chapter lists). He walks a circuit of the eastern canyons that takes a season, sleeping in Warden huts, listening at every narrows. He buys echo-stones of Sworn Gorge wherever they are sold and grinds them to sand, which he pours into the river. Every Warden defers to him; Bafflers fight to be assigned to his rope. The Bench reads his reports. His limit is that the Wardens' charter forbids him the one place he knows best.
 
 #### What They Carry
 
@@ -1088,7 +1088,7 @@ Dread: 1 (to watch her sign with broken fingers)
 
 #### Who They Are
 
-Mirren is elegant and dark, with long hands she oils nightly with almond-oil, and three fingers of the right hand in ivory splints, knit crooked. She signs with the left now, more slowly, and the slowness makes her poems sadder. She smells of almond. Her eyes are restless. She is frightened, angry, and guiltily excited.
+Mirren is elegant and dark, tall for an Oathener, with a long neck she holds very straight and long hands she oils nightly with almond-oil, and three fingers of the right hand in ivory splints, knit crooked so that the hand rests in a half-open shape like a question never finished. She signs with the left now, more slowly, and the slowness makes her poems sadder. She smells of almond. Her eyes are restless; they go to everyone's hands before their faces. Her speech, when she uses it, is clipped and sparing; she has always thought spoken words were ugly. She is frightened, angry, and guiltily excited, because if handtalk binds, then it was always a real language, and her poems were always true.
 
 #### Their Story
 
@@ -1096,7 +1096,7 @@ Born 601 to the lesser Osk house, Mirren was signing poems behind her bit at six
 
 #### Their Place in the Land
 
-Mirren is the voice of the Left Hand: the proof that Oathen could be lovely without risk. Since her fingers broke, handtalk breaks everywhere, and the Galleries blame her, as though she taught it to bind.
+Mirren is the voice of the Left Hand: the proof that Oathen could be lovely without risk. Her School of Hands on the Shadeward fifth tier teaches two hundred students the high handtalk; her poems are signed at weddings, funerals, Unbittings and in the Felt Market by people who cannot afford to say anything aloud. The Tongue-lines paid her for verses, and she lived well on it. Since her fingers broke, handtalk breaks everywhere, the School has half its students, and the Galleries blame her, as though she taught it to bind. Strangers stop her on the bridges and sign *was it you?* She does not answer, because she does not know.
 
 #### What They Carry
 
@@ -1121,7 +1121,7 @@ She wants to know whether her old poems are coming due. **Secret (GM may reveal)
 
 #### In Play
 
-PCs meet her seeking a translator or a witness. **Seeds:** she hires the PCs to find every person she ever signed a vow-poem to; Senna Dath wants the poem signed again, correctly; Cassian asks the PCs to tell her something true for him. Threatened, she signs something devastating. To kindness she writes a poem. **If nobody intervenes:** the Reading of Hands passes.
+PCs meet her seeking a translator, a witness, or someone who understands what the Left Hand means now. **Seeds:** she hires the PCs to find every living person she ever signed a vow-poem to, in thirty years, and learn whether any of them have broken; Lady Senna Dath demands the poem be signed again, correctly, before the same four hundred guests, and Mirren needs someone to stand beside her when she does; Cassian asks the PCs to tell her something true for him, since nothing he says can be. Threatened, she signs something devastating with one hand. To kindness she answers with a poem, slowly, and it costs her. Toward the god she is, for the first time, curious. **If nobody intervenes:** the Reading of Hands passes in Lack, and on the night it is carved, Mirren's left hand begins, one finger at a time, to come due.
 
 [box: Said of Them]
 "She taught my daughter to sign 'moon'. My daughter signs it better than I ever said it." — a mother of the Galleries
@@ -1156,11 +1156,11 @@ Handsome in a hungry way, Cassian is lean and quick, with black curls, a crooked
 
 #### Their Story
 
-Born 607 in Low Dray to Scrapling parents as Tam Hollis, he was found Blank at six by a Cutwright survey, after he said "I'll eat the moon" at supper and nothing happened. The crown paid his parents four thousand lacks. He has not seen them since. He was raised in the Muted House, trained in spycraft, and has been sent abroad and among the Tongue-lines for twenty years, to say what Oatheners cannot. Since 640 the Bench has entertained an offer to lease his kidney to a foreign buyer.
+He was born in 607 in Low Dray to Scrapling fig-pickers, as Tam Hollis. At six, during a nursery cleaning, his bit came off and he said, "I'll eat the moon," and his mother screamed, and nothing happened. A Cutwright survey confirmed it within the month: no Taste, no echo, no tell. The crown paid his parents four thousand lacks and a sworn note for more, and he has not seen them since; he does not know whether they are alive, and nobody will tell him, because what they would tell him would be true. He was raised in the Muted House alongside the young king, the only child in it who was allowed to talk, trained in spycraft by a foreign tutor, and has been sent abroad and among the Tongue-lines for twenty years to say what Oatheners cannot: to bluff envoys, frighten defaulters, seduce secrets out of the Heights, and swear to anything. He has done terrible things with his mouth. In 640 he began to taste wet slate when people swore near him. Since then the Bench has entertained an offer, through Annet Gorse, to lease his kidney to a foreign buyer.
 
 #### Their Place in the Land
 
-He is the crown's most valuable tool: the only Oathener who can lie, bluff, threaten and promise without cost. He lives in a gilded, felt-walled apartment with two bitted guards and a Clausewright minder, Annet Gorse. He goes nowhere unwatched. Everyone he meets asks him to say something false.
+He is the crown's most valuable tool: the only Oathener who can lie, bluff, threaten and promise without cost. Abroad, he is a diplomat's knife; at home, he is the Bench's interrogator of last resort, the man who can say *your wife has confessed* to a suspect when she has not. He lives in a gilded, felt-walled apartment on the second tier of the Sunward Wall with two bitted guards and a Clausewright minder, Annet Gorse, who records everything he says in a ledger, with a column for *true* that is almost empty. He goes nowhere unwatched. Everyone he meets asks him to say something false, just to hear it, and he obliges, and nobody believes the true things he says in between, which he has stopped trying to say.
 
 #### What They Carry
 
@@ -1184,7 +1184,7 @@ He wants to be believed once, about something true: that he loves Mirren Osk, an
 
 #### In Play
 
-PCs meet him on a mission, or escaping one. **Seeds:** the crown lends him to the PCs for a job; Mirren hires them to get him out; he asks them to swear, for him, that his name is Tam, and to mean it. **If nobody intervenes:** he goes under the knife at Treaty Stair.
+PCs meet him on a mission, lent by the crown, or escaping one. He is charming, funny, reckless, and he will lie to them constantly, out of habit, and tell them so. **Seeds:** the crown lends him to the PCs for a job in the Heights, and he wants to use it to slip his minder for one night; Mirren Osk hires them to get him out of Oathen before the surgery at Treaty Stair (the Blank Trade thread); he asks them, on a quiet night, to swear in Oathen, for him, that his name is Tam Hollis, so that it will be true somewhere. Threatened, he lies brilliantly. Kindness undoes him: he has no idea what to do with it. Toward the god he was indifferent until the slate began; now he is afraid of being found. **If nobody intervenes:** he goes under the knife at Treaty Stair, and is not seen again, and Annet Gorse files a final entry in the *true* column: *He said he would come back.*
 
 [box: Said of Them]
 "Ask him if he's happy. Go on. That's the joke." — a guard, by slate
@@ -1215,15 +1215,16 @@ Dread: 1
 
 #### Who They Are
 
-Small and neat, Thane Urrow wears red, because his robes are spattered so often that the court gave up on black in 604. His voice is like a knife drawn slowly. He smells of vinegar, which his clerk sponges on the bench after each session. His hands are perfectly still. His face, during a trial, is the face of a man listening to music.
+Small and neat, with a white beard trimmed to a point and a scalp spotted brown by age, Thane Urrow wears red, because his robes are spattered so often that the court gave up on black in 604. His voice is like a knife drawn slowly from a sheath: unhurried, quiet, and impossible not to listen to. He smells of vinegar, which his clerk sponges on the bench after each session, and of the clove-pomander he holds to his nose when a Breaking is a bad one. His hands are perfectly still. His face, during a trial, is the face of a man listening to music, and at the moment the oath is finished he leans very slightly forward, ear-trumpet raised, and waits.
 
 #### Their Story
 
-Born 571, he swore his judicial oath in 601: *I will judge by the god's hand and not my own, and I will take neither pleasure nor pity from it.* He has presided over eleven thousand trials. In 618 his only son Davin repeated an oath of service in his court and broke at the legs, and Urrow wrote it in his book like any other. Davin went down to the Breakdowns.
+Born in 571 to the Urrow house, a minor Tongue-line of court clerks, Thane trained under the Bench and was raised to the Breaking courts at thirty, in 601, when the old judge, Hesper Kell, could no longer bear the sound. He swore his judicial oath before the Mute King Orvel: *I will judge by the god's hand and not my own, and I will take neither pleasure nor pity from it.* He has presided over eleven thousand trials since, at a rate of five or six a day, and has never once reversed a verdict, because he has never once given one. The god gives them. He writes them down.
+In 618 his only son Davin, a soldier of the Canyon Watch, was accused of deserting a post he had sworn to keep. He came before his father's court. He repeated the oath. His knees went backward like a heron's, on the sand, in front of his father, and Urrow wrote it in the Book of Breakings in the same hand as every other. Davin went down to the Breakdowns on a litter. His father has not spoken his name since. Every night he reads that line of the book again.
 
 #### Their Place in the Land
 
-His court is the only perfectly just court on the Table, and he hates it. Every Breaking trial in Tacit comes before him; the Bench sends him the hard cases.
+His court is the only perfectly just court on the Table, and he is right, and he hates it. Every Breaking trial in Tacit comes before him, and the Bench sends him the Question trials of the great houses too, because a Tongue-line will answer *did you do it?* only to a judge of rank. He sits from dawn to noon, six days in seven, on a stone chair in a small square court on the Bench Terrace, floored in sand like the Hall. The Canyon Watch brings the accused; the Sentence-Readers take the convicted away to have their sentences drafted. His power is total and entirely passive: he decides nothing. What he decides is what the court will listen to, and when, and the Bench has learned that the order in which Judge Urrow hears his cases is itself a kind of politics.
 
 #### What They Carry
 
@@ -1236,18 +1237,20 @@ His court is the only perfectly just court on the Table, and he hates it. Every 
 
 #### Wants, Fears and Secrets
 
-He wants to know whether the god still means it. **Secret (GM may reveal):** he has come to take pleasure in the sound, and if asked to repeat his oath before his own court, he would break. **Secret he does not know:** Davin is now one of Brakk's Splints.
+He wants to know whether the god still means it: whether the late rain, the slipping seal and the breaking fingers are the god growing careless, and therefore whether his eleven thousand verdicts were justice or only habit. He fears the day he is asked to repeat his own judicial oath before his own court. **Secret (GM may reveal):** he has come to take pleasure in the sound. Not in the pain; in the sound, the exact, apt, final crack of a truth arriving in a body. If he repeated his oath he would break, at Weight 4, and the part that would answer is the ear. **Secret he does not know:** Davin is now one of Brakk's Splints, and has asked Brakk for one thing in return for his service: to be the one who petitions the court.
 
 #### Ties
 
-- **Sorrin Vael** — drafts his sentences.
-- **Ket the Ninth** — watches from behind a screen, and closes his hand.
-- **Jessamy Quill** — has declined, twice, to repeat her oath in his court.
-- **Brakk** — the Forsworn voice that shouts his name each trial-day.
+- **Sorrin Vael** — old allies of forty years. Sorrin drafts the sentences Urrow's court imposes; each thinks the other has the cleaner hands.
+- **Ket the Ninth** — watches his trials from behind a screen, and has begun to close his hand at the end of each. Urrow has noticed, and does not know what it means.
+- **Jessamy Quill** — has declined, twice, to repeat her Notary's oath in his court as a demonstration for students. He suspects why, and admires her for it.
+- **Brakk** — the Forsworn voice that shouts his name through a trumpet each trial-day. Urrow does not know Brakk shelters his son.
+- **Davin Urrow** — his son, broken in his court in 618. He reads the line every night.
+- **Ona Fell** — he has watched her bonds break in his court on behalf of others more often than any principal's. He sends her a pot of clove-oil each Tablenight, unsigned.
 
 #### In Play
 
-PCs meet him as their judge. **Seeds:** someone petitions for him to repeat his own oath; Davin needs a ruling; the god's verdicts have begun to come a breath late. **If nobody intervenes:** at the trial of a Forsworn, he smiles.
+PCs meet him as their judge, or as a man who would like, very quietly, to know if the god still means it, and who might hire them to find out. **Seeds:** a Forsworn advocate petitions, under an obscure Reading of 402, for the judge to repeat his own judicial oath before his own court, and the PCs are hired by one side or the other; Davin Urrow, now a Splint, is accused of a Question crime and must answer in his father's court; the god's verdicts have begun to come a breath late, and in one trial, not at all, and the judge asks the PCs to find out whether the accused was innocent or the god was not listening. Threatened, he is unmoved; he has seen everything a body can do. To kindness he is courteous and puzzled. Toward the god he is a believer who has begun, appallingly, to enjoy his faith. **If nobody intervenes:** at the trial of a Forsworn in Lack, as the Breaking lands, Thane Urrow smiles, openly, in front of the court, and his own ribs creak.
 
 [box: Said of Them]
 "He doesn't look at you. He looks at your hands." — a man acquitted

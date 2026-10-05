@@ -3,7 +3,7 @@
 > Count your nudger's blinks.
 >> — Slope proverb, said to the newly married
 
-The first half of the Vigil's cast sits mostly at the top of the city: the Warden on her landing, the Captain with his needle, the Matron with her keys, the men who hold the oil and the rouse and the clocks. The people who follow are the ones the city leans on without looking at. A prophet in a cellar who wakes every morning. A man who came back. A deaf ringer, a seer of seeings, a valet of pain, an inspector of murders nobody committed. A mother at a bed. An old man drawing beds. A boy selling the sea. A courtier buying death. And at the end of the row, in Bed One, the girl who lay down first. Every one of them is tired. Every one of them is awake. In the Vigil those are not the same thing, and the space between them is where a story lives.
+The first half of the Vigil's cast sits at the top of the city: the Warden, the Captain, the Matron, the keepers of oil, rouse and clocks. The people who follow are the ones the city leans on without looking at: a prophet who wakes, a man who came back, a deaf ringer, a seer of seeings, a valet of pain, an inspector of murders nobody committed, a mother at a bed, an old man drawing beds, a boy selling the sea, a courtier buying death, and the girl who lay down first. Every one of them is tired. Every one of them is awake. In the Vigil those are not the same thing.
 
 ### Sister Vesper Null — Prophet of the Bedded
 
@@ -22,15 +22,15 @@ Gifts: The Lull (anyone who listens to her speak for a scene makes a Caul + Reso
 Wants: To tuck in (Grim to resist; she cannot leave a weeping, wounded or frightened person without stroking their hair and telling them to rest).
 Knacks: Old Grief; Silent Supper
 Derangements: none she shows; the woman she was carried the Pull, and lost to it
-Carries: cellar keys on a felt cord; a cup of warm milk; a down-stuffed shawl; the flock-book; an unused guest-pin; a laundress's tally-stick; a child's slipper
+Carries: cellar keys on a felt cord; a cup of warm milk; a down-stuffed shawl; the flock-book; an unused guest-pin; a child's slipper
 Dread: 3 (to see her wake; 4 to watch her face while she sleeps)
 [/stat]
 
 #### Who They Are
 
-The first thing anyone notices about Vesper Null is her skin. In a city where every face is grey-blue under the eyes, cracked at the lips, blotched with the purple bruises of a thousand courtesy-pinches, hers is smooth and warm and faintly pink, like the face of a child lifted out of a cot. Her eyes are clear, the whites white, the lids soft and easy; she blinks slowly and fully, as a cat does, and people around her flinch every time she does it. She is a little above middle height, round-shouldered from a lifetime over the laundry troughs, with heavy dark hair she wears loose, which in the Vigil is a scandal, because loose hair is for lying down. She dresses in unbleached linen without a single burr in it. She has no scabs on her wrists. *Never trust a rested face*, the proverb says, and Vesper's is the most rested face on the Lid.
+The first thing anyone notices about Vesper Null is her skin. In a city where every face is grey-blue under the eyes and blotched with the bruises of a thousand courtesy-pinches, hers is smooth and warm and faintly pink, like a child lifted out of a cot. Her eyes are clear; she blinks slowly and fully, as a cat does, and people flinch every time. She is round-shouldered from the laundry troughs, with heavy dark hair worn loose, which in the Vigil is a scandal, because loose hair is for lying down. She has no scabs on her wrists. *Never trust a rested face*, the proverb says, and hers is the most rested face on the Lid.
 
-She smells of clean linen and, faintly, of warm milk. Her voice is low and unhurried, pitched just under the hiss of a lamp, and she never raises it, so that people lean toward her to hear and find themselves still leaning when she has finished. She moves slowly and without effort. When she sits (and she sits, on the floor, in front of anyone) she folds down like a sheet settling. Her breathing, if you watch it, is very slow: four breaths to the minute, the rhythm of the Dormitory. People who stand near her for long find their own chests have slowed to match, and they do not notice until they yawn.
+She smells of clean linen and warm milk. Her voice is low and unhurried, pitched just under the hiss of a lamp, so that people lean in to hear and find themselves still leaning when she has finished. Her breathing is very slow: four breaths to the minute, the rhythm of the Dormitory. Those who stand near her find their own chests have slowed to match, and do not notice until they yawn.
 
 She is not cruel and has never been. Her congregation adore her because she is the only person in the Vigil who has ever told them they are allowed to be tired.
 
@@ -38,7 +38,7 @@ She is not cruel and has never been. Her congregation adore her because she is t
 
 Vesper was born at the dusk-lamp bell on Wicker Stair in 601, the fourth child of a washerwoman and a Bonfire stoker, and went to the troughs at seven. She married a rope-carter, Florian Null, at nineteen, and pinched his wrist at the Ludmere Bonfire until it bled, and by every account loved him plainly and well. They had one daughter, Rue. In Lack 624 Rue came heavy, as children do at four, and on a grey afternoon in her mother's lap she went to the room while Vesper was counting aloud to her. Vesper did not let go of her for a day and a night. The Wakers had to cut the child's nightshirt to get her out of her mother's arms. Rue lies in the Small Rows now, a little over a hundred beds from the Farthing boy. She is still four.
 
-Florian took to rouse by the fistful after that, and his heart went on the Row in 627. Vesper did not take another nudger. She went instead to the Bedded, who were then a scatter of grieving families humming in cellars, and within two years she was a Shepherd, sitting with the old and the bereaved who meant to lie down and holding their hands while they did it. She was good at it. She did not urge anyone. She only stayed.
+Florian's heart went on the Row of rouse in 627. Vesper took no other nudger. She went to the Bedded, then a scatter of grieving families humming in cellars, and within two years was a Shepherd, sitting with those who meant to lie down and holding their hands while they did it. She did not urge anyone. She only stayed.
 
 In Carving 632, after nine years awake beside an empty space, Vesper Null lay down. Her flock had laid a floor of sacking in a whitewashed cellar under Wicker Stair and lit no lamp. Thirty of them sat round her in the dark singing *The Lamb and the Lid*, and she closed her eyes on the last line and her breathing slowed to four and they wept and kept singing, because that was the rite. They meant to carry her to the Dormitory at the morning bell. At the dusk-lamp bell, a full day later, while they were still keeping vigil over the body, Vesper opened her eyes, sat up, smiled at them, and said that the room was warm, and that everyone was there, and that she had been sent back to tell them so.
 
@@ -46,9 +46,7 @@ The Bedded call it the Morning of the Sister, and it remade them. Before 632 the
 
 #### Their Place in the Land
 
-Vesper is the most wanted heretic in the Vigil and one of the most protected people on the Slope. The Wakers have held a warrant for her since 633. It has never been served, because the patrols sent to serve it come back yawning, two of them did not come back at all, and the Slope closes its lanes around her like a hand around a candle. She preaches in rotating cellars, lampless, to congregations of twenty to two hundred, and her sermons are murmured, never shouted, so that her listeners must keep still and quiet to hear: which is, of course, the danger and the point.
-
-Her flock are the families of the Counted, the Tuckers' failures' mothers, worn-out nudgers, rouse-hearts with a season left, and a growing number of the comfortable, from Lampwrights' Row and even the Height, who come veiled and go home shaking. She runs the Bedded's practical charities too: the Slope's only soup kitchen that serves soup warm, a lending-stock of shawls, and the Shepherds, who will sit with anyone who has decided to go to the room. Under the law every Shepherd is a murderer. Under Vesper's teaching they are midwives.
+Vesper is the most wanted heretic in the Vigil and one of the best protected people on the Slope. The Wakers have held a warrant for her since 633; the patrols sent to serve it come back yawning, two never came back, and the Slope closes its lanes around her like a hand around a candle. She preaches in rotating lampless cellars, in a murmur, so that her listeners must keep still and quiet to hear: which is the danger, and the point. She also runs the Slope's only soup kitchen that serves soup warm, and the Shepherds, who are murderers under the law and midwives under her teaching.
 
 Her power is consent. She commands no Wakers and owns no oil. But in a city whose whole structure depends on people agreeing to suffer, she is the voice saying that they do not have to, and every quarter of the Watch fears her more than it fears the Tuckers, because the Tuckers only sell sleep, and Vesper is making it respectable. The Lessening has her on a list of its own. Lord Evander Quell has attended two of her sermons, veiled, and wept at both.
 
@@ -59,7 +57,6 @@ Her power is consent. She commands no Wakers and owns no oil. But in a city whos
 - **A down-stuffed shawl** — illegal several times over: more down than would fill a shoe, sewn into a lap-shawl of grey wool. She drapes it over the shoulders of whoever is weeping hardest. It is warm the way the Pillow is warm. A Waker who finds it may burn the owner's house.
 - **The flock-book** — a laundry ledger in which the Bedded's Shepherds record those they have sat with: name, bed number, last words. It is evidence of three hundred and six counts of murder. Teodor Rell would give anything to compare it with the Lain Book; so would the Lessening, for different reasons.
 - **An unused guest-pin** — a plain brass pin, offered to every visitor as courtesy demands. She holds it out; she has never once pricked anyone with it. Visitors who take it and prick themselves find they cannot feel it.
-- **A laundress's tally-stick** — notched for the sheets of a household that no longer exists. The real Vesper carried it for twenty years. The thing that wakes carries it because she always did, and does not know what the notches are for.
 - **A child's slipper** — felt, small, the left one. Rue's. It is the one object she will not let anyone touch. Some mornings she looks at it for a long time with a puzzled, pleasant face, as if at something found in the street.
 
 #### Wants, Fears and Secrets
@@ -79,7 +76,6 @@ Vesper wants the Waking Laws repealed and the city allowed to go home. She wants
 - **Teodor Rell** — she wants the Lain Book's notes read at her services. He has refused. She brings him warm milk anyway.
 - **Registrar Constance Hobb** — Hobb entered into the record a fire that never burned, to justify condemning one of Vesper's cellars. Vesper preached in the ashes that were not there.
 - **Lord Evander Quell** — a veiled weeper in the back row. She knows exactly who he is. She does not know what he is for.
-- **Old Nod** — he sends her the families of his failures. She sends him nothing; she thinks his hook is a cruelty.
 
 #### In Play
 
@@ -114,15 +110,15 @@ Gifts: Came Back (he is immune to The Lull, Lay Them Down and any power that wou
 Wants: To watch (Hard; but what he watches is never a sleeper. It is a door).
 Knacks: Strong Back; Unflinching
 Derangements: Shut Doors (an open door is unbearable; he must close it or flee)
-Carries: a rope-hook; a twist of hemp; tin earplugs he will not use; a cart-horse's shoe; the record of his own death; a doorstop of iron
+Carries: a rope-hook; a twist of hemp; a cart-horse's shoe; the record of his own death; a doorstop of iron
 Dread: 2 (to stand with him when a door opens behind you; 4 if he ever tells all of it)
 [/stat]
 
 #### Who They Are
 
-Corwin is long and gaunt and grey, with the knotted forearms and the rope-burned palms of a man who walks hemp for the Rattlehouse twelve hours of every watch. His hair went white in the half hour he was gone and has stayed white. His face is not old, but it is stopped, as if a hand pressed it flat one afternoon and it never filled out again. The lids of his eyes are the thing people stare at: stiff, waxy, fixed half-closed and half-open like a shutter jammed on its hinge, so that he always seems to be looking at you from under a weight. He has not blinked since 629. He cannot.
+Corwin is long and gaunt and grey, with the knotted forearms and rope-burned palms of a man who walks hemp for the Rattlehouse twelve hours a watch. His hair went white in the half hour he was gone. His face is not old, but stopped, as if a hand pressed it flat one afternoon. The lids of his eyes are the thing people stare at: stiff, waxy, jammed half open like a shutter on a broken hinge. He has not blinked since 629. He cannot.
 
-He is quiet in the way of men who have learned that anything they say will be repeated. His voice, when he uses it, is hoarse and polite and very flat. He smells of tar and hemp and old sweat, and he never stands with his back to a door. In any room he sets himself in a corner with every doorway in view, and when one opens, any door, the sound of a latch, a creak on a hinge, a draught moving the edge of a curtain, his whole body flinches like a struck horse, and then he apologises, and then he goes and shuts it.
+He speaks seldom, hoarse, polite and flat. He smells of tar and hemp, and never stands with his back to a door. When one opens anywhere near him, a latch, a hinge, a draught in a curtain, his whole body flinches like a struck horse, and then he apologises, and then he goes and shuts it.
 
 The Rattlehouse is the loudest building in the Vigil, and he loves it. The chimes, the rattles, the screaming from the stalls: none of it is soft, and none of it knocks.
 
@@ -130,21 +126,18 @@ The Rattlehouse is the loudest building in the Vigil, and he loves it. The chime
 
 Corwin was a carter's boy on the Slope, born at the half-bell, a cheerful, slightly stupid, much-loved young man with a talent for horses. In Carving 629, on a grey afternoon, after three days hauling oil-casks for the Lamplighters, he sat down on a kerbstone on Ostler's Rise to fix a strap and went to the room. Nobody saw him go. He lay in the gutter for most of half an hour while carts went round him, until one of his own horses, a spavined bay called Nettle that he had raised from a foal, stepped back in the traces and kicked him square in the ribs. Three ribs broke. He sat up screaming.
 
-He is the only sleeper in three centuries who came back without a tether. The Tether Hall had him for a month, then the Apothecary-General, then the Watch. Each asked the same questions. He answered none of them. He said there was a room and an eye, as everyone says. He would not say anything else. Dr. Crane's notes record that under poppy he wept and repeated a single word, *polite*, for an hour. The Watch released him with a pension, then stopped the pension. He went to work at the Rattlehouse, because nobody else would hire a man the Seemers had started following.
+He is the only sleeper in three centuries who came back without a tether. The Tether Hall had him for a month, then the Apothecary-General, then the Watch. He said there was a room and an eye, as everyone says, and nothing else. Dr. Crane's notes record that under poppy he wept and repeated a single word, *polite*, for an hour.
 
 In 640 the Registrar of the Seeming entered, on Watch instruction, a Seeming of his death: *Corwin Half-Bell, rope-walker, seen by thirty persons to fall from the rope-walk roof and lie broken in the yard.* Thirty people did not see it. But it is in the record, and so for every legal purpose Corwin is dead: he cannot sign, swear, inherit, testify or be arrested. He has asked why. Nobody has told him. He suspects the Watch wanted the only man who came back to be a man who cannot speak in court. He is right.
 
 #### Their Place in the Land
 
-Officially, nowhere. Corwin has no Standing, no vote, no legal existence. In practice he occupies a peculiar place in the Vigil's private imagination. The Bedded consider him a saint who has been wrongly silenced. The Tether Hall considers him a failed experiment that might yet be repeated. The Tuckers have tried, four times, to buy him, because a man who cannot be kept under would be the perfect counter. Children on the Slope dare each other to open a door behind him. Novice Dream-Divers come to the rope-walk the night before their first descent to stand near him, as if luck might be catching.
-
-His routine is iron: twelve hours on the rope-walk, two in the Rattlehouse refectory eating cold pickled roots with his back to a wall, the rest in the standing-stall the Rattlehouse rents him, where he stays upright through the watches with his chin hooked on a collar, wide awake, listening. He takes rouse, but less than anyone; he needs less. He does not visit the Dormitory. He has never once gone to the Pillow.
+Officially, nowhere: Corwin has no Standing, no vote, no legal existence. In practice the Bedded consider him a silenced saint, the Tether Hall a failed experiment that might be repeated, and the Tuckers have tried four times to buy him as a counter who cannot be kept under. Novice Divers come to the rope-walk the night before their first descent to stand near him for luck. He spends his off-hours upright in a rented standing-stall, chin hooked on a collar, listening. He has never once gone to the Pillow.
 
 #### What They Carry
 
 - **A rope-hook** — an iron hook on an ash handle for hauling hemp on the walk. It is also the only weapon he has ever carried, and he is better with it than he lets on.
 - **A twist of hemp** — a hand's length of rope he plaits and unplaits all day, three strands over and under, because his hands must be busy when he is quiet.
-- **Tin earplugs** — given by a kind guard so he could rest from the Rattlehouse noise. He keeps them in a waxed packet and will not use them. Silence is where the knocking is.
 - **A cart-horse's shoe** — Nettle's near hind shoe, the one that broke his ribs and brought him home. Nettle went on the Row in 633. Corwin had the shoe drawn off the body before the furnace. He touches it before every door.
 - **The record of his own death** — a copied page from the Public Record, bought from a clerk for three tabs. He reads it sometimes and laughs, once, a short bark that frightens people.
 - **An iron doorstop** — a wedge of black iron he carries everywhere and sets under any door he cannot shut. It weighs four pounds. He would rather carry that than face one open door.
@@ -163,7 +156,6 @@ Corwin wants never to be asked again. He wants a door that stays shut. He would 
 - **Registrar Constance Hobb** — who killed him in ink. He has stood outside her office for a full watch, without a word, staring. She entered that as a Seeming too, and struck it.
 - **Sister Agathe Pinch** — the Mistress of the Needle treats him as a curiosity and a colleague. She once offered to teach him the Atlas. He suspects she wanted to test it on him.
 - **Senna Vole** — the Diver has visited twice. She is the only person he has nearly told. He thinks she already knows about the door; he thinks she is going to open it.
-- **Old Nod** — the King of the Tuckers wants him as a counter. Corwin wants Nod to stop selling minutes, and has said so, which is the most words he has said to anyone this year.
 - **Mirela Sconce** — the Seemer follows him because Seemings of open doors cluster round the Rattlehouse. He likes her; she asks only what he saw today.
 
 #### In Play
@@ -199,13 +191,13 @@ Gifts: Deaf to the Hush (immune to The Lull, lullabies, the Catching Yawn and an
 Wants: To count (Routine; he counts strokes aloud, and once he starts a peal, he will finish it, whatever is happening).
 Knacks: Good Bones; Strong Back
 Derangements: The Count (the number is always one short, and he rings the missing stroke when nobody is listening)
-Carries: ringing gloves; a pocket clock that no longer agrees; a slate and chalk; a jaw-strap; a ringer's roll; a leather bag of broken clappers
+Carries: ringing gloves; a pocket clock that no longer agrees; a slate and chalk; a jaw-strap; a leather bag of broken clappers
 Dread: 1 (to stand in the tower when the great bell speaks)
 [/stat]
 
 #### Who They Are
 
-Thaddeus Knell is a slab of a man, bull-necked and barrel-chested, with forearms thick as hawsers from fifty years of hauling bell-ropes and hands so calloused they rasp on paper. His head is bald and freckled and his beard is a grey shovel. His ears ooze, always, a thin yellow weep that stains his collar and smells sweetish, and he packs them with lint that he changes at every quarter. He speaks far too loud, in a flat foghorn voice that has forgotten its own pitch, and he reads lips badly, staring at a speaker's mouth with fierce suspicion and answering whatever he thinks they said.
+Thaddeus Knell is a slab of a man, bull-necked, with forearms thick as hawsers from fifty years of bell-ropes and hands that rasp on paper. His head is bald and freckled, his beard a grey shovel. His ears ooze a thin yellow weep that stains his collar, and he packs them with lint at every quarter. He speaks far too loud, in a flat foghorn voice, and reads lips badly, answering whatever he thinks was said.
 
 He is, oddly, the most rested-looking man on the Height. His eyes are clear. His colour is good. Other people in the Vigil assume he has a secret, a hidden Tucker, a Lash, a sin. The truth is simpler. He hears no lullaby, no rain, no murmur, no yawn; the silence inside his head is total, and it does not soothe him at all, because it is the silence of a tower that has stopped ringing. He stays awake out of pure dread of it.
 
@@ -213,15 +205,13 @@ He moves heavily, rolls a little, plants his feet, and touches every bell-rope h
 
 #### Their Story
 
-Knell was apprenticed to the Ludmere tower at nine, a Slope boy with big hands, in the same year the old Chief Ringer went deaf. He rang his first quarter at ten. He was deaf himself by thirty-one: first a whine, then a whistle, then a long slow closing like a lid. He did not stop ringing. He learned to feel the bells through the floor, the rope, the frame, and finally through his teeth: the great tenor, Old Iselde, named for the diver who brought back the number, has a hum that sets the molars buzzing, and Knell can tell her true quarter from a false one by the ache.
+Knell was apprenticed to the Ludmere tower at nine, a Slope boy with big hands, and rang his first quarter at ten. He was deaf by thirty-one: first a whine, then a whistle, then a long slow closing like a lid. He did not stop ringing. He learned to feel the bells through the floor, the rope, the frame, and finally through his teeth: the great tenor, Old Iselde, named for the diver who brought back the number, sets the molars buzzing, and he can tell her true quarter from a false one by the ache.
 
-He was made Chief in 611 and has rung every quarter of every watch since, either with his own hands or through the eighty-one ringers of the city's towers, who take their time from his. He married twice; both wives went on the Row of rouse-heart. He has a son in the Lamplighters who does not visit, and a daughter, Lisbet's age, who went to the room in 618. He was her nudger. He did not hear her stop answering.
+He was made Chief in 611 and has rung every quarter since, by his own hands or through the city's ringers. Two wives went on the Row of rouse-heart. A daughter went to the room in 618. He was her nudger. He did not hear her stop answering.
 
 #### Their Place in the Land
 
-The bells are the Vigil's heartbeat. They sound every quarter hour (every eighth on Yawn days), and every household in the city keeps time by them: the rouse-dose at the bell, the nudger's shift at the bell, the Waker patrol at the bell. The Hourkeeper, Maud Sexton, sets the true time from the pendulum and sends it by runner and lamp-signal to the Ludmere tower, and Knell's ringers carry it to the city. If Maud is the city's clock, Knell is its voice.
-
-He commands eighty-one ringers in nine towers, men and women chosen for strong arms and stubbornness, who go deaf in their turn and are pensioned off to the Pinchmarket as shouters. He has authority to break into any house to reach a bell-rope, and the right to ring the Alarum, the great dissonant clamour that means a grey afternoon has come or a yawn is loose in a district. He depends on Maud's runners, on the Lamplighters for tower-lamps, and on rouse. Everyone depends on him without ever thinking about him. He prefers it.
+The bells sound every quarter hour (every eighth on Yawn days), and the whole city keeps its doses, shifts and patrols by them. Maud Sexton sets the true time from the pendulum and sends it to the Ludmere tower; Knell's eighty-one ringers in nine towers carry it to the city. He may break into any house to reach a bell-rope, and he alone may ring the Alarum, the dissonant clamour that means a grey afternoon has come down. Everyone depends on him without thinking about him. He prefers it.
 
 #### What They Carry
 
@@ -229,7 +219,6 @@ He commands eighty-one ringers in nine towers, men and women chosen for strong a
 - **A pocket clock** — brass, silver-faced, set by Maud Sexton's own hand in 630. It no longer agrees with the tower. He no longer trusts it, and carries it the way a man carries the portrait of a dead wife.
 - **A slate and chalk** — for conversation. He writes in square capitals. Those who talk to him must write back; he loses patience with anyone who will not.
 - **A jaw-strap** — a band of leather that buckles under the chin and over the crown, so his teeth meet firmly on the rope and he can feel the bell. He wears it ringing. It makes him look like a corpse bound for the board.
-- **A ringer's roll** — the names of all eighty-one ringers and the date each went deaf. Six of the last ten have, lately, reported the same thing he has.
 - **A bag of broken clappers** — iron tongues from bells cracked in his tenure, nine of them, carried as a penance for the quarters they missed. He believes every missed quarter cost someone a bed.
 
 #### Wants, Fears and Secrets
@@ -247,7 +236,6 @@ Knell wants an apprentice who will not go deaf, and has tried waxed ears, felt h
 - **Lisbet Wakely** — the Warden's eye-wetter is his niece. She writes him one slate-letter a week. He keeps them all.
 - **Mirela Sconce** — she has asked whether the tall figure laying tables was seen at the same quarter in each district. He knows: it was always seen at the quarter, by his bells, never by Maud's.
 - **Garron Ashlock** — the Lamplighters keep his tower-lamps. They are friends of the old loud kind. Garron has asked him how long he could ring in the dark, if it came to it.
-- **Old Nod** — the Tuckers time their minutes by Knell's bells. A minute is sixty seconds after the quarter. If the quarters drift, so do the minutes.
 
 #### In Play
 
@@ -282,34 +270,27 @@ Gifts: The Cross-Match (after taking statements from three or more witnesses, a 
 Wants: To watch (Hard); for Mirela the sleeper may be a whole street, and she will stand narrating it under her breath until someone moves her on.
 Knacks: Counting Habit; Little Lies
 Derangements: none yet; she is Rattled and knows it
-Carries: a witness-slate; a Seemer's seal; a satchel of struck entries; a place card bearing her name; a crumb in a twist of paper; a measuring cord; a warm stone
+Carries: a witness-slate; a satchel of struck entries; a place card bearing her name; a crumb in a twist of paper; a measuring cord; a warm stone
 Dread: 1 (to hear her read an entry aloud; 3 to see what is written on her card)
 [/stat]
 
 #### Who They Are
 
-Mirela is thin and quick and sharp-chinned, with ink in the creases of her knuckles and a grey streak she does not dye. She wears the dun coat of the Seemers with its pinned collar and its brass witness-badge, a long open eye, and she walks the districts with a slate on a strap and a stick of chalk behind her ear. She narrates under her breath, constantly, in a dry murmur: *woman at the pump, two buckets, blue scarf, she's looking at the corner, nothing at the corner, nothing, lamp guttering, yes, gutters*. It started as a professional habit to fix things in memory against the Seeming, and now she cannot stop. People who walk beside her for an hour hear their own actions described back to them and find it horribly comforting.
-
-She smells of chalk and lamp-black and rouse. Her voice is a little hoarse from the murmuring. She has a Seemer's way of looking at a thing twice, once straight and once with her head tilted, to see if it changes. She is courteous, persistent and impossible to lie to by accident, though she is easy enough to lie to on purpose, because she is so tired that she has begun, in the last month, to want to believe people.
+Mirela is thin and quick and sharp-chinned, with ink in her knuckles and a grey streak she does not dye. She wears the dun coat of the Seemers with its brass witness-badge, a long open eye, and walks the districts with a slate on a strap. She narrates under her breath, constantly: *woman at the pump, two buckets, blue scarf, she's looking at the corner, nothing at the corner, lamp guttering, yes, gutters*. It began as a habit to fix things against the Seeming, and now she cannot stop. People who walk beside her for an hour hear their own actions murmured back to them and find it horribly comforting.
 
 #### Their Story
 
-Mirela grew up on Lampwrights' Row, the daughter of a lens-grinder who went blind from the glare at fifty, and she learned young that what you see is a matter of instruments. She worked as a scribbler for the bell-sheets, the cheap printed news sold at every quarter, and earned a name for doubting everything. In 629, when the Watch first ordered that shared Seemings be entered formally into the Public Record as news, she was among the first twelve Seemers sworn. She has served twelve years. Of the other eleven, four are on the Row, three went to the room, one is in the Glass House, one lay down, one was dismissed for entering a Seeming of the Warden-Prime blinking, and one is the Registrar's deputy and no longer speaks to her.
-
-She has entered some nine hundred Seemings in that time: rains of teeth, the woman made of moths, a horse with a man's face, a door in the side of the Nodding Stair. She has struck thousands more for want of witnesses. Until this year she believed the work was civic hygiene: you agree on what the city saw, and what the city did not agree on, it did not see, and the madness has somewhere to go.
+Mirela grew up on Lampwrights' Row, the daughter of a lens-grinder who went blind from the glare, and learned young that what you see is a matter of instruments. She scribbled for the bell-sheets until 629, when the Watch ordered shared Seemings entered into the Public Record, and she was among the first twelve Seemers sworn. Of the other eleven, four are on the Row, three went to the room, and one was dismissed for entering a Seeming of the Warden-Prime blinking.
 
 Then, in Carving 641, the tall figure came. Eleven districts in one month, separately. Two hundred witnesses, interviewed one by one, matching down to the stoop under the doorways, the warmth on the cobbles, the smell of new bread. She entered it as true. The Registrar has struck it forty times since.
 
 #### Their Place in the Land
 
-The Seemers are the Vigil's strangest public servants: half newsmen, half judges, half priests of the obvious. When a street sees something, it is Mirela, or someone like her, who comes with the slate, takes the statements, cross-matches them, and recommends entry. Her recommendations go to Registrar Constance Hobb, who enters or strikes. An entered Seeming is read at the Bonfires, printed in the bell-sheets, and for legal purposes is true: houses are condemned on it, contracts voided, people arrested.
-
-Mirela's power, then, is the power of first sight. She decides what reaches the Registrar. Every faction knows it. The Bedded court her for Seemings of the room; the Watch leans on her to find riots; the Tuckers bribe her not to see their cellars. She is paid four lacks a day and gets most of her rouse from grateful witnesses. She depends on Hobb's good will, which is failing, and on the trust of the streets, which is not. The Slope believes Mirela. Hobb knows it, and that is why Hobb is afraid of her.
+An entered Seeming is read at the Bonfires and is true at law. Mirela decides what reaches the Registrar, and every faction knows it: the Bedded court her for Seemings of the room, the Watch leans on her to find riots, the Tuckers bribe her not to see their cellars. She depends on Hobb's good will, which is failing, and on the trust of the streets, which is not. The Slope believes Mirela. Hobb knows it, and that is why Hobb is afraid of her.
 
 #### What They Carry
 
 - **A witness-slate** — slate on a strap, scribed in her tiny hand on both sides and wiped twice a watch. She copies it into a book at the Registrar's. She keeps the wiped rag; the chalk-ghosts on it are, she says, her real archive.
-- **A Seemer's seal** — a brass open eye on a ring. Pressed on a door in wax, it marks a house under inquiry, and Wakers may not enter until she lifts it. She has used it to protect three Bedded cellars, which is grounds for dismissal.
 - **A satchel of struck entries** — copies of every report of the tall figure the Registrar has struck. Forty of them, in her hand, smuggled out page by page. Possessing them is a crime against the Record.
 - **A place card bearing her name** — stiff cream card, a fine hand, *Mirela Sconce*, spelled correctly, from the nearest plate on Thimble Lane. She has tried burning it twice; it was on her slate in the morning. While she keeps it, every host offers her a seat (+4 Persuade for hospitality), and wherever she stands still longest in a watch, a small table is found laid by the next bell. Taint: Dread 3.
 - **A crumb in a twist of paper** — taken from the cobbles of Thimble Lane. It smells of new bread and has not staled in two months. She does not know what an Orrum crumb is. She has not eaten it. She has thought about it.
@@ -367,27 +348,25 @@ Gifts: The Exquisite (when he needles a person, they lose 1d6 Weariness and owe 
 Wants: To watch (Hard; he cannot resist observing a person in pain to the end).
 Knacks: Steady Hands; Smell of Cedar
 Derangements: none; he would say he is the sanest man on the Lid, and he might be right
-Carries: the velvet roll; wake-valet's pincers; an ice-casket; rosewater and lint; the Ledger of Nerves; a tip-box; a key to the Rattlehouse's lower floors; Quell's list
+Carries: the velvet roll; wake-valet's pincers; rosewater and lint; the Ledger of Nerves; a tip-box; a key to the Rattlehouse's lower floors; Quell's list
 Dread: 2 (to watch him practise)
 [/stat]
 
 #### Who They Are
 
-Jack Tenterhook is elegant in a city where elegance is a matter of choosing the right spikes. His coat is black galled silk, laced with wire so fine it pricks only when he wishes it to, and his cuffs are white. His hands are the softest on the Height: pale, plump-palmed, perfectly manicured, warm, and dry. He keeps them that way with lanolin and gloves because a client must never feel a callus, only the point. He is of middle height, sleek-haired, with a long clever face, full lips and the faint careful smile of a man perpetually in a sickroom. He has all his teeth, which on the Height means money and on the Slope means lies.
+Jack Tenterhook is elegant in a city where elegance is a matter of choosing the right spikes. His coat is black galled silk laced with wire so fine it pricks only when he wishes it to. His hands are the softest on the Height, pale, plump-palmed, warm and dry, kept so with lanolin and gloves, because a client must never feel a callus, only the point. He has a long clever face, a careful sickroom smile, and all his teeth, which on the Height means money and on the Slope means lies.
 
-His voice is famous: soft, warm, unhurried, like oil poured slowly from a jug. He talks constantly while he works, a running murmur of compliments, gossip, small jokes and endearments, pitched precisely so the client must attend to it to follow, and in attending stays awake. He smells of rosewater, clove and silver polish. When he is pleased he hums. When he watches someone in pain his pupils widen very slightly, and he cannot look away, and he knows it, and he has made it the foundation of his art.
+His voice is famous: soft and warm as oil poured from a jug. He talks constantly while he works, compliments and gossip pitched so the client must attend to follow, and in attending stays awake. He smells of rosewater and clove. When he watches someone in pain his pupils widen very slightly, and he cannot look away, and he has made that the foundation of his art.
 
 #### Their Story
 
-Jack was born in the Rattlehouse yard, the son of a Needle and a laundress, and grew up to the sound of screaming as other boys grow up to the sound of the sea. He was apprenticed at twelve under Sister Agathe Pinch, who saw at once that he did not flinch, and made him her best pupil and, by twenty-five, an Inquisitor of the Quick. For ten years he worked the lower floors, where the Wakers question rather than wake: Tuckers, Bedded, smugglers of down, the occasional Watcher's enemy. He was the best the Rattlehouse had. He never left a mark.
+Jack was born in the Rattlehouse yard, the son of a Needle, and grew up to the sound of screaming as other boys grow up to the sound of the sea. Sister Agathe Pinch saw at twelve that he did not flinch and made him her best pupil. By twenty-five he was an Inquisitor of the Quick on the lower floors, and he never left a mark.
 
-In 631 he questioned a Bedded Shepherd for nine days. On the ninth, the Shepherd, broken, thanked him: not in the Atlas way, the scream as gratitude, but sincerely, holding his soft hand in both of hers, for keeping her awake, because she had wanted to lie down so badly and he had not let her. Jack went home and sat on the floor (sat, which is a crime) and laughed until his ribs ached. Then he resigned and went private. The Height, it turned out, would pay ten times what the Wakers did for exactly the same work, so long as it was done in silk, with a smile.
-
-He is now the most sought-after wake-valet in the Vigil. He charges forty lacks a day. He has kept a Watcher of the Lid's Eye awake through a nine-day debate on the oil budget without a single blink. He says the only difference between his old trade and his new one is the tipping, and the Height laughs, and he does not.
+In 631 he questioned a Bedded Shepherd for nine days. On the ninth she thanked him, sincerely, holding his soft hand in both of hers, for keeping her awake when she had wanted so badly to lie down. Jack went home, sat on the floor, which is a crime, and laughed until his ribs ached. Then he went private. The Height pays forty lacks a day for exactly the same work, done in silk, with a smile. He says the only difference is the tipping, and the Height laughs, and he does not.
 
 #### Their Place in the Land
 
-The rich do not nudge one another. They hire. A wake-valet is the Height's answer to the Slope's children with pins: a skilled professional who arrives at the first bell and leaves at the last and spends the hours between them keeping one person awake by an artful programme of discomfort. Jack has nine clients, rotated across the watches, and a waiting list. He trains under-valets for others at a fee. He knows the bodies of half the Watch better than their spouses do, and he knows what they say when they are drifting, which is more than their confessors.
+The rich do not nudge one another. They hire. Jack has nine clients across the watches and a waiting list, trains under-valets for a fee, and knows the bodies of half the Watch better than their spouses do, and what they say when they drift.
 
 He depends on nobody but his clients, and they depend on him utterly: a Watcher who loses Jack loses the one person on the Lid who can keep them sharp through a long session on the Stair. That dependence is his power. He has never once blackmailed anyone. He has never once needed to.
 
@@ -395,7 +374,6 @@ He depends on nobody but his clients, and they depend on him utterly: a Watcher 
 
 - **The velvet roll** — black velvet, unrolled on a client's table like a jeweller's cloth: forty silver pins in graded lengths, from a hair-fine eyelash pin to a four-inch spine-pin. Each has a name. *Courtesy. Reminder. Good Morning. The Insistent.*
 - **Wake-valet's pincers** — silver-handled, cushioned jaws for the precisely tolerable pinch. Waking; anyone gripped makes a Dread 1 check, not from the pain but from his face.
-- **An ice-casket** — a lined box of Bitterhouse ice and a little silver scoop, for the nape and the wrist. Ice is costly on the Lid. He uses it as other valets use pins.
 - **Rosewater and lint** — he wets the eyes of his lidless clients himself, between pins, with a sable brush. He is the only valet the Warden-Prime's household has ever lent a brush to.
 - **The Ledger of Nerves** — a small morocco book of every client's body: where they feel most, where least, what they say when the pain is just right. It is the most dangerous document on the Height. It is in a cipher of his own.
 - **A tip-box** — rosewood, the size of a hand. Clients drop their gratuities in it. Some have dropped other things: a lock of hair, a confession on a folded slip, a key.
@@ -416,7 +394,6 @@ Jack wants to be the best at the one thing he has ever loved, and he is. He want
 - **Lord Evander Quell** — his best client and his second paymaster. Jack thinks Quell is a connoisseur. Quell thinks Jack is a tool.
 - **Deputy-Watcher Sabine Larch** — the Lessening's paymaster. She hired him through a cut-out; he found out who she was in a week, by her pulse.
 - **Inspector Hale Grimmer** — they knew each other on the lower floors. Grimmer is closing in on Jack's two blink-murdering clients. Jack has offered to help, sincerely, which is the most suspicious thing he has ever done.
-- **Captain Brannoch Pyre** — Pyre despises him as a deserter who took the Atlas to market. Jack once kept Pyre awake through a ninety-hour manhunt, for free, and Pyre has never forgiven him for it.
 - **Lady Oriel Stroud** — the Warden's household lent him a brush to wet her mother's eyes. He saw the daughter blink behind a door. He has said nothing, yet.
 
 #### In Play
@@ -458,25 +435,21 @@ Dread: 1 (to read his case-books; 3 to see the cast of the bite)
 
 #### Who They Are
 
-Grimmer is fifty and looks seventy at the third bell and forty at the first, depending on the rouse. He is ragged: a long body that has lost its fat and kept its frame, a Waker's coat gone threadbare at the cuffs, grey stubble he scrapes with a cold blade, a jaw that never stops working on a plug of rouse. His teeth are black stumps on the left side, where he chews, and whole on the right, which gives his smile a lopsided ruin. His eyes are pale and bloodshot and enormously attentive. He looks at things the way a starving man looks at a table: completely.
-
-He smells of rouse, old paper, and the vinegar he wipes his hands with after a scene. His voice is low and rough and patient. He asks questions sideways, in pieces, letting witnesses fill the silences, and he writes nothing in front of them; he remembers. He is courteous to the bereaved in a stiff, old-fashioned way, and gentler with the killers than with anyone, because he has decided, against all his training, that they are victims too.
+Grimmer is fifty and looks seventy at the third bell and forty at the first, depending on the rouse. He is ragged: a long body that has lost its fat, a Waker's coat threadbare at the cuffs, a jaw that never stops working on a plug of rouse, black stumps on the chewing side and whole teeth on the other. His pale bloodshot eyes look at things the way a starving man looks at a table. He smells of rouse, old paper and the vinegar he wipes his hands with after a scene. He is gentler with the killers than with anyone.
 
 He has a mind that goes on working long after his body has stopped wanting to, and sometimes, at the end of a long watch, it goes on working in places his body cannot follow, and he finds himself having arrived at a conclusion without the steps.
 
 #### Their Story
 
-Grimmer grew up on Gallow Street, three doors from the Rell house. He was a Rattle at seventeen, a Needle at twenty, and an Inquisitor of the Quick at thirty-four, after Sister Pinch noticed that he could make a prisoner talk without drawing the needle at all, simply by listening for longer than they could bear. He worked the Rattlehouse lower floors alongside Jack Tenterhook for six years and requested transfer back to the streets in 631. He does not say why.
+Grimmer grew up on Gallow Street, three doors from the Rell house. He was a Needle at twenty and an Inquisitor of the Quick at thirty-four, after Sister Pinch noticed he could make a prisoner talk simply by listening longer than they could bear. He worked the lower floors beside Jack Tenterhook for six years and asked to go back to the streets in 631. He does not say why.
 
-In Lack 638, a Slope cooper was found smothered by his own wife, laid out flat with folded sacking under his head and his hands crossed, and the wife came back from a blink of two breaths with his teeth in her palm. The station sergeant called it a Lain-Down gone wrong. Grimmer, passing, saw the crossed hands and the folded pillow and recognised the posture: it is the way the old Ludmere carvings show sleepers before the Waking Laws. He asked to keep the matter. Within a year there were nine. The Watch made him Inspector of the Blink-Matter, a title invented for him, with no budget, and expected him to fail quietly.
+In Lack 638 a Slope cooper was found smothered by his wife, laid flat with folded sacking under his head and his hands crossed, and the wife came back from a blink of two breaths with his teeth in her palm. Grimmer recognised the posture: it is how the old Ludmere carvings show sleepers, before the Waking Laws. Within a year there were nine. The Watch made him Inspector of the Blink-Matter, a title invented for him, with no budget, and expected him to fail quietly.
 
-He has forty-one cases. The method is the same in each: the victim laid flat on the floor, a folded cloth beneath the head, hands crossed on the chest, eyes closed under the killer's thumbs, and the killer's palms laid gently over mouth and nose until the breathing stops. Every killer comes back with no memory and the victim's teeth in their palm. Every killer loved the victim. Last week he found the other thing they have in common.
+He has forty-one cases, every one laid out the same way, every killer someone who loved the victim. Last week he found the other thing they have in common.
 
 #### Their Place in the Land
 
-Grimmer has no power except persistence. He has a desk at Lanternside, a clerk, a Waker-Sergeant who sits in on statements, and a cellar of evidence nobody else wants. He reports to Captain Pyre, who believes him and cannot protect him, and to the Watch, which does not read his reports. The bell-sheets call his cases *the Blink-Murders* and have embroidered them into butchery; the broadsheets that reach the Rim speak of victims opened from hip to collarbone by a sleepwalking knife. Grimmer lets them. It keeps the public watching their nudgers.
-
-He depends on the Slope's witnesses, who trust him because he grew up among them, and on Mirela Sconce, with whom he shares sightings. He is a man of the old Wakers' ethic, which says that pain is love made practical, and he has found that it does not cover what he is looking at.
+Grimmer has no power except persistence: a desk at Lanternside, a clerk, a sergeant who sits in on statements, and a cellar of evidence nobody wants. He reports to Captain Pyre, who believes him and cannot protect him. The bell-sheets have embroidered his cases into butchery, and the broadsheets that reach the Rim speak of victims opened by a sleepwalking knife. He lets them. It keeps the public watching their nudgers.
 
 #### What They Carry
 

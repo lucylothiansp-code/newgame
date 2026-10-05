@@ -1332,3 +1332,80 @@ PCs meet her when they need a Cut read, or when the College wants an Oathener me
 "She held my chin very gently. Then she wrote something down and her hand was bleeding." — Merit Tome, in handtalk
 [/box]
 
+[pagebreak]
+
+## Webs of Oathen
+
+[bigquote] In Tacit nobody is free. Everybody is owed something, everybody owes, and the god is the only one keeping the books. | — a Splint of the Forsworn, at the Gathering of the Broken
+
+Oathen's relationships are not feelings; they are entries. Every tie below is a promise someone made, kept, broke or is waiting to break, and the GM should treat each one as a loaded clause.
+
+| Character | Wants from | Fears | Owes |
+| Asha Kindle | a stranger to put out the fire | what the fire wants next | the fire, everything |
+| Garl Tome | Merit's first words | Hushwell; the truth of 611 | Haskell Tome a confession |
+| Yusra Thole | the Bench to understand unasked | being asked | the canyon the truth |
+| Grandam Cess | the floor to speak | being too late | the Grandams' muster |
+| Renn Hold | someone to say "relieved" | that no one can | the four hundred water |
+| Tavish Crook | one more mark | the god hearing his meaning | Ottoline a hiding place |
+| Verity Amn | silence, then everyone's | her own mind | Laine Amn her eyes |
+| Dorian Sayce | home, and to stay | his own pleasure in lying | the Bench his discipline |
+| Ilan | a promise | the listening room | his mother his existence |
+| Ottoline Vant | the truth carved | that she is the twelfth | Pellam Oxe a correction |
+| Jude Crake | to be kind | the hour running long | Pell Sallet a visit |
+| Mags Carrow | Renn Hold brought down | having to ask | Tobb Inly an answer |
+| Dacey Furl | the last word | the night ward sitting up | the three hundred broth |
+| Varro Esk | a Sayer's nine words | his own sleep | the Second Table a god |
+| Ansgar Mote | to understand the tongues | the last word | Verity the truth |
+| Sabra Wends | the number to stop rising | the dead saying "Go on" | every niche its oil |
+| Pell Sallet | Jude Crake at the niche | forgiving him | her father an answer |
+| Hessa Lisk | to save Ilan | her own true measure | the ledger the real figure |
+
+### The Breaker and the Daughter
+
+Jude Crake killed Amon Sallet with an hour of conversation in 617, and knelt in front of his six-year-old daughter that morning and promised to visit "when I'm able." Twenty-four years later Pell Sallet keeps her father's niche in the Witnessing Vaults, and she has worked out what her childhood never could: that the Exit is the only thing keeping Jude whole, and that she holds the key to it. If she writes "You are able" and means it, he must come down the Vaults' stair or break. Sabra Wends knows. Ottoline Vant's list knows something worse: that Amon Sallet's name appears on it, in a miscut of 612, and that the Breaker who died sparing Jude was already broken by the Office of the Fair Copy five years before. Put Jude, Pell and the list in the same niche-corridor on the same night and something will be said that cannot be unsaid, by the most dangerous talker in Oathen, at the Course, in a room full of the dead who have started answering.
+
+### The Captain, the Sergeant and the Road
+
+Renn Hold and Mags Carrow both know the other reading of "until death relieves us," and neither knows the other knows. He keeps the regiment alive on the road with nightly water, one step past the line, coming open a little more each time; she keeps eleven alive in the Strap-House with straps and buckles, and one of the eleven, Tobb Inly, is asking her to let go. Every soldier she lets die brings her captain one step closer to relief. Every bucket of water he carries down keeps him on the pass forever. Halvar Stane, who killed the regiment's echoes in 628, suspects one got away and is still running up and down the Unmade Road at night. Any PC who carries a letter between the Strap-House and the top of the pass is carrying a death sentence, and has to decide whose.
+
+### The Gold, the Girl and the Lord
+
+Garl Tome makes the bits that hold the Sayers. Lord Varro Esk wants one with a flaw, and a visit to the Gilded Cells, and nine words in Lady Imre Dath's mouth. House Hushwell wants Garl's daughter Merit bitted in silver forever so that she can be crowned. Hessa Lisk has measured Merit and knows she is at the Course without ever having made a sound. And Merit has spent three years learning a secret handtalk from the king at his fittings, and has promised him, in his own language, to say her first words for him. Her Unbitting is at Plenty, in the Hall of Conditions, before the whole canyon. Garl has a lump of pure gold in his apron and a copper filing in a locket, and has never heard his daughter's voice. Everyone in this knot wants Merit to say something, or not. Nobody has asked her what.
+
+## Using Oathen's People
+
+> Knock softly. Answer slower.
+>> — Tacit proverb
+
+These eleven, and the seven who join them, are best used as pressure: each carries a promise that is about to come due, and each will try to put part of the weight onto the PCs. Let them arrive when the party is tired, in the middle of something else, with a reason that is good and a request that is small. In Oathen nothing that is said is small.
+
+**Who's at the Door?** Roll a d20 when the PCs are in Tacit, on the Rim near Quillhouse, or anywhere the canyon's people can reach them.
+
+| d20 | Who's at the Door | Why |
+| 1 | Asha Kindle | She needs a fire watched for one hour, and asks you to swear you will not let it go out. |
+| 2 | Garl Tome | He needs a mouth measured: yours. A PC has begun to swear in their sleep, and he heard of it. |
+| 3 | Yusra Thole | She says nothing. She hands you a beaker of warm rain and points west, toward the Gullet. |
+| 4 | Grandam Cess | One of you is in her Book, under a name you used once. The knot in her shawl has tightened. |
+| 5 | A drover from Wending | Renn Hold has let nobody through for three days. He is asking for a PC by name. |
+| 6 | Tavish Crook | Wouldn't you like to make a great deal of money? Would you mind if it were a little dangerous? |
+| 7 | A novice of the Quiet | Sister Verity has written a slate for you. It begins: "Stop thinking about what you saw." |
+| 8 | Dorian Sayce's secretary | The Envoy needs an escort across Wending before Tablenight, and someone has stolen a green book. |
+| 9 | Tamsa Reeve, with Ilan | Her hand is on her son's shoulder. She asks you to look at him and tell her his name. |
+| 10 | Ottoline Vant | Through the window, from a rope. The Watch is on the stair. She has a list. |
+| 11 | Jude Crake | With figs. He was passing, he says. He has heard that one of you made a promise last night. |
+| 12 | Mags Carrow | She wants a letter carried up Wending Pass, and a promise that you will read it to him. |
+| 13 | Dacey Furl | Signing, too loud, at midnight: a patient has said the vow aloud and the ward is listening. |
+| 14 | Lord Varro Esk's steward | An invitation to dinner, a purse of platters, and a reasonable request concerning a gold bit. |
+| 15 | Brother Ansgar Mote | A jar wrapped in felt. The tongue inside it has said one of your names. |
+| 16 | Old Sabra Wends | A niche spoke your oath this morning, one you swore on the dead. Are you certain you kept it? |
+| 17 | Pell Sallet | She needs a letter delivered to the Breaker, by hand, and someone to stand with her when he comes. |
+| 18 | Hessa Lisk | The College wants your Cut measured. She asks you to open your mouth, and not to speak. |
+| 19 | A Forsworn runner from Brakk | The Breakdowns want a whole Oathener to swear something in public. They will pay in bad paper and good friends. |
+| 20 | Nobody | The door is open. On the step, a child's bit, unbuckled, warm, and a smear of red sand. |
+
+[box: Running the Cast]
+- **Let every request be a small oath.** "Will you watch the fire?" "Will you carry this?" "Will you look after him?" The canyon is listening, and the players should feel the weight before they answer.
+- **Show the price on someone else first.** A PC who sees Asha's cracked breastbone or Mags Carrow's patch will start drafting their sentences. That is the game working.
+- **Tie the crises to Tablenight.** Cess's floor, Dacey's ward, Varro's visit, Pell's letter and Ilan's fading all point at the one night Oathen is silent. Let them converge.
+- **Keep the god offstage.** The Gullet's heartbeat, the hum in the floor, the last word nobody can read: hint, and let the PCs put it together. The canyon keeps the change.
+[/box]

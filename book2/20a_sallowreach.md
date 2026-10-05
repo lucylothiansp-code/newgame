@@ -572,3 +572,314 @@ PCs meet Osric if they are hired to guard him, visit him on Corrow's or Hethe's 
 "The gentlest man in the country, behind the thickest door. That is Sallowreach in a sentence." — Lord Absalom Hethe
 "You don't hear the west wing. That's how you know it's there." — a Glovehall gardener
 [/box]
+
+### Thessaly Mort — Master Seamer
+
+> "Hold still. You're two hundred years old, you can hold still for thirty stitches. There. Now you're somebody again. Next."
+>> — Thessaly Mort, at her table on Needle Street, Restitching Week
+
+[stat: Thessaly Mort — Master Seamer]
+Land & Cut: Sallowreach · Cut 2 · Regrowth 2 (the Taste) · Hunger 1
+Age & Station: 245 (born 396, Kept since 441); Master Seamer of the Guild since 451
+Calling & Standing: Seamer · Standing 5 (Guild Elder; head of the Guild)
+Attributes: Hand 5 · Gut 3 · Lung 1 · Eye 4 · Tongue 3 · Caul 3
+Skills: Stitching 6, Craft 4, Endure 4, Reckoning 3, Haggle 3, Clause 2, Blades 1
+Flesh 15 · Guard 11 (the wire lattice stiffens her) · Armor 3 (wire lattice) · Fray 5
+Attacks: curved needle +6 (2; on a Helping against a Kept target she unstitches a limb)
+Gifts: Kept; Master's Hands (restitches a Ruined Kept body in an hour; removes 2 Rot per sitting); Lidsense
+Wants: Keep Count (must record every replaced part, hers or anyone's, before the day ends; resist Hard 14)
+Knacks: Steady Hands, Mother's Hands, Butcher's Calm
+Derangements: Not My Hand (her right hand, bought in 639, sometimes stops in the middle of a seam and will not go on)
+Carries: the curved needle, the Ledger of Parts, the Guild thimble, the strike-bell key, gold lacquer, a donor list
+Dread: 2 (to see her ledger, or to watch her work on herself)
+[/stat]
+
+#### Who They Are
+
+Thessaly Mort glimmers. Every seam in her body, and there are hundreds, is lacquered in cedar-gold, so that she looks like a bowl that has been broken many times and mended in a very good shop. Her skin is a dozen skins in a dozen shades, from fen-pale to Fatlands brown, joined at the wrists, the throat, the jaw and the brow by fine gold lines; her joints are braced with a lattice of bright wire that ticks faintly when she walks. One eye is grey and her own. The other is brown and was bought. She smells of waxed thread, pitch and spirits of wine, and under them of nothing very much, because she keeps herself better than anyone in the country. Her voice is deep, warm and musical, a contralto of the Glad Century: she bought the larynx in 498 from a Kept singer named Maud Fennick, who sold it to pay for her daughter's shelving and has been mute ever since.
+
+She is brisk, practical and funny, and she works constantly. She never sits in a chair without a work-table in front of it.
+
+#### Their Story
+
+Thessaly was born in 396 above a wire-drawer's shop on Needle Street and was a Threader at twelve. She died at forty-five of the Seamers' cough, the slow ruin of the lungs from lacquer fumes, at her table, in the middle of a seam, and finished the seam before anyone noticed. She was elected Master Seamer ten years later, in 451, and in 459, when the Court tried to tax wire, she rang the Guild's strike-bell for the first and only time. The tax was withdrawn in nine days. The Court has not taxed the Guild's materials since, and the Regent has dined with her every Restitching Week from that year to this.
+
+She began replacing her own parts in the 470s, as everyone does, and never stopped. Her ledger, which records every part she has ever replaced in herself, now runs to a single page of originals and two hundred pages of replacements.
+
+#### Their Place in the Land
+
+Thessaly holds the country together, literally. The Guild's six hundred Seamers restitch a hundred and forty thousand Kept a year, and she sets their rates, assigns their client-lists, approves every new Master, and owns, in the Guild's name, the stock-room of spare parts behind the Guildhall: limbs, jaws, eyes, skins, all labeled, all legally acquired, or so the labels say. She could stop Sallowreach in a month, and the Court, the Unvacated and every family in the north know it. She has used that power exactly once.
+
+She still works the table herself every day from first bell, mostly on difficult cases: Fen Guard soldiers, the badly burned of Smokeholm, Captain Morrow. She takes no fee for children.
+
+#### What They Carry
+
+- **The curved needle** — a Seamer's needle of black steel, as long as her hand, which she has used since 420. Her original right hand used it. Her present right hand does not like it.
+- **The Ledger of Parts** — calf-bound, worn smooth. The first page lists her originals. It is three lines long: *left eye; two fingers, right hand (since lost); the part that remembers.* The other two hundred pages list everything else, with the donor's name where she knows it.
+- **The Guild thimble** — gold, set with a fly in amber, the badge of the Master Seamer since 130.
+- **The strike-bell key** — the iron key to the bell-tower of the Guildhall. When it rings, every needle in the country stops.
+- **Gold lacquer** — a pot of her own blend, cedar and resin and gold-leaf, which she uses only on herself.
+- **A donor list** — the names of every person whose part she wears. On every feast day she sends a crumb to each family that can be found. Twenty-nine of the names she cannot trace. Eleven of them are recent.
+
+#### Wants, Fears and Secrets
+
+Thessaly wants the work to go on. She wants pay, respect and to be left alone, and she wants to keep count. She fears that she is no longer anyone: that if the third line of the ledger goes, there will be nothing left that was Thessaly Mort, only a very good Seamer wearing other people.
+
+**Secret the GM can reveal:** Marrow Jack was her Journeyman, expelled in 619 for selling parts, and he supplies her still, through Nan Pickering. A third of the parts in the Guild's stock-room came from him. If this were known, the Guild would be ruined, and the Court would have its excuse to put the Seamers under a Licenser. **Secret she does not know:** her new right hand, bought in 639, came from Marrow Jack too. It belonged to a Kept woman named Edony Sallis, who felt every stitch Thessaly made with it, followed the feeling across the city to Jack's stock-room, and is there now, in eleven pieces. The hand stops in the middle of seams because Edony is trying to make it stop.
+
+#### Ties
+
+- **Ansel Grue** — her oldest client and oldest rival. She fitted his throat-tube. She could leave it out.
+- **Marrow Jack** — her expelled Journeyman, her secret supplier, the one person who could ruin her with a sentence.
+- **Mistress Winifred Harl** — her most trusted Seamer, who has started counting what comes into the stock-room.
+- **Captain Dace Morrow** — stitched by her sixty times. She knows about the finger in the barracks box and has not reported it.
+- **Old Bettany Shroud** — an ally of fifty years; the Guild gives the Lofts linen at cost.
+- **Wick Tallow** — who takes, at a fair price, everything the Guild cannot use.
+- **Dr. Halloran Quease** — who wants to measure her pain. She has let him once.
+
+#### In Play
+
+PCs meet Thessaly at her table, as clients, as Threaders, or when she needs odd jobs done quietly: stolen parts recovered, a back-alley seamer shut down, Marrow Jack watched.
+
+- **Count the Stock.** Mistress Harl hires the PCs to count what comes in the stock-room's back door for a month. What they find leads to Nan Pickering, then to Jack, then back to the Master.
+- **The Stopping Hand.** Thessaly's right hand stops mid-seam during a Closing-eve restitching of an Unvacated alderman, and will not go on. She asks the PCs to find out whose it was.
+- **The Bell.** The Court has announced a levy on wire again. Thessaly asks the PCs to carry the strike-bell key to the Guildhall at midnight, past the Right Hand's agents, so that she can choose whether to ring it.
+
+**Threat:** she unstitches, carefully, one seam at a time. **Kindness:** she is gruff, and remembers it for a century. **The god:** she barely feels it; it is the one part of her that is still entirely her own. **If nobody intervenes:** the secret of Jack's stock comes out within the year, the Court moves against the Guild, Thessaly rings the bell, and the Sinks fill knee-deep again.
+
+[box: Said of Them]
+"She did my gran's face in 512 and she did my face last spring and she did it the same, exactly the same, as if she'd kept the pattern. She had." — Teal Mallory
+"The Master Seamer is the only person in Sallowreach the Regent cannot outwait. She is also waiting." — Provost Carrion Sedge
+"I taught Jack everything he knows. Write that down somewhere, and then burn it." — Thessaly Mort
+[/box]
+
+### Jory Welt — the Boy
+
+> "I'm seventy-one. I've buried no one. I've inherited nothing. I've signed nothing. Tonight we go out to the grey with Alderman Pask in a sack, and when we come home I'll have done the only grown-up thing I've ever been allowed to do. God help me."
+>> — Jory Welt, to a new Bequeather, the Smoking Ground, 640 A.G.
+
+[stat: Jory Welt — the Boy]
+Land & Cut: Sallowreach · Cut 2 · Regrowth 1 (the Taste) · Hunger 2
+Age & Station: 71, living, legally a minor; leader of the Heirs
+Calling & Standing: Scion (disinherited) · Standing 1 (Cadet, in law); the Heirs' rank 5, the Boy
+Attributes: Hand 3 · Gut 3 · Lung 3 · Eye 4 · Tongue 4 · Caul 3
+Skills: Persuade 4, Blades 3, Endure 3, Reckoning 3, Wayfaring 3, Stealth 2, Search 2, Clause 1
+Flesh 14 · Guard 15 (16, less one for the knees) · Armor 1 (padded coat) · Fray 6
+Attacks: boathook +6 (4, Hooking); knife +6 (2)
+Gifts: none; he is entirely ordinary, which is his strength
+Wants: none; his compulsions are his own
+Knacks: Second Chair, Corpse-Road Walker, Old Grief
+Derangements: none, yet
+Carries: the boathook, the Hush map, a measuring chain, the cut-hand token, the Book of the Taken, the donor's notes
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Jory is a stooped old man with white whiskers, swollen knuckles and bad knees, who moves like a man carrying something heavy, and whose voice still cracks with anger like a boy's. He smells of oak bark, lime and old dogs, because he lives over a tannery and keeps two elderly hounds, Tansy and Bray, who are Kept and do not smell good. He dresses like what he is in law: a minor, in a clerk's patched coat, with no rings and no seal. He laughs easily with children and almost never with adults, and is courteous to the Kept in a way that makes his followers uneasy.
+
+#### Their Story
+
+Jory was born in 570 to Agnes Welt, living, and Alderman Rufus Welt of the Weir Row parish, who was two hundred and twenty-nine and still breathing, withered and leathered as the very old of the north become. Rufus's heart stopped the next winter, in his counting-house, and he sat up and finished the quarter's accounts. Jory has never known his father alive. At twenty he asked to be apprenticed to a punt-maker, and his father refused. At forty he asked to marry, and his father refused. At fifty he asked for his wages to be paid to him directly, and his father refused. He joined the Heirs at fifty-two, and in 614, when the old Boy was jarred, they chose him because he was the only Executor nobody hated.
+
+He made the Heirs what they are now. Before the Hushes they were a debating society with presses. In 634, a year after Dunmere, Jory took the first elder to the grey, a part-thief's Kept grandfather who had asked to go, and watched him go soft at the line. Since then the Heirs have taken a hundred and six, most of them willing, nineteen not.
+
+#### Their Place in the Land
+
+Jory commands perhaps three thousand Heirs in Lastgate and the fen: clerks, servants, porters and laborers in their forties to their seventies, organized in cells of twelve. He controls the presses (Lark Dunnock's *Bequest*), the Smoking Ground meetings, a fleet of forty punts, and the Hush map, which he measures weekly with a chain and pins to the wall over his bed. Through the Heirs he has eyes in every Unvacated household in the city, because every Unvacated household has living servants. He depends on donors, many anonymous, and on Saul Brindle's silence.
+
+His power has a hard limit, and he knows it: he cannot change the law, only break it. Every elder the Heirs take to the grey is one less owner, but the property passes to the next oldest Kept, not to the living. In seven years the Heirs have not won a single house.
+
+#### What They Carry
+
+- **The boathook** — ash-hafted, iron-headed, from his punt. The tool of the trade, for hooking a sack into the boat and over the line.
+- **The Hush map** — four feet by six, on sailcloth, every Hush marked in red, every Hand-line estate in black pins, measured weekly. Provost Sedge would recognize the pattern at once. Jory has not quite let himself see it.
+- **A measuring chain** — a surveyor's chain stolen from the Court's own stores.
+- **The cut-hand token** — a disc of bone carved with a hand cut off at the wrist, the badge of the Heirs since 288. His is the original, carried by every Boy.
+- **The Book of the Taken** — a small black notebook, one name a page, a hundred and six pages. Under each name, in Jory's hand, whether they went willingly, and what they said at the line.
+- **The donor's notes** — a bundle of twenty notes, each wrapped round a platter or a minute, left at the tannery door. Each is signed only *A Friend of the Living*. Each uses the phrase *make them last*.
+
+#### Wants, Fears and Secrets
+
+Jory wants the living to inherit. He wants, more privately, to rest. He fears that he has not freed anyone, only found a new way to bury his elders without mourning them.
+
+**Secret the GM can reveal:** in 639 his father, Rufus, sent for him and asked, plainly and in private, to be the next one taken to the Hush. Jory refused. He has not been able to give a reason, to his father or to himself, and has not gone back. **Secret he does not know:** the anonymous donor is Rufus Welt, who has been funding the Heirs for six years out of his rents. *Make them last* is what Rufus said every Plenty-day for fifty years, when he handed his son eight lacks. Jory has read the phrase twenty times and has not heard it.
+
+#### Ties
+
+- **Alderman Rufus Welt** — his Kept father, three hundred and upright, who wants to go to the grey and is paying for it.
+- **Saul Brindle** — his landlord and oldest friend, who is beginning to look at his own father's hands.
+- **Lark Dunnock** — his printer, whose father is in the Jar Room. She wants Jory to raid it.
+- **Ansel Grue** — whose Court has adjourned Jory's petition for an allowance since 601. They have never met.
+- **Sister Lorn** — whose Finishers walk willingly, where Jory's Heirs drag. They despise each other's methods and use each other's routes.
+- **Pim Sorrel** — a child of the Sinks. Jory has had her watched, for her protection, and has had to stop two of his own cells from taking her.
+- **Withhold Pennick** — the stranded Reckoner, who has offered him her knife. He has not said no.
+
+#### In Play
+
+PCs meet Jory if they are living and disinherited, if they help with something that cannot be undone, or if the Court sends them to find him.
+
+- **The Nineteenth.** One of the nineteen unwilling elders was an Heir's mother, taken by mistake: the wrong sack in the dark. Her son wants Jory's head in a jar. Jory wants the PCs to find out if the woman went quietly.
+- **The Forged Licenses.** The Heirs have been buying Closing licenses from an unknown seller at the Court (Aldous Vane). Jory wants to know who, before the Court finds out.
+- **Father's Day.** Rufus Welt sends for the PCs, not his son. He wants to be taken to the grey by strangers, so that Jory does not have to. He will pay well. He would like, when he goes over the line, for someone to tell his boy.
+
+**Threat:** he scatters his cells and waits; he is old and has learned patience from the people he hates. **Kindness:** he accepts it awkwardly, like a boy given a coin. **The god:** at the Taste, he has started closing his door three times before he sleeps, and it frightens him more than the Court. **If nobody intervenes:** within a year, the Heirs split. The young wing (in their forties) begins taking Hand-line children, because the map shows where the god is coming from. Jory, unable to stop them, takes his father to the Hush at last, alone, by night, and does not come back from the edge.
+
+[box: Said of Them]
+"He took my grandad to the grey. Grandad asked him to. Grandad held his hand the whole way in the punt and told him jokes. I think it was the nicest day Grandad had in a hundred years." — a living girl of twelve, the Sinks
+"The Boy is a murderer and a sentimental one. That is the most dangerous kind." — a Licenser of the Court
+"Seventy-one and still asks permission before he sits down in my house. His father did that to him. I'd like to do something to his father." — Saul Brindle
+[/box]
+
+### Old Bettany Shroud — Warden of the Lofts
+
+> "Hush now, Hall Three. I'm here. I'm only on the ladder. No, I'm not leaving. I've brought my blanket. Tell me again, slowly, and I'll write it down."
+>> — Old Bettany Shroud, ninth bell, the Lofts
+
+[stat: Old Bettany Shroud — Warden of the Lofts]
+Land & Cut: Sallowreach · Cut 2 · Regrowth 1 (the Taste) · Hunger 0
+Age & Station: 88, living; Warden of the Lofts since 601
+Calling & Standing: Nightwarden (Loft-Warden) · Standing 5 (Commander; Warden of the Lofts)
+Attributes: Hand 1 · Gut 1 · Lung 1 · Eye 4 · Tongue 3 · Caul 4
+Skills: Lore 5, Resolve 4, Search 3, Instinct 3, Rites 3, Persuade 3, Reckoning 2
+Flesh 9 · Guard 11 · Armor 0 · Fray 6 (and rising)
+Attacks: fist +1 (1); she will hook you with a shelving hook if she must, +1 (3, Hooking)
+Gifts: none of the god's. The Wardens' own gift: Forty Thousand Ears (once per session, ask one question about anything said within earshot of the Lofts in the last fifty years; she knows, or knows which book)
+Wants: none of the god's; she must not leave the shelved alone at night (her own vow)
+Knacks: Elder's Ear, Silent Supper, Counting Habit
+Derangements: none; but see Wants, Fears and Secrets
+Carries: the whisper-books, the nine keys, a lamp, a shelving hook, a reading list, her own label
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Bettany is small and bent nearly double, and wrapped in so many shawls that she looks like a bundle of washing that has learned to walk. The shawls smell of camphor and linen-wax and the lamp-oil of the Lofts. Her fingers are stained with ink to the second knuckle, and she sniffs constantly from a cold that has lasted twenty years. Her voice is the thing people remember: a reader's voice, low, clear and patient, trained over seventy years to carry along an aisle of four hundred shelved bodies without being raised. She is kind, dry and stubborn, and she has a reputation, among Court officers who have tried to buy the whisper-books, for a single word, *no*, delivered as though she were declining a second biscuit.
+
+#### Their Story
+
+Bettany was born on Loftside in 553, the daughter of a wrapper. She became a Ladder-hand at twelve, reading for a crumb a night to the shelved of Hall Two, and has climbed the ladders every night since. In 591, as a Reader, she began writing down what the shelved whispered back: it seemed rude, she said later, to let them talk and not keep it. Those notebooks became the first whisper-books. She was made Warden of the Lofts in 601, and her first act was to forbid the Senior Wardens to sell what was in them. Her mother was shelved in Hall One in 612, and Bettany reads to her every Plenty-day.
+
+In the Lack of 640 she heard the first of the shelved say *company*. By Grace 641 all forty thousand were saying it. She moved a cot into the Lofts that week, between the shelves of Hall Nine, and has slept there since.
+
+#### Their Place in the Land
+
+Bettany commands two hundred Wardens, Readers and Ladder-hands, keeps nine halls, and is responsible for forty thousand people who cannot move. She negotiates linen with the Guild, shelf-fees with the Court and visiting days with families. She is underpaid, overworked and indispensable. She also holds, in a hundred and twelve whisper-books, the best intelligence on the Table: every conversation held near the walls of the north city for fifty years. The Court, the Heirs, the College and Envoy Dray have all tried to buy them. She has never sold one line.
+
+#### What They Carry
+
+- **The whisper-books** — a hundred and twelve, kept in a cedar press in Hall Nine. She carries the current one, the hundred and twelfth, everywhere. Its last forty pages contain a single word, over and over, in forty thousand columns.
+- **The nine keys** — iron, on a ring at her belt, one for each hall. There is a tenth hook on the ring with no key on it. It was there when she inherited the ring.
+- **A lamp** — tin, shuttered, burning one of Wick Tallow's candles, which she buys by the box because they do not gutter on the ladders.
+- **A shelving hook** — a Loft-Warden's hook (8 lacks), for lifting the Set-Aside down for visits.
+- **A reading list** — the names of the shelved whom nobody visits, eleven thousand of them, with what each liked to hear.
+- **Her own label** — written in her own hand and kept in her apron: *Bettany Shroud, Warden. Hall Nine. Read to me.*
+
+#### Wants, Fears and Secrets
+
+Bettany wants the shelved not to be alone. She fears that something is coming up the stairs, and that when it arrives there will be nobody awake in the Lofts but her.
+
+**Secret the GM can reveal:** the whisper-books record, among ten thousand other things, the night in 340 when a Kept man was carried past Hall One in a sack, shouting that he was Regent of Sallowreach. A shelved clerk heard the name. Bettany has known for fifty years who is in Sack Seventeen. **Secret she does not know:** the shelved are not warning her. They are not afraid. At night, in every hall, the wrapped heads turn, all together, toward the stair, as a household turns when the knock comes downstairs, and they are not whispering *company* the way you whisper a danger. They are whispering it the way you whisper to the children to sit up straight. (The GM may consult the Secrets chapter about who might be expected.) And Bettany has begun to say it in her sleep.
+
+#### Ties
+
+- **Aldo Penny** — her Reader in Hall Six and her likely successor, who has started to say the word too.
+- **Thessaly Mort** — an ally of fifty years; their bargains over linen are famously cordial.
+- **Marrow Jack** — her enemy. He takes hands from the shelved, and she has hooked him once.
+- **Sister Lorn** — whose Finishers take the shelved who ask, and whom Bettany quietly lets in by the back stair.
+- **Ansel Grue** — who has sent for the whisper-books four times. She has sent back a reading list.
+- **Grandfather Peat** — whom she has never met. When Provost Sedge told her what Peat does with his fingers, she went white.
+
+#### In Play
+
+PCs meet Bettany if they come to the Lofts to visit, to steal, or to learn what someone said. She is the best source of information in Lastgate and will give it only for a reason she believes.
+
+- **The Unvisited.** She asks the PCs to read to the shelved of Hall Seven for a night. By morning, a shelved woman has told one of them a secret about the PC's own family.
+- **The Tenth Key.** Bettany asks the PCs to find out what the tenth hook on the ring once opened. The oldest plans of the Lofts show a tenth hall, under the other nine, which was never built.
+- **When They Arrive.** On Tablenight, every shelved body in the Lofts goes silent at once. Bettany, alone on her cot, sends Aldo running for the PCs.
+
+**Threat:** she says no. **Kindness:** she takes it, and puts it to use for the shelved. **The god:** distant; she has the Taste only, and closes the Lofts' doors gently, every one, every night. **If nobody intervenes:** she dies in the Lofts, in her sleep, at ninety, and is found sitting up on her cot with the book open, and is Kept, and stays, and goes on writing.
+
+[box: Said of Them]
+"Old Bet read to my gran every night for thirty years, and my gran was a terrible woman, and Bet never once skipped her." — a Loftside lodger
+"I offered her a full license for one volume. She said she was saving her license for later, thank you." — Envoy Castellan Dray
+"She knows everything. That's the trouble. Nobody's ever been able to make her say any of it." — a Right Hand agent, in his report
+[/box]
+
+### Pim Sorrel — the Scrap Finisher
+
+> "I don't want to do it to anybody. I only do it when they ask. And the candle asked. It did, I heard it. Can I go to school now?"
+>> — Pim Sorrel, to a Court examiner, Carving 641
+
+[stat: Pim Sorrel — the Scrap Finisher]
+Land & Cut: Sallowreach · Cut 1 (Scrapling, Grinholm stock) · Regrowth 2 by the College's measure (impossible) · Hunger 0 (always)
+Age & Station: 12, living; a girl of the Sinks
+Calling & Standing: none (she guts eels with her mother)
+Attributes: Hand 3 · Gut 1 · Lung 3 · Eye 3 · Tongue 2 · Caul 5
+Skills: Instinct 4, Athletics 2, Stealth 2, Filch 2, Godsign 2, Endure 1
+Flesh 10 · Guard 15 · Armor 0 · Fray 3
+Attacks: none she would use; a bite and a kick +3 (1)
+Gifts: The Warm Closing (her bare hand, laid on anything that wants to end, finishes it, Kept or creature or flame, with no roll; a finished thing does not rot afterward but stays perfect, as things do inside a Hush; she gains no Hunger); The Kneeling (Hush-walkers and Undone Closers kneel when she comes near, and do not touch her)
+Wants: none of the god's that anyone can measure
+Knacks: Scrap-Born Luck, Elder's Ear
+Derangements: none
+Carries: a slate and chalk, Tib in a box, wool mittens, an eel-knife, a spoon crown, her father's ribbon
+Dread: 0 (to meet); 3 (to watch her close someone, because it is so gentle)
+[/stat]
+
+#### Who They Are
+
+Pim is a thin, quick, freckled girl of twelve with mouse-brown hair cut short with eel-shears, a gap in her front teeth, and the habit of standing on one foot when she is thinking. She smells of peat smoke and eel, like every child in the Sinks. Her hands are the thing everyone looks at, and there is nothing to see: they are ordinary, warm, a child's hands, scraped across the knuckles, with bitten nails and eel-slime in the creases. They are not grey. They are not cold. Candles do not lean from her. She laughs a great deal, and people near her who have the Want of Quiet are surprised to find that her laughter does not trouble them.
+
+She is clever, stubborn and a little bossy. She can read a few words. She wants, more than anything, to go to the Seamers' charity school on Needle Street, which takes children at twelve.
+
+#### Their Story
+
+Pim was born in 629 to Orla Sorrel, an eel-gutter, and Davey Sorrel, an eel-man, both of Grinholm stock, two generations off the island. Davey drowned off Weir Row in 633 and came home Kept. In the Lack of 640 a cart crushed a cat on the boards outside their house, and it lay there crying and could not stop, and Pim picked it up. It was quiet. It stayed quiet. It is still perfect.
+
+Since then she has closed a neighbor's grandfather, who asked her for six months; two Smalls of the Drowned Storeys, who came up a grating to ask; and a candle, one of Wick Tallow's, which she says asked her too. She has refused everyone else, including, every night, her father.
+
+#### Their Place in the Land
+
+Pim has no place. She is impossible: a Scrapling's blood should not close anything, and she does it without the grey, without the cold, without Hunger and without the Court. Her existence is a threat to every institution in Sallowreach. The Court wants her examined and, if necessary, dissected; a licensed death that can be had for nothing ruins the license. The Finishers want her crowned. Provost Sedge wants her measured. Marrow Jack wants her hands. Little Nell Ash wants her for the Smalls. Her mother wants her out of the country. The Sinks have closed round her like a fist: the neighbors hide her, lie for her, and quietly, one by one, ask.
+
+#### What They Carry
+
+- **A slate and chalk** — for practicing her letters. She has written her name, her mother's, and SCHOOL.
+- **Tib in a box** — the cat, in a cardboard box with holes punched in it from habit. He is perfectly dead and perfectly whole and smells of nothing. She does not know why she keeps him.
+- **Wool mittens** — knitted by her mother after the cat, red, in imitation of the Hand-line mittens. They do nothing at all. She wears them to be polite.
+- **An eel-knife** — short, blunt, for work.
+- **A spoon crown** — a ring of three tarnished spoons, wired, sent up through a grating by Little Nell Ash. It is an invitation. It is also a claim.
+- **Her father's ribbon** — the red cord Davey Sorrel wore on the Landing. She ties it on her own wrist when he asks her, again, and she says no.
+
+#### Wants, Fears and Secrets
+
+Pim wants to go to school, to keep her mother safe, and to stop being asked. She is afraid of the men from the Court, of the singing Finishers who follow her in the street, and of the day she says yes to her father.
+
+**Secrets (the GM chooses):** she is the great-granddaughter of a Vane bastard, which Sedge's ledgers record; or Ossel, growing back, is reaching through the least of its eaters first; or the face that the Scraplings boiled at Grinholm is waking, and what it does is not closing but *mercy*, and it does not need a Hand. **Secret she does not know:** in 641, Granny Ketch's pit at Grinholm began to curve upward at the corners on the same night Pim closed the candle. Whatever is waking there knows her.
+
+#### Ties
+
+- **Orla Sorrel** — her mother, who would carry her across the border tonight if anyone would help.
+- **Davey Sorrel** — her Kept father, who asks every night, and whom she loves too much.
+- **Little Nell Ash** — the Queen of the Smalls, who wants Pim for her own and has a spoon crown waiting.
+- **Lady Corrow Vane** — who has asked for Pim to be brought to Glovehall. Pim has heard. She does not want to go.
+- **Jory Welt** — whose Heirs watch her house, for her protection, and have twice argued about taking her.
+- **Sister Lorn** — whose Finishers sing outside her window. Pim finds Lorn sad and kind and frightening.
+- **Granny Ketch** — her great-great-great-grandmother, whom she has never met, sitting by a pit that is starting to smile.
+
+#### In Play
+
+PCs meet Pim through her mother, who hires them to get the girl across the border, or because every faction in the city hires them to fetch her.
+
+- **The Little Closer.** Orla hires the PCs to carry Pim south. The girl does not want to go, and nobody knows whether her touch will stop at the border, or whether it will start working on the living.
+- **The Queue.** A line has formed outside the Sorrels' door in the Sinks: forty Kept, silent, waiting. The Court is coming with Hookmen. The PCs must decide what to do with the queue.
+- **The School.** Thessaly Mort will take Pim into the charity school, under Guild protection, if the PCs bring her proof of Marrow Jack's plans for the girl's hands.
+
+**Threat:** she runs; she is fast and knows every grating in the Sinks. **Kindness:** she trusts it at once, which is her danger. **The god:** she feels nothing at all, which frightens the College more than anything. **If nobody intervenes:** the Court takes her before Restitching Week. Corrow Vane intercepts her at the Hall of Hands and takes her to Glovehall, and the orchard Hush stops growing for the first time in a year.
+
+[box: Said of Them]
+"She held my old dad's hand and asked him, are you sure, three times, the way they do at the Hall. Where'd a little thing learn that? Nobody taught her." — a neighbor in the Sinks
+"A Scrapling child with a closing touch is not a miracle. It is an error in my ledgers. I intend to find it." — Provost Carrion Sedge
+"She doesn't go cold. That's the thing. Every one of them goes cold. She stays warm." — Lady Corrow Vane, to no one, in the Hall of Closings
+[/box]

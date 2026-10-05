@@ -1155,3 +1155,174 @@ They do not go out. The Deepening's lanterns are made of horn and brass, their w
 **WORTH:** 35 L. Uncommon. Netwatch confiscates on sight; possession is "aiding a Calling," a fine of ten tallies.
 
 [pagebreak]
+
+# Leavings of the Vigil
+
+> Anything that helps you rest is contraband. Anything that keeps you up is currency. Everything else is lamp-oil.
+>> — Pinchmarket saying
+
+[bigquote] They say a relic of the god of sleep should be soft. Ours are needles, bells and mirrors. The soft ones we burn, and the ones we cannot burn we lock in the Rattlehouse, and still people queue at its door. | — Captain Brannoch Pyre of the Wakers, testimony to the Watch of Watches
+
+The Vigil does not trade in relics so much as fight a war against them. Every leaving of Iss is, at bottom, a piece of rest: a softness, a warmth, a stillness, a way of going under and coming back. The law of the Lid makes such things capital crimes, and the Wakers hunt them with rattles and needles, and the Watch of Watches keeps the most dangerous in a sealed tin room under the Rattlehouse that is said to be the only quiet place in the city. And the city wants them more than it wants anything. A people who have not slept in three hundred years will pay a year's wages for a minute's peace. The Tuckers have built a whole criminal economy on that sentence.
+
+So the Vigil's leavings come in two kinds, and the city treats them as opposites. There are the leavings of waking: things that hold the lids up and the eyes open, made from the lidless Eye-lines, from the lamps and the bells, from the Wakers' long needles and the Bitterhouse's black stills. These are sold openly in the Pinchmarket and the city is proud of them. And there are the leavings of the room: pieces of the Dormitory, the Pillow, the Sleepers' Mile, the dream itself, which promise rest and deliver it, and come with a price written in the long room's ledger. These are sold in the Slope's back lanes, under tin, by people who do not look you in the eye, because looking at someone too long makes them yawn.
+
+Carving here is less a matter of knives than of nerve. Most of the Vigil's leavings must be taken from places where sleep is strongest: from the Dormitory's warm breathing halls, from the soft hollow of the Pillow, from beside the Counted. Every minute spent there adds Weariness. A carver who goes in tired does not come out. The Tuckers carve best, because they are paid to stand beside sleep and not succumb; Dream-Divers carve deepest, because they go into the room itself and are dragged back.
+
+What the Vigil fears most is not a relic's power but its comfort. A leaving that makes the user feel warm, safe or rested is treated by every Vigilant as a loaded crossbow: useful, beautiful, and pointed at the user's own head. Pinchmarket dealers wrap such goods in burr-cloth so that they scratch. Buyers carry them with a pin through the palm.
+
+## From the Eye-lines
+
+[sigil: vigil]
+
+The Eye-lines ate Iss's eyes, still shut, and their descendants are born lidless and call it purity. A lidless eye must be wetted by hand every half minute, and it sees everything, and forgets nothing. What the Eye-lines shed is the residue of seeing: the tears that run from eyes that cannot close, the brushes that wet them, and, in the families born with lids, the lids themselves, which shrink and fall away in the Course like burnt pages.
+
+### A Wetting-Brush of the Warden-Prime
+
+Warden-Prime Ilvane Stroud has not shut her eyes in fifty-eight years. Two attendants brush them wet every half minute, day and night, with fine sable brushes dipped in a cup of warmed salt water. She has seen everything that has happened in front of her since birth, and she can forget none of it. Her brushes wear out in a month. They are burned, by law, in the presence of a Watcher. Her attendants are paid in rouse.
+
+A worn brush is a slim handle of pale bone, carved with an open eye, and a head of black sable gone stiff and grey-tipped with salt. It smells of tears. Its bristles have touched the most watchful eyes on the Table forty thousand times a month, and some of the Warden-Prime's seeing has dried into them. Brushed across the user's own eyes, open, the brush lets them see as Stroud sees: everything, all at once, in perfect order, and keep it. Clerks of the Watch who have tried it say the memory is unbearable after a day. Spies who have tried it say it is worth it.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Watch clerks and attendants, Hard (14).
+
+**SPOILAGE:** A brush holds its virtue for ten uses, or a month, whichever comes first.
+
+**CARVING:** Taken from an attendant before the burning (Tongue + Persuade vs Grim 18, or a great deal of rouse). Taken from the burning itself, in front of a Watcher (Hand + Filch vs Dire 22). A Lack means the Warden-Prime sees you do it. She will remember your face in perfect detail for the rest of her life.
+
+**TAINT:** 1 Regrowth (Iss).
+
+**EFFECT:** For a scene after brushing, the user has perfect recall of everything they see: they may later recall any detail of it exactly (no roll), and gain +2 to Search. For that scene they cannot blink, which means no blink checks, and they gain Weariness 1 at the end of it. A user who brushes three times in a day must make a Dread 2 check from the sheer accumulation of seeing.
+
+**WORTH:** 140 L. Scarce. Theft of the Warden-Prime's person; a Rattlehouse matter.
+
+### A Pair of Fallen Lids
+
+At the Course, a Vigilant's lids thin, shrink and are gone: first a translucence, then a shrinking, the lids drawing back like a burnt page curling from its edges, and then they fall away, a pair of soft, dry, pinkish crescents, light as moth wings, usually found on a pillow that is not supposed to exist or in the dust of a stair. Eye-line midwives collect them. The Tuckers buy them.
+
+A pair of fallen lids is kept in a twist of oiled silk, and they are faintly warm, and they still twitch, now and then, as though trying to blink. Laid over a person's open eyes and held there with a drop of gum, they close. And the person under them sees darkness for the first time since they were four years old, and does not fall asleep. Not at once. The lids remember being shut without sleep, a trick no Vigilant body knows. For the length of a held breath, a little longer, a person under them can rest their eyes. Those who have done it describe it as the most beautiful thing that has ever happened to them, and some of them lie, afterward, about how long they kept them on.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Tuckers and midwives, Hard (14).
+
+**SPOILAGE:** A season in oiled silk; then they crumble.
+
+**CARVING:** Gathered after they fall (Eye + Search vs Hard 14 in an Eye-line house), or bought from a midwife of the Height (Tongue + Haggle vs Grim 18). Peeling them early, before they fall, is a crime and a horror (Hand + Stitching vs Grim 18; Dread 3) and they are useless.
+
+**TAINT:** 2 Regrowth (Iss), Dread 1.
+
+**EFFECT:** Worn for a count of sixty (once per day), the lids give the Lull's benefit (remove 1d6 Hunger, and also 2 Weariness and 1 Fray) without the blink check at Hard; instead the user makes a blink check at Routine (10). If the user keeps them on past sixty, every further count of ten adds one step to the difficulty, and on a failure they are in the room, and their nudger must fetch them as if they had fallen asleep.
+
+**WORTH:** 400 L. Rare. Possession is "equipping for sleep," a capital crime. Old Nod is said to own a drawer of them.
+
+### Lidless Tear-Salt
+
+The lidless weep constantly, not from grief but because an eye that cannot close must be kept wet, and the body tries. Their attendants catch the tears in little silver cups, and in the Height the tears are dried in the sun of the Bonfires into a fine, sparkling, bitter salt, like crushed glass. It is called tear-salt, and it is the most expensive seasoning on the Table, and the Eye-lines eat it on everything.
+
+Tear-salt keeps the eyes open. A pinch on the tongue is as good as a rouse-tab; a pinch in a cup of rouse makes the rouse hold twice as long; a pinch rubbed into the eye stings like a needle, and the eye stays open, unblinking, for an hour. The Bitterhouse buys it by the pound. The Slope can afford it by the grain, and buys it anyway. In the last decade, as the rouse dose has risen, so has the price of tear-salt, and so has the number of Eye-line attendants found with their own eyes rubbed raw, trying to make more.
+
+**WHISPERED:** Eye + Lore vs Routine (10) in the Vigil; Hard (14) elsewhere.
+
+**SPOILAGE:** Indefinite, kept dry.
+
+**CARVING:** Collected from a lidless person over a day (Hand + Craft vs Routine 10 with a silver cup), with their consent or while they are held. Taking it from the unwilling is cruelty the Vigil pretends not to notice (Dread 1).
+
+**TAINT:** 1 Regrowth (Iss), after the third pinch in a day.
+
+**EFFECT:** A pinch on the tongue removes 1 Weariness and halts Weariness gains for an hour, without the Addiction roll of rouse; added to a rouse dose, it doubles the dose's duration. Rubbed into the eyes (1 Flesh), it makes the user immune to blink checks for an hour, and gives −1 to Search from the stinging.
+
+**WORTH:** 5 L a pinch; 300 L a pound. Uncommon. Legal and celebrated.
+
+## From the Dormitory and the Room
+
+[sigil: vigil]
+
+Sixty thousand beds, numbered, in rows, completely silent. The Counted breathe in time. The leavings of this section are taken from the place everyone in the Vigil fears and longs for most: from the Dormitory's halls, from the long room in the dream, from the Pillow where Iss lay, and from the Sleepers' Mile, where the refugees of 342 lie under the heather. All of them are illegal. All of them make the user sleepy. Every carver who takes them gains Weariness doing it.
+
+### A Breath of the Dormitory
+
+The Counted all breathe in time: sixty thousand chests rising and falling together, slow, deep, perhaps four breaths a minute, and the air in the halls moves with them like a tide, a long warm sigh drawn in through the doors, a long warm sigh pushed out. Standing in the center of a hall, a visitor feels it on their face. Orderlies wear wax in their ears and keep their eyes on their boots.
+
+A breath of the Dormitory is caught in a bladder at the exhalation, when the sigh goes out through the doors. It is warm, and it smells of clean linen and skin, the sweetish smell of bodies that do not sweat and do not age, and it is drowsy beyond any drug. Released in a crowded room, it spreads like the smell of bread, and everyone who breathes it yawns, and then everyone who sees them yawning yawns, and the Wakers come running. The Tuckers sell bladders of it to rivals of the Watch. The Bedded release it in the Pinchmarket as a sacrament.
+
+**WHISPERED:** Eye + Lore vs Hard (14); Grim (18) outside the Vigil.
+
+**SPOILAGE:** A day in the bladder; then the warmth goes out of it and it is only stale air.
+
+**CARVING:** Caught in a hall of the Dormitory at the exhalation (Lung + Stealth vs Hard 14 past the orderlies; Hand + Craft vs Routine 10 to catch it). Each minute in a hall adds 1 Weariness; a blink check at Hard every minute after the third. Standing among the breathing rows is a Dread 2 check.
+
+**TAINT:** Dread 1.
+
+**EFFECT:** Released, the breath fills a room or a stretch of street twenty paces across. Everyone who breathes it gains 2 Weariness and makes a blink check at Hard (14), whatever their Weariness; foreigners in the Vigil are not spared. It is a Yawn hazard (Dread 1, becoming Dread 3 when someone goes down) for a scene. Outside the Vigil, it makes everyone who breathes it sleepy (−1 to all rolls for an hour) and gives Vigil-born travelers a blink check.
+
+**WORTH:** 50 L. Scarce. "Spreading the Yawn" is a capital crime.
+
+### A Sheet from the Restless Rows
+
+As of Carving 641, the Matron's private register lists nineteen restless sleepers. Bed One, Aveline Morne, moves her lips. Bed 40,112, Odile Farthing's son, has grown to the size of a man in eleven years, and smiles. Bed 7,730 has turned its head toward the east door. Beds 212 through 219, eight members of one family who lay down together on the First Night, have begun to move as one. The orderlies change their sheets anyway, every Plate, because someone must do something.
+
+The sheets of the restless come away creased in patterns. Not random creases: lines, loops and hatchings, as if the sleeper had been tracing something with their whole body under the linen. Laid flat on the floor of the Matron's office, the creases of beds 212 to 219, put together, make the plan of a room: long, low, with a table in it. The sheets are supposed to be burned. A laundress named Lisbet Coyle has been selling them instead, one at a time, to the Bedded and to the Dream-Divers, who pay well, because wrapped around the head of a waking person, a restless sheet whispers.
+
+**WHISPERED:** Eye + Lore vs Grim (18).
+
+**SPOILAGE:** A season, unwashed; washing erases the creases and ends it.
+
+**CARVING:** Taken from the Dormitory laundry (Lung + Filch vs Hard 14) or from the bed itself, at the change (Hand + Filch vs Grim 18 under the orderlies' eyes; 1 Weariness per minute in the hall). Touching a restless sleeper to draw the sheet is a Dread 3 check; their face is happy.
+
+**TAINT:** 2 Regrowth (Iss), Dread 2.
+
+**EFFECT:** Wrapped around the head for a minute, under a nudger's guard, the sheet lets the wearer hear what the restless sleeper's lips are shaping: the GM gives one line, often the answer to a question about the long room, the eye, the number, or the table being laid. The wearer gains 2 Weariness and must make a blink check at Grim (18). Spread flat, a set of sheets from one family shows a map of part of the long room, with a step or two more of it each month.
+
+**WORTH:** 220 L. Rare. Desecration of the Counted, and "equipping for sleep."
+
+### Sleepers' Mile Moss
+
+Below the border stones, along the old Pilgrim Road, lie the refugees of 342 A.G., who fled the plateau to sleep beyond its borders and found that the rule followed them. About four thousand of them are scattered along a mile of road and heather. They still breathe. They are grown over: moss in the hair, lichen on the cheeks, heather pushing up through the rotted rags of their clothes.
+
+The moss that grows in a sleeper's hair is a soft, thick, grey-green cushion, warm as a scalp, and it smells of the sleeper's breath. Rim Road porters at the Last Beds pick it and sell it to Vigilants coming down from the plateau, who chew it like tobacco on the road. It works. A wad of Mile moss, chewed slowly, gives the chewer something like the rest of a night's sleep, without sleeping: the ache behind the eyes eases, the hands steady, and the long heavy pressure on the lids lifts for a day. Chewers report a taste like a pillow. Some report dreaming, awake, of heather and sky. Factor Joss Mallory sells it at the Last Beds with a straight face as "a local herb."
+
+**WHISPERED:** Eye + Lore vs Hard (14) on the Pilgrim Road; Grim (18) on the Lid.
+
+**SPOILAGE:** A week fresh; a season dried, at half strength.
+
+**CARVING:** Picked from a sleeper's hair on the Sleepers' Mile (no roll, but a Dread 2 check: the face under the moss is breathing, and the eyes under the lichen move). A Vigil-born carver on the Mile must make a blink check at Hard (14) for each sleeper picked; the heather is very soft.
+
+**TAINT:** 2 Regrowth (Iss).
+
+**EFFECT:** A wad chewed removes 4 Weariness and recovers Flesh and Fray as a night of real rest (remove 1 Fray). Once a day. Each wad also makes the next Lull Sop more dangerous: its blink check is one step harder for a day. A chewer who fails three Regrowth Taint rolls from it begins to grow moss in their own hair, which does not wash out.
+
+**WORTH:** 6 L a wad at the Last Beds; 30 L on the Lid. Uncommon. Contraband in the Vigil; legal on the Rim.
+
+### A Chip of the Pillow
+
+The Pillow is the hollow where Iss lay, at the exact centre of the Lid: a long shallow depression in the bedrock, a quarter mile from end to end, shaped like the impression of something enormous that lay on its side with its knees drawn up. The stone is warm in every season and faintly soft, like a cushion with the stuffing settled. Snow melts there. Yawners who stand at its rim begin to weep.
+
+A chip of the Pillow is a palm-sized flake of grey stone, smooth on one face, warm, and soft: it gives under the thumb as a cushion gives, and slowly springs back. Laid under a head, it makes any surface the softest bed on the Table. Tuckers grind it to powder and dust their sleeping-cellars with it, because a sleeper on Pillow-dust goes down faster and, they claim, comes back easier. Old Nod forbids it. His people use it anyway, and their failure rate has risen, and the extra bodies on the Dormitory steps before the next bell are very relaxed.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Tuckers, Hard (14).
+
+**SPOILAGE:** A chip keeps its softness for a year away from the Pillow; then it cools to ordinary stone.
+
+**CARVING:** Chiselled from the Pillow (Lung + Stealth vs Hard 14 past the Waker cordon; Hand + Craft vs Hard 14 to chisel). Each minute in the hollow adds 1 Weariness and a blink check at Hard; a Lack means the carver lies down, just for a moment. Companions must pull them out (Gut + Labor vs Hard 14) before the next breath.
+
+**TAINT:** 2 Regrowth (Iss), Dread 1.
+
+**EFFECT:** A sleeper resting on the chip, outside the Vigil, recovers twice over: double Flesh from rest and 2 Fray instead of 1. A Vigil-born character resting on it, anywhere, makes the Lull's blink check at Grim (18) instead of Hard. Under a Tucker's guard, a sixty-second sleep on the chip counts as a full night's rest, if the Tucker can fetch them back (Hand + Stitching vs Grim 18).
+
+**WORTH:** 350 L. Rare. Desecration of the Pillow and "equipping for sleep."
+
+### Senna Vole's Tether
+
+Senna Vole has made forty dives into the room, where three is the usual career. She has mapped the long room to within thirty paces of the eye. On her last dive, something behind the lid said her name. Divers lie down at the Tether Hall in harness, wired at the wrists, ankles and throat to a great brass winch and a team of eight hauliers, and when the bell is struck the hauliers drag them back. Vole's tether, the braided wire-and-silk cord she used for her last twenty dives, was retired after the fortieth. It had gone taut in a way no tether ever had, toward the eye.
+
+It hangs in the Tether Hall's records-room, coiled, and it does not lie still. Every quarter hour, at the bell, the coil tightens and pulls, gently, toward the south end of the room, the way the eye in the dream faces. Divers touch it for luck before going under. A Diver who wore it once since then, against orders, came back on the bell with no trouble at all, faster than any haul, and told the hauliers she had not needed them. She said the tether had brought her back. She said someone on the other end had let her go.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Dream-Divers, Routine (10).
+
+**SPOILAGE:** It does not spoil.
+
+**CARVING:** Taken from the Tether Hall records-room (Lung + Stealth vs Grim 18), or given by Senna Vole to someone she trusts (Tongue + Persuade vs Dire 22). Handling it is a Dread 2 check: it pulls.
+
+**TAINT:** 3 Regrowth (Iss), Dread 2, per dive.
+
+**EFFECT:** A diver (or any sleeper) bound in the tether returns from the room when the bell is struck, automatically, without hauliers. Each dive, the diver may ask the GM one question about the long room, and on a Grace, about the eye. But each dive, roll a d6: on a 1, something on the other end of the tether has said the diver's name, and the GM gains a Regrowth point to spend on the diver at a moment of their choosing.
+
+**WORTH:** Never sold. Unique. The Watch of Watches would seize it if they knew how often it is borrowed.
