@@ -1,0 +1,909 @@
+## The People of Oathen, Continued
+
+> Every face in the canyon is a ledger. Learn to read the columns: what they swore, what they kept, and what it cost them to keep it.
+>> — Cutwright Hessa Lisk, in her lecture to new clerks of the Tacit office
+
+The first half of Oathen's people are the ones who govern it: the king who has never spoken, the Bench that speaks for him, the Sayer below the Ledger and the broken who shout at all of them from the canyon floor. The people who follow are the ones who live underneath that government and inside its consequences. A widow who has fed a fire for thirty-one years. A smith who makes the silences everyone else wears. A woman who knows why the rain was late. An old fixer with nine hundred souls on a string. A soldier at the top of a pass he cannot leave, a swindler who has never finished a sentence with a full stop, a nun who is afraid of her own thoughts, a diplomat who has begun to enjoy lying, a boy who was promised into being, a carver with a list, and the gentlest killer on the Table.
+
+None of them is safe to talk to. All of them are worth it.
+
+[pagebreak]
+
+### Asha Kindle — the Fire-Widow
+
+> "It wants something. It has always wanted something. I gave it the wood, and the cedar, and his shirts and his letters and my own hair, and it took them and it thanked me, and still it wants. I lie awake. Of course I lie awake. I have not done anything else since the year the king was born."
+>> — Asha Kindle, signing by firelight to a Cutwright who had come to measure her
+
+[stat: Asha Kindle — the Fire-Widow]
+Land & Cut: Oathen · Cut 2 (common blood) · Regrowth 5 (the Appetite) · Hunger 6
+Age & Station: 63; widow of Edrec Kindle, lamp-oiler; tenant of a cliff-cell on the high Shadeward Wall above Tacit
+Calling & Standing: none now (once a Factor in lamp-oil, Standing 1, long lapsed)
+Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 3 · Tongue 2 · Caul 5
+Skills: Endure 5, Resolve 4, Craft 3, Instinct 3, Haggle 2, Lore 2, Brawl 1, Stealth 1
+Flesh 16 · Guard 13 · Armor 0 · Fray 8
+Attacks: brand from the hearth +4 (3, and sets hair and wool alight); hair-shears +3 (2)
+Gifts: **Echo-Ear** (the Taste). **Hold to It** (the Appetite), which she has turned on her own oath. **The Kept Hearth:** she knows the state of her fire at any distance inside Tacit, as a warmth or a chill in her breastbone; if it gutters, she wakes from any sleep and any swoon at once. Anyone who tries to put the fire out while she lives must first win an opposed roll of their Caul + Resolve against hers, because the fire is, in the god's reading, hers to keep.
+Wants: **To Hold Others to Their Words** (when anyone near her breaks a promise, she must confront them); **To Swear** (when she is doubted; she has sworn aloud, more than once, that she will never sleep, and the canyon heard)
+Knacks: Light Sleeper, Old Grief
+Derangements: **Lost Time** (roused at Fray 5 or more: she comes back to herself kneeling at the hearth with her hands in the ash and no memory of the last hour)
+Carries: a tin of bought hair, hearth-tongs, a one-hour sandglass, a cracked bellows, Edrec's last letter (unburned), a thumb ring, a jar of goose fat for her hands
+Dread: 2 (to watch her feed it)
+[/stat]
+
+#### Who They Are
+
+The first thing anyone notices is the smell. Asha Kindle smells of singed hair, the sharp, sour, sulphurous stink of it, so thick in her wool that it follows her down the stair-ladders and hangs in the rope-lifts after she has gone. The second thing is her scalp. She is entirely bald, not shaven but bare, the skin of her head tight and shining and grey as a cooled flatbread, mottled at the crown where she has leaned too close to the coals. Her eyebrows are gone. Her lashes are gone. Her hands are worse: the fingertips glossy with old burns, the nails thick and yellow and ridged, the palms dark with soot that has worked into the creases and will not wash out. She has the grey, thin-lipped face of someone who has not slept more than an hour at a stretch for thirty-one years, and the eyes that go with it, wet and red-rimmed and very bright, as if something behind them were also burning.
+
+She moves slowly and keeps her body angled, always, toward the north wall of the canyon, where her cell is. She will stop mid-sentence to turn her head, like a mother who thinks she has heard a child cough. She signs more than she speaks, in a plain market handtalk with old-fashioned grammar, and when she does speak her voice is a dry rasp from the smoke, careful and conditional, with the faint flat echo of the Taste half a breath behind it. People who know her are kind to her and keep their visits short. People who do not know her assume she is Forsworn, from the burns, and are surprised to learn that she has never broken a word in her life. That is the trouble.
+
+#### Their Story
+
+Asha was born in 578 A.G. to a family of lamp-oilers on the Shadeward Wall and married Edrec Kindle at twenty-two, after a contract of thirty-one pages that both of them read aloud without a stumble. Edrec was a cheerful man with a stammer, which in Oathen is a kind of armour: people waited for him to finish, and he rarely did. He trimmed the wicks of the Hall of Conditions and the long lamps of the Ledger's record-rooms, and he loved fire the way some men love horses, for its moods.
+
+In the Lack of 610 A.G., the year Ket the Ninth was born, Edrec took a cough from the record-rooms' dust and died of it over nine days. On the last night the fire in their hearth was guttering, and he could not breathe for the smoke of the damp wood, and he asked her, signing because he could no longer talk, to keep it in. She said aloud, because she was tired and frightened and he was dying, "I will never let the fire go out." The echo came back from their own back wall. Edrec smiled and died before morning. She sat by the hearth until the next morning, and the one after, and then she understood.
+
+The first years were only hard. She fed it wood, then cedar when it began to sulk and smoke on anything else. In 619 it would not take cedar, and she fed it Edrec's shirts, one each Lack, and when the shirts ran out in 626, his letters. She burned his letters one a week for twelve years, reading each aloud before it went in, so that she would have heard them one last time. In 638, three winters ago, the fire refused the last of the paper, and burned, cleanly and with a little sigh like a contented sleeper, on a lock of her own hair that fell into it as she leaned close. She fed it the rest of her hair that winter. Since then she has bought hair: from barbers in the Breakdowns, from mothers selling their daughters' plaits, from the night-nurses of the Murmuring House who shave their patients against lice. The fire has begun to be particular even about that.
+
+#### Their Place in the Land
+
+Asha is a small, sad fixture of the upper Shadeward, known to the rope-lift men and the hair-sellers and the Cutwrights, who visit her yearly to measure the slow advance of her Appetite and to note, with professional interest, that a common-blooded woman of Cut 2 has reached Regrowth 5 by keeping one promise very hard for a very long time. The Bench has a file on her: a case of a Weight 3 oath that cannot be kept forever and cannot be released while the swearer lives, which young Clausewrights are made to study. She lives on a widow's dole from the lamp-oilers' fellowship and on what she earns minding other people's coals, since a woman who cannot leave her fire for more than an hour has become, by the logic of the canyon, the best fire-keeper in Tacit. Households going down to the Kept Rain leave their kindling-pots with her. Her hearth is never cold, and the cliff-cell around it is the warmest room on the Wall.
+
+She depends on the hair-trade, which is small, grubby and Forsworn, and on the rope-lift men who carry her purchases up. The hair-sellers depend on her more than they let on; she is their steadiest buyer, and she pays in good lacks, and she never haggles over a plait.
+
+#### What They Carry
+
+- **The tin of hair** — a lamp-oiler's dented tin with a hinged lid, stuffed with the day's ration: plaits, combings, a child's curl tied with red thread. She buys at 1 lack a hand's-weight. The fire now refuses the hair of the bitted and burns sullen on the hair of the Forsworn; it likes best the hair of people who have recently told the truth at some cost. She has not yet asked herself how it knows.
+- **Hearth-tongs** — Edrec's, iron, the grips wrapped in rag so old it has gone the texture of felt. She will use them as a weapon if anyone reaches for the fire (as a brand, 3 damage).
+- **The one-hour sandglass** — she turns it whenever she sits down, and she wakes when it runs out, every time, for thirty-one years. The glass is chipped and the sand inside is greyed with ash that got in through the crack.
+- **A cracked bellows** — wheezes like Edrec in his last week. She knows. She uses it anyway.
+- **Edrec's last letter** — the only one she has not read aloud or burned. It is folded small and kept in the front of her dress against her breastbone, and the paper is soft as cloth. She does not know what it says. She believes, on no evidence at all, that if she reads it the fire will let her go, and she is more afraid of that than of anything else.
+- **A thumb ring** — plain bone, worn to the knuckle. One oath outstanding, as the custom goes. There has only ever been one.
+- **Goose fat in a crock** — for her hands, which crack and weep in the heat. The cell smells of it under the hair.
+
+#### Wants, Fears and Secrets
+
+She wants to sleep. Not to die; she has been careful, in thirty-one years, never once to want that aloud, because of what the canyon would do with it. She wants a night's sleep, a full one, with the fire lit by someone else. She has convinced herself that if the fire is put out by another hand while she is not watching, her oath will have been kept, since she did not let it go out, and she has approached three people over the years to do it. All three came to the cell, looked at her, looked at the fire, and could not. One of them said afterward that the fire looked at him.
+
+She fears that the fire is asking for something she has not yet given. She is right. **The GM's secret** is that the fire wants Edrec himself. His body stands upright in a niche of the Witnessing Vaults, two levels below Old Sabra Wends's lantern, and what is left of him is hair and nail and a dry brown skin over bone. The fire wants the hair of his head, then the rest. Asha has dreamed of the Vaults for a month and woken each time with her hands sooty to the wrist and grit on her knees, and she has told herself it was the hearth.
+
+**The secret she does not know** is older and stranger. A fire kept unbroken in one hearth for thirty-one years has become, in some reading older than Oathen, a hearth in the full sense: a lit, warm, welcoming place where a guest might come in from the cold. On the nights she loses time, something very tall has stooped at the door of her cell and stood, patiently, looking in at the fire and at the one empty stool beside it, and gone away again before dawn. The rope-lift men have found the dust at her threshold pressed flat in a long shape, like the print of a great deal of weight standing still. Nobody has told her.
+
+#### Ties
+
+- **Old Sabra Wends** — the Keener knows Asha has come down into the Vaults in her sleep, and has twice led her back up by the elbow, and has not decided whether to tell her where she was standing.
+- **Ona Fell** — Asha once asked the Surety to stand behind her oath. Ona looked at her for a long while and said that she does not carry promises with no end.
+- **Little Rue** — the two of them sit together at the fire some evenings, two people kept by a promise past the point where it made sense, and say almost nothing. Rue brings hair from the Breakdowns, and does not take payment.
+- **Grandam Cess** — Asha has been to Knot Canyon. She came away without swearing, because the greater oath Cess offered was "to keep what I give you," and she knew exactly what she would be given.
+- **Dacey Furl** — the night-nurse of the Murmuring House sells her patients' shorn hair to Asha and cannot bring herself to take more than half the price.
+- **Brakk** — the Forsworn sell her hair through his lanes; Brakk once climbed the whole Shadeward to see what she did with it, sat by the fire for an hour, and went down without a word.
+
+#### In Play
+
+PCs meet Asha because someone has sent them to her: a client who wants a fire watched, a Cutwright who wants a report, a hair-seller who wants a parcel carried up the Wall. Or they meet her because she has chosen them. She looks for foreigners, who do not know the story, and for people who seem to her to have nothing to lose by putting out a fire. She will ask them, carefully and in handtalk, to come to her cell after dark and do a small thing for her while she sleeps.
+
+- **The Small Thing.** Asha hires the PCs to put out her fire. If they do it while she sleeps, she wakes screaming and her chest cracks along the breastbone with a sound like a dropped plate, because the god does not accept the reading. If they refuse, she asks them to fetch something from the Vaults instead, and will not say what.
+- **The Hair of the Truthful.** The fire will not take her latest purchase. It wants hair from someone who has just told a costly truth, and the only such person the PCs know is one of them. Asha asks politely, with the shears already in her hand.
+- **The Visitor.** The PCs are minding the fire for her on a night she is ill, and something tall stoops at the door and looks at the empty stool. Nobody in Tacit has seen anything like it. Nobody should invite it in. The hearth is warm, and the stool is pulled out.
+
+Under threat she is calm and grim, and fights only for the fire. Kindness undoes her; she weeps easily and silently, and then is ashamed. When the god presses, the Appetite rises in her like a cough and she clamps her burned hand over her mouth. If nobody intervenes, she takes her husband's hair from his niche before Tablenight, and the fire burns on it green and clear and smelling of him, and in the spring she goes down for the rest of him.
+
+[box: Said of Them]
+"She paid me for my girl's plait, a whole lack, and then she asked whether my girl had told the truth that week. I said I hoped so. She gave the plait back." — a mother on Fair Weight Row
+"The textbook case. A Weight 3 oath with no Exit and no term. We teach it to the clerks so they will never let a widow speak at a deathbed again." — a Clausewright of the Bench
+"Something has been standing at her door. I have seen the dust. I do not climb that ladder after dark now." — a rope-lift man of the Shadeward
+[/box]
+
+### Garl Tome — the Bitmaker
+
+> "Leather for the little ones. Iron for the ones who swear. Silver for the king. Gold for the ones below. I've made them all and I'll tell you the secret of every one: it isn't the metal. It's the fit. A bit that fits is a kindness. A bit that doesn't is a gag."
+>> — Garl Tome, to an apprentice, in handtalk, over the cooling trough
+
+[stat: Garl Tome — the Bitmaker]
+Land & Cut: Oathen · Cut 2 (common blood) · Regrowth 3 (the Taste) · Hunger 2
+Age & Station: 50; Master Bitmaker of the Bitmakers' Stair, Sunward Wall, Tacit; widower; father of Merit
+Calling & Standing: Seamer (fitting-surgeon of mouths) · Standing 4 (Master Seamer)
+Attributes: Hand 5 · Gut 4 · Lung 2 · Eye 4 · Tongue 2 · Caul 3
+Skills: Craft 6, Labor 4, Stitching 3, Endure 3, Reckoning 3, Resolve 3, Brawl 2, Clause 2, Lore 2
+Flesh 15 · Guard 14 · Armor 1 (leather apron) · Fray 4
+Attacks: hammer +7 (3); tongs +7 (2, and the target is held: Hard 14 Gut + Labor to pull free)
+Gifts: **Echo-Ear** (the Taste). **The Fitter's Hand:** with an hour and his gauges he can fit a bit to any mouth, human or otherwise. A Tome-fitted bit gives its wearer +4 to resist the Wants To Swear and To Be Heard, and a Sayer bitted by Garl in pure gold cannot speak a binding word. By touching a jaw for a moment he knows the wearer's Regrowth stage, without a roll.
+Wants: none yet (the Taste); the echo comes back to him in his daughter's voice, which he has never heard
+Knacks: Steady Hands, Strong Back
+Derangements: none
+Carries: his gauges, a kerchief, Merit's first bit, the key to the gold-press, a lump of pure gold, the Book of Mouths, a copper filing in a locket
+Dread: 1 (his workshop wall of moulded mouths)
+[/stat]
+
+#### Who They Are
+
+Garl Tome is a broad, slope-shouldered man with a beard the colour of wet rust going grey at the corners of the mouth, which he keeps covered, always, with a square of undyed linen knotted behind his head. The kerchief is a smith's habit, against sparks and the fumes of the gold-pot, but he wears it to market and to bed, and the skin beneath it is paler than the rest of his face, a pale bandit's mask over the mouth. He smells of hot metal, beeswax and the cedar oil he rubs into every finished bit. His hands are enormous and astonishingly gentle: thick-fingered, scarred white across the knuckles, steady enough to shave a tongue-plate to the width of a hair.
+
+He speaks seldom and in short, safe, verbless sentences. He signs fluently and slowly, like someone carrying a full bowl. When he fits a bit he talks the whole time in a low murmur under the kerchief, nonsense mostly, the way a farrier talks to a horse, and his customers, adults and children, find themselves calm in his hands without knowing why. His workshop wall is hung with plaster moulds of every mouth he has fitted in thirty years: children's mouths, swearers' mouths with the tongue pressed flat, the long smooth faces of the three Sayers. Visitors find the wall unbearable. Garl does not see it any more.
+
+#### Their Story
+
+Garl was born in 591 A.G. to a farrier on the canyon floor and was apprenticed at twelve, the day of his Unbitting, to Old Haskell Tome, Bitmaker, whose name he took when the old man adopted him in 610. He learned leather first, children's bits, the soft muzzles that every Oathen child wears from first tooth to twelve; then iron, for the Appetite-struck, heavy hinged things with breath-grilles and tongue-plates; then silver, for the high Tongue-lines who must be bitted at night. In 598, when the First Sayer stopped Low Shale and the Gilded Cells were dug, Haskell was summoned to make the first gold bit, and seven-year-old Garl pumped the bellows. He made his own first gold bit in 617 and has made every one since.
+
+In 611 a Sayer's gold bit was found bitten through overnight, cut with copper. She had said one word into the dark. Haskell Tome hanged himself in his workshop a month later, and the Bench recorded him as the maker. Garl took the Stair at twenty, and the name, and a great deal else.
+
+He married Lisbet Orne, a quiet copyist, in 627. She died bearing their daughter Merit in the Plenty of 629. Garl fitted the child's bit with his own hands on the day she was born, before her first cry, a thing no law required: a scrap of soft kid lined with lamb's wool, shaped on the wet clay of her tiny face. He has refitted it forty-one times as she has grown. He has never heard her voice. She is twelve this year, and her Unbitting is in the coming Plenty, in the Hall of Conditions, before the whole canyon.
+
+#### Their Place in the Land
+
+Every child in Oathen wears a bit, and a great many of them wear Tome bits, or bits made by the six workshops of the Bitmakers' Stair under Garl's mark. Every swearer in the Murmuring House wears iron he forged or approved. Every Tongue-line house on the Sunward Wall calls him up at night, discreetly, to fit silver to a son or a mother who has begun to swear in their sleep, and so he knows exactly which noble houses are nearest the Brink, and he says nothing, because silence is his trade. He fits the king's bit, gold-chased silver, twice a year, and the king watches his hands the whole time. Once a quarter he goes down beneath the Ledger to resize the tongue-plates of the three Sayers, because their tongues keep growing, and he is the only person besides the bitted, deafened guards and one Clausewright who has seen Lady Imre Dath's face this year.
+
+He holds the key to the Bench's gold-press, the only place in Tacit where pure gold may lawfully be worked, and the Bench pays him well and watches him closely. He owes them his trade. They owe him their safety. Both know it.
+
+#### What They Carry
+
+- **The gauges** — a roll of brass calipers, jaw-spreaders and tongue-measures in a felt case, and a set of soft wax blanks for taking a mould. With these he gains +2 to Craft and to any Stitching inside a mouth.
+- **The kerchief** — plain linen, changed daily, stained at the inside with his breath. Under it his lips are chapped and cracked from thirty years of not being seen.
+- **Merit's first bit** — the size of a walnut shell, soft kid gone dark and stiff, the lamb's wool inside worn to the hide. He carries it in the breast of his apron. It still smells, he swears to himself, of milk.
+- **The key to the gold-press** — iron, heavy as a hammer-head, on a chain round his neck. Losing it would be the end of his licence; giving it to the wrong person could be the end of a great deal more.
+- **A lump of pure gold** — the size of a quail's egg, assayed by the Bench and stamped. Enough for one tongue-plate. He is supposed to keep it at the press. He has carried it since the spring, for reasons he will not examine.
+- **The Book of Mouths** — a ledger of every bit he has fitted, with measurements year by year. Read by a Cutwright, it is a map of the Regrowth in every great house of Tacit; read by the Second Table, a list of targets. Worth 2,000 lacks to the right buyer and Garl's life to the wrong one.
+- **A copper filing in a locket** — a single green-black curl of copper, taken from the bitten-through bit of 611. Nobody knows he has it. See below.
+
+#### Wants, Fears and Secrets
+
+He wants to hear his daughter speak, and he dreads it more than anything else in the world. The Cutwrights' office (in the person of Cutwright Hessa Lisk, who measured Merit in the spring) has told him, in a sealed letter he has read forty times, that Merit has reached the Course of the Regrowth without ever having made a sound, exactly as the king did, and that what she says when her bit comes off may come true. A Tongue-line house has offered him a fortune to make her bit permanent: four thousand lacks and a house on the high Sunward, if he will fit her in silver before the Unbitting and swear never to remove it. He says, to anyone who asks, that silence is what love sounds like here. He has not decided.
+
+**A secret the GM can reveal:** the offer comes from House Hushwell, the king's own line, and not out of fear. Lisbet Orne was a Hushwell by-blow, which the Cutwrights know and Garl does not. A child of Hushwell blood who has never spoken is eligible for the Mute Succession, and Ket the Ninth is thirty-one, childless and at the Course. Hushwell want Merit kept silent so that she can be crowned.
+
+**A secret only Garl knows:** the copper in the bit of 611 was his. He was twenty. The Bench's gold had not come, the Sayer's tongue had grown, and Haskell was ill, so Garl cut the gold with copper to make the plate go round, and told no one, and the old man hanged himself for it. Garl has carried the filing for thirty years so that he would never forget the word that was said in the dark, which he never heard.
+
+**A secret he does not know:** at the king's fittings, while Garl works with his back turned at the brazier, Ket the Ninth has been talking to Merit in a handtalk of his own invention, quick small signs under the table. She has learned it entirely. She has decided what her first words will be, and whom they are for, and she has promised him, in his language, to say them.
+
+#### Ties
+
+- **Merit Tome** — his daughter, twelve, bright, quick-handed, dark-eyed, with her mother's long fingers. She signs at a speed he cannot follow. He would die for her and has been very careful never to say so.
+- **Ket the Ninth** — Garl fits the king's bit and pities him. He has no idea what the king and his daughter say to each other.
+- **Lady Imre Dath** — he resizes her tongue-plate every quarter. She has pressed her smooth face into his palm, twice, the way a cat does. He does not know what it means and has not told the Bench.
+- **Lord Varro Esk** — has asked him, twice, very charmingly, for a gold bit with a flaw in it. Garl refused, and has begun to bolt his workshop door.
+- **Hessa Lisk** — the Cutwright who measured Merit and wrote the letter. He hates her with a steady, workmanlike hatred, and she knows it, and still sends him a fig cake every Tablenight.
+- **Sorrin Vael** — the Chief Clausewright is his paymaster. Vael has asked Garl privately whether a gold bit can be made that releases on a word. Garl said, "Possibly." Both men lay awake that night.
+- **Dacey Furl** — he sends the Murmuring House its iron, and has begun sending it free, because Dacey told him in handtalk what the patients mouth in their sleep.
+
+#### In Play
+
+PCs meet Garl because they need a bit: for a companion whose Appetite has begun, for a captured Sayer's word, for a Brink-stage noble on the road, or for a child. Or they meet him because someone wants into the Gilded Cells, and the only man who goes there regularly, carrying tools, is the Bitmaker.
+
+- **The Unbitting.** It is three weeks to Plenty. Hushwell, Varro Esk and Hessa Lisk all want something from Merit's first words, and Garl hires the PCs to find out what his daughter is planning to say, without asking her.
+- **The Flawed Plate.** Someone has broken into the gold-press and taken a tongue-plate blank. Garl must find it before the quarterly fitting, or confess to the Bench, and if he confesses, the old secret of 611 will come up with it.
+- **A Bit for a Foreigner.** A PC begins to swear in their sleep. Garl fits them, gently, and while his hands are on their jaw he tells them, under the kerchief, what their Regrowth is, and how long they have.
+
+Under threat Garl is slow to anger and very hard to stop; he swings a hammer like a man shoeing a horse. He answers kindness with work, never with words. He fears the god the way a smith fears a forge he respects, and goes on standing next to it. If nobody intervenes, he refuses Hushwell, and on the morning of the Unbitting he takes the bit from Merit's face himself, in the Hall of Conditions, and the whole canyon holds its breath.
+
+[box: Said of Them]
+"He fitted my boy's first bit. My boy cried. Master Tome put his thumb in the bit beside the boy's tongue so he'd have something to bite. Kept it there an hour." — a goatherd's wife of the canyon floor
+"Of all the people in this city who could unmake the Gilded Cells with one bad day's work, he is the one I trust. That is precisely why I have him watched." — Sorrin Vael, Chief Clausewright, in a minute of the Bench
+"My father is not a quiet man. He is a man who is being quiet. There is a difference, and I can hear it." — Merit Tome, in handtalk, to the king
+[/box]
+
+### Yusra Thole — the Rainwarden
+
+> (She does not answer. She lifts two fingers to her throat, where the pulse moves, slowly, under the weathered skin. She holds them there while the questioner counts. It is nearly a minute before the next beat comes.)
+>> — from a Bench clerk's account of an attempted interview, Grace, 641 A.G.
+
+[stat: Yusra Thole — the Rainwarden]
+Land & Cut: Oathen · Cut 3 (Heart-line of the Rain-keepers) · Regrowth 6 (the Appetite) · Hunger 5
+Age & Station: 45; Rainwarden of the Rain Shrine at Hollow Cistern on the high basin; keeper of the Tally of the Kept Rain
+Calling & Standing: Celebrant (rite-keeper of the Rain) · Standing 4 (High Celebrant)
+Attributes: Hand 2 · Gut 4 · Lung 3 · Eye 5 · Tongue 3 · Caul 4
+Skills: Reckoning 5, Lore 4, Rites 4, Endure 4, Resolve 4, Wayfaring 3, Clause 3, Athletics 2, Search 2
+Flesh 16 · Guard 15 · Armor 0 · Fray 6
+Attacks: rain-staff +2 (3)
+Gifts: **Echo-Ear** (the Taste). **Hold to It** (the Appetite), which she uses on every cistern-oath sworn at the shrine. **The Slow Count** (Heart-line): her pulse keeps Tolm's time, not the sun's. She always knows the date by the god's reckoning, feels water in rock within a mile (+3 Search to find it), and knows three days ahead when the Kept Rain is coming. Once per session she may slow her own heart to one beat a minute, for an hour: she cannot be roused, harmed by poison, or detected as alive without a Grim 18 Eye + Stitching roll.
+Wants: **To Correct** (when she hears a falsehood about the rain, she must state the truth; she is resisting it now every hour of every day, which is why she will not hear anyone speak of the rain); **To Swear**
+Knacks: Counting Habit, Silent Supper
+Derangements: **The Count** (roused by stress: she counts her own heartbeats and cannot stop until she reaches a number, and the number is always one short of what it should be)
+Carries: the Tally, a rain-staff, a slate and chalk, a cistern-key ring, a beaker of last year's rain, a goatskin of Gullet sand
+Dread: 2 (to watch the pulse in her throat stop for a full minute, and start again)
+[/stat]
+
+#### Who They Are
+
+Yusra Thole is tall and long-boned and burned dark by the white sky of the high basin, her skin cracked at the corners of the eyes into a fan of fine pale lines from a lifetime of squinting at clouds that never came. She wears the Rainwarden's undyed grey, belted with rope, and goes barefoot on the shrine's stone because the Rain-keepers hold that the feet should feel the water underground. Her hair is cropped short and is the colour of dust. She smells of wet stone and goat, and very faintly of something mineral, like the inside of a cistern in Plenty.
+
+The thing everyone remembers is her pulse. It shows in the side of her throat, in the hollow under the jaw, a slow, heavy, rolling beat that lifts the skin like something turning over beneath a blanket. It is never faster than twenty to the minute. Since the Kept Rain came late, it has slowed. Visitors cannot stop watching it, and when it pauses, as it now does for the better part of a minute, they find they have stopped breathing too, waiting for it. When it comes, it comes with a faint, audible thud, like a fist on a felted door.
+
+She has said nothing aloud in a month. She signs only to the shrine's acolytes, and only about the cisterns. She writes nothing. She looks at people for a very long time with pale grey eyes, and they leave feeling that they have been told something, and cannot say what.
+
+#### Their Story
+
+Yusra was born in 596 A.G. to the Thole family of the high basin, one of the eleven old Rain-keeper lines whose ancestors ate the god's great slow heart at the Silent Supper. Heart-line children are born with a pulse too slow for a physician's comfort and grow up hearing, in the stillest nights, a second heartbeat under their own, enormous and far down. The Rain-keepers have always kept the Kept Rain: they swear the cistern-shares of every household in Oathen, once a year, at the Rain Shrine; they keep the Tally, a record of every Kept Rain since 1 A.G., in knotted cords and later in ink; and they wait on the high basin, at the shrine at Hollow Cistern, for the first cloud of Grace.
+
+She became Rainwarden at thirty-one, in 627 A.G., the year of Wending Pass, when her aunt Imma Thole's heart stopped for an hour during the Rain and did not, on that occasion, start again. Yusra was a good Rainwarden: precise, unshowy, tireless. She improved the Tally, cross-checking it against the Ledger's carvings and the Bench's water-minutes, and in 634 she noticed something that had escaped six centuries of keepers. The Kept Rain had always fallen on the first day of Grace by the canyon's count. But by her own pulse, which keeps the god's time, the interval between rains had been lengthening by a few hours every year for at least a century. The canyon's calendar and the god's had been drifting apart. This year they came apart by three whole days. The rain was not late. Tolm's year has grown three days longer, and the god kept its word, to the hour, by its own reckoning.
+
+She has told nobody, because she cannot lie and will not tell the truth. A god whose year grows longer is a god whose heart is beating slower. A heart beats slower when the body it drives grows larger.
+
+#### Their Place in the Land
+
+The Rainwarden is not a great office in the politics of Tacit, but it is an indispensable one. Every household in Oathen swears its cistern-share at her shrine, and a cistern-oath is held to be an oath before the god's own heart, so that stealing water is the only theft the Bench treats as a crime against Tolm. When the Rain comes she stands in the open on the high basin, her face to the sky and her throat bare, and the whole country waits for her signal, the great bronze drum of Hollow Cistern, to know that the year is renewed. This year the drum was silent for three days, and Tacit stood in the street with its faces up, and the sky stayed white.
+
+The Bench depends on her for the Tally and resents her for her silence. The Forsworn, who drink last and least, watch her with suspicion, since a Rainwarden who will not speak might be a Rainwarden hiding a drought. The Second Table watches her for another reason: if the god's heart is slowing, it is growing, and they want to know how big it has got.
+
+#### What They Carry
+
+- **The Tally** — a cedar box of knotted cords and close-written ledgers, the record of every Kept Rain for six hundred and forty years, with Yusra's own new column, in her small square hand, of the god's drift, year by year. Read by anyone with Eye + Reckoning (Grim 18), it shows the drift plainly, and anyone who works out what it means takes a Dread 3 check.
+- **The rain-staff** — a long pole of black wood shod in bronze, notched with the heights of the floods. She uses it to sound cisterns and, once, to break a thief's wrist.
+- **A slate and chalk** — she carries them and does not use them, because she does not trust what writing will do now.
+- **The cistern-key ring** — forty bronze keys on a hoop of rope, to the sealed cisterns of the high basin. The Bench's cistern-shares depend on them.
+- **A beaker of last year's rain** — stoppered with wax, kept in a felt sleeve. It is the water of a kept promise, and the shrine holds that it does not go stale. This year's was three days late. She has a second beaker of that, and she has noticed that it is very slightly warm.
+- **A goatskin of Gullet sand** — taken from the floor of the Gullet in the month she stopped speaking. It is warm to the hand all the time. Pressed to the ear, it gives a slow sound: a beat, very far off, once every minute, in time with her own.
+
+#### Wants, Fears and Secrets
+
+She wants the Bench to understand without her having to say it. She has given them the Tally, unspoken, three times; they have filed it three times. She fears what the Bench will do when it does understand, because the drafts of a Sayer's sentence already exist, and Sorrin Vael's ninety-one versions all assume the rain is a fault to be mended, not a fact to be feared. She fears, above all, that the Bench will put the question to her directly, in the Hall of Conditions, under the god's ear, and that she will answer.
+
+**A secret the GM can reveal:** the pulse in her throat keeps time with the god, and so do the other Heart-line throats of the basin. If the GM wishes to know how close Tolm is to waking, they need only ask the Rainwarden's heart. At one beat a minute, the god is dreaming. At one beat an hour, it is still. If her pulse ever quickens, it is waking.
+
+**A secret she does not know:** the second, enormous heartbeat that Heart-line children hear in the night is not the old heart. Tolm's great slow heart was eaten by Yusra's ancestors and is in her chest, and in the chests of the eleven lines. What is beating under the sand of the Gullet, a little slower every year, is a new one, grown in the bones over six centuries, and much larger than the first, and the Heart-line pulses have quietly gone over to it, the way a choir follows the loudest voice. And between its beats, if a listener lies with an ear to the sand for long enough, there is a second, softer sound, regular and patient, like a chair being drawn up to a table.
+
+#### Ties
+
+- **Sorrin Vael** — the Chief Clausewright has twice drafted a question for her that would compel a full answer without technically being a question. She has read both drafts. She has not come to Tacit since.
+- **Grandam Cess** — the old fixer visited the shrine in Carving and lay with her ear to the stone floor beside Yusra for an hour, and the two women listened together, and then Cess got up and laughed her gravel laugh and left. Yusra does not know what she heard.
+- **Halvar Stane** — the Echo-Warden is the only person she has signed to about the drift; she asked him, in handtalk, whether the canyons echo slower than they used to. He said yes.
+- **Lady Imre Dath** — the Sayer's last sentence, "The canyon wells shall not run dry this Lack," held. Yusra thinks it held only because the god allowed it. She is afraid of what a second sentence about water would do.
+- **Jessamy Quill** — the Company's notary sent a clerk to ask whether the god's promises could slip. Yusra gave the clerk a beaker of the late rain and sent him away.
+- **Lord Varro Esk** — has made a generous offer to fund a new shrine. She has not answered. She has had her cistern-keys changed.
+
+#### In Play
+
+The PCs meet Yusra as the woman they are sent to watch. The Bench, the Company, or the Second Table hires them to discover what the Rainwarden knows, by any means short of asking her a question, because nobody wants to be in the room when she answers one. They will spend days on the high basin, in the wind, watching her pulse.
+
+- **The Long Year.** The PCs find the Tally and work out the drift. Now they know what she knows, and someone in Tacit is going to ask them about it, and Oatheners, at least, cannot lie.
+- **The Drum.** The great bronze drum of Hollow Cistern sounds at midnight, in Plenty, with no one near it. Yusra rises from her pallet, barefoot, and walks toward the Gullet. She will not stop. She has not said where she is going. The PCs can follow.
+- **The Question.** The Bench summons Yusra to the Hall of Conditions. The PCs can try to keep her away, or make sure she is not asked, or be there when she answers. If the Want To Correct overcomes her, she will say, plainly, before the forty-one, why the rain came late, and the Hall's felt walls will not keep it in.
+
+Under threat she is quiet and immovable; she slows her heart and waits. Kindness she returns with water, which on the high basin is the highest courtesy there is. She does not resist the god so much as listen to it, constantly, with two fingers at her throat. If nobody intervenes, her pulse falls to one beat an hour by the first day of next Grace, and she lies down on the stone of the shrine and does not get up, and the Rain does not come at all.
+
+[box: Said of Them]
+"She came down to the floor in the spring and drank from our well and put her hand flat on the rock afterwards, a long time. Then she gave the well-woman her own cistern-share for the year. That's when we knew the rain's in trouble." — a water-carrier of the Breakdowns
+"A silent Rainwarden is a political act whether she intends it or not. I would like her to intend it. Then I could negotiate." — a Bencher of the Hall of Conditions
+"Count with her. Go on. Put your fingers on your own throat and count with her, and see how long you can stand it." — Halvar Stane, Echo-Warden
+[/box]
+
+### Grandam Cess — the Vow-Eater
+
+> "You came with a little promise in your mouth like a stone, and it hurts, and you'd like it out. Sit. I'll give you a bigger one to suck on. You won't feel the little one at all."
+>> — Grandam Cess, to a bride who had sworn herself to the wrong man
+
+[stat: Grandam Cess — the Vow-Eater]
+Land & Cut: Oathen · Cut 3 (Tongue-line, a forgotten cadet branch) · Regrowth 8 (the Course) · Hunger 6
+Age & Station: 94; keeper of the cistern-warren of Knot Canyon; oath-breaker for hire, outlawed in principle and tolerated in practice
+Calling & Standing: Clausewright (unlicensed, never examined) · Standing 3 in reputation, 0 in law
+Attributes: Hand 1 · Gut 2 · Lung 1 · Eye 4 · Tongue 5 · Caul 5
+Skills: Clause 6, Rites 5, Persuade 4, Godsign 4, Instinct 4, Lore 4, Resolve 4, Deceive 2
+Flesh 10 · Guard 11 · Armor 0 · Fray 5
+Attacks: none worth the name; a stick +1 (1)
+Gifts: **Hold to It** (the Appetite) and **Say So** (the Course). **The Greater Word:** with an hour, a willing client and an oath on the dead (Weight 5), she may lay a new, open-ended oath of service over an existing oath of Weight 4 or less: roll Tongue + Clause against 10 + (2 × the old oath's Weight). On a success the old oath is held subordinate and can no longer break the client. On a Lack, both oaths bind and the client breaks on the old one at once. Each client added gives her +1 Hunger. She can feel, as a tug in her own teeth, where every one of her clients is.
+Wants: **To Hold Others to Their Words**; **To Be Heard** (which she satisfies by lying with her ear to the floor)
+Knacks: Elder's Ear, Dowager's Patience
+Derangements: **The Voice at Table** (roused when she Partakes: a voice in the tone of the god, reasonable, which tells her to wait)
+Carries: the Knot Book, a stick of cistern-cedar, a bag of knucklebones, a clay ear-trumpet, a cup of cistern water, a child's bit
+Dread: 2 (to see her client-cords move on their own)
+[/stat]
+
+#### Who They Are
+
+Grandam Cess is very small, very old, and entirely toothless, her gums hard and pink and her jaw folded up under her nose so that her chin nearly meets it. Her skin hangs from the bones of her face in soft, fine, brown pleats, like a curtain drawn back, and her eyes inside the folds are black and wet and very quick. She wears layer on layer of shawls in canyon ochre and dust-red, and every one of them is knotted, at the fringe, with tiny tight knots of coloured thread, hundreds of them, so that she clicks faintly when she moves, like beads. She smells of cistern water, wet stone and old wool, and very faintly of the lavender she chews in place of teeth.
+
+Her laugh is the thing people remember: a wet, rattling, delighted sound like gravel being shaken in a bucket, which echoes off the cistern walls of Knot Canyon and comes back three and four times, and does not, apparently, bind her to anything. She talks a great deal for an Oathener, in a low, coaxing, grandmotherly voice full of endearments ("my duck", "my lamb", "my little debtor"), and she has the Course: what she says plainly has a way of becoming so. She is careful never to say anything plain.
+
+#### Their Story
+
+She was born Cessaly Hune in 547 A.G., to a decayed Tongue-line household so minor that it had been married out of the Cutwrights' ledgers by her grandmother's day. At twenty-four, in 571, she swore to her dying infant son, "I will never leave you," and he died that week, and was set in the Witnessing Vaults; and his death did not release her, because the promise was hers, not his. She could not leave the Vaults. Her heels split when she tried to climb the stair. She lived for a month in the niche-corridors, fed by the Keeners, until an old woman came down with a lantern and sat beside her and offered her a greater oath.
+
+The old woman was Grandam Oake, the Vow-Eater of that age, and the oath Cessaly swore over her son's bones was this: "To keep the book, and lie with my ear to the floor, and when the floor speaks, to call them all and bring them to the Gullet." The lesser oath went slack. She walked up the stair and into the sun. Oake died in 590 and left her the Knot Book and the warren and the four hundred clients in it, and Cess has added five hundred more. She has learned from the Book that Oake was given it by a Grandam Pell, who was given it by a Grandam before her, and that the first name in it, at the very front, written in a hand older than the Ledger, belongs to one of the forty who drew Tolm's tongue out on the third night of the Supper.
+
+#### Their Place in the Land
+
+Knot Canyon is a dead-end gorge a mile west of Tacit, honeycombed with abandoned cisterns cut in the Honest Age, posted as silent and avoided by the Echo-Wardens because the cisterns ring. Cess lives in the deepest of them. Her clients come by night: brides sworn to the wrong man, soldiers sworn to impossible service, merchants who swore a delivery the road will not permit, children who said something before twelve. They swear on the dead, she writes them in the Knot Book and ties a thread for them in her shawl, and they go home free. In return they owe her a vow of their own choosing, worded for them by her: "to come when called," "to give what is asked," "to carry what I hand you." She has never called one of them.
+
+The Bench considers the Greater Word heresy, since an oath subordinated is an oath the god has agreed to overlook, and the Bench prefers to believe the god overlooks nothing. But nine hundred people is a great many families, and among them are two Benchers' daughters, a captain of the Canyon Watch and the Master of the Surety House, and so Knot Canyon is left alone. Ona Fell hates her, because each client Cess frees is a principal who no longer needs a Surety.
+
+#### What They Carry
+
+- **The Knot Book** — a ledger bound in goat leather so old it has gone hard as wood, with nine hundred and some names in it and the greater oath each one swore, and at the front, in a different, ancient hand, the line of every Grandam back to the Supper. Whoever holds it can feel her clients as she does. It is worth more than Quillhouse to the wrong buyer.
+- **The client-cords** — a knot for each client, tied in the shawl-fringes. When a client strays far, the knot tightens. When a client dies, it loosens and falls off. Sometimes, in the dead of night, all nine hundred knots twitch at once.
+- **A stick of cistern-cedar** — her walking stick, carved with ears.
+- **A clay ear-trumpet** — the kind used by the deaf. She does not use it to hear people. She sets the wide end flat on the floor.
+- **A bag of knucklebones** — the bones of her son's hand, taken from his niche in 590 with the Keeners' consent, which she rolls when she is thinking. They always come up the same way.
+- **A cup of cistern water** — offered to every client; drinking it is accepting her hospitality, which she holds to be a small oath in itself.
+- **A child's bit** — soft leather, beaded, very old. Her son died too young to wear it. She bought it anyway.
+
+#### Wants, Fears and Secrets
+
+She is waiting for the floor to speak. She has slept with her ear to the stone for a year now, because the Book's oldest pages say that the Grandams have been waiting for exactly this for six hundred years, and the floor has begun, at night, very faintly, to hum. She fears being too late, and she fears being on time.
+
+**A secret the GM can reveal:** the nine hundred are not a weapon, or not only one. The first Grandam, the tongue-drawer at the Supper, heard what the god said with its last breath ("Go on. I am listening.") and took it as a debt: if the god was listening, one day it would ask for its witness back. The greater oaths are a muster-roll. When Tolm speaks again from under the sand, Cess must bring nine hundred living voices to the Gullet, and she does not know whether they are there to answer it, to drown it out, or to be eaten.
+
+**A secret she does not know:** the humming in the floor is the hum Ket the Ninth made once, alone, a year ago. Something heard it, and has been humming it back through the rock ever since, trying to learn the tune.
+
+#### Ties
+
+- **Ona Fell** — the Surety's oldest enemy. Ona has sworn never to set foot in Knot Canyon. Cess has sent her a cup of water every Tablenight for twenty years.
+- **Yusra Thole** — Cess lay beside her on the shrine floor and heard the new heart under the Gullet. She laughed because she was frightened.
+- **Brakk** — owes her: his wife was freed by Cess from her own marriage vow after his betrayal, and the greater oath she swore was "to give what is asked." Brakk does not know.
+- **Captain Renn Hold** — she went up Wending Pass once, in 630, and offered him a greater word. He would not swear. She respects him more than anyone alive.
+- **Little Rue** — Cess has told Rue she cannot help her, because a promise to never grow up is not an oath you can put something heavier on top of. That was a lie, of the careful kind. She could. She will not.
+- **Ilan's mother, Tamsa Reeve** — came to Knot Canyon and was turned away. Cess does not take oaths from the bereaved within a year.
+
+#### In Play
+
+PCs come to Cess as the only cure for an oath they cannot keep. She is warm, funny, unhurried and endlessly reasonable. She asks for nothing they would not give.
+
+- **The Calling.** One night every knot in her shawl tightens at once. The floor has spoken. Cess sends for her nine hundred, and one of them is a PC, or someone a PC loves.
+- **The Book.** A client wants the Knot Book stolen and burned, which would free nine hundred people and bind nobody in their place. Or would it? The Book's oldest page has an oath in it that nobody has read in six hundred years.
+- **The Succession.** Cess is ninety-four, and she has no successor. She wants one of the PCs.
+
+Threatened, she laughs and says something plain, and it becomes so. She answers kindness with a cup of water and a long look. Toward the god she is reverent and wary, a servant who has waited too long for the master to ring. If nobody intervenes, the floor speaks on Tablenight, and Cess sends for her nine hundred, and they walk barefoot through the dark to the Gullet without a word.
+
+[box: Said of Them]
+"She took my vow off me like a splinter. I sleep now. I owe her a thing I said I'd carry, and I'll carry it. I'd carry it twice." — a drover of the eastern canyons
+"An oath that can be buried under a bigger oath is not an oath. It is a rank. That woman has nine hundred people in rank. I would like to know what she means to do with them before she does it." — a Gorge-Warden of the Echo-Wardens
+"She's the only one in Tacit who calls me 'my lamb.' I'm sixty-three. I let her." — Little Rue
+[/box]
+
+### Captain Renn Hold — the Man at Wending
+
+> "Corporal Ansel Brock. Private Dunn Arle. Private Dunn Arle the Younger. Private Wesk. Private Tobb Inly. Private Hale Merrow. Private..."
+>> — Renn Hold, at dusk, to anyone who comes up the pass; he says the whole roll, every evening, and it takes the better part of an hour
+
+[stat: Captain Renn Hold — the Man at Wending]
+Land & Cut: Oathen · Cut 2 (common blood) · Regrowth 5 (the Appetite) · Hunger 6
+Age & Station: 48 (looks seventy); Captain of the Fourth Regiment of the Canyon Watch, never relieved; holder of Wending Pass
+Calling & Standing: Warden · Standing 4 (Captain)
+Attributes: Hand 4 · Gut 4 · Lung 2 · Eye 3 · Tongue 2 · Caul 5
+Skills: Blades 5, Endure 5, Resolve 5, Intimidate 3, Wayfaring 2, Rites 2, Search 2, Clause 1
+Flesh 17 · Guard 16 (the rusted mail binds at the shoulder) · Armor 3 (rusted mail) · Fray 9
+Attacks: sword +9 (4)
+Gifts: **Hold to It** (the Appetite). **Held:** while within Wending Pass, he cannot be moved by force, fear or Dread, and he does not sleep and does not need to. Any oath sworn to him at the top of the pass gains +1 Weight.
+Wants: **To Hold Others to Their Words** (he demands an oath of anyone who would pass)
+Knacks: Unflinching, Old Grief
+Derangements: **The Guilt That Bends the Room** (roused by success: the four hundred are in every face)
+Carries: the regimental roll, his sword, a captain's sash gone grey, the cairn-stone, a water-skin, a tin of goat-fat and rags, strap-buckles
+Dread: 3 (the road behind him)
+[/stat]
+
+#### Who They Are
+
+Up close Renn Hold is a coat of rusted mail with a man inside it who has not had enough to eat for fourteen years. He is burned nearly black by the white sky of the eastern heights, his face a dry hide stretched over strong bones, the lips cracked and scabbed, the eyes pale and red-rimmed and steady. His beard is long, matted and grey; he hacks it short with his sword when it gets in his mouth. The mail has rusted to his padding and the padding to his shirt, and the stink of him (rust, old sweat, goat-fat, the sour sweetness of a man living outdoors on scraps) carries thirty paces downwind. His captain's sash, once Watch red, is the colour of the rock.
+
+He stands very straight. He does not pace. He sits, when he sits, on the same flat stone at the head of the switchbacks, with the drawn sword across his knees, and his eyes go back and forth between the eastern approach and the road below him. His voice is a dry croak from disuse, and he uses it for three things: the roll, every evening; the demand, to every traveller; and thanks, once, when someone leaves him food. He is not mad. Travellers expect a madman and are thrown by how reasonable he is.
+
+#### Their Story
+
+Renn Hold was born in 593 A.G. in the eastern canyon town of Dun Varrow, a drover's son, and joined the Canyon Watch at sixteen. He was a good, plain officer, more feared for his patience than his temper, and in 625 he was given the Fourth Regiment, four hundred young men and women, most of them nineteen. In the Carving of 627, Reckoners came out of the Fast through the eastern canyons, hunting a Tongue-line family that had fled to the eastern estates. The Fourth was sent to Wending Pass. Under the old form, the regiment swore together at the head of the pass: "We will hold Wending Pass against all who come, until death relieves us." Renn spoke it first. The canyon gave it back nine times.
+
+He looked down at the Reckoners on the morning of the third day: a hundred of them, the best killers on the Table, coming up the switchbacks in silence. He looked at his soldiers, at their thin necks and their bitted-groove mouths, children three years past twelve. He gave the order to fall back. He stayed. They obeyed. The sound of four hundred Breakings came up from the road like a rockfall, every soldier opening at every joint by which they had bound themselves to that ground: knees, hips, shoulders, the long joints of the spine. They did not die at once. Some of them did not die at all. The Reckoners came to the top, saw one man with a sword and four hundred behind him, and went home. Their captain, Scant Hollis, is said to have been sick by the roadside.
+
+Sergeant Mags Carrow misheard the order and stayed beside him. In 629 he drafted, by himself, over a month, the only clause he has ever drafted, a release by which she could leave without breaking, and it cost her an eye. He has been alone since.
+
+#### Their Place in the Land
+
+Wending Pass is the main way through the high eastern canyons to the Rim, and the Unmade Road below it is the shortest route for Company caravans to the Vigil. Every drover, pilgrim and Company factor who uses the road must pass Renn Hold, and every one of them must swear to him: "I will hold this pass with you, for as long as you ask it of me." He looks at them a long time when they say it. Then he says, "I don't ask it," and lets them go. The oath binds for the space of one breath. He wanted them to have said it.
+
+The Canyon Watch has not relieved him because it cannot: his oath was sworn to the pass, and nothing the Bench can say will move him. The Reckoners have not come back through the eastern canyons since 627. Drovers leave him flatbread, figs, goat's cheese and water on the cairn at the bend. In the Bench's minutes he is listed as an active garrison of one.
+
+#### What They Carry
+
+- **The regimental roll** — four hundred names, on a strip of goat-leather folded twenty times, worn black at the creases. He does not need to read it. He carries it in case he forgets one, and he never has.
+- **His sword** — a Watch sword, old-pattern, notched, the edge kept bright with a whetstone and the hilt bound with strips from a dead soldier's sash.
+- **A captain's sash** — rotted grey, held together with knots. He has been offered a new one by the Watch every year. He refuses.
+- **The cairn-stone** — a pebble from the cairn at the head of the switchbacks: the line, in his reading, of the pass. Below it is the road. He crosses it every night. See below.
+- **Strap-buckles** — a pouch of iron buckles and leather straps, the kind the Breakdowns' surgeons use to hold the unstrung together. He has no business owning them.
+- **A tin of goat-fat and rags** — for the rust, and for wounds that are not his.
+- **A water-skin** — always full. He drinks little. The rest goes down the road at night.
+
+#### Wants, Fears and Secrets
+
+He wants to be relieved. He does not want to die; he wants someone with the authority to say "relieved," and mean it, and be believed by the god. He fears that there is no such person.
+
+**A secret the GM can reveal:** some of the four hundred are still alive below, on the Unmade Road, among the bones. They lie in the lee of rocks and in the hollows of the switchbacks, unstrung at every joint, their limbs held together by the straps he brings them, kept alive by the water and the bread he carries down. Every night he steps over the cairn-line to feed them, one step past the place he swore never to leave, and each night the god notes the step, and a little more of him comes open: a seam along his right side that does not close, a finger that bends backward, a knee that has begun to fold.
+
+**A secret he knows and will never say:** "until death relieves us." The Bench has always read the death as his. Renn has read the clause every night for fourteen years, and he knows the other reading. The regiment swore together. If the last soldier of the Fourth dies, the regiment is relieved by death, and so is he. He could walk down the road any night and stop bringing water. He goes down with the water every night instead.
+
+#### Ties
+
+- **Sergeant Mags Carrow** — the one who stayed. He released her at the cost of her eye and has not seen her in twelve years. He hopes she is well. He has not asked.
+- **Grandam Cess** — offered him a greater word in 630. He said no, and gave her his water, and she drank it.
+- **Scant Hollis** — the Reckoner-Captain from the Fast who led the raid. She sends no word. Every year, at the first of Carving, a single bolt with an Unfed knot on it is found driven into the cairn.
+- **Judge Thane Urrow** — the Judge has petitioned the Bench, three times, to try Renn Hold, so that he might be made to repeat his oath before the court and be found to have kept it. The Bench has refused.
+- **Halvar Stane** — the Echo-Warden walked the Unmade Road in 628 and killed the nine echoes of the regiment's oath with felt and sand. He thinks one got away.
+- **Envoy Dorian Sayce** — crosses Wending each year on his way to the Vigil and swears the oath with absolute sincerity. Renn likes him for it.
+
+#### In Play
+
+PCs meet Renn when they need to cross Wending: escorting a caravan, chasing a fugitive, carrying a treaty to the Vigil. He will not let them through until they swear. If they will not swear, he will fight, and he cannot be moved.
+
+- **The Hold at Wending.** A Company caravan must cross. Its factor will not swear to an Oathener's madness. The PCs must find a way to make an oath acceptable to both the captain and the Company, or a way past him, or a way to understand him.
+- **The Water-Carrier.** The PCs follow him down the road at night and find the living among the bones. Now they know. If they bring water, they keep the regiment alive; if they do not, they might relieve him. Mags Carrow will want to know what they saw.
+- **Relieved.** Someone has found an authority that might release him: a Sayer's sentence, a royal gesture, a dead soldier's niche. The PCs carry it up the pass. He does not believe them. He wants to.
+
+Under threat he is immovable and very dangerous, a swordsman who does not fear injury and cannot be pushed off his ground. Kindness he receives without a word and remembers forever. The god he treats as a commanding officer he does not like. If nobody intervenes, the seam along his side opens a little further each night, until one night he goes down the road and does not come back up, and the pass has nobody at the top of it for the first time in fourteen years, and something in the Unmade Road begins to crawl uphill.
+
+[box: Said of Them]
+"I swore to hold the pass with him. He looked at me like I'd given him a horse. Then he said he didn't ask it, and I went on down, and I cried the whole road to the Rim, and I couldn't tell you why." — a Company drover
+"He held. They broke. Everyone on the Bench has a view on who was right. He's the only man on the Table who doesn't." — Judge Thane Urrow
+"Every night, half an hour after the roll, there's a light going down the switchbacks. A lantern, no faster than a man can carry water." — a goatherd of Dun Varrow
+[/box]
+
+### Tavish Crook — Loophole
+
+> "Would I sell you a cask that wasn't sound? Would a man of my years risk his good name on a split stave? And if he did, what would that say about the cooper who made it, eh? What would it say about the price?"
+>> — Tavish Crook, selling Aubin Sele's twice-sold cask a third time, 640 A.G.
+
+[stat: Tavish Crook — Loophole]
+Land & Cut: Oathen · Cut 2 (common blood) · Regrowth 3 (the Taste) · Hunger 3
+Age & Station: 50; swindler, speculator, dealer in anything; a set of rooms on the middle Sunward Wall with a view of the Ledger
+Calling & Standing: Factor (free trader, unlicensed) · Standing 3 among the Forsworn fences; 1 with the Company, which has banned him from Quillhouse
+Attributes: Hand 3 · Gut 2 · Lung 3 · Eye 4 · Tongue 5 · Caul 3
+Skills: Persuade 5, Haggle 5, Clause 5, Deceive 4, Instinct 4, Filch 3, Reckoning 3, Athletics 2, Blades 1
+Flesh 10 · Guard 15 · Armor 0 · Fray 3
+Attacks: swordcane +4 (4); he has drawn it twice in his life and wept both times
+Gifts: **Echo-Ear** (the Taste). **Only Asking:** he may make a Persuade, Deceive or Haggle roll entirely in questions without ever being bound; a listener who wishes to treat his questions as promises must win Eye + Clause against his Tongue + Clause. He has never lost.
+Wants: none of the god's yet; his own is to be asked a question he cannot answer with another
+Knacks: Conditional, Little Lies
+Derangements: none (yet)
+Carries: a swordcane, a purse of sworn notes, a silver question-mark, a ledger of marks, fine clothes, a fig-sweet tin, the bit he wore as a boy
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Tavish Crook is plump in the way of a man who enjoys his dinners, with a round, rosy, clean-shaven face, merry brown eyes and a little pursed mouth that always looks about to ask something. He dresses beautifully: a coat of dyed Fatlands wool in plum and gold, a collar of white lace, rings on every finger but the thumbs, because he has no oaths outstanding, which is a joke Tacit has stopped laughing at. He smells of rosewater and fig-sweets. His voice is warm and light and constantly lifting at the end, so that everything he says hangs in the air like a hand held out.
+
+He is a delightful companion. He is interested in everybody, and he asks about their children, their trade, their troubles, and listens to the answers, and remembers them. People leave a conversation with Tavish feeling warmly understood and slightly poorer.
+
+#### Their Story
+
+Tavish was born in 591 A.G. to a pair of Slate-Clerks of the Bench, and he was meant for the Bench. At his Unbitting, in 603, before a Clausewright, in the Hall of Conditions, he was supposed to say "I am here," the safe words. He said, "Am I here?" The Clausewright laughed. Tavish did not. He was never sure, after that, that he had been answered.
+
+He failed the Examination of Exits in 611, on the eleventh hour of the day, when the examining Clausewright asked him whether he wished to continue and Tavish, exhausted, answered with another question, "Would you?", which the Clausewright judged evasive. He went into the markets that winter with nothing but a voice, and found that the voice, if it never once came to rest, could not be bound. He has spent forty years building a fortune out of questions, and he has never once in his life asserted a fact or made a promise: not to a customer, not to a lover, not to his mother on her deathbed, who asked him whether he would remember her and was answered, "How could I not?"
+
+#### Their Place in the Land
+
+Tavish lives in the gap in Oathen law. A whole Oathener cannot lie, and so a whole Oathener who hears a confident question assumes a confident answer. Tavish sells casks that are not sound, mines that do not exist, shares in caravans that never left, and every bill of sale is a page of perfectly honest questions. The Bench has prosecuted him four times. In each Breaking trial he was asked to repeat the promise he had broken, and he did, word for word, in its original interrogative form, and nothing happened. Judge Thane Urrow is said to have smiled.
+
+He is an important man in the shadow trade of the canyon. He buys Forsworn paper as a joke and sells it on as a curiosity; he fences for the Breakdowns; he runs a book on whose fingers will snap next among the handtalkers. The Second Table has used him to move money. The Bench has used him, quietly, to say things to foreign envoys that no Oathener could say. He is welcome everywhere and trusted nowhere, and he likes it that way.
+
+#### What They Carry
+
+- **A swordcane** — ebony and silver, the blade thin and very sharp. It is mostly theatre.
+- **A purse of sworn notes** — bought at a discount from issuers near default, sold on to foreigners at face. He knows exactly whose bodies back them, and how close they are to breaking.
+- **The silver question-mark** — a pendant in the shape of the hooked mark the Ledger's carvers use for a question, worn at his throat. A joke, he says. A promise, the Breakdowns say. He has never said which.
+- **A ledger of marks** — everyone he has ever cheated, with the date and the sum. He reads it at night. It is not remorse. It is the habit of a man who cannot be certain what he did unless it is written down.
+- **A tin of fig-sweets** — offered to everyone. Jude Crake and he share a confectioner.
+- **The bit he wore as a boy** — a soft leather bit with a single blue bead. He keeps it in a drawer and looks at it when he is frightened, which is more often lately.
+- **Fine clothes** — worth 150 lacks as worn, and +2 to Persuade with anyone who thinks rich men cannot be cheats.
+
+#### Wants, Fears and Secrets
+
+He wants more: more money, more marks, more proof that the god cannot catch him. He fears the day the god learns to hear what he means. The rule has always been that meaning outweighs grammar: a question meant as a promise binds as a promise. Tavish's genius is that he truly does not mean anything. Forty years of discipline have hollowed out the part of him that could. He asks, and does not intend, and so he is free.
+
+**A secret the GM can reveal:** he lost a tooth this spring. A back molar, loose one morning and gone by evening, lying in his pillow like a seed. He had said, to a widow, the night before, "Would I lie to you?" and the widow had believed him, and he had felt, for an instant, that he wanted her to, and the god heard the wanting.
+
+**A secret he does not know:** the god has begun to answer him. Things he asks rhetorically are coming true. "What if I told you there was gold under Low Shale?" he asked a Fatlands buyer in 639; in Grace a Bait pilgrim found a vein of it in the stopped valley, bright in the still river. "Would a man risk his name on a split stave?" A cooper broke over a split stave the next week. Tavish's questions are being treated as prayers, and the god, which is learning to listen to more than it used to, is granting them.
+
+#### Ties
+
+- **Cassian Wry** — the two most famous liars in Oathen, one who cannot be bound and one who will not be. They dine together once a month under guard, and it is the only honest meal either of them eats.
+- **Jude Crake** — they share a confectioner and an admiration. Jude has said that if he were ever asked to break Tavish, he would not know where to start. Tavish asked whether that was a compliment. Jude laughed.
+- **Judge Thane Urrow** — has tried him four times. Wants a fifth.
+- **Silas Amend** — the paper-broker of Tacit, his rival and occasional partner in bad notes; they despise each other with great affection.
+- **Lord Varro Esk** — has hired Tavish to ask a Sayer a question. Tavish has not yet decided whether he will.
+- **Ottoline Vant** — he is hiding her. He has not said so. If asked, he would ask why anyone would think such a thing.
+
+#### In Play
+
+PCs meet Tavish as their mark, their partner or their only lead. He knows everything going on in the shadow trade of Tacit and will tell them about it, entirely in questions.
+
+- **The Gold of Low Shale.** A rush of desperate prospectors is sneaking into the stopped valley to dig. Tavish wants the PCs to find out whether there is gold. There is, and he asked for it, and now the valley has begun to move a very little, as if it had been asked a question too.
+- **The Question for the Sayer.** Varro Esk wants Tavish to put a single question to Lady Imre Dath, on the theory that a Sayer's answer to a question might be the safest way to use her. Tavish wants the PCs along.
+- **Am I Here?** Tavish begins to fade at the edges in bright light, like Ilan. He is beginning to suspect that he never got an answer.
+
+Threatened, he talks, fast and bright and in questions, and then runs. He answers kindness with gifts and real warmth that he cannot quite express. Toward the god he is flippant and terrified. If nobody intervenes, he asks one question too many at a dinner party on the Sunward Wall ("What if this whole Wall came down?") and the god, which has learned to grant him, considers it.
+
+[box: Said of Them]
+"He sold me a cask that split the first week. I took him to the Bench. They read the bill of sale aloud. It was all questions. I paid the court fee as well." — a wine-seller of the lower Sunward
+"Tavish is the only man in Tacit who speaks the language of the Breakdowns without having broken. We should hate him for it. We like him too much." — a Splint of the Forsworn
+"He has never told me he loves me. Twenty years. He asks me, every morning, whether I know. I have always said yes." — Mistress Hanne Crook, his wife
+[/box]
+
+### Sister Verity Amn — the Thought-Bound
+
+[fiction]
+Novice: you came to us to stop speaking. Good. That was the first door. Now I must tell you about the second, and I am sorry. Do not think "I will." Do not think "never." Do not think "always," nor "I swear," nor "I would give anything." Do not think what you would do to the man who hurt you. Do not think what you would give to see your mother. When such a thought comes, think of water. Think of the grain in the wood of your cell door. Think of nothing that has a future in it. You will fail. We all fail. Fail small. — slate of Sister Verity Amn, copied by a novice of the Quiet, 639 A.G.
+[/fiction]
+
+[stat: Sister Verity Amn — the Thought-Bound]
+Land & Cut: Oathen · Cut 4 (Tongue-line, House Amn) · Regrowth 9 (the Course) · Hunger 6
+Age & Station: 52; Stillmind of the Quiet; cliff-cell on the upper Gullet
+Calling & Standing: Celebrant (the Quiet) · Standing 4 (Stillmind)
+Attributes: Hand 3 · Gut 2 · Lung 2 · Eye 5 · Tongue 4 · Caul 5
+Skills: Resolve 6, Rites 5, Lore 5, Clause 4, Godsign 4, Instinct 3, Persuade 3 (in writing), Stealth 2
+Flesh 10 · Guard 12 · Armor 0 · Fray 7
+Attacks: none; she has not struck anyone since the knife
+Gifts: **Tongueless:** immune to Breakings of the tongue. **The Unspoken Word:** a vow she thinks with intent binds at Weight 2, and breaks in her lips. Once per session she may think a plain fact about something she can see, as **Say So**, with Caul + Godsign in place of Tongue + Godsign; on any roll of doubles, success or failure, her lips seal further. **The Stillmind:** she can lead others in the discipline of empty thought; anyone who sits with her for an hour gains +2 to resist the Want To Swear for a day.
+Wants: **To Swear** (in thought; roused by fear, anger, and love)
+Knacks: Silent Supper, Unflinching
+Derangements: **The Watchers** (she believes her thoughts are being overheard; she is right)
+Carries: slate and chalk, a writing case, a silver feeding-reed, lip-salve of goose fat and honey, her own knife, the Stillmind slates
+Dread: 2 (her sealed mouth)
+[/stat]
+
+#### Who They Are
+
+Verity Amn is tall, gaunt, and holds herself like a rod. Her face is long and fine-boned, the face of the old Tongue-lines, and from her nose to her chin there is no mouth. Where her lips should be there is a smooth, pinkish band of new skin, faintly ridged where the two lips met and grew together, puckered at the right corner around a small silver ring the width of a straw, through which she drinks broth by reed. Below the seal her jaw moves, sometimes, on its own: a slow chewing, as if something were working behind the skin. Her eyes are dark, deep-set, patient and appalled.
+
+She smells of goose fat and honey, from the salve she rubs into the seal so that it will not crack. She writes on slate in a fast, beautiful, slanting hand, wiping and writing and wiping, with a sound like a rasp of breath, and her teaching is famous: the clearest, coldest prose in Oathen. She is gentle with novices and merciless with herself.
+
+#### Their Story
+
+Verity was born in 589 A.G. to House Amn, a Tongue-line of the high Sunward, and was a talkative, brilliant girl who argued with her tutors in perfect conditionals. At seventeen she reached the Appetite and swore in her sleep: small terrible things, "I will have your eyes," to her sister, through the iron. At nineteen, in 608, she went to the Quiet and took the knife to her own tongue, as Abbess Hollin Mure had, and held the stump closed with her own fingers while the sisters stitched it.
+
+That night, alone in her cell, in fever, she thought, with perfect clarity and complete intent, "I will never speak again." In the morning her lips had grown together. The Quiet's surgeon, Brother Ansgar Mote, opened them in 609 and again in 621; each time they sealed within a month. She stopped letting him. She understood, before anyone else in Oathen, what had happened: for the highest bloodlines, a promise made only in thought now binds. She has spent thirty years teaching the Quiet how not to think.
+
+#### Their Place in the Land
+
+The Quiet's cliff-cells along the upper Gullet house some two hundred sisters and brothers, most silent by vow, some by knife. Verity is the most revered of them after the Abbess, and the author of the Stillmind slates, the order's discipline of empty thought: meditation on water, wood-grain, sand; the habit of thinking in the present tense only; the long practice of noticing a vow forming and letting it fall, like a stone dropped into the river. Tongue-line families send their Appetite-struck children to her in secret, because her discipline works, a little. The Bench pretends her teaching does not exist, because if it is true, then nothing an Oathener does is private.
+
+#### What They Carry
+
+- **Slate and chalk** — the slate rimmed in cedar, worn hollow in the centre by thirty years of wiping.
+- **A writing case** — paper, ink, sand. She no longer trusts ink. Writing binds now, at half Weight, and she has seen what it does.
+- **A silver feeding-reed** — Ansgar's work, fitted to the ring at the corner of her mouth. Without it she would starve.
+- **Lip-salve** — goose fat and honey in a horn box. The seal cracks in the dry Carving wind and bleeds.
+- **Her own knife** — a short, thin, very old blade, the one she used at nineteen. She keeps it because she has thought of using it again, on the seal, and she would rather know where it is.
+- **The Stillmind slates** — nine slates of teaching, the core of her doctrine, copied by every novice. A Celebrant who studies them for a season gains +1 Resolve against Wants.
+
+#### Wants, Fears and Secrets
+
+She wants silence: her own first, then Oathen's. She fears her own mind more than anything on the Table, because she has seen what it can do. She fears love most of all, since love is all futures, and has not let herself feel it for anyone in thirty years.
+
+**A secret the GM can reveal:** the Quiet's secret texts, which she wrote, look forward to silence for the whole Table. And on the night of her fever in 608, before "I will never speak again," she thought one other thing, about her sister Laine Amn, whose eyes she had sworn in her sleep to have: "I wish she could not see me like this." Laine Amn has been blind since that night. Nobody knows why. Verity knows.
+
+**A secret she does not know:** her tongue is alive. Ansgar Mote keeps it in brine in his vault, labelled, with three hundred and ninety-nine others. Of all of them, hers has grown the most, to twice the length it was, and it moves in the jar. It mouths her thoughts. Ansgar has learned to read it, and so he knows exactly what Sister Verity thinks, every night, in her cell, and he has been writing it down.
+
+#### Ties
+
+- **Brother Ansgar Mote** — the surgeon who opened her lips twice. Her closest friend in the order. He reads her thoughts in a jar and has not told her.
+- **Laine Amn** — her sister, blind for thirty-three years, now a Bencher of the Hall of Conditions. They have not met since 608.
+- **Lady Imre Dath** — Verity believes the Sayers and she are two ends of the same road: what a Sayer says, is; what Verity thinks, binds. She has asked to visit the Gilded Cells, in writing, eleven times.
+- **Mirren Osk** — the handtalk poet came to the Quiet after her fingers broke. Verity wrote her one slate: "Now you know your poems were true. Stop writing them."
+- **Ket the Ninth** — the king reads her slates. He has sent her, through the Bench, a single blank slate with nothing on it. She has kept it on her wall for three years and does not know whether it is a question.
+- **Hessa Lisk** — the Cutwright has asked to measure her tongue. Verity wrote: "Ask Brother Ansgar."
+
+#### In Play
+
+PCs meet Verity as a teacher, when one of them reaches the Appetite or the Course and needs to learn not to think. She will tell them, on slate, what to stop thinking.
+
+- **The Novice's Thought.** A novice of the Quiet has thought something terrible about the Abbess, and the Abbess is beginning to come apart. Verity wants the PCs to find out what was thought.
+- **The Jar.** The PCs learn about Ansgar's vault. If Verity finds out that her tongue is reading her mind to a man she trusted, the thought she has about it will bind, and it will not be a small one.
+- **The Second Door.** The Bench wants Verity silenced, or recruited to teach the Sayers. Sorrin Vael would like the PCs to deliver the offer.
+
+Under threat, she thinks of water, very hard. Kindness frightens her; she writes "thank you" with great care, because gratitude is a kind of debt. Toward the god she is a fighter who has learned that every punch lands on herself. If nobody intervenes, she learns of the jar, and thinks, with all her strength, "I wish I had never had a tongue," and Oathen discovers what a Course-stage Tongue-line's wish can do to a past.
+
+[box: Said of Them]
+"She taught me to think of water when I want to swear. It works. Now I'm frightened of water." — a Tongue-line boy of fifteen, in handtalk
+"There's no mouth. Just skin. And then you see the jaw moving behind it, and you understand she's still trying." — a Bait pilgrim at the Gullet
+"I think the Sister is the most honest person in Oathen. She can't even lie to herself." — Brother Ansgar Mote
+[/box]
+
+### Envoy Dorian Sayce — the Believed
+
+> "You will hear many things in Lastgate, and in Gristmoot, and on the piers of Brinehollow. You will hear them said with great confidence, by people who will walk away from you whole. Hold this to your nose. Breathe through it. Remember that they cannot help it, and that you can."
+>> — Dorian Sayce, handing a vinegar kerchief to a new secretary
+
+[stat: Envoy Dorian Sayce — the Believed]
+Land & Cut: Oathen · Cut 3 (Tongue-line, House Sayce) · Regrowth 5 (the Appetite) · Hunger 4
+Age & Station: 50; Envoy-at-Large of the Mute Crown to the lands of the Rim
+Calling & Standing: Clausewright · Standing 4 (Senior of the Bench; diplomatic immunity in three lands)
+Attributes: Hand 2 · Gut 2 · Lung 3 · Eye 4 · Tongue 5 · Caul 4
+Skills: Clause 5, Persuade 5, Lore 4, Instinct 4, Resolve 4, Wayfaring 3, Blades 2, Haggle 2
+Flesh 10 · Guard 15 · Armor 0 · Fray 4
+Attacks: court-sword +4 (4)
+Gifts: **Echo-Ear** (the Taste). **Hold to It** (the Appetite). **The Believed:** anywhere on the Table, a plain statement of fact he makes is believed by everyone who hears it, without a roll, unless they have Caul 4 or more and a reason to doubt. A treaty he witnesses abroad carries a faint Oathen binding: a signatory who breaks it rolls Caul + Resolve (Hard 14) or suffers 1d6 Flesh and a small apt injury.
+Wants: **To Correct** (abroad, he hears falsehoods hourly; each is a wave of nausea)
+Knacks: Table Manners, Smell of Cedar
+Derangements: **The Unclean** (roused by touching a foreigner who has lied: he washes his hands in vinegar until they crack)
+Carries: a vinegar kerchief, credentials, a writing case, six thumb rings, a little book bound in green, a travelling bit of silver
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Dorian Sayce is the best-dressed man on the Rim Road: silver hair swept back and oiled with cedar, a long pale clever face, a coat of black Brinehollow wool cut so close it looks painted on, a white Tongue-line collar high to the jaw, and on his thumbs six rings, one for each treaty he carries. He moves like a dancer and stands like a post. He smells, always, of vinegar, from the kerchief he holds to his nose whenever a foreigner boasts, and under it, of cedar and clean linen.
+
+His voice is soft, dry, and terribly exact, and he speaks foreign tongues with an Oathener's care, each sentence weighed and weighted. Abroad, his silences are famous: he will let a Fatlands Board-member promise him the moon and say nothing for a full minute, and then say, "I see," and the Board-member will find himself, inexplicably, apologising.
+
+#### Their Story
+
+Born in 591 A.G. to House Sayce, a Tongue-line of envoys, Dorian was trained from his Unbitting to speak to liars. He was posted to the Rim at twenty-four and has spent twenty-six years abroad, in every capital of the Table, carrying treaties east to be sworn and bringing back the tithe. He has never lied. Not once, not even abroad, where it would cost him nothing: not to the Regent Ansel Grue, not to the Board of Plenty, not to a dying Unfed child in Wanting who asked if she would see her mother. It is the core of his power. He is the only diplomat on the Table that every government believes.
+
+Last spring, in Lastgate, a Kept woman of the Mortuary Court, her face held on with gauze, asked him whether she looked well. And Dorian Sayce, who was tired and far from home and had been told nine hundred lies that month, said "You look well," and walked away whole, and felt a lightness he had not felt since he was a boy.
+
+#### Their Place in the Land
+
+Dorian is Oathen's honesty sent abroad: the proof that an Oathener's word can be trusted on any soil. He carries the Crown's treaties between capitals, witnesses foreign contracts for the Company where Jessamy Quill cannot reach, and reports to the Bench on every land's Regrowth, which he observes with clinical disgust. He comes home twice a year, crossing Wending Pass, swearing the captain's oath with complete sincerity, and spends a month in Tacit in a felted room recovering from foreigners. The Bench relies on him utterly. He relies on the Bench to keep him from what he is becoming.
+
+#### What They Carry
+
+- **The vinegar kerchief** — white linen soaked in fen-vinegar from Sallowreach, the only thing he admires about the place. Gives +1 to resist Dread from rot and smell.
+- **Credentials** — a case of letters under the king's seal and the Bench's, granting him immunity in Sallowreach, the Vigil and Brinehollow.
+- **Six thumb rings** — one per treaty he carries in his own body; if any of them is broken by Oathen, he breaks with it.
+- **A travelling bit of silver** — Garl Tome's work, for nights when the Appetite presses.
+- **A writing case** — and inside it his dispatches, in the Bench's cipher, which do not technically assert anything.
+- **A little book bound in green** — see below.
+
+#### Wants, Fears and Secrets
+
+He wants to come home and stay. He fears that he cannot: that the discipline he has kept for twenty-six years among liars is wearing thin, and that he likes the feeling of it wearing.
+
+**A secret the GM can reveal:** the little green book is a record of lies. Since last spring he has told nineteen, all abroad, all small, all kind ("You look well." "It is not your fault." "I am sure he loved you."), and he has written each one down, with the date and the place, because he is an Oathener, and something said must be recorded.
+
+**A secret he does not know:** his lies have come true. The Kept woman in Lastgate looked well the next morning: the rot had drawn back from her cheekbones and the gauze was no longer needed. The widow in Gristmoot whose husband he swore had loved her found his letters that week. Dorian is not lying abroad. He is Saying. His Regrowth has outrun the Cutwrights' reckoning, the god goes with him across the border, and every kind untruth he tells makes the world fit itself to him, a little. He has begun to enjoy lying at exactly the moment that lying has become the most powerful thing he can do.
+
+#### Ties
+
+- **Captain Renn Hold** — Dorian swears the captain's oath twice a year and means it. They do not speak beyond that. It is the friendship of his life.
+- **Cassian Wry** — the Blank liar fascinates and repels him. Cassian has asked him, every time they meet, to tell one lie. Dorian has never obliged. He is now afraid of what would happen if he did.
+- **Jessamy Quill** — the notary and the envoy are the two pillars of Oathen's trust abroad. They distrust each other completely.
+- **Lord Varro Esk** — a cousin by marriage. Varro has asked him to carry a letter to the Second Table's people in the Fatlands. Dorian refused. Varro asked whether he was sure. Dorian found he was not.
+- **Little Rue** — he brings her sugared almonds from the Fatlands every year. She is the only person in Oathen he lets call him by his first name.
+
+#### In Play
+
+PCs meet Dorian on the Rim Road, needing an escort through dangerous country to deliver a treaty to Oathen before Tablenight. He will not thank them, because thanks implies a debt; he will pay them well and on time.
+
+- **The Escort.** A treaty in his case would bind two lands against a third. Someone on the road wants it gone, and someone else wants Dorian to tell a lie in front of witnesses, to destroy his credit forever.
+- **The Green Book.** The book is stolen. Whoever reads it will know the Table's most trusted man has lied nineteen times. Whoever understands it will know what his lies can do.
+- **The Kind Lie.** A PC is dying, or a PC's loved one is. Dorian sits by the bed. He knows, now, what would happen if he said, "You will be well." He wants to say it. So does the god.
+
+Under threat he is cool, quick, and better with the court-sword than he lets on. Kindness unsettles him, because he cannot return it without owing. Toward the god he is correct and distant. If nobody intervenes, he tells one lie too large on foreign soil, at a treaty-table in the Vigil, and the Table discovers that Oathen's most honest man can reshape the world by misleading it.
+
+[box: Said of Them]
+"He told our Regent that the treaty would hold. Our Regent has been lied to for three hundred years. He believed it, on the spot. I have never seen that face on him." — a clerk of the Mortuary Court, Lastgate
+"Sayce doesn't haggle. He states a price, and you pay it, because you know it's fair. It's the worst afternoon of any Factor's year." — a Rim Road Company Factor
+"He gave me almonds and asked about my health. I said, 'Unchanged.' He said, 'I am glad.' I've known him forty years. That's the first time I've believed he was lying." — Little Rue
+[/box]
+
+### Ilan — the Oath-Child
+
+> (The boy is sitting on the step. When asked his name, he signs it: a fist touched to the chest, then the hand opened outward, which in nursery handtalk means *promised*. Asked where his father is, he looks for a long time at his mother's hand on his shoulder, and does not sign anything.)
+>> — from the notes of Cutwright Hessa Lisk, Grace 641 A.G.
+
+[stat: Ilan — the Oath-Child]
+Land & Cut: Oathen · Cut — (Oath-Made; no blood of his own) · Regrowth — · Hunger —
+Age & Station: 9 (he has existed for nine years); son of Tamsa Reeve, water-carrier, and the late Corram Reeve; the lower Shadeward Wall, Tacit
+Calling & Standing: none; a child
+Attributes: Hand 2 · Gut 1 · Lung 3 · Eye 4 · Tongue 1 · Caul 4
+Skills: Stealth 4, Search 3, Instinct 3, Athletics 2, Lore 1
+Flesh 9 · Guard 15 (17 in bright light) · Armor 0 · Fray 3
+Attacks: none
+Gifts: **Promised:** he exists only while the promise that made him is held. **Fading:** in bright light he is faint at the edges; anyone who has not seen him in a day must roll Eye + Instinct (Hard 14) to remember his face or his name. **The Listening Room:** he hears everything said in the house twice, once with his ears and once from somewhere else.
+Wants: **To Be Promised** (the Oath-Made's want: when he fades badly, he must seek a promise from someone near; see In Play)
+Knacks: Silent Supper, Hostage's Smile
+Derangements: none
+Carries: his bit with his father's bead, a wooden goat, his father's thumb ring on a string, a child's slate
+Dread: 2 (3 when you realise you cannot remember his face)
+[/stat]
+
+#### Who They Are
+
+Ilan is a quiet, small, dark-haired boy of nine with a soft leather bit across his face, beaded in the blue and brown of his father's water-carriers' fellowship, and above it his father's eyes, large and grey and solemn. He is polite in the careful way of Oathen children, bowing to his elders, signing small and neat. He smells of soap and dust and the well. He is gentle with animals and good at finding lost things.
+
+Since the spring he has been difficult to see. In the white noon of the canyon his edges blur, like a figure seen through heat over stone, and his shadow is a little too pale. His teacher missed him at roll-call three times in Grace and could not, afterward, recall having a pupil by that name. His mother keeps her hand on his shoulder at all times, and where her palm rests, he is perfectly clear.
+
+#### Their Story
+
+Corram Reeve, a water-carrier of the Shadeward, married Tamsa Weld in 609, and for twenty years they had no child. In the Lack of 631, as Tamsa wept in their cell over the last of her bearing years, Corram knelt by her and said aloud, before the echo, "I promise you a son." She had been past bearing for two years. There was no pregnancy and no birth. There was, on the morning of the first day of Grace in 632, a small boy at their table, eating flatbread, wearing a bit that fitted him, whom both of them had always known. His cot was in the corner, and had always been. The neighbours remembered his first steps. There are no birth records, and the Bench, when asked, filed the matter.
+
+He has been a good son. In the spring of 641 Corram slipped on the rope-stair in the wet of the late Rain and fell to the floor of the canyon. A death in Oathen releases the dead person's oaths. Ilan began to fade the week of the funeral.
+
+#### Their Place in the Land
+
+Ilan has no place in any institution, and that is part of the horror: there is no Bench clause for a child who is a sentence. The Cutwrights' office knows of a dozen Oath-Made in Oathen's history and has recorded how each one ended. Hessa Lisk has come three times to measure him and has not told Tamsa what she found. The water-carriers' fellowship pays for his schooling out of respect for Corram, and the other children are kind to him, when they remember him.
+
+#### What They Carry
+
+- **His bit** — soft kid, beaded blue and brown, with one bead of red glass that was his father's from his own childhood bit.
+- **A wooden goat** — carved by Corram, one leg mended. He holds it at night.
+- **His father's thumb ring** — bone, on a string round his neck. Corram's one outstanding oath, kept: the ring was for Ilan.
+- **A child's slate** — on which he draws, over and over, a large room with a great many ears in the walls.
+
+#### Wants, Fears and Secrets
+
+He wants his father back, and his mother to stop being afraid. He fears the room he goes to when he fades.
+
+**A secret the GM can reveal:** Ilan remembers before. Not much: a long time of being nothing, in a very large quiet place, listening. He remembers his father's voice saying the promise, and that it was the first sound he ever heard, and that he came toward it. He is made of the god's attention, shaped around a man's word. When he fades, he goes back to the listening room, and something there is glad to see him.
+
+**A secret he does not know:** the promise can be renewed. If anyone, before a witness, says to Tamsa, "I promise you a son," and means it, Ilan will be theirs as he was Corram's: bound to that person, alive as long as they keep the promise and live. Or Ilan himself, fading, may ask a stranger to say "I will look after you," and live on, bound to them, forever.
+
+#### Ties
+
+- **Tamsa Reeve** — his mother, fifty-nine, worn thin with fear, never lifting her hand from his shoulder. She has gone to Grandam Cess and been sent away.
+- **Old Sabra Wends** — the Keener of the Vaults, who keeps his father's niche; Tamsa wants to swear on Corram's bones there, and Sabra has asked her, very gently, whether she is certain.
+- **Hessa Lisk** — the Cutwright has measured him and is writing a paper. She is also, privately, trying to save him.
+- **Little Rue** — another child who is not quite one; she taught him a nursery sign for "still here," and he uses it every morning.
+
+#### In Play
+
+PCs meet Ilan when his mother begs them for help: an oath sworn on her husband's bones that will keep her son. Any PC who looks at the boy long enough must decide what they would swear for him.
+
+- **The Oath on the Bones.** Tamsa wants the PCs to help her swear on Corram's bones in the Witnessing Vaults. The oath she wants to swear ("I will keep him") may hold. It may be read as the end of her own life, held to a boy forever. Sabra Wends will want to talk first.
+- **I Will Look After You.** Ilan, fading badly in the noon light of the market, takes a PC's hand and signs, very slowly, "Will you look after me?" If the PC says yes, aloud, the boy is theirs.
+- **The Listening Room.** Ilan fades altogether for an afternoon and comes back with sand in his hair, hot to the touch, from the Gullet. He says, in handtalk, that the room is getting bigger.
+
+He meets threat by hiding, very well. He meets kindness with a bow, and with his whole heart. The god he knows as the quiet place where he waits. If nobody intervenes, he fades a little more each week until, on Tablenight, in the dark and silence that is the happiest day of the Oathen year, his mother's hand closes on nothing, and she cannot remember what she was holding.
+
+[box: Said of Them]
+"There's a boy in my class. I think. I keep a seat for him. I write his name at the top of the slate so I'll know it." — a schoolmistress of the Shadeward
+"He finds things. My grandson's lost bead, a goat that had wandered off the ledge. He just walks to them. Like he's been told where they are." — a neighbour
+"I said I'd look after him. In my head, I said it. I didn't say it aloud. I keep wondering if that counts." — a Company Factor who met him once
+[/box]
+
+### Ottoline Vant — the Carver with a List
+
+> "Not. Never. Four letters against five. One stroke of the chisel I didn't need, and he came apart in his bed that night, and they told me writing doesn't count. Then I went looking. Do you want to see the list? Don't read it aloud."
+>> — Ottoline Vant, in a back room of the Breakdowns, to a stranger she had decided to trust
+
+[stat: Ottoline Vant — the Carver with a List]
+Land & Cut: Oathen · Cut 2 (common blood) · Regrowth 4 (the Appetite) · Hunger 4
+Age & Station: 30; Scribe of the Ledger, licence suspended; fugitive
+Calling & Standing: Clausewright (Ledger-carver of the Bench) · Standing 2 (Drafter), revoked
+Attributes: Hand 4 · Gut 3 · Lung 4 · Eye 4 · Tongue 2 · Caul 3
+Skills: Craft 5, Athletics 4, Lore 3, Search 3, Stealth 3, Endure 2, Reckoning 2, Blades 1
+Flesh 13 · Guard 18 · Armor 0 · Fray 6
+Attacks: chisel +5 (2); carver's mallet +4 (3)
+Gifts: **Echo-Ear** (the Taste). **Hold to It** (the Appetite). **The Fresh Cut:** she can tell to the season when any letter of the Ledger was cut, and by whose hand, by the tooling (no roll for her own trade's work). What she carves on the Ledger now binds its subject at the full Weight of the recorded oath; she does not yet know this.
+Wants: **To Correct** (when she sees a miscut, she must fix it, with whatever she has)
+Knacks: Steady Hands, Counting Habit
+Derangements: **The Watchers** (roused when alone with strangers; the Canyon Watch is, in fact, looking for her)
+Carries: the list, a roll of chisels, a mallet, rubbing-paper and charcoal, scaffold rope and harness, a wax tablet
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Ottoline Vant is lean and hard, burned the colour of the cliff by years on the Ledger scaffolds, with the long ropy arms and broad shoulders of a carver and the calluses to match. Her hair is chopped short and full of stone dust that never quite washes out. Her eyes are narrow from squinting into the white face of the rock. She smells of dust and sweat and the linseed oil carvers rub into their mallet-hafts. She moves lightly, always half-crouched, as if she were still on a plank fifty feet up, and her hands are never still: tapping, tracing letters on her thigh, picking at the dust in the grain of a table.
+
+She talks quickly, for an Oathener, and catches herself mid-sentence, and starts again with an Exit. Since the miscut she has not carved a single letter, and the absence is visible: her fingers keep reaching for a chisel that is not there.
+
+#### Their Story
+
+Born in 611 A.G. to a family of Ledger carvers, the Vants, who have cut the public vows of Oathen into the four-mile cliff for six generations, Ottoline went up on the scaffold at fourteen and was a journeyman at twenty. She was fast, clean and proud. In the Carving of the Year in 640, working by lamplight through the night with the rest of the carvers, she cut the sentence of a grain-factor named Pellam Oxe: that he would not trade in Carving water before the Rain. She cut "never" where the draft read "not." He traded, lawfully, after the Rain had come, and that night his throat split lengthwise in his bed, the grievous Breaking for a vow of abstention, and he lived, and he cannot speak.
+
+Writing is not supposed to count. The Bench said coincidence. Ottoline went back to the old carvings, at night, with rubbing-paper, checking the Ledger against the Bench's sealed drafts. She has found eleven errors in two hundred years: a word added, a word changed, a "until" made "after." All eleven people named broke on the night the carving was done. The Bench recorded each as coincidence, and the eleventh entry in that record is in a clerk's hand she recognised. When she asked the Bench to look, the Canyon Watch came to her family's cell with a warrant. She went out the back, onto the scaffold, and down the rope, and she has been gone since.
+
+#### Their Place in the Land
+
+The Ledger is the memory of Oathen, and its carvers are a quiet, proud, inbred trade, swearing before they climb that they will cut true. They answer to the Office of the Fair Copy, a department of the Bench whose clerks prepare the drafts each Carving and sign each order with the office's seal. Ottoline was one of perhaps sixty journeymen. Now she is a fugitive in the Breakdowns, hidden by Tavish Crook, carrying a list that could break the Bench's claim to justice.
+
+#### What They Carry
+
+- **The list** — eleven names, dates, and the miscut words, in her own small hand on oiled paper, with rubbings. Read aloud, it might bind its reader; she has never tested it.
+- **A roll of chisels** — her own, from her apprenticeship. She has not used them since 640. She takes them out and oils them every night.
+- **Rubbing-paper and charcoal** — for taking impressions of the carvings, in the dark, from a rope.
+- **Scaffold rope and harness** — a carver's, sixty feet, knotted every foot, and a canvas sling. She can climb the Ledger by night with it.
+- **A wax tablet** — sold as "write without binding." She bought it in 640 to write her list. Her thumb split the first night she wrote on it, along the ball. She switched to paper.
+
+#### Wants, Fears and Secrets
+
+She wants the truth carved. She fears that she is the twelfth: that her own miscut was not hers.
+
+**A secret the GM can reveal:** it was not. The draft she was handed by the Office of the Fair Copy read "never." She carved what she was given and believed, ever after, that her hand had slipped. The eleven earlier "errors" were orders too. For two centuries, the Office of the Fair Copy has quietly broken people the Bench could not lawfully try, by altering a single word of their public vow before it was carved. Pellam Oxe was refusing to sell grain to a Bencher's household.
+
+**A secret she does not know:** writing now counts, and so does carving. If she climbs the Ledger and corrects the miscuts, as the Want To Correct urges her to every time she sees one, the corrected vows will bind again, in their true form, at full Weight. Some of the eleven are dead. Some are alive, broken by words they never swore. And the horror table's whisper is true: someone at the Office has begun to carve again, and there is a fresh mark on the Ledger beside a name that the PCs will know.
+
+#### Ties
+
+- **Tavish Crook** — hides her in rooms he would never admit to renting. She does not know why. Neither, entirely, does he.
+- **Pellam Oxe** — the grain-factor with the split throat. He writes to her, by way of the Breakdowns, every week. The letters are not angry.
+- **Jude Crake** — the Bench may yet give her to the Breaker. Jude has read her list; Tavish showed him. Jude asked for a fig, and was very quiet.
+- **Judge Thane Urrow** — the Judge would give a great deal for her list, and for a trial of the Office of the Fair Copy.
+- **Brakk** — the Forsworn want her as a witness at the Gathering of the Broken; the list proves the Bench breaks people on purpose.
+- **Halvar Stane** — knew her father. Would take her out through the posted gorges if she asked.
+
+#### In Play
+
+PCs meet Ottoline as a fugitive, carrying her list. She needs to get it to someone who will act: the Judge, the Forsworn, the Company, a foreign envoy.
+
+- **Down the Rope.** The Canyon Watch has found Tavish's rooms. Ottoline goes out of a window onto the face of the Sunward Wall, and the PCs go with her or after her.
+- **The Correction.** At night, on the scaffold, Ottoline begins to cut. The PCs must decide whether to stop her before the first corrected vow binds a living man who has been broken for twenty years by a word he never said.
+- **The Fresh Mark.** A new miscut appears on the Ledger, below a PC's name, in a vow the PC swore at Quillhouse. It will be carved in full tomorrow night.
+
+Under threat she runs, climbs, and fights dirty with a chisel. Kindness makes her suspicious, then fiercely loyal. Toward the god she is a craftsman toward her material: it has rules, and she will learn them. If nobody intervenes, the Watch takes her by Carving, and the Bench gives her an hour with Jude Crake, and the list is never read aloud.
+
+[box: Said of Them]
+"Best journeyman on the east face. Cut a vow like she was combing hair. Then she stopped. It was like watching a bird forget how to fly." — a carver of the Ledger
+"I believe her. Writing is not supposed to count. The god doesn't care what we suppose." — Pellam Oxe, in a letter
+"She came to us with eleven names and dust in her hair. She asked for a candle and a quiet room. We gave her both. In the Breakdowns, that's a promise." — a lane-boss of Never Alley
+[/box]
+
+### Jude Crake — the Breaker
+
+> "Don't be frightened of me. I don't have a knife. I never have. I've only come to talk, and to bring you something sweet, and to keep you company for a little while, so that you aren't alone at the end of it. That's all. Shall I turn the glass?"
+>> — Jude Crake, at the beginning of every hour
+
+[stat: Jude Crake — the Breaker]
+Land & Cut: Oathen · Cut 3 (Tongue-line, bastard) · Regrowth 7 (the Course) · Hunger 5
+Age & Station: 44; Breaker of the Bench of Clauses, executioner of the realm; sentenced to the office for life
+Calling & Standing: Clausewright · Standing 3 (Clausewright; he witnesses executions in the king's name)
+Attributes: Hand 2 · Gut 2 · Lung 2 · Eye 5 · Tongue 6 · Caul 4
+Skills: Persuade 6, Deceive 5, Clause 5, Instinct 5, Resolve 4, Lore 3, Reckoning 2
+Flesh 10 · Guard 12 · Armor 0 · Fray 2
+Attacks: none; he owns no weapon
+Gifts: **Echo-Ear**, **Hold to It** and **Say So** (to the Course). **The Hour:** in conversation, Jude can extract one oath per ten minutes (Tongue + Persuade vs the target's Caul + Resolve + 10); each is small, and each is crafted to tangle with the last. When two of his gathered oaths collide, the target breaks on both at once, and the second Breaking lands at +1 Weight.
+Wants: **To Hold Others to Their Words**
+Knacks: Hostage's Smile, Gallows Laugh
+Derangements: none; this is the thing about him that frightens the Bench most
+Carries: the hour-glass, a basket of figs, a clean cloth, a little notebook, a stave-hammer, a letter he has not sent
+Dread: 3 (when the hour-glass is turned)
+[/stat]
+
+#### Who They Are
+
+Jude Crake is the least frightening-looking man in Oathen. He is round-faced and soft-bodied, with thinning brown hair, plump pink hands and kind, wet, brown eyes behind which something is always quietly working. He dresses like a respectable clerk, in plain dun wool with a white collar, and he smells of figs and clean linen and very faintly of other people's fear. He is always slightly short of breath, as if he had come up a stair. His voice is soft, warm, and unhurried, and when he speaks to you, you are the only person in the world.
+
+He likes people. That is the dreadful thing about him, and it is not an act. He remembers the names of his condemned's children. He asks about their trades and listens to the answers. He laughs at their jokes. The smallest finger of his left hand has no nail; he lost it, the Ninth Room's record says, telling a small kind lie to a cooper who was about to die.
+
+#### Their Story
+
+Jude was born in 597 A.G. to the wife of a cooper on the canyon floor, and he was the child of a Tongue-line lord whose name his mother never said. The cooper, Hobb Crake, raised him and taught him to bend staves, and beat his mother when he drank. In 617, at twenty, Jude killed him with a stave-hammer in the steaming shed. Asked "Did you do it?" before the Bench, he said "Yes," and was given to the Breaker.
+
+The Breaker of that day was Amon Sallet, a stern, decent, careful man. Jude talked to him for the hour. He talked about staves, and oak going soft in the steam, and his mother, and Amon's daughter Pell, whom Amon mentioned once and Jude remembered. At the fifty-first minute, Amon Sallet promised to spare him. His own oath of office, Weight 4, "I will finish every one given me," broke at once, his hands opening at the palms and his chest at the breastbone, and the second oath he had sworn that evening, which Jude had led him into without his noticing ("I'll see you out of here"), broke on the first, and he died on the floor of the Ninth Room before morning. Jude held his hand.
+
+The Bench, appalled and impressed, could not execute a man whose Breaker had died sparing him without a scandal it did not want. It commuted Jude's sentence into service: he swore, before the forty-one, "I will break those the Bench gives me, until I die." He has been the Breaker for twenty-two years. It has never taken longer than an hour, except once, last Carving, with the cooper Aubin Sele.
+
+Before he left the Ninth Room that first morning, he knelt by Amon's six-year-old daughter, who had been brought to see her father, and said, "I'll come and see you, when I'm able." He has never been able. The Exit holds as long as that is true.
+
+#### Their Place in the Land
+
+There are no prisons in Oathen. Most sentences are sworn and enforced by the god. The gravest crimes, murder, treason, betrayal of a sworn trust, end in the Ninth Room beneath the Ledger, with Jude Crake, an hour-glass, a bitted clerk and a Surety-witness. He is the state's final word. He is also, by statute, a Clausewright, and he serves the Bench as a consultant on how a vow can be made to fail: what words collide, what Exits can be closed. Benchers consult him before drafting a Sayer's sentence. He is paid like a Bencher and lives alone, in two felted rooms beneath the Ledger. Nobody visits.
+
+#### What They Carry
+
+- **The hour-glass** — brass and old glass, the sand dyed red. It was Amon Sallet's. Turning it in front of anyone who knows what it is calls for a Dread 2 check.
+- **A basket of figs** — fresh in Plenty, dried the rest of the year, from a confectioner on the Sunward he shares with Tavish Crook. He always brings some. Most of the condemned eat one.
+- **A clean cloth** — linen, folded square, for the blood. It is always clean when he arrives.
+- **A little notebook** — the names of everyone he has broken, and of their families, with notes: "daughter, Wenna, red ribbon on her bit." He reads it before sleeping.
+- **A stave-hammer** — Hobb Crake's. He has not used it since 617. He keeps it to remember the only time he chose the other way.
+- **A letter he has not sent** — to Pell Sallet, written in 625 and sealed and never posted. Sending it might count as being able. He knows.
+
+#### Wants, Fears and Secrets
+
+He wants to be kind, and he is, in the only way the canyon permits him. He believes he is merciful: no blade, no fear of the blade, only conversation. He fears the hour running long. Last Carving it did, and he found he had enjoyed the extra forty-one grains of sand.
+
+**A secret the GM can reveal:** he was condemned, and talked his own Breaker to death. The rumour is true, and the Bench has buried it, because a Breaker who was once a murderer is a scandal, and a murderer who was made a Breaker because he was good at it is something worse.
+
+**A secret he does not know:** at the Course, plain statements begin to come true for him, and he has been making a great many of them for years, softly, to the condemned: "You'll be all right." "It doesn't hurt very much." "She'll be well." He believes those are the small lies that cost him a nail now and then. Some of them were Sayings. Wenna Sele is well, and her father, broken to pieces in the Ninth Room, did not feel nearly as much as he should have. Jude has been, in a small and terrible way, sparing them all along, and does not know that his kindness has been working.
+
+#### Ties
+
+- **Pell Sallet** — the Breaker's daughter. Now thirty, and a Keener of the Witnessing Vaults. He promised to visit. He has walked to the head of the Vaults' stair nine times.
+- **Tavish Crook** — friend, confectioner's companion, the one man in Oathen Jude could not break.
+- **Ottoline Vant** — he has read her list. He knows the Office of the Fair Copy. He has helped them draft.
+- **Sorrin Vael** — consults him on the Sayer's sentence. Jude has pointed out eleven ways that ninety-one versions could kill everyone in the room.
+- **Judge Thane Urrow** — every condemned man the Judge sends him, the Judge visits first, and leaves a fig. They have never spoken about it.
+- **Brakk** — the Forsworn leader has sworn, on his own open heart, to see Jude in the Ninth Room one day as the condemned. Jude has said he would like that very much.
+
+#### In Play
+
+PCs meet Jude as someone's last visitor, or their own. He is pleasant, interested, and in no hurry. He would like to know about them.
+
+- **The Hour.** A PC, or someone a PC loves, is given to the Breaker. The PCs have an hour to keep them from promising anything. Jude will bring figs.
+- **When I'm Able.** Pell Sallet sends word that she would like him to visit. If he goes, he keeps a twenty-four-year-old promise. If the Bench learns she sent for him, it will want to know why.
+- **The Kind Lie.** The PCs discover that Jude's softest words have been coming true. Someone in the Bench will want to make use of a Breaker whose comforting sentences are Sayings. Someone else will want him in gold.
+
+Threatened, he talks, and he is very, very good at it. Kindness he returns, sincerely, which is worse. Toward the god he feels the comradeship of a fellow witness. If nobody intervenes, Pell sends for him on Tablenight, when the country is silent and he cannot say no, and he goes down the stair to the Vaults, and the hour with her runs long.
+
+[box: Said of Them]
+"He came to see my husband in the Ninth Room. Afterwards he came to see me, and told me Harl had laughed at the end, at a story about a goat. I don't know if it's true. I've decided it is." — a widow of Low Dray
+"The cleanest executioner in the history of the Table. No blade, no blood on the floor that the prisoner didn't put there himself. I find him unbearable." — a Bencher of the Hall of Conditions
+"He said he would come when he was able. I'm thirty. I'd like to tell him he's able now." — Pell Sallet
+[/box]
+

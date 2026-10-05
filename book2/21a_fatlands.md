@@ -188,3 +188,785 @@ Each day on the causeways, a Fatland journey is safe and fed and slow. Each day 
 **Inns.** Every village has an inn, and every Fatland inn is the same in its essentials: a long low hall, a fire, a pot that is never empty, benches wide enough for two Rim travellers or one Fatlander, and a landlord or landlady who will feed you until you cannot move and then express concern that you have not eaten. A bed with five meals costs three lacks. A foreigner who asks for less food will be charged the same. The inns on the Board roads post the Feasting Laws on the door, and Bailiffs inspect them. **Waystations** of the Rim Road Company, at Gristmoot, Barrelside and on the southern Rim, are the only places in the Fatlands where a traveller can eat three meals rather than five without a fine, because the Company has bought an exemption for its guests at a price the Board has never disclosed.
 
 **The Drovers' Ways.** There is another network, older than the causeways, which is not on any Board map: the wide green droving-roads by which the herds come across the plain to the Chute. They are unmarked and unmade, a hundred yards wide in places, cropped short by ten thousand hooves, and they run from nowhere in particular to Barrelside by routes known only to drovers. Sal Trotter walks them. At night, travellers camped by a Drovers' Way sometimes hear a herd going past in the dark, and the sound is wrong: not the thud and shuffle of cattle, but a soft, upright, two-footed tread, hundreds of feet together, and very low, a humming.
+
+## Bread and Coin
+
+The Fatlands are the richest country on the Table by every measure but one, and the one is the reason for all the others. The land grows three harvests a year in Low Tilth and two everywhere else; the herds double every spring; the orchards bend. Half the Table eats from the Chute. And the plains are run, from top to bottom, on the understanding that none of this is free, and nobody says what the price is.
+
+### What People Do
+
+Most Fatlanders work the land: as **field-hands** on the great Gut-line estates, as **tenant-farmers** on their own strips, as **gleaners** behind the harvesters, as **drovers**, **orchard-keepers** and **millers**. The next great trade is **rendering** in all its branches: slaughter, jointing, salting, coopering, tanning, the boiling of tallow and the barrelling of meat, all under the Renderers' Union. The third is **feeding**: the cookshops, inns and pie-houses, the wake-cooks and jointers, and the city trades that exist only because the great cannot move, the **Carriers** who lift and turn them and the **Washers** who clean their folds and pluck their shoots. Then there is the Board, which employs a small army of clerks, Bailiffs, Weighers, Wolf-Wardens, scrip-printers and Listing Clerks, and pays them well, because they are the people who must look at the figures.
+
+Wages are paid in meat scrip, by the week, and most of it goes straight back to the Board stores as food. A Fatlander who saves is regarded with suspicion: *a thin purse and a thin belly keep the same company*. Lacks are used for trade with foreigners and for anything the Board does not sell.
+
+| Work | Daily wage | Paid in | Notes |
+| Gleaner (child) | 3 crumbs | scrip | plus all they can eat from the stubble |
+| Field-hand | 1 lack | scrip | plus two field-meals; double in Carving |
+| Washer | 2 lacks | scrip | more for Laden at the Course |
+| Carrier | 3 lacks | scrip | a team of four for each great body |
+| Rendering-yard Hook | 2 lacks | scrip | Union rates; a cut of offal weekly |
+| Jointer (at a wake) | 4 lacks a body | lacks | Hob Gristle charges 10 and is worth it |
+| Wake-cook | 10 lacks a wake | lacks | Pudding Hesk charges 40 |
+| Bailiff (Ladle) | 3 lacks | scrip | free Supper at any inn |
+| Listing Clerk | 5 lacks | scrip | and a bonus per name in Carving |
+| Hill-Speaker | 6 lacks | lacks | paid by the family, by the consultation |
+| Dusk-shift labourer | debt struck off | — | a debt of up to 200 lacks per evening |
+
+### What Things Cost
+
+Food in the Fatlands is cheap, abundant, and better than anywhere else on the Table. Everything that is not food is dear, because it must be brought in up the Rim Road and paid for in a country that thinks of iron and glass the way other lands think of meat. Iron in particular is costly, because the great need iron-floored beds and drays, and a Gut-line family can spend more on iron in a year than a village earns.
+
+| Item | Local price | Notes |
+| A full meal at a cookshop | 1 lack | the ten-crumb plate; by law, at any hour |
+| A week's food for a family of five | 6 lacks | in scrip; five meals a day each |
+| A side of beef | 8 lacks | half the Rim price |
+| A sack of toothed flour | 2 lacks | teeth sieved; with teeth, half price to button-makers |
+| An iron bed-plate | 120 lacks | for the Laden; the Course is expensive |
+| A Laden's dray (eight oxen) | 900 lacks | rented by the day at 15 |
+| A rendering-copper (hire, one wake) | 3 lacks | Wakeside; famous coppers cost more |
+| Wake-board (hire) | 1 lack | a long table, scrubbed |
+| A Dowager consultation | the best cut of the last wake | and 6 lacks to the Hill-Speaker |
+| Lead pockets at the Weighing | 200 lacks | Garrick Tripe's price, rising |
+| A glass window | 40 lacks | foreign; the great have none, the clerks have two |
+
+### Taxes and Tithes
+
+The Board taxes the Fatlands by weight, as it governs them, but in reverse. The **Plate-Tithe** is a fifth of every harvest, taken in kind at the mills and the Chute, and it is the Board's great income; it is collected without complaint because nobody can imagine the country without the Board's stores. The **Lean Levy** is a yearly tax on every adult, assessed at the Weighing, and it falls by a crumb for every pound of body weight: the lighter you are, the more you pay. A labourer of three hundred pounds pays a lack or two. A Gut-line matriarch of fourteen hundred pays nothing at all, and is, technically, owed a rebate, which the Board credits against her vote. A thin man pays heavily, and if he cannot pay he goes on the dusk-shift lists, and the circle closes. The Board's apologists call the Lean Levy a tax on "the withheld portion"; the Thin call it a bounty on bones.
+
+The Renderers' Union pays the **Barrel Duty**, a lack on every barrel down the Chute, and has fought the Board over every crumb of it for two centuries. The Rim Road Company pays nothing to anyone and charges everyone, and the Board pretends this is an arrangement.
+
+### Who Is Rich
+
+The Gut-lines own a third of the country by way of their hills, and most of the rest by way of their living members. Their wealth is land, and land in the Fatlands grows on it, so it compounds. Below them stand the great **granary-houses** of Sated, merchant families who buy the Plate-Tithe grain from the Board at a fixed price and sell it up the Rim at whatever the Table will bear; the **Union bosses**, Brisket Annalow first among them; and a handful of oddities, such as Garrick Tripe, whose fortune is in lead. The poorest Fatlanders are not hungry in the way the poor are hungry elsewhere; they are fed. What they lack is weight, and in the Fatlands weight is vote, voice, credit and safety from the dusk-shift lists. Being poor in the Fatlands means being light, and being light means being the field's.
+
+[box: Meat Scrip in Play]
+Meat scrip (see the Rim Market chapter) trades at a lack per pound in an ordinary year. The GM may set the scrip rate each Carving by the Long Count: in the year the Reaping rises by a tenth, the scrip falls by a tenth. In 641 A.G. the scrip stands at about seven crumbs a pound and falling. A PC paid in scrip who tries to spend it outside the Fatlands will find it worth half, and the merchant will want to know the barrel-mark it was redeemed against.
+[/box]
+
+## Law and the Knife
+
+Fatland law is the Feasting Laws, the Weighing Statutes and three centuries of Board ordinances, and it is kept by a population that has very little crime of the kind other lands fear. Fatlanders are well-fed, warm and neighbourly. They do not steal bread, because bread is everywhere. They do not often murder, because a murderer is rendered and the victim's family has first cut. What they do, all the time, is fail to eat enough, and that is where the law bites.
+
+### Who Enforces
+
+The **Bailiffs** of the Board keep the Feasting Laws: they count plates, inspect inns, fine waste, weigh children, and feed the stubborn. They wear a blue sash and carry a ladle and a funnel of horn as their badges of office, and they are, by the standards of other lands' police, gentle. They rarely draw a blade. They do not need to. The **Wolf-Wardens**, one to a district, file the Reaping reports and maintain the fiction. The **Cullmasters** hold Carving evenings, when the Bailiffs answer to them. In Barrelside and the Chute the **yard-wardens** of the Renderers' Union keep their own law and hand over nobody. The great keep their own households, and what happens in a Gut-line house is a matter for the family, the family's Dowager, and nobody else.
+
+### How a Trial Works
+
+A Fatland trial is held at table. The **Plate-Justice**, a Board magistrate appointed by weight from among the Deacons, sits at the head of a long board in the village yard or the district hall, and the accused sits at the foot, and the witnesses and the accuser and anyone who cares to come sit along the sides. Everyone eats. The trial is a meal, and it lasts as long as the meal does, which may be days. The accused must eat throughout, and a Bailiff stands behind them with a ladle to see that they do; refusal to eat at one's own trial is taken as a plea of guilty to sedition, whatever the original charge.
+
+Testimony is given with the mouth full. Important witnesses swear on their dead, with a morsel of a dead relative held on the tongue, *by my mother's meat, which is in me*, and the families of the region keep a little dried meat of their elders in a salt-box against the day they will need to testify. A witness who has no dead to swear on is given a morsel of the Board's own: the Board keeps, in a salt-casket in the Weighhouse, a supply of dried flesh from Hester Gaunt, the starved preacher of the Thin Rising, and witnesses who swear on her are believed implicitly, because nobody would perjure themselves with that in their mouth.
+
+When the plates are empty the Plate-Justice gives judgment, and the convicted are fed their sentence. Appeals go to the Board, which sits once a season, and are decided by weighted vote; an appeal from a Scrapling against a Gut-line has never succeeded, because the Gut-line outweighs the court.
+
+### Crimes and Punishments
+
+| Crime | Punishment | Notes |
+| Leaving food on the plate | 1 lack per crumb-weight | assessed on the Bailiff's scale |
+| Missing a mandatory meal | the meal, fed; 2 lacks | repeat offenders to the Gavage |
+| Refusing a meal | sedition: the Gavage | a season; longer if they come back |
+| Keeping a child thin | treason against the Weighing | the child taken to a heavier house; the parent to the dusk-shift |
+| Purging, bleeding, fasting | treason | the Gavage; Thin leaders made an example |
+| Theft of food | none, if eaten in full | the Appetite defence of 312 |
+| Theft of goods | restitution in meals owed | a meal a day to the victim for a season |
+| Waste (a spoiled barrel, rotted grain) | the gravest crime | rendering, in the worst cases |
+| Assault, brawling | the reconciling supper | both parties eat together until friendly |
+| Debt unpaid | the dusk-shift | debt struck off "in full" |
+| Murder | the Renderers' yards; first cut to the victim's kin | *making good* |
+| Burial of the dead | desecration of the Wake Ordinance | the buried are dug up and served; the buriers fined |
+| Uttering the Long Count | sedition (since 637) | rarely enforced; it is everywhere |
+| Lead at the Weighing | fraud against the Board | in theory; in practice, a fee to Garrick Tripe |
+
+[box: The Law and the PCs]
+Foreign PCs in the Fatlands break the law constantly simply by eating like foreigners. The Bailiffs are patient with them for a day or two; after that, fines, and then feeding. A party that leaves food on its plates in a Board inn should expect a visit from a Ladle with a scale and a ledger. A party that refuses food outright should expect the Gavage. The Feasting Laws are the cheapest way to make the Fatlands' horror personal: let a Bailiff kneel by a reluctant PC's chair, with kind eyes and a full spoon, saying *come on, love, just a little, for me*, and let the whole inn turn to watch.
+[/box]
+
+## The Faithful
+
+Every Fatlander thanks the field before eating. That is the whole of religion for most of them, and it is not a small thing; the grace is said five times a day by four hundred thousand mouths in Sated alone, and it names the fields, and through the fields it names the dead. Above that floor of daily thanks, the Fatlands have the same three doctrines as everywhere else, but each takes a peculiarly southern shape.
+
+### The Three Doctrines in the South
+
+**The Gift** is the Fatlands' established faith, and the Board's. Ummer, it says, laid itself down in the Trencher out of love for its starving people, as a mother gives her body to her child, and we ate it in gratitude, and its return in our fields is its continued gift. The **Field Church**, which has no single head but a priest in every parish called a **Grace-Keeper**, teaches that the Reaping is the god taking back a little of what it gave, as is fair, and that the Laden are blessed. The Field Church presides at Weighings, wakes and Harvest Home. Its priests are fat, cheerful and comfortable, and most of them know the figures.
+
+**The Theft** is the faith of the Thin and of Tablenight. It says we murdered Ummer, that the hunger is the god's own famine come to sit in us as justice, and that the only decent response is penance. In the Fatlands, where fasting is treason, the Theft survives as the shame that comes on everyone once a year on Tablenight, and as the quiet creed of the Thin, who believe they can starve the god back down into the soil by refusing to feed it. Its holy figure is Hester Gaunt, the starved preacher of the Thin Rising, and its sacred place is the stretch of the Brawn below the Gavage where the lean bodies of executed Thin are thrown in, unburied and uneaten.
+
+**The Bait** is the faith of the Second Helping and, more quietly, of a great many Gut-line households. Ummer wanted to be eaten, it says; the Long Lack was its doing; it starved us so that we would take it into ten thousand bodies, and now it grows back through us, and it is our joy to be its field. The Board has made the Bait illegal and has never once enforced the ban on a Gut-line. Gladbelly preaches it openly, and the Board finds Gladbelly embarrassing and very convenient.
+
+### Shrines and Holy Places
+
+Every field in the Fatlands has a **grace-stone** at one corner: a squat stone post carved with the field's name, sometimes a face, and a little cup-hollow on top where a crust is left on feast days. The oldest grace-stones are pre-Gorging granary lintels and carry worn figures of Ummer walking. Families touch the grace-stone when they pass, and children are taught to kiss it. In Carving, the grace-stone of a field that has Reaped is wrapped in a strip of red cloth, and the strip is left to rot.
+
+The great shrines are the **Dowager Hills**, which are consulted rather than prayed to, but where every Gut-line matriarch is buried, in a sense, and where offerings of meat are brought; the **Weighhouse**, whose dome is the Field Church's cathedral in all but name and where the Board sits under carvings of Ummer feeding the world; and the **Trencher**, which is forbidden and therefore holy. In every parish there is a **table-chapel**, a long low hall with a table running its length, where the Grace-Keeper presides over communal meals on holy days and where the parish's wakes are held when a family's yard is too small.
+
+### Rites of the Year
+
+| Season | Rite | What happens |
+| Grace | The Weighing | three days of pie-stalls, the Board on the Scales, votes set by the pound |
+| Grace | First Furrow | the first plough of the year is pulled by the heaviest man in the village, and the furrow fed a loaf |
+| Plenty | Sweating Night | in late Plenty, when the fields sweat, the whole village sleeps outdoors on the warm ground |
+| Carving | Marbling Morning | the first frost; children run barefoot on the white veins of the fields |
+| Carving | Harvest Home | a week of feasting; lately quiet, because of the Count |
+| Carving | The Lists | read in every village square on Carving afternoons; not a holy day; everyone attends |
+| Lack | Tablenight | the national fast, which always fails |
+| Any | The Wake | the dead served by kin; the most sacred rite of all |
+
+**First Furrow.** In early Grace the heaviest man or woman of each village is harnessed to a light plough and pulls the first furrow of the year across the village's best field, while the village walks behind, eating. When the furrow is done, a loaf is broken and laid in it, and the Grace-Keeper says *We feed you first*. The heaviest villager is then fed for a week at public expense. It is an honour to be chosen, and the chosen often root in the next few years, and this is regarded as a blessing on the village.
+
+**Sweating Night.** In the hottest week of Plenty, when the fields glisten, whole villages carry their bedding into the fields and sleep on the warm, rising and falling ground, under the yellow sky. It is said to bring easy births and good harvests. Couples conceive on Sweating Night and the children are called **field-gotten** and thought lucky. Every year, in the morning, some sleepers will not wake, and are found with their faces pressed into the soil and fine white threads in their hair, smiling, and they are carried home to their wakes with great gentleness and nobody says anything at all.
+
+### A Grace and a Hymn
+
+[fiction]
+Thank you, field. Thank you, Long Acre, and Hessop's Rise, and Gran.
+Thank you for the bread you give, which was our bread before.
+Thank you for the meat you give, which was our meat before.
+We have eaten. We will eat. We will be eaten. Thank you.
+Lack keep away.
+[/fiction]
+>> — the long grace of the Field Church, said at Supper on holy days; in ordinary use it is shortened to the names of the fields and "thank you"
+
+[fiction]
+Ummer walked before the plough, and the furrow bowed its head;
+Ummer broke its shoulder off and gave us all its bread.
+Ummer lay down in the Trencher, and Ummer said, *Come in*;
+we ate it all and left no bone, and the god is in our skin.
+Lift the ladle, lift the plate, and do not leave a crumb;
+the field is fed, the field will feed, the field will bid us come.
+The field is fed, the field will feed, the field will bid us *home*.
+[/fiction]
+>> — "Ummer Walked Before the Plough," the most common hymn of the Field Church; the Second Helping sings the last line twice, very slowly, and the Thin will leave a room rather than hear it
+
+[box: The Grace-Keepers]
+A Fatland parish priest is a Celebrant in rules terms. A typical Grace-Keeper is Standing 2, with Rites 3, Persuade 3, Feast 3, and a fair notion of which families in the parish will be on next Carving's lists. They are not villains. They baptise children with dripping, bless the first furrow, preside over wakes and comfort the culled, and they know, in a general way, what they are part of. Their great skill is to make the unbearable sound like weather. A PC who needs to know about the Reaping in a parish should ask the Grace-Keeper, who will tell them everything, warmly, over pie, and make it sound perfectly normal.
+[/box]
+
+## Voices of the Land
+
+[box: Overheard on the Plain]
+"I've jointed nine hundred and four. You stop seeing faces after the first fifty. Then about the eight hundredth you start again, and it's all faces." — a jointer of Wakeside
+"Mam says not to go in the far field after Fourth Plate. I went once. It was nice. It smelled of tea-time." — a child of Kettle Furrow, aged seven
+"I don't eat the bread from the north strip. My husband's in the north strip. I give it to the pigs, and then I eat the pigs. I know. I know." — a farmwife, Low Tilth
+"You feed a Laden lord a whole pig for breakfast and he says thank you, Carrier, very kindly, and then he asks you if you've ever thought about being planted. Every morning. Very kindly." — a Carrier of the Fold
+"Of course I take the lead. Everyone takes the lead. You think the Chairman's nineteen hundred pounds of Chairman?" — a Deacon of Sated, after the Weighing
+"Wolves. I write it down every year. Wolves. My hand writes it on its own now." — a Wolf-Warden of the eastern plain
+"They pay well at the Chute and you never go hungry and you never ask what's in the barrel. That's three good things. Most jobs give you one." — a cooper of Barrelside
+"I came for a week to buy flour. That was eleven years ago. I'm very happy. Why are you looking at me like that?" — a former Oathen merchant, now of Gristmoot, four hundred pounds
+"The trees scream. I wouldn't know. I see their mouths." — an orchard-keeper of Sapwell, signing
+"My name was on the list in 638. I walked the row. The wheat leaned at the man next to me and I heard what it does. I've got my debt struck off. I'm free. I can't sleep with the window open." — a dusk-shift survivor of Bramble Furrow
+"I tell them they look heavy. I tell all of them. You've got to say something nice to a man who's on the list." — a Listing Clerk's wife
+"Course it's delicious. That's the cruel part. If it tasted like what it is, we'd stop." — a whore of Ladle Lanes, between meals
+"I feed them gentle. I always feed them gentle. Some of them thank me after. I don't know if that's better or worse." — a Gavage feeder
+"Granny Hessop's turnips are the best in Sated. We say so every Midday. She can hear, you know. We put our mouths to the ground and say so." — a Hessop grandson
+"I joined the Thin because my brother was dusk-shifted and my mam ate his bowl of supper the next morning because it was there. Not out of greed. It was *there*." — a Hollow of the Thin
+"You know what's funny? On Tablenight I always make it to Midday. Every year I think, this year. This year." — a gravedigger's son (the Fatlands have no gravediggers; his father dug wells, and found what you find)
+"Brother Glut held my hand. The hand he's got left. He said I'd be so loved. My wife went to the pavilion in Plenty. I eat at the long tables now. Everyone's very kind. I'd like to stop eating, please. I'd like to stop." — a widower at Gladbelly
+"Fat soldiers? We don't need soldiers. Who's going to invade the people who feed them?" — a Board Lanternbearer, asked about the army
+[/box]
+
+## How Power Moves
+
+On paper the Fatlands are simple: the Board rules by weight, the Chairman is the heaviest, and everyone else is lighter. In practice power in the south moves the way food moves through a body: slowly, in one direction, with a great deal going on that nobody looks at. Four things carry it. **Weight**, which is votes. **Food**, which is the Board's stores and the Union's barrels. **Lists**, which is the Cullmasters. And **land**, which is the Gut-lines and their hills, and in the end, the god.
+
+| Power-holder | Controls | Fears | Owes |
+| Chairman Obb Tullow | the heaviest vote; the Board's inner committee; the Weighhouse cellars | his mouth closing while the hill keeps voting | Garrick Tripe's silence; Varn Sweetbread's lists |
+| The Board of Plenty | law, scrip, the Plate-Tithe, the Bailiffs | the Long Count made official; the Table finding out | the Union for every barrel; the Company for every road |
+| Dame Suet Marrable | the Gut-lines' society; the Second Table in the south | the Dinner ending; her own rooting | her Dowager forebears' counsel; Lord Chastain Loin's acquisitions |
+| The Dowager Hills | a third of the land; the deciding word in Gut-line succession | nothing anyone can name | nothing; they are owed |
+| Mistress Brisket Annalow | every barrel on the Rim; Barrelside; the second ledger | the day the Table stops buying | the Company's indifference; her Stampers' silence |
+| Cullmaster Varn Sweetbread | the dusk-shift lists; Carving evenings | an empty plot-ledger; being wrong about the yield | the Chairman, who signs the lists |
+| The Rim Road Company | a third of the Chute's wagons; the roads out | an honest inspection | nothing; it is owed by everyone |
+| Corder Lank and the Thin | perhaps four thousand people who will not eat | his own death; his followers learning the truth | the Purgation's money; the Orchard-keepers' silence |
+| Brother Glut and the Second Helping | Gladbelly; a hundred kitchens; the grieving | nothing; he is happy | the Second Table, without knowing it |
+| Pell Hogget and the Long Count | two hundred villages' tallies; the truth | the numbers; his own wall | Nell Hogget's mark, unwritten |
+| The Cutwrights' southern registry | the weighing records of three centuries; who Seats next | the Gut-lines' bribes being discovered | the College in the north |
+
+### The Lines of Pull
+
+The **Chairman** sits at the top of the Board because he is heaviest, and stays heaviest because Garrick Tripe's lead goes into the pockets of the Deacons who vote with him and out of the pockets of the ones who vote against. He keeps the Board in line through the **Cullmasters**, whose lists can be made to include the families of awkward Deacons, and he keeps the Cullmasters in line by signing their lists, which means he can write a name on them, including theirs. The Board needs the **Renderers' Union** for every barrel and pays it badly and threatens to tax it; the Union needs the Board's Bailiffs to keep the herds and the dusk-shift coming. Each holds the other by the throat, gently.
+
+**Dame Marrable** holds no Board office but outweighs most of it, and the Gut-lines who sit at her Dinner vote as she suggests. Above her are her own **Dowagers**, whose counsel she follows and who are, more and more, advising every Gut-line on the plain to do the same few things: plant, feed, stay. Through the Unending Dinner she chairs the southern **Second Table**, which wants the god to finish growing so that it can be eaten again, and which therefore wants the Reaping to go on. The Board's inner committee knows this, and approves.
+
+The **Long Count** has no power at all in the Board's terms. It has no weight, no money, no Bailiffs and no seat. What it has is a number, copied in two hundred villages, which everyone in the Fatlands already knew and which nobody had ever written down. That number is the most dangerous thing in the south, because once it is written it cannot be weighed, fed or listed out of existence. The Board has tried all three.
+
+And under everyone, under the Weighhouse, under the Dowager Hills and the Dusk Acres and the Trencher, is the field. Every line of power in the Fatlands runs, in the end, down. The Chairman's roots go into the cellars. The Dowagers' advice goes into the soil. The Cullmasters' lists go to the Dusk Acres. The Union's barrels carry it up the Rim Road to every land. It is the oldest power in the country and the only one that has never needed a vote, and it is very, very patient.
+
+[bigquote] We have governed this country by weight for four hundred years, and I will tell you a secret, young man: the heaviest member of this Board does not sit in it. She lies under it. | — Chairman Obb Tullow, to a new Deacon, 638 A.G.
+
+[pagebreak]
+
+## The People of the Fatlands
+
+What follows are the dossiers of the first half of the Fatlands' people: the Chairman and the hostess, the Counter and the Thin Man, the Union boss and the honest butcher, the Cullmaster, the gleaner girl, the prophet, the hill and the doctor. They agree with everything in the core book and go much further. Stat blocks use the full format; where a character in the core book had a stat block, the numbers are kept or refined only slightly.
+
+### Chairman Obb Tullow — the Heaviest Vote
+
+> "Read me the figures again, Mister Purslane. Slowly. The eastern districts first. No, don't skip the children. I can feel when you skip."
+>> — Obb Tullow, to his reading-clerk, under the Weighhouse dome, Carving 640
+
+[stat: Obb Tullow — the Heaviest Vote]
+Land & Cut: Fatlands · Cut 5 (Gut-line, the Tullow stomach) · Regrowth 10 (the Brink) · Hunger 8
+Age & Station: 71; Chairman of the Board of Plenty since 602 A.G.; 1,900 lb at the last Weighing he could be lifted onto
+Calling & Standing: Scion · Standing 5 (Great House: "a bench, or a hill")
+Attributes: Hand 1 · Gut 6 · Lung 1 · Eye 3 · Tongue 4 · Caul 3
+Skills: Feast 5, Endure 4, Clause 3, Persuade 3, Intimidate 3, Reckoning 3, Lore 2, Godsign 2
+Flesh 18 · Guard 12 · Armor 1 (loam-flesh) · Fray 5
+Attacks: rolling crush +2 (4) against anyone who climbs onto the dray; cannot pursue
+Gifts: Field-Body: feels every footstep on the Weighhouse floor and the Weighing Road, and every Reaping in the Fatlands as a warm mouthful (he knows when and roughly where). The Bending: when he speaks in the Weighhouse, grain and grass within sight lean toward him; anyone arguing against him there is at −2 Persuade. Gorge: regains 1d6 Flesh per meal. The Field Answers (Brink): once per scene he may make the cellar roots grip a target in the Weighhouse (Gut 5, Hard 14 to break free).
+Wants: The Second Plate (eats whatever is set within reach, Grim 18 to stop if meat); Stillness (never to be moved; he will fight to stay); The Count (must be told the Reaping figures, aloud and slowly, every day, or gains 1 Fray)
+Knacks: Counting Habit, Elder's Ear
+Derangements: The Count (the number is always one short; he believes the missing one is himself)
+Carries: the dray, the Chairman's Ladle, the Seal of Plenty, the Reaping roll, his mother's salt-box, Tripe's receipts
+Dread: 3 (to watch him eat, or to see what grows under the dray); 4 if he speaks while the cellar roots are moving
+[/stat]
+
+#### Who They Are
+
+The Chairman is a landscape before he is a man. He lies on the iron bed of a great dray at the centre of the Weighhouse, under the bone-tiled dome, where the Great Scales once stood unobstructed and now must be walked around: nineteen hundred pounds of cool, brown, loam-soft flesh draped over the dray's edges like a haystack slumped in rain. The skin is mottled red and umber like a ploughed slope seen from a hill. It gives under a finger like warm dough and holds the print for an afternoon. Green shoots stand in every crease, in the elbow-pits, along the great folded shelves of the belly, behind the ears; his Washers pluck three hundred a morning and three hundred more are up by Fourth Plate. He sweats a clear, sweet, sticky fluid that draws bees in the warm months, and on the hottest days of Plenty there is a hum about him like an orchard.
+
+At the summit of all this, half sunk in folds, is a small, pink, clever face that looks out like a man peering from a cellar door: neat little nose, wet little mouth, two very bright pale eyes that miss nothing. His voice is reedy, precise and dry, a clerk's voice, and he uses it sparingly, because breath is an effort and because he learned long ago that the heaviest man in the room never needs to raise it. He smells of turned earth, rosewater, and the sweetish rot of a root-cellar in Lack. His hands, which are small for the rest of him, lie folded on the summit of his belly, and he moves them very little, except to eat, which he does constantly, neatly, with a gold fork, from plates his servers keep full. He chews with his eyes half-closed and an expression of polite attention, as though the food were giving evidence.
+
+People who meet him remember two things: the size, and the stillness. Nothing about Obb Tullow moves that does not need to. When he is displeased, a Deacon once wrote, the only sign is that he stops chewing, and the whole Board stops breathing to listen to the silence.
+
+#### Their Story
+
+The Tullows are the eldest Gut-line on the plain. Matron Ysolde Tullow was the first Laden in the Fatlands, rooted in her own kitchen in 61 A.G., and in 97 she became the first of the Dowager Hills; her mound, nearest the Weighing Road, is called simply the Eldest, and her mouth is a warm damp crack that exhales. Every Tullow since has been raised to understand that the family's destiny is to grow heavy, sit the Board and become land, in that order. Obb was born in 570, the third son, the smallest of the litter at birth and the heaviest by his tenth year. He was a sharp, quiet child who liked ledgers. His elder brothers both rooted before forty and now stand as a pair of hills on the family estate at Tullow's Reach, where the family brings them the best cut of every wake.
+
+He entered the Board at twenty-four, as the family's member, and rose by two arts: counting and patience. He made himself master of the Board's figures, the Plate-Tithe, the export tallies and, from 590, the Reaping returns in the cellars, which no member had read in a century. He understood them. In 602, at thirty-two, he was heaviest by eleven pounds at the Weighing, with some help from a young Weigher named Garrick Tripe, and he became Chairman. He has been heaviest every year since. He walked for the last time in 611, across the Weighhouse floor to the Scales, leaning on two Carriers; his feet left prints in the tiles that are still there, scuffed glossy by thirty years of Deacons stepping round them.
+
+For three decades he governed from a bed and then a dray, moved through the streets by eight oxen and a Bailiff escort. In Grace 640 his roots found a seam the smiths had missed in the dray's iron floor, went through it, and went into the Weighhouse floor beneath. By the time the Carriers noticed, the threads were cords and the cords were thick as a wrist. The Board was consulted. The Board agreed not to notice. The oxen were unharnessed and stabled in a side-hall, where they still stand, fed and groomed daily, in case. The Board now sits around him.
+
+#### Their Place in the Land
+
+Tullow is the Board. He chairs its sessions from the dray, sets its agenda, sits on its inner committee, signs the Cullmasters' lists, approves the scrip-rate, and holds more votes alone than the whole of Low Tilth. His day is fixed and ceremonial: Firstbite at the fourth bell, served by his Washers; the reading of the Reaping roll by his clerk, Mister Hollis Purslane, a dry little man who has read him the figures every morning for nineteen years; then Board business, petitioners, committees and meals, until the Supper bell, and then, alone under the dome, the long night, which he spends feeling the country through his roots.
+
+His power is enormous and narrowing. He cannot leave the Weighhouse, and so the Weighhouse has become the only place in the Fatlands where power is done; Deacons who once governed from their districts must now come to him. But he depends absolutely on others' hands: on Purslane's reading, on the Carriers and Washers, on Varn Sweetbread's lists, on Garrick Tripe's lead, on Brisket Annalow's barrels. And in Grace 641 the Board faces the **Root Question**: whether a rooted member's weight for voting purposes includes what his roots hold. The Weighers, quietly, have estimated that the soil and cellar-roots bound to the Chairman weigh some thirty thousand pounds. If the Board rules that the roots count, the Chairman will hold more votes than the rest of the Board together, forever, and the vote will be his to cast. He knows exactly how many Deacons he must frighten to win it.
+
+#### What They Carry
+
+- **The dray** — eight yards of oak and iron, built in 611 for a man of eleven hundred pounds and reinforced twice since. Its iron floor is now pierced by eleven root-cords as thick as hawsers. Its wheels have sunk to the hubs in the tiles. Everyone calls it the Bench.
+- **The Chairman's Ladle** — the Board's chief badge of office, a ladle of beaten gold the length of a forearm, older than the Weighing. By law the Chairman must taste the first spoon of every Board supper with it. He keeps it on his belly like a sceptre.
+- **The Seal of Plenty** — a signet of black bone set in gold, on the smallest finger of his left hand. The flesh has grown round it and over it; only the face shows. To seal a document his hand must be lifted and pressed down by a clerk. It cannot be removed without the finger.
+- **The Reaping roll** — the real figures, kept in a locked oak case beside the dray, in Purslane's hand: every Reaping by district since 300 A.G. It matches Pell Hogget's Long Count to the head, and goes back two centuries further.
+- **His mother's salt-box** — a small tin of salt containing a strip of dried meat from Matron Olwen Tullow's wake, kept for oaths. He has used it four times. He keeps it under his chin, where he can reach it with his mouth.
+- **Tripe's receipts** — a bundle of chits recording every Weighing at which Garrick Tripe sold lead to a Deacon, and to whom. He has never used them. He is waiting.
+- **A speaking-trumpet of polished horn** — for addressing the Board without straining his breath. When he speaks through it, the grain in the Weighhouse sacks shifts.
+- **A gold fork and a silver tooth-pick** — the fork was a gift from Dame Marrable on his election; the pick he uses to remove, after meals, the small white threads that have begun to grow from his gums.
+
+#### Wants, Fears and Secrets
+
+Tullow wants to die Chairman, and to win the Root Question so that he cannot be unseated by anything but the hill he is becoming. He wants the Fatlands to go on eating and the Table to go on buying, at least until he is gone. More privately, and more hungrily each month, he wants the figures. The Reaping returns are the only thing that still interests him as much as food.
+
+He fears the moment his mouth closes and the hill keeps voting. He has watched it happen to his brothers. He knows that a Seated Tullow would hold title and weight under the Board's own rulings, and that a hill can be led to vote however its Hill-Speaker says, and he does not intend to leave his vote to a Hill-Speaker.
+
+**Secret (the GM may reveal):** Tullow has arranged for the Cullmasters to list the families of every Deacon who votes against him. He reads the dusk-shift lists before he signs them and adds names in his own small hand. Next Carving's list includes Varn Sweetbread himself, because Sweetbread has begun to keep his own figures, and the Chairman does not share figures.
+
+**Secret (the GM may reveal):** His roots have reached the cellars and are drinking from the Gravy, as the rumour says; they have also reached the vaults where the Board's Reaping records are kept, and he feels each Reaping in the land as a warm full mouthful, a taste of a name. In 637 he felt something else: a cold, narrow, heavy thing let down inside him, from a great height, and drawn up again. He has never told Dr. Paunch that he felt the plumb line.
+
+**Secret (he does not know):** He believes he feels the Reaping through his roots. The truth is the reverse. The Reaping is feeling *him*. Every taken labourer goes into the soil and along the roots toward the heaviest knot of the god's flesh in the land, and that knot is the Chairman. Ummer is gathering itself in Obb Tullow. When he Seats, he will not become a hill. He will become the floor of Sated.
+
+#### Ties
+
+- **Dame Suet Marrable** — his oldest ally and his only equal; she gave him his gold fork and his chairmanship, and she has never let him forget either. He suspects, correctly, that she is courting the Root Question's opponents.
+- **Varn Sweetbread** — his instrument. Tullow likes him and has written his name on the list.
+- **Garrick Tripe** — the man who made him Chairman with lead; Tullow keeps his receipts and his secret, for now.
+- **Dr. Emmerich Paunch** — his physician, who measures him weekly and is afraid of him; Tullow knows what Paunch heard at the bottom of the line, because he heard it too.
+- **Pell Hogget** — a man he has never met, whose figures he reads in Purslane's copy every week and whose accuracy he admires more than anyone on the Board.
+- **Mistress Brisket Annalow** — the only person in the Fatlands who can do to the Board what the Board does to everyone else; they hate each other with great courtesy.
+- **Matron Ysolde Tullow (the Eldest)** — his first ancestor, now a hill, whom he consults by proxy and who has begun to answer every question with the same word: *Down*.
+
+#### In Play
+
+PCs meet the Chairman in the Weighhouse, where all business in the Fatlands eventually goes: as petitioners, as agents of a foreign land negotiating for flour, as witnesses in a Board inquiry, or as people the Board needs for something it cannot ask its own servants to do. He wants from them what he wants from everyone: information, preferably numbers, and service that cannot be traced to him. He is courteous, generous and very well informed, and he will feed them.
+
+- **The Root Question.** The vote is in a month. The Chairman needs six Deacons to change their minds, or to be unable to attend. He would like the PCs to persuade them. He is not particular about the method, and he will provide the lists of their families.
+- **The Weight Below.** Clerks in the Weighhouse cellars have stopped coming back up. The Board wants the cellars inspected by people who are not Fatlanders and who will not be missed. Down there the Chairman's roots fill the vaults like the inside of a hedge, and they are warm, and they move when he speaks overhead.
+- **One Short.** Tullow summons a PC with Reckoning to check Purslane's arithmetic, because the figures are always one short of what he feels. The PC finds that Purslane has, for nineteen years, left out one name every year: his own daughter's, Reaped in 622.
+
+**Threatened,** he does nothing; he lets the Board, the Bailiffs and the Cullmasters do it. **Shown kindness,** he is suspicious, then curious, then quietly grateful, and asks the kind one to read him the figures. **Faced with the god,** he is unafraid. He has been waiting for it all his life.
+
+If nobody intervenes, the Board rules that the roots count, in the Grace of 642. The Chairman's vote becomes permanent and absolute. Within three years he stops speaking, and the floor of the Weighhouse begins, very slowly, to breathe.
+
+[box: Said of Them]
+"He doesn't need to win a vote. He just needs everyone to know he could." — a Deacon of the eastern plain
+"I turn him every morning. He says *thank you, Carrier* every morning. He never once has asked my name, and he knows it." — Wem Haddle's cousin, a Carrier of the Weighhouse
+"Ask the Chairman what's under the Weighhouse and he'll tell you: the Chairman. He thinks it's a joke." — Mistress Brisket Annalow
+[/box]
+
+### Dame Suet Marrable — Hostess of the Unending Dinner
+
+> "Sit, duck. No, there. By me. You'll want the crackling while it's hot. Nobody leaves my table hungry, and nobody's left it yet."
+>> — Dame Suet Marrable, to every new guest, in the same words, for eighty-one years
+
+[stat: Dame Suet Marrable — Hostess of the Unending Dinner]
+Land & Cut: Fatlands · Cut 4 (Gut-line, the Marrable liver) · Regrowth 8 (the Course) · Hunger 7
+Age & Station: 103 (born 538 A.G.; her face has not aged since 40); mistress of Marrable Hall; southern chair of the Second Table
+Calling & Standing: Scion · Standing 5 (Great House)
+Attributes: Hand 2 · Gut 5 · Lung 1 · Eye 4 · Tongue 5 · Caul 3
+Skills: Feast 5, Persuade 4, Clause 3, Endure 3, Search 2, Deceive 2, Lore 2, Blades 1
+Flesh 16 · Guard 12 · Armor 1 (loam-flesh) · Fray 3
+Attacks: carving knife +3 (2); she prefers to have others carve
+Gifts: Taste the Name: one bite of a guest's blood tells her their family, their Cut and one secret (she licks the knife after the first cut of meat she serves them, from their own plate, which has been nicked). The Hostess's Table: her hall's food compels; any guest who has eaten at the Dinner must pass Caul + Resolve (Hard 14) to rise from it, Grim 18 after the third course. Laden: her loam-flesh grants Armor 1. Rooting: her feet are rooting through the throne's floor; she cannot be moved from the head of the table without 1d6 Flesh damage to her and a Dread 2 check for the Carriers.
+Wants: The Second Plate; The Hollow (no guest may refuse a dish); and her own: that no guest leave hungry, and that no guest leave
+Knacks: Table Manners, Smell of Cedar, Elder's Ear
+Derangements: none she would admit; she has not been alone in a room since 560
+Carries: the head-of-table throne, the Marrable carving set, the place cards, the Dinner Book, the cellar key, Fennick's ring
+Dread: 2 (to see a guest served); 3 to be taken to the cellar table
+[/stat]
+
+#### Who They Are
+
+At the head of a table three hundred feet long, on a gilded throne that has sunk four inches into the floorboards, under a canopy of gold silk stained brown at the edges by eighty years of steam, sits a woman made of pillows. Dame Suet Marrable weighs a little over twelve hundred pounds and wears all of it in silk: gold, ochre, field-red, swathe on swathe, pinned with bone brooches, her many chins hung with ropes of pearls like dew strung on a hedge. Her face is powdered white and rouged high on each cheek and it is, under the paint, the face of a handsome woman of forty, unlined and bright-eyed; she sucked marrow at her first wake at the age of six and the Gut-line marrow keeps the face young while the body goes on. Her hands are small, plump, dimpled and covered in rings. Her hair, which is still a deep chestnut, is piled high and threaded with toothed wheat.
+
+She smells of rosewater over roast pork, and, closer, of loam. Her voice is warm and husky, a little hoarse from eighty years of conversation over the noise of a full hall, and she calls everyone *duck*: Chairmen, servants, Reckoners, children. She laughs often and easily, a rich bubbling laugh that makes her pearls clatter, and she remembers everyone's name and everyone's favourite dish. She is the best company in the Fatlands, and she knows it, and her guests feel, while they sit with her, more welcome than they have ever felt anywhere. It is only afterward, if there is an afterward, that they realise how much of that was the food.
+
+#### Their Story
+
+Suet Brawnley married Lord Fennick Marrable in the Grace of 560, at twenty-two, in Marrable Hall, before four hundred guests. It was the match of the decade: the Brawnley liver-line and the Marrable stomach-line together. The wedding breakfast began at the Firstbite bell. At Supper, when the guests rose to go, the bride stood up at the head of the table, already the heaviest woman in the room, and said, laughing, *Oh, don't go. There's more. Stay.* And they stayed.
+
+That is how the Unending Dinner began, and it has not stopped. The table has been laid, served, cleared and laid again, continuously, without a single hour's interruption, for eighty-one years. Guests have come and gone; some have come and stayed. The hall has had no clear floor since 560. Children have been born at the table, in the alcoves behind the benches, and raised there, and some of them are guests still, grey-haired, who have never left the hall. Fennick Marrable died at the table in 571, of a burst belly during the fish course, and in accordance with the Wake Ordinance and with his wife's wish, he was served at it, starting at the next Firstbite. The custom since then is that anyone who dies at the Dinner is served at the Dinner. A good many have died there. The hall's foundations have shifted a yard downhill under the weight.
+
+In 589 Dame Marrable was approached, at her own table, by a quiet Oathen gentleman with a proposition about what might be done when the gods finished growing, and the Second Table's southern chapter has met in her cellar ever since. She took its chair in 604. She has used the Dinner as its cover and its recruiting-ground for forty years: everyone who matters in the south dines at Marrable Hall eventually, and she tastes them all.
+
+#### Their Place in the Land
+
+Marrable Hall is the Fatlands' second capital. The Board decides in the Weighhouse; the Gut-lines decide at the Dinner, and the Board usually follows. Dame Marrable holds no office, but she outweighs most of the Board, and the members who dine with her vote as she suggests over the pudding. Marriages are arranged at her table, and broken there; inheritances settled; Deacons made and unmade. Foreign envoys who wish to buy grain on good terms are seated near her. Her cooks, forty of them in three shifts, are the best-paid in the south, and her larders are supplied by the Renderers' Union, the Board's stores, the Dowager Hills' best cuts, and, in the cellar, by Lord Chastain Loin's acquisitions.
+
+Her limits are physical and growing. Since 638 she cannot leave the throne. Her feet have rooted through its iron floor plate, which is cracked, into the hall's boards, which are oak and which the roots love. She rules from that seat now, absolutely, and everything must come to her. Her Carriers have stopped turning her. Her Washers work round her where she sits, and they pluck her shoots under the table while she talks.
+
+#### What They Carry
+
+- **The head-of-table throne** — gilded oak, iron-floored, built in 560 for a bride of five hundred pounds and rebuilt three times. The floor-plate is cracked through. Under it, through the hall's floorboards, her roots have gone down into the cellar, and they hang there over the second table like the roots over a cave.
+- **The Marrable carving set** — a knife, a fork and a steel of black-handled Oathen steel, a wedding gift, used to make the first cut of every joint served at the Dinner, including Fennick, including every guest since. She carves seldom now; she makes the first cut and hands the knife to a servant.
+- **The place cards** — a silver box of cream cards, each with a guest's name in her own round hand. She writes a card for everyone she intends to have at her table. There is one, written in 640, for **Tobias Wether**, the Unfed exile who ate. There is another, written last month, for **Wren Hollowell**.
+- **The Dinner Book** — a ledger, now in sixty volumes, recording every guest, every dish and every course since 560, kept by a succession of stewards. Guests who were served are listed twice: once under *Guests*, once under *Dishes*.
+- **The cellar key** — iron, on a chain about her neck, hidden in her chins. It opens the door behind the tapestry of Ummer walking.
+- **Fennick's ring** — her husband's wedding ring, on her thumb. She took it from his plate.
+- **A fan of painted bone** — which she uses to cool herself and to signal servants: open, *more*; closed, *serve*; tapped twice on the table, *carve*.
+
+#### Wants, Fears and Secrets
+
+She wants the Dinner to outlast her. She has never said aloud what that means. She fears that it will not, because her feet are in the floor and she knows how the Course ends; she has visited her mother, and her grandmother, on the Dowager Hills, and they have told her to *stay*. She does not fear becoming a hill. She fears becoming a hill and having the guests go home.
+
+**Secret (the GM may reveal):** The cellar beneath the dining hall holds a smaller table, of twenty-four places, where the Second Table's southern chapter dines. The guests there are older and the meat is something rarer: Blank flesh, Unfed flesh, high-Cut flesh from other lands, cuts of the Dowagers, purchased and stolen. They are practising. When Ummer stands up, they intend to be at its table with knives. Tobias Wether's seat is waiting for him in the cellar, between Lord Chastain Loin and a Vigil Eye-line count.
+
+**Secret (the GM may reveal):** She has been measuring the Dinner against the Reaping. The Dinner's guests are, in a precise sense, the Fatlands' best-fed, and they die heavy, and when they die they are served and their bones go to the Marrable fields, and the Marrable fields are the most fertile in the country. She has come to believe the Dinner *feeds the god directly*, and that is why it must not end.
+
+**Secret (she does not know):** Lady Aspic Dellamore has been measuring her for a jelly. And under the throne, in the cellar, her roots have found the roots of the Chairman, which run out under the city, and have joined them.
+
+#### Ties
+
+- **Chairman Obb Tullow** — her protégé, her old ally, and her rival in the Root Question. She bought him his first Weighing with Garrick Tripe's lead; she thinks she is owed the Board.
+- **Lord Chastain Loin** — her favourite and her heir in the Second Table, who brings Blanks to the cellar; she loves him like a son, and suspects he is waiting for her to root.
+- **Lady Aspic Dellamore** — her most frequent guest and most gifted rival in the kitchen; Suet adores her jellies and has never guessed what the measuring is for.
+- **Tobias Wether** — a name on a card; the most interesting meal she has ever imagined.
+- **Wren Hollowell** — another card. Suet wants to know what a Blank tastes like with all her heart.
+- **Hob Gristle** — her jointer, for sixty years of wakes. He has refused the cellar twice, politely. She has not forgotten.
+- **The Brawnley Dowager** — her mother, a hill a mile from the Hall, whose counsel she follows on everything.
+
+#### In Play
+
+Every PC of consequence in the Fatlands is invited to dinner. That is how the PCs meet her: a cream card, a fine hand, their name spelled correctly, and a carriage at the door. The Dinner is a social battleground, a source of intrigue, a market for secrets and a death-trap, all at once. She wants from the PCs what she wants from all guests: to taste them, to learn their secrets, and to keep them. Foreign PCs are especially welcome. She has not tasted many foreigners.
+
+- **Sixty Courses.** The PCs need something from a guest who has been at the Dinner for nineteen years and will not leave the table to talk. They must take seats, eat, and resist the table's pull long enough to get what they came for (Caul + Resolve at rising difficulty each course).
+- **The Card for Tobias.** Dame Marrable wants Tobias Wether brought to dinner. She will pay any price, and offers it to the PCs. The Reckoners want him dead first.
+- **Below Stairs.** A servant at Marrable Hall slips a PC a note: *There is a table under the table. My sister went down to serve and did not come up. Please.*
+
+**Threatened,** she laughs, and asks if they have tried the pork, and signals with her fan, and her servants, who are many and heavy, close the hall doors. **Shown kindness,** she is touched, and sets a place for the kind one forever. **Faced with the god,** she is delighted: she has been laying a table for it for eighty-one years.
+
+If nobody intervenes, Dame Marrable roots completely in the Carving of 642, at the head of her table, mid-sentence. The Dinner continues. The guests serve themselves. Within a decade, Marrable Hall is a hill with a long hall inside it, and the guests are still at table.
+
+[box: Said of Them]
+"I went for Elevenses in 609. My wife came to fetch me in 611. She's still here too. We're very happy." — a guest at the Unending Dinner
+"Her mother told her *stay*. She's been saying it to everyone since. I don't think she knows it isn't her word." — Mercy Sowerby, Hill-Speaker
+"I've washed dishes in that hall forty years. You learn what the plates mean. The blue ones go up. The white ones go down." — a scullery-maid of Marrable Hall
+[/box]
+
+### Pell Hogget — the Counter
+
+> "I don't say what it means. I say how many. One hundred and ninety-four in Kettle Furrow. That's all. That's all I've ever said."
+>> — Pell Hogget, to a Bailiff, at his own kitchen table, Lack 640
+
+[stat: Pell Hogget — the Counter]
+Land & Cut: Fatlands · Cut 2 (common Scrapling line) · Regrowth 3 (the Taste) · Hunger 6
+Age & Station: 47; tenant-farmer of Kettle Furrow, Low Tilth; keeper of the Long Count
+Calling & Standing: none formally; to the two hundred villages of the Count, the Counter (unofficial, total)
+Attributes: Hand 2 · Gut 3 · Lung 2 · Eye 4 · Tongue 2 · Caul 3
+Skills: Reckoning 4, Labor 3, Endure 3, Search 3, Wayfaring 2, Lore 2, Resolve 2, Craft 1
+Flesh 14 · Guard 12 · Armor 0 · Fray 7
+Attacks: hay-fork +3 (3, Reach); he has never struck anyone
+Gifts: Iron Belly (Taste): +2 to Feast; can eat what he must. The Tally (not a godsign Gift): once per session, told a place and a season, he can give the true number of the Reaped there, from memory, and is never wrong.
+Wants: The Hollow (he will make others eat, though he eats too little himself); The Second Plate at Hunger 4+
+Knacks: Counting Habit, Old Grief
+Derangements: The Count (he counts everything, always; the number is always one short, and he knows exactly who the missing one is)
+Carries: a stub of chalk, the barn key, the tally-book, Nell's comb, eleven sets of teeth
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+A short, broad, sunburnt man with a wheat-coloured beard going grey at the chin, small careful blue eyes, and a stub of chalk always behind his left ear. He has a farmer's hands, square and cracked, and a farmer's slowness, and he speaks as he works: one word at a time, laid down straight. He gives numbers instead of opinions. Ask him whether the Reaping is worse this year and he will say *forty-one in the Tilth parishes by the ninth of Carving, against thirty-three this time last year*, and then look at you to see whether you understand what he has said. He is lighter than he should be, two hundred and sixty pounds, which in Low Tilth makes him look ill. His smock hangs on him. He smells of chalk dust, sweat and barn.
+
+He is always counting. His lips move when he walks: steps, fence-posts, crows, the teeth in his bread. Villagers have stopped noticing. Visitors find it unbearable after an hour.
+
+#### Their Story
+
+Pell was born in Kettle Furrow in 594 to a family of tenant-farmers on Marrable land. His grandmother, Margery Rind, rooted in the orchard behind the village in 601 and taught him his numbers before she lost her legs, counting pears with him on her lap; she is Old Mother Rind now, and he still visits her. He married Nell Fairweather in 616. They had one son, Barnaby, now sixteen. Pell was an ordinary farmer, rather better at sums than his neighbours, who did the village's accounts at Harvest Home.
+
+In Carving 629 he was asked to count the village for the Board's census and noticed that the figure was one less than last year's, and that last year's was one less than the year before. He went back through the parish's wake-book. He scratched the figures on the inside of his barn wall in chalk, one mark for each, by year. Then he walked to the next village and asked. By 633 eleven villages were sending him their numbers; by 637, ninety; now, two hundred, by carrier, by pilgrim, by children who walk the causeways with slates. The marks went from chalk to knife to paint. The barn is a ledger of the dead from floor to rafter.
+
+In Carving 637 Nell's name was read on the dusk-shift list in Kettle Furrow square. She walked the row in a white smock with a ribboned sickle. She did not walk back. Pell has never put her mark on the wall.
+
+#### Their Place in the Land
+
+Pell has no office and wants none. He is the keeper of a habit that has become a movement, the **Long Count**, and the Count has no leaders, no meetings and no creed, only tallies, copied and carried. Every Carving the villages send their numbers to Kettle Furrow, and Pell adds them up, and copies the totals onto slates that go back out along the causeways, and the copies are copied again. That is all. It is enough to terrify the Board, because the Count is the first public record of the Reaping in three centuries, and it shows the Reaping doubling.
+
+He still farms his strip. He depends on his neighbours, who protect the barn by sitting round it eating whenever the Bailiffs come, on his son, who carries the slates, and on Old Mother Rind, who tells him things. The Board cannot arrest him without making the Count famous; it has tried feeding him (he is on a Bailiff's watch-list for eating too little), burning his barn (twice), and listing him (the Cullmasters have never yet put his name on a list, for reasons he does not understand).
+
+#### What They Carry
+
+- **A stub of chalk** — behind his ear, always. He has worn through four hundred sticks.
+- **The barn key** — the barn has no lock; the key is to a box nailed inside, which holds the Count's master copy.
+- **The tally-book** — a calf-bound ledger copied from the walls, in his square hand, with every village's figures since 629 and a column at the right-hand edge headed *Projected*. The projection crosses Kettle Furrow's population in nineteen years and the country's soon after.
+- **Nell's comb** — horn, with three of her hairs still in it. He keeps it in his breast pocket and does not use it.
+- **Eleven sets of teeth** — bought from Granny Cracknel, matched to Low Tilth people he knew. Held in the mouth for a night, each gives the owner's last sight. It is always the same field at dusk. He has not bought Nell's set, though Granny has told him she has it.
+- **A slate and a bag of slate-pencils** — for the copies. Children ask him to show them how to make the marks.
+- **A heel of bread with the teeth left in** — Bailiffs check that he carries food. He carries it. He seldom eats it.
+
+#### Wants, Fears and Secrets
+
+He wishes he had never learned to count. He wants the Board to say the number out loud, once, in the Weighhouse, so that it will be true for everyone and he can stop. He fears the shape of the numbers more than anything that has ever happened to him, and he fears that the shape has a destination: that the Count is not measuring the Reaping but *drawing* it, that the Scarecrow is walking toward his barn because the barn is where the names are.
+
+**Secret (the GM may reveal):** He has never put Nell's mark on the wall. Every year his total for Kettle Furrow is one short of the truth, and he knows it, and he cannot make his hand do it, because once she is a mark she is a number like the others.
+
+**Secret (he does not know):** Nell was not listed for debt. She was listed as a troublemaker, for carrying the Count to Bramble Furrow and Millsop, and Pell's own name was on the same list beside hers. A Listing Clerk may strike one name a season. Nell went to the Clerk on the morning of the reading and asked which name, and offered him something, and he struck Pell's. It was in Varn Sweetbread's ledger, in the Cullmaster's neat hand: *Hogget, P.: struck, by exchange.*
+
+#### Ties
+
+- **Old Mother Rind** — his grandmother, an orchard hill with a mouth, who taught him to count; he brings her pears from her own trees, and she has lately asked him to bring her Barnaby.
+- **Tansy Lard** — the gleaner girl from the next lane, who brings him her mother's root's growth, measured in hands; he writes it down.
+- **Varn Sweetbread** — the Cullmaster who walked Nell out to the row and bowed to her. They have met once since. Sweetbread asked to see the tally-book and was genuinely interested.
+- **Chairman Obb Tullow** — who reads Pell's figures every week and whom Pell has never seen.
+- **Corder Lank** — the Thin want the Count as proof; Pell will not let them use it, because he does not give opinions.
+- **Granny Cracknel** — who sells him teeth and keeps Nell's.
+- **The Scarecrow** — which has turned around, and is facing his barn.
+
+#### In Play
+
+PCs come to Kettle Furrow because everyone does: to touch the marks for their own dead, to find out whether someone they lost was Reaped, to bring a village's tally, or on the Board's business, to steal or burn the book. Pell will feed them, answer any question with a number, and ask them to carry slates.
+
+- **The Missing Mark.** A PC who reads the wall closely (Eye + Reckoning, Hard 14) finds that Kettle Furrow's totals are one short every year since 637. Asking why is the way into Pell's grief, and into Sweetbread's ledger.
+- **The Brawn Book.** A Cullmaster's little book of dusk names has gone missing on the Rim Road (see the core adventure). Pell would weep to have it. Getting it to him puts the Board's figures and the people's side by side.
+- **Barnaby.** Old Mother Rind has asked for Pell's son. Pell has not refused her. He has not answered. He asks the PCs what they would do.
+
+**Threatened,** he goes on counting. **Shown kindness,** he cries, briefly and without embarrassment, and then gives a number. **Faced with the god,** he counts it. If nobody intervenes, the Scarecrow reaches the barn in Carving 642, and the barn is found next morning empty, every mark on its walls scraped clean, and Pell sitting in the middle of the floor writing them back in chalk from memory, one short.
+
+[box: Said of Them]
+"He came to count us, and he did, and then he cried, and then he ate supper with us. You can't be angry at a man who eats supper." — a Bailiff of Low Tilth
+"My mam's on the wall. Third row, the year I was born. I go and touch her on Sundays." — a boy of Kettle Furrow
+"His figures are the best in the country. I would give a great deal to have him in the cellars. I would give a great deal for him never to come." — Mister Hollis Purslane, reading-clerk to the Chairman
+[/box]
+
+### Corder Lank — the Thin Man
+
+> "Are you hungry? It's all right. You can tell me. I'm not going to feed you."
+>> — Corder Lank, his first words to every stranger
+
+[stat: Corder Lank — the Thin Man]
+Land & Cut: Fatlands · Cut 2 (common line) · Regrowth 3 (the Taste, dormant) · Hunger 0
+Age & Station: 38; outlaw; leader of the Thin, under sentence of the Gavage in every district
+Calling & Standing: Purger (the Thin's way) · Standing 5 (the Thin Man)
+Attributes: Hand 2 · Gut 1 · Lung 3 · Eye 3 · Tongue 4 · Caul 5
+Skills: Resolve 5, Endure 4, Persuade 3, Stealth 3, Athletics 2, Rites 2, Feast 2, Blades 1
+Flesh 13 · Guard 15 · Armor 0 · Fray 6
+Attacks: knife +3 (2); he has never used it on a person
+Gifts: Passing the Plate: anyone who fasts a day in his company loses 1 Hunger and he gains none; they gain it back, doubled, the day they leave him. The Still Field: the Reaping does not lean toward him; he can walk a ripe field at dusk in Carving and the wheat turns away.
+Wants: to be needed; never to be fed (if force-fed, he must pass Caul + Resolve, Grim 18, or gain 1d6 Hunger at once, which he has not felt in six years and which is unbearable)
+Knacks: No Thank You, Cold Supper, Silent Supper
+Derangements: The Unclean (he cannot bear to be touched by anyone who has just eaten)
+Carries: the cord, the ash-tin, a knife, the hand-signs, Hester Gaunt's spoon
+Dread: 1 (his body, bone by bone)
+[/stat]
+
+#### Who They Are
+
+You can count him. That is what people say first. A long brown figure strung on tendons, six feet two, perhaps a hundred and thirty pounds, every rib and knuckle and vertebra standing out under skin as tight and dry as a drumhead; the hip-bones lift his ragged smock like tent-poles; the cord around his middle is wound six times and still loose. His head is a skull with a calm face drawn on it, the hair cropped, the cheeks hollow, the lips thin and cracked. His eyes are enormous in that face, brown and clear and still, and they rest on people the way a cool hand rests on a fever.
+
+He smells of woodsmoke and nothing else; there is no sweat on him, no breath of food, none of the warm loam-and-dripping smell of every other Fatlander. His voice is quiet, low and unhurried, and he always first asks whether you are hungry. He moves carefully, the way a man moves on ice, conserving everything. In a land of the vast, he looks like the drawing of a man.
+
+#### Their Story
+
+Corder Lank was born in Sapwell in 603, a drover's son. He was an ordinary, heavy, cheerful boy who could walk a herd and carve a wake. At twenty-four he joined the Thin, not from conviction but from grief: his younger sister was dusk-shifted for their father's debts in 627 and did not walk back, and at her empty-bowl supper his mother ate the girl's portion because it was there. He fasted with the Thin for five years, hiding in the Orchards, and rose to Gaunt. In 632 he was taken and spent a season in the Gavage under Feeder Callow Pudge, who sang to him. He came out at four hundred pounds, silent and eating.
+
+He went back to the Thin within a month. In 635 he began the true fast: water and ash, nothing else, ever. The Thin had fasted for two centuries and always failed by the second month; Corder did not. The hunger, which had sat beneath his breastbone his whole life, thinned and then went. By 637 he was the only man in the south who did not feel it, and the Thin, who had had no single leader since Hester Gaunt, made him their Thin Man. In 638 he understood why it had gone.
+
+#### Their Place in the Land
+
+The Thin number perhaps four thousand across the plain, in cells of six to twelve, hidden in barns, ditches, the hollow trees of the Orchards and the sunken basements of the Leanings. Corder walks between them, never staying more than three nights, moving by the Drovers' Ways at night and through the Orchards where the deaf keepers will not hear. He leads by presence: he sits with a cell, fasts with them, listens, and goes on. The Thin do not kill nobles and do not burn houses; they refuse. Corder's whole policy is refusal, made public: to get one whole parish, then one district, through one whole Carving without feeding the god, and so prove the Reaping can be ended. The Purgation sends money, which he spends on getting people out of the Gavage. The Board has put him under sentence of the Gavage in every district and would very much like to feed him in the Weighhouse before the whole Board, as it did Hester Gaunt.
+
+#### What They Carry
+
+- **The cord** — a rope belt, wound six times, which every Thin wears. His is the original cord of Hester Gaunt, passed from Thin Man to Thin Man since 455.
+- **The ash-tin** — a small tin of fine grey wood-ash, sifted. He stirs a pinch into a cup of water twice a day. Ash-water is treason in the Fatlands.
+- **A knife** — a plain drover's knife, for cutting cord and bread for others.
+- **Hester Gaunt's spoon** — a horn spoon, worn thin, which she is said to have carried and never used. He gives it to Thin who are about to be taken, to hold in the Gavage.
+- **A list in his head** — of every Thin in every cell, by name; he writes nothing down.
+- **Bread** — always a loaf, which he carries for strangers who are hungry. He has fed half the plain this way, and eaten none.
+
+#### Wants, Fears and Secrets
+
+He wants to be needed. He wants one whole Carving without a Reaping somewhere. He wants, in the last place he allows himself to look, to be forgiven by the people he leads. He fears his own death, not for himself, and he fears the day any of the Thin works out what he worked out in 638.
+
+**Secret (the GM may reveal):** The hunger did not leave him. It went out of him, a little at a time, into those who fast beside him. Every Thin cell carries a share of Corder Lank's gnawing on top of its own, and that is why the Thin's fasts are so hard and why they fail so often. He has not told them. He cannot stop leading, because leading is the only thing that keeps him clear; if he stopped moving between the cells, the hunger would have no one to go to and would come home. If he dies, it goes back to the god all at once, and every Thin on the plain will feel it go.
+
+**Secret (he does not know):** He believes he has starved the god out of himself. He has not. Ummer does not want a field that does not feed it, and has simply stopped attending to him. His Regrowth is dormant, not reversed, and it is waiting for the day he eats.
+
+#### Ties
+
+- **Wren Hollowell** — the Fasting Girl, a Blank, the one person he cannot pass his hunger to. The Thin kneel to her; Corder does not, and she likes him best of anyone for it. She is proof that a person can be without hunger honestly, and he cannot look at her for long.
+- **Brother Glut** — his mirror: the other man in the south who no longer feels the hunger. They met once, at the edge of Gladbelly, and Glut embraced him and wept.
+- **Bailiff Dunmow Fatt** — who has taken him twice and wept both times, and is afraid of the quiet in his eyes.
+- **Feeder Callow Pudge** — who fed him in 632, and who now leaves one Gavage cell unbarred each Lack, because he asked her to.
+- **Tobias Wether** — a man who came from emptiness into hunger; Corder is very interested in him, and wants to know whether the hunger in Tobias can be passed.
+- **Pell Hogget** — whose Count Corder wants as the Thin's proof, and who will not give it.
+
+#### In Play
+
+PCs meet Corder in a barn at night, in the Orchards, or in the Gavage, where a PC might be held beside him. He wants from the PCs what the Thin always need: shelter, a way out of the Gavage for someone, a message carried to the Purgation, and above all a witness from outside the Fatlands who will say, somewhere the Board cannot reach, that the Reaping is real.
+
+- **One Clean Carving.** Corder has persuaded a single parish to keep its people out of the fields and refuse the dusk-shift for one season. The PCs are asked to help them hold out against the Bailiffs and the Cullmasters.
+- **The Weight of the Thin.** A Thin Hollow, starving, sick, begs a PC to explain why the fast is so much harder with the Thin Man present. The PCs may work it out.
+- **The Feeding of Corder Lank.** The Board takes him and announces his feeding in the Weighhouse. If he is fed, the god wakes in him all at once, and every Thin on the plain doubles over.
+
+**Threatened,** he does not resist, and does not run, unless others are with him. **Shown kindness,** he offers bread. **Faced with the god,** he is the one person in the Fatlands it looks past. If nobody intervenes, he is taken in the Lack of 642 and fed; he dies in the Gavage chair in the ninth day, eating, weeping, and the Thin break across the plain like a field going over in wind.
+
+[box: Said of Them]
+"He looked at me like I was a person and not a meal. Nobody's ever done that. I followed him four years for that look." — a Lean of the Thin
+"I fed him for a season. He thanked me every ladle. I've never been so ashamed of anything in my life." — Feeder Callow Pudge
+"There's always a thin man somewhere. You find him and you feed him and there's another. It's like weeding." — Under-Bailiff Mossop Tench
+[/box]
+
+### Mistress Brisket Annalow — Boss of the Renderers' Union
+
+> "Every barrel's got two marks on it, love: what it says and what it is. I know both. That's why I'm the one with the pencil."
+>> — Brisket Annalow, to a Board tax-clerk, Barrelside, 638 A.G.
+
+[stat: Brisket Annalow — Mistress of the Union]
+Land & Cut: Fatlands · Cut 2 (common line) · Regrowth 4 (the Appetite) · Hunger 4
+Age & Station: 58; Mistress of the Renderers' Union since 624; Stamper since 619
+Calling & Standing: Renderer · Standing 5 (Union Boss)
+Attributes: Hand 4 · Gut 4 · Lung 1 · Eye 4 · Tongue 4 · Caul 3
+Skills: Haggle 4, Reckoning 4, Intimidate 4, Feast 4, Labor 3, Endure 3, Clause 3, Blades 2
+Flesh 15 · Guard 13 · Armor 1 (salt-stiff apron) · Fray 2
+Attacks: cleaver on a chain +6 (3, Ripping; +1 damage from Know the Cut = 4)
+Gifts: Iron Belly (Taste). Know the Cut (Calling): by taste or smell she can tell what meat used to be. The Stopping Word: once a season she can halt every barrel at the Chute; the Rim Road Company will go hungry within the month.
+Wants: The Second Plate at Hunger 4+ (she chews salt fat all day, and it is never enough)
+Knacks: Butcher's Calm, Bone-Coin Nose, Strong Back
+Derangements: none
+Carries: the cleaver, the pencil, the second ledger, the Union stamp, a salt-pouch, a brass whistle
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+A vast red-armed woman of five hundred pounds, built square and solid as a salting-vat, in a leather apron so stiff with old salt it stands up on its own when she takes it off. Her grey hair is cropped to the skull against the heat of the rendering-sheds. Her face is broad, weathered and freckled, with small shrewd grey eyes and a mouth always working on a strip of salt fat. A cleaver hangs from a chain at her hip, worn bright; a pencil lives behind her right ear. She smells of brine, hot tallow, pipe-smoke and blood, and her hands are chapped raw to the wrist. She talks like a drover, loud and filthy and quick, and laughs like a kettle coming to the boil, a rising shriek that sets the yard-dogs barking. She walks slowly and never stops; she has been seen to cross the whole of Barrelside in an afternoon, eating, swearing and settling disputes as she goes.
+
+#### Their Story
+
+Brisket was born in Barrelside in 583 to a cooper and a tripe-dresser, and went into the yards at eight as a spit-hand. She was a Hook at fourteen, a Jointer at twenty, a Yardmaster at thirty. In 619 she was made a Stamper, with control of a barrel-mark, and with it the knowledge of what went into the barrels that bore it. That year she began a second ledger: every consignment's real contents set against its stamp. In 624 the old Mistress of the Union rooted in the Chute office, and Brisket took the chair by acclamation, standing on a barrel. She has kept the second ledger for twenty-two years, in her own hand, in a code of butchers' cuts that nobody else can read.
+
+#### Their Place in the Land
+
+She holds the Chute absolutely. Every barrel that leaves the Fatlands passes under a Union stamp, and every Stamper answers to her. The Board needs her for every lack of export revenue and taxes her as hard as it dares; the Rim Road Company needs her barrels to feed half the Table and pays her well not to look. She keeps Barrelside's peace with her yard-wardens, settles the Union's disputes in the open yard, and sits, by Union right, on the Board as its member, where she outweighs most Deacons and votes against the Chairman on every tax. Her day begins at the Firstbite bell on the Chute ramp, counting barrels, and ends at the Supper table in the Union hall, eating with her Stampers.
+
+#### What They Carry
+
+- **The cleaver on its chain** — her father's, ground so often the blade is half its old width. She has jointed nine hundred bodies with it and taken one man's hand, in 627, for selling Union stamps.
+- **The pencil** — a lead pencil in a bone holder, behind her ear. Every barrel she tallies, she tallies with it.
+- **The second ledger** — twenty-two years of true contents, in eleven greasy volumes, coded in cuts. "Brisket" means Dusk Acres meat. "Shin" means Sal Trotter's two-legged herds. "Hare" means Rootkin. "Tongue" means people.
+- **The Union stamp** — the master stamp of the Chute, brass, the size of a fist; any barrel bearing its mark goes up the Rim unopened.
+- **A salt-pouch of fat strips** — she chews all day.
+- **A brass whistle** — one long blast stops every winch in Barrelside. She has blown it twice in twenty years.
+
+#### Wants, Fears and Secrets
+
+She wants the Union paid and her people safe, and she wants, more and more, someone else to be blamed when the world finds out what has been in the barrels. She fears the day the Table stops buying; Barrelside would starve in a fat country. She would sell the Board out in an afternoon to keep the Chute open.
+
+**Secret (the GM may reveal):** She knows where Sal Trotter's bloodstock comes from. Each spring, in the Dusk Acres, the Cullmasters' men find calves lying in the furrows of the plots that Reaped the Carving before: pale, broad-faced, silent, with scars in the shape of letters. Her ledger matches the scars to Pell Hogget's names. The herds are the Reaped, come up again as stock, and she has been shipping them up the Rim as beef for twenty years. She has kept the ledger as her protection: if the Board ever moves against her, she will publish, and the Board knows it.
+
+**Secret (she does not know):** In 636 a Stamper named Wat Gristle went to his brother with the truth about the herds. Her deputy, Yardmaster Rook Tallowby, took out a contract on Wat in the Union's name, to protect her, without telling her. Jem Crackle did the work in a Sated kitchen. Wat was served in a pie. Hob Gristle tasted him.
+
+#### Ties
+
+- **Chairman Obb Tullow** — her enemy at the Board, and the only man who can tax her; they need each other and say so.
+- **Hob Gristle** — the best jointer in the south and the most honest man she knows; she has offered him a Stamper's seat three times. She does not know what he tasted.
+- **Quartermaster Ivo Stockpot** — who has been notching barrels; she has sent a clerk to count the notches and is frightened by the number.
+- **Sal Trotter** — her drover; Brisket pays her double and never asks about the road.
+- **Varn Sweetbread** — who supplies the Dusk Acres meat; she despises him as a man who calls slaughter by another name.
+- **The Rim Road Company** — her real master, she sometimes thinks, and the only customer who never complains.
+
+#### In Play
+
+PCs meet her at the Chute, as Union hires, Company agents, Board inspectors, or foreigners who have opened a barrel and want to know what was in it. She wants from them deniability: people from outside who can carry a barrel, a message or a ledger page somewhere and be blamed.
+
+- **The Undercutting.** The Vigil has started buying tallow from a cheaper source, and Brisket wants to know whose. It is the Second Table, rendering Blanks.
+- **Count the Notches.** Brisket hires the PCs to check one convoy against its manifest (see the core adventure).
+- **The Ledger Walks.** A volume of the second ledger is stolen. The Board, the Company and the Thin all want it, and Brisket will do anything to get it back first.
+
+**Threatened,** she blows the whistle. **Shown kindness,** she feeds you, and owes you, and remembers. **Faced with the god,** she reaches for the pencil. If nobody intervenes, the Board moves against her in 642 and she publishes the ledger on the Rim Road; the Table reads it and, after a month of horror, goes on buying, at a discount.
+
+[box: Said of Them]
+"She can shout a winch still from the other end of the yard. I've seen it." — a Hook of Barrelside
+"I've always admired a woman who knows exactly what she's selling." — a Rim Road Company factor
+"She's the only honest one in the business. She knows it's people and she says it's beef. The rest of them don't even know." — Hob Gristle
+[/box]
+
+### Hob Gristle — the Honest Butcher
+
+> "Sorry, Wilm. Sorry, old lad. You were a good man and you're good meat. Sorry."
+>> — Hob Gristle, jointing a deacon at a wake in Low Tilth, 639 A.G.
+
+[stat: Hob Gristle — the Honest Butcher]
+Land & Cut: Fatlands · Cut 3 (Gut-line, a cadet branch long fallen to trade) · Regrowth 5 (the Appetite) · Hunger 3
+Age & Station: 55; master jointer of Wakeside, Sated
+Calling & Standing: Renderer · Standing 2 (Cutter; he has refused Master three times)
+Attributes: Hand 3 · Gut 4 · Lung 1 · Eye 3 · Tongue 2 · Caul 4
+Skills: Feast 5, Blades 4, Labor 3, Endure 3, Stitching 2, Rites 2, Resolve 2, Lore 1
+Flesh 15 · Guard 15 · Armor 1 (leather apron) · Fray 7
+Attacks: jointing knife +7 (2 +1 = 3, Ripping); cleaver +7 (3 +1 = 4, Ripping)
+Gifts: The Naming Tongue: a mouthful of any meat tells him the beast, the field it ate from, and the name of anyone Reaped into that field; a mouthful of a person tells him their name and their last meal (no roll; it cannot be refused; each tasting of a person is a Dread 2 check for him). Gorge (Appetite).
+Wants: The Long Pig (he resists it at every wake, and has not failed yet); The Second Plate
+Knacks: Butcher's Calm, Steady Hands, Old Grief
+Derangements: Kept Grief (for his brother Wat; he sets a plate for him)
+Carries: the jointing set, the apology-cloth, the name-book, the casings, a pie-dish
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+A big, mild, sorrowful man with forearms like hams and a bald head always beaded with sweat, wearing a leather apron and a clean white shirt with the sleeves rolled to the elbow. His face is large, soft and kind, with heavy-lidded brown eyes that look as though he has just been told bad news. He moves slowly and precisely, and his hands, when he carves, are as light as a lacemaker's. He smells of carbolic soap, honed steel, and faintly of rosemary, which he chews to clean his mouth between tastings. He speaks softly, says sorry often, and apologises to every joint by name, under his breath, as the blade goes in.
+
+#### Their Story
+
+Hob was born in Wakeside in 586, the elder of two sons of a jointer. He carved his grandmother at twelve, as Wakeside custom requires, and has carved at wakes ever since: forty years, perhaps four thousand bodies, deacons and Carriers and children, a Gut-line lord in 621 who took three days. He was always good. In 630 he reached the Appetite and the gift came: he put a scrap of sausage in his mouth at a market and knew the pig, the farm, the field, and the name of a girl who had been Reaped into that field's wheat four years before, which the pig had eaten. He was sick in the gutter. He has been able to taste names ever since, in every mouthful. It has ruined him for the trade and for food. He still works, because jointing at wakes is the only honest money left: there, at least, everyone knows whose meat it is.
+
+In 636 he bought a pie in Sated, on Ladle Lanes, and tasted his brother Wat.
+
+#### Their Place in the Land
+
+He is the most sought-after jointer in the south, after Pudding Hesk's cooking. Families wait months for him. He charges ten lacks a body and gives half back to the poor. He also sells **tastings**: five lacks to tell a family what a cut of meat used to be, by name, which families buy when they suspect a barrel or a cookshop holds someone they lost. He depends on Wakeside's custom, on the Union card that lets him work, and on Brisket Annalow's protection, which she gives without asking why he refuses promotion.
+
+#### What They Carry
+
+- **The jointing set** — eleven knives and a cleaver in a rolled canvas, his father's, each blade named for a family member.
+- **The apology-cloth** — a square of white linen he lays over the face of the dead before he begins. He washes it after every wake. It is never quite white.
+- **The name-book** — a small book of every name he has tasted in meat that was not sold as a person, with the place he bought it. Six hundred names.
+- **Tattooed casings** — bought from Mardy Haunch of Gristmoot, sausage-skins tattooed in blue, which he is trying to return to the families whose names are on them.
+- **A pie-dish** — empty, chipped, from the cookshop where he tasted Wat. He set it at his table for five years. He sets a place beside it.
+
+#### Wants, Fears and Secrets
+
+He wants one barrel from the Chute that tastes of nothing but beef. He fears the day he tastes someone he loves; it has already come.
+
+**Secret (the GM may reveal):** He tasted his brother in a pie on Ladle Lanes in 636 and has told no one. He knows Wat was not Reaped: there was no Reaping in Sated that night, and the meat tasted of a kitchen knife, not a field.
+
+**Secret (he does not know):** Wat was killed by Jem Crackle on a Union contract taken out by Yardmaster Rook Tallowby, Brisket Annalow's deputy, because Wat was about to tell Hob about the herds.
+
+#### Ties
+
+- **Brisket Annalow** — his protector and his Union boss; she calls him the only honest man in the trade.
+- **Dame Suet Marrable** — whose family wakes he has jointed for sixty years, father and son; he has refused her cellar table twice.
+- **Wakemother Pudding Hesk** — his partner at a hundred wakes; she cooks what he carves, and they weep together.
+- **Mardy Haunch** — who sells him casings and does not ask.
+- **Jem Crackle** — a cheerful young kitchen man who once asked him how he gets such clean joints. Hob showed him.
+- **Tansy Lard** — whose mother's family he jointed; he would know the hare birthmark anywhere.
+
+#### In Play
+
+PCs hire Hob to taste something: a barrel, a pie, a Rootkin, a joint from Marrable Hall. He wants from them his brother's killer, though he will not say so until he trusts them.
+
+- **Who Is in the Pie?** A PC's missing contact may be in a cookshop's stock. Hob can tell. He will need to eat it.
+- **The Casings.** Hob asks the PCs to help return a tattooed casing to a sailor's family in Brinehollow, and the trail leads up the Rim.
+- **The Kitchen Knife.** If the PCs learn who killed Wat, Hob asks them, very quietly, not to tell him. Then he asks them to.
+
+**Threatened,** he puts down the knife. **Shown kindness,** he cooks. **Faced with the god,** he tastes it. If nobody intervenes, Hob eats nothing for a month after a wake at which he tastes someone he will not name, and is found sitting at his table beside two plates, rooted to the kitchen floor through his slippers.
+
+[box: Said of Them]
+"He carved my mam. He said sorry to her elbows. I've never forgiven anyone so fast." — a woman of Wakeside
+"Five lacks to know it's not your husband. I'd pay fifty." — a widow of Low Tilth
+"Big soft fellow. Very clean joints. I learned a lot from him." — Jem Crackle
+[/box]
+
+### Cullmaster Varn Sweetbread — the Board's Quiet Hand
+
+> "Work well. The field is grateful. You are paid in full."
+>> — the words Varn Sweetbread says at every stone, to every worker, every Carving evening since 619
+
+[stat: Varn Sweetbread — Cullmaster-General]
+Land & Cut: Fatlands · Cut 3 (Prime Cut, the Sweetbread pancreas-line) · Regrowth 5 (the Appetite) · Hunger 4
+Age & Station: 52; Cullmaster-General of the Board of Plenty since 633
+Calling & Standing: Factor (as a Board officer) · Standing 4; Cullmasters' rank 5
+Attributes: Hand 2 · Gut 3 · Lung 2 · Eye 4 · Tongue 3 · Caul 3
+Skills: Reckoning 4, Clause 3, Intimidate 3, Resolve 3, Rites 2, Endure 2, Lore 2, Blades 1
+Flesh 13 · Guard 13 · Armor 0 · Fray 2
+Attacks: ribboned sickle +3 (3); he also has the right to a black-iron Cullmaster's sickle (4, Hooking, Ripping, Silent) and does not carry it
+Gifts: Field-Reading: on any Carving evening he knows which plot will Reap first, and roughly when. Taste the Name (Appetite): a slice of bread from a plot tells him who was taken there.
+Wants: to see the line through to the end (he cannot leave a dusk-shift before full dark, Hard 14 to break off); to taste the bread of each plot he culled; The Second Plate
+Knacks: Counting Habit, Unflinching
+Derangements: none
+Carries: the plot-ledger, the lantern, the red cloth, the ribboned sickle, lavender water, spectacles, a loaf
+Dread: 2 (to watch his dusk-shift)
+[/stat]
+
+#### Who They Are
+
+A neat, plump, pink man of middle height in good grey broadcloth, with soft white fingers, a round clean-shaven face, rimless spectacles and thinning fair hair combed flat. A ledger is chained to his belt. He smells faintly of lavender water, which he uses to cover the smell of the field that clings to him after Carving. His voice is gentle and his manners perfect: he stands when a woman enters, he remembers children's names, and he says please to Bailiffs. He is not cruel. He has never raised his voice to anyone. That is the worst thing about him.
+
+#### Their Story
+
+Varn was born in Sated in 589 to a family of Board clerks, a minor Prime Cut. He was a Lanternbearer at nineteen and walked his first dusk-shift in 608 behind a Cullmaster who wept; he did not. He was a Listing Clerk by 612, a Cullmaster by 619, Senior Cullmaster by 625, and Cullmaster-General in 633. His rise was due to arithmetic. He weighed each plot's yield in the year after its Reaping and proved that the field took the culled more gently, and returned more bread from them, than from Reaped farmers. He proposed that the dusk-shift be extended. The Board agreed.
+
+#### Their Place in the Land
+
+He draws up the lists, or approves them, for every district, from the Bailiffs' reports, the debt-rolls and the Board's quiet instructions, and the Chairman signs them. On Carving afternoons his clerks read them in village squares. On Carving evenings he walks a line himself, somewhere on the plain, behind his workers, and bows at every stone. His ledgers record each plot, each worker, the time of each Reaping, and the next year's yield. He depends on the Chairman, who signs, and on Brisket Annalow, who buys the Dusk Acres meat and the Rootkin his men harvest by night.
+
+#### What They Carry
+
+- **The plot-ledger** — chained to his belt: every plot of the Dusk Acres, every worker sent to it since 619, every yield after. In it, in 637: *Hogget, P.: struck, by exchange.*
+- **The lantern** — brass, shuttered, which he carries behind every line. He lights it from the Supper fire of the workers' last meal.
+- **The red cloth** — a roll of red linen strips; one is laid across the end of every row, and tied at every worker's wrist. The ground knows the cloth.
+- **The ribboned sickle** — a ceremonial sickle with a green ribbon, the one he bows with.
+- **Lavender water** — in a silver flask.
+- **A loaf** — always, from last year's plots. He eats a slice with every meal and knows whose it is.
+
+#### Wants, Fears and Secrets
+
+He wants the line seen through and the figures right. He wants to taste the bread of every plot he culled, as a matter of respect. He fears an empty plot-ledger; he fears being wrong about the yield.
+
+**Secret (the GM may reveal):** His own name is on next Carving's list, in the Chairman's hand, because Sweetbread has begun to keep his own figures, and they disagree with the Board's.
+
+**Secret (he does not know):** The figures disagree because the field has stopped taking his workers first. Since 638 the field has been choosing for itself, and what it chooses, more and more, are the Lanternbearers and Cullmasters who stand on the road watching. It has learned who feeds it.
+
+#### Ties
+
+- **Chairman Obb Tullow** — his master; Varn admires him and does not know about the list.
+- **Pell Hogget** — whose wife he walked to the row, and whose Count he respects as fellow work. He would like to compare ledgers.
+- **Brisket Annalow** — his buyer, who despises him.
+- **Corder Lank** — whom the field will not lean toward; Varn would give a great deal to understand why.
+- **Cullmaster Hedley Brawn** — his best officer, missing on the Rim Road with a little book of dusk names.
+
+#### In Play
+
+PCs meet Varn when a name is read: theirs, or a friend's. He is courteous and immovable, and he will explain the figures to anyone who asks.
+
+- **The Dusk List.** See the core book: a PC is listed, and the PCs have until dusk.
+- **Walk the Line.** Varn invites a PC to carry the lantern, as a courtesy, so they can see it is agriculture.
+- **His Own Name.** A PC finds the list with Varn's name on it. What they do with it is up to them; Varn, told, thanks them, checks the hand, and goes very pale.
+
+**Threatened,** he calls the Bailiffs, politely. **Shown kindness,** he is touched, and offers a seat at the workers' supper. **Faced with the god,** he takes notes. If nobody intervenes, he walks his own row in Carving 642, in a white smock, holding his own lantern, and records the time.
+
+[box: Said of Them]
+"He bowed to my son. He said *paid in full*. My son owed nine lacks." — a mother of Bramble Furrow
+"The finest administrator on the Board. I mean it as a compliment and as a warning." — Chairman Obb Tullow
+"He smells of lavender. Everyone on the row smells of lavender after. It's the last thing they smell." — a Lanternbearer
+[/box]
