@@ -267,3 +267,203 @@ I have copied the unnumbered line from every season of the year 641. I set them 
 **What the Tally is for.** In Cradlewrack the Tally is the only proof of personhood. A Guest whose line is ruled may be taken for a late Opinion (*returning*) by any Attendant who checks. A Guest whose line is empty, as entry 4,600's, is something the Attendance has no law for, and the Lying-In wants very much to ask them the Second Question.
 **Secret.** Rufus Ochre's eleven hundred: the Tally of 640 shows 1,105 more births than were carried by anyone or anything, and Ochre has been following the unaccounted at night and found three, born-grown, walking north in a line. The Carver should compare this number with the Long Count's total for Carving 640 (below) and decide whether it is a coincidence. Nobody on the Table has put the two side by side. Nobody has both documents. The Guests may.
 [/box]
+
+[pagebreak]
+
+## The Long Count
+
+[sigil: fatlands]
+
+Hogget's Barn stands at the end of Kettle Furrow, in Low Tilth, a plain timber barn with its doors propped open and the smell of black soil and chalk-dust coming out of it. Its east wall is the village's own tally, scratched and painted course by course since 629; the core book gives the lower course of it. Its north wall is something else. It is where Pell Hogget enters the numbers that the other villages send him, folded in shoes and hat-bands and the hollow handles of drovers' sticks, every Carving, and it is the only place on the Table where the Reaping is written down in full for anyone to see. Pilgrims come to touch it. The Board has twice tried to burn it. The copy below was made on oiled slate by a Long Count runner named Hennet Callock, who carried it to forty parishes in her boot before the Bailiffs took her at the Tilth causeway in Lack 640; the slate was recovered from the ditch and is now kept, cracked across, in a fold of sacking under Old Mother Rind's pear trees.
+
+The marks on the wall are simple, and every child in Low Tilth can read them: a stroke for each Reaped; a stroke with a cross-bar for each dusk-shifted who did not walk back; a ring for each Seated; and, since 638, a stroke with a small open curve at the top like a hand held out, for *taken by a hill*. Callock's slate turns the strokes into figures. A half is a half.
+
+[fiction]
+THE LONG COUNT, AS ON THE NORTH WALL OF THE BARN AT KETTLE FURROW. Copied fair by H. Callock, Carving 640, by leave of P. Hogget, who says: "Copy it how it is. Don't round. Don't leave anyone off." Mark-key: I = Reaped. +  = dusk-shift, not back. O = Seated. Ω = hill. Totals in Pell's hand. The column at the right in Pell's hand also, headed PROJECTED, which he says is not a prophecy, it is a sum.
+[/fiction]
+
+### The North Wall, Low Tilth Course
+
+| Year | Kettle Furrow | Bramble Furrow | Hask's End | Callock Green |
+| 629 | 4 | (not sent) | (not sent) | (not sent) |
+| 630 | 5 | 7, of which + 4 | (not sent) | 3 |
+| 631 | 6 | 8, of which + 5 | 6 | 3 |
+| 632 | 8 | 11, of which + 7 | 7 | 4 |
+| 633 | 9 | 12, of which + 9 | 9 | 5 |
+| 634 | 12 | 15, of which + 11 | 10 | 5, & O 1 |
+| 635 | 13 ½ | 19, of which + 14 | 12 | 7 |
+| 636 | 16 | 22, of which + 18 | 14 | 8 |
+| 637 | 18 | 26, of which + 21 | 15 | 10 |
+| 638 | 20 | 30, of which + 26 | 18, & Ω 2 | 11 |
+| 639 | 24 | 37, of which + 31 | 20 | 13, & Ω 1 |
+| 640 | 27 | 41, of which + 35 | (not sent) | 15 |
+
+### The North Wall, Western Course
+
+| Year | Dimble | Sorrel Bottom | Tidy Acre | All Villages Sending |
+| 634 | 7 | 6 | 2 | 330, from 82 villages |
+| 635 | 8 | 8 | 3 | 418, from 103 |
+| 636 | 22 | 9 | 3 | 560, from 121 |
+| 637 | 9 | 11 | 4 | 673, from 140 |
+| 638 | 11 | 31, & 9 | 4 | 790, from 158 |
+| 639 | 14 | 19 | 5, & O 2 | 921, from 177 |
+| 640 | 20 | 22 | 6 | 1,104, from 196 |
+| 641 | (being counted) | (being counted) | (not sent) | 1,231 so far, from 200 |
+
+[fiction]
+MARGINAL NOTES ON THE NORTH WALL, as copied by H. Callock. Each is in the hand of whoever brought the tally, scratched or chalked beside the figure. Pell does not rub any of them out.
+Beside Kettle Furrow, 635, the half: "the Pennick baby. Half out of the furrow. Lived a week. Counts as half because Pell says so, and Pell's the one counting."
+Beside Bramble Furrow, every year, in the same small careful hand: "most of ours are crossed. We owe." And under 640: "Wren Hollowell's mam is in the 640 crosses. They put her on the list to make the girl come home. She has not come home. Good girl. Stay gone."
+Beside Hask's End, 640, "(not sent)": "We've stopped sending. Pell won't count Amos Tallis because the field didn't take him. If Amos doesn't count none of us count. Hask's End." And under, in Pell's square hand, chalk: "I count what the god takes. That's the whole of it. I'm sorry about Amos. I'll keep your column open."
+Beside Callock Green, 634, the ring: "old Wilm Rake, who sat down to a table in the far field at dusk that we none of us had laid, and is sitting there yet, and waved."
+Beside Dimble, 636: "a fifth." Beside Dimble, 637: "first year of the furrow. 9 not 11." Beside Dimble, 638, 639, 640, in a different hand each year and then in no hand at all: the figures only. Below the 640 figure, scratched so deep the chalk has gone into the grain: "4 lads for this."
+Beside Sorrel Bottom, 638: "the Old Walk." And under it, in a long column of names written small, thirty-one names, each with an age beside it, none less than sixty-two. Then: "9 more of the young, the same Carving. We did it so the young would be spared. It was asked of us. We were glad. We went out singing, the old ones, Pell, in our Sunday smocks, and we sat down in the Long Ley at dusk with our backs to the village so the young ones need not see, and the field took us one by one and was it any less hungry for the young? Write it down. 639: 19. All young. Write it down, Pell. Somebody write it down." The hand is old. Below it, in Pell's: "The Old Walk was 31. They came back in 639. Not to the village. To the Long Ley. They stand in it at dusk with their backs to us and the young go out to them because their grans are calling. 639: 19. I have written it down."
+Beside Tidy Acre, 641, "(not sent)": nothing. The runner who carried Tidy Acre's tally came in without it, and sat in the barn door until dark, and would not say. Pell sent a boy. The boy said the village was there, and the doors were open, and the tables were laid in every house, and there was nobody in the chairs, and the field had come right up to the doorsteps and stopped, very neat, like a cloth.
+At the foot of the whole wall, in paint, in a large slow hand: NELL.
+[/fiction]
+
+[pull] Copy it how it is. Don't round. Don't leave anyone off. | — Pell Hogget, to every runner who copies the wall; he has left one person off every year since 637
+
+### The Arithmetic
+
+Pell Hogget does sums the way other men pray, and his sums are on the barn door, in chalk, rubbed half out and done again. Callock copied them onto the back of her slate. Most of them are the arithmetic his neighbours already know and say aloud in the inns of Low Tilth: the Reaping in any village doubles every eight or nine years; Kettle Furrow had two hundred and six souls in 629, and at this rate the year's Reaping will equal the village in 660; Low Tilth will be gone into the wheat before 680. Some of the sums are other things, the arithmetic that people in the Fatlands have begun to call, in a low voice, *the sum you don't do*. Callock copied those too.
+
+[fiction]
+ON THE BACK OF THE SLATE, in H. Callock's hand, copied from the barn door. "Pell's door sums. He says copy them but say they're only sums."
+ONE. The doubling. 4 in 629. 27 in 640. Doubles in 8 yrs and a bit. 2nd doubling 648, 54. 3rd 656, 108. 4th 664, 216. Kettle Furrow is 194 souls. "Before 664 the field takes the village in a year. Before then it takes more than half. The year it takes more than half, nobody will be left to bring the tally. So the last number on the wall will be wrong. I want somebody to know it was wrong."
+TWO. All villages. 330 in 634, 1,104 in 640. Some of that is more villages sending. Take it out, take only the villages that sent every year since 634: still doubling, every 9 yrs. The Board says there are four hundred thousand in the Fatlands. "I worked it the long way and the short way. The short way, the field takes the whole country in one Carving in 712. The long way, 709. It doesn't matter which. Barnaby will be 87, 84. If he's lucky."
+THREE. The eating. Pell took the villages that eat most (by the Bailiff's own Feasting lists, which the Bailiff's clerk copied for us for a ham) and the villages that eat least. "The ones who eat most lose most. Every year. Every village. The fat villages lose two to the thin villages' one. This is a sum you can be hanged for, because it means the Thin are right, and fasting is treason, so I have not written what it means, only what it is." Under it, in another hand, chalk, very large: CORDER LANK WAS HERE. Under that, rubbed nearly out: "and so was the Bailiff, the next day. Barnaby."
+FOUR. The house. "Barnaby did the sum for our house. Three of us: me, Barnaby, and [a word rubbed out]. Two of us. If the village goes in 664, and each house goes in turn by the size of the eating, and we eat less than most since his mam, then we go in 661, at the end of Carving, Barnaby first, being younger and hungrier. I rubbed it out. He did it again. I rubbed it out. He did it again in his own blood on the inside of the door where I couldn't reach to rub it, and I have left it, because he is a good boy and he is right, and I taught him." (Callock: I did not copy the inside of the door. I saw it. It is in a boy's hand, brown, and it is the same sum, and it is right.)
+FIVE. The one he won't do. Across the bottom of the door, in Pell's hand, a line of figures with a line struck through them, and the strike gone so deep the chalk has been knifed into the wood: 637: 18. 638: 20. 639: 24. 640: 27. "Each one, one short. I know. I can't." That's all it says.
+[/fiction]
+
+[box: Carver's Notes: The Long Count]
+**Finding the wall.** Hogget's Barn is never locked. Any Guest may go in and read the north wall; copying it takes an afternoon. Pell feeds visitors, answers questions with numbers, and asks them to carry slates to the next villages. A Guest who agrees becomes a Long Count runner; the Bailiffs know the faces, and the slate in a boot is a hanging matter since 637.
+**Reading it.** A Guest who reads the wall closely (Eye + Reckoning, Hard 14) sees that Kettle Furrow is one short every year since 637. A Helping shows the "NELL" at the foot is in the same paint as the 637 figures. A Guest who does Pell's door sums for themselves (Eye + Reckoning, Routine 10) and understands them makes a Dread 2 check. The fifth sum is a Dread 1, and an open door into Pell's grief.
+**Hooks.**
+- *Tidy Acre.* The village that did not send its tally in 641. The tables are laid in every house, the chairs are empty, and the field has stopped at the doorsteps like a cloth. Orrum has never before laid tables inside the Fatlands with nobody sitting at them. Who are they for? (They are for whoever comes to count.)
+- *The Old Walk.* The thirty-one elders of Sorrel Bottom stand in the Long Ley at dusk, backs to the village, and the young walk out to them. Their grandchildren beg the Guests to bring the old ones back, or to stop them calling. The old ones are a worthless sacrifice, given gladly and taken by a field that was not one mouthful less hungry for it. They are also, at dusk, very persuasive. Each of them asks a Guest by name to come and sit a while: Invitation check at Hard 14, as if Orrum offered, because the field has learned it from the Host.
+- *The Bailiff and the Boy.* Barnaby Hogget, sixteen, has done the sum for his own house in his own blood. The Bailiff has seen the third sum on the door. The Cullmasters are drafting the 641 dusk-shift list, and Barnaby's name is the obvious way to stop the Count without making a martyr of his father. The Guests learn of it from Varn Sweetbread's clerk, who wants a ham for the information, and then another.
+**Rule: the Count as a clock.** In a Fatlands campaign, the Count is how the Carver shows the land worsening. Each Carving that passes in play, add the doubling to every village column (multiply by about 1.1 each year, rounded up), and add one village column the Guests know personally. The day the Guests' own village's column reaches its population, it is the last year anyone sends it.
+**Secret.** Pell's total for all villages in Carving 640 is 1,104. It is one short, because Nell is missing. The true figure is 1,105. The Tally of Cradlewrack for the same year records 1,105 more births than were carried by anyone or anything (Rufus Ochre's "eleven hundred"). Neither man has seen the other's figure. The Carver may treat this as coincidence, or as the shape of something: that what the Fatlands field takes at dusk in Carving is born in the red hills, grown, without a bearer, and walks north in a line toward the Sill. If the Guests lay the two documents side by side, Pell Hogget will at last have to put Nell's mark on the wall, because the sum does not close without her; and if he does, the 641 Tally in Kest will record, the same evening, one more birth without a bearer: a woman of about forty, in a white smock, with a ribboned sickle, who asks for her husband by name.
+[/box]
+
+[pagebreak]
+
+## A Child's Book of Refusals
+
+[sigil: fast]
+
+There are few books in the Fast, because paper must be carried in from the Rim like bread, and anything carried in is counted. This one is in every household. It is printed in Wanting from woodblocks cut in 412, on coarse grey Rim paper, folded and stitched with ration-thread, one copy to each family on the Pantry roll, and it is how every Unfed child has learned to read for two hundred years. It is read standing. It has no pictures of food. It has one picture of a table, and the child is meant to find it. The copy here belonged to Abstain Rooke, called Abby, eleven, of Bell Ward, and it carries her additions in pencil; the Hostwatch took it from her house in Carving 641, after her mother brought it to them with her hands shaking and asked them to burn it, and they did not.
+
+[fiction]
+A CHILD'S BOOK OF REFUSALS. Set for the Cold Yard schools of Wanting and the Wards, under the Abstinent, by Mistress Meagre Holt, in the year 412. Reprinted from the same blocks. To be read standing, facing the wall or the sky. A child who cannot say the Rules does not eat today. A child who can say the Rules may eat, and must not enjoy it.
+[In pencil, on the inside cover, Abby: THIS BOOK BELONGS TO ABSTAIN ROOKE, BELL WARD, WANTING, THE FAST, THE TABLE. IF FOUND, NO THANK YOU.]
+[/fiction]
+
+### Lesson the First: The Rules
+
+The Five Rules are the oldest thing in the Fast after the Refusal, and the book sets each as a skipping rhyme, to be chanted in the Cold Yard while the rope turns. The rhymes are coarse, quick and easy, and every Unfed adult can still skip to them, and some do, alone, at night, when the smell of baking comes up the road.
+
+[fiction]
+THE FIRST RULE. Never enter a house where the hearth is already lit.
+Smoke in the chimney, nobody home,
+Warm on the doorstep, warm on the stone,
+Who lit the fire? Not your Gran.
+Turn on your heel and run while you can.
+THE SECOND RULE. Never answer "Come in."
+Knock at the door and the voice says come,
+It sounds like your sister, it sounds like your Mum,
+Bite on your tongue till the tongue goes numb.
+Come in, come in. No, thank you. Mum.
+THE THIRD RULE. Never eat what you did not carry yourself.
+Carry your crust in your own two hands,
+Carry it over the empty lands,
+If you didn't carry it, it's not bread,
+If you didn't carry it, it carries you instead.
+THE FOURTH RULE. If you smell bread, walk into the wind.
+Sniff, sniff, what's that smell?
+Somebody's baking, and baking well,
+Turn your face where the cold wind blows,
+And never mind what's under your nose.
+THE FIFTH RULE. If a chair is pulled out for you, do not thank it.
+Chair pulled out and the cloth laid white,
+Lamp in the middle, burning bright,
+Don't say thank you, don't say please,
+Don't you dare go bending your knees.
+[In pencil, beside the fifth, Abby: why not thank it. It would be polite. Mistress Holt said because. That is not a reason.]
+[/fiction]
+
+### Lesson the Second: Reading
+
+The reading lessons are short sentences of one syllable, built on the Refusal, and they are the first words most Unfed ever read. The Abstinent have changed nothing in them since 412, and they read now like a voice from a hungrier century.
+
+[fiction]
+See Nay. Nay is thin. Good Nay.
+Nay has a crust. Nay did not bake the crust. Nay did not find the crust. Nay's Dad got the crust from the Pantry and Nay's Dad gave it to Nay and Nay put it in her own hand. Nay may eat the crust.
+See Spare. Spare is thin. Spare is thin as a stick. Spare can count his ribs. One, two, three, four. Good Spare.
+See Lent. Lent is in a house. The house has a fire. Lent did not light the fire. Bad house. Run, Lent, run.
+See the cake. The cake is on a plate. The plate is on a cloth. The cloth is on a table. Nobody put it there. Do not look at the cake.
+See the chair. The chair is pulled out. Who pulled out the chair? Not Mum. Not Dad. Not Nay. Not Spare. Not you. Do not sit in the chair.
+See the field. Nothing grows in the field. Good field.
+See Gran. Gran is at the table. Gran is eating. Gran is happy. Gran is not hungry. Gran is not coming home. Say goodbye to Gran.
+[In pencil, under "Say goodbye to Gran", Abby: we did this one in Yard and Wont Garrity cried and Mistress Holt made him stand at the wall and he still cried at the wall.]
+[/fiction]
+
+[pull] See the field. Nothing grows in the field. Good field. | — A Child's Book of Refusals, the reading lessons; Yield Hartsell, who has grown one green blade in dead soil this year, learned to read from it
+
+### Lesson the Third: Find the Laid Table
+
+The centre of the book is a double page: a single woodcut, crowded and busy, of a farmhouse yard on a Carving afternoon. Children are made to stand before it and point. The cut is crude, black and grey, with the cross-hatched shadows of an old block, and every child in the Fast knows it as well as they know their own hands. The caption reads, *There are nine things in this picture that want you. Find them all. Then turn the page and see if you are still here.* Abby's copy is described here as the Hostwatch tracker who received it described it, item by item, in his report.
+
+[fiction]
+THE PICTURE (as described for the Hostwatch). A farmyard, square, stone-walled, the house at the back with two windows and a door. A well in the left foreground. A cart, empty. A row of washing on a line. Two children in the middle ground, a boy and a girl, thin, in Unfed coats, walking away from the house toward the viewer, holding hands. The sky is blank paper. The things, as numbered on the answer page:
+1. The chimney. A thin line of smoke goes up from it. There is no one in the house.
+2. The door. It stands open a finger's width. In the black slit of it, if you hold the page close, the cutter has carved two letters, very small: C and I.
+3. The window on the left. A woman's face, soft and kind, cut in a few lines. She looks like everybody's mother. That is the point.
+4. The window on the right. On its sill, a round loaf, steaming; three wavy lines go up from it to show the smell.
+5. The well. A white cloth has been laid over its lid, folded neat at the corners, like a cloth on a table.
+6. The washing. Among the shirts on the line is a long white tablecloth, and it is not blowing the same way as the shirts.
+7. The cart. Its tail is down, and on the tail, as on a step, is a little cup.
+8. The ground before the children. There is a chair in the yard, behind them, turned toward them, pulled out. They have walked past it. They have not looked back. This is the one the children find last.
+9. The girl's hand. In the hand that is not holding her brother's she has a small card, white, the kind that is set at a place. She has picked it up. She is not reading it. Good girl.
+[On the answer page, Abby, pencil: I found ten. Mistress said there are nine. The tenth is the boy's other hand. It is behind his back and he is holding something and the cutter made it so you can only just see. Mistress said it's a stone. It is not a stone, it is a fork.]
+[Below, in a different pencil, much later and much smaller, Abby: I looked again this morning and it is a spoon now.]
+[/fiction]
+
+### Lesson the Fourth: The Damned, by Heart
+
+[fiction]
+THE GODEATERS, A COUNTING-RHYME, to be said before the evening ration, with a finger touched to each of the six. The Unfed child should know the lands of the damned as the Rim child knows its kings.
+One for the fen where the dead won't stop,
+Two for the field with the teeth in the crop,
+Three for the coast where the sea goes in,
+Four for the lamps and the lidless kin,
+Five for the hills where the door won't stay,
+Six for the canyon that hears what you say.
+Six who ate and six who're fed,
+Six with a god growing back in their head.
+And one who didn't, and that is we,
+Hungry and clean as clean can be.
+[In pencil, under the last line, Abby: Mistress what about eight. Mistress said there are only seven, six and us. I said the table on the colouring page has eight sides. She said colour the seven.]
+[/fiction]
+
+### The Colouring Page
+
+The last page of the book is a woodcut outline, for colouring, in the charcoal that Unfed children are given one stick of each Grace: Hallowboard, the stone table of the Refusal, seen from above, an octagon on a round chalk hill, with forty little figures in the trench around it, standing with their backs to the stone. The figures stand at seven sides. At the eighth side the cutter has left the chalk empty, and the line of the table's edge on that side is not cut at all. The table simply stops, and the white paper goes out to the edge of the page.
+
+[fiction]
+COLOUR THE PICTURE. Colour the table grey, because it is stone. Colour the hill white, because it is chalk. Colour the ones who stood any colour you like, because they are ours. There are seven sides where they stood. Colour them. The eighth side is white. Leave it white. It is someone else's.
+[Abby's copy, as found. The table and the hill are coloured, carefully, inside the lines. The forty figures are each a different shade, and each has a name written small under it in pencil: Grandad Rooke, Great-Gran Rooke, and the names of Abby's neighbours' great-grandparents, and some names that are not from the Fast at all. The eighth side is white. Its edge, where the cut line stops, has been bitten. There is a small, neat, crescent-shaped piece missing from the paper, the size of a child's bite or a little smaller, the edge of it faintly damp and puckered, as paper is that has been in a mouth. Beside it in pencil, in Abby's hand, very shaky: I did not. I promise I did not. It was like that in the morning. I left a crust on the sill like always and it was gone like always and this was done and there was nothing on the sill in place of it this time. NOTHING. It always leaves something.]
+[/fiction]
+
+[box: Carver's Notes: A Child's Book of Refusals]
+**Getting a copy.** Every Unfed Guest learned to read from this book and can recite the rhymes; every Unfed household has one. A Guest from elsewhere can be given one by a Wanting schoolmistress (a kindness, offered three times and accepted on the fourth). Abby Rooke's own copy is held by the Hostwatch in Wanting, by Spare Tolland, who has not burned it.
+**Rule: the rhymes.** A character who knows the Five Rules rhymes by heart (all Unfed; anyone else after a week in a Cold Yard school) may chant one aloud when Orrum offers, once per offer: a bonus die (the Tooth's d6, but it costs no Hunger) on the Invitation check, provided the rhyme fits the offer (the Fourth for the smell of bread, the Second for a voice at a door). A companion may chant it for them instead, as speaking the Decline. Children chanting it for an adult add two dice; the Unfed say the god likes children best, and listens to them hardest.
+**Rule: Find the Laid Table.** The woodcut is a game the Carver can play at the table: read the description of the yard aloud, once, and ask the players to name the nine things. Every Guest who names at least seven gains +2 on their next Search to notice one of Orrum's offers. A player who names a tenth thing not in the list has found what will be offered to their character next; the Carver should note it and use it.
+**Hooks.**
+- *The Bitten Page.* Abby Rooke has been leaving a crust on her windowsill for a year, and each morning it has been replaced with something better, as the core book says. On the night her colouring page was bitten, nothing was left in its place. Abby is frightened for the first time. Whatever has been answering her has stopped, or been interrupted, or been replaced at her window by something that takes and does not give. Spare Tolland asks the Guests to sit up at her sill. What comes to the sill is courteous and hungry and does not lay anything.
+- *The Spoon.* The boy in the woodcut is holding something different in every copy, and it is not a stone. Mistress Meagre Holt cut the blocks in 412; her house in Wanting is a hearthless ruin, and the original block is in its cellar, in a box, with the boy's hand cut out of it. Somebody has been printing new copies from a recut block. The children who learned from the new copies are the ones who have started walking west.
+- *Forty Names.* Abby wrote a name under each figure on the colouring page. Some are names nobody in Wanting knows. Reft Lammas, Roll-Keeper of Barrowgate, recognises three of them from the Barrow rolls of the Refusal, and they are the names of three who stood at Hallowboard in the ninth winter and whose names have been lost from every record for six hundred years. Abby says she was told them. She will not say by whom.
+**Secret.** The answer page lists nine things that want you. The book's first printing in 412 listed ten. The tenth was cut from the block before the second printing by order of the Abstinent, and its entry on the answer page was chiselled out, so that in the oldest surviving copies there is a blank rectangle after the ninth entry with the faint ridges of words in it. It said what was standing at the eighth side of the table in the colouring picture. It is the same thing a child finds when they find a tenth thing in the yard, and it has never once, in two hundred years, been the same object twice, because it is always the thing the child wanted most.
+[/box]

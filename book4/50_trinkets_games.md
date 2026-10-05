@@ -569,13 +569,13 @@ Nobody knows what the lie says. The cadet does not remember. If it is unsealed a
 
 A crust of bread, the heel of a dark loaf, hard as fired clay, wrapped in a square of clean white napkin. It is perfect: no mould, no staleness beyond hardness, and when broken (it has been broken, once, and the halves fit), the crumb inside is soft and warm and smells of a kitchen on a winter morning. It has been eleven years since it was baked.
 
-It came from Wanting, from the window of a widow named Forgo Ainsley who, the winter after her daughter was Seated, broke the rule and left a crust on her sill. She did it for the reason everyone does: so that if the child was hungry, there would be something there. In the morning it had been taken, and in its place was this, wrapped in this napkin, still warm. She did not eat it. She did not throw it away. She did not leave anything on the sill again. She kept it under her pillow for eleven years and every morning, before the Decline, she held it to her face and smelled the kitchen her daughter is sitting in.
+It came from Wanting, from the window of a widow named Lessen Hode who, the winter after her daughter was Seated, broke the rule and left a crust on her sill. She did it for the reason everyone does: so that if the child was hungry, there would be something there. In the morning it had been taken, and in its place was this, wrapped in this napkin, still warm. She did not eat it. She did not throw it away. She did not leave anything on the sill again. She kept it under her pillow for eleven years and every morning, before the Decline, she held it to her face and smelled the kitchen her daughter is sitting in.
 
 Abstain Rooke, called Abby, has been leaving crusts on her own sill for a month and has been getting back better things. When she heard about the widow's crust she went to see it, and the widow, who is dying, gave it to her.
 
 **RULES:** The Better Crust is an offer, and the Unfed treat it as one. Any Unfed who holds it must make an Invitation check at Routine 10 each night it is in their keeping; any who eats it is Seated, wherever they are, at a table that appears around them. Godeaters who eat it are fed, perfectly, completely, for the first time in their lives, and lose all Hunger, and from then on find all other food tasteless.
 
-**HOOK:** Forgo Ainsley has died. Abby has the crust. Tonight there is a table in the street outside Abby's house, laid for two, with two cards; one says *Abstain*, and the other says the name of the widow's daughter.
+**HOOK:** Lessen Hode has died. Abby has the crust. Tonight there is a table in the street outside Abby's house, laid for two, with two cards; one says *Abstain*, and the other says the name of the widow's daughter.
 
 [sigil: rim]
 

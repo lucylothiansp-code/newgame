@@ -587,3 +587,296 @@ Mix the flour, yeast, salt and sugar. Add the warm milk and butter and mix to a 
 Knock back and divide into 12 pieces. Roll each into a rope about 25 cm / 10 in long and tie it in a knot: a simple overhand knot, a figure-of-eight, or a loose bowline if you know one, tucking the ends under. Set them on lined trays, cover and leave 30 minutes to puff. Heat the oven to 200°C / 400°F / gas 6.
 Brush with beaten egg, scatter flaky salt, and bake 15–18 minutes until deep gold. Cool slightly. Eat them all by dusk, every knot. If one comes untied in the oven, eat that one first, and say nothing.
 [/box]
+
+## The Vigil: The Standing Table
+
+[sigil: vigil]
+
+> A full belly is a bed.
+>> — Vigil proverb, and the first line of the Household Ordinances for the Table
+
+Meals in the Vigil are small, frequent, cold and sour, because warmth, fullness and comfort are lethal. Pickled roots, hard bread, Fatlands salt-meat, vinegar, sorrel, smoked cliff-goat. Warm milk is illegal. Sugar is rationed. Soup is served lukewarm, by law. Rouse, the bitter black stimulant, is taken hourly, and is the closest thing the city has to a cuisine.
+
+### Table Manners on the Lid
+
+- **Eat standing.** There is no chair in the city with more than one leg and no table at sitting height.
+- **Eyes open for the grace,** and slap the table after it. Pinch a neighbour who blinks.
+- **Sharp rims.** Rich households eat from vessels with sharp rims, so the lip is pricked at every sip. Do not complain of it. It is a courtesy.
+- **Never finish.** A family that finishes its soup has eaten its watch. Leave a mouthful, and pour it on the step for the ones who have gone to the room.
+- **Never offer seconds.** Never say *rest a moment and digest*. Never praise a dish as *comforting*. To serve a guest a warm, heavy meal is attempted murder, and is prosecuted as such.
+- **A pin with the bread.** Hosts lay a pin beside each plate. Guests use it on themselves between courses. Refusing it is unthinkable.
+
+[pull] TABS. TABS. HONEST TABS. THEY HOLD AN HOUR IF YOU HOLD ON. | — patter on the Slope
+
+### Rouse
+
+[fiction]
+*From the price-board of a coffee-house on Lampwrights' Row, under the brightest lamps in the world.*
+ROUSE, BREWED, A CUP — 1 c. ROUSE, DOUBLE — 2 c. ROUSE, HEIGHT-STRENGTH, BLACK AS THE ROOM — 5 c, ask for the glass. STAREMOSS FOR THE TEETH, A QUID — 2 c.
+NO SITTING. NO SUGAR AFTER THE SIXTH BELL. NO SLOPE-CUT HERE, WE KNOW WHAT'S IN IT.
+*(Chalked below by a customer:)* Teeth go first. Then the heart. Then the hours get longer. Cheers.
+[/fiction]
+
+**Lore.** Since the Rouse Patent of 390, the Vigil has stayed awake on a bitter black stimulant brewed from roasted root, bark and things Dr. Aldous Crane will not name. It is taken hourly. The dose has risen every decade. Teeth go first, then the heart. The Apothecary-General knows where the dose curve ends: a point at which the amount needed to stay awake is the amount that stops the heart, and it is eleven years off. Coffee-houses are the Vigil's public life, and their regulars stand at the counters all night in the lamp-glare and the clatter, talking, talking, because to stop talking is to begin to drift. On the Slope the rouse is cut with bottled Brinehollow brine, because it is cheap and it works, and the customers stay awake and start, slowly, to walk west.
+
+**Rules.** See the Rim Market chapter (Drugs): a cup removes 2 Weariness; Addiction Hard 14. Slope rouse adds Taint 1 Regrowth (Dromm). A character who drinks rouse brewed by a skilled hand (cook's roll with a Helping) gains +1 Eye for the hour as well. On a **Lack**, the brew is the strength of the dose eleven years from now: Gut + Endure (Grim 18) or suffer Ruin, as rouse-heart.
+
+**Hook.** Rook Quarter-Bell, the Slope dealer, has a new supply that holds for three hours. His customers do not walk west. They walk toward the Dormitory, all of them, at the same bell, and stand at the fence, and stare at Bed One with their eyes wide open, mouthing along.
+
+[box: For Your Table — Iced Black "Rouse" with Orange and Cardamom]
+Makes 4 small glasses. Time: 10 minutes, plus chilling. Contains caffeine (use decaffeinated coffee for children and late games). Vegan.
+- 500 ml / 2 cups strong black coffee, freshly brewed (or decaf)
+- 4 green cardamom pods, lightly crushed, and 1 strip orange peel
+- 2–3 tbsp dark brown sugar or maple syrup, to taste
+- ice, orange slices, and a little cold milk or oat milk for those who need it
+Pour the hot coffee over the cardamom and orange peel in a jug, stir in the sugar, and leave 10 minutes to steep. Strain, cool, and chill until cold.
+Serve over ice in small glasses with a thin slice of orange. It is bitter, dark and sharp. Serve it at the table's hour bell, every hour, and slap the table before drinking. Players at Weariness 5 or more may have a second glass. Nobody may sit down.
+[/box]
+
+### Lawful Soup
+
+[fiction]
+*From the Watch's* Household Ordinances for the Table, *344, chapter the third, still read aloud to brides.*
+Take sorrel, two handfuls, and a root of bitter kale, and a cup of vinegar, and a bone of cliff-goat if you have one and a stone if you have not. Boil in a pot without a lid, stirring, standing, for the length of the Waking Hymn twice. Set it on the sill and count to three hundred. Test it with the inside of the wrist: it must be no warmer than the wrist. Serve in a bowl with a broken rim. Eat standing. Do not finish it.
+[/fiction]
+
+**Lore.** Lawful Soup is the Vigil's household staple, and its recipe is a statute. It must be sour, green, and no warmer than the wrist, because hot soup is the oldest killer in the city: on the Grey Ninth, the Shouting Day remembers, a whole ward of the Slope went to the room together after a charity kitchen served a thick hot broth in a snowfall. The bowls are broken at the rim on purpose. The mouthful left at the bottom is poured on the doorstep for the Counted, and the Slope's stray cats, which are bred to yowl, drink it. Sister Vesper Null's Bedded serve soup hot, in whole bowls, in their quiet rooms, which is how the Wakers find them.
+
+**Rules.** Routine 10. No Taint. Lawful Soup adds no Weariness for being a meal. Hot soup, in the Vigil, counts as a scene of comfort: +1 Weariness to every diner, +2 on a Yawn day. On a cook's **Lack**, the soup is too warm, and nobody notices until the third spoonful.
+
+**Hook.** A charity kitchen on the Slope serves Lawful Soup to the poor every bell, free, from a great iron pot. Its regulars are the most alert people in the ward. Its cook has a lid on the pot. Inspector Hale Grimmer has forty blink-murders on his books, and the kitchen's bell-sheets show that every killer ate there the morning of the deed.
+
+[box: For Your Table — Cool Green Soup with Lemon]
+Serves 4. Time: 30 minutes, plus cooling. Vegetarian (vegan with oil instead of butter and no yogurt). Gluten-free.
+- 1 tbsp butter or oil, 1 onion and 1 celery stick, chopped
+- 1 medium potato, peeled and diced
+- 750 ml / 3 cups vegetable stock
+- 200 g / 7 oz spinach (or sorrel, if you can find it, which makes it properly sour)
+- a small bunch of parsley and a few sprigs of mint
+- juice of 1 lemon, plus zest
+- salt and pepper; plain yogurt to serve
+Soften the onion and celery in the butter for 5 minutes. Add the potato and stock and simmer 15 minutes until the potato is tender. Stir in the spinach, parsley and mint and cook 2 minutes until just wilted.
+Blend until smooth, then stir in the lemon juice and zest and season well. It should be bright and sour. Leave it to cool to room temperature (or chill it on a hot evening). Serve in small bowls with a swirl of yogurt, at the temperature of the inside of your wrist. Leave a spoonful in the bottom.
+[/box]
+
+### Clatter-Cake
+
+[fiction]
+*A Vigil nursery rhyme, chanted while chewing.*
+Crack goes the clatter-cake, crunch goes the grit,
+Bite it and break it and don't you sit,
+Crumbs on the collar and stones in the bread,
+Chew till your teeth hurt and you won't go to bed.
+[/fiction]
+
+**Lore.** Clatter-cake is a Vigil biscuit baked twice, hard as a roof-tile and studded with grit, nut-shell and sugar-crystal so that it cracks loudly in the mouth and hurts a little. It is sold on every corner for 2 c, given to children at the Coming-Heavy, and carried by Wakers on patrol. The Slope bakers once baked actual gravel into it; the Watch's Ordinance of 512 limits the grit to *such as will not break a sound tooth*, and the Slope, whose teeth are not sound, ignores it. On the Rim, clatter-cake is sold to Vigil travellers at the Bakers' Mile in Gristmoot, where foreigners buy it as a curiosity and break their teeth.
+
+**Rules.** Routine 10. No Taint. Eating a clatter-cake removes 1 Weariness, once per scene, as a pinch; it is the pinch's pain, in biscuit form. On a cook's **Lack**, a piece of real grit cracks a molar (1 Flesh, and −1 to Persuade until it is seen to).
+
+**Hook.** Pip Eleven-Bell, the street nudger of nine, is selling clatter-cake on the Slope because nobody has paid her for two weeks. She has begun to blink. The cake she sells is soft. She has been baking it without grit, so that her customers can sleep a little, she says, the way she sometimes does now, on her feet, in the room with the eye, where it is warm.
+
+[box: For Your Table — Crunchy Almond and Seed Biscotti]
+Makes about 24. Time: 1 hour 10 minutes. Contains gluten, egg, nuts (almonds), seeds. Twice-baked, very hard, and wonderful with the iced rouse.
+- 250 g / 2 cups plain flour
+- 1 tsp baking powder and a pinch of salt
+- 150 g / ¾ cup caster sugar
+- 2 eggs and 1 tsp vanilla extract, zest of 1 orange
+- 100 g / ⅔ cup whole almonds (or hazelnuts), roughly chopped
+- 2 tbsp sunflower or pumpkin seeds, 2 tbsp demerara sugar
+Heat the oven to 180°C / 350°F / gas 4 and line a baking tray. Mix the flour, baking powder, salt and sugar. Beat in the eggs, vanilla and zest to make a stiff, sticky dough; work in the nuts and seeds with floured hands.
+Shape into two logs about 5 cm / 2 in wide and 2 cm / ¾ in high on the tray, a hand apart, and scatter with demerara. Bake 25 minutes until firm and pale gold. Cool 10 minutes, then slice on the diagonal into 1 cm / ½ in slices with a serrated knife. Lay the slices flat and bake 10 minutes more on each side until dry and crisp. Cool fully. They clatter.
+[/box]
+
+### Pinchmarket Peppers
+
+[fiction]
+*A cry of the Pinchmarket, where pain is sold by the pin.*
+Peppers! Peppers! Blistered on the iron! Nine sweet and one to wake you! Who's the lucky one? Who's the lucky one? Only a crumb, and a crumb more for the one you'll never forget!
+[/fiction]
+
+**Lore.** The Pinchmarket sells pain as a service: pins by the dozen, slaps by the hour, Jack Tenterhook's exquisite needle for those who can pay. Its street-food is the waking-pepper: small green peppers blistered on an iron and salted, sold in paper cones, of which most are mild and one in every nine or ten is ferociously hot. Vigilants eat them in rings, passing the cone, and the one who gets the hot pepper is the one who stays awake longest that bell, and is cheered. Lovers share a cone as a test. Wakers buy them by the sack. The game is called *Lucky*, and the Slope children play it with real peppers when they can and with pins when they cannot.
+
+**Rules.** Routine 10. No Taint. A cone shared among a party: each diner rolls a d10; on a 1, they have the hot one, and lose 2 Weariness (and cannot speak for a minute). On a cook's **Lack**, every pepper is mild. Nobody stays awake. Roll blink checks.
+
+**Hook.** Corwin Half-Bell, the only sleeper who ever came back, will not describe the long room with the eye. But he plays *Lucky* every bell at the same Pinchmarket stall, and he always gets the hot one, every time, and he says, through his tears, that it is the only thing that tastes like being awake. The stall-keeper wants to know how he does it, and is frightened of the answer.
+
+[box: For Your Table — Blistered Padrón Peppers with Sea Salt]
+Serves 4–6 as a snack. Time: 10 minutes. Vegan; gluten-free. Padrón (or shishito) peppers are mostly mild, but about one in ten is hot: the game is built in. Have water, bread or yogurt on hand for whoever gets the hot one.
+- 250 g / 9 oz Padrón or shishito peppers
+- 2 tbsp olive oil
+- flaky sea salt and a wedge of lemon
+Rinse the peppers and dry them very well (water in hot oil will spit). Heat the oil in a large heavy frying pan over a high heat until shimmering. Add the peppers in a single layer and cook, turning occasionally with tongs, for 4–6 minutes until blistered and blackened in patches and softened.
+Tip into a bowl or paper cone, scatter generously with flaky salt and a squeeze of lemon, and pass them round the table. Hold each by the stalk and eat it whole. Whoever gets the hot one stays awake longest. Cheer them.
+[/box]
+
+### Contraband Milk
+
+[fiction]
+*From a seized handbill of the Bedded, Slope, Lack 640; the Wakers burned four hundred copies and kept one.*
+COME IN OUT OF THE LIGHT. There is a room on Thimble Lane where the floor is level, and the lamps are low, and the milk is warm, with honey, and nutmeg, the way your grandmother made it on the Easy Centuries' last night. Sister Vesper will pour it for you herself. You do not have to drink it. You do not have to lie down. You only have to hold the cup, and feel how warm it is, and remember. The eye is kind. The room is home. Come in.
+[/fiction]
+
+**Lore.** Warm milk has been illegal in the Vigil since the Waking Laws of 342: of all the comforts of the world, it is the one the Watch fears most, because it was the drink of the last night of the Easy Centuries, when the city lay down. The Bedded, who preach that sleep is a homecoming, serve it in their quiet rooms, honeyed and spiced, in thick round cups with whole rims. Possession of a milk-pan is a Lantern sentence. Smugglers bring it up the plateau road in cold flasks, and it is warmed in secret on the Slope over lamp-flames, and the smell of hot milk and nutmeg in a Vigil stairwell is enough to make a Waker draw his needle.
+
+**Rules.** Routine 10. No Taint. A cup of warm milk in the Vigil is a scene of comfort: +2 Weariness at once, and an immediate blink check. Outside the Vigil, it is simply lovely, and a Vigilant who drinks it on the Rim must make a Dread 1 check, because their body knows what it is before they do. On a cook's **Lack** in the Vigil, the drinker does not come back from the blink.
+
+**Hook.** Sister Vesper Null looks more rested than anyone in the city, and nobody can explain it. Her milk comes up the plateau road from a farm near Gristmoot, and the farm's dairy is Seated: an old Laden matriarch whose hill gives milk from a spring in its side. Lady Oriel Stroud, the Warden's lidded daughter, has been drinking it, in her hidden rooms, and closing her eyes.
+
+[box: For Your Table — Warm Honey and Nutmeg Milk]
+Serves 4. Time: 10 minutes. Contains dairy (use oat milk for a dairy-free cup). The perfect last drink of the evening, outside the Vigil.
+- 1 litre / 4 cups whole milk (or oat milk)
+- 3 tbsp honey, to taste
+- 1 cinnamon stick and ½ tsp vanilla extract
+- freshly grated nutmeg
+Warm the milk with the honey, cinnamon and vanilla in a saucepan over a gentle heat, stirring, until steaming but not boiling. Take out the cinnamon.
+Pour into thick mugs and grate nutmeg over the top. Serve it at the end of the session, after the last scene is done, with the lamps turned down. You may close your eyes. Here, it is safe.
+[/box]
+
+## Cradlewrack: The Knocking Table
+
+[sigil: cradlewrack]
+
+> Lack keep away, and let it stay.
+>> — the highland grace
+
+Highland food is plain and red: mutton and lamb above all, since the ewes drop four times a year; clay-baked bread with a pink crust; oats, nettles, and rose-coloured salt from the warm springs, which tastes faintly of blood. Lamb is so cheap the poor eat it daily and the rich serve it never. Eggs are not eaten: too many hens' eggs in the highlands have been found to contain things looking back.
+
+### Table Manners in the Highlands
+
+- **Knock three times on the table before sitting,** to warn whatever is underneath. Knock on the pot before lifting the lid. Knock on the bread before breaking it.
+- **Look at the door during the grace.** Doors do not stay shut here; a diner who has their back to an open door at supper is either a fool or a midwife.
+- **No eggs.** Do not bring eggs as a gift. Do not ask why.
+- **Never ask what is in a dish before the cook has said.** It is the Midwife's First Question, and only an Attendant may ask it.
+- **The plate nearest the door** belongs to whatever comes in. On Tablenight it is laid for real. On other nights it is laid as a habit, with an empty plate, and nobody sits in that chair, ever, not even when the house is full.
+- **The unnamed child eats last.** A child under its naming-year is fed after everyone else, from the edge of the pot, so that if anything is wrong with the food, the household knows before the child does. Highlanders call this kindness.
+
+[pull] SHOULDER, ROAST, 1 L. — LIGHTS & SWEETBREADS, 3 c. — POSSET, A HORN, 1 c. — NO ODD-FOLD MEAT SOLD HERE, ASK AT THE BACK. | — brazier-stall board in the Shambles, Kest
+
+### The Naming-Feast Stew (the Second Meal)
+
+[fiction]
+*From the household book of the Gorse family, Tarnbrow, at the naming of the Third of Gorse, Carving 640, in the mother's hand.*
+A year and a day. She stays. The Attendant came at dawn and asked the Two Questions again and answered them again, and she still stays, and so we may name her, and we have, and her name is Wren. We had the crock down from the cold-shelf where it has sat in salt since the night she came, and the copper on, and the lamb, the onions, the barley, the rose-salt, all in, and the crock last. I took the first spoon, as is right. Then her father. Then the grandmothers. Then everyone. It tasted of iron and onions and of the night she was born, and I cried, and everyone said I was only tired. Wren had bread and milk. She kept looking at the pot.
+[/fiction]
+
+**Lore.** A child is not named for a year in Cradlewrack, until it is clear what it is. At the naming the family eats the afterbirth, kept salted in a crock since the delivery and stewed in the copper with lamb, onions and barley, everyone taking a spoon starting with the mother, in memory of the first Meal, when the highland people ate the caul of Vey and ended the Lack. This is the Second Meal, and the rest of the Table finds it harder to stomach than anything the highlands do. The Caul-lines eat their children's cauls raw, from a silver dish, and do not speak of it. There is a darker version, told in whispers in the Odd Fold: the naming-feast for a child that was returned, a child the Attendance's late Second Opinion did not permit, where the family eats what they kept in the crock and says the name anyway, once, into the pot.
+
+**Rules.** Hard 14 (the old way). The lamb is clean; the crock is Taint 1 Regrowth (Vey) to non-Cradlewrackers and Dread 2 the first time for any foreigner who learns what it is. A family who eats a proper naming-feast gains +2 to all Rites and Resolve rolls made to protect the named child for a year. On a cook's **Lack**, the crock was not the child's, and the child at the end of the table, who has never spoken, says *thank you* in an adult voice.
+
+**Hook.** Ruth Ninefold, the name-broker of Kest, holds the naming-right to a child born in the Dilation's rim-town. The naming-year is up. The family has prepared the Second Meal. The crock, when they took it down, was empty, and licked clean, and the child is very well, and its first word was *more*.
+
+[box: For Your Table — Lamb, Onion and Barley Stew]
+Serves 6. Time: 2 hours. Contains gluten (barley), celery (stock). Plain, red and filling, as highland food should be; the crock stays on the shelf.
+- 900 g / 2 lb lamb neck fillet or shoulder, diced
+- 2 tbsp oil and 1 tbsp butter
+- 3 onions, sliced
+- 2 carrots and 1 small swede or 2 parsnips, diced
+- 2 garlic cloves, crushed
+- 1 tbsp tomato purée and 1 tsp sweet paprika
+- 1.2 litres / 5 cups lamb or chicken stock
+- 125 g / ⅔ cup pearl barley, rinsed
+- 2 sprigs rosemary, 1 bay leaf; pink Himalayan salt or ordinary salt, and pepper
+Brown the lamb in the oil in batches in a large pot; set aside. Lower the heat, add the butter and onions, and cook slowly for 15 minutes until soft and golden. Add the carrots, swede and garlic for 5 minutes, then stir in the purée and paprika.
+Return the lamb, pour in the stock, add the barley and herbs, and bring to a simmer. Cover and cook gently for 1¼ hours, stirring now and then, until the lamb is tender and the barley soft and plump. Season with the pink salt. Knock three times on the lid before lifting it. Everyone takes a spoon, starting with whoever cooked it.
+[/box]
+
+### Clay-Bread
+
+[fiction]
+*A shepherd's instruction, as recorded by the Tally-house of Kest from Josiah Fenn, the Man Who Bore, who now follows tracks across the highlands and bakes his bread wherever he stops.*
+You dig a hole by the fire and you line it with the red clay, wet, and you put the dough in a pot and pack the clay round the pot and bury it in the embers, and you wait. It comes out with a pink crust. It stays warm a day. My mother said the clay is warm because the ground is warm and the ground is warm because it is carrying. I didn't believe her. Then I carried. Now I believe everything. The tracks are bigger again this morning. The bread is still warm.
+[/fiction]
+
+**Lore.** Highland bread is set in a pot of wet red clay and buried in the embers, and comes out with a pink crust, and stays warm for a day, which the Rim regards as a pleasant oddity and the highlands regard as the soil showing its temperature. The red earth of Cradlewrack is warm to the touch everywhere, smells of iron, and dilates, over weeks, into crownings. Bakers in Kest say the dough rises faster in pang-week and must be watched, and that in the week before a pang, if the loaf is not knocked on as it comes from the clay, it will sometimes be found to have opened, in the night, from the inside, very neatly, along a seam.
+
+**Rules.** Routine 10; 2 c. No Taint to highlanders; to others, Taint 1 Regrowth (Vey), only if eaten in pang-week. A clay-loaf stays warm a day: a traveller who carries one through cold weather gains +1 to Endure against cold. On a cook's **Lack**, the loaf opens in the night.
+
+**Hook.** Madder Rudge, head of the watch at the Dilation, says the hole has a pulse. Lately the clay-bread of the rim-town has begun to come out of the embers in perfect rounds, all the same size, with a soft spot on top that beats. She wants the party to eat one, in front of her, and tell her if they can feel it in their stomachs, keeping time with the hole.
+
+[box: For Your Table — No-Knead Beetroot Pot Bread]
+Makes 1 round loaf. Time: 15 minutes active, 12–18 hours rising, 50 minutes baking. Contains gluten. Baked in a lidded cast-iron pot (a Dutch oven), as the highlanders bake in clay. The beetroot makes the crumb pink.
+- 450 g / 3¾ cups strong white bread flour
+- 1½ tsp salt and ¼ tsp fast-action dried yeast
+- 1 medium cooked beetroot (not pickled), grated very finely, about 100 g / 3½ oz
+- about 300 ml / 1¼ cups lukewarm water
+In a large bowl mix the flour, salt and yeast. Stir in the beetroot and enough water to make a shaggy, sticky dough. Cover the bowl and leave at room temperature for 12–18 hours, until bubbly and more than doubled.
+Turn out onto a well-floured surface and fold it over on itself a few times into a ball. Set it on a sheet of baking paper, dust with flour, cover and rest 1 hour. Meanwhile put a lidded cast-iron pot in the oven and heat to 230°C / 450°F / gas 8 for 30 minutes.
+Using oven gloves, lift out the very hot pot, lower the dough in on its paper, put the lid on and bake 30 minutes. Remove the lid and bake 15–20 minutes more until the crust is deep and pinkish-brown. Cool on a rack. Knock on it before breaking.
+[/box]
+
+### Posset
+
+[fiction]
+*From a horn-seller's cry on the Rimwatch road at Knocking Gate.*
+Posset! Warm posset, a horn a crumb! Ewe's milk curdled with spring-salt and a drop of the hard stuff! Warms you through, sets you up, settles a pang! Posset for the road! Posset for the carrying! Don't ask whose ewe! Don't ask whose milk!
+[/fiction]
+
+**Lore.** Posset is the national drink of the highlands: warm ewe's milk curdled with rose spring-salt and spirit, drunk from a horn at every crossroads stall. Midwives give it to bearers after a delivery, Assemblers give it to the Parts they are joining (a horn of posset poured over a new join is said to make it take), and the Foundling Companies are issued it in the morning, warm, before drill, since the born-grown have no mothers to remember and posset is the nearest thing the state can offer. Second-milk, from who knows what, makes a posset that sells for a lack a horn, and that nobody admits to having drunk.
+
+**Rules.** Routine 10; 1 c a horn. No Taint, unless made with second-milk (Taint 1 Regrowth (Vey)). A horn of posset after a pang, a birth or a Ruin removes 1 Fray from anyone who drinks it in company. On a cook's **Lack**, the posset sets in the horn into the shape of a small hand.
+
+**Hook.** General Tibb, commander of the Foundling Companies, born six years ago a grown man mid-stride, has a private terror of the day he turns seven. He has begun refusing his morning posset. His quartermaster thinks it is poisoned. Tibb thinks it is worse: that it tastes, for the first time, like something he remembers, and he has nothing he should be able to remember.
+
+[box: For Your Table — Lemon Posset]
+Serves 6. Time: 15 minutes, plus 3 hours chilling. Contains dairy. The real dish that shares the name: cream set with lemon, silky and sharp.
+- 600 ml / 2½ cups double (heavy) cream
+- 150 g / ¾ cup caster sugar
+- juice of 3 lemons (about 90 ml / 6 tbsp), plus zest of 1
+- raspberries and shortbread or the biscotti, to serve
+Put the cream and sugar in a saucepan and bring slowly to the boil, stirring until the sugar dissolves. Let it bubble gently for 3 minutes, stirring so it does not catch.
+Take off the heat and stir in the lemon juice and zest. It will thicken a little at once. Cool for 10 minutes, stir, then pour into six small glasses or cups. Chill at least 3 hours until set. Serve with a few raspberries, red as clay, on top.
+[/box]
+
+### Pangday Broth
+
+[fiction]
+*The counting-song of Pangday, sung by highland families in the strongest room of the house while the earth contracts, with a pot of green broth kept off the fire for after.*
+One and the cups shake, two and the door,
+Three and the lamp swings, four and the floor,
+Five for the waters and six for the crown,
+Seven we hold it, eight we lie down,
+Nine and we breathe and the broth's on the fire,
+Out we go after to see what came by her.
+[/fiction]
+
+**Lore.** Every nine days now, at the first tremor, work stops and highland families gather in the strongest room to sing the counting-song and wait out the sixty seconds of the pang. Afterward they go out to see what the waters have brought up out of the ground, and come home, and eat the Pangday broth, a green soup of nettles, oats and spring-salt, made beforehand and set aside, because nobody cooks during a pang. Lark Ninedays, who times the pangs for the state, has been called Lark Thirtydays and Lark Nineteendays and Lark Twelvedays in her life, and each time she changed her name she made a pot of the broth and ate it alone, and wrote the new interval on the lid.
+
+**Rules.** Routine 10. No Taint. Eating Pangday broth with others after a pang lets each diner recover 1 Fray, as the shared meal rule, without a roll. On a cook's **Lack**, the broth is left on the fire through the pang, and the pot is found afterward with its lid open from the inside, and empty.
+
+**Hook.** Lark Ninedays has made a new pot of broth. She has not yet written on the lid. She asks the party to sit with her and eat it, and wait for the next pang, and count, because she has done the arithmetic, and she wants witnesses when she writes the number down, and she does not want to be alone when she reads it.
+
+[box: For Your Table — Watercress (or Nettle) and Oat Soup]
+Serves 4. Time: 30 minutes. Vegetarian; contains oats (gluten unless certified gluten-free) and dairy (optional cream). If you forage nettles, use young tops in spring, wear gloves to pick and wash them, and cook them thoroughly; cooking removes the sting. Watercress or spinach work just as well and need no gloves.
+- 1 tbsp butter or oil, 1 onion and 1 leek, sliced
+- 2 tbsp rolled oats
+- 1 litre / 4 cups vegetable or chicken stock
+- 150 g / 5 oz watercress (or young nettle tops, or spinach)
+- salt, pepper and a grating of nutmeg; a little cream to serve
+Soften the onion and leek in the butter for 8 minutes. Stir in the oats, pour in the stock and simmer 10 minutes. Add the watercress (or nettles) and simmer 3–5 minutes (nettles 5 minutes) until wilted and dark green.
+Blend until smooth. Season with salt, pepper and nutmeg. Reheat gently and serve with a swirl of cream. Make it before the game starts, and keep it off the heat until the first pang.
+[/box]
+
+### Knocker's Thumbs (for the Plate Nearest the Door)
+
+[fiction]
+*A Tarnbrow custom, as the grandmothers tell it to brides.*
+Leave the door wide on Tablenight and lay the plate nearest it. Put on it the little red cakes with the thumb-knock in, one for every door in the house. If the plate is clean in the morning, don't wash it. Don't ask who did. If one cake is left, look at which door it was for, and brick that door that night, and every night for a year.
+[/fiction]
+
+**Lore.** On Tablenight every door in Cradlewrack is propped wide open until dawn, so that nothing can be said to have broken in, and a place is laid at the table nearest the door for whatever comes. Usually nothing does. The plate holds *knocker's thumbs*: small round cakes, each pressed with a thumb and filled with red jam, one for every door in the house, because a thumb-press is the oldest highland knock, and the cakes are a way of knocking on every door at once on the one night they are open. Agnes Latch, the Doorwright, whose best door held for nineteen days, leaves her plate empty on Tablenight. She says she does not want to give anything a reason.
+
+**Rules.** Routine 10. No Taint. A household that lays the plate properly on Tablenight gains +2 to all rolls to keep shut, or keep safe, whatever is behind its doors for the next season. If the plate is clean at dawn, the Carver decides who ate: usually a neighbour's child or a stray. Usually. On a cook's **Lack**, the plate is clean and the house has one more door than it did.
+
+**Hook.** Old Hinge, keeper of the Sill, the door on the hill that stands in its frame with no wall around it, lays a plate of knocker's thumbs at the Sill every Tablenight. In forty years the plate has never been touched. This year one cake is gone. The thumbprint on the remaining cakes, which Old Hinge pressed himself, has been pressed again, from underneath.
+
+[box: For Your Table — Jam Thumbprint Biscuits]
+Makes about 20. Time: 40 minutes. Contains gluten, dairy, egg (yolk). A good job for younger players: everyone presses their own thumb.
+- 150 g / ⅔ cup soft unsalted butter
+- 75 g / ⅓ cup caster sugar
+- 1 egg yolk and 1 tsp vanilla extract
+- 200 g / 1⅔ cups plain flour and a pinch of salt
+- 5 tbsp raspberry or strawberry jam
+Heat the oven to 180°C / 350°F / gas 4 and line two baking trays. Beat the butter and sugar until pale and fluffy, then beat in the yolk and vanilla. Mix in the flour and salt to a soft dough.
+Roll into walnut-sized balls and set them a little apart on the trays. Press each firmly in the middle with your thumb to make a deep well (three knocks first, if you like). Fill each well with a little jam.
+Bake 12–15 minutes until pale golden at the edges. Cool on the tray for 5 minutes (the jam is very hot), then on a rack. Lay one for every door in the house on a plate by the door.
+[/box]

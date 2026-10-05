@@ -574,3 +574,163 @@ A Lung-line in a water-helm is a thing out of a nightmare walking in daylight: a
 ### Hook
 
 **The Prince Wants a Walk.** Prince Aurel Vasht, who has not surfaced in nine days, asks the PCs secretly to take him out of Fathomhouse in a water-helm to see the sea, the real sea, at the Trench edge, once, before he can no longer bear the air at all. His tender, an old woman named Sorrel Cask whose family have pumped for Vashts for nine generations, will come, and will pump. On the road west Aurel stops writing on his slate. In the globe his lips are shaping words in a rhythm the PCs have heard once before, knocked from the bottom of the Headland tower.
+
+## The Pantry's Ration Scales
+
+[sigil: fast]
+
+> Four months of grain. Six of winter. I can do it to the day. I cannot do it to the name.
+>> — Mother Stint Avery
+
+### Lore and History
+
+The **Measure** is older than Wanting. It is a brass balance with a beam the length of a forearm and two shallow pans, and it was brought out of Hallowboard in the spring of 1 A.G. by the survivors of the Refusal, wrapped in a blanket, carried by a girl of eleven named **Meagre Avery** who would not let anyone else hold it. Nobody knows what it weighed before. The Unfed say it weighed out the Host's bread for the great table, and that it is the one thing from Orrum's house that they kept. The Abstinent say this is a lie and punish anyone who repeats it. It hangs now from an iron hook in the cool dark of the Pantry's ground floor, and every ration in the Fast has been weighed on it since 41 A.G.
+
+The public weights are a set of nine lead discs, stamped by the Abstinent with a hand held up, palm out: the Decline. Every Unfed child is shown them once, so they know the measure is true. They are true. **Mother Stint Avery**, Avery's descendant and Keeper of the Pantry, uses them every morning in front of the Ration Line.
+
+She also has a second set.
+
+### The Diagram in Words
+
+| Part | Material | Function |
+| The Beam | brass, worn bright at the centre | balances grain against weight |
+| Two Pans | brass, shallow, dented | one for grain, one for weight |
+| The Hook | iron, set in the ceiling beam | hangs the Measure; eight notches cut in it |
+| Public Weights (nine) | lead, stamped with the Decline | the true measure, shown to the Line |
+| Stint's Weights (fourteen) | lead, unstamped, in a felt-lined box | the short measure; one for each list-village |
+| The Ledger | bound paper, back to 41 A.G. | every ration, by name, by day, by weight |
+
+Stint Avery's private weights are fourteen lead discs, each a little lighter than the true half-ration, each scratched with the name of a village and kept in a felt-lined box under her apron. When a list-village's carter comes to the iron door, she weighs out their measure with that village's weight. The furthest are lightest. The oldest are lighter. The ones with fewest children are lightest of all. The difference between the true weight and each private weight is a matter of grains: a pinch, a spoonful, a crust. Across a winter, across fourteen villages, it is the difference between four months of grain and six. She shaves the weights herself, with a file, by lamplight, after the Line has gone, and weighs the filings, and writes them in a column in the back of the Ledger that nobody else reads.
+
+The lightest weight is marked *Avery Steading*.
+
+### Who Builds It, Who Uses It
+
+Only the Keeper of the Pantry uses the Measure, and only Stint Avery has the second box. Forbear Wend knows there is a list but not that there are weights; he believes the list is of names to be omitted entirely, and he prays over it, and Stint Avery has not corrected him, because a short measure keeps more people alive than an omission and she cannot bear his prayers. Two Pantry clerks suspect. One Crumb-Runner, Tarry Moss, who counts his cargo to the bean, knows exactly how much grain goes in and how much is handed out, and has done the subtraction.
+
+### In Operation
+
+The Pantry's ground floor is cool, dim, and smells of dust, sacking, and mouse, which to an Unfed nose is the richest smell in the world. Grain whispers from the scoop into the pan. The beam dips, rises, hangs level, trembling. Stint Avery watches it with her whole face. The Line watches her. Nobody speaks; the only sound is the grain and the small creak of the hook. When a list-village's carter comes in at the end of the day, alone, she takes the felt box out of her apron and chooses the weight by touch, without looking, the way you choose a coin in your pocket, and the grain falls, and the beam hangs level, and it is a lie, and it is the only kindness the arithmetic will allow. The carter cannot tell. Over the winter the people of that village will grow a little thinner, and a little colder, and the old will die a week or two sooner than they would have, and nobody will be omitted, and nobody will walk to the Lean House, and the Seated on the valley road will wave.
+
+The hook has eight notches in it. Seven are worn smooth. The eighth is sharp, as if nothing has ever hung there.
+
+[pull] It is not cruelty to weigh short. It is arithmetic. Cruelty would be weighing true until the grain ran out, and then nothing. | — from the back of the Pantry Ledger, in Stint Avery's hand
+
+### Rules
+
+**Detecting the short measure.** A character watching the weighing may roll Eye + Reckoning at Grim 18 to notice that the list-village weights are unstamped; weighing a private weight against a public one on any honest scale reveals it at once. Working out the scheme from the Ledger's back column is Eye + Reckoning at Hard 14 and takes an evening.
+
+**Living on the short measure.** A Pantry measure is half a ration. The short measure is less: a character on it gains +1 Pang every **three** days instead of holding steady (see Pangs: Starvation). Over a six-month winter, an Unfed village on the short measure loses its oldest, about one in ten. On a true measure until the grain ran out, it would lose half.
+
+**Exposure.** Revealing the private weights to the Ration Line is a Tongue + Persuade roll at Hard 14 to be believed. The Line will riot (see Madness in the Community); the Pantry's grain will be distributed true for six weeks and then run out, and the Lean House will fill. A PC who causes this and then sees the Lean House makes a Dread 3 check.
+
+### Failure Table (d6)
+
+| d6 | The measure fails |
+| 1 | A clerk swaps a private weight for a public one by mistake. One village gets its true half-ration for a month, and another goes on the list to pay for it. Stint chooses which. |
+| 2 | The felt box is dropped in front of the Line. The weights roll out across the flagstones, each with its village's name scratched in. |
+| 3 | A weight is shaved too far. A hamlet's oldest begin to walk west. |
+| 4 | Stint's hands, at last, refuse. She stands holding the Avery Steading weight over the pan and cannot put it down. Someone must decide for her. |
+| 5 | The beam hangs level before the grain is poured. Something is already in the pan, unseen, weighing exactly a ration. The grain poured on top of it comes out warm. |
+| 6 | One morning there is a fifteenth weight in the box. It is not shaved. It is heavier than a ration by a great deal, smooth and warm as bread, and it is marked, in brown ink the colour of gravy, *Wanting*. |
+
+### Cost and Availability
+
+The Measure and Stint's weights are **Unique**. Common ration scales are **12 lacks** anywhere on the Rim; Fast-made ones, with the Decline stamped on the beam, are **4 lacks** in Wanting and are honest, which no buyer abroad believes.
+
+### Hook
+
+**The Back Column.** Tarry Moss has done the subtraction and asks the PCs to check it, because he cannot believe it and cannot say it aloud. The PCs find the weights, the column, and the name *Avery Steading*. Then they must decide whether to tell Avery Steading. When they get there, the villagers are thin and cheerful and grateful for the Pantry's fairness, and have laid a little extra on Stint Avery's mother's grave as thanks: a crust, saved from their own short measure.
+
+## The Follow
+
+[sigil: brinehollow]
+
+> She is not a ship. A ship comes back. She is a question with rivets in it.
+>> — Dagna Hull, shouting, as she does
+
+### Lore and History
+
+The *Follow* is Dagna Hull's answer to the sea leaving: an iron vessel built to chase the water down into the Trench and come back to say where it is going. She began it in 636 after a pressure day burst every port-glass on Mile Nineteen and the water was lower at noon than at breakfast. The Admiralty funded it through Commodore **Lysander Vell**, who calls it a sounding vessel for the fleet's return. Nine hundred people have chalked their names on the wall of her shed as volunteers. Someone loosens a dozen of its rivets every week, and the marks on them are the marks of Dagna's own hammer, struck backward. It has been nearly finished for a year.
+
+### The Deck Plan in Words
+
+The *Follow* is a riveted iron egg forty feet long and fourteen feet across at the widest, lying on its side in a timber cradle in a slip at the end of the Mile. Its skin is plate iron three fingers thick, overlapped and riveted in courses like the scales of a fish, with eight round glass ports a hand thick set in brass collars. Beneath, a weighted keel of cast lead. Above, a tarred sailcloth **air-bladder** the size of a barn, deflated and folded in a net cage, which is filled from bellows at the surface to float the vessel and let out by a valve, from inside, to sink it; to rise, ballast is dropped and the bladder refilled from a bank of pressed-air bottles. It has one deck and three compartments, entered by a single hatch at the top, sealed with a wheel-lock and a gasket of tallowed leather.
+
+**The forward chamber**, called the Eye, is the observation room: a curved bench facing four of the eight ports, a sounding-well (a sealed tube through the floor through which a lead line can be let out and drawn back without letting the sea in), the depth-glass (a mercury column in a brass case, graduated in fathoms by Dagna's hand down to a mark she has labelled *Here I stop writing*), and a lamp-box of whale-oil lanterns burning behind glass. It smells of oil and cold iron.
+
+**The midships chamber**, the Works, is the heart: the valve-wheel for the bladder, the ballast-releases (six iron levers, each dropping a pig of lead), the air-bottles in a rack, the bellows for the cabin air, a sand-glass, a log-slate, a hand-pump for bilge, and Dagna's hammer on a hook. Two bunks fold from the walls. A bail-trough runs along the floor for the crew's tides.
+
+**The aft chamber**, the Stores, holds water, biscuit, salt fish, rope, a spare gasket, a medicine chest, and a bulkhead behind which, according to Dagna's drawings, there is nothing but the lead of the keel. Commodore Vell's annotations, in a neat red hand on her plans, say otherwise.
+
+**The secret hold** lies behind that bulkhead, between the Stores and the stern plating: a narrow iron room eight feet deep, reached by a panel that unbolts from inside the Stores. Dagna did not draw it. Vell's own riveters built it in a week while she was ill in the Lack of 640. It is lined with lead. It holds four barrels of salt, a rack of flensing knives of grey bone each marked with a course-name, a set of butcher's saws, a folding table, a lead box that weeps cold water, and a rail of iron meat-hooks bolted to the ceiling. There are eight hooks. Seven are tagged in red ink: *Fish*, and six names of other courses. The eighth tag is blank. The hold is for carving.
+
+### The Crew Roster
+
+| Post | Who | What they want |
+| Master and pilot | Dagna Hull | to see where the water goes, and come back to say |
+| Mate and riveter | Hollis Brine | to go down and never come back; and to stop her going |
+| Sounding-man | Hask Tarn, if he will | to call the depth; he has said *maybe* |
+| Admiralty observer | Commodore Lysander Vell | to carve a god at the bottom of the Trench |
+| Vell's men (three) | Second Table Scullions | wages; they do not know what the hooks are for |
+| Volunteers' place | one name from the wall | chosen by lot; nine hundred hope; four want to know |
+
+The *Follow* carries six. Dagna intends the sixth place to be drawn by lot from the wall. Vell intends it for one of his own. The PCs may fill any place: Dagna will take divers, a pilot, or a strong back; Vell will take anyone who does not ask about the Stores.
+
+### The Launch Checklist
+
+[fiction]
+**Pinned inside the hatch of the Follow, in Dagna Hull's hand, chalk on slate. To be read aloud, shouted, and answered, before every descent.**
+1. Rivets. Count the lowest seam. Count it again. Count it with me watching.
+2. Gasket. Tallow it. Press it. Look at it in the lamp. No dry patch.
+3. Ports. Eight. Wipe each. Knock each with the knuckle. It should ring, not thud.
+4. Bladder. Full. Cage net tight. Valve shut, lashed, my knot.
+5. Ballast. Six pigs. Six levers. Each lever tried and returned.
+6. Air bottles. Twelve. Each hisses. Each shut.
+7. Lamp-box. Lit. Spare oil. Spare wick. Spare flint.
+8. Line. Forty fathoms, marked. Second line, four hundred. Third line I do not talk about.
+9. Bail-trough. Clear. Everybody bails before the hatch shuts. Everybody.
+10. Ropes. Each of us roped to the ring by the Works. My knots. Hollis checks mine. I check his.
+11. Names. Say your name. Say where you are going. Say: and back.
+12. Hatch. Wheel it shut. Lock it. Tap it twice for luck.
+13. Last: Nobody touches the valve but me. If I am not able, nobody touches it at all.
+*(scratched under, smaller, in another hand)* 14. Stores bulkhead: do not knock on it.
+[/fiction]
+
+### Who Builds It, Who Uses It
+
+Dagna Hull and forty riveters from the slum Miles built the *Follow*; Vell's men built the hold. Hollis Brine, Dagna's apprentice and the first name on the wall, loosens the rivets at night with her own hammer, taken from beside her sleeping hand, weeping, because he knows from Nerys Colm's invitation that there is no coming back from the deep places, and he wants to go more than anything, and he will not let Dagna go there. Mother Limpet wants to bless it. Four hundred of the nine hundred are Deepening.
+
+### In Operation
+
+Inside, the *Follow* is a cold iron throat lit by whale-oil. Every sound rings. The crew sit roped to the ring, knees touching, breath fogging. When the valve opens there is a long roar as the bladder empties overhead, and the egg tilts, and lurches, and drops, and the ports go green, then grey-green, then black. The iron begins to talk: ticks, groans, a long low moan from the lowest seam as the pressure takes it. The air thickens. Ears pop, then bleed. The Brinehollowers' chests fill, all together, out of turn, and they bail into the trough with the iron ringing around them. At the ports, things come up to the glass out of the black and look in: pale, ribbed, too many eyes or none, and at depth, faces, the calm courteous faces of the Called, drifting upward past the ports in their nightshirts, looking in at the lamp with polite interest, and one of them always knocks. On a pressure night in the slip, the iron hums a single note, and the nine hundred come to the shed in silence, and stand.
+
+[pull] I wrote her the question: what is at the bottom? She wrote me back one word. I've had it framed. I look at it before I go in to work. | — Dagna Hull, of Nerys Colm's letter, which says *Don't*
+
+### Rules
+
+**The vessel.** The *Follow* has 60 points of Hull (treat as Flesh for the vessel) and Armor 6 against blows. Each hundred fathoms of descent past the first, the pilot rolls Eye + Reckoning at a difficulty that starts at Routine 10 and rises one step every hundred fathoms. A failure costs 1d6 Hull as seams strain. At 0 Hull the vessel floods. Each loosened rivet on the lowest seam (Hollis's work, a dozen a week) costs 1 Hull before launch unless found (Eye + Search, Hard 14, per inspection).
+
+**Aboard.** Every hundred fathoms, all aboard make a Gut + Endure roll at Hard 14 or lose 1 Flesh to the pressure. Brinehollowers make a Calling roll at every three hundred fathoms, even awake, and their companions may hold them only by the ropes. Seeing the Called at the ports is Dread 2; the knocking is Dread 3. The depth-glass passes *Here I stop writing* at nine hundred fathoms. Below that, the GM decides what the line finds.
+
+**Rising.** Dropping ballast is automatic; refilling the bladder from the bottles needs Hand + Craft at Hard 14 at depth. The valve may be closed by hand from inside, by anyone, at any time, and once closed against the bottles, the *Follow* cannot rise.
+
+**The hold.** Finding the panel is Eye + Search at Grim 18. What is inside is Dread 2, and Dread 3 for anyone who understands the hooks. The lead box contains a piece of Dromm's flesh from the Beaching (Taint 3 Regrowth, Brinehollow), which still weeps.
+
+### Failure Table (d6)
+
+| d6 | The Follow fails |
+| 1 | The gasket weeps. A thin jet of black water as hard as a nail across the Works. Hand + Craft at Grim 18 to stop it; each round it runs, 1 Flesh to whoever is in its path and 1 Hull. |
+| 2 | A port crazes. White lines run across the glass like frost. It will hold for 1d6 × 10 fathoms more. |
+| 3 | The lamp-box goes out. In the dark, the crew hear the iron, the sea, and the slow, polite knocking, moving round the hull from port to port. |
+| 4 | A ballast lever will not drop. Someone tied it, with a knot from the Mile. |
+| 5 | The valve is closed by hand from inside. Nobody admits it. The bottles cannot refill the bladder. The *Follow* goes on down. |
+| 6 | The stores bulkhead is knocked on, from the inside of the hold, where nobody is. Then the eighth hook rings, like a bell, by itself. |
+
+### Cost and Availability
+
+The *Follow* is **Unique**. A place aboard is not for sale: Dagna gives one to the PCs, or Vell does, or the lot does. A berth on the wall costs a chalk and a name, and the Mile bets on the draw at 900 to 1.
+
+### Hook
+
+**Low Water, 642.** If nobody intervenes, the *Follow* makes its trial descent at the Low Water of Carving 642, the very night Finn Undertow's count closes, with Dagna, Hollis and four of Vell's men aboard, and the air-bladder rises to the surface without them, its valve shut by hand from inside. The PCs can be aboard, or on the surface at the bellows, or in the hold, or on the Headland with Finn, or at the slip at midnight, when Hollis Brine comes with the hammer one last time and finds them waiting.

@@ -293,3 +293,203 @@ The College keeps a short list of words that betray a speaker's land at once, us
 [entry: Burying, the | n., Fast | The first of Grace in the Fast, when families walk to the Barrows and cut the grass on them once, with knives, kneeling. It is the nearest thing the Unfed have to a festival of the dead, and nothing is eaten on the hill. See *Barrows, the*.]
 
 [pull] Every land curses its children with the thing every other land prays for. | — Thanker Maudlin Ashe
+
+## C
+
+[entry: Cage Toll | n., Rim | Three lacks a post on live cargo in a closed cart, no questions asked; introduced in 301, the year of the first recorded poaching out of the Fast. The most profitable toll on the Rim and the one the Company least likes discussed. Envoy Prudence Lowell reads it aloud at every Company congress, slowly, and stops. *Paid the cage* is poachers' slang for a successful run. See *poacher* and *Blank*.]
+
+[entry: Called, the | n., Brinehollow | Those whom the tide has pulled from their beds to walk to the shore and keep walking. Most are never seen again. Some come back weeks later, heavier, calm and courteous, and are the Tenanted. *She was Called* is the coast's whole funeral sentence; the rest is rope. It is rude to ask a returned person where they went. *Called* is also the children's game in which one child walks blindfold toward a wall while the others try to drag them back. See *anchor*, *Blue in the bucket* and *Tenanted*.]
+
+[entry: Calling | n., Common | (1) The coast's word for the pull of the sea. (2) Everywhere else, a person's trade or station in life, as a Seamer, a Netwatch hooker, a Crumb-Runner; the College asks every applicant for a certificate their Calling, their land and their mother, in that order. Brinehollowers dislike the second sense and say *trade* instead. *What's your Calling? On the coast we don't ask.*]
+
+[entry: candlekin | n., Sallowreach | One of Wick Tallow's candles, rendered from the unclaimed dead, which feel themselves burn and give a very steady light. *Reading by candlekin* means reading by the light of somebody you used to know, which half of Lastgate does. Fen children say a candlekin flame bends toward the person it loved. The Chandlers deny this. The children are right.]
+
+[entry: Carried case | n., Fast grammar | The case of a noun one has carried oneself and may safely eat, marked *-own*: *breadown*, *waterown*. The Unfed hold it to be the only honest case in the language. *Carry your own* is both the proverb and the grammar lesson. See *Offered case* in the second half of this dictionary.]
+
+[entry: Carrier | n., Fast | The lowest rank of a Reckoner band: the one who bears the band's food and water on a raid, in a pack nobody else may open. The Carrier eats a full measure, which is more than anyone at home, and is resented accordingly. *To carry for someone*, in Wanting, is to do the unglamorous work of their crimes.]
+
+[entry: Carving | n., Common | (1) The third season, autumn, the season of slaughter, the Reaping and the Weighing. (2) In the trade in leavings, the cutting of a relic from a god-touched body, place or person, which the College classes as surgery, butchery or desecration depending on who is paying. (3) The Second Table's word for its rite. *Carving weather* is cold, clear and smells of iron. *She's in her Carving* means a woman of middle age, handsome and dangerous.]
+
+[entry: Carver | n., Common | A butcher who cuts at table; in the Second Table, the fourth rank, who leads a chapter in a land and keeps its knife of grey bone with a course-name on the handle. *Who's carving?* is a host's question in every land and, in the mouths of the poor, an accusation: *who decided this, and what did they keep for themselves?*]
+
+[entry: caul | n., Cradlewrack | The membrane over the head of a newborn; in the highlands, the mark of the Caul-lines, who ate Vey's caul and are born veiled in a membrane that in the highest houses never comes off. They live behind it, speak through it, see the future through it, blurred. The caul of a Caul-line child is eaten raw from a silver dish at its naming. *Caul-mouthed* means speaking prophecy, or speaking nonsense very slowly. See *keep the veil*.]
+
+[entry: certain | adj., Oathen | The second-worst thing you can call an Oathener, after *talkative*. A certain person is one who speaks without exits and therefore lives without spare limbs. *Don't be certain, love, you've only the two hands.* In the Breakdowns the word is reclaimed: Brakk is *the most certain man in the canyon*.]
+
+[entry: chair, pulled out | n. phr., Common | The sign of an Orrum table: a chair drawn back for you. The Fifth Rule of the Fast says not to thank it. On the Rim, *a chair pulled out* means an offer too good to be honest. *That job had a chair pulled out.* On Tablenight the Company sets an extra chair at every table and turns it to face the wall. See *count the chairs* and *head of the table*.]
+
+[entry: Chairman's feet | n. phr., Fatlands | A thing everybody can see and has agreed not to notice. From Chairman Obb Tullow, nineteen hundred pounds, whose feet rooted through the floor of his cart last spring, a matter on which the Board voted not to remark. *The Chute's barrels are the Chairman's feet* says in five words what would get a man dusk-shifted in fifty.]
+
+[entry: cherish | v., Oathen | In the canyon marriage contract: to wish the other well, and to act where able for the other's good, and to speak no ill of them before a third person save in a court, a sickroom or the Vaults. The standard contract adds that *cherish* does not require any feeling at any particular hour, since feeling is weather. A canyon husband who says *I cherish you* has said something enforceable and nothing romantic, and his wife will be moved to tears by it.]
+
+[entry: chin, to point with the | v. phr., Fast | To indicate a thing laid by the Host without naming it, since such things take no case in the Fast grammar. *There's a — on the step*, with a jerk of the chin, is the Unfed alarm. Children who say the word *cake* aloud at such a moment are slapped. Rim folk who have travelled in the Fast point with their chins for the rest of their lives, at anything they would rather not name.]
+
+[entry: Chute, the | n., Fatlands | The Renderers' Union's export depot on the Rim, where meat goes out by the thousand barrels a day with the origin stamped over twice. *Down the Chute* means sold abroad and never asked about. *Stamped twice* means of doubtful origin: a stamped-twice alibi, a stamped-twice grandfather. The bone of the Table's coin begins here, in carts marked BONE: MIXED. See *notch* and *Annalow*.]
+
+[entry: Clausewright | n., Oathen | A lawyer-priest of the Bench of Clauses, trained twenty years in drafting promises that can survive contact with reality. A Clausewright may speak a whole day without committing to anything, and is examined for rank by being questioned for a full day without a binding misstep. Never *clause-writer*, which is a clerk. *Get a Clausewright* is the canyon's answer to any proposal, including of marriage. See *exit* and *naked*.]
+
+[entry: clean | adj., Fast, Common | In the Fast, empty: *Empty plate, clean soul*. An Unfed who has eaten nothing that was offered is clean; one who has accepted is not, forever. On the Rim, *clean* means free of godsign, especially of a corpse sold for parts, and the poachers' price-lists say *clean* where a butcher's would say *fresh*. *Clean Through* is the Unfed's Knack of enduring hunger.]
+
+[entry: Clean the Plate | n. phr., Fatlands | The Fatlands' Sop, eating until the god in the gut is quiet for a while; the hunger always comes back. As a curse, *May your plate be clean*, it is the worst thing one Fatlander can say to another: may you have nothing left, may your table be bare, may you be in the Fast. See *Sop*.]
+
+[entry: cleared | adj., Common | Dead; the plate taken away. *Being cleared* is death in most dialects. In Sallowreach, where nobody is cleared, it is said wistfully of the dead of other lands, and in the Fatlands, where the dead are served, it has a second and literal meaning which the Fatlands enjoy explaining to foreigners at dinner.]
+
+[entry: close the book | v. phr., Sallowreach | To end an argument by force, or by a Closer's touch. From the Appetite of the Hand-lines, who close books, lids, shutters and eyes compulsively. *The Court closed the book on him* means a licensed death; *I'll close your book* is a fen threat that most of the people saying it cannot carry out. See *Closing*.]
+
+[entry: closed week | n., Cradlewrack | The days around each pang during which highland couples abstain, in the belief that whatever begins in pang-week begins wrong. With the interval now nine days, the closed week takes up the better part of the calendar, which the Barren Order considers a great evangelical success. See *pang*.]
+
+[entry: Closed Hand | n., Oathen, children's | A game of bitted children in which the loser is the first to answer a question. It is played in handtalk, at great speed, and children who are good at it grow up to be Clausewrights. *She's playing Closed Hand* is said of an adult who will not give a straight answer.]
+
+[entry: Closer | n., Sallowreach | A Hand-line noble who sells death by touch, under licence of the Mortuary Court; the Left Hand of the Court, Lady Corrow Vane, has finished eleven thousand. Closers wear black kid gloves sewn at the wrist. *Never offer to shake a Sallowreacher's hand.* In fen speech any expensive professional who ends a matter is *a closer*: a good divorce advocate, a hired fist, a priest who can finish a sermon.]
+
+[entry: Closing | n., Sallowreach | A licensed death by a Closer's touch, costing about four thousand lacks and rising: the only death available in the fen, and the most valuable thing a family can save for. *Saving for Gran's Closing* is the fen's equivalent of a dowry, a pension and a mortgage at once. See *licence, death-*, *breath* and *domestic license*.]
+
+[entry: coat mood | n., Fast grammar | The form in which an Unfed accepts an offer made a fourth time, after three proper refusals; after the proverb *The fourth no is a yes in a nicer coat*. Spoken lowered, with the eyes on the ground. Orrum, the Hostwatch note, has made hundreds of thousands of first, second and third offers in six centuries and has never once been known to make a fourth. See *Decline, the*.]
+
+[entry: coldbed | n., Sallowreach, rude | A marriage carried on between the living and the Kept, and what passes between them behind the shutters, which the Court does not regulate and nobody discusses. Said only by the rude, and always in a lowered voice, and usually of a neighbour whose curtains are drawn in the afternoon. The polite fen has no word for it at all. See *setting-apart*.]
+
+[entry: Cold Yards | n., Fast | The walled squares of beaten earth at the edge of Wanting where the Unfed cook, on bare ground under the open sky, putting the fire out the moment the pot is warm. *Cold Yard manners*: eating facing a wall, without expression or sound. *To meet in the Cold Yards* is to court.]
+
+[entry: come in | phr., Fast | The worst thing that can be said in the Fast, ranked by Unfed grammarians not as a phrase but as a curse; it cannot be conjugated, only uttered. The Second Rule says never to answer it. It is never punished, because it never needs to be: the Unfed will not cross the threshold of anyone who has said it, ever again. On the Rim, on Tablenight, nobody says *come in* to anyone until dawn. As a Fast curse it is complete in itself. *Come in*, said to an enemy, means *may you sit down at a table and never rise*.]
+
+[entry: Coming-Heavy, the | n., Vigil | The age, about four, at which a Vigil child born awake first yawns, rubs its eyes and asks in a small cross voice why it cannot lie down. That is when the Vigil loses its children. A wing of the Dormitory called the Small Rows holds those it lost. The word is said quietly, and only of other people's children. See *starer*.]
+
+[entry: company | n., Fast | (1) A warm front: the ground left warm where the Host has walked, by which the Unfed track it in the melted frost. *Company in the east field this morning.* (2) Elsewhere on the Table, guests at a meal. The Unfed find it both funny and frightening that the rest of the world uses their word for the god's footprints to mean *friends at dinner*. In the Kitchen Year, *company* had a third sense, which the College records and does not define.]
+
+[entry: Concordance, Master | n., College | The genealogical ledger of every bloodline on the Table, from the Meal to the present, kept in a vault under the library at Quire, cool with spring water. A new Copyist's first task is to copy their own line from it, by hand, back to the Meal, alone, which takes three days. Some weep. Some are sick into the channel. *It's in the Concordance* means *you cannot escape what your family did*.]
+
+[entry: Confessor | n., Common | A priest of the Theft doctrine, who hears penitents ask forgiveness for the Meal, most famously at the Weeping Post, where travellers of two lands kneel in brown water. *To confess the Meal* is to apologize for something that happened before you were born and for which you are still, somehow, responsible: a family debt, a national border, a nose.]
+
+[entry: corrish | n., Old Table-speech | A shared grave, literally *with-the-board*; the pit into which a household that had eaten together was laid together. The word dropped out of use after the Kitchen Year, when it acquired an ambiguity nobody could bear, and survives only in the oldest carvings and in the College's etymologies, where it is listed under *orr-* with a small mark meaning *do not read aloud to students under twelve*.]
+
+[entry: count, the | n., Brinehollow, Vigil, Rim | (1) In Brinehollow, the morning ritual of calling names through the wall to one's neighbours; silence means someone was Called. (2) In the Vigil, *the Count* of 401, when a diver brought back the number of sleepers at which the eye opens, said it once to three officials, and was added to it. (3) On the Rim, the Night Count of heads at dusk and dawn in every inn; if the dawn count is higher, nobody calls the wardens, the extra place at breakfast is set and left empty, and the page is burned at noon. See *aye-cough* and *Counted, the*.]
+
+[entry: count the chairs | v. phr., Rim, Common | To ask the forbidden question: how many gods, how many peoples, and who is missing. Every land has at some time made it a crime. *Don't count the chairs* means *leave it alone*, and is said to scholars, to children, and to anyone at a long table who seems to be counting. The Unfed proverb *Count your chairs* means the opposite: notice how many places are laid, and get out. See *Eighth, the*.]
+
+[entry: Counted, the | n., Vigil | The sleepers of the Dormitory, sixty thousand in numbered beds, breathing in time, who cannot be roused and do not age. Called the Counted because there is a number of them at which the eye in the dream opens, and the number is a state secret, and the beds are nearly full. *By my mother's bed-rail*, with the hand on a Counted kinsman's bed, is the Vigil's oath on the dead. *To be counted* is to fall asleep for good. See *Bed One* and *Already Counted*.]
+
+[entry: Course, the | n., Common | The third stage of the Regrowth, at which the flesh changes and the person is visibly becoming something else: grey nine-jointed hands, a body rooted in loam, a chest that no longer needs to rise, lidless eyes, continual bearing, speech that comes true. *Far into her Course* is said of a noble, never of a friend. *He's coursing* is Rim slang for anyone ageing badly. See *Appetite, the* and *Brink, the*.]
+
+[entry: Crake, to | v., Oathen | To get a person to promise you something small. From Jude Crake, the state executioner, who owns no weapon, visits the condemned, talks pleasantly for an hour and leaves once they have promised him something small; it has never taken him longer than an hour. *She craked me* means *she got a promise out of me and now I'm going to break*. Canyon mothers warn children against friendly strangers who *talk crake*.]
+
+[entry: Crèche, the | n., Cradlewrack | The house in Kest to which the born-grown are walked when they arrive without bearer: from the Coppers, from the waters, from the crownings. They are given an apron and a number and, in due course, a place in the Foundling Companies. *Crèche-raised* means a person with no mother on the record, which in a land where descent runs through whoever bore you is a mark of great freedom and no standing at all.]
+
+[entry: crock | n., Cradlewrack, Sallowreach | (1) In the highlands, the earthenware crock in which a child's afterbirth is kept salted until the naming, when it is stewed and eaten by the family in the Second Meal. (2) In the fen, the stoneware crock under the hearth-board with sixty slots in the lid, in which a family saves breaths toward a minute and minutes toward a licence. *The crock's filling* means, in both lands, that something is coming due. See *Second Meal* and *breath*.]
+
+[entry: crowning | n., Cradlewrack | A sinkhole in the highlands, dilating slowly over weeks into a perfect round opening, at whose rim people gather to see what comes up. *You'll know when it's crowning* is said of anything inevitable. The great crowning is the Dilation, a mile across and widening. See *Dilation, the* and *pang*.]
+
+[entry: crumb | n., Common | A tenth of a lack: a pierced bone bead cut from knuckles, ribs and offcuts, strung in tens on a knotted cord called a loaf. Children are paid in crumbs, beggars ask for them, and every Oathen price-witness charges by them. *Crumb for the plate* is the beggar's cry on the Rim. The Vigil, which cannot see crumbs through its lamp-smoke, has no word for them. See *lack* and *loaf*.]
+
+[entry: Crumb-Runner | n., Fast | A smuggler who hauls food in from the Rim by night; despised in the Fast and the only reason anyone there is alive. Crumb-Runners are spat on in the street by the people their cargo feeds, and by long tradition never eat a mouthful of it. *Crumb-Runner thanks* is a spit at your feet from someone who needs you.]
+
+[entry: Cull | n. and v., Fatlands | The office of the Cullmasters, a quiet bureau of the Board of Plenty that holds the Reaping can be steered, and assigns vagrants, debtors and troublemakers to the dusk-shift in the far fields. *Culled* means sent to work at dusk. Cullmaster Varn Sweetbread thinks of it as agriculture. Sated children say *the Cull will get you* the way children elsewhere invoke a bogey, and they are, in this case, also accurate. See *dusk-shift*.]
+
+[entry: cupboarded | adj., Oathen | Of a faithless spouse: having had the chest open like a cupboard on breaking a marriage vow. *Her first husband's cupboarded* is a complete and devastating piece of canyon gossip. Brakk of the Breakdowns, whose ribs opened like a book, is the most famous cupboarded man in Oathen. See *Breaking* and *Forsworn*.]
+
+[entry: Cure-House | n., Rim | The Company's mint at Saltbridge, where Fatlands bone is boiled, sawn, salted in Brinehollow bail-salt and stamped into lacks: the only lawful mint on the Table since 212. The steam can be smelled from the next post. The people of Saltbridge are famous for their good skin and their bad dreams. *Cure-House rich* means wealthy by a process nobody looks at closely. See *bone-cough*.]
+
+[entry: cure next door | n. phr., Common | The universal and universally failed belief that another land's curse might cure your own: Sallowreach's undeath for the sleepless, the Fast's emptiness for the starving, Oathen's binding word for everyone. *Every land is certain that the cure is next door.* *Looking for the cure next door* is said of any marriage, migration or medicine undertaken in desperation.]
+
+[entry: Cut | n., Common | The measure of god in a person's blood, from 0 to 5: Blanks and the Unfed are 0, Scraplings 1, common folk 2, Prime Cuts 3, High Cuts 4 and 5. From the portion of the god one's ancestors ate. To ask someone's Cut politely is to ask *what portion* they come of; to ask it rudely is *what did your lot eat?* The High Cuts rule every land and are its most monstrous inhabitants. See *Hand-line*, *Gut-line* and *what portion?*]
+
+[entry: Cutwright | n., College | A genealogist of the Cutwrights' College of the third rank, entitled to certify Cuts with a binding certificate valid in every land, and wearing a silver spoon on a chain; generally, any member of the College. The Cutwrights taste blood to grade it. *A Cutwright's smile* is the expression of someone who knows exactly what your grandmother did and is billing you for it.]
+
+[entry: Cradle Toll | n., Rim | Two lacks paid at Knocking Gate by a traveller with child leaving Cradlewrack, after the Marshal's inspection, if let through. *To pay the cradle* is slang for getting away with something under official eyes, and also, more bitterly, for discovering the country came with you. See *Knocking Gate*.]
+
+[entry: cistern-husband | n., Brinehollow | A Tenanted spouse who sleeps in the house cistern, as the returned do, while the living spouse sleeps in the bed. The phrase is neutral on the Mile and obscene inland. *She keeps a cistern-husband and a bed-husband and ties herself between them, and nobody asks whose line holds whose.* See *Wreckwife*.]
+
+[entry: clatter-roof | n., Vigil | A roof of loose tin built so that rain clatters on it instead of soothing, as rain on a sound roof is too restful for the Lid. *Living under a clatter-roof* means living with a nag, and is said fondly. A quiet roof is a scandal, reported to the Wakers by neighbours.]
+
+[entry: Copyist | n., College | The lowest rank of the College: grey gown, board at Quire, access to the open stacks, and an ink-black right thumb that never washes clean. *Inkthumb* is Rim slang for any clerk of the College. Copyists are taken young or by examination, and each gives a pint of blood on entering, which is tasted, graded and entered, so that the College knows exactly what they are, and how fast they are going.]
+
+[entry: Chewing-time | n., Fatlands, children's | The Reaping, as small children of Low Tilth call it: the Carving dusks when people go missing from the fields. *Don't go out at Chewing-time.* They all do, once, on a dare. Grown Fatlanders do not use the word, but they do not correct it either. See *Reaping* in the second half of this dictionary.]
+
+[entry: Coppers, the | n., Cradlewrack | The great laundries of Kest, where the aprons of the Attendance are boiled three times and the third water poured on the hill, and from whose steam the born-grown sometimes walk at night. *Out of the Coppers* means unexpectedly arrived and in need of clothes. See *boiling*.]
+
+[pull] We are the only people on the Table who know exactly what our grandparents smell like on the inside. | — Lastgate saying, told to foreigners at the Landing to watch their faces
+
+## D
+
+[entry: dear | adj., Common | Costly; and beloved. In Table-speech the two senses have never separated, which the Kitchen Year rhyme puts plainly: *Father's too tough and Mother's too dear*. A Fatland grandmother who calls a child *my dear* is being affectionate and is also, children are told by older siblings, pricing them. *The lack is thin* is how the Table says bread has become dear.]
+
+[entry: Debt, the | n., Brinehollow | The coast's name for the Theft doctrine: we stole the god of the deep and owe it everything, and the Calling is repayment. It is the faith of the Admiralty, the Anchorites and most of the old fishing towns. *Paying the Debt* is the coast's most respectable euphemism for being Called. Its liturgy includes the Lowering. See *Lending, the* and *Spawning, the*.]
+
+[entry: Debt Wall | n., Cradlewrack | The wall in the Stillyard at Kest lined with the living condemned, mortared into niches, fed bread and water through a slot for as long as their families pay. In the evenings the families sit beneath the slots and talk to them. *On the Wall* means imprisoned for life; *stop the bread* means to give up on someone. The slot-feeders say the Wall ticks at night like a kitchen full of cooling pans. See *brick*.]
+
+[entry: Decline, the | n., Fast | The threefold *No, thank you* that is the proper Unfed answer to any offer of anything: a cup of water, a hand up a step, a seat, a compliment, a marriage proposal. Accepting on the fourth offer is good manners; accepting on the first is a scandal. It is also the whole of the last rites, said three times by the family standing around the walls with their backs to the body. *She took it on the first* means she has no shame. See *coat mood* and *abhorr*.]
+
+[entry: Deepening, the | n., Brinehollow | The cult that treats the Calling as a sacrament and walks in willingly at night, in procession, with lanterns, singing. Mother Limpet has baptized two thousand. The Anchorites call them *drowners*. *Gone Deepening* is the coast's gentlest euphemism for those who chose the sea; the College records it here as the grief it is, and notes that families who say it have usually found the rope cut from the inside. See *home, going*.]
+
+[entry: Deadwatch, the | n., Common | The rumoured bargain between the Vigil and Sallowreach: that the sleepless city might buy the secret of Keeping, be killed, and stand forever as a city of the dead who never need to sleep. *A Deadwatch bargain* is any cure worse than the disease. The Vigil's envoy has not sent home the report that the Kept cannot leave the fen.]
+
+[entry: dew-rot | n., Sallowreach | The mist that settles overnight in the fen and leaves a tea-brown bloom on linen, skin and the newly lacquered. A fen housekeeper's first task each morning is to wipe the dew-rot from the Kept elders' faces. *Dew-rotten* means stale, of bread, gossip or a marriage. See *Breath, the* and *weep*.]
+
+[entry: Dilation, the | n., Cradlewrack | The great crowning in the central highlands, a mile across and widening, now pulsing with the pangs; a town of watchers has grown up around the rim. Madder Rudge, head of the watch, says it has a pulse, and lately a second one under it. *Dilation-sick* means unable to stop looking at something terrible, and is said of the rim-folk, of the newly bereaved, and of scholars. See *crowning* and *pang*.]
+
+[entry: dim | adj., Vigil, obscene | Not brightly lit. On the Lid, *dim* light is the most indecent condition a room can be in, and *dim talk* is talk of comfort, softness, warmth and rest, the pornography of the Vigil. Rouse-house walls are scrawled with dim words. *Keep it bright* is the Vigilant's way of saying *keep it clean*. See *nuzzling* and *abed*.]
+
+[entry: dish-down | n., Sallowreach | The small dish set at the elbow of a Kept diner into which they spit what they have chewed, since the Kept do not need to eat and many still sit at table for company. Polite households keep a lid on it. *Spit it in the dish-down* means *say it and be done*, and *chewed for the dish-down* means effort spent on nothing. Compare *aleuse*.]
+
+[entry: Dole-bone | n., Common | One of the first lacks, cut in the seventh year of the Lack for the public kitchens of the Bone Dole, from what bone the Dole had to hand. Yellower and smoother than any coin since. People who find one in their change spend it quickly; children call them *grandmother coins*. *Dole-bone luck* is luck that comes from somewhere you would rather not think about.]
+
+[entry: domestic license | n., Sallowreach | The doctrine invented by the Mortuary Court in 588 after Lady Imber Fallow finished her own father: that a Closing done within a Hand-line, upon a member of the line, by one of the line's own hands, is a private matter, licensed by blood. Since 588, forty-three Hand-line heads have *retired*. *Retired by domestic license* is fen slang for parricide in good families, and is said with a perfectly straight face.]
+
+[entry: door | n., Common, Cradlewrack | In Cradlewrack, a thing that will not stay shut: doors drift open in the night, locks are found undone, wounds reopen. *Every door is a mother.* *A door shut is a question asked.* The Holder in the lintel-niche holds the door, children are told, and are not told which way. In the Fast, doors are hung to open outward so that no one inside can be said to have let anyone in. See *knock*, *Sill, the* and *Doorwright*.]
+
+[entry: Doorwright | n., Cradlewrack | A maker of doors meant to stay shut, a profession of one: Agnes Latch, whose best work held for nineteen days. Customers travel from Kest for a single quiet night. *A Latch night* is an unbroken sleep. *I'd sell the naming-right for a Latch door* is a common highland confession of exhaustion.]
+
+[entry: Dormitory, the | n., Vigil | The building the size of a district where the Counted lie in sixty thousand numbered beds, in rows, breathing in time, in complete silence. Fewer than two thousand beds remain empty. *Off to the Dormitory* is the Vigil's way of saying someone has died, though they have not, quite. The Matron who keeps it knows the number and walks the rows daily, counting. See *Counted, the*.]
+
+[entry: Dowager | n., Fatlands | A Seated Gut-line matriarch: a low green mound in the Dowager Hills outside Sated, still consulted on family matters. *Asking the Dowager* means seeking advice from an elder who will tell you something true and terrible and then ask for a meal. Dowager clay, a poultice of her soil, heals wounds, and in a week fine white roots come out of the scar and must be cut. See *hill* and *abundance*.]
+
+[entry: Draught, to take the | v. phr., Common | See *Black Draught*. To be publicly humiliated by choice.]
+
+[entry: drip | n., Fatlands | Rain in the south: warm, heavy and fatty, leaving a film on standing water that cooks skim off and use. *Drip-fat* is a cheap cooking grease of the Leanings. *It's dripping* is said of an over-rich sermon, an over-rich suitor, or the sky.]
+
+[entry: Dromm | n., Brinehollow | The Fathom, god of the deep sea, of pressure, of what is kept under, dragged up the shingle at Longslab on ten thousand hooks, four days dying. Its name is said on the coast with the voice lowered, as if under water. *Dromm keep you* is a sailors' blessing that has become, since the Turning of the Tide, ambiguous. *Dromm-heavy* describes a pressure day, and a mood.]
+
+[entry: Drop, the | n., Rim, Sallowreach | The red line painted across the Rim Road outside the gate at Fogmouth, renewed every Grace: north of it the Kept walk, south of it they fall, finished. Families come to the line to say goodbye to living relatives going abroad and hold hands over it. *Across the Drop* means abroad, for a Sallowreacher, and *walked the Drop* means went south to die on purpose, which some of the very old do, and their families stand on the north side and sing.]
+
+[entry: Drowned Storeys | n., Sallowreach | The lower levels of Lastgate, sunk under the fen over centuries and still inhabited, chiefly by the poor Kept and by the Smalls, the child-dead, who have their own society and their own queen. *From the Drowned Storeys* means from the bottom of society, and *a Storeys voice* is wet, slow and very old in a small body. See *Smalls*.]
+
+[entry: drowner | n., Brinehollow, rude | An Anchorite's word for a member of the Deepening; more broadly, anyone who encourages despair. *Don't listen to him, he's a drowner.* The coast treats it as one of the few words that ends a friendship. See *Deepening, the*.]
+
+[entry: drover-cattle | n., Fatlands | Beasts walked to market by the drovers that the buyers call cattle and that walk on two legs when no one is watching the road. Sal Trotter has stopped naming hers. *Drover-cattle* is southern slang for any people sold under a polite name: debtors, poached Unfed, dusk-shift labour. The Head Toll charges them as animals, and nobody checks.]
+
+[entry: dry man | n., Brinehollow | A person whose lungs do not fill: a foreigner, a Blank, or Dry Jonah Skerry, who for nineteen years was the only grown man on the Mile who did not bail. *A dry man drowns twice* means that a person who has never had to struggle will be undone by the first real trouble. Dry men are distrusted, pitied and, on the Gilt Mile, hired as clerks, since they can work through dawn.]
+
+[entry: dry paper | n., Rim | An unsworn promissory note, written by a non-Oathener or outside Oathen, worth exactly what the issuer's honesty is worth, which is to say nowhere sensible. *Dry paper* is Rim slang for any assurance from a foreigner, a politician or a lover. *His word's dry paper.* See *sworn note* in the second half of this dictionary.]
+
+[entry: Dunmere, to | v., Sallowreach | To go silent all at once, completely, and stay that way. From Dunmere, the village that went silent overnight in 633 when everyone in it was simply and properly dead, and half the country wept with envy. *The tavern dunmered when the Closer walked in.* Birds fall at the edge of Dunmere Hush. See *Hush*.]
+
+[entry: Dusk Acres | n., Fatlands | The far fields of the Cullmasters: a belt of Board land rotated each Carving, the most productive and most carefully ploughed in the country, each plot marked by a small numbered stone at its corner. In spring the Union's men walk them for calves. *Out on the Acres* means sent somewhere you do not come back from, and it is said only of others.]
+
+[entry: dusk-shift | n., Fatlands | Labour in the far fields at dusk in Carving, assigned by the Cullmasters to vagrants, debtors and troublemakers; from which they return, mostly, with the debt worked off. Mostly. *Dusk-shifted* means disappeared by the state with paperwork. The Long Count marks a stroke with a cross-bar for each dusk-shifted who did not come back. See *Cull* and *Long Count*.]
+
+[entry: Dusk List | n., Fatlands | The roll of names the Cullmasters assign to the dusk-shift each Carving. To *be on the List* is the Fatland nightmare. To *put someone on the List* is the Fatland insult. To *buy off the List*, through Garrick Tripe or a dozen others, is the Fatland economy. See *Cull*.]
+
+[entry: dandle-gran | n., Sallowreach, children's | A Kept grandparent light enough, from long decay, to be carried about by a child; a fen nursery word. *Bring dandle-gran to the window, she likes the sigh.* Children are taught never to drop one, since it takes the Seamer a week to find all the pieces.]
+
+[entry: dozer | n., Vigil, rude | A foreigner; anyone from a land where people sleep. *Watch your purse, there's dozers at the Halt.* Abroad, a Vigilant who calls another land's people dozers is being nostalgic, envious and contemptuous in a single word.]
+
+[entry: dumb-bread | n., Oathen | The flat stone-baked bread eaten on Tablenight, the one day of the year no Oathener makes a sound; baked the night before, unsalted, so that nobody will be tempted to remark upon it. *Dumb-bread happiness* is the brief, total, speechless contentment of the canyon's one safe day. See *Tablenight* in the second half of this dictionary.]
+
+[entry: Dread | n., Common | The weight of a horror on the mind; in the College's usage, a scale from 1 (a rotting corpse) to 5 (a god's face), measuring how much it costs to look. *A Dread-two sort of morning* is a fen joke about seeing one's grandmother before she has been relacquered. At the table, a Dread check is Caul + Resolve against a difficulty set by the horror's rating. See *Fray*.]
+
+[entry: dawn-voice | n., Brinehollow | The thick, wet, gargling voice of a Brinehollower before the morning bail, considered intimate; only spouses and bailer-boys hear it. *She's heard his dawn-voice* means they are sleeping together. Compare *salt-burr*.]
+
+[entry: drowse-house | n., Vigil | A den of the Tuckers, where for a month's wage a citizen may sleep one guarded minute and be hauled back. Failures are delivered to the Dormitory steps before the next bell. *A drowse-house minute* is any pleasure bought at mortal risk. Old Nod, King of the Tuckers, has never tried his own product. See *Tucker*.]
+
+[entry: Dregs, the | n., Rim | The last travellers left in an inn's common room after the Night Count, on a licked-clean night, when no one may leave until dawn; by extension any company one is stuck with. *We were the Dregs at Thimble Cross* is the opening of a hundred Rim stories, most of them about a knock that came in the right voice.]
+
+[entry: Drowned Bench | n., Brinehollow | See *Bench*. Its Justices are Tenanted, speak in two tones at once, and have never given an unjust verdict. *Drowned justice* is perfect fairness from something that is not on your side.]
+
+[entry: dug | adj., Fatlands | Of a person: dug up as a root, a tuber, a crop, wearing a familiar birthmark or face. *Tansy Lard dug her mother* is the most famous case. Farmers who turn up something dug do not speak of it; they replant it behind the house, or they do not, and either choice is grieved. See *field-gotten*.]
+
+[entry: Drowsing Act | n., Vigil | The section of the Waking Laws making it an offence to let anyone near you nod off. *Drowsing Act* is the Vigil's word for collective guilt: *the whole street's under the Drowsing Act for the Corley boy*. Prosecutions rose sharply in 640.]
+
+[entry: dew-wake | n., Sallowreach | A vigil sat by the living beside one who is dying in another land, kept by fen families with relatives abroad. Since the living of Sallowreach have no deathbeds of their own, a dew-wake is a rare and solemn excitement, and the neighbours come to watch someone finish. Bram Hollin, the Last Mourner, is hired to them at great expense.]
+
+[entry: Divvy | n., Rim, thieves' cant | The share-out of a poacher's or part-thief's take: so many kidneys, so much marrow, a pair of hands. From Old Table *dividing at board*. *Who's at the divvy?* is a question asked in the back rooms of Gristmoot and answered by a list of buyers, most of whom wear a silver fork inside the collar.]
+
+[pull] The Tally of births outruns the count of conceptions every year, and the gap is widening. Somewhere in the highlands there are eleven hundred people nobody carried. | — Rufus Ochre, Tallyman, in a letter to the College, 640
