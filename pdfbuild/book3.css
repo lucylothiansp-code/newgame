@@ -111,7 +111,7 @@ table.data tr { break-inside: avoid; }
 .ch-sub { font-family: 'Cormorant'; font-style: italic; font-size: 17pt; color: var(--ink-dim); margin-top: 4pt; }
 
 /* ------- part page ------- */
-.part { break-before: page; break-after: page; page: bare; height: 9.2in; text-align: center; padding-top: 2.4in; }
+.part { break-before: page; break-after: page; page: bare; height: 9.2in; box-sizing: border-box; text-align: center; padding-top: 2.4in; }
 .part-sigil { width: 1.8in; height: 1.8in; margin: 0 auto 0.4in; color: var(--gold); }
 .part-label { font-family: 'Josefin'; letter-spacing: 0.4em; color: var(--gold); text-transform: uppercase; font-size: 12pt; }
 .part-title { font-family: 'Josefin'; font-weight: 300; font-size: 40pt; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold-hi); margin: 10pt 0 14pt; }

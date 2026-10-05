@@ -852,7 +852,7 @@ Disease moves slower than poison and further. A disease has a **Virulence** (the
 | Gut-Worm (Fatlands, field-meat) | Routine 10 | week | hunger / wasting despite eating / the worm is longer than the gut |
 | Brine-Lung (Brinehollow, foreigners) | Hard 14 | day | cough / bailing like a native / the Calling, at a stranger's tide |
 | Rouse-Heart (Vigil, years of dose) | Grim 18 | season | flutter / stutter / Ruin at the next second dose |
-| Childbed Fever (Cradlewrack, any bearer) | Grim 18 | day | heat / sepsis of the wound / Ruin; the wound will not close |
+| Childbed Fever (Cradlewrack, any bearer) | Grim 18 | day | heat / festering of the wound / Ruin; the wound will not close |
 | Mouthrot (Oathen, under the bit) | Routine 10 | week | sores / teeth lost / jaw (as the Mangling) |
 | The Bloody Flux (anywhere starving) | Hard 14 | day | cramps (−1) / blood (−2, lose 1 Flesh) / Ruin |
 
@@ -952,7 +952,7 @@ At the end of each downtime period, the Carver rolls a d20 for one Guest's Who W
 | 19 | They have started to change toward the god. They are happy. |
 | 20 | They are well, and they have news, and it is good, and it is real. Let it be real. |
 
-*Example: Between stories, a month passes. Ressa takes two actions: Mend (her Flesh returns and her Rib-Crack advances a step toward healing) and Tend, going home to Ama in Gannet Reach, which clears her Fray because Ama is still herself. Tolly Works as a courier (Standing 2: 10 lacks a week, 40 for the month) and spends it all on rouse. Abate cannot pay even the destitute rate in Lowmark and will not accept charity; he gains Ruin 1, a debt to a Company quartermaster who knows where he sleeps. The Carver rolls While You Were Away for Ressa: 13. A table was laid in Ama's kitchen one morning, with Ressa's name on the card. Ama burned it. She mentions it in passing, over herring, as though it were nothing, and her hands shake.*
+*Example: Between stories, a month passes. Ressa takes two actions: Mend (her Flesh returns, and the black bruise where the hookman's boathook caught her ribs fades to yellow) and Tend, going home to Ama in Gannet Reach, which clears her Fray because Ama is still herself. Tolly Works as a courier (Standing 1: 5 lacks a week, 20 for the month) and spends it all on rouse. Abate cannot pay even the destitute rate in Lowmark and will not accept charity; he gains Ruin 1, a debt to a Company quartermaster who knows where he sleeps. The Carver rolls While You Were Away for Ressa: 13. A table was laid in Ama's kitchen one morning, with Ressa's name on the card. Ama burned it. She mentions it in passing, over herring, as though it were nothing, and her hands shake.*
 
 [pull] Nobody on the Table goes home. They go back, which is different, and they find out how different when they knock. | — Cradlewrack saying, from a country where you must
 

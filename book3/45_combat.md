@@ -407,9 +407,9 @@ Dread 4, Dire (22), for everyone who sees it. Abate rolls 20 and takes 4 Fray. R
 
 *A mob, holding the line, a ritual killing, a Yield, and a fight that changes nothing.*
 
-This fight happens a season before the hill at Hessop's Furrow. At Sallet Bottom, a Fatlands village two days south of Sated, the Cullmaster's dusk shift is going out: two debtors, bound at the wrists, walked to the edge of the far field by Cullmaster Ambry Loin and three Cull-bailiffs, while the village watches from the lane behind a hedge. The village has been told that if the field is not fed, it will feed itself on their children. Most of them believe it. Some of them are holding pitchforks.
+This fight happens a season before the hill at Hessop's Furrow. At Sallet Bottom, a Fatlands village two days south of Sated, the Cullmaster's dusk shift is going out: two debtors, bound at the wrists, walked to the edge of the far field by Cullmaster Absalom Furlong and three Cull-bailiffs, while the village watches from the lane behind a hedge. The village has been told that if the field is not fed, it will feed itself on their children. Most of them believe it. Some of them are holding pitchforks.
 
-[quick] Cullmaster Ambry Loin — Threat 3 · Flesh 13 · Guard 14 · Attack +6 (Cullmaster's sickle 4, Hooking, Ripping, Silent) · Armor 1 · Dread 0 · Rites 4
+[quick] Cullmaster Absalom Furlong — Threat 3 · Flesh 13 · Guard 14 · Attack +6 (Cullmaster's sickle 4, Hooking, Ripping, Silent) · Armor 1 · Dread 0 · Rites 4
 [quick] Cull-Bailiff (3) — Threat 2 · Flesh 14 · Guard 12 · Attack +5 (cudgel 3, Grapple 14) · Armor 1 · Dread 0
 [quick] Villagers of Sallet Bottom (12, a mob) — Threat 3 · Flesh 60 · Guard 13 · Attack +6 (pitchforks, flails, a cleaver 5) · Armor 0 · Dread 0 · breaks at half number unless a preacher holds it
 
