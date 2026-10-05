@@ -1326,3 +1326,179 @@ It hangs in the Tether Hall's records-room, coiled, and it does not lie still. E
 **EFFECT:** A diver (or any sleeper) bound in the tether returns from the room when the bell is struck, automatically, without hauliers. Each dive, the diver may ask the GM one question about the long room, and on a Grace, about the eye. But each dive, roll a d6: on a 1, something on the other end of the tether has said the diver's name, and the GM gains a Regrowth point to spend on the diver at a moment of their choosing.
 
 **WORTH:** Never sold. Unique. The Watch of Watches would seize it if they knew how often it is borrowed.
+
+## From the Lamps and the Bells
+
+[sigil: vigil]
+
+The Vigil keeps itself awake with light and noise: ten thousand public lamps, a hundred thousand more in its houses, mirrors on every roof, Bonfires in the squares, bells every quarter hour, tin roofs that clatter in the rain. Three centuries of this have soaked into the instruments themselves. The city's lamps, bells and clocks are not godflesh, strictly. But they have stood against the god every minute of every day for three hundred years, and some of them have taken on its shape the way a dam takes the shape of the water.
+
+### A Row Mirror
+
+Lampwrights' Row is the brightest street in the world, lit from above and below and every side at once by mirrors on every roof, so that a walker there casts no shadow. The oldest mirrors were silvered in 343, the year after the First Night, and have not reflected darkness since. Each was turned toward a lamp the day it was hung, and has never been turned away.
+
+When one cracks, its shards are prized. A Row-mirror shard is a jagged piece of old glass, its silvering gone grey and leprous at the edges, and it holds light. Carried into a dark room, it glows faintly with the reflected glare of the Row, as if it remembered three hundred years of lamps and could not stop showing them. It throws no shadow, and lets nothing near it cast one. People who look into it see their own faces lit from every side, harshly, unflatteringly, and cannot look away, and cannot blink.
+
+Garron Ashlock, Lamplighter-General, has ninety days of oil. He has begun buying up Row shards. He has not said why.
+
+**WHISPERED:** Eye + Lore vs Hard (14) in the Vigil; Grim (18) elsewhere.
+
+**SPOILAGE:** A shard keeps its light for a year in darkness, then must be returned to a lit street for a day to drink.
+
+**CARVING:** Collected when a Row mirror cracks (Eye + Search vs Hard 14 to be first), or broken deliberately (a Guild offense, flogging). Prising one from a rooftop is Lung + Athletics vs Hard 14.
+
+**TAINT:** none.
+
+**EFFECT:** The shard removes darkness penalties within five paces and prevents any shadow within that radius, defeating Stealth that depends on darkness. A person made to look into it (Tongue + Intimidate vs their Caul + Resolve, or simply held) cannot blink, Lull or sleep for a scene, and takes 1 Fray from the glare. In Sallowreach, the shard stays lit inside a Hush, and the Kept turn their faces from it.
+
+**WORTH:** 90 L. Scarce. Guild property; theft is prosecuted when the Guild notices.
+
+### A Quarter-Bell Tongue
+
+The city's bells sound every quarter hour to keep it awake, and they deafened Thaddeus Knell, the chief bell-ringer, years ago. He rings by the clock and by the shaking in his teeth. Every few decades a clapper cracks, from three hundred years of quarter hours, and is replaced. The old tongues are given to the Wakers. Captain Pyre keeps one on his desk.
+
+A bell-tongue is an iron clapper the length of a forearm, pear-shaped, its striking face worn to a bright dent, and it is never still. Held in the hand, it hums. Struck against any surface, even a wooden table, it rings with the voice of the bell it came from, loud, cold and vast, and the sound goes into the teeth. It wakes anyone. It wakes people from the edge of the room, from a blink in progress, from a Tucker's minute that has gone a breath too long. It does not wake the Counted. Thaddeus Knell has tried, in Bed One's hall, at night, with the clapper of the Great Quarter. Bed One's lips stopped moving for exactly one minute.
+
+**WHISPERED:** Eye + Lore vs Hard (14); Wakers and Knell's ringers, Routine (10).
+
+**SPOILAGE:** It does not spoil.
+
+**CARVING:** Bought from a Waker (Tongue + Haggle vs Hard 14), or taken from a bell-tower when a clapper is replaced (Lung + Athletics vs Hard 14 to climb).
+
+**TAINT:** none. Each use costs the striker 1 Flesh if they do not stop their ears.
+
+**EFFECT:** Struck (an action), the tongue removes 3 Weariness from everyone within twenty paces, ends any blink in progress, and gives a nudger's fetch for a sleeper in the room an automatic success. Anyone using Lay Them Down or a Catching Yawn within earshot fails. In any land, it ends any sleep, trance, Seeming or enchantment of drowsiness within earshot. It cannot be used stealthily. Restless sleepers within earshot stop moving for one minute.
+
+**WORTH:** 220 L. Scarce. Legal in Waker hands; illegal to sell, and sold.
+
+### A Hank of Pendulum Wire
+
+In the Pendulum Hall, from the top of the tower to the cellar, hangs a single pendulum, a great iron bob on a rope of twisted wire, swinging through a slow arc that once took exactly four seconds. Maud Sexton, the Hourkeeper, has proved by that pendulum that each hour is a little longer than the last. Something is stretching the night that the Vigil will not admit it is having. Every decade the wire is replaced, because it stretches too.
+
+Old pendulum wire is a coil of twisted iron strands, oiled, and longer than it was when it was hung: measured coils come back from the Hall a span longer than they went in. Wound around a wrist, it ticks against the pulse, slow, much slower than the heart. Those who wear it feel time thicken around them. A second becomes a long second. A breath becomes room enough to think in. Clerks of the Watch wear it to finish their shifts. Wakers wear it in fights. Maud Sexton will not have it in her house.
+
+**WHISPERED:** Eye + Lore vs Grim (18).
+
+**SPOILAGE:** It does not spoil. It does, slowly, keep stretching.
+
+**CARVING:** Taken from the Pendulum Hall's stores when the wire is replaced (Lung + Filch vs Hard 14). Standing inside the humming tower too long is a blink check at Hard each scene.
+
+**TAINT:** 1 Regrowth (Iss), each time its power is called.
+
+**EFFECT:** Once per scene, the wearer may stretch a moment: take one extra action before anyone else can respond, or reroll one failed Lung or Hand roll. Each use adds 1 Weariness, because the stretched moment had to be stayed awake through. Once per day, the wearer may instead stretch an hour, and do an hour's work in what others see as a minute; this adds 3 Weariness and ages the wearer's face visibly by a month.
+
+**WORTH:** 160 L a hank. Scarce. Theft from the Pendulum Hall.
+
+### Lukas Marre's Muzzle
+
+Lukas Marre's yawns are catching beyond all reason; he once put down a whole market square. He lives in the Glass House, masked, alone, and apologizes through the pane to everyone who visits. The yawners there wear stiff leather muzzles that hold the jaw half closed. Marre's wear out faster than anyone's, because he fights them, and because the leather soaks up the yawn.
+
+A Marre muzzle is a harness of boiled leather and brass, with a padded chin-cup, stained dark on the inside, and it smells of him: of sleep-breath and saliva and the warm milky smell of a yawn. Strapped on someone else, it gives them his gift. The wearer cannot yawn, quite. The yawn builds behind the leather and goes out of them through the eyes, and everyone who sees their face catches it. Tuckers have used them to empty a street of Wakers. Assassins have used them to make a whole household blink at once. Marre does not know. He thinks the Glass House burns his old ones.
+
+**WHISPERED:** Eye + Lore vs Grim (18); Glass House keepers, Hard (14).
+
+**SPOILAGE:** A muzzle holds its yawn for a season after he last wore it.
+
+**CARVING:** Taken from the Glass House's refuse (Lung + Stealth vs Hard 14). Visiting Marre to take one from him is a Caul + Resolve roll vs Hard (14) through the speaking-tube, or gain 2 Weariness.
+
+**TAINT:** Dread 1, to the wearer (they can feel what they are doing).
+
+**EFFECT:** Worn, the muzzle makes the wearer a Glass House yawner: once per scene, everyone who can see their face must make a Caul + Resolve roll vs Hard (14) or gain 2 Weariness and make a blink check. The wearer also gains 1 Weariness per scene. Outside the Vigil, the yawn still spreads, and Vigil-born travelers in sight must make blink checks.
+
+**WORTH:** 180 L. Rare. Spreading the Yawn; capital.
+
+## Preparations of the Pinchmarket
+
+[sigil: vigil]
+
+The Pinchmarket has been open every hour of every watch for three hundred years. What it sells best is what the Vigil makes best: the tools and drugs of staying awake, and their black-market opposites. These are the city's crafted leavings: needles, stimulants, sandglasses, bread, and one thing from Inspector Grimmer's evidence room that ought never to have left it.
+
+### An Atlas Needle
+
+Sister Agathe Pinch, Mistress of the Needle and author of the current edition of the Atlas of the Quick, has trained every Waker alive. She is tiny, bright-eyed and grandmotherly, with a lap-tray of needles laid out like embroidery tools. She believes that pain is a teacher, and that Wakers must learn it first on their own bodies. Her needles are steel, as long as a hand, fine as hair at the tip, and each has been used on a hundred recruits in the standing-stalls. She retires one each year, with a little ceremony, and gives it to the recruit who screamed least.
+
+An Atlas needle finds the Quick. That is the Wakers' word for the place in a body where pain lives closest to the surface and does least harm: a point behind the ear, under a nail, at the hinge of a jaw. An Atlas needle in any hand goes there on its own, as a dowsing rod goes to water. It wakes the dead-tired as nothing else can, and it makes a liar's eyes water, and it never leaves a mark. Sister Pinch's former students treasure theirs. Jack Tenterhook, the wake-valet, has three, and says the only difference between his old work and his new is the tipping.
+
+**WHISPERED:** Eye + Lore vs Hard (14); Wakers, Routine (10).
+
+**SPOILAGE:** It does not spoil.
+
+**CARVING:** Given by Sister Pinch to a recruit after a week in the standing-stall (Gut + Endure vs Grim 18 for the week; 4 Fray), or bought from a Waker down on their luck (Tongue + Haggle vs Hard 14).
+
+**TAINT:** Dread 1, to the user, the first time each day.
+
+**EFFECT:** A prick (an action, or a hit on a grappled target) removes 3 Weariness and ends a blink or falling-asleep, as a Waker's needle succeeding automatically, and costs no Flesh. In questioning, the needle gives +2 to Intimidate, and a target who has been pricked suffers −2 to Deceive for the scene. As a weapon it deals 1 damage, ignoring Armor.
+
+**WORTH:** 70 L. Uncommon. Legal for Wakers; anyone else carrying one is presumed to be a Waker, which on the Slope is dangerous.
+
+### Crane's Strain Eleven
+
+Dr. Aldous Crane, Apothecary-General, invented the current strain of rouse. He knows the dose curve and where it ends: there is a point at which the amount needed to stay awake is the amount that stops the heart. It is eleven years off. In his private laboratory in the Bitterhouse he has been working on what comes after. He calls it Strain Eleven, after the years. He has not slept, of course, but he has not rested either.
+
+Strain Eleven is a black lozenge the size of a thumbnail, stamped with an open eye and a small numeral, glossy, bitter beyond bitter, and it holds. One dose keeps a Vigilant awake for a full day, clear and sharp, with no rising pressure on the lids at all. It is what the city has been praying for. It is also, by Crane's own notes, the dose at the end of the curve, taken now. Each lozenge brings the heart a year closer to the place where it stops. Four have gone missing from Crane's laboratory. Crane has noticed, and has not reported it, because he would have to explain what they are.
+
+**WHISPERED:** Eye + Lore vs Dire (22); Bitterhouse chemists, Grim (18).
+
+**SPOILAGE:** A year sealed in wax.
+
+**CARVING:** Stolen from Crane's private laboratory (Lung + Stealth vs Grim 18; Eye + Search vs Hard 14 to find the box). Brewing more requires his notes (Eye + Craft vs Dire 22 and the Bitterhouse stills). Reading the notes is a Dread 2 check.
+
+**TAINT:** 1 Regrowth (Iss). Addiction: Dire (22).
+
+**EFFECT:** A lozenge removes all Weariness above the user's floor and holds it there for a full day; no blink checks, no Seeming. The user gains +1 Eye for the day. Then they roll Gut + Endure vs Grim (18); on a failure they suffer a rouse-heart (Ruin), and each lozenge taken permanently reduces their maximum Flesh by 1. The user does not feel the damage until it is done.
+
+**WORTH:** Never sold; 1,000 L if it were. Unique (four doses at large). The Watch of Watches would end Crane for it, and then demand the recipe.
+
+### Morne's Loaf
+
+Aveline Morne, the Sleeper in Bed One, was a baker's daughter who lay down on the First Night and was the first not to rise. Three hundred years unmoving. Last month her lips began to shape words, and the Matron has started writing them down (see Bed One's Words, in the Rim Market). Most of it is a recipe for bread.
+
+Somebody has copied the recipe out. It has gone round the Slope on scraps of paper, and the Bedded bake it in their hidden cellars, and it is very good bread: a soft, round, pale loaf with a split top and a crumb as fine as a pillow, made with milk and honey and something unusual, a pinch of salt from the bottom of the oven and a slow rising in a warm place for longer than any baker in the Vigil would dare leave dough. It smells of a kitchen at dawn three hundred years ago. Those who eat it say it tastes of being a child, put to bed, in a house with the lamps turned down. And the Bedded say that every loaf baked from it is laid on a table in the long room, at the far end, under the eye, and that someone is setting places.
+
+**WHISPERED:** Eye + Lore vs Hard (14) on the Slope; Grim (18) elsewhere.
+
+**SPOILAGE:** Three days, like any good bread. Stale, it is only bread.
+
+**CARVING:** Baked from a copy of the recipe (Eye + Craft vs Hard 14 and an oven held warm for a night, which in the Vigil is suspicious). The recipe is had from the Bedded (Tongue + Persuade vs Hard 14) or copied from the Matron's notebook.
+
+**TAINT:** 2 Regrowth (Iss), Dread 1.
+
+**EFFECT:** A slice eaten removes 1d6 Fray and 1d6 Hunger, as the gentlest of vices, without risk of habit. Then the eater gains 3 Weariness, and must resist the Want *To lie down* at Hard (14) for the rest of the scene, whatever their land. A Vigilant who eats a whole loaf alone, the Bedded say, dreams the long room without sleeping, for a breath, and sees the table. Outside the Vigil, the bread is merely the best bread the eater has ever had, and they will think about it for years.
+
+**WORTH:** 2 L a loaf on the Slope. Uncommon. Baking it is "Bedded practice," punished by a season in the Rattlehouse.
+
+### Old Nod's Minute-Glass
+
+Old Nod, King of the Tuckers, sells one minute of guarded sleep for a month's wage, and people queue around the block. He has never tried his own product. He says a man should not get high on his own supply. His Tuckers time the minute with sandglasses, and the best of these are Nod's own: small glasses of greenish Glass House glass in frames of black wood, filled not with sand but with grains of ground Dormitory brick.
+
+A minute-glass runs for exactly sixty breaths of the Counted, which is a little more than a minute and a little less than enough. While it runs, a sleeper under its watch is held: not in the room, quite, but on its threshold, in the doorway, with the warmth on their face and the floor soft underfoot. When the last grain falls, the sleeper is pulled back. Mostly. Old Nod's glasses have a failure rate of one in sixty, which is the best on the Lid, and the failures are delivered to the Dormitory steps before the next bell. Every Tucker knows the number. Nobody knows which minute it is.
+
+**WHISPERED:** Eye + Lore vs Hard (14) among Tuckers; Grim (18) elsewhere.
+
+**SPOILAGE:** The glass lasts until broken. Each failure leaves a grain stuck to the glass, and after sixty, it never empties.
+
+**CARVING:** Bought from a Tucker (Tongue + Haggle vs Grim 18; they do not sell their glasses), or taken from one by force (they are armed and not sentimental). Old Nod gives a glass only to a successor.
+
+**TAINT:** 2 Regrowth (Iss), to the sleeper.
+
+**EFFECT:** A character who sleeps for one turn of the glass, under another's watch, gains a full night's rest: remove 1 Fray, recover Flesh as for rest, and reset Weariness to its floor. When the glass empties, roll a d20: on a 1, the sleeper does not come back, and is Counted. A nudger's fetch may still be tried at Grim (18) in the next breath. A Lack on the fetch delivers the sleeper's number to the watcher, in their own hand, on a scrap of paper found later in their pocket.
+
+**WORTH:** 400 L. Rare. "Equipping for sleep," capital; the Tuckers are already capital.
+
+### Evidence Forty
+
+Inspector Hale Grimmer investigates blink-murders: killings done by ordinary people during a two-second sleep, with no memory after. A cook, a nudger, a clerk blinks mid-sentence and comes back holding a knife they did not pick up, standing behind a stranger, and the stranger is open from hip to collarbone in one perfectly straight line. Grimmer has forty cases. The method is the same in each. So, he has lately realized, is the knife.
+
+Every blink-murder has been done with a knife the killer did not own: a kitchen knife, a quill-knife, a cobbler's blade, a nudger's paring knife. Grimmer keeps them in his evidence room, numbered one to forty, and last month, laying them out on a bench, he saw that all forty have the same nick on the edge, a hair's breadth from the tip, in the same place. Different knives. The same nick. He has told no one. Evidence Forty, the most recent, a short bone-handled kitchen knife, has since gone missing from the bench. Grimmer suspects a constable. The constable suspects he took it himself, during a blink.
+
+**WHISPERED:** Eye + Lore vs Dire (22). Grimmer's constables, Grim (18).
+
+**SPOILAGE:** It does not spoil. It is not always where it was left.
+
+**CARVING:** Stolen from the Inspector's evidence room (Lung + Filch vs Hard 14), or found in the hand of the next blink-killer, which means being near a murder (Dread 2).
+
+**TAINT:** Dread 3, the first time each day it is held.
+
+**EFFECT:** In the hand of a character who blinks, the knife cuts the Line: the GM may, on any blink result of 8 or 10, have the bearer's hands make a single attack with it at +10, and on two Helpings the target suffers Ruin, opened. The bearer has no say. Held deliberately in a fight by someone awake, it is only a knife (2 damage), but with a Grace it leaves the nick in the target's bone, and the GM notes that whatever moves the blink-killers now knows them.
+
+**WORTH:** Never sold; nobody who understands it would buy it. Unique. Theft of evidence; Grimmer would pay anything to have it back, and then would not know what to do with it.
