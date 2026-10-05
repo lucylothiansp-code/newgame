@@ -40,18 +40,6 @@ Start with a sentence. *A Seamer from Lastgate who has stitched her own mother b
 
 Discuss concepts as a group. Guests should have a reason to travel together, or at least a reason not to kill each other. Good shared premises include: a Rim Road Company caravan crew; a Cutwrights' College survey team; a band of pilgrims or refugees; a Purgation cell; the household staff of a dying noble; a Tablebreaker company; strangers stranded at the same inn when the snow comes down and turns out to be fat.
 
-| d10 | Why You Are Together |
-| 1 | You are the crew of one Company cart, and the factor who hired you died on the first night out. |
-| 2 | You all signed the same contract in Oathen, and one of you is the Surety for the rest. |
-| 3 | You were all on the same Cullmaster's list, and all of you walked back from the far field. |
-| 4 | You share a dead person: each of you swore your Oath on the Dead on the same name. |
-| 5 | A Cutwright's ruling says you are all of one bloodline. None of you believes it. All of you are being hunted for it. |
-| 6 | You were stranded at the same waystation when a laid table appeared in the common room. You are the ones who did not sit. |
-| 7 | You are escorting a Blank to safety. You have not agreed among yourselves where safety is, or what it is worth. |
-| 8 | A dying noble has hired you all to carry their body home before they Seat. You are paid on delivery. |
-| 9 | You are a Purgation cell, or you are pretending to be one, or one of you is pretending to be one. |
-| 10 | Each of you received a place card in the same hand on the same morning. |
-
 ## Step Two: Land
 
 Choose the land of your birth. Each land is described at length in Part One; its chapter ends with a section called **Playing a Lander**, which you will need now. The land gives:
@@ -80,105 +68,105 @@ A character born on the Rim Road, in a waystation or a caravan, still has a land
 
 ### Names and Faces of the Seven Lands
 
-Each land's chapter gives a longer list of names. The tables below are for the moment at the table when somebody needs a Guest's name, or a stranger's, or a face to go with one, and nobody can think. Roll a d10 for each column separately, or read across a row for a ready-made person. The **Look** is what a stranger notices first; the **Habit** is what they notice second, and remember.
+Each land's chapter gives a longer list of names. The tables below are for the moment at the table when somebody needs a Guest's name, or a stranger's, or a face to go with one, and nobody can think. Roll a d10 for each column separately, or read across a row for a ready-made person. The **Look** is what a stranger notices first.
 
 #### Sallowreach
 
-| d10 | Given Name | Family Name | Look | Habit |
-| 1 | Hessa | Coombe | grey-pale, damp skin, hair cropped against flies | says "may you finish" to everyone |
-| 2 | Fenwick | Strake | long fingers, cold to the touch | never takes off his gloves |
-| 3 | Merrit | Mead | cedar over something sweeter | dabs perfume at the wrists hourly |
-| 4 | Tobin | Cask | stooped from the low ceilings of the Pilings | counts the flies on a sill |
-| 5 | Ysolde | Lisp | freckled with old fly bites | closes every lid she passes |
-| 6 | Amos | Reave | mended coat, mended boots, mended lip | hums songs that have no last verse |
-| 7 | Greer | Mallory | hair stained tea-brown by the weep | wears a Kept aunt's tooth in a locket |
-| 8 | Corlis | Hethe | waxen, haughty, Hand-line still | never touches bare skin |
-| 9 | Teal | Rook | small, quick, sore-eyed in daylight | knocks twice on every coffin |
-| 10 | Sabine | Coyle | red hands scrubbed raw with vinegar | stitches while talking |
+| d10 | Given Name | Family Name | Look |
+| 1 | Hessa | Coombe | grey-pale, damp skin, hair cropped against flies |
+| 2 | Fenwick | Strake | long fingers, cold to the touch |
+| 3 | Merrit | Mead | cedar over something sweeter |
+| 4 | Tobin | Cask | stooped from the low ceilings of the Pilings |
+| 5 | Ysolde | Lisp | freckled with old fly bites |
+| 6 | Amos | Reave | mended coat, mended boots, mended lip |
+| 7 | Greer | Mallory | hair stained tea-brown by the weep |
+| 8 | Corlis | Hethe | waxen, haughty, Hand-line still |
+| 9 | Teal | Rook | small, quick, sore-eyed in daylight |
+| 10 | Sabine | Coyle | red hands scrubbed raw with vinegar |
 
 #### The Fatlands
 
-| d10 | Given Name | Family Name | Look | Habit |
-| 1 | Barnaby | Loin | heavy and rosy, sweating in any weather | chews constantly, even nothing |
-| 2 | Hessop | Dripping | wide, soft, a belly she is proud of | says "you look heavy" as high praise |
-| 3 | Ruddle | Callock | forearms seamed with cleaver scars | thanks every field by name |
-| 4 | Gravy | Furrow | round face, gap teeth from toothed bread | never leaves a crumb |
-| 5 | Leggat | Strake | thick neck, small kind eyes | keeps a spoon in his hatband |
-| 6 | Haslet | Chine | a tent-coat let out nine times | taps the ground to feel it breathe |
-| 7 | Wilm | Hogget | sunburnt, loam under every nail | keeps a Long Count of his own |
-| 8 | Petty | Lard | plump, dimpled, gums that bleed | hums the Clean Plate song |
-| 9 | Pudding | Tripe | vast and gentle, wheezing | brings food to every meeting |
-| 10 | Callow | Stockpot | thinner than is decent | hides bread in her sleeves |
+| d10 | Given Name | Family Name | Look |
+| 1 | Barnaby | Loin | heavy and rosy, sweating in any weather |
+| 2 | Hessop | Dripping | wide, soft, a belly she is proud of |
+| 3 | Ruddle | Callock | forearms seamed with cleaver scars |
+| 4 | Gravy | Furrow | round face, gap teeth from toothed bread |
+| 5 | Leggat | Strake | thick neck, small kind eyes |
+| 6 | Haslet | Chine | a tent-coat let out nine times |
+| 7 | Wilm | Hogget | sunburnt, loam under every nail |
+| 8 | Petty | Lard | plump, dimpled, gums that bleed |
+| 9 | Pudding | Tripe | vast and gentle, wheezing |
+| 10 | Callow | Stockpot | thinner than is decent |
 
 #### Brinehollow
 
-| d10 | Given Name | Family Name | Look | Habit |
-| 1 | Gannet | Lugg | grey-lipped, wet-eyed | bails into a bucket mid-conversation |
-| 2 | Kessa | Hawse | barrel chest, rope-burns at the waist | ties knots in anything to hand |
-| 3 | Davey | Penhallow | salt-cracked knuckles | faces west whenever idle |
-| 4 | Haddie | Brack | pupils too wide and too dark | calls names through walls at dawn |
-| 5 | Esk | Swell | voice drops an octave when tired | never says where anyone went |
-| 6 | Coralie | Weir | sea-tangled hair kept in a net | carries her sweetheart's bucket |
-| 7 | Cobb | Tarn | ears crusted from pressure days | taps the glass of every barometer |
-| 8 | Tern | Dulse | an anchor tattooed in kelp-green | sleeps roped, even on a cart |
-| 9 | Ottiline | Reef | thin, cold, damp to the touch | licks the salt from her lips |
-| 10 | Merrow | Gull | a cough like shingle; smells of tide | spits brine without apology |
+| d10 | Given Name | Family Name | Look |
+| 1 | Gannet | Lugg | grey-lipped, wet-eyed |
+| 2 | Kessa | Hawse | barrel chest, rope-burns at the waist |
+| 3 | Davey | Penhallow | salt-cracked knuckles |
+| 4 | Haddie | Brack | pupils too wide and too dark |
+| 5 | Esk | Swell | voice drops an octave when tired |
+| 6 | Coralie | Weir | sea-tangled hair kept in a net |
+| 7 | Cobb | Tarn | ears crusted from pressure days |
+| 8 | Tern | Dulse | an anchor tattooed in kelp-green |
+| 9 | Ottiline | Reef | thin, cold, damp to the touch |
+| 10 | Merrow | Gull | a cough like shingle; smells of tide |
 
 #### The Vigil
 
-| d10 | Given Name | Family Name | Look | Habit |
-| 1 | Agathe | Larch | bruised half-moons under the eyes | pinches the inside of her own wrist |
-| 2 | Teodor | Wakely | teeth stained brown with rouse | counts aloud under his breath |
-| 3 | Hesper | Startle | palms scarred by pin-gloves | flinches at soft voices |
-| 4 | Marten | Pinchbeck | bloodshot, one lid twitching | never sits all the way down |
-| 5 | Lisbet | Quell | lidless, eyes brushed wet by a servant | stares without blinking |
-| 6 | Ember | Dusk-Bell | thin, jittery, a quick grin | snaps fingers to stay awake |
-| 7 | Florian | Hobb | studded coat, ruined posture | asks "did I blink?" |
-| 8 | Annick | Lantern | lamp-black ground into the fingers | cannot bear silence |
-| 9 | Ansgar | Rell | eyes too bright, pulse visible in the neck | taps his teeth to check they are there |
-| 10 | Constance | Sexton | sallow, terribly calm | writes down every Seeming |
+| d10 | Given Name | Family Name | Look |
+| 1 | Agathe | Larch | bruised half-moons under the eyes |
+| 2 | Teodor | Wakely | teeth stained brown with rouse |
+| 3 | Hesper | Startle | palms scarred by pin-gloves |
+| 4 | Marten | Pinchbeck | bloodshot, one lid twitching |
+| 5 | Lisbet | Quell | lidless, eyes brushed wet by a servant |
+| 6 | Ember | Dusk-Bell | thin, jittery, a quick grin |
+| 7 | Florian | Hobb | studded coat, ruined posture |
+| 8 | Annick | Lantern | lamp-black ground into the fingers |
+| 9 | Ansgar | Rell | eyes too bright, pulse visible in the neck |
+| 10 | Constance | Sexton | sallow, terribly calm |
 
 #### Cradlewrack
 
-| d10 | Given Name | Family Name | Look | Habit |
-| 1 | Bryony | Gorse | ruddy, clay-dust in every crease | knocks before opening anything |
-| 2 | Eamon | Lintel | born old: white-haired at twenty | asks people what year it is |
-| 3 | Notyet | Clayhand | born grown; skin too new, no lines | stares at rain as if it were news |
-| 4 | Nettle | Seele | a pale ring of caul-scar on the brow | sees "a little forward" |
-| 5 | Absalom | Danner | a cord-scar at the navel, still pink | carries needle and thread against the night |
-| 6 | Clemency | Thrale | broad hands, birthing calluses | leaves doors open behind her |
-| 7 | Corran | Knocker | a man with a bearer's stretch-marks | counts days since the last pang |
-| 8 | Una | Corse | iron smell in her hair | bricks herself in at night |
-| 9 | Keep | Hinge | an old face on a young body | speaks of "my mother" as a hillside |
-| 10 | Tamsin | Calloway | mothers' names tattooed in red clay | recites lineage through the mothers |
+| d10 | Given Name | Family Name | Look |
+| 1 | Bryony | Gorse | ruddy, clay-dust in every crease |
+| 2 | Eamon | Lintel | born old: white-haired at twenty |
+| 3 | Notyet | Clayhand | born grown; skin too new, no lines |
+| 4 | Nettle | Seele | a pale ring of caul-scar on the brow |
+| 5 | Absalom | Danner | a cord-scar at the navel, still pink |
+| 6 | Clemency | Thrale | broad hands, birthing calluses |
+| 7 | Corran | Knocker | a man with a bearer's stretch-marks |
+| 8 | Una | Corse | iron smell in her hair |
+| 9 | Keep | Hinge | an old face on a young body |
+| 10 | Tamsin | Calloway | mothers' names tattooed in red clay |
 
 #### Oathen
 
-| d10 | Given Name | Family Name | Look | Habit |
-| 1 | Sabra | Writ | bit-scars at the corners of the mouth | speaks only in conditionals |
-| 2 | Tav | Brand | lean, sun-dark, one finger set crooked | handtalks while others speak |
-| 3 | Mags | Seal | ink-stained lips from licking quills | never says "always" or "never" |
-| 4 | Varro | Tell | Forsworn knees that bend backward | laughs without a sound |
-| 5 | Dacey | Ward | narrow, attentive, very still | repeats nothing she is told |
-| 6 | Wenn | Hold | bond-tattoos from wrist to shoulder | touches her throat before speaking |
-| 7 | Halvar | Crake | deep-set eyes, slate dust on the cuffs | answers questions with questions |
-| 8 | Sele | Kindle | a gold tooth where a jaw once broke | writes on wax rather than speak |
-| 9 | Esk | Stane | felt-wrapped boots that make no sound | goes the long way round echoing places |
-| 10 | Amn | Fell | lips sealed by an old pale seam | has not spoken in years |
+| d10 | Given Name | Family Name | Look |
+| 1 | Sabra | Writ | bit-scars at the corners of the mouth |
+| 2 | Tav | Brand | lean, sun-dark, one finger set crooked |
+| 3 | Mags | Seal | ink-stained lips from licking quills |
+| 4 | Varro | Tell | Forsworn knees that bend backward |
+| 5 | Dacey | Ward | narrow, attentive, very still |
+| 6 | Wenn | Hold | bond-tattoos from wrist to shoulder |
+| 7 | Halvar | Crake | deep-set eyes, slate dust on the cuffs |
+| 8 | Sele | Kindle | a gold tooth where a jaw once broke |
+| 9 | Esk | Stane | felt-wrapped boots that make no sound |
+| 10 | Amn | Fell | lips sealed by an old pale seam |
 
 #### The Fast
 
-| d10 | Given Name | Family Name | Look | Habit |
-| 1 | Abate | Kettering | gaunt, chapped, bone-white knuckles | says "No, thank you" three times |
-| 2 | Forswear | Hume | hollow cheeks, very clear eyes | eats standing, from the hand |
-| 3 | Meagre | Corve | hair thin and dull from hunger | walks into the wind by habit |
-| 4 | Reft | Pruett | tall and stooping | will not enter a warm house |
-| 5 | Sparing | Lammas | white dead fingertips | counts the beans in his pocket |
-| 6 | Withhold | Brindle | undyed greys, patched at the knee | turns her back to every door |
-| 7 | Lean | Fennick | sores on the hips from bony sleeping | never sits in an offered chair |
-| 8 | Cease | Hatch | old axe-calluses on both palms | sniffs the air for bread |
-| 9 | Fallow | Kell | wiry, quick, ashamed of any flesh | refuses, then accepts on the fourth |
-| 10 | Bounty | Odell | plump from a poacher's captivity | hides food from himself |
+| d10 | Given Name | Family Name | Look |
+| 1 | Abate | Kettering | gaunt, chapped, bone-white knuckles |
+| 2 | Forswear | Hume | hollow cheeks, very clear eyes |
+| 3 | Meagre | Corve | hair thin and dull from hunger |
+| 4 | Reft | Pruett | tall and stooping |
+| 5 | Sparing | Lammas | white dead fingertips |
+| 6 | Withhold | Brindle | undyed greys, patched at the knee |
+| 7 | Lean | Fennick | sores on the hips from bony sleeping |
+| 8 | Cease | Hatch | old axe-calluses on both palms |
+| 9 | Fallow | Kell | wiry, quick, ashamed of any flesh |
+| 10 | Bounty | Odell | plump from a poacher's captivity |
 
 [pull] In the Fast we name a child for what she will go without. In the Fatlands they name her for what they'll serve at her wake. Same love. Different kitchen. | — Envoy Prudence Lowell, in an unguarded moment
 
@@ -223,8 +211,6 @@ Every attribute starts at 1. Distribute **9 points** among them. No attribute ma
 - **TONGUE:** persuasion, deceit, command, oaths. Talking, lying, bargaining, swearing, and knowing when to say nothing.
 - **CAUL:** will, instinct, faith, the uncanny. Resisting your god, enduring horror, praying, feeling the thing in the next room before you see it. Named for the membrane some are born in.
 [/box]
-
-Each land's people favour the attribute their god favours, and the Table has jokes about all of them. A Sallowreacher can stitch anything but a conversation. A Fatlander can carry an ox and will want to eat it after. A Brinehollower can outrun you and out-hold-their-breath you and will not tell you where they are going. A Vigilant sees everything and remembers it, which is the problem. A Cradlewracker knows what is behind the door before they knock. An Oathener can talk you into anything, which is why they never do.
 
 ## Step Five: Calling
 
@@ -899,7 +885,7 @@ Joss rolls the seven courses for Hessa Coombe, a Sallowreach Seamer. A Hush open
 
 Take the starting gear from your Calling and the starting wealth from your Cut, and spend it in the Rim Market (Part Three). Everyone also begins with: a set of clothes suited to their land and station, a knife, a bowl, a spoon, a blanket, a water-skin, and three days of food they carried themselves.
 
-Each land expects a little more. A Brinehollower without a bail-bucket and an anchoring rope will drown or walk west within the week; a Vigilant without a day's rouse and a pin-glove will be asleep within two; a Cradlewracker carries needle and thread and a knocker's ring; a Sallowreacher carries perfume or vinegar against the smell of everybody else; an Oathener carries a wax tablet for the things that should not be said aloud. These cost little, and the Carver should make sure every Guest has them.
+Each land expects a little more, and the Carver should see that every Guest has it: a bail-bucket and anchoring rope for a Brinehollower, rouse and a pin-glove for a Vigilant, needle, thread and a knocker's ring for a Cradlewracker, perfume or vinegar for a Sallowreacher, a wax tablet for an Oathener.
 
 ## Advancement: Portions
 
