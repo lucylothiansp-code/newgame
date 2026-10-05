@@ -739,3 +739,180 @@ Grace-and-Lack favours the House by a little: about one throw in fifteen, House 
 
 [pull] Throw from the cup, not the hand. The hand remembers what it wants. | — Rim saying
 
+## The Last Plate
+
+[sigil: fatlands]
+
+The Fatlands eating contest is not a game of who can eat the most. Everyone in the south can eat without end; the hunger does not care for the stomach. It is a game of who can eat the most *before the Split*: before the belly, which in a Fatlander is a bag the god has stretched for six centuries, finally gives at a seam. The Board of Plenty calls the contest a civic festivity and licenses it at every Weighing fair. The Renderers' Union sponsors the plates. The Second Helping sends its celebrants to sing at the table's foot. And the crowd bets, heavily, on who will push back the plate and who will Split, because in the Fatlands both are worth watching.
+
+The contest proper uses real food and real bellies, and is no business of anybody at a real table. What is played at a real table is the **wager** on it, which the drovers of Gristmoot play with dice in the long evenings on the road, when there is no contest to bet on, because the betting is the part they love.
+
+**Who and where.** Drovers, renderers, Board clerks, Weighing-fair crowds; in Sated, on the long benches of the Gravy Steps, every night of Plenty. Gut-line nobles sponsor eaters as other lands' lords sponsor fighters, and keep stables of them.
+
+**What you need.** Six-sided dice: three per eater, plus one more. A cup or a hand to hide dice under. Coins or pebbles. Two to six players; each player is an **eater**. Others may join as **bettors** only.
+
+#### The Rules
+
+1. **The Seam.** Each eater rolls 3d6 in secret, under a cup or a hand, looks at the total, and keeps it hidden. Add 15. This is their **Seam**: the point past which their belly will split. (Seams run from 18 to 33.) Nobody else may know it.
+2. **The book.** Before the first course, every player and bettor may stake on any eater to win. Eaters may stake on themselves. All stakes go into one pot.
+3. **The courses.** In each course, the server (any player; it does not matter who) calls *Plate!* Every eater still at the table either **eats** or **pushes back**. All decide at once: each eater holds a die in a closed fist, and on the call opens it; a die in the hand means *eat*, an empty hand means *push back*.
+4. **Eating.** Each eater who eats rolls one d6, openly, and adds it to their running **Plates** total, which everyone can see. A **6 is the Second Plate**: the eater must roll again and add that too, and keep going on further 6s. Nobody in the Fatlands has ever stopped at one plate.
+5. **The Split.** If an eater's Plates total ever goes **above** their Seam, they reveal their Seam and are **Split**: they are out of the contest and have lost. (In the Fatlands, it is announced as *he ate well*.)
+6. **Pushing back.** An eater who pushes back is out of the eating, keeps their Plates total, and may not return. But leaving food on the plate is a fine in the south: each course that passes while any other eater is still eating, a pushed-back eater pays one coin into the pot.
+7. **The end.** When every eater has pushed back or Split, the eater with the highest Plates total who did not Split wins. Ties are settled by a last plate each, rolled together, highest wins, Second Plates counting. If every eater Split, the pot goes to the server, as is the Board's right.
+8. **Paying out.** The pot is divided among those who staked on the winner, in proportion to their stakes. If nobody staked on the winner, the winner takes it all.
+9. **The side bet.** At any time, a bettor may stake on a named eater to *Split*. If that eater Splits, the side bet pays two to one from the pot; if not, the stake goes into the pot.
+
+**Quick roll.** Each eater rolls Gut + Feast, opposed; the highest wins, and the lowest Splits on a Lack. Bettors roll Eye + Instinct, Hard (14), to back the right eater.
+
+**Cheating.** At a real contest: emetics in the sleeve (a Purgation emetic taken between courses lets an eater go on long after their Seam; it is treason in the south, under the Feasting Laws, to purge), lead in the belly-band to look heavier and frighten the book, or a cook bribed to serve one eater the lean cuts. At the dice game: peeking at another eater's Seam, or a fat die for the Plates, which is suicide at the Second Plate rule and therefore loaded the other way, toward the ones. Experienced drovers say the best cheat is to watch the eater's face when the 6 comes up; nobody can hide what they feel about a Second Plate.
+
+**Stakes.** Meat scrip, by the pound and the side. Below scrip, dusk shifts, which trade on the benches of the Gravy Steps for a hundred lacks a head in Carving. A sponsored eater who wins brings their Gut-line patron a stone of weight at the next Weighing, because winners are fed by the crowd for a week afterward, and the patron owns the eater's weight.
+
+**The horror around it.** The Split is not a figure of speech. A Fatlander's stomach, after six hundred years of the god, does not burst like a man's; it opens, along a seam that runs from the breastbone to the navel, softly, the way a ripe fig opens, and what is inside is not only food. Dr. Emmerich Paunch has attended forty Splits and published nothing, because what he found in the forty bellies matches the plumb line he once lowered into a Gut-line stomach: the bottom is never reached. Split eaters seldom die at once. They are carried off the table still eating, and served at their own wake the next day, which the Board licenses as a single event to save on the paperwork. The Second Helping holds that the Split is the holiest death in the world, and Brother Glut has volunteered for the Weighing contest of 641, and has a large following of bettors, and has told them, beaming, that he will push back for no one.
+
+[pull] Weighing fair, Sated. Eater Number Four: Dorry Plumb, Gut-line patron the House of Brawn, eleven plates last year and still here. Book: four to one. Split: evens. | — chalkboard, the Gravy Steps
+
+## Hook and Haul
+
+[sigil: brinehollow]
+
+The Netwatch play knucklebones on the pier between hauls. They play it on the night watch, sitting on the boards in oilskins with their hooks laid by and the lanterns turned low so as not to dazzle themselves for the shore, and they play it fast, because at any moment the bell can go, and the Called will be walking. It is a game of hands, and the Netwatch say it keeps the hands quick for the rope. There are two games: **Haul**, the old skill game with five bones, and **Tally**, a throwing game with four, for stakes. Both use the knucklebones of sheep, and every Netwatch hooker carries a bag of five.
+
+A Netwatch bag of five is often, in fact, a bag of six. The sixth bone is smaller, and is kept separate, in its own twist of oilcloth, and is not a sheep's.
+
+**Who and where.** The Netwatch, on the Raw Mile and the Middle Mile and every pier of the coast; the children of the Mile, who learn Haul before they learn their letters; the impressed men of the Dry Fleet, who play Tally on the decks of ships that will never sail, for their rations.
+
+**What you need.** For Haul: five small stones, knucklebones, jacks or dice, and a flat surface. For Tally: four six-sided dice and a cup. Two or more players.
+
+#### Haul: The Rules
+
+1. **The throw.** The player scatters all five bones on the boards with one hand. They then pick up any one bone: this is the **float**.
+2. **Ones (the Single Haul).** The player tosses the float straight up, picks up *one* bone from the boards with the same hand, and catches the float before it lands, all with one hand. The picked-up bone is set aside. Repeat until all four are hauled.
+3. **Twos (Man and Wife).** Scatter the four again. Toss the float; pick up two at once; catch. Twice.
+4. **Threes (the Family and the Lodger).** Toss; pick up three; catch. Toss; pick up the last one; catch. (The player may do the one first and the three second.)
+5. **Fours (the Whole House).** Toss; sweep up all four at once; catch.
+6. **The Rope.** Scatter four. Toss the float, slap the boards once with the flat of the hand, then pick up one bone, and catch. Repeat for all four. The slap is the bell.
+7. **The Count.** Hold all five in the palm. Toss them all up, turn the hand over, and catch as many as possible on the back of the hand. Toss those up from the back and catch them in the palm. The number caught is the player's **count**, scored at the end.
+8. **Missing.** A player who drops the float, touches a bone they are not picking up, or fails to pick up the right number, has **let go**: their turn ends, and on their next turn they begin again at the stage they let go in.
+9. **Winning.** The first player to finish the Count wins. If two finish in the same round of turns, the higher count wins. Children of the Mile play that the loser must stand at the end of the pier facing east, not west, until the next game is over.
+
+#### Tally: The Rules
+
+1. **Stakes.** Every player puts one stake in the pot each round.
+2. **The throw.** In turn, each player throws four six-sided dice from the cup.
+3. **Reading the throw.**
+- **The Hook:** a 1, a 3, a 4 and a 6, in any order. The thrower takes the whole pot at once, and the round ends.
+- **The Drowned:** all four dice the same. The thrower pays one more stake into the pot and is out of the round.
+- **Anything else:** score the total of the four dice.
+4. **The end of the round.** If nobody threw the Hook, the highest total takes the pot. Players who tie for highest throw again, between themselves only.
+
+The Hook comes up about one throw in fifty-four; the Drowned about one in two hundred and sixteen. The Netwatch say that both are luckier than the job.
+
+**Quick roll.** Haul: Hand + Filch, opposed. Tally: pure chance, 2d10.
+
+**Cheating.** At Haul, a player may hide a sixth bone in the palm and drop it, or palm one of the four so that the Whole House is only three. The old hookers watch hands, and catch it on Eye + Search. At Tally, the bones are not dice, and any Netwatch officer can file a bone flat on one face in an hour on the pier. Filed bones are called *anchored*, and an anchored bag is thrown in the sea, which is miles away, so in practice it is thrown off the end of the pier onto the Uncovered, where it lies.
+
+**Stakes.** Netwatch tallies (the lead tokens paid for a Called person dragged home alive), bail-tokens, a cup of sweet water, and, above all, **the first hook**: the loser of the night's last game goes first into the surf with the rope on the next calling, which is where hookers die. The first hook is the only stake the Netwatch will not trade for coin, and it is staked every night.
+
+**The horror around it.** The sixth bone. Everyone in the Netwatch has one, and nobody will say whose, and it is never played; it lies in its oilcloth while the five are thrown. In the years of the Hook-Brides, and before, when the coast drew lots for those it would give to the sea, it drew them with knucklebones, because every house had a set and because a knucklebone does not lie. The bone that came up was kept. It went to the family, who kept it, and passed it down. The Netwatch carry the sixth bones of every family on the coast who drew in those years, and they say, if pressed, that it is so that someone remembers. Lieutenant Sable Reef's sixth bone has started, this year, to be found in the bag with the other five, in the morning, though she wrapped it separately. When she plays with it in the bag, she always throws the Hook.
+
+## Nod
+
+[sigil: vigil]
+
+The great card game of the Vigil is a game of staying awake, played by people who have stayed awake for their whole lives, against a deck that is trying to make them sleep. It is played in every waking-house on the Slope and every salon on the Height, at the Pinchmarket stalls between customers, in the Watch of Watches between debates; the Warden-Prime is said to play it with her attendants, holding her cards at arm's length so that they do not blur. It is taught to children as a lesson. It is played by adults as a kind of prayer. The last player awake wins everyone else's rouse.
+
+**Who and where.** Everyone in the Vigil, and Vigil travellers on the Rim, who carry a pack of Nod cards in the same pocket as their pins. The Wakers play it in the Rattlehouse on shift, and a Waker who loses is needled by the winner, which is held to be a kindness.
+
+**What you need.** A standard deck of fifty-two cards, shuffled. Counters for **tabs** (rouse-tabs; coins or pebbles will do): five per player. Pencil and paper, or a die, to track Weariness. Two to six players.
+
+#### The Rules
+
+1. **Setting up.** Each player begins with five tabs and a Weariness of 0. The deck is placed face-down in the middle. A space beside it is the **pot**.
+2. **The watch.** On your turn, you must turn over the top card of the deck and lay it face-up in front of you, in your **row**. Your **Weariness** is the total of the cards in your row: number cards count their number (2 to 10); face cards and aces count as below. Time passes; nobody may refuse a card.
+3. **Jack: the Yawn.** It counts 0 for you. Every *other* player must immediately turn over a card from the deck and add it to their own row, as though it were their turn. (Their new cards' effects happen too, except that a Yawn caught from a Yawn spreads no further.)
+4. **Queen: the Lullaby.** It counts 0 for you. Choose another player: they must turn over two cards at their next turn instead of one.
+5. **King: the Waker.** It counts 0 for you. You may take the highest card from any player's row and add it to your own, or discard it from the game. (A good Waker hurts you for your own good, or hurts someone else for theirs.)
+6. **Ace: Rouse in the Street.** It counts 1. Take one tab from the pot, if there are any there.
+7. **Taking rouse.** Once on each of your turns, after you have turned your card, you may take rouse: pay tabs into the pot, then discard the highest card in your row from the game. The **first** time you take rouse in a game, it costs 1 tab. The second time, 2. The third time, 3. And so on. Rouse fails, and the dose goes up. Keep a tally.
+8. **Blinking.** If the card you turn is of the same rank as a number card already in your row, you **blink**: you may not take rouse this turn, and you must close your eyes until your next turn begins. While your eyes are shut, any one other player may move one card from your row to theirs or theirs to yours (the player to your left has the first right to do so). Players with their eyes open may not tell you what happened. Open your eyes at your next turn and see.
+9. **Going down.** If your Weariness reaches **21 or more** at the end of your turn (after any rouse), you are **asleep**. Lay your cards face-down, put all your remaining tabs in the pot, and leave the game. You go to the room. Say nothing more for the rest of the game.
+10. **Winning.** The last player awake takes the pot. If the deck runs out, everyone still awake turns over their row and the lowest Weariness takes the pot; ties split it.
+
+**Quick roll.** Caul + Resolve, opposed; ties to whoever has taken fewer tabs of real rouse today. A Vigilant player with Weariness 5 or more takes −2.
+
+**Cheating.** A marked King (a *friend*) is the commonest cheat. A **real** blink is the second: Nod players are notorious for passing cards while somebody's eyes are shut, and the Pinchmarket version allows it, while the Height version forbids it and forbids it in vain. Some players deliberately stay at a high Weariness so as to invite Lullabies, and keep a stack of Aces up their sleeve.
+
+**Stakes.** Rouse-tabs, always, which is to say waking hours. The losers' tabs go to the winner. On the Slope, where a family's rouse for the week is in one tin, a father who plays Nod after his shift and loses has lost his children's wakefulness, and they will go down on their feet at the hiring-board, and the Wakers will bring them home or not.
+
+**The horror around it.** It is held in the Vigil that the dream does not happen in the game, that a player who is asleep in Nod is only out, only resting, and that the closing of the eyes in a blink is safe because it is a game. This belief is necessary, because Nod is played everywhere, at every hour, by people who are always one bad afternoon from a real blink, and the game asks them to close their eyes for whole turns at a time. Inspector Hale Grimmer has noted that seven of his forty blink-murders were committed during games of Nod, by players who had been asked to close their eyes and had done so, and had come back with a card in their hand that had not been there before, and a dead person across the table. In each case the card was a Queen.
+
+[pull] Don't be shy, love. Close them. It's only the game. | — Pinchmarket card-sharp, to a Rim traveller
+
+## Knock and Open, and Nine Days
+
+[sigil: cradlewrack]
+
+The children of Kest have two great games, played in every lane and courtyard of the round red city: a **clapping game** for two, *Knock and Open*, and a **skipping game** for a crowd, *Nine Days*. Both are about the same thing. Both are forbidden by the Attendance in the week of a pang, and both are played most in that week, because the children of Kest, like all children, know very well what the adults are afraid of, and practise it.
+
+**Who and where.** Children of every station, in every highland town; the Foundling Companies, who were never children and learn the games as part of their training in *things children do*; Ambrose, the Eldest Infant, who claims to remember the games being invented and says the words were different then.
+
+**What you need.** For Knock and Open, two players and their hands. For Nine Days, a long rope (twelve feet or more), two turners and as many jumpers as like.
+
+#### Knock and Open: The Rules
+
+Two players face each other and keep a steady rhythm through the rhyme. Each beat is one move, in this order, repeating:
+
+1. Clap your own hands together.
+2. Clap right hands with your partner.
+3. Clap your own hands together.
+4. Clap left hands with your partner.
+5. Clap your own hands together.
+6. Both hands with your partner.
+7. **Knock**: make a loose fist and knock knuckles to your partner's knuckles, both hands, twice (one beat).
+8. Pause one beat, hands held open, palms facing each other, a finger's breadth apart.
+
+The partners chant the rhyme, one line to each full round of eight beats:
+
+[fiction]
+Knock on the door, and who is there?
+A little one with no hair.
+Knock on the door, and what's its name?
+Not for a year, and not the same.
+Knock on the door, and is it shut?
+Bricked and mortared, all but the cut.
+Knock on the door, and what comes through?
+OPEN!
+[/fiction]
+
+On **OPEN!** both players stop in the pause position, palms a finger's breadth apart, and hold perfectly still. The first to move, flinch, laugh or let their palms touch has been **born**, and loses the round. If neither moves for a slow count of nine (the watchers count), both are **kept**, and the game begins again, faster. Each new round is faster than the last; the children call it *the interval closing*. A player born three times is out, and the winner plays the next challenger.
+
+#### Nine Days: The Rules
+
+Two turners turn the long rope in a steady arc. Jumpers run in one at a time and skip. The whole crowd chants, and the count goes **down**:
+
+[fiction]
+Thirty days and the hill is warm,
+twenty days and the clay is torn,
+fifteen days and the waters run,
+ten days, nine days, here it comes,
+nine, eight, seven, six, five, four,
+three, two, one, and OPEN THE DOOR!
+[/fiction]
+
+1. **Running in.** The first jumper runs in on *thirty*; each other jumper must run in on one of the following counted words (*twenty*, *fifteen*, *ten*, *nine*), one per word.
+2. **The pang.** On every number from *nine* to *one*, the turners turn faster.
+3. **Crowning.** On **OPEN THE DOOR**, every jumper must run out of the rope on the side facing the turner on the left (the *mother's side*). Any jumper who is caught by the rope, trips, or runs out on the wrong side is **kept in**: they become a turner for the next game, and the turner they replace becomes a jumper.
+4. **Scoring.** Jumpers keep a count of games they come out clean. A player who comes out clean nine games running is **born whole** and may choose the next verse's name (Kest children add verses with names in them: *ten days, nine days, here comes Tibb*).
+
+**Quick roll.** Knock and Open: Caul + Resolve, opposed, to hold still. Nine Days: Lung + Athletics, Routine (10), rising by 2 each verse.
+
+**Cheating.** At Knock and Open, the commonest cheat is to blow on your partner's palms during the pause. At Nine Days, a bad turner may slow the rope for a friend or catch an enemy on *five*. Both are thought very low.
+
+**Stakes.** Ribbons, buttons, sweets. Older children play for **naming**: the loser of Knock and Open must let the winner choose their name for the rest of the day, and use it. Children whose names are not yet given, who are under a year, are held by their siblings and played *for*, and the name won for them is sometimes the one they keep.
+
+**The horror around it.** The Attendance forbids both games in a pang-week because, in 598, a Knock and Open game in the Kest courtyard called the Low Wall was stopped at *OPEN!* by two girls of eight who held the pause, palms a finger's breadth apart, for a count of nine, and then a count of ninety, and then until the watching children ran for their mothers, and the mothers came, and found the girls still standing palm to palm, perfectly still, smiling at each other, and between their palms, in the finger's breadth of air, something small and wet that had not been there before, and which, when the mothers pulled the girls apart, dropped to the cobbles and crawled, quickly, toward the nearest door. The Attendance permitted it. It is in the Tally. Both girls are midwives now. They do not play.
+
+[pull] Hold still, hold still, the door's not shut; hold still, hold still, and mind the cut. | — Kest skipping-chant, the slow verse
+

@@ -1027,3 +1027,147 @@ Makes 1 loaf (10 slices). Time: 20 minutes, plus soaking, 1 hour baking. Contain
 Put the dates and figs in a bowl, pour over the hot tea, stir in the bicarbonate (it will fizz) and leave 30 minutes. Heat the oven to 170°C / 340°F / gas 3 and line a 900 g / 2 lb loaf tin.
 Stir the sugar, honey, egg and melted butter into the fruit, then fold in the flour, spice and walnuts. Scrape into the tin and bake 55–65 minutes until risen and a skewer comes out clean. Cool in the tin 10 minutes, then on a rack. Slice thick and spread with butter. Serve it on the first rainy day of spring, which will come when it comes.
 [/box]
+
+## The Fast: The Table That Is Not Laid
+
+[sigil: fast]
+
+> Never eat what you did not carry yourself.
+>> — the third of the Five Rules, taught before letters
+
+Nothing grows in the Fast. Seed rots, hens stop laying at the border, and bread baked from Rim flour in a Fast oven rises, browns, smells correct, and is ash inside when broken. Every mouthful is carried in from the Rim, pooled in the Pantry at Wanting, and rationed. The Unfed eat once a day, cold, standing, facing a wall, without visible pleasure. The only food the land itself offers is the god's.
+
+### Table Manners in the Fast
+
+- **There is no table.** Unfed homes have no hearth, no oven and no dining table. Food is eaten from the hand, standing, against a wall or facing open sky. A spoon is a luxury and a fork is a disgrace.
+- **The Decline.** Refuse every offer three times. Accept on the fourth. Accepting on the first is a scandal; a host who offers only three times is mean.
+- **Carry your own.** Bring your own water in your own flask to every meeting. Never eat what another person made for you without the full Decline, and never eat what nobody made at all.
+- **No pleasure.** To close the eyes while eating is obscene. To make a sound of appreciation is a confession. An Unfed who catches themselves enjoying a mouthful spits it into their hand, looks at it, and eats it again slowly as penance.
+- **Never say *Come in*.** Never answer it. Never thank a chair.
+- **Never feed another.** Giving your own food to someone else is a crime in the Fast, because it confuses the ledgers, and because it is hospitality.
+
+[pull] It smells like your mother's. | — the worst thing one Unfed can say to another
+
+### Fast Ration-Bread
+
+[fiction]
+*A ration chit of the Pantry at Wanting, printed on grey card, stamped, and initialled by Mother Stint Avery.*
+PANTRY OF THE ABSTINENT. ONE MEASURE. Bearer: Hartsell, Yield (and household, 1). Value: one half-ration, grey loaf or oat equivalent, Rim-baked, carried. To be eaten cold. To be eaten standing. To be eaten by the bearer and by no other. Not transferable. Not to be fed. Not to be enjoyed.
+*(On the back, in pencil, very small:)* Four months of grain for six months of winter. I have decided which villages. God forgive me. No. Not that one. Not any of them.
+[/fiction]
+
+**Lore.** Fast ration-bread is a grey, dense, flat loaf or oatcake, baked on the Rim at the far end of the Bakers' Mile in Gristmoot, from Company flour bought on credit, and hauled in by the Crumb-Runners, who are spat on in the street by the people it feeds. It is joyless by design. Mother Stint Avery weighs out every measure. Elder Forbear Wend has starved eleven people by leaving their names off a list, and prays for each by name. The grey loaf is the Unfed's whole cuisine, and they are proud of it the way soldiers are proud of a scar; and every Unfed child, at some point, holds one up to the light and wonders what it would taste like warm, and is slapped for wondering.
+
+**Rules.** Routine 10. No Taint (Rim-grown). Eaten cold and standing: −1 Hunger for Godeaters, or counts as a Pantry measure for Pangs (no change). An Unfed who eats a ration-bread cold, standing, facing a wall, after saying the Decline, may roll Caul + Resolve (Routine 10) to gain +1 Want. On a cook's **Lack**, the loaf was baked inside the Fast, and is ash.
+
+**Hook.** Tarry Moss, the Crumb-Runner, counts his cargo daily down to the bean and has never eaten a mouthful of it. This week the count is up, not down: there are more loaves on his cart than he loaded at Gristmoot, and they are warm, and they smell faintly of butter, and he has to decide, before he reaches Wanting, whether to tell Mother Stint.
+
+[box: For Your Table — Plain Oatcakes]
+Makes about 16. Time: 35 minutes. Contains oats (use certified gluten-free oats for coeliacs) and dairy (or use oil). Plain, cold and honest. Good with cheese, better with butter, best eaten standing up facing a wall, if you are playing the Unfed.
+- 225 g / 2¼ cups medium oatmeal or rolled oats blitzed briefly in a blender
+- ½ tsp salt and ¼ tsp bicarbonate of soda
+- 30 g / 2 tbsp butter (or 2 tbsp oil), melted
+- about 100 ml / ⅓ cup + 1 tbsp hot water
+Heat the oven to 180°C / 350°F / gas 4 and line a baking tray. Mix the oatmeal, salt and soda in a bowl. Add the melted butter and enough hot water to make a firm, slightly sticky dough.
+Dust the worktop with oatmeal and roll the dough out about 4 mm / ⅛ in thick. Cut into rounds with a 6 cm / 2½ in cutter (or into triangles with a knife), re-rolling the scraps. Bake on the tray for 20–25 minutes, turning once, until dry and just golden at the edges. Cool on a rack. Say *No, thank you* three times before eating. Accept on the fourth.
+[/box]
+
+### Orrum's Table Bread
+
+[fiction]
+*From the report of Spare Tolland of the Hostwatch, who has followed Orrum at a mile's distance for thirty years and never seen its face.*
+Table at the crossroads of the Brindle road, laid for one, at dusk. I stood off at eighty paces and wrote down what was on it, as is my duty. A white cloth. A candle. A pat of butter beaded with cold, on a blue dish. A loaf. The loaf was small and round and brown and shining on top as if it had been brushed with something, and split along the top where it had risen, and steam was coming out of the split. I could smell it at eighty paces. I could smell the yeast in it. I could smell that it was still a little underdone in the very middle, the way my mother made it, because she always took it out too soon, because we were always too hungry to wait. The place card had my name on it. My mother's hand. I stood there till dawn. I am writing this at Wax Halt. I have eaten my ration. It was grey, and cold, and I chewed it forty times, and it was not that.
+[/fiction]
+
+**Lore.** At every one of Orrum's tables there is bread. Nobody living who has tasted it has got up again, save Lent Ashby, who cannot taste anything now. The Hostwatch reports agree on what it looks like (small, round, glazed, split and steaming, with cold butter beaded on a blue dish) and on nothing else, because to every watcher it smells like the bread of the person who loved them first. The Tablebreakers put an axe through the table before anyone can sit. An Orrum crumb, picked off the cloth before the axe fell, is a relic that keeps the holder from feeling hungry, and smells of fresh bread for six hundred years. Verger Sober Osmond lays a place at the Empty Chair every night against all law, and every morning the plate is clean, and he believes that this is why the god has stayed gentle.
+
+**Rules.** Orrum's bread cannot be cooked; it can only be offered. Smelling it on the wind is an Invitation check at Routine 10; seeing it on a laid table, Hard 14; seeing it with a place card in a loved hand, Grim 18 (add Pangs). A character who eats it is a guest of Orrum, and does not get up (see the Fast chapter: the Seating). A non-Unfed character who eats it must pass an Impossible (26) Caul + Resolve roll or sit at the next table they see, forever.
+
+**Hook.** Abstain Rooke, called Abby, eleven, raised on the rules, has been leaving a crust on her windowsill at night. Each morning it has been replaced with something better. This morning it was a small round loaf, glazed, split, steaming, with cold butter on a blue dish, and a card. The card does not have her name on it. It has her dead grandmother's, and the words *for when you visit*.
+
+[box: For Your Table — Soft Glazed Dinner Rolls with Honey Butter]
+Makes 12. Time: 30 minutes active, 1½ hours rising, 20 minutes baking. Contains gluten, dairy, egg. The best bread in this book. At your table, you may sit down and eat it. You may even get up again afterward.
+- 500 g / 4 cups strong white bread flour
+- 7 g / 1 sachet fast-action dried yeast, 1 tsp salt, 2 tbsp sugar
+- 250 ml / 1 cup warm whole milk
+- 1 egg, beaten, plus 1 more beaten with 1 tbsp milk for the glaze
+- 50 g / 3½ tbsp soft butter
+- for the honey butter: 100 g / 7 tbsp soft salted butter beaten with 2 tbsp honey
+Mix the flour, yeast, salt and sugar. Add the warm milk, egg and butter, and mix to a soft, slightly sticky dough. Knead 10 minutes until smooth, silky and elastic. Cover and leave in a warm place about 1 hour until doubled.
+Knock back and divide into 12 equal pieces. Roll each into a tight smooth ball and set them, just touching, in a buttered 23 × 33 cm / 9 × 13 in tin. Cover and leave 30–40 minutes until puffed. Heat the oven to 190°C / 375°F / gas 5.
+Brush gently with the egg glaze and bake 18–22 minutes until deep golden and shining. Brush with a little melted butter as they come out. Serve warm, torn apart at the table, with the honey butter cold on a blue dish. Set one roll on a plate at the empty chair, and do not look at it too long.
+[/box]
+
+### Crumb-Runner's Pocket-Bread
+
+[fiction]
+*Overheard at the far end of the Bakers' Mile, Gristmoot, between a Crumb-Runner and a Fatlands baker's girl, who had offered him a bun.*
+"No, thank you." "Go on." "No, thank you." "Go on, love, it's free." "No, thank you." *(A pause.)* "Will you have a bun?" "Yes. Thank you." *(He put it in his pocket. He did not eat it. He paid for forty grey loaves and pushed the cart east. The girl watched him all the way to the turn. Her mother said, "Leave him, he's one of them." The girl said, "He took it, though.")*
+[/fiction]
+
+**Lore.** The Crumb-Runners bring food in from the Rim by night, despised, and are the only reason anyone in the Fast is alive. On the road they eat pocket-bread: hard bars of oats, seeds and dried fruit pressed together and carried in a coat pocket for weeks, eaten one bite an hour, walking. *Carry your own* is the Fast's whole philosophy of food, and the pocket-bread is its purest form: no table, no host, no fire, nobody's hand but your own. The Runners say a bar of it is the only meal on the Table with no god in it at all, not even the god of the cook.
+
+**Rules.** Routine 10 to make. No Taint. A week's pocket-bread counts as trail rations (safe, dull) and lets an Unfed character resist the smell of baking on the wind (Invitation checks at Routine) at +2, since they have something of their own in their mouth. On a cook's **Lack**, someone else made it, and slipped it in your pocket, and you did not notice.
+
+**Hook.** A Crumb-Runner's cart has been found on the Wanting road with its runner gone and its load untouched, and the grain counted to the bean. In his coat, folded over the back of the cart, is a pocket-bread with a single bite out of it. The bite was not taken with human teeth. It was taken very politely, from the corner, by something with a great many of them, that wanted only a taste of what he carried.
+
+[box: For Your Table — No-Bake Oat, Seed and Fruit Bars]
+Makes 12 bars. Time: 20 minutes, plus 2 hours chilling. Contains oats (gluten unless certified free), seeds; may contain nuts if you add them. A good thing to prepare ahead and hand round at the start of a session.
+- 200 g / 2 cups rolled oats
+- 75 g / ½ cup mixed seeds (sunflower, pumpkin, sesame)
+- 100 g / ⅔ cup chopped dried fruit (dates, apricots, raisins)
+- 100 g / 7 tbsp butter (or coconut oil)
+- 4 tbsp honey or golden syrup and 50 g / ¼ cup light brown sugar
+- a pinch of salt and ½ tsp cinnamon
+Line a 20 cm / 8 in square tin with baking paper. Toast the oats and seeds in a dry frying pan for 4–5 minutes, stirring, until fragrant, then tip into a bowl with the dried fruit.
+Melt the butter, honey and sugar in a small pan and bubble for 2 minutes, stirring. Pour over the oat mix with the salt and cinnamon and stir until everything is coated. Press very firmly into the tin with the back of a spoon. Chill 2 hours, then cut into bars. Wrap each in paper. Carry your own.
+[/box]
+
+### Cold Yard Pottage
+
+[fiction]
+*The Cold Yard rule, painted on the wall of every cooking-yard in Wanting.*
+FIRE ON. POT ON. POT WARM. FIRE OUT. STAMP IT. NOBODY SITS. NOBODY STAYS. NOBODY SAYS IT SMELLS GOOD. EAT FROM THE HAND. YARD EMPTY BY THE BELL.
+[/fiction]
+
+**Lore.** An oven in the Fast is the god's, so the Unfed cook outdoors on bare ground in the Cold Yards, quickly, and stamp the fire out the moment the pot is warm, and eat the pottage from their hands, standing, before it cools, and then walk away. A Cold Yard pottage is lentils, a little barley or oats, whatever the Pantry measure holds, and salt, warmed but never properly cooked, and never, ever left on a lit fire, because a fire left burning in the Fast is a hearth, and a hearth is an invitation. Every Unfed has a story of a Cold Yard where someone left the fire a little too long, and the pot began to smell better than it should, and when they came back the yard had a table in it.
+
+**Rules.** Routine 10. No Taint. Counts as a full ration if made from Pantry dried goods (−1 Pang). A cook who leaves the fire burning past the pot's warming must make a Caul + Resolve roll (Hard 14); on a failure, the smell of baking begins, and every Unfed character within sight makes an Invitation check at Routine 10. On a **Lack**, the pottage is the best thing anyone in the yard has ever eaten, and two of them sit down on the ground.
+
+**Hook.** In the Cold Yard behind the Lean End in Wanting, someone has been building a fire at night and leaving it lit. It is never found burning; only warm ash, a ring of stones, and, each morning, a little closer to the ring, the marks of chair-legs in the frost.
+
+[box: For Your Table — Red Lentil Pottage]
+Serves 4–6. Time: 35 minutes. Vegan; gluten-free (check stock). Thick, warming and very cheap: the opposite of a ration, in every way but the price.
+- 2 tbsp olive oil, 1 onion, 1 carrot and 1 celery stick, finely chopped
+- 2 garlic cloves, crushed, 1 tsp ground cumin, 1 tsp ground turmeric
+- 250 g / 1¼ cups red lentils, rinsed
+- 1.2 litres / 5 cups vegetable stock
+- 1 × 400 g / 14 oz tin chopped tomatoes
+- juice of ½ lemon; salt and pepper; a handful of spinach (optional)
+Soften the onion, carrot and celery in the oil for 8 minutes. Stir in the garlic and spices for a minute. Add the lentils, stock and tomatoes and bring to the boil, then simmer 20–25 minutes, stirring often, until the lentils have collapsed into a thick pottage.
+Stir in the spinach, if using, and the lemon juice, and season well. Serve in mugs, to be drunk standing, or in bowls with oatcakes. Turn the hob off the moment it is done. Do not leave it on.
+[/box]
+
+### The Plum on the Sill
+
+[fiction]
+*From the notebook kept by Dr. Mercy Thrane, physician of starvation, in which she asks each of her Unfed patients to name the one food they cannot stop thinking about.*
+Case 41. Woman, 30s, Pangs 6, two missed rations. Food: "a plum on a sill." Clarified: a plum, red-black, split, warm from the sun, on the windowsill of a Rim inn she passed at eight years old. She did not take it. She has thought of it every day for twenty-five years. She describes the bloom on its skin. She describes a wasp. She describes the sticky crack in its side. Last week she found a plum on the sill of her own house in Wanting. In Lack. Split. Warm. With a wasp. She did not take it. She asked me, with a perfectly level face, how many times she will be asked.
+[/fiction]
+
+**Lore.** Every Unfed has one food they cannot stop thinking about: a smell from a Rim inn window at eight years old, a sugared almond a poacher once held to their lips, a plum on a sill. The Unfed are trained out of craving, but the cracks remain, and the god knows them. Orrum's tables serve, to each guest, the best thing they have ever been offered or the thing they have wanted longest, and the Hostwatch have noted that in the last three years, in Wanting, the things that appear on sills have begun to be very precise.
+
+**Rules.** An Unfed PC should write their one food on the sheet (see the Fast chapter, Playing the Hunger). When it appears, unbidden, it is an Invitation check at Hard 14 (Grim 18 if it is exactly as remembered), plus Pangs. A character who refuses it gains +2 Want. A character who eats it, if it was the god's, is a guest. If it was not the god's (the Carver knows) nothing happens, and that is somehow worse, because now they will never know.
+
+**Hook.** Dr. Mercy Thrane wants help with an experiment. She will set a plum (Rim-grown, bought, clean, honest) on the sill of case 41 and watch from across the yard. If the woman takes it and nothing happens, the doctor believes she can prove that the hunger itself can be fed, that some of what calls is only want. If the woman takes it and something does happen, the doctor would like the party to be standing closer than she is.
+
+[box: For Your Table — Roasted Plums with Oat Crumble]
+Serves 4–6. Time: 40 minutes. Contains gluten (unless using gluten-free oats and flour), dairy. Warm, dark and sticky; the thing on the sill.
+- 8 ripe plums, halved and stoned
+- 3 tbsp honey or brown sugar, ½ tsp cinnamon, zest of 1 orange
+- for the crumble: 60 g / ½ cup plain flour, 50 g / ½ cup rolled oats, 50 g / ¼ cup demerara sugar, 50 g / 3½ tbsp cold butter, diced
+- Greek yogurt, custard or cream to serve
+Heat the oven to 190°C / 375°F / gas 5. Lay the plums cut side up in a baking dish. Drizzle with honey, sprinkle with cinnamon and orange zest.
+Rub the butter into the flour with your fingertips until it looks like breadcrumbs, then stir in the oats and sugar. Scatter the crumble over and around the plums.
+Bake 25–30 minutes until the plums are soft and bubbling and the crumble is golden. Serve warm with yogurt or cream. Leave one plum, split and shining, on a saucer on the windowsill. If it is gone in the morning, do not ask.
+[/box]
