@@ -907,3 +907,428 @@ Threatened, he talks, and he is very, very good at it. Kindness he returns, sinc
 "He said he would come when he was able. I'm thirty. I'd like to tell him he's able now." — Pell Sallet
 [/box]
 
+[pagebreak]
+
+## New Faces of Oathen
+
+> The canyon is bigger than the Bench and deeper than the Ledger. Somebody is always down there, keeping a promise nobody remembers asking for.
+>> — a rope-lift man of the Shadeward
+
+The core account of Oathen named five people beyond the bible's twenty-one: a sergeant, a night-nurse, a lord, a surgeon and a Keener. Here they are in full, with two more who stand where the others' stories cross.
+
+### Sergeant Mags Carrow — the Four Hundred and First
+
+> "He let me go. Cost me an eye. Cheapest thing anyone's ever sold me. Now hold that strap, Corporal, and don't look at his knees."
+>> — Mags Carrow, to a new volunteer in the Strap-House
+
+[stat: Sergeant Mags Carrow — the Four Hundred and First]
+Land & Cut: Oathen · Cut 2 · Regrowth 3 (the Taste) · Hunger 2
+Age & Station: 40; Sergeant of the Fourth Regiment (released); keeper of the Strap-House, Back-Before-Dark lane, the Breakdowns
+Calling & Standing: Warden · Standing 3 (Sergeant)
+Attributes: Hand 4 · Gut 3 · Lung 1 · Eye 3 · Tongue 2 · Caul 4
+Skills: Blades 3, Endure 4, Stitching 3, Labor 3, Intimidate 3, Resolve 3, Instinct 2
+Flesh 15 · Guard 14 · Armor 2 (boiled leather) · Fray 5
+Attacks: spear +7 (4)
+Gifts: **Echo-Ear** (the Taste). **The Kept Roll:** she knows the name and fate of every soldier of the Fourth; any of the Unmade will obey her voice as their sergeant's.
+Wants: none yet
+Knacks: Mother's Hands, Strong Back
+Derangements: none
+Carries: a Watch spear, her sash, an eye-patch of boiled leather, a bag of straps and buckles, a ledger of the eleven
+Dread: 1 (the Strap-House)
+[/stat]
+
+#### Who They Are
+
+Broad, short-necked and solid as a door, with one hazel eye and a leather patch over the other, Mags Carrow wears her regimental sash over a stained surgeon's apron and smells of liniment, soap and old blood. Her voice is a parade-ground bark she keeps deliberately low. She laughs often and briefly.
+
+#### Their Story
+
+At Wending in 627 she was twenty-six, the regiment's oldest sergeant, and she misheard the order to fall back over the wind. She stayed by her captain, and kept her oath without meaning to. In 629 Renn Hold drafted a release for her, a month's work by a man who could barely write; she swore it, and her left eye burst in its socket, the grievous Breaking of a watch abandoned. She walked down the Unmade Road through the regiment and carried two of them out on her back.
+
+#### Their Place in the Land
+
+She runs the Strap-House, a long cell in the Breakdowns where eleven survivors of the Fourth lie in cots, unstrung at every joint, held together with straps and buckles, alive. Brakk's people feed them. The Watch pays a pension it does not admit to.
+
+#### What They Carry
+
+- **A Watch spear** — her own, never used in battle.
+- **The eye-patch** — boiled leather, stamped with the Fourth's badge.
+- **A bag of straps and buckles** — she rebuckles every soldier twice a day.
+- **The ledger of the eleven** — names, joints, and what each one still asks for.
+
+#### Wants, Fears and Secrets
+
+She wants Renn Hold brought down from the pass. She fears she will have to be the one who asks. **Secret:** she knows the other reading of "until death relieves us." One of her eleven, Private Tobb Inly, has asked her, by blinking, to let him go so the captain can come home. She has not decided. **Unknown to her:** Renn feeds more of the regiment on the road than she has in her cots.
+
+#### Ties
+
+- **Renn Hold** — her captain. She loves him like a father and cannot climb the pass.
+- **Brakk** — feeds her soldiers; has offered her a Splint's seat.
+- **Halvar Stane** — guides her up the eastern canyons once a year as far as the bend. She always turns back.
+
+#### In Play
+
+PCs meet her when they need someone who knows Wending, or when they come down from the pass with news. She asks one question: "Did he look well?" **Seeds:** she hires them to carry a letter up the pass; Tobb Inly's request becomes a demand; the Watch wants the Strap-House closed. Under threat she fights like a soldier; she answers kindness with a soldier's gruffness; she distrusts the god like a bad officer. If nobody intervenes, she lets Tobb go, and then the next, and climbs the pass with the last of them on her back.
+
+[box: Said of Them]
+"She buckled my uncle's knees back on every morning for twelve years. I've never seen her cry. I've seen her stop, though." — a Forsworn boy of Back-Before-Dark
+"Best sergeant in the Watch. Wrong side of the pass." — an old officer of the Canyon Watch
+"Mags asks about him every time. Every time I say he's well. It's the only lie I've ever been glad of my open mouth for." — a liar-for-hire of the Breakdowns
+[/box]
+
+### Dacey Furl — the Gag-Nurse
+
+> (signed, slowly, by lamplight) Broth. Wipe. Next. Broth. Wipe. Next. Three hundred. Then the first one again, and they are all saying it, all of them, and I cannot read the end.
+>> — Dacey Furl, to a visitor
+
+[stat: Dacey Furl — the Gag-Nurse]
+Land & Cut: Oathen · Cut 2 · Regrowth 2 (the Taste) · Hunger 1
+Age & Station: 30; night-sister of the Murmuring House, Shadeward Wall, Tacit
+Calling & Standing: Seamer · Standing 2 (Stitcher)
+Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 5 · Tongue 1 · Caul 4
+Skills: Stitching 4, Search 4, Endure 3, Resolve 4, Instinct 3, Lore 2
+Flesh 14 · Guard 12 · Armor 0 · Fray 6
+Attacks: none
+Gifts: **Lip-Reader:** reads any mouth she can see, even behind a bit's grille, at a glance; she is deaf, and immune to echoes and to anything that binds by hearing.
+Wants: none yet
+Knacks: Mother's Hands, Light Sleeper
+Derangements: none
+Carries: a feeding-reed, a broth-pail, a lamp, a slate of the vow, a pair of shears
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+A slow, soft-faced woman with heavy-lidded patient eyes and big red hands, Dacey Furl moves through the long wards at the pace of a funeral, smelling of barley broth and lye. She is deaf by choice: at eighteen she pierced her own eardrums with a heated needle so that the sound of the Murmuring House could not get into her. She signs and lip-reads, and her own voice, when she uses it, is flat and too loud.
+
+#### Their Story
+
+She came to the House at sixteen as a scrubber, the daughter of a patient. Her mother died bitted in the third ward. Dacey stayed, deafened herself, and has fed the three hundred, nightly, by reed through the grilles of their iron bits, for twelve years.
+
+#### Their Place in the Land
+
+The night ward is hers: three hundred bitted Appetite-struck and Brink-mad, no families, no hope. She is the only nurse who does not need wax in her ears. She sells their shorn hair to Asha Kindle.
+
+#### What They Carry
+
+- **A feeding-reed** — and a pail of thin broth.
+- **A slate of the vow** — on which she has written what the three hundred mouth in their sleep.
+- **Hair-shears** — for the lice, and Asha's trade.
+
+#### Wants, Fears and Secrets
+
+She wants to know the last word. For a month all three hundred have been mouthing the same vow in their sleep, together, in rhythm: *"When it calls, we will come, and we will say..."* and then a shape no human lips make, a shape for a tongue too long to fit in a mouth. **Unknown to her:** the rhythm they keep is the Gullet's heartbeat, and Brother Ansgar's tongues are saying it too.
+
+#### Ties
+
+- **Garl Tome** — now sends iron free.
+- **Asha Kindle** — buys the hair; Dacey takes half price.
+- **Brother Ansgar Mote** — she has shown him her slate. He looked at it a long time and said nothing.
+
+#### In Play
+
+PCs meet Dacey as the person who calls for help. **Seeds:** a patient chews through his bit and says the vow aloud, in a ward of three hundred listening; Dacey needs a reader of tongues; on the night the floor speaks, the three hundred sit up. She meets threat with stillness, kindness with broth, the god with sorrow. If nobody intervenes, on Tablenight every bed in the night ward is empty, and the iron bits lie open on the pillows.
+
+[box: Said of Them]
+"She fed my brother for six years and never once looked away from his mouth. I couldn't. I'm his brother." — a water-seller
+"The quietest ward in the House is hers. Not because it's quiet. Because she can't hear it." — a day-nurse
+"She asked me to read the last word. I'm a Clausewright. I've read every word there is. Not that one." — a Clausewright of the Bench
+[/box]
+
+### Lord Varro Esk — the Heir of Tongues
+
+> "I only want to visit her. To hear her breathe. Is that so much? You are reasonable people. I can see that you are reasonable. Let me be reasonable back."
+>> — Lord Varro Esk, pouring the wine
+
+[stat: Lord Varro Esk — the Heir of Tongues]
+Land & Cut: Oathen · Cut 5 (Tongue-line, House Esk) · Regrowth 5 (the Appetite) · Hunger 5
+Age & Station: 28; heir of House Esk, Sunward Wall; Second Table cell-master
+Calling & Standing: Scion · Standing 2 (Heir)
+Attributes: Hand 4 · Gut 2 · Lung 1 · Eye 3 · Tongue 5 · Caul 3
+Skills: Persuade 5, Clause 4, Deceive 3, Lore 3, Godsign 3, Blades 2, Haggle 2
+Flesh 10 · Guard 13 · Armor 0 · Fray 2
+Attacks: rapier +6 (4)
+Gifts: **Echo-Ear**; **Hold to It**. **The Golden Word:** once per scene he may Partake to give a promise made to him +1 Weight and make its maker love him a little for it. Threat 4 for non-attack tasks.
+Wants: **To Swear** (at night, in his sleep, through silver)
+Knacks: Smell of Cedar, Hostage's Smile
+Derangements: none
+Carries: the silver night-bit, a Second Table veil, a purse of platters, letters of credit, a draft sentence
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+Varro Esk is golden: honey hair, skin like warm bread, a wide laughing mouth and a voice like a hand on the back of the neck. He never hurries. He smells of cedar and good wine. At night, he wears a hinged silver bit, and the corners of his beautiful mouth are faintly grooved by it.
+
+#### Their Story
+
+Born in 613 to House Esk, he reached the Appetite at twenty-one and was recruited into the Second Table by his mother, who sits at its head in Oathen. He has spent four years on a single idea: have a Sayer unbitted, and have her say, "Tolm is whole and on the table." The god would be made solid again, and edible, and his.
+
+#### Their Place in the Land
+
+A rich, charming Tongue-line heir with friends on the Bench, a cousin in the Envoy, and principals among Ona Fell's bonds (the two who mean to default together are his cell). He funds shrines and Surety fees and favours.
+
+#### What They Carry
+
+- **The silver night-bit** — Garl Tome's work, wearing thin.
+- **A Second Table veil** — silk, with a silver fork.
+- **A draft sentence** — on vellum, the nine words, revised forty times.
+
+#### Wants, Fears and Secrets
+
+He wants to visit the Gilded Cells, and he wants a gold bit with a flaw. He fears his own sleep: he has sworn things through the silver that his wife has heard. **Unknown to him:** "on the table" has more than one reading. A whole god laid on a table is a dish. Somebody will be invited to eat it, and Varro has not asked himself who sets the places.
+
+#### Ties
+
+- **Garl Tome** — refused him twice.
+- **Tavish Crook** — hired to ask a Sayer one question.
+- **Dorian Sayce** — a cousin; Varro is working on him.
+- **Ona Fell** — he means to break her, to loose the Company's contracts before Tablenight.
+
+#### In Play
+
+PCs meet him as a generous patron with a reasonable request: help him visit the Gilded Cells. **Seeds:** a commission to "escort" a gold-bit blank; a dinner where his sleeping vow is overheard; an unbitting he has bought. He meets threat with a rapier and a smile, kindness with gifts, the god with appetite. If nobody intervenes, he gets into the Cells on Tablenight, when no one may cry out.
+
+[box: Said of Them]
+"He paid for my mother's Surety. He didn't ask anything. That's how I know he will." — a cooper's daughter
+"Golden boy. Lovely manners. Sleeps in silver. I fitted it. I know what's under the manners." — Garl Tome
+"He asked me whether a god can be served twice. I asked whether he'd ever been the dish." — Tavish Crook
+[/box]
+
+### Brother Ansgar Mote — the Tongue-Taker
+
+> (written on slate, in a neat surgeon's hand) Hold still. Bite the leather. Think of water. Three strokes. It will be over before you finish thinking it.
+>> — Brother Ansgar Mote, before the knife
+
+[stat: Brother Ansgar Mote — the Tongue-Taker]
+Land & Cut: Oathen · Cut 2 · Regrowth 4 (the Appetite) · Hunger 3
+Age & Station: 60; surgeon of the Quiet; keeper of the Tongue Vault, upper Gullet
+Calling & Standing: Seamer · Standing 4 (Master Seamer)
+Attributes: Hand 5 · Gut 3 · Lung 2 · Eye 4 · Tongue 3 · Caul 3
+Skills: Stitching 6, Lore 4, Craft 3, Endure 3, Resolve 3, Blades 2, Rites 2
+Flesh 14 · Guard 14 · Armor 0 · Fray 5
+Attacks: tongue-knife +7 (2)
+Gifts: **Echo-Ear**; **Hold to It**. **The Clean Cut:** removes a tongue in three strokes with no Ruin; the patient is immune to Breakings of the tongue afterward. **Tongue-Reader:** reads the mouthing of a severed tongue as clearly as speech.
+Wants: **To Swear** (he has kept his own tongue; he has not kept it quiet)
+Knacks: Steady Hands, Butcher's Calm
+Derangements: **The Count** (he counts the jars nightly; it is always one short)
+Carries: the tongue-knife, a roll of silk thread, jar labels, the vault keys, a notebook of Verity's thoughts
+Dread: 3 (the Tongue Vault)
+[/stat]
+
+#### Who They Are
+
+A spare, tidy, grey man with a close-trimmed beard and steady white hands that smell always of brine and vinegar. He is the only brother of the Quiet who still has his tongue, and he uses it rarely, in a gentle, dry voice.
+
+#### Their Story
+
+A Seamer of Tacit, he came to the Quiet at thirty-five to take the knife and could not bring himself to it; the order made him its surgeon instead. He has removed four hundred tongues, cleanly. He once threw one in the midden, and it went on trying to speak for a week. He has kept every one since, in brine, labelled, in a cold cell cut into the rock.
+
+#### Their Place in the Land
+
+Every Tongueless sister and brother of the Quiet passed under his knife, and many Tongue-line families pay him, secretly, to cut a child who has reached the Course.
+
+#### What They Carry
+
+- **The tongue-knife** — short, curved, kept in vinegar.
+- **Jar labels** — name, date, house.
+- **A notebook** — in which he has transcribed, every night for three years, what Sister Verity's tongue mouths in its jar.
+
+#### Wants, Fears and Secrets
+
+He wants to understand what the tongues are doing. **Secret:** they are growing. Verity's is twice its size, and reads her thoughts aloud to the brine. **Unknown to anyone:** at night, all four hundred mouth the same vow as Dacey Furl's patients, and Ansgar, who can read tongues without lips, can read the last word. He has not written it down. He has not slept since.
+
+#### Ties
+
+- **Sister Verity Amn** — his dearest friend. He reads her mind in a jar.
+- **Dacey Furl** — showed him her slate. He lied by silence.
+- **Hessa Lisk** — wants to buy a tongue. He refused.
+
+#### In Play
+
+PCs meet him when a companion needs the knife, or when they come looking for Verity's secret. **Seeds:** a jar is stolen; a tongue in the vault says a PC's name; Ansgar asks the PCs to burn the vault, and the tongues beg. He meets threat calmly, kindness gratefully, the god with clinical horror. If nobody intervenes, he says the last word aloud, once, to know.
+
+[box: Said of Them]
+"Three strokes. He wasn't lying. I finished thinking 'water' after." — a Tongueless sister
+"Four hundred jars and a man with a candle. I left the Quiet over that room." — a former novice
+"Brother Ansgar is kind. Kindness keeps things." — Sister Verity Amn
+[/box]
+
+### Old Sabra Wends — the Keener of Oaths
+
+> "Put your hand on him. There. Now, before you speak: are you certain? He'll hear. He hears better than he did."
+>> — Old Sabra Wends, in the Witnessing Vaults
+
+[stat: Old Sabra Wends — the Keener of Oaths]
+Land & Cut: Oathen · Cut 2 · Regrowth 4 (the Appetite) · Hunger 3
+Age & Station: 70; Eldest Keener of the Witnessing Vaults beneath Tacit
+Calling & Standing: Celebrant · Standing 4 (High Celebrant)
+Attributes: Hand 2 · Gut 2 · Lung 2 · Eye 4 · Tongue 3 · Caul 5
+Skills: Rites 5, Lore 5, Resolve 5, Clause 3, Instinct 4, Search 3
+Flesh 10 · Guard 12 · Armor 0 · Fray 6
+Attacks: none
+Gifts: **Echo-Ear**; **Hold to It**. **Keener's Ear:** she knows when an oath sworn on any body in the Vaults is near to breaking; she can guide anyone through the Vaults' miles without a light.
+Wants: **To Hold Others to Their Words**
+Knacks: Elder's Ear, Unflinching
+Derangements: none
+Carries: a lantern, a slate of the forty-two, the niche-keys, a horn of cedar oil
+Dread: 2 (when the dead speak)
+[/stat]
+
+#### Who They Are
+
+Small, white-haired, bent like a hook, with a lantern in one hand and a slate in the other, Sabra Wends smells of cedar oil and old dust and moves through the dark of the Vaults like water. Her voice is soft and certain.
+
+#### Their Story
+
+A Keener's daughter, she has kept the Vaults for fifty years. She has heard the dead speak forty-two times: oaths sworn on them broke, and the jaw in the niche opened and said the vow aloud, in the dead one's voice, loud enough to carry a mile through the rock. The number this year is nine. Last year it was two.
+
+#### Their Place in the Land
+
+Every oath on the dead in Tacit is sworn before her. She asks each swearer, gently, whether they are certain. Many go home unsworn.
+
+#### What They Carry
+
+- **The lantern** — never needed; carried for the living.
+- **The slate of the forty-two** — every testimony, word for word.
+- **A horn of cedar oil** — for the faces of the dead.
+
+#### Wants, Fears and Secrets
+
+She wants the number to stop rising. **Secret:** three of this year's nine were not testimony. No oath had been sworn on those bodies. The jaws opened anyway, and each said two words: *"Go on."* **Unknown to her:** one of the three was Amon Sallet, her apprentice's father.
+
+#### Ties
+
+- **Pell Sallet** — her apprentice and heir.
+- **Asha Kindle** — has walked the Vaults in her sleep; Sabra led her home.
+- **Tamsa Reeve** — wants to swear on Corram. Sabra asked her whether she was certain.
+- **Grandam Cess** — they were girls together. They do not speak.
+
+#### In Play
+
+PCs meet her when they come to swear on the dead. **Seeds:** a body speaks with no oath on it; a niche is found empty and its occupant at a fire on the Shadeward; Sabra needs witnesses for the tenth testimony of the year. She meets threat with the dark, kindness with oil for your dead, the god with patience. If nobody intervenes, on Tablenight every jaw in the Vaults opens at once.
+
+[box: Said of Them]
+"She asked me if I was certain. I wasn't. I went home and married him anyway, without swearing on Gran. Still married." — a bride of the Sunward
+"Fifty years down there and she still says good morning to every niche." — a rope-lift man
+"Don't lie in the Vaults. She'll know before he does." — a Forsworn
+[/box]
+
+### Pell Sallet — the Breaker's Daughter
+
+> "He said he'd come when he was able. I've been thinking about that sentence for twenty-four years. I've decided it was a gift, and I've decided it's time to give it back."
+>> — Pell Sallet, to Sabra Wends
+
+[stat: Pell Sallet — the Breaker's Daughter]
+Land & Cut: Oathen · Cut 2 · Regrowth 3 (the Taste) · Hunger 2
+Age & Station: 30; Keener of the Witnessing Vaults, apprentice to Sabra Wends
+Calling & Standing: Celebrant · Standing 2 (Celebrant)
+Attributes: Hand 2 · Gut 3 · Lung 3 · Eye 4 · Tongue 4 · Caul 4
+Skills: Clause 4, Rites 3, Lore 3, Persuade 3, Resolve 3, Stealth 2, Athletics 2
+Flesh 11 · Guard 15 · Armor 0 · Fray 4
+Attacks: knife +2 (2)
+Gifts: **Echo-Ear** (the Taste). **The Release:** she holds Jude Crake's promise; if she tells him, sincerely, that he is able, the Exit closes and he must come or break.
+Wants: none yet
+Knacks: Old Grief, Elder's Ear
+Derangements: none
+Carries: her father's hour-glass stand, a lantern, a fig-stone on a cord, a drafted letter
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Tall and pale from the Vaults, dark-browed, with her father's stern mouth and a startling, sudden smile, Pell smells of cedar oil and lamp-smoke and speaks in beautifully built conditionals: she was her father's daughter, and he was careful.
+
+#### Their Story
+
+At six, in 617, she was brought to the Ninth Room to see her father's body, and a soft round young man knelt in front of her and said, "I'll come and see you, when I'm able." She did not understand for ten years who he was. When she did, she trained as a Keener, so that she could stand beside her father's niche every day, and wait.
+
+#### Their Place in the Land
+
+Sabra's chosen heir; the Vaults will be hers. She tends her father's niche herself, and swears in the living on the dead.
+
+#### What They Carry
+
+- **Her father's hour-glass stand** — the glass is with Jude.
+- **A fig-stone on a cord** — from the basket he left in the Ninth Room.
+- **A drafted letter** — "You are able." Unsent.
+
+#### Wants, Fears and Secrets
+
+She wants Jude Crake to come. **Secret:** the GM decides which of two things she wants of him: to forgive him in front of her father, or to have him swear on her father's bones that he will break no one else, and watch the Bench give him to himself. She has not decided either. **Unknown to her:** her father's jaw opened this year with no oath on him and said, *"Go on."*
+
+#### Ties
+
+- **Jude Crake** — the man who killed her father with conversation, and was kind to her.
+- **Sabra Wends** — teacher, mother in all but blood.
+- **Ottoline Vant** — has a name on her list that Pell recognises: her father's, from 612.
+
+#### In Play
+
+PCs meet her in the Vaults, or as the messenger who carries her letter to the Breaker. **Seeds:** deliver the letter; sit with her at the niche when Jude comes; find out why the Fair Copy once miscut Amon Sallet. She meets threat with a Keener's calm, kindness with candour, the god with respect. If nobody intervenes, she sends the letter on Tablenight.
+
+[box: Said of Them]
+"She stands by her father's niche every morning like a sentry. I've never seen her pray. I think she's waiting." — a Keener
+"She's got Amon's mouth. When she says 'if able,' you know exactly what it costs her." — Old Sabra Wends
+"Pell? Kind girl. She brought my mother's niche a candle the night Mum spoke. Didn't ask what I'd sworn." — a cooper of Low Dray
+[/box]
+
+### Cutwright Hessa Lisk — the Measurer of Tongues
+
+> "Open, please. Wider. Tongue out, flat, to the lower lip. Now hold it there while I count. No, don't speak. I'll know everything I need to without that."
+>> — Hessa Lisk, with her calipers
+
+[stat: Cutwright Hessa Lisk — the Measurer of Tongues]
+Land & Cut: Oathen · Cut 3 (Tongue-line, House Lisk) · Regrowth 6 (the Appetite) · Hunger 5
+Age & Station: 47; Warden of the Tacit Office of the Cutwrights' College
+Calling & Standing: Cutwright · Standing 4
+Attributes: Hand 3 · Gut 2 · Lung 2 · Eye 5 · Tongue 4 · Caul 3
+Skills: Lore 5, Reckoning 5, Clause 4, Stitching 3, Persuade 3, Instinct 3
+Flesh 10 · Guard 12 · Armor 0 · Fray 5
+Attacks: none
+Gifts: **Echo-Ear**; **Hold to It**. **The Measure:** with calipers and a minute, she knows a person's Cut, Regrowth and Hunger exactly, and (Grim 18) how many years they have to the Seating.
+Wants: **To Correct** (when a family lies to her about a child's Cut)
+Knacks: Counting Habit, Smell of Cedar
+Derangements: none
+Carries: Cutwright's calipers, the Office ledgers, the sealed report on the king, fig cakes, a cracked right hand
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+Neat, small, sharp-chinned, in Cutwright grey with a white Tongue-line collar, Hessa Lisk smells of ink, brass polish and the clove she chews. She is precise, unhurried, not unkind, and appallingly well informed.
+
+#### Their Story
+
+Born in 594 to a minor Tongue-line, she joined the College at sixteen and has run the Tacit Office for eleven years. She wrote the sealed report on Ket the Ninth. She measured Merit Tome, Ilan, Asha Kindle, and half the Bench.
+
+#### Their Place in the Land
+
+Her ledgers decide Tongue-line marriages and inheritances, and tell the Bench which houses to bit. She knows which nobles are nearest the Brink, which children may be crowned, and which bloodlines the Reckoners would most like to end.
+
+#### What They Carry
+
+- **Cutwright's calipers** — brass, +2 Lore to judge Cut.
+- **The Office ledgers** — Oathen's Regrowth, house by house.
+- **A cracked right hand** — see below.
+
+#### Wants, Fears and Secrets
+
+She wants to save Ilan, privately, against College policy. **Secret:** the Tongue-lines at the Course have doubled in five years; by her figures Oathen will see a second Sayer outside the Cells within three. **Unknown to her:** writing binds now, and she has been writing false numbers for her own tongue's length in the ledger every night. Her right hand has begun to crack along the palm, and she believes it is the dry wind.
+
+#### Ties
+
+- **Garl Tome** — hates her; she sends him fig cake.
+- **Ket the Ninth** — she has seen his tongue. She will not describe it.
+- **Brother Ansgar Mote** — refuses to sell her a tongue.
+
+#### In Play
+
+PCs meet her when they need a Cut read, or when the College wants an Oathener measured who will not sit still. **Seeds:** steal the Office ledger for the Forsworn; carry Merit's measurements to House Hushwell; help her save Ilan. Threat she meets with a ledger; kindness with candour; the god with numbers. If nobody intervenes, her hand splits to the wrist on the night she writes the true figure.
+
+[box: Said of Them]
+"She measured my boy and told me the number. I said thank you. I meant it. I hate her." — a Tongue-line mother
+"Lisk knows the date of every Seating in Tacit. I'd like her on the Bench. I'd like her under it more." — a Bencher
+"She held my chin very gently. Then she wrote something down and her hand was bleeding." — Merit Tome, in handtalk
+[/box]
+

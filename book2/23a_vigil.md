@@ -1178,7 +1178,7 @@ A slight, gentle, bookish man, pale from twelve years under lamps, with brown ha
 
 #### Their Story
 
-His grandmother, Ida Marre, put down four hundred people in the Pinchmarket in 533 with one yawn, the Market Yawn, and the Glass House was built for her. Lukas was born in 598 with the same jaw and did not know it. At nineteen, in 629, standing in the Lower Square of the Pinchmarket on a grey afternoon, he yawned, and two hundred and six people lay down around him. He has been in the Glass House since.
+His grandmother, Ida Marre, put down four hundred people in the Pinchmarket in 533 with one yawn, the Market Yawn, and the Glass House was built for her. Lukas was born in 610 with the same jaw and did not know it. At nineteen, in 629, standing in the Lower Square of the Pinchmarket on a grey afternoon, he yawned, and two hundred and six people lay down around him. He has been in the Glass House since.
 
 #### Their Place in the Land
 

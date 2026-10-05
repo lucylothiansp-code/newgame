@@ -1403,3 +1403,74 @@ She wants Oriel free. **Secret:** in the wet surface of the Warden's eyes, betwe
 "WRITE MORE OFTEN." — Thaddeus Knell, on a slate
 "Lisbet holds my hand when I close them. She counts. She never lets me get past ten." — Lady Oriel Stroud
 [/box]
+
+## Webs of the Vigil
+
+> The eye is patient. Be rude.
+>> — Vigil proverb
+
+Nobody in the Vigil is unwatched for long, and nobody watches without wanting something. The table below lays out the cast of both halves of this chapter: what each wants from whom, what each fears, and what each owes.
+
+| Character | Wants from | Fears | Owes |
+| Ilvane Stroud | Dray: a yes from the Regent | her daughter's eyelids | the number to a dead Matron's lips |
+| Oriel Stroud | Lisbet: ten breaths, held | a lidless husband | Lisbet her sanity |
+| Brannoch Pyre | Grimmer: an answer, not his own | his own nails | Merrit a bed visit |
+| Cecily Dorm | Larch: belief | her own pillow-hands | four sleepers their lives |
+| Vesper Null | Corwin: what he heard | doors | the room her body |
+| Corwin Half-Bell | Hobb: his life back | the knock | Nettle everything |
+| Thaddeus Knell | Maud: agreement | a silent quarter | his daughter a quarter |
+| Mirela Sconce | Hobb: the truth entered | her wanting | the figure a chair |
+| Jack Tenterhook | Quell: his purse, unread | boredom; his name | Agathe his art |
+| Hale Grimmer | Larch: a confession | his own palms | Ottile Venn, unknowing |
+| Odile Farthing | Marten: one word | what comes back | Mirela a slate |
+| Benedikt Lour | Stroud: time | the Watch's haste | the room his plans |
+| Rook Quarter-Bell | Crane: a buyer | the column | Dry Jonah for casks |
+| Castellan Dray | Grue: a price | his own report | Stroud his honesty |
+| Sabine Larch | Dorm: silence | the arithmetic | Ilse, bed 3,315 |
+| Constance Hobb | Mirela: obedience | her clerk's tally | Corwin a life |
+| Agathe Pinch | Jack: to come home | fifty years of error | Ansgar Wakely nineteen years |
+| Teodor Rell | Annick: forgiveness | the warm rows | the Lain Book a line a day |
+| Evander Quell | Aveline: to sit up | a door | the Second Table a god |
+| Joss Mallory | Larch: the other column | the back hall | the Company his inn |
+| Hesper Coyle | Grimmer: a true record | her hands | her mother a visit |
+| Lisbet Wakely | Oriel: freedom | the Warden's eyes | the Warden a memory |
+
+### Three Webs That Will Burn
+
+**The Killing Chain: Quell, Larch and Tenterhook.** Sabine Larch built the Lessening to keep the number from being reached. Evander Quell, who wants it reached, sits beside her on the Stair and calls her his friend. Larch pays Jack Tenterhook to keep six Watchers blinking so they will vote her lists through; Quell pays Jack a second purse to read names to those same blinking Watchers at the last bell, and the names are Larch's own copyists and orderlies. The room hears. The forty-one dead in Hale Grimmer's case-books are the Lessening's people, killed by the god through the hands of those who loved them, and steered to them by a Second Table lord who wants the Counted protected until the night he can carve what they become. Jack has finally noticed his names die. The last list ends with his own name, and Larch's under it. When Jack reads it aloud, as he will, because he finishes what he starts, the chain eats its own two ends, and Quell is left alone with the keys, the knives and the choir. A party who untangles the chain early can turn any of the three against the others; the worst outcome is to expose only Larch, which hands Quell the field.
+
+**The Door: Vesper, Corwin and Aveline.** Two people have come back from the room: Corwin, who turned around and was seen, and the thing in Vesper's body, which came back on purpose. Corwin is afraid of Vesper because he believes she went past the door on her way back. Vesper wants Corwin to tell her what he heard because the real Vesper, standing at the back of the room, is listening to the same knock. And Aveline, in Bed One, is naming the people who will stand in the wall between the door and the eye. The three of them, together, are the only key in the Vigil to what is really happening in the long room. If Corwin and Vesper are ever brought to Bed One at the same bell, the rows will turn toward them, Aveline's lips will move, and whoever is listening will hear the knock from this side.
+
+**The Price of the City: Stroud and Dray.** The Warden-Prime and her envoy are old friends who have never lied to each other in forty years, and both are now lying by omission. Dray has not sent the report that the Kept cannot leave Sallowreach, because he knows she will say yes. Stroud has not told Dray that she knows the number, or that she has already decided to leave the sixty thousand Counted behind on the Lid, unwatched, when the city goes north to die. Bell Lisle's dispatch, on the Rim Road now, is the hinge. When it arrives, both of them will tell the truth at last, by letter, and agree. The party is likely to be carrying the letter.
+
+[bigquote] We are all of us standing between a door and an eye, and the only question is which way we are facing. | — Senna Vole, in her forty-first dive report, unsubmitted
+
+## Using the Vigil's People
+
+The Vigil comes to the party; there is nowhere to rest in it, so people come and find you where you stand. Roll a d20 when someone knocks, or when a scene needs a face. Remember who knocks politely.
+
+| d20 | Who's at the Door? | Why |
+| 1 | Vesper Null | She heard a character weeping three streets away and has come to tell them it is all right to rest. |
+| 2 | Corwin Half-Bell | He heard a knock inside the party's lodgings, from a wall with no door. He will not come in. |
+| 3 | Thaddeus Knell | The nearest tower missed a quarter. He needs strong arms on the rope now, and good ears afterwards. |
+| 4 | Mirela Sconce | The party were seen in a Seeming last night. She needs their statements before the Registrar strikes it. |
+| 5 | Jack Tenterhook | A client asked for the party by name in a blink. He would like to know why, and he has brought pins. |
+| 6 | Hale Grimmer | One of the party's contacts is on the Lessening's pay-roll. He wants them watched for three watches. |
+| 7 | Odile Farthing | Marten is walking, and turned toward the party's street. She wants them to see where he goes. |
+| 8 | Benedikt Lour | He needs foreigners to test whether the new Dormitory wing is restful. He says it is quite safe. |
+| 9 | Rook Quarter-Bell | His sister has joined the column. He will pay in rouse, which is all he has. |
+| 10 | Castellan Dray's courier | Dray needs an honest foreign witness in Lastgate, and a fourth volunteer. |
+| 11 | An orderly with Bed One's notebook | Today's name, in the Matron's hand, is one of the party's. |
+| 12 | Sabine Larch | She has done the arithmetic on the party, and would like to approach. |
+| 13 | Constance Hobb's clerk | The party are entered in the Record as dead since this morning, on thirty witnesses. |
+| 14 | Agathe Pinch | One of the party has blinked badly. She offers a week in her stall, free. |
+| 15 | Teodor Rell | A note naming one of the party has been entered in the Lain Book. He wants to know if it is true. |
+| 16 | Evander Quell's choirboy | An invitation to dine, standing, and to hear a song. |
+| 17 | A Last Beds porter | Mallory sent him up the Pilgrim Road. The back hall is empty, and the doors are open. |
+| 18 | Hesper Coyle | She blinked out of the Rattlehouse and is standing in the party's doorway, hands bound, asking to be pinched. |
+| 19 | Lisbet Wakely | Lady Oriel has slept, for a full minute, and woken, and asked for the party by name. |
+| 20 | A tall figure in a grey coat | It stoops under the doorway. It has a cloth over one arm. It asks, politely, how many are dining. |
+
+[box: GM Advice — Running a Cast That Never Sleeps]
+Every person in this chapter is tired, and every scene with them should carry it: a dropped word, a lost second, a pin twisted in a palm. Let NPCs blink in front of the party and come back having moved. Let them repeat themselves, mishear, accuse the party of things the party did not do. Keep a private note of each NPC's Weariness and nudge it upward through a session; when a beloved contact reaches Grey, the players will feel it before you say a word. And remember the city's oldest courtesy: offer a pin. The cast of the Vigil should be met the way the city meets a guest, with a small sharp kindness that keeps everyone, for one more hour, awake.
+[/box]

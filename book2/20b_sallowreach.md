@@ -1140,3 +1140,265 @@ PCs meet her as hunters (Morrow's bounty, 500 lacks), as allies of the Heirs, or
 [/box]
 
 [pagebreak]
+### Lord Absalom Hethe — Hand of the Court, Second Table
+
+> "Do sit. No, not that one. That one is spoken for. It always has been."
+>> — Lord Hethe, to a dinner guest, Hethe House
+
+[stat: Lord Absalom Hethe — Hand of the Court, Second Table]
+Land & Cut: Sallowreach · Cut 4 (Hand-line) · Regrowth 5 (the Appetite) · Hunger 5
+Age & Station: Born 593 A.G.; living, 48; Hand of the Court; secretly of the Second Table
+Calling & Standing: Scion · Standing 4 (Hand of the Court)
+Attributes: Hand 3 · Gut 3 · Lung 2 · Eye 4 · Tongue 5 · Caul 4
+Skills: Deceive 5, Clause 4, Persuade 4, Lore 3, Feast 3, Blades 2, Endure 2
+Flesh 13 · Guard 12 · Armor 0 · Fray 3
+Attacks: rapier +5 (4)
+Gifts: Lidsense; The Shutting; Cold Fingers (he wears dove-grey mittens of the finest kid)
+Wants: Close
+Knacks: Smell of Cedar; Table Manners
+Derangements: none; he is entirely sane, which is the horror of him
+Carries: the dining room; rubbings; Fatlands recipes; the lead coffin's plans; a ledger of bends; a carving-set
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+Handsome, florid, broad-chested, with a beautifully barbered auburn beard and dove-grey mittens. He smells of myrrh and claret. His voice is a rich, amused baritone. He is the most delightful host in Lastgate, and the only man who visits Osric Vane without fear.
+
+#### Their Story
+
+Absalom inherited the Hethe seat at thirty, when his Kept father was Set Aside, a rare thing among the Hand-lines (Hethe paid for it). He was approached by the Second Table in 625, at a dinner in Sated, over a dish he still dreams of. He has prepared ever since. His plan is simple: when a god is ready to be eaten again, it must first be held still. The Hand-lines can close. Osric Vane, at the Brink, can close anything. Carried in a lead coffin to the Rim, Osric could still a regrowing god on the table.
+
+#### Their Place in the Land
+
+As a Hand of the Court he may grant one Closing a year without fee, and he sits on the Quiet Market party, which wants to sell Hushes as estates. Through Ivo Vane he buys the seasonal bend in the Closing list. He uses both to remove obstacles quietly.
+
+#### What They Carry
+
+- **The dining room** — at Hethe House, eight chairs; the eighth, at the end, is carved with a figure chiseled out, copied from a College rubbing. Nobody sits there.
+- **Rubbings** — from the Ferrying Post, made every few years by the Tarman, of the gouge as it reopens.
+- **Fatlands recipes** — a bound collection, including one written in a hand nobody can identify, for a dish served to "the guest at the end."
+- **The lead coffin's plans** — drawn by a Vigil clockmaker; breathing holes lined with lead mesh.
+- **A carving-set** — black-handled, never used. It was a gift from the Second Table.
+
+#### Wants, Fears and Secrets
+
+He wants to sit at the second meal. He fears nothing he will admit to; privately, he fears the eighth chair, and sets it every night.
+
+**Secret (GM may reveal):** He is the Second Table's man on the Court and plans to carry Osric to the Rim. He has also been buying Marrow Jack's Cradlewrack Parts and Halloway's grey joints, for a friend in Cradlewrack who is assembling something.
+
+**Secret he does not know:** Lady Corrow Vane has known about him since 638, and lets him visit Osric because she hopes he will take her brother away.
+
+#### Ties
+
+- **Osric Vane** — his weekly visit; his future instrument. They play chess. Osric wins.
+- **Ivo Vane** — sells him the list's bend each season.
+- **Provost Sedge** — he wants the Map. He is patient.
+- **Ebb Totter** — pays him a lack a rubbing.
+- **Sister Lorn's Lamp Orla Fenn** — his informer.
+
+#### In Play
+
+PCs meet Hethe as a patron (generous, charming, paying lavishly for odd errands: a rubbing, a Part, a recipe from Sated). Hooks: escort a lead coffin "of wine" to Fogmouth; dine with him and be asked not to sit in a certain chair; discover a Closing he granted was a murder. If nobody intervenes, Osric leaves Glovehall in the lead coffin in Grace 642 and Sallowreach's Hushes, without their strongest source, slow, for a season, while somewhere on the Rim a god is held still.
+
+[box: Said of Them]
+"Lovely man. Tips in platters." — a Hethe House footman
+"Absalom eats as if he is practising." — Lady Corrow Vane
+"He asked me how a god tastes. I said I've only had the one." — Grandfather Peat, as translated by Provost Sedge
+[/box]
+
+### Dunstan Reave — the Last of Dunmere
+
+> "From here, on a clear night, you can see my roof. Second from the chapel. That's my chimney. No smoke. Course not."
+>> — Dunstan Reave, at the Dunmere edge
+
+[stat: Dunstan Reave — the Last of Dunmere]
+Land & Cut: Sallowreach · Cut 1 (Scrapling) · Regrowth 0 · Hunger 0
+Age & Station: Born 606 A.G.; living, 35; reed-cutter, guide to the Dunmere edge
+Calling & Standing: Delver · Standing 1
+Attributes: Hand 3 · Gut 3 · Lung 3 · Eye 3 · Tongue 2 · Caul 2
+Skills: Wayfaring 4, Labor 3, Search 3, Athletics 2, Endure 2, Blades 1
+Flesh 13 · Guard 15 · Armor 1 (oilskin) · Fray 8
+Attacks: reed-hook +4 (3, Hooking)
+Gifts: none
+Wants: none of the god's
+Knacks: Corpse-Road Walker; Scrap-Born Luck
+Derangements: The Pull (triggered by any clear evening at the edge)
+Carries: the spyglass; a reed-hook; a coil of marked rope; his wife's comb; a tin of the children's buttons
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Weathered, tall, quiet, with reed-cuts on his hands and a beard grown out since 633. He smells of smoke and wet wool. He speaks in short sentences and looks past people, north.
+
+#### Their Story
+
+Dunstan was a reed-cutter of Dunmere with a wife, Orla, two children, and his Kept parents in the back room. On the night Dunmere went silent he was not, as he tells it, at market. He had quarrelled with Orla and walked out, intending not to come back, and slept in a ditch on the Lastgate road. In the morning he walked home to apologise. The reeds were grey. He has camped at the edge every night since.
+
+#### Their Place in the Land
+
+He guides Finishers, Court surveyors, Heirs and the curious to the Dunmere edge for free, by paths no one else knows. The Finishers bring him food. Captain Morrow's cordon lets him be.
+
+#### What They Carry
+
+- **The spyglass** — brass, Company-made, bought with every lack he had. From one hummock, on a clear evening, it shows his roof.
+- **Marked rope** — a coil marked every yard. He has tied it to a stake at the edge and, some nights, walked out along it in his mind.
+- **Orla's comb** — horn, left in his coat pocket the night he walked out.
+- **A tin of buttons** — from the children's coats. He counts them.
+
+#### Wants, Fears and Secrets
+
+He wants someone who goes in to come back and tell him whether they looked peaceful. He fears they will say yes.
+
+**Secret (GM may reveal):** He walked out on them. He has told no one.
+
+**Secret he does not know:** Edda Thrush's drawing shows his house. Orla is lying in the kitchen doorway, facing the road, as if she had gone to the door to look for him.
+
+#### Ties
+
+- **Edda Thrush** — he has begged her to guide him in.
+- **Sister Lorn** — sits with him; neither will say why the other cannot walk in.
+- **Jory Welt** — the Heirs use his paths. He does not ask what for.
+- **Bram Hollin** — is planning him a funeral without bodies.
+
+#### In Play
+
+He is the PCs' guide to Dunmere. Hooks: carry his spyglass in and look at his roof from the inside; stop him the night he decides to follow the rope; bring back Orla's comb's twin from the kitchen. If nobody intervenes, he goes in on the first clear night of Plenty 642, holding the rope, and the rope goes slack at a yard marked *forty-one*.
+
+[box: Said of Them]
+"He guided us to the edge and wouldn't take a crumb. Said, 'Just tell me.' Tell him what?" — a Fatlands traveler
+"Best paths in the north fen. He knows every dry hummock to Dunmere." — Captain Morrow
+"He counts buttons. I've seen him. Two little coats' worth." — a Finisher Singer
+[/box]
+
+### Ebb Totter — the Tarman of the Ferrying Post
+
+> "I tar it. It opens. I tar it. That's the job. You don't ask a job what it wants."
+>> — Ebb Totter, the Landing
+
+[stat: Ebb Totter — the Tarman of the Ferrying Post]
+Land & Cut: Sallowreach · Cut 1 (Scrapling) · Regrowth 0 · Hunger 0
+Age & Station: Born 302 A.G.; Kept since 338 (died at thirty-six, of a fall from the Post); the Court's tarman since 341
+Calling & Standing: none (a Court laborer; Standing 1, unchanged in three hundred years)
+Attributes: Hand 3 · Gut 3 · Lung 1 · Eye 3 · Tongue 1 · Caul 4
+Skills: Craft 3, Labor 3, Resolve 4, Endure 2, Search 2
+Flesh 13 · Guard 11 · Armor 1 (three centuries of tar) · Fray 7
+Attacks: tar-brush +3 (1); he has never needed one
+Gifts: Kept (Rot 7, Ruinous, but the tar holds him)
+Wants: none
+Knacks: Silent Supper; Unflinching
+Derangements: The Count (he counts the times the gouge has reopened; it is always one short of what he wrote)
+Carries: the tar-pot; the brush; the tally-stick; a ladder; a lump of wood
+Dread: 2 (to see him up close, glossy black, mostly tar)
+[/stat]
+
+#### Who They Are
+
+A short, thick Kept man coated so many times in his own work that he is glossy black from crown to boots, cracked like old varnish at the joints, smelling hot and sweet of pine-tar. Only his eyes move freely. He speaks seldom, in a creak.
+
+#### Their Story
+
+The carving on the Ferrying Post shows a table with eight places, the eighth gouged out. In 341, the year Ansel Grue became Regent, the Court paid Ebb a crumb a week to tar it over, because the gouge kept looking fresh and the Landing whispered. He has tarred it every time it reopened since: three hundred and twelve times. He has never seen anyone open it. He sat up with it once, for a whole year in 509, never looking away. On the last night he blinked. In the morning it was open.
+
+#### Their Place in the Land
+
+He is part of the Landing: children dare one another to touch him, ferrymen nod. The Court has forgotten why it pays him. Lord Hethe has not.
+
+#### What They Carry
+
+- **The tar-pot and brush** — the pot is the same iron one since 341. In Sallowreach, its fire has never gone out.
+- **The tally-stick** — a yard of oak, notched three hundred and twelve times.
+- **A lump of wood** — pale, fresh, from inside the gouge, which he found on the mud under the Post in 640. It is cut cleanly by a tool he does not recognise.
+
+#### Wants, Fears and Secrets
+
+He wants to know who does it. He fears to know.
+
+**Secret (GM may reveal):** The reopenings have grown more frequent: once a decade until 600; once a year since 633; three times since Tablenight 640.
+
+**Secret he does not know:** The lump of wood, set against the gouge, fits; and if held to the ear it hums the low G of Bram Hollin's pitch-pipe.
+
+#### Ties
+
+- **Lord Hethe** — pays a lack a rubbing.
+- **Tam Ruddock** — moors his punt at the Post; brings Ebb tar.
+- **Grandfather Peat** — has, through Sedge, asked to be carried to the Post. Ebb would like that.
+- **Bram Hollin** — Ebb asked him once whether there is a song for a chair nobody sits in.
+
+#### In Play
+
+Hooks: watch the Post for a night (the GM decides what is seen: nothing, or a shadow without a body, or a PC's own hands with a chisel); deliver the lump of wood to Sedge; stop Hethe's men from cutting the carving out whole. If nobody intervenes, Ebb tars it until the Grace ends.
+
+[box: Said of Them]
+"Old Tarman? He's furniture." — a Landing ferry-boy
+"He has outlasted every theory about that carving." — Provost Sedge
+"Don't watch the Post on Tablenight. Just don't." — a fishwife
+[/box]
+
+### Ivo Vane — the Untouched
+
+> "My mother has finished eleven thousand people. I'm the only one she's taken care never to touch."
+>> — Ivo Vane, drunk, the Upper Boards
+
+[stat: Ivo Vane — the Untouched]
+Land & Cut: Sallowreach · Cut 5 (Hand-line) · Regrowth 3 (the Taste) · Hunger 3
+Age & Station: Born 601 A.G.; living, 40; Licenser of the Mortuary Court; Lady Corrow's elder son
+Calling & Standing: Scion · Standing 2 (Licenser)
+Attributes: Hand 3 · Gut 2 · Lung 2 · Eye 4 · Tongue 4 · Caul 3
+Skills: Clause 4, Reckoning 3, Persuade 3, Lore 3, Deceive 3, Blades 2
+Flesh 10 · Guard 14 · Armor 0 · Fray 6
+Attacks: dress-sword +5 (4)
+Gifts: Lidsense; the Quiet Hand
+Wants: Close
+Knacks: Smell of Cedar; Kin-Sense (he always knows where his mother is)
+Derangements: The Devotion (to his mother, who has never once looked at him for longer than courtesy requires)
+Carries: the license-seal; the waiting list; copies of Henna Farrow's petitions; a child's glove; a purse of Hethe platters
+Dread: 0
+[/stat]
+
+#### Who They Are
+
+Tall, ash-blond, very like his mother, with her stillness and none of her silence: he talks fast and laughs too loud. He smells of cedar and ink. He wears black kid gloves he does not yet need.
+
+#### Their Story
+
+Ivo was raised by nurses at Glovehall and taught to keep three paces from his mother. He has never touched her skin. At six he ran to her across a room; a nurse caught him at two paces and Lady Corrow did not move. He went into the Court's service at twenty and became Licenser at thirty-one.
+
+#### Their Place in the Land
+
+He drafts and seals every Closing license, and may bend the waiting list by one name a season. He sells that bend to Lord Hethe. He reads every petition, including all of Henna Farrow's.
+
+#### What They Carry
+
+- **The license-seal** — the closed eye, in red wax.
+- **The waiting list** — eight years long. His mother's hand works down it.
+- **Henna's petitions** — copied, all forty-one. He does not know why.
+- **A child's glove** — his own, kid, age six, the one he took off to run to her.
+
+#### Wants, Fears and Secrets
+
+He wants his mother to touch him once. He fears that she would, and what it would mean.
+
+**Secret (GM may reveal):** He has drafted a license in his own name and signed the Regent's signature himself. It is in his desk.
+
+**Secret he does not know:** His mother keeps him at three paces because, at nine, he fell ill with a fever, and she sat by his bed all night with her gloved hand an inch above his forehead, and her hand began, through the glove, to close him. She has not forgiven herself.
+
+#### Ties
+
+- **Lady Corrow Vane** — his mother. See above.
+- **Osric Vane** — the uncle who writes him kind letters through the door.
+- **Lord Hethe** — buys his bend.
+- **Henna Farrow** — he has never met her, and thinks of her daily.
+
+#### In Play
+
+Hooks: Ivo offers PCs a place on the list for a favor; he asks them to forge his mother's consent on his license; he moves Henna's petition to the top and needs Fenwick Lisp to swear. If nobody intervenes, he presents his forged license at the Hall of Closings in 642, in Chamber Five, and his mother's clerk unpicks nine stitches, and his mother sees whose name is on the license, and stops.
+
+[box: Said of Them]
+"Master Ivo's always polite. He holds the door, then shuts it very soft." — a Hall of Closings porter
+"He's the only Vane who laughs. Not well." — Lord Hethe
+"I'd rather be a Small than a Vane child." — Little Nell Ash
+[/box]
+
+[pagebreak]

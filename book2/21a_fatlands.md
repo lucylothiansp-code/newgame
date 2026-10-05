@@ -1192,3 +1192,80 @@ If nobody intervenes, she reaches the far field in a decade.
 "Always right. Always hungry." — a Bailiff
 "She asked for my boy." — Pell Hogget
 [/box]
+
+### Dr. Emmerich Paunch — the Board's Physician
+
+> "Two hundred feet of line, and no bottom. I have nine hundred more in the cupboard. I need only someone to hold the rope, and someone to tell me what I am hearing."
+>> — Dr. Emmerich Paunch, to a Vigil colleague, by letter, 639 A.G.
+
+[stat: Emmerich Paunch — Physician to the Board]
+Land & Cut: Fatlands · Cut 3 (Prime Cut, the Paunch caul-fat line) · Regrowth 4 (the Appetite) · Hunger 5
+Age & Station: 61; Physician to the Board of Plenty since 621; Fellow of the Cutwrights' southern registry
+Calling & Standing: Midwife (the belly-surgeon's road) · Standing 4 (by Board appointment)
+Attributes: Hand 3 · Gut 3 · Lung 1 · Eye 5 · Tongue 2 · Caul 2
+Skills: Stitching 5, Reckoning 4, Lore 4, Search 3, Feast 2, Resolve 2, Endure 1, Blades 1
+Flesh 12 · Guard 12 · Armor 0 · Fray 6
+Attacks: scalpel +4 (2, Piercing)
+Gifts: Iron Belly (Taste). Taste the Name (Appetite): he uses it clinically, on blood samples, and records the results. The Two Questions (Calling): he can tell a Seated thing from a living one at a glance.
+Wants: The Second Plate (he eats from a bag of cracklings at his elbow, absently, while operating); and his own: to measure
+Knacks: Steady Hands, Counting Habit, Mother's Hands
+Derangements: The Seeing (since 637 he sometimes sees, in any open stomach, a long way down)
+Carries: the surgeon's case, the plumb line, the chewed weight, the notes, the silk, the trumpet
+Dread: 1
+[/stat]
+
+#### Who They Are
+
+A stooped, heavy, myopic man of four hundred pounds, which in the Fatlands is slight for a Prime Cut, with ink-stained cuffs, thick spectacles, a grey frock-coat shiny at the elbows, and a voice like a dry quill. His hands are fine and steady. He peers at everything from too close. He smells of carbolic, ink and cracklings. He is courteous, distracted and precise, and he speaks of the most dreadful things in the flat tone of a man reading out an inventory, because he has found that it is the only way to say them at all.
+
+#### Their Story
+
+Emmerich Paunch was born in Sated in 580, studied the belly-surgeon's art in Cradlewrack under the Attendance and came home to serve the Board in 621. He measures the great. Every Gut-line member is weighed, sounded and recorded by him once a month, and the Board relies on his figures for the Weighing and on his discretion for everything else. He has opened many bellies, living and dead, and published nothing.
+
+In 637, under licence, he opened the stomach of Dame Ottoline Gammon, a Gut-line matriarch at the Brink, rooted in her bedroom in the Fold, who had consented to the procedure as a contribution to science. He meant to measure her capacity. He lowered a plumb line into the opening. He ran out of line at two hundred feet. The house was on one floor. When he drew the line up, the lead weight had been chewed.
+
+He has since obtained longer line, nine hundred feet of Vigil silk, and has not been able to bring himself to use it, because of what he heard echoing up the first one.
+
+#### Their Place in the Land
+
+He is the Board's doctor and its quiet expert on the Regrowth: he certifies rootings, records the Course, attends the Chairman weekly, and advises the inner committee on the progress of the Gut-lines. He depends on the Board for licence, money and protection, and the Board depends on him for figures it can trust. His limit is his fear: he knows a great deal and can publish none of it.
+
+#### What They Carry
+
+- **The surgeon's case** — Cradlewrack steel, silver-mounted; +1 Stitching.
+- **The plumb line** — two hundred feet of tarred cord, coiled in a box, still smelling of the inside of Dame Gammon.
+- **The chewed weight** — a pear-shaped plumb of lead, deeply scored with tooth-marks. They are human, adult, many sets; one of them left a smear of silver from a filling.
+- **The notes** — *Notes Toward a Measure of the Southern Appetite*, unpublished, four hundred pages.
+- **The silk** — nine hundred feet of Vigil silk line, on a brass reel, never used.
+- **An ear-trumpet** — brass, through which he listened at the opening. He has not used it since.
+
+#### Wants, Fears and Secrets
+
+He wants to publish, and to finish the measurement. He fears the Board, and what he heard.
+
+**Secret (the GM may reveal):** What he heard echoing up the line was chewing, slow and enormous, and under it many voices saying the grace, naming fields, and at the very bottom, very faint, a voice asking *Is there any more?*
+
+**Secret (he does not know):** Every Gut-line stomach opens into the same place: the stomach of Ummer, under the plains. When his weight went down, the Chairman, rooted in the Weighhouse two miles away, felt it pass inside him.
+
+#### Ties
+
+- **Chairman Obb Tullow** — his patient, who knows more than he says.
+- **Dame Suet Marrable** — who has asked him, very sweetly, to measure her.
+- **Granny Cracknel** — who could match the silver filling.
+- **Dr. Mercy Thrane** of the Fast — his correspondent.
+
+#### In Play
+
+He will pay adventurers very well to hold the rope: one hundred lacks each, and a share of the credit.
+
+- **Hold the Rope.** Dame Gammon is at the Seating; the opening is still there.
+- **The Filling.** The PCs match the silver to a molar found in a split ear of wheat.
+- **The Notes.** The Board wants them burned.
+
+**Threatened,** he gives up his notes. **Shown kindness,** he explains. **Faced with the god,** he measures. If nobody intervenes, he lowers the silk alone in 642, and it comes up chewed.
+
+[box: Said of Them]
+"He listens at bellies like a priest at a door." — a Washer of the Fold
+"Discreet, accurate, frightened. The ideal physician." — Chairman Obb Tullow
+"He weighed my mam every month for nine years and never once said she looked heavy." — a Gammon grandson
+[/box]
