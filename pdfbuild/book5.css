@@ -1,0 +1,187 @@
+:root {
+  --gold: #b79c63;
+  --gold-hi: #d8bf86;
+  --gold-dim: #7d6a45;
+  --ink: #d9d1c3;
+  --ink-dim: #a39a8b;
+  --panel: rgba(8, 7, 6, 0.62);
+}
+@page {
+  size: 8.5in 11in;
+  margin: 0.8in 0.72in 0.85in 0.72in;
+  background: #100e0c url('TEXTURE_URL') center / 100% 100% no-repeat;
+  @bottom-right { content: "PLATES OF THE TABLE   \2502   " counter(page); font-family: 'Josefin'; font-size: 7.5pt; letter-spacing: 0.32em; color: #9c865a; padding-bottom: 0.25in; }
+}
+@page :left {
+  @bottom-right { content: none; }
+  @bottom-left { content: counter(page) "   \2502   THE LONG GRACE"; font-family: 'Josefin'; font-size: 7.5pt; letter-spacing: 0.32em; color: #9c865a; padding-bottom: 0.25in; }
+}
+@page bare { @bottom-right { content: none; } @bottom-left { content: none; } }
+@page bare:left { @bottom-right { content: none; } @bottom-left { content: none; } }
+
+html { background: #100e0c; }
+body { margin: 0; color: var(--ink); font-family: 'Garamond', serif; font-size: 10.4pt; line-height: 1.38; -webkit-print-color-adjust: exact; print-color-adjust: exact; hyphens: auto; }
+p { margin: 0 0 0.45em; text-align: justify; orphans: 2; widows: 2; }
+.cols p + p { text-indent: 1.1em; }
+.cols p.field, .cols p.quick, .cols .box p, .cols .fiction p { text-indent: 0; }
+strong { color: #efe6d4; font-weight: 600; }
+em { font-style: italic; }
+a { color: inherit; text-decoration: none; }
+
+.cols { column-count: 2; column-gap: 0.32in; margin: 0.12in 0 0; }
+.cols > :last-child { margin-bottom: 0 !important; }
+.cols + .dossier-head, .cols + h2 { margin-top: 0.2in; }
+.cols > * { break-inside: auto; }
+
+/* ------- headings ------- */
+h1, h2, h3, h4 { font-weight: 400; margin: 0; }
+h2 { font-family: 'Josefin'; font-weight: 300; text-transform: uppercase; letter-spacing: 0.22em; color: var(--gold); font-size: 21pt; line-height: 1.15; margin: 0.35in 0 0.12in; break-after: avoid; padding-bottom: 0.06in; border-bottom: 0.6pt solid var(--gold-dim); }
+h2::before { content: "\25BC  "; font-size: 9pt; vertical-align: 0.25em; color: var(--gold-hi); letter-spacing: 0; }
+h2.h2-break { break-before: page; margin-top: 0.1in; font-size: 26pt; text-align: center; border: none; padding-top: 1.2in; }
+h2.h2-break::before { content: ""; }
+h2.h2-break::after { content: ""; display: block; width: 2.4in; margin: 0.18in auto 0.3in; border-top: 0.6pt solid var(--gold); }
+h3 { font-family: 'Josefin'; font-weight: 400; text-transform: uppercase; letter-spacing: 0.18em; color: var(--gold); font-size: 12pt; margin: 0.18in 0 0.06in; break-after: avoid; }
+h3.artifact { font-size: 13pt; color: var(--gold-hi); margin-top: 0.22in; }
+h3.artifact::before { content: "\25C7  "; color: var(--gold); font-size: 9pt; vertical-align: 0.15em; }
+h4 { font-family: 'Josefin'; font-weight: 600; text-transform: uppercase; letter-spacing: 0.16em; color: var(--gold); font-size: 8.4pt; margin: 0.13in 0 0.04in; break-after: avoid; }
+
+/* ------- dossier head (full width) ------- */
+.dossier-head { break-before: page; text-align: left; margin: 0.05in 0 0.1in; break-after: avoid; }
+.dossier-head h3 { font-size: 24pt; font-weight: 300; letter-spacing: 0.16em; color: var(--gold-hi); margin: 0.06in 0 0; line-height: 1.12; }
+.dossier-head .dh-epithet { font-family: 'Cormorant'; font-style: italic; font-size: 15pt; color: var(--ink-dim); margin-top: 2pt; }
+.dossier-head .dh-rule { height: 0; border-top: 0.6pt solid var(--gold); width: 100%; position: relative; }
+.dossier-head .dh-rule::after { content: ""; position: absolute; right: 0; top: -3.5pt; width: 6pt; height: 6pt; border: 0.6pt solid var(--gold); transform: rotate(45deg); background: #100e0c; }
+
+/* ------- epigraph & big quote ------- */
+.epigraph { margin: 0.12in 0.9in 0.18in; text-align: center; break-inside: avoid; }
+.ep-line { font-family: 'Cormorant'; font-style: italic; font-size: 13.5pt; color: #cfc4ad; line-height: 1.3; }
+.ep-attr { font-family: 'Josefin'; font-size: 7.6pt; letter-spacing: 0.24em; text-transform: uppercase; color: var(--gold); margin-top: 6pt; }
+.bigquote { text-align: center; margin: 0.45in 0.4in 0.5in; break-inside: avoid; line-height: 1.05; }
+.bq-text { text-transform: uppercase; }
+.bq-big { font-family: 'Cormorant'; font-weight: 600; font-size: 25pt; color: var(--gold-hi); letter-spacing: 0.06em; }
+.bq-small { font-family: 'Josefin'; font-weight: 300; font-size: 11pt; color: var(--gold); letter-spacing: 0.2em; }
+.bq-attr { font-family: 'Josefin'; font-size: 8pt; letter-spacing: 0.3em; color: var(--gold); margin-top: 0.14in; text-align: right; padding-right: 0.4in; text-transform: uppercase; }
+
+/* ------- boxes, fiction, fields ------- */
+.box { background: var(--panel); border-top: 0.8pt solid var(--gold); border-bottom: 0.8pt solid var(--gold); padding: 8pt 10pt 6pt; margin: 0.12in 0; break-inside: avoid; font-size: 9.6pt; }
+.box-title { font-family: 'Josefin'; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold-hi); font-size: 8.3pt; margin-bottom: 5pt; }
+.box ul { margin: 0 0 4pt; padding-left: 12pt; }
+.fiction { font-family: 'Cormorant'; font-style: italic; font-size: 11.6pt; line-height: 1.3; color: #d2c6ae; border-left: 0.8pt solid var(--gold-dim); padding: 2pt 0 2pt 10pt; margin: 0.12in 0 0.16in; }
+.fiction p { text-indent: 0 !important; margin-bottom: 0.4em; }
+.fiction strong { color: var(--gold-hi); font-style: normal; font-family: 'Josefin'; font-size: 8.5pt; letter-spacing: 0.15em; text-transform: uppercase; }
+p.field { text-indent: 0 !important; margin: 0 0 0.3em; }
+.f-label { font-family: 'Josefin'; font-weight: 600; font-size: 7.6pt; letter-spacing: 0.18em; color: var(--gold-hi); }
+p.quick { text-indent: 0 !important; font-size: 9pt; background: var(--panel); border-left: 2pt solid var(--gold-dim); padding: 3pt 6pt; margin: 4pt 0 8pt; text-align: left; }
+.q-name { font-family: 'Josefin'; font-weight: 600; font-size: 7.8pt; letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold-hi); }
+ul { margin: 0.05in 0 0.12in; padding-left: 14pt; }
+li { margin-bottom: 0.22em; text-align: left; list-style: none; position: relative; }
+li::before { content: "\25C7"; color: var(--gold); position: absolute; left: -13pt; font-size: 8pt; top: 1.5pt; }
+
+/* ------- stat block ------- */
+.stat { margin: 0.14in 0 0.18in; background: var(--panel); border: 0.8pt solid var(--gold-dim); break-inside: avoid; }
+.stat-title { font-family: 'Josefin'; text-transform: uppercase; letter-spacing: 0.2em; font-size: 9pt; color: #15110c; background: linear-gradient(90deg, #a78b53, #cdb47c 50%, #a78b53); padding: 4pt 8pt 3pt; font-weight: 600; }
+.stat table { width: 100%; border-collapse: collapse; font-size: 8.9pt; line-height: 1.3; }
+.stat th { width: 1.25in; text-align: left; vertical-align: top; font-family: 'Josefin'; font-weight: 600; font-size: 7pt; letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold); padding: 3pt 8pt; border-top: 0.4pt solid rgba(183,156,99,0.25); }
+.stat td { padding: 3pt 8pt; border-top: 0.4pt solid rgba(183,156,99,0.25); }
+
+/* ------- data tables ------- */
+table.data { width: 100%; border-collapse: collapse; margin: 0.12in 0 0.2in; font-size: 8.8pt; line-height: 1.28; }
+table.data thead { display: table-header-group; }
+table.data th { font-family: 'Josefin'; font-weight: 600; text-transform: uppercase; letter-spacing: 0.14em; font-size: 7.2pt; color: var(--gold-hi); text-align: left; padding: 4pt 6pt; border-top: 0.8pt solid var(--gold); border-bottom: 0.8pt solid var(--gold); }
+table.data td { padding: 3.5pt 6pt; border-bottom: 0.4pt solid rgba(183,156,99,0.28); vertical-align: top; }
+table.data tr { break-inside: avoid; }
+
+/* ------- sigils ------- */
+.sigil svg, .inline-sigil svg { width: 100%; height: 100%; }
+.inline-sigil { width: 0.7in; height: 0.7in; margin: 0.15in auto 0.05in; color: var(--gold); }
+.opener-sigil { position: absolute; top: 1.5in; left: 50%; width: 2.4in; height: 2.4in; margin-left: -1.2in; color: var(--gold); opacity: 0.85; }
+
+/* ------- chapter opener ------- */
+.opener { break-before: page; break-after: page; page: bare; position: relative; height: 9.2in; }
+.opener-lines { position: absolute; left: -0.72in; right: -0.72in; top: 4.6in; height: 1.2in;
+  background:
+    linear-gradient(transparent 0 0) ,
+    repeating-linear-gradient(90deg, transparent 0 18pt, rgba(183,156,99,0.0) 18pt 19pt);
+  border-top: 0.6pt solid var(--gold-dim); }
+.opener-lines::before, .opener-lines::after { content: ""; position: absolute; left: 0.72in; right: 3.2in; border-top: 0.6pt solid var(--gold-dim); }
+.opener-lines::before { top: 8pt; } .opener-lines::after { top: 16pt; right: 4.4in; }
+.opener-text { position: absolute; right: 0; bottom: 0.9in; text-align: right; }
+.ch-num { font-family: 'Josefin'; font-weight: 300; font-size: 15pt; letter-spacing: 0.32em; color: var(--gold); text-transform: uppercase; }
+.opener h1 { font-family: 'Josefin'; font-weight: 300; font-size: 46pt; letter-spacing: 0.14em; color: var(--gold-hi); text-transform: uppercase; line-height: 1.05; margin-top: 4pt; }
+.ch-sub { font-family: 'Cormorant'; font-style: italic; font-size: 17pt; color: var(--ink-dim); margin-top: 4pt; }
+
+/* ------- part page ------- */
+.part { break-before: page; break-after: page; page: bare; height: 9.2in; box-sizing: border-box; text-align: center; padding-top: 2.4in; }
+.part-sigil { width: 1.8in; height: 1.8in; margin: 0 auto 0.4in; color: var(--gold); }
+.part-label { font-family: 'Josefin'; letter-spacing: 0.4em; color: var(--gold); text-transform: uppercase; font-size: 12pt; }
+.part-title { font-family: 'Josefin'; font-weight: 300; font-size: 40pt; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold-hi); margin: 10pt 0 14pt; }
+.part-sub { font-family: 'Cormorant'; font-style: italic; font-size: 14pt; color: var(--ink-dim); max-width: 5in; margin: 0 auto; }
+
+/* ------- cover & front ------- */
+.cover { page: bare; height: 9.3in; break-after: page; text-align: center; position: relative; }
+.cover-ring { position: relative; width: 4.4in; height: 4.4in; margin: 0.35in auto 0.35in; }
+.cr { position: absolute; width: 0.85in; height: 0.85in; color: var(--gold); }
+.cr-center { position: absolute; left: 50%; top: 50%; width: 1.5in; height: 1.5in; margin: -0.75in 0 0 -0.75in; color: var(--gold-hi); }
+.cover-kicker { font-family: 'Josefin'; font-weight: 300; font-size: 15pt; letter-spacing: 0.6em; color: var(--gold); text-transform: uppercase; }
+.cover-title { font-family: 'Josefin'; font-weight: 300; font-size: 54pt; letter-spacing: 0.18em; color: var(--gold-hi); margin: 6pt 0 8pt; }
+.cover-sub { font-family: 'Josefin'; font-size: 12pt; letter-spacing: 0.5em; color: var(--gold); text-transform: uppercase; }
+.cover-foot { position: absolute; bottom: 0.2in; width: 100%; font-family: 'Josefin'; font-size: 8pt; letter-spacing: 0.3em; color: var(--gold-dim); text-transform: uppercase; }
+.frontis { page: bare; height: 9.2in; break-after: page; display: flex; align-items: center; justify-content: center; }
+.colophon { break-before: page; page: bare; text-align: center; padding-top: 3.2in; color: var(--gold); }
+.colophon svg { width: 1.2in; height: 1.2in; }
+.colophon p { font-family: 'Cormorant'; font-style: italic; font-size: 15pt; text-align: center; color: var(--ink-dim); margin-top: 0.3in; }
+
+/* ------- toc & index ------- */
+.toc, .index { break-before: page; }
+.toc-title { font-family: 'Josefin'; font-weight: 300; font-size: 40pt; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gold-hi); margin: 0.2in 0 4pt; }
+.toc-sub { font-family: 'Josefin'; font-size: 11pt; letter-spacing: 0.3em; color: var(--gold); text-transform: uppercase; margin-bottom: 0.3in; }
+.toc-part { font-family: 'Josefin'; font-weight: 600; letter-spacing: 0.28em; text-transform: uppercase; color: var(--gold-hi); font-size: 10pt; margin: 0.28in 0 0.06in; }
+.toc-row { display: flex; align-items: baseline; font-family: 'Josefin'; text-transform: uppercase; letter-spacing: 0.2em; border-bottom: 0.6pt solid var(--gold-dim); padding: 5pt 0 2pt; }
+.toc-row.lvl1 { font-size: 9.5pt; color: var(--gold); margin-top: 6pt; }
+.toc-row.lvl2 { font-size: 7.4pt; color: var(--ink-dim); border-bottom-color: rgba(125,106,69,0.35); padding-left: 0.25in; }
+.toc-row a { flex: 1; }
+.toc-pg { min-width: 0.5in; text-align: right; color: var(--gold); }
+.index-cols { column-count: 2; column-gap: 0.35in; }
+.ix-row { display: flex; align-items: baseline; font-size: 8.8pt; border-bottom: 0.4pt solid rgba(125,106,69,0.35); padding: 2pt 0; break-inside: avoid; }
+.ix-row a { flex: 1; }
+.ix-land { font-family: 'Josefin'; font-size: 6.4pt; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold-dim); margin: 0 6pt; }
+.pb { break-after: page; }
+
+/* ------- pull quotes ------- */
+.pull { margin: 0.14in 0.05in 0.16in; padding: 8pt 4pt 6pt; border-top: 0.6pt solid var(--gold-dim); border-bottom: 0.6pt solid var(--gold-dim); text-align: center; break-inside: avoid; }
+.pull-q { font-family: 'Cormorant'; font-style: italic; font-size: 13pt; line-height: 1.22; color: var(--gold-hi); }
+.pull-a { font-family: 'Josefin'; font-size: 6.8pt; letter-spacing: 0.24em; text-transform: uppercase; color: var(--gold); margin-top: 5pt; }
+.pull::before { content: "\25C7"; display: block; color: var(--gold); font-size: 8pt; margin-bottom: 3pt; }
+/* ------- character sheet ------- */
+.sheet { break-before: page; page: bare; font-family: 'Josefin'; color: var(--ink); }
+.sheet h1 { font-family: 'Josefin'; font-weight: 300; font-size: 26pt; letter-spacing: 0.2em; color: var(--gold-hi); text-transform: uppercase; text-align: center; margin: 0 0 4pt; }
+.sheet .sh-sub { text-align: center; font-size: 7pt; letter-spacing: 0.3em; color: var(--gold); text-transform: uppercase; margin-bottom: 10pt; }
+.sh-grid { display: grid; gap: 6pt; }
+.sh-box { border: 0.7pt solid var(--gold-dim); background: rgba(8,7,6,0.55); padding: 4pt 6pt; }
+.sh-label { font-size: 6.2pt; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold); }
+.sh-line { border-bottom: 0.5pt solid rgba(183,156,99,0.4); height: 14pt; }
+.sh-attr { display: flex; justify-content: space-between; align-items: center; font-size: 7.6pt; letter-spacing: 0.12em; text-transform: uppercase; padding: 2pt 0; border-bottom: 0.4pt solid rgba(183,156,99,0.2); }
+.sh-attr.head { color: var(--gold-hi); font-weight: 600; font-size: 8.4pt; }
+.dots { letter-spacing: 3pt; color: var(--gold); font-size: 9pt; }
+.track { letter-spacing: 2.5pt; color: var(--gold); font-size: 10pt; }
+.cover-kicker { font-size: 10.5pt; letter-spacing: 0.42em; }
+.cover-title { font-size: 46pt; letter-spacing: 0.16em; white-space: nowrap; }
+
+/* ------- cards ------- */
+.card-grid { display: grid; grid-template-columns: repeat(3, 2.25in); gap: 0.14in; justify-content: center; margin: 0.15in 0 0.2in; }
+.card { width: 2.25in; height: 3.15in; box-sizing: border-box; border: 0.9pt solid var(--gold); outline: 0.5pt solid var(--gold-dim); outline-offset: -5pt; background: rgba(6,5,4,0.75); padding: 10pt 10pt 8pt; break-inside: avoid; display: flex; flex-direction: column; position: relative; overflow: hidden; }
+.card-deck { font-family: 'Josefin'; font-size: 5.6pt; letter-spacing: 0.26em; text-transform: uppercase; color: var(--gold); text-align: center; }
+.card-sig { width: 0.42in; height: 0.42in; margin: 4pt auto 3pt; color: var(--gold); opacity: 0.9; }
+.card-sig svg { width: 100%; height: 100%; }
+.card-title { font-family: 'Josefin'; font-weight: 600; font-size: 8.4pt; letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold-hi); text-align: center; line-height: 1.2; margin-bottom: 4pt; padding-bottom: 4pt; border-bottom: 0.5pt solid var(--gold-dim); }
+.card-text { font-family: 'Garamond'; font-size: 8.1pt; line-height: 1.28; color: var(--ink); text-align: left; }
+.card-text strong { color: var(--gold-hi); }
+/* ------- lexicon ------- */
+p.entry { text-indent: 0 !important; text-align: left; margin: 0 0 0.32em; padding-left: 10pt; text-indent: -10pt !important; font-size: 9.4pt; line-height: 1.3; }
+.e-word { font-family: 'Josefin'; font-weight: 600; font-size: 8.4pt; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gold-hi); }
+.e-pos { font-family: 'Cormorant'; font-style: italic; font-size: 10pt; color: var(--gold); margin-right: 2pt; }
+
+.plate { margin: 0.05in 0 0.16in; border: 0.6pt solid var(--gold-dim); }
+.plate img { display: block; width: 100%; }
+h2 { break-before: page; font-size: 19pt; }
+.cover-title { font-size: 40pt; }
